@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario de Otorrinolaringología</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Cuestionario de Otorrinolaringología</h1>
+            <p class="subtitle">Prueba de conocimiento médico</p>
+        </div>
+
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+        <p class="progress-text"><span id="currentQuestion">1</span> de <span id="totalQuestions">10</span></p>
+
+        <div class="quiz-container">
+            <h2 class="question" id="questionText"></h2>
+
+            <div class="options" id="optionsContainer"></div>
+
+            <div class="button-group">
+                <button id="prevBtn" class="btn btn-secondary" onclick="previousQuestion()">← Anterior</button>
+                <button id="nextBtn" class="btn btn-primary" onclick="nextQuestion()">Siguiente →</button>
+            </div>
+        </div>
+
+        <div class="feedback" id="feedback"></div>
+
+        <div class="score-container" id="scoreContainer" style="display: none;">
+            <h2>¡Cuestionario completado!</h2>
+            <p class="final-score" id="finalScore"></p>
+            <button class="btn btn-primary" onclick="restartQuiz()">Comenzar de nuevo</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

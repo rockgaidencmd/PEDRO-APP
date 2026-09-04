@@ -1,0 +1,127 @@
+{
+  "titulo": "Cuestionario de Otorrinolaringología",
+  "especialidad": "Otorrinolaringología",
+  "totalPreguntas": 10,
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "Acude a la urgencia un paciente hepatópata con plaquetopenia por inflamación cervical y sangrado oral tras exodoncia de 4 piezas dentarias. A la exploración presenta un cuello duro y empastado con equinosis cervical y un abombamiento del suelo de boca que impide al paciente la protrusión de la lengua. Señale la opción CORRECTA en relación a esta situación:",
+      "opciones": [
+        "Debemos derivar al paciente al odontólogo.",
+        "El paciente tiene un hematoma de suelo de boca que puede suponer un peligro para la vía aérea.",
+        "El paciente tiene una angina de Ludwig por lo que habrá que tratarle con un macrólido y corticoides.",
+        "La exodoncia no tiene relación con la situación actual."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La exodoncia en un paciente con riesgo hemorrágico puede causar una hemorragia de suelo de boca que compromia la vía aérea. Todavía no es una angina de Ludwig ya que es un acúmulo de sangre y no de pus, pero se comporta de la misma manera."
+    },
+    {
+      "id": 2,
+      "enunciado": "Señale lo cierto respecto al cáncer de laringe:",
+      "opciones": [
+        "El tipo histológico más frecuente es el adenocarcinoma",
+        "Es más frecuente en mujeres",
+        "Su tratamiento se basa en la radioterapia y quimioterapia",
+        "Se trata del cáncer más frecuente de cabeza y cuello"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El cáncer de laringe es el más frecuente de cabeza y cuello (respuesta 4 correcta), el tipo histológico más frecuente es el epidermoidе (respuesta 1 falsa), es más frecuentes en varones de edad media (respuesta 2 falsa) y su tratamiento se basa en la cirugía asociada a radioterapia en estadios avanzados (respuesta 3 falsa)"
+    },
+    {
+      "id": 3,
+      "enunciado": "Con respecto a la fractura longitudinal del peñasco, es FALSO que:",
+      "opciones": [
+        "La hipoacusia es de transmisión.",
+        "Puede existir otolicuorrea.",
+        "La parálisis facial es más frecuente que en la fractura transversa.",
+        "Puede verse un \"escalón\" en el amnilus timpánico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La fractura longitudinal del peñasco presenta la línea de fractura paralela al eje aéreo y es típica la presencia de hematoma retroauricular, escalón en el amnilus timpánico con otorragia por rotura de la membrana timpánica e hipoacusia de transmisión por luxación de la cadena de huesecillos. Pueden existir otolicuorrea y parálisis facial periférica como en la fractura transversa pero es menos frecuente que en ella (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "id": 4,
+      "enunciado": "Paciente con neurofibromatosis tipo II con hipoacusia neurosensorial, acúfenos unilaterales y con parálisis facial ipsilateral. A la exploración otoscópica se detecta anestesia de la pared posterior del conducto auditivo externo. ¿Cómo se denomina este último signo?",
+      "opciones": [
+        "Signo de Weber.",
+        "Signo de Ramsay-Hunt.",
+        "Signo de Rinne.",
+        "Signo de Hitselberger."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El signo de Hitselberger es un signo que se caracteriza por una alteración de la sensibilidad en la pared posterior del CAE y se debe a la lesión de las fibras sensitivas del nervio facial, que recogen la sensibilidad del área de Ramsay-Hunt (respuesta 4 correcta). En los pacientes con neurofibromatosis tipo II (enfermedad autosómica dominante localizada en el cromosoma 22) son típicos los neuromas en los pares craneales, sobre todo en el VIII par, y de forma bilateral."
+    },
+    {
+      "id": 5,
+      "enunciado": "Señale la cierta con respecto al signo de Schwartz:",
+      "opciones": [
+        "Es patognomónica del neurinoma del VIII par.",
+        "Es la hiperemia del promontorio en la otosclerosis, vista a través del tímpano.",
+        "Se ve en todos los casos de otosclerosis.",
+        "Es la provocación de un nistagmo ante los ruidos fuertes."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: El signo de Schwartz es una mancha rojiza por hiperemia que aparece en el promontorio de algunas otosclerosis. Indica un foco otosclerótico activo y suele acompañarse a otosclerosis con componente coclear. Además de no estar presente en todas las otosclerosis es necesario que la membrana timpánica presente algo de transparencia para poder observarla."
+    },
+    {
+      "id": 6,
+      "enunciado": "Señale la afirmación falsa sobre el carcinoma laríngeo:",
+      "opciones": [
+        "Los carcinomas glóticos suelen debutar con disfonía y son los de mejor pronóstico.",
+        "Los carcinomas subglóticos suelen debutar con sensación de cuerpo extraño",
+        "Los carcinomas supraglóticos presentan adenopatías mas frecuentemente y por ello son de peor pronóstico",
+        "Los carcinomas subglóticos tiene frecuentemente afectación ganglionar cervical"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debemos recordar que según la localización de los carcinomas de laringe se presentan mas frecuentemente ciertos síntomas. Glotis: Disfonía. Supraglotis: sensación de cuerpo extraño, parestesias, odinobagia con otalgia refleja, disfagia. Subglóticos: Disnea o estridor. Opción 2 correcta. También que los glóticos son de mejor pronóstico y los supraglóticos los de peor pronóstico a nivel de la laringe."
+    },
+    {
+      "id": 7,
+      "enunciado": "Paciente mujer de 80 años de edad que consulta por parálisis facial periférica derecha de 24 horas de evolución. Refiere que lleva con dolor en pabellón y región periauricular derecha desde hace 3 días y presenta costras en dicho pabellón y conducto auditivo externo. Como antecedentes: tuvo en la infancia rubeola, varicela y sarampión. ¿Cuál será nuestro diagnóstico?",
+      "opciones": [
+        "Síndrome de Melkersson-Rosenthal.",
+        "Síndrome de Heerfordt.",
+        "Síndrome de Landry-Guillain-Barré.",
+        "Síndrome de Ramsay-Hunt."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: síndrome de Ramsay-Hunt presenta una parálisis facial con costras dolorosas en pabellón auricular y conducto auditivo externo (resultado de la desecación de las vesículas ocasionadas por el virus del herpes zoster, que suelen ser efímeras y a veces difíciles de ver). El antecedente de haber padecido varicela (herpes varicela-zoster) corrobora este cuadro clínico. El síndrome de Melkersson-Rosenthal se caracteriza por una parálisis facial y afectación de cara y labio superior, además de surcos en la lengua. Se inicia en la infancia o adolescencia. El síndrome de Heerfordt consiste en una uveoparotiditis con parálisis facial y fiebre. El síndrome de Landry Guillain-Barré es una enfermedad desmielinizante que puede debutar afectando al nervio facial."
+    },
+    {
+      "id": 8,
+      "enunciado": "Cuál de las siguientes NO forma parte del protocolo HINTS:",
+      "opciones": [
+        "Maniobra oculocefálica",
+        "Nistagmo",
+        "Índice de Barany",
+        "Test Skew"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: El protocolo HINTS, como bien indican sus siglas, viene determinado por la prueba de impulso cefálico (Head Impulse Test), el nistagmo y el Test de Skew."
+    },
+    {
+      "id": 9,
+      "enunciado": "La etiología MÁS frecuente de hipoacusia en la infancia es:",
+      "opciones": [
+        "La otosclerosis.",
+        "La meningitis.",
+        "La otitis media serosa.",
+        "El traumatismo acústico por incubadora."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La otitis seromunocosa afecta al 10% de los niños entre 2 y 6 años, siendo la causa más frecuente de hipoacusia a esta edad; es una hipoacusia adquirida (opción 3 correcta). Se debe a la disfunción tubárica en la infancia (trompa de Eustaquio más horizontal, corta y flácida que en los adultos) y a la hipertrofia adenoidea, que impide la correcta ventilación del oído medio. También influye la adquisición de cuadros catarrales habituales en guardería. La otoscopia y el timpanograma nos dan el diagnóstico, con tímpano con ocupación mucosa, cierta hiperemia y abombamiento, pero sin fiebre. La timpanometría es plana y la hipoacusia de tipo transmisivo Tiene tratamiento, por lo que hay que diagnosticarla lo antes posible, para que la hipoacusia no interfiera en el desarrollo intelectual del infante, con lavados nasales y corticoterapia tópica. Si no hay mejoría, hay que valorar adenoidectomía y/o drenajes transtimpánicos. Recuerda que la causa más frecuente de HIPOACUSIA INFANTIL CONGÉNITA es la genética."
+    },
+    {
+      "id": 10,
+      "enunciado": "Un paciente se va a operar de un adenoma pleomorfo. ¿Cuál es la mejor manera de EVITAR un síndrome de Frey en el postoperatorio?",
+      "opciones": [
+        "Conservar el SMAS.",
+        "Inyecciones de toxina botulínica.",
+        "Realizar una parotidectomía conservadora.",
+        "No es posible evitar un síndrome de Frey en tumores de este tipo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: El síndrome de Frey se previene conservando el SMAS (sistema musculoaponeurótico superficial) en la cirugía de parótida (de tumores benignos). Las inyecciones de toxina botulínica son el tratamiento cuando el paciente ya padece un síndrome de Frey no para evitarlo."
+    }
+  ]
+}
