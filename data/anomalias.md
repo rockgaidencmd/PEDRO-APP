@@ -23,6 +23,29 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p7-p8: en la pregunta sobre reversión de opioides el comentario afirma 'Todas las opciones de respuesta son correctas' e inmediatamente marca la opción 2 como falsa; el enunciado pide la FALSA y la clave (2) es coherente con lo segundo.
 - p7: la opción 4 de la pregunta sobre manejo perioperatorio de la antiagregación aparece con un prefijo residual 'd)' antes del texto, rompiendo la numeración; se transcribe tal cual.
 
+## Anatomía
+
+- p13: la pregunta de la cara medial del pulmón izquierdo solo tiene 4 opciones, pero el comentario habla de "las cinco opciones" y contiene la frase truncada "sólo un en el derecho"
+- p13: la pregunta del sangrado pulsátil en muñeca solo tiene 4 opciones, pero el comentario descarta "las opciones 4 y 5" y afirma que "estas cuatro opciones son falsas" además de la correcta
+- p32: el bloque 'Comentario' de la pregunta de Inés está maquetado en negrita, a diferencia del resto de comentarios del documento
+- p32: el enunciado de la pregunta de Inés aparece precedido por un carácter '·' suelto (resto de viñeta del original); se transcribe sin él
+- p35: en la pregunta 'Señala cuál de las siguientes estructuras no forma parte del tronco celiaco' las opciones llevan la numeración duplicada en el original ('1. 1. Arteria esplénica.'); se transcribe el texto tal cual, incluido el número interno
+- p35: la explicación de '¿Qué articulación permite la rotación de la cabeza?' no menciona la opción 1 'Atlaidoaxoidea', que en el original está escrita con las letras transpuestas
+- p40: el comentario de 'La adducción del pulgar es dependiente del nervio' cita 'opciones 1 y 5 incorrectas' y 'opción 2 incorrecta', pero la pregunta solo tiene 4 opciones
+- p45: el comentario de '¿Qué suturas se unen en el bregma?' es internamente incoherente: sitúa el bregma dentro de la sutura lambdoidea ('en dicha sutura podemos ver la intersección de suturas... el bregma') y a la vez dice que une las suturas sagital y coronal
+- p47: el comentario de la pregunta sobre anatomía esofágica etiqueta las opciones como R1, R2, R3 y R5 (no existe R4), aunque la pregunta solo tiene 4 opciones
+- p47: el comentario remite a 'la figura adjunta', que no se rasterizó; en la página 48 solo queda el pie suelto 'Nervios laríngeos recurrentes', que se ha conservado al final de la explicación
+- p48: el comentario de '¿Cuál de las siguientes NO es una función que realiza el gastrocnemio?' afirma que el gastrocnemio realiza 'flexión dorsal del pie', cuando es flexor plantar; la clave (opción 3) depende de esa afirmación
+- p51: el comentario de 'Con respecto a los músculos flexores comunes de los dedos' cita 'opción 5 incorrecta', pero la pregunta solo tiene 4 opciones
+- p56: el comentario de la pregunta de inervación laríngea y el de la pregunta del túnel del carpo aparecen partidos en varios párrafos a mitad de frase en el original; se conservan los saltos tal cual
+- p58: el enunciado pregunta '¿cuál de los siguientes nervios no está inervado por el nervio radial?' pero las cuatro opciones son músculos, no nervios
+- p5: Resp. Correcta 3 en la pregunta de la transcavidad de los epiplones, pero el comentario dice que "la única opción no 'relacionada' o cercana a las demás es la 4"
+- p5: el comentario identifica el músculo palmar largo como "flexor radial del carpo"; son músculos distintos y la equivalencia es incorrecta
+- p61: el enunciado de la pregunta sobre la arteria coronaria derecha empieza por 'ndique', le falta la 'I' inicial en el original
+- p61: el enunciado pregunta 'cuál de los siguientes nervios de la eminencia tenar no está inervado por el nervio mediano' pero las cuatro opciones son músculos, no nervios
+- p70: Resp. Correcta 3 ('Recto lateral – III par craneal') pero el comentario invierte los pares craneales: afirma que el recto lateral lo inerva el IV par y el oblicuo superior el VI par, cuando en realidad es al revés (recto lateral = VI par, oblicuo superior = IV par)
+- p8: el comentario arrastra un marcador de nota al pie suelto sin nota asociada ("solo intervienen en ella.1 El músculo grácil...")
+
 ## Bioquímica
 
 - p10: el comentario da el rango normal de bicarbonato como "22-16 mEq/L", rango invertido e imposible (debería ser 22-26, como sugiere el propio inciso "o de 22-24/26").
@@ -100,6 +123,37 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p33: el comentario de la pregunta de fonomicrocirugía dice 'El tratamiento de elección de los nódulos vocales es la foliaría', término corrupto o inexistente (se esperaría foniatría/logopedia); además es la única explicación de una sola frase del bloque.
 - p35: el comentario de la pregunta del niño de 3 años se abre con un apartado numerado '1.' pero no continúa con los apartados 2, 3 y 4.
 - p37: la opción 1 de la pregunta de la mujer de 60 años dice 'Hipoacusia brusca: duración 30 dB, 3 frecuencias consecutivas', donde 30 dB es una magnitud de pérdida auditiva y no una duración.
+
+## Pediatría
+
+- p17: la opción 2 calcula el déficit de Na con el factor 0,3 ((135-Real)* 0,3* Peso) mientras que el comentario usa el factor 0.6 ((Na deseado- Na real) x 0.6 x peso); los coeficientes no coinciden
+- p21: el enunciado del RN de 34 hs da 'hematocrito de 51 mg/dL'; el hematocrito se expresa en porcentaje, no en mg/dL.
+- p27: el comentario de las complicaciones de la parotiditis dice 'la sordera es más frecuentemente unilateral, y de ahí que la opción 4 sea correcta', cuando la sordera unilateral es la opción 3; la opción 4 habla de alteraciones del ST.
+- p29: en la pregunta del niño de 5 días con ictericia, el comentario razona sobre 'una bilirrubina de 20 mg/dl' que no corresponde a ninguna de las cuatro opciones ofrecidas.
+- p33: Resp. Correcta 2 (rotura del hígado con hematoma subcapsular) pero el comentario abre con 'Opción 3 correcta', aunque su texto describe la lesión hepática del parto traumático, es decir la opción 2.
+- p33: el comentario de 'Una de estas enfermedades NO se asocia a talla corta' dedica su apertura a la acondroplasia, que no figura entre las opciones.
+- p41: el enunciado del test de Silverman describe 'tiraje intercostal' mientras que el comentario enumera 'tiraje subcostal' entre los cinco ítems del test
+- p50: en el comentario de Pierre Robin se atribuye 'aniridia y hemihipertrofia' (opción 4) al síndrome de Denys-Drash, cuya descripción que el propio comentario da (nefropatía, pseudohermafroditismo masculino y tumor de Wilms) no incluye esos rasgos
+- p51: 'Para el prematuro de muy bajo peso, la leche humana puede aportar bajas cantidades de:' tiene 'Resp. Correcta: 3' (Calcio) pero el comentario cierra con 'Opción 4 correcta' (Vitamina E)
+- p53: la pregunta sobre auscultación del abdomen ofrece opciones referidas a cuadrantes abdominales clásicos, pero el comentario afirma que 'debe ser auscultado en los 9 cuadrantes'
+- p55: en la pregunta de la 'regla de los nueve' el comentario justifica la clave hablando de 'menores de 2 años' mientras la opción marcada dice 'menor de un año'; además los porcentajes que da (11 cabeza+cuello, 9 cada brazo, 15 cada miembro inferior, 32 tórax) suman 91 y no 100
+- p5: el comentario afirma primero que "Las causas más frecuentes de hipernatremia son las debidas a déficit primario de agua como la diabetes insípida" y acto seguido que "La gastroenteritis es la causa más frecuente de hipernatremia en los niños"; ambas afirmaciones se contradicen entre sí
+
+## Psiquiatría
+
+- p18: el comentario de la pregunta sobre efectos adversos extrapiramidales es un esquema de viñetas anidadas (hasta 4 niveles) que hubo que linealizar con guiones e indentación
+- p18: la pregunta sobre parkinsonismo yatrogénico tiene solo 4 opciones, pero el comentario habla de 'las opciones 3, 4 y 5' y menciona la quetiapina, que no figura entre las opciones
+- p23: pseudodemencia depresiva, Resp. Correcta 1, pero el comentario usa una numeración incoherente: cita R5 (solo hay 4 opciones) y asocia 'es irreversible' a R2 en vez de a la opción 1
+- p24: terror nocturno y pesadillas, Resp. Correcta 4 pero el comentario cierra con '(respuesta falsa- 5)' y solo hay 4 opciones
+- p31: el comentario de la pregunta sobre prevención del síndrome de abstinencia alcohólica es un esquema de viñetas anidadas que hubo que linealizar
+- p44: en la pregunta '¿Cuáles de los siguientes síntomas pueden estar presentes en la depresión y en la manía?' solo hay 4 opciones, pero el comentario descarta 'la 5' (ideas delirantes / fuga de ideas), opción inexistente
+- p44: en la pregunta del paciente de 17 años el comentario parte la palabra 'hebefrenia' al final de línea ('hebe-'), transcrita aquí unida
+- p46: en la pregunta de la mujer de 25 años el comentario numera mal las opciones: habla de 'La opción 2 y 3, la esquizofrenia pseudoneurótica y el trastorno esquizoafectivo' (la esquizofrenia pseudoneurótica no figura entre las opciones) y de 'las opciones 4 y 5' cuando solo hay 4; la clave (1) sí es coherente con el caso
+- p48: en la pregunta sobre psicomotricidad el comentario parte la palabra 'ecosíntomas' al final de línea ('eco-'), transcrita aquí unida
+- p49: en la pregunta de la fobia a las arañas el comentario afirma 'El resto de psicoterapias referidas en las demás opciones están indicadas para este problema', frase que contradice la clave (2, terapia de conducta); falta un 'no'
+- p50: en la pregunta del varón de 25 años el comentario descarta opciones desplazadas respecto al listado: '(la 5 descartada)' para los neurolépticos depot (que son la opción 4), '(4 descartada)' para el alprazolam (que es la opción 3) y '(2 descartada)' para la carbamacepina, que ni siquiera figura entre las opciones y coincide con el número de la clave (2, haloperidol)
+- p5: pregunta sobre el patrón de sueño en anoréxicas/bulímicas: 'Resp. Correcta: 2' pero el comentario dice '(opción 3 correcta)' y toda la numeración del comentario está desplazada una posición (llama 'opción 2' a la reducción de la latencia REM, que es la opción 1)
+- p8: pregunta sobre deshabituación del alcohólico: 'Resp. Correcta: 4' pero el comentario declara correctas las cuatro opciones ('La opción 4 también es correcta') describiendo en realidad el tiapride, que es la opción 3, y solo al final concluye que lo no admisible son los interdictores camuflados (opción 4); numeración del comentario desplazada
 
 ## Urología
 

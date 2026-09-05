@@ -1,0 +1,1736 @@
+{
+  "titulo": "Cuestionario de Pediatría",
+  "especialidad": "Pediatría",
+  "totalPreguntas": 133,
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "En la edad pediátrica, la infección oportunista más frecuente en el SIDA es:",
+      "opciones": [
+        "Esofagitis por Candida.",
+        "Infección diseminada por Mycobacterium avium intracellulare.",
+        "Neumonía por Pneumocystis jirovecii.",
+        "La toxoplasmosis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad media- alta. El SIDA pediátrico no ha sido muy preguntado en el examen y es fácil que lo pasemos por alto al estudiar la pediatría. La respuesta correcta es la 3. Debemos de saber, en comparación con el SIDA del adulto, que las infecciones oportunistas infantiles son menos frecuentes pero de mayor gravedad. Entre ellas, la más frecuente es la neumonía por P. carinii, que además es la causa más frecuente de muerte en estos niños. El tratamiento de elección de esta patología, como en el adulto, es el cotrimoxazol.",
+      "id": 1
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Señale la respuesta FALSA acerca de la edad de adquisición de diferentes funciones psicomotoras en la lactancia:",
+      "opciones": [
+        "La prensión con pinza del pulgar se inicia sobre los 8 meses.",
+        "Hace garabatos hacia los 15-18 meses.",
+        "Se inhibe ante el no sobre los 13 meses.",
+        "Usa objetos para alcanzar juguetes u otras cosas a partir de los 16-17 meses."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "No tiene importancia que hayas fallado esta pregunta acerca del desarrollo psicomotor, es difícil y de poca relevancia. El niño comienza a interiorizar las normas un poco más tarde. Es a los 18- 24 meses cuando se inhibe ante el no (¿No tengo que coger ese objeto?), si bien, esta inhibición es débil. Opción 3 correcta.",
+      "id": 2
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Lactante de 2 meses de edad que es llevado a Urgencias por presentar fiebre, agitación, irritabilidad e hipertonía. En la exploración física destacan unas mucosas muy secas, un signo del pliegue ligeramente positivo. En la analítica sólo destaca una hipernatremia severa. Ya en urgencias el niño presenta una crisis convulsiva, por lo que se decide hacerle una TC una vez estabilizado. Se observa un hematoma subdural. Entre las distintas causas que pueden provocar este cuadro, la más probable es:",
+      "opciones": [
+        "Déficit de mineralocorticoides.",
+        "Fibrosis quística.",
+        "Administración de fórmulas lácteas hiperconcentradas.",
+        "Sudoración excesiva."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta sobre las causas de deshidratación la hipernatrémica (sodio > 150mEq/l) es importante. Esta situación obedece a un ingesta excesiva de sodio o a una pérdida excesiva de agua corporal que supera a la de sodio. La ingestión excesiva de sodio suele tener un origen iatrogénico como la administración de soluciones iv salinas hipertónicas iv o los errores al preparar las fórmulas alimentarias (opción 3 correcta). La concentración de las fórmulas lácteas debe ser de 13- 14 % los 2 primeros meses y del 15 % el resto. La administración de fórmulas lácteas hiperconcetradas es causa frecuente de deshidratación en el lactante. Las causas más frecuentes de hipernatremia son las debidas a déficit primario de agua como la diabetes insípida. La gastroenteritis es la causa más frecuente de hipernatremia en los niños. El déficit de mineralocorticoides, los diuréticos, la fibrosis quística y la sudoración excesiva con causas de deshidratación hiponatrémica",
+      "id": 3
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿Cuál es la complicación más grave y frecuente de las meningitis neonatales en fase aguda?:",
+      "opciones": [
+        "Ventriculitis.",
+        "Parálisis facial.",
+        "Sordera.",
+        "Necrosis cortical."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta no es nada fácil. Tienes, aun así que saber que la complicación más grave y frecuente de las meningitis en el período neonatal es la infección secundaria del sistema ventricular, delimitando lo que se conoce como ventriculitis (opción 1 correcta). Esta complicación tiene a peculiaridad de que es extremadamente grave, y al menos u 50% de los niños que la presentan acaban muriendo.",
+      "id": 4
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿Cuál de las siguientes opciones acerca del desarrollo del niño entre los 6 y 12 meses es INCORRECTA?:",
+      "opciones": [
+        "Se produce la erupción de los dientes que suele comenzar con los incisivos centrales mandibulares, este hecho está en relación con la maduración esquelética.",
+        "Hacia los 9 meses se produce un hito del desarrollo con la sensación de constancia del objeto, es decir, los niños son conscientes de que a pesar de que un objeto no esté a la vista sigue existiendo.",
+        "Entre los 8-10 meses el balbuceo se hace con sílabas múltiples e imita las inflexiones del lenguaje.",
+        "Empieza a utilizar los objetos para el fin en que están diseñados (ej. un peine para el pelo) en torno a los 11-12 meses."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "No te preocupes si has fallado esta pregunta porque es difícil y no debes dedicar mucho tiempo al estudio de el desarrollo psicomotor del niño. Recuerda que los dientes empiezan a salir a los 6 meses y suelen ser los incisivos centrales mandibulares los primeros en aparecer. La erupción es retrasada si no se ha producido a los 13 meses. El hito fundamental que sucede entre lo 6- 9meses es la sensación de constancia del objeto, que suele coincidir con la emisión de su primera palabra papa o mama. El balbuceo imita las inflexiones del lenguaje nativo. El niño comienza a desarrollar su autonomía (ej. si no quiere comer gira la cara) lo que choca con el control paterno y hacen aparición las primeras rabietas. La edad a la que comienzan a coger objetos es 3- 4meses, con oposición del pulgar a los 8- 9 meses, pero no los utilizan para el fin para el que están diseñados (ej. vaso para beber agua) hasta los 12- 18 meses por lo que marcamos la opción 4 correcta.",
+      "id": 5
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál de las siguientes opciones acerca del patrón y tipo de ingesta durante el primer año de vida es INCORRECTA?:",
+      "opciones": [
+        "La lactancia materna tiene un aporte calórico similar a la lactancia artificial",
+        "También las tasas de gasto energético y las tasas metabólicas durante el sueño son menores en esos niños.",
+        "Como consecuencia de lo anterior, los lactantes alimentados al pecho tienen un crecimiento durante los primeros meses más rápido que los que reciben lactancia artificial.",
+        "La alimentación del lactante con leche de mujer supone, entre otros beneficios, mejor regulación metabólica, mayor protección inmunológica y menor riesgo de sensibilización alérgica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta de la nutrición en el lactante tiene cierta dificultad y carece de relevancia. Simplemente recordar los múltiples beneficios de la lactancia materna método elección para la alimentación durante los 6 primeros meses de vida. Los estudios de la nutrición en los niños en relación con la tasa de crecimiento en peso y talla muestran diferencias relativamente pequeñas entre los niños alimentados con leche de vaca y humana. Recuerda que el contenido calórico de la leche humana y de vaca es similar, la diferencia en la ingesta de energía es porque la cantidad de leche ingerida por los niños alimentados con fórmula es mayor (opción 3 correcta). No merece la pena profundizar en el porqué de cada respuesta ya que se puede contestar con un poco de lógica. Las respuestas 1 y 2 están ligadas con un ¿también es menor?, por lo que ambas deben ser ciertas. Si la ingesta de energía, las tasas de gasto energético y las tasas metabólicas de los niños alimentados al pecho es menor que la de los niños alimentados con fórmula no es lógico que, como consecuencia tengan un crecimiento durante los primeros meses más rápido. La pérdida de peso inicial también es mayor en los niños alimentados la pecho que con biberón.",
+      "id": 6
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "El crecimiento promedio de la cabeza durante el primer año de vida es:",
+      "opciones": [
+        "8 cm.",
+        "12 cm.",
+        "15 cm.",
+        "20 cm."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es complicada y no tiene mucha importancia. En relación al perímetro cefálico simplemente debes recordar que es de 35 cm al nacimiento y es mayor que el perímetro torácico. Al final del primer año se igualan y después el perímetro torácico es mayor. El aumento del perímetro cefálico durante el primer año es de 1cm/mes (12 cm durante el primer año, respuesta 2 correcta) (los 3 primeros meses más rápido y luego más lento) y 10 cm durante el resto de la vida.",
+      "id": 7
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Niño de 3 años que, en la revisión del niño sano, presenta llamativa dificultad para la retracción del prepucio sin poder visualizarse glande ni meato uretral. Los padres refieren que había sido diagnosticado hace algunos meses por otro pediatra de adherencias prepuciales que han sido tratadas con retracciones forzadas diarias. Desde hace algunos días, el chorro miccional es más débil de lo habitual. ¿Cuál cree que es la actitud MÁS correcta en este paciente?",
+      "opciones": [
+        "Derivar a cirugía pediátrica para circuncisión o plastia de prepucio.",
+        "Aplicar pomada de corticoide dos veces al día durante un mes y volver a valorar la retracción, repitiendo un nuevo ciclo de corticoide tópico si la respuesta es incompleta.",
+        "Se trata de un trastorno fisiológico de la infancia, por lo que la actitud correcta es esperar su resolución espontánea.",
+        "Derivar urgentemente a cirugía, ya que el prepucio se encuentra estrangulado y necesita corrección quirúrgica urgente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el momento actual el paciente presenta una fimosis puntiforme: el prepucio es estrecho y cubre totalmente el glande y el meato ureteral, hasta el punto de dificultarle la micción. Probablemente esta fimosis sea cicatricial, ya que en un primer momento presentaba solamente adherencias; en esta entidad, el glande se ve parcialmente descubierto, con zonas de adhesión al prepucio. En estos casos no se debe realizar nunca un despegamiento forzado de las adherencias, ya que es un proceso doloroso que irrita la piel y puede crear cicatrices que condicionen un estrechamiento del prepucio y lo conviertan en fimosis. El tratamiento de la fimosis puede ser médico (con uno o dos ciclos de pomada de corticoide), o quirúrgico (con circuncisión o plastia), y se suele realizar una vez retirado el pañal, ya que una herida o el corticoide sobre una zona humedecida y ocluida constantemente por el pañal, puede ocasionar complicaciones. Las excepciones para tratar antes de esta edad son: la fimosis puntiforme, la parafimosis de repetición o las infecciones de repetición. En estos casos y en los que no responden al corticoide tópico, se debe realizar cirugía. Aunque es cierto que la fimosis es fisiológica, en este caso no podemos esperar su resolución espontánea por lo que marcamos la opción 1 correcta.",
+      "id": 8
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "La tríada de Hutchinson de la sífilis congénita se caracteriza por:",
+      "opciones": [
+        "Retinitis, nariz en silla de montar y deformidades dentales.",
+        "Sordera, queratitis y alteraciones dentales.",
+        "Frente olímpica, sordera y alteraciones dentales.",
+        "Trombocitopenia, queratitis y alteraciones dentales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La tríada de Hutchinson es una de las tríadas con nombre propio del capítulo de las infecciones connatales, e incluyen los siguientes puntos: queratitis intersticial (que, a su vez, es la manifestación más frecuente de la tríada), hipoacusia neurosensorial (que es una de las tónicas constantes de todas las TORCH) y alteraciones dentarias (como los dientes de Hutchinson o los molares en mora).",
+      "id": 9
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Indique la respuesta FALSA de las siguientes si hablamos del síndrome de Alagille:",
+      "opciones": [
+        "Presentan facies peculiar con frente abombada, mentón prominente, hipoplasia de esmalte y voz atiplada.",
+        "Pueden presentar nefropatía tubulointersticial.",
+        "La cardiopatía que más frecuentemente se asocia es la estenosis aórtica.",
+        "Son frecuentes las vértebras en mariposa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome de Alagille es una ductopenia sindrómica que combina la ictericia colestática de origen intrahepático con una serie de alteraciones morfológicas: cara de pájaro, vértebras en alas de mariposa, nefritis intersticial y cardiopatía (lo más frecuente: estenosis pulmonar periférica) opción 3 correcta. La prevalencia es de aproximadamente 1/70.000. Normalmente está causado por mutaciones en el gen JAG1 (20p12).",
+      "id": 10
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál es la frecuencia de fibrosis quística en la raza blanca?:",
+      "opciones": [
+        "1/1.000.",
+        "1/3.000.",
+        "1/10.000.",
+        "1/15.000."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta sobre la epidemiología de la fibrosis quística carece de importancia. Simplemente recuerda que es la enfermedad hereditaria recesiva letal más frecuente en la raza caucásica (afecta a 1/3.000-5.000 RN vivos) opción 2 correcta. Es la principal causa de enfermedad pulmonar grave en niños y origen importante de insuficiencia pancreática exocrina en edades tempranas.",
+      "id": 11
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Acude a reanimar a un recién nacido, feto único, con Apgar de 2 al minuto. Tras conseguir estabilizarle y hacer desaparecer la cianosis, observa que persiste con una palidez intensa y muy taquicárdico. El hematocrito de urgencia fue de 24%. No presenta signos de sangrado y el ginecólogo de guardia asegura que no existió hemorragia importante durante el parto ni apareció hematoma retroplacentario. ¿Qué exploración realizada a la madre puede confirmar una posible causa?:",
+      "opciones": [
+        "Test de Apt.",
+        "Test de Kleihauer.",
+        "Determinación de anticuerpos antiplaquetarios.",
+        "Hematocrito venoso."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Está más claro que el agua que este niño tiene un shock hipovolémico (palidez, taquicardia, hematocrito bajo). Posiblemente, lo más razonable hubiera sido que la hipovolemia fuera secundaria a un sangrado materno. Al descartarlo el obstetra, hemos de pensar en la posibilidad de una transfusión feto- materna; para confirmar ésta , has de solicitar un test de Kleihauer en sangre materna (opción 2 correcta). Si hay trasnfusión feto- matera, en la sangre de la madre encontrarás hemoglobina fetal.",
+      "id": 12
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Cuál de las siguientes complicaciones es la más frecuente en un RN hijo de una madre con varicela clínica 2 días antes del parto?:",
+      "opciones": [
+        "Meningoencefalitis.",
+        "Coriorretinitis.",
+        "Neumonitis.",
+        "Peritonitis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La presencia de varicela materna en el intervalo temporal que va desde 5 días antes del parto hasta 2 días después de producido éste supone un factor de riesgo para desarrollar varicela neonatal, que es un cuadro muy grave, y que provoca en el RN afectación sistémica consistente en vesículas, neumonitis, hepatitis, encefalitis y potencialmente la muerte del niño (opción 3 correcta). Debe ser prevenida con gammaglobulina específica antes de que se declare en el RN.",
+      "id": 13
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Dentro de las complicaciones de la enterocolitis necrotizante se incluyen las siguientes EXCEPTO:",
+      "opciones": [
+        "Sepsis.",
+        "Perforación intestinal.",
+        "Alcalosis hiperclorémica.",
+        "Estenosis intestinal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: Las complicaciones de la enterocolitis necrotizante son las siguientes: sepsis de origen entérico (por gram negativos y anaerobios) y perforación intestinal (y todo lo que este hecho conlleva, cirugías, resecciones intestinales, síndrome de intestino corto, estenosis secundarias). Recuerda que, analíticamente, la enterocolitis puede asociar trombopenia, acidosis e hiponatremia.",
+      "id": 14
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Recién nacido a término que presentó, desde el quinto día de vida, inflamación y secreción purulenta conjuntival con intenso edema palpebral. En la exploración con fluoresceína se observan úlceras corneales bilaterales. ¿Qué microorganismo es el responsable más probable?:",
+      "opciones": [
+        "Chlamydia trachomatis.",
+        "Pseudomonas aeruginosa.",
+        "Irritación por nitrato de plata.",
+        "Gonococo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las conjuntivitis por nitrato de plata se inician 6- 12 horas después del parto. Las conjuntivitis por gonococo se suelen iniciar a los 2- 5 días de vida, y cursan con gran afectación corneal (opción 4 correcta). Las conjuntivitis por clamidias y por S. aureus aparecen tras un tiempo de 5- 14 días de incubación, y respetan las córneas. Las conjuntivitis por Pseudomonas son raras, y aparecen tras 5- 18 días de incubación.",
+      "id": 15
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿Cuál de las siguientes aseveraciones le parece INCORRECTA?:",
+      "opciones": [
+        "La ingestión de sulfamidas por la madre puede precipitar un hipotiroidismo transitorio en el recién nacido.",
+        "Los niveles séricos de T4 son mayores en recién nacidos pretérmino.",
+        "El déficit de TSH asociado al déficit de hormona del crecimiento se presenta con hipoglucemia y micro-pene en los varones.",
+        "La falta de respuesta de la glándula tiroides a la TSH hipofisaria es una causa rara de hipotiroidismo congénito."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Los niveles de T4 son menores en los prematuros que en los recién nacidos a término. El resto de las opciones son correctas. Recuerda que si la madre consume sulfamidas, su hijo puede presentar hipotiroidismo. Puede haber un déficit conjunto de GH y TSH. La causa más frecuente de hipotiroidismo es la disgenesia tiroidea.",
+      "id": 16
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Señale la respuesta FALSA acerca del desarrollo del niño en edad preescolar:",
+      "opciones": [
+        "El uso preferente de una de las manos suele establecerse hacia los 4 años.",
+        "Se suele producir un descenso del apetito en estos niños, que aunque angustia mucho a los padres, es fisiológico.",
+        "Esta etapa está dominada por el egocentrismo del niño, lo que implica una incapacidad del niño para adoptar un punto de vista distinto al suyo, pero no egoísmo.",
+        "A pesar de lo anterior, las primeras respuestas empáticas hacia el sufrimiento de los demás aparecen hacia el segundo año."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta acerca del desarrollo del niño en edad preescolar (2- 7 años) no es muy importante. En esta edad se frena el crecimiento y disminuyen las necesidades nutricionales, con lo que desciende el apetito. Las necesidades de sueño también disminuyen. El uso preferente de una mano se establece a los 3 años. El intento de cambio puede producir la frustración del niño. Opción 1 correcta.",
+      "id": 17
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Un niño de 6 años, trasplantado cardíaco, que recibe ciclosporina, azatioprina y corticoides en bajas dosis, ha presentado en el último año varios episodios de rechazo que han requerido ciclos de dosis altas y prolongadas de corticoides. Para valorar si como efecto secundario producen enlentecimiento del crecimiento, ¿cuál es la velocidad de crecimiento mínima, de entre las siguientes, que consideramos normal en este niño?",
+      "opciones": [
+        "2 cm/año.",
+        "4 cm/año.",
+        "7 cm/año.",
+        "8 cm/año."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una pregunta que podemos considerar como específica del tema, y que no debéis darle demasiada importancia si la habéis fallado. No obstante, como muchas veces ocurre en las preguntas sobre cifras o porcentajes, la respuesta correcta está, una vez más, en el valor intermedio....\n\nSe habla de talla baja cuando se encuentra por debajo del percentil 3 para su edad, o por debajo de - 2 DS. A la hora de evaluar la talla de un niño, hay que tener en cuenta la correlación con la talla de los padres, y la velocidad de crecimiento, de forma que está indicado un estudio de talla baja en los niños con velocidad de crecimiento por debajo del percentil 25 o menor de 4 cm / año, de forma mantenida.",
+      "id": 18
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Entre las manifestaciones clínicas de sífilis congénita precoz, señale cuál NO suele aparecer en el recién nacido:",
+      "opciones": [
+        "Coriza.",
+        "Hepatoesplenomegalia.",
+        "Signos de infección del S.N.C.",
+        "Exantema."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la sífilis congénita precoz (la clínica aparece durante los 2 primeros años de vida) opción 3 correcta, la manifestación más frecuente es la hepatomegalia, que se acompaña de ictericia. Otros datos clínicos son un exantema polimorfo (máculas, pápulas, ampollas) con afectación palmo plantar, repercusión sobre la mucosa nasal (coriza o rinorrea) y lesiones óseas con periostitis, que derivan en lo que se conoce como falsa parálisis (antiálgica) de Parrot. La afectación del SNC es más típica de la sífilis congénita tardía.",
+      "id": 19
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "En relación con la tirotoxicosis neonatal, señale cuál de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "Las patologías más frecuentemente asociadas son la enfermedad de Graves y la tiroiditis de Hashimoto.",
+        "Está contraindicada la administración de betabloqueantes en el neonato.",
+        "Si la madre estaba tomando fármacos antitiroideos la clínica tarda más en manifestarse.",
+        "Los corticoides están indicados en los casos más graves."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La tirotoxicosis neonatal puede ser manejada con beta- bloqueantes (opción 2 correcta). Esta situación, el exceso de hormonas tiroideas, puede ser secundario al efecto estimulados de los TSI (de la enfermedad de Graves materna) o a una compensación de un hipotiroidismo materno. Puede requerir corticoides.",
+      "id": 20
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "A un RNT de peso adecuado para la edad gestacional, nacido de parto eutócico (en el cual el ginecólogo lo elevó sobre el plano materno durante un tiempo generoso sin antes clampar el cordón umbilical), que no tiene antecedentes familiares de anemia, le encontramos pálido nada más al nacer. En el hemograma se objetiva Hb: 12 g/dl, test de Coombs es negativo y los glóbulos rojos (G.R.) son normocrómicos y normocíticos ¿Qué test NO dejaría de realizar bajo ningún concepto?:",
+      "opciones": [
+        "Estudio de Hb.",
+        "Estudio de fragilidad osmótica de GR.",
+        "Test de Kleihauer.",
+        "Test de Apt."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El test de Kelihauer- Betke es un test que se realiza en sangre materna. Este test se considera positivo si aparece una doble población de hematíes: por un lado, la población normal de una mujer adulta (rica en hemoglobina adulta), y por otro lado una población rica en hemoglobina fetal. La presente prueba se realiza en casos de sospecha de transfusión feto- materna (como en el caso del enunciado de esta pregunta), que puede llegar a ser responsable de anemia, generalmente de escasa entidad, en el RN. Opción 3 correcta.",
+      "id": 21
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Qué tipo de patología sospecharía en un recién nacido que para respirar necesita de la colocación de una tetina de biberón con dos grandes orificios fijada a la boca, con lo que el niño respira por movimientos de chupeteo?:",
+      "opciones": [
+        "Paladar hendido.",
+        "Microrretrognatia.",
+        "Atresia de coanas.",
+        "Membrana subglótica congénita."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los neonatos respiran por el sitio ideal (las fosas nasales), siempre y cuando no haya factores mecánico- obstructivos que lo impidan. Sospecha la presencia de éstos cuando te describan un neonato con dificultad para respirar en reposo y al mamar que mejora con el llanto. Ten en cuenta que, cuando el neonato llora, coge aire por la nariz y por la boca. Opción 3 correcta.",
+      "id": 22
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "El tipo de hemorragia intracraneal más frecuente en el recién nacido pretérmino",
+      "opciones": [
+        "Hemorragia subaracnoidea",
+        "Hemorragia intraventricular",
+        "Hemorragia intraparenquimatosa",
+        "Hemorragia cerebelosa"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La hemorragia intraventricular del recién nacido es un sangrado dentro de las zonas llenas de liquido en el cerebro, la afección se observa mas frecuente en prematuros (opción 2 correcta), existen 4 grados basándose en la magnitud del sangrado; dentro del grado 1 y 2 existe una cantidad muy pequeña de sangrado, el grado uno es también conocido como hemorragia de la matriz germinal y el grado 3 y 4 implican un sangrado mas intenso, la sangre ejerce presión en el grado 3 y compromete directamente el tejido cerebral, y en el grado 4 se denomina hemorragia intraparenquimatosa donde se puede formar coagulo de sangre que bloquean el flujo del LCR.",
+      "id": 23
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Señale cuál de las siguientes NO es causa de fontanela anterior grande:",
+      "opciones": [
+        "Síndrome de Apert.",
+        "Hipertiroidismo.",
+        "Síndrome de Hallerman-Streiff.",
+        "Raquitismo por déficit de vitamina D."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de elevada dificultad. En el recién nacido se debe explorar la permeabilidad y el tamaño de las fontanelas. Lo habitual es palpar una fontanela anterior o bregmática (se cierra entre los 9-18 meses) y una posterior o menor (se cierra a las 6-8 semanas).\n\nUnas fontanelas anormalmente grandes o retrasadas en su cierre pueden deberse, entre otras causas a hidrocefalia, hipotiroidismo, acondroplasia o rubeola congénita. También puede asociarse con diversas enfermedades que cursan con osteopatía (raquitismo, síndrome de Apert - o acrocéfalosindactilia- , el sindrome de Silver- Rusell - displasia fibrosa poliostótica con manchas café con leche y pubertad precoz- , la osteogénesis imperfecta, síndrome de Hallerman, etc). Entre las causas no encontramos el hipertiroidismo (Respuesta 2 falsa).",
+      "id": 24
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Un neonato prematuro recibe teofilina oral por presentar pausas de apnea. ¿Cuál de los siguientes antibióticos puede provocar disminución de su metabolismo e intoxicación?:",
+      "opciones": [
+        "Ampicilina.",
+        "Anfotericina.",
+        "Amikacina.",
+        "Eritromicina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La verdad es que, hoy por hoy, la cafeína ha desplazado de una forma prácticamente total a la teofilina en el tratamiento de las pausas de apnea. La razón es que la teofilina tiene un difícil manejo, hay que tener cautela con las posibles interacciones que genera (por ejemplo, con la eritromicina), y hay que hacer periódicamente evaluaciones de su nivel en sangre. Opción 4 correcta.",
+      "id": 25
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Nos encontramos ante un neonato de 35 semanas de edad gestacional que tras un parto prolongado presenta cianosis e intenso trabajo respiratorio. Las respiraciones son profundas e irregulares, pero apenas moviliza el abdomen. En el resto de la exploración encontramos: cabeza normoconfigurada, buena permeabilidad de coanas, ritmo cardíaco regular y rápido, taquipnea, abdomen blando y depresible, sin masas ni megalias, neuro: fontanela a nivel, reflejo de Moro abolido en el lado derecho, otros reflejos primitivos normales. Señale la respuesta FALSA en relación a su diagnóstico de sospecha:",
+      "opciones": [
+        "Este tipo de lesión es generalmente unilateral.",
+        "Ninguna de estas lesiones se recuperan.",
+        "El niño debe descansar sobre el lado afecto y recibir alimentación por vía oral o i.v. dependiendo de su estado.",
+        "El diagnóstico se puede establecer por ecografía o por radioscopia dinámica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: En este niño tienes que sospechar afectación de las raíces C4 y C5. Estas raíces aportan aferencias al plexo braquial superior (el niño lo tiene lesionado, pues su reflejo de Moro está abolido) y al nervio frénico (el niño también lo tiene lesionado: está cianótico, respira trabajosamente). La mayor parte de estas lesiones tiene buen pronóstico, y se recuperan espontáneamente.",
+      "id": 26
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Las complicaciones del tratamiento de la enfermedad de la membrana hialina son todas las siguientes, EXCEPTO:",
+      "opciones": [
+        "Fibroplasia retrolental.",
+        "Displasia broncopulmonar.",
+        "Neumotórax por sobrecarga de presión iatrogénica.",
+        "Estenosis de la arteria pulmonar."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La enfermedad de membrana hialina tiene un tratamiento que se apoya en tres brazos: antibióticos, administración endotraqueal de surfactante y soporte respiratorio que muchas veces es ventilación mecánica. La ventilación mecánica y la hiperoxia conllevan riesgo de: fibroplasia retrolental o retinopatía del prematuro (por sobreoxigenación), DBP (por sobreoxigenación y barotrauma), neumotórax (barotrauma) y estenosis subglótica (intubación prolongada). Opción 4 correcta.",
+      "id": 27
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Lactante de 4 meses, alimentado hasta hace una semana con lactancia materna exclusiva. Actualmente han introducido fórmula de inicio y cereales adecuados para su edad. Comienza con deposiciones más liquidas con hebras de sangre y algún vómito aislado. Señale la opción MÁS adecuada sobre el manejo de este paciente:",
+      "opciones": [
+        "Se debe quitar el gluten de la dieta.",
+        "Se debe retirar la lactosa de la dieta de la madre.",
+        "Se debe administrar un hidrolizado de proteínas.",
+        "Se debe administrar un hidrolizado de proteínas y realizar colonoscopia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Estamos ante una intolerancia a las proteínas de la leche de vaca, que se ha manifestado una semana después de la introducción de una fórmula artificial con clínica de colitis alérgica con sangre en las heces por lo que debemos cambiar la fórmula por un hidrolizado de proteínas pero no es necesario realizar pruebas más invasivas. Los 4 meses todavía no se ha introducido el gluten. Recuerda que a diferencia de la intolerancia la alergia a proteínas de las leche de vaca presenta un inicio agudo con clínica sistémica (afectación cutánea, gastrointestinal y respiratoria). Opción 3 correcta.",
+      "id": 28
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "La complicación más frecuente de la rubéola congénita es:",
+      "opciones": [
+        "Sordera.",
+        "Cataratas.",
+        "Trombocitopenia.",
+        "Microcefalia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: La rubéola congénita cursa clínicamente a través de una tríada (la de Gregg: hipoacusia neurosensorial, alteraciones oculares muy diversas y cardiopatía) y lesiones óseas sin periostitis. Es tanto más frecuente cuanto más precozmente se dé en el embarazo. La complicación más frecuente es uno de los ítems de la tríada de Gregg: la hipoacusia neurosensorial.",
+      "id": 29
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Señale cuál de las siguientes infecciones congénitas puede producir síndrome nefrótico congénito:",
+      "opciones": [
+        "Rubéola.",
+        "Toxoplasma.",
+        "Sífilis.",
+        "Hepatitis B."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: La sífilis congéntita tardía puede dar lugar a una tríada (la de Hutchinson, caracterizada por queratitis, hipoacusia neurosensorial y alteraciones dentarias), a alteraciones neurológicas (paresia juvenil, tabes juvenil), a lesiones óseas deformantes (molares en mora, dientes de Hutchinson, tibia en sable, frontal prominente) y también a un síndrome nefrótico.",
+      "id": 30
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Niño de 4 semanas con taquipnea progresiva y tos continua. El estado general es bueno y está afebril. En la exploración se encuentra una conjuntivitis bilateral y estertores y crepitantes en la auscultación. El hemograma es inespecífico, con eosinofilia moderada, y la radiografía de tórax muestra hiperinsuflación con infiltrados intersticiales difusos. ¿Qué tratamiento emplearía?:",
+      "opciones": [
+        "Eritromicina.",
+        "Cefotaxima.",
+        "Ampicilina + gentamicina.",
+        "Exclusivamente tratamiento sintomático (antitusígenos, mucolíticos...)."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La neumonía por C. trachomatis es una entidad en la que hay que pensar ante el siguiente retrato robot: lactante de 1 mes de vida con distrés respiratorio y auscultación patológica (sibilancias, crepitantes), así como hepatomegalia y conjuntivitis, y con eosinofilia en el hemograma. La radiología suele mostrar un patrón intersticial difuso. Su manejo terapéutico incluye la administración de macrólidos. Opción 1 correcta.",
+      "id": 31
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Niño de 5 meses que presenta un tos y mocos de 5 días de evolución que ha ido asociando progresivamente fiebre, tiraje sub e intercostal e hiporexia. En la exploración lo que más llama la atención son las sibilancias y roncus de la auscultación, de predominio en bases; además también tiene mocos, estornudos y tos intensa. ¿Qué hallazgos de la radiografía de tórax NO apoyarían su diagnóstico de sospecha?:",
+      "opciones": [
+        "Engrosamiento peribroncovascular bilateral.",
+        "Condensación de lóbulo superior derecho, con desplazamiento del mediastino hacia ese lado.",
+        "Hiperinsuflación de ambos hemitórax.",
+        "Condensación segmentaria en lóbulo inferior derecho, con opacidad del seno costodiafragmático."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El saber reconocer una caso de bronquiolitis es básico. Lo que nos están preguntando son las características radiológicas, que no son tan importantes. En la radiografía de tórax puede mostrar diferentes hallazgos, los más frecuentes son hiperinsuflación pulmonar y áreas dispersas de condensación debidas a atelectasias y a inflamación peribronquial (engrosamiento peribronquial). La atelectasia aparece como una consolidación con desplazamiento del mediastino hacia ese lado. Es especialmente frecuente en el lóbulo superior derecho. El hallazgo de una condensación segmentaría en un lóbulo con opacidad del seno costodiafragmatico nos debe hacer sospechar en neumonía con derrame pleural. Opción 4 correcta.",
+      "id": 32
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "En todos los casos siguientes están indicadas las pruebas de detección selectiva de deterioro de la audición en los recién nacidos, EXCEPTO:",
+      "opciones": [
+        "Asfixia neonatal.",
+        "Meningitis neonatal.",
+        "Hiperbilirrubinemia que exige transfusión de recambio.",
+        "Otitis media del recién nacido."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Son factores de riesgo de hipoacusia neonatal los siguientes:\n\n- Prematuridad-bajo peso (<1500 g)\n- Hiperbilirrubinemia (cifras elevadas que precisan exanguinotransfusión)\n- Infecciones (típico de citomegalovirus, toxoplasma, rubéola)\n- Meningitis\n- Hipoxia-isquemia perinatal\n- Malformaciones craneofaciales\n- Tratamiento con fármacos ototóxicos (vancomicina, aminoglucósidos, furosemida)\n- Ventilación mecánica prolongada\n- Antecedentes familiares de sordera\n\nEn la actualidad se recomienda el cribado universal con otoemisiones acústicas (OEA) o con potenciales evocados auditivos de tronco cerebral (PEATC). Opción 4 correcta.",
+      "id": 33
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Paciente de 20 meses presenta cuadro de deshidratación y convulsiones generalizadas. En la analítica destaca un Na de 110. Señale la afirmación verdadera:",
+      "opciones": [
+        "Se debe corregir rápidamente la hiponatremia con bolos de ClNa hasta alcanzar un nivel de 135.",
+        "El déficit de Na se calcula con la fórmula: Déficit: (135-Real)* 0,3* Peso y administrarlo en 24 horas.",
+        "Tratamiento con bolos de ClNa para alcanzar niveles séricos de 120 mEq/L y corregir el resto del déficit en las siguientes 24 horas.",
+        "Es raro que se produzcan convulsiones con un Na sérico menor de 120 mEq/l."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta hace referencia al manejo de un paciente con una deshidratación hipotónica grave (Na < 120), es difícil, pero es importante que sepas su manejo. El déficit de Na se calcula con la fórmula: déficit (mEq) = (Na deseado- Na real) x 0.6 x pero (kg). La rehidratación será vía intravenosa. En casos graves (como este) de riesgo vital es frecuente que aparezcan convulsiones como consecuencia de la hiperhidratación neuronal, por eso en estos casos con clínica secundaria a hiponatremia es preciso es preciso administrar un bolo salino hipertónico al 3% para corregir niveles rápido hasta estabilización del paciente, posteriormente se hará de forma lenta:\n\nEl déficit de Na se debe reponer rápidamente hasta alcanzar niveles de Na > 120, lo que suele detener las convulsiones , y posteriormente el resto del déficit en las siguientes 24h (opción 3 correcta). La corrección rápida hasta niveles superior de 130 puede asociarse a mielinolisis pontina central. Por regla general no hay que aumentar ni disminuir el Na a más de 15 mEq /24h",
+      "id": 34
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "En relación a la ictericia fisiológica del recién nacido, son ciertas todas las afirmaciones que se citan, MENOS una:",
+      "opciones": [
+        "La frecuencia se estima en torno al 67% en recién nacidos normales.",
+        "La clínica se presenta generalmente a partir del segundo día.",
+        "En su evolución, aparecen un segundo y tercer pico hacia la semana y diez días después del nacimiento.",
+        "En el pretérmino, la frecuencia es algo inferior al 50%."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: En la ictericia fisiológica del recién nacido, que se inicia entre los días 2- 3 en los recién nacidos a término y los días 3- 4 en los prematuros, el máximo de bilirrubina se consigue alrededor delos días 3- 4 en ambos. No se vuelve a alcanzar otro pico. Entre los factores patogénicos, el más importante es el déficit relativo de glucoroniltrasferasa. Otro factor destacable es la hemólisis.",
+      "id": 35
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "¿Qué hallazgo, de los siguientes, en la exploración que se realiza en las primeras 24 horas a un recién nacido, obliga a realizar exámenes complementarios para aproximar su diagnóstico?",
+      "opciones": [
+        "Acabalgamiento de sutura parieto-occipital.",
+        "Eritema tóxico en tronco y extremidades.",
+        "Mancha mongólica en espalda y extremidades superiores.",
+        "Mechón de pelo en zona de columna lumbosacra."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El acabalgamiento de la sutura parieto-occipital forma parte del moldeamiento del cráneo necesario para el paso por el canal del parto. Su persistencia más allá de 15 días debe hacer sospechar, sin embargo, la presencia de una cranoesinostosis que sí sería patológica. Por la misma razón, el trauma que supone el paso por el canal del parto estrecho, los recién nacidos pueden nacer con tumefacciones en tejidos laxos, sobre todo del área de presentación cara, edema palpebral- y cuero cabelludo (caput sucedaneum). También es frecuente encontrar hemorragias conjuntivales que evolucionan favorablemente. El eritema tóxico del recién nacido es una lesión cutánea benigna, muy frecuente en el recién nacido sano (prevalencia del 50% de los RNT). Aparece hacia el tercer día de vida y dura alrededor de una semana. Son máculas eritematosas generalizadas sobre las que aparecen pequeñas vesículas. No afecta a palmas y plantas. La etiología es desconocida, aunque la presencia de eosinófilos hace suponer una base de hipersensibilidad. La mancha mongólica es también una lesión benigna del recién nacido, más frecuente en niños de origen latinoamericano o asiático. Su localización más frecuente es a nivel lumbosacro, aunque puede aparecer a otros niveles. Puede ser única o tener lesiones satélites. A pesar de su nombre no se asocia a otras patologías y su evolución natural es hacia su desaparición total o parcialmente en 2-4 años. Un mechón de pelo en la zona lumbosacra puede ser el primer signo de un disrafismo espinal oculto, por lo que requiere una prueba de imagen (ecografía del canal medular, RNM, TC) para descartarlo (opción 4 correcta). El hallazgo de atrofia cutánea, hiperpigmentación, hemangiomas, lipomas, fístulas, una fosita o un apéndice en esa localización también son signos sospechosos de defecto oculto del tubo neural. Pueden ser asintomáticos o sintomáticos (alteraciones de la fuerza, sensibilidad, asimetrías dorsales y/o de extremidades, trastornos de los esfínteres).",
+      "id": 36
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Pseudomonas aeruginosa es un agente infeccioso que se encuentra en diferentes infecciones neonatales. Señale la asociación menos frecuente en este período:",
+      "opciones": [
+        "Neumonía.",
+        "Meningitis.",
+        "Otitis media.",
+        "Artritis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pseudomonas aeruginosa es uno de los gram negativos más universalmente implicados en infecciones; como agente patógeno, destaca, por lo tanto, su inmensa versatilidad, que le hace verse implicado en prácticamente todas las infecciones que puedas imaginar. En cuanto a su papel en las artritis, haberlas las hay, pero son poco frecuentes. Opción 4 correcta.",
+      "id": 37
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "En relación al hipotiroidismo congénito, indique el enunciado FALSO:",
+      "opciones": [
+        "Los programas de cribado neonatal detectan la mayoría de los casos.",
+        "Un porcentaje de casos no mayoritario (en torno a 10%) son transitorios.",
+        "Las dishormonogénesis tiroideas son las causas más frecuentes.",
+        "Las disgenesias tiroideas son alteraciones en el desarrollo embrionario de la glándula tiroides."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta FALSA es la 3. Los programas de cribado neonatal, mediante la prueba del talón a las 48 horas de vida, detectan la mayoría de los casos de hipotiroidismo (ya que al tratarse de un programa de cribado debe ser una prueba con elevada sensibilidad y especificidad) precisando, en los casos de positividad, confirmación diagnóstica con determinaciones de laboratorio y pruebas de imagen, sin olvidar que niveles elevados de TSH (> 50microU/mL) precisan inicio inmediato de tratamiento con levotiroxina independientemente dela necesidad de confirmación diagnóstica. Aproximadamente un 90% de los hipotiroidismos diagnosticados en la infancia serán de carácter permanente mientras que el 10% serán transitorios. La causa más frecuente de hipotiroidismo congénito permanente son las DISGENESIAS tiroideas (80-90%) siendo las dishormonogénesis un grupo de patologías que representa entre el 10 -20% de las causas de hipotiroidismo (3 FALSA). Las digénesis tiroideas son alteraciones en la morfogénesis (o desarrollo embrionario) de la glándula tiroidea.",
+      "id": 38
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la rubéola es cierta?:",
+      "opciones": [
+        "Su período de incubación es más breve que el del sarampión.",
+        "Se acompaña de trombopenia y artritis.",
+        "Se acompaña de sordera nerviosa.",
+        "La erupción brota tras desaparecer la fiebre."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de dificultad media- alta sobre la rubéola. Debemos saber que el período de incubación de la rubéola es algo mayor que el del sarampión (2- 3 semanas frente 1- 2 semanas), por lo q la opción 1 es incorrecta. La sordera nerviosa es una complicación típica (aunque no frecuente) de la parotiditis o de la rubeola congénita (no de la \"rubeola\" sin mas) (opción 3 incorrecta). La erupción que brota tras desaparecer la fiebre es característico de el exantema súbito (opción4 incorrecta). Así llegamos a opción correcta que es la 2 y que debemos recordar: la rubéola se puede acompañar de artritis (típicamente en mujeres o niños postpúberes, afectando a las articulaciones de pequeño tamaño, sobre todo metacarpofalángicas) y de trombopenia, que aparece en 1 de cada 3000 pacientes.",
+      "id": 39
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Señale la respuesta correcta en la disentería de niños(as) menores de 5 años",
+      "opciones": [
+        "La etiología en la mayoría de casos es bacteriana",
+        "Generalmente la etiología es viral",
+        "Se recomienda no usar antibióticos",
+        "Se recomienda realizar coprocultivo y tratar después del resultado"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: La disentería es una inflamación abdominal con agotamiento, fiebre y evacuaciones liquidas con sangre generado por distintos microorganismos y que atacan con mayor fuerza a niños pequeños causando una deshidratación y un alteración en el tramo digestivo provocando una destrucción de la mucosa y generando heridas o ulceraciones.",
+      "id": 40
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "¿En cuál de los siguientes casos es más probable que la ictericia de un lactante a término sea “fisiológica”?:",
+      "opciones": [
+        "Ictericia que aparece a las 12 horas de nacer.",
+        "Cuando la bilirrubina sérica se eleva 5 mg/dl/24 horas o menos en los 2 a 4 primeros días.",
+        "Cuando predomina la bilirrubina sérica directa (conjugada).",
+        "Máxima concentración de bilirrubina en el 7º día."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La ictericia fisiológica parece ser un mecanismo de “autodefensa” del organismo frente al estrés por radicales libres que asecha al neonato. La ictericia fisiológica nunca comienza en las primeras 24 horas de vida (opciones 1 y 4, falsas), sino el 2º o tercer día de vida. La elevación de la bilirrubina nunca será mayor de 5 mg/dl/día (opción 2, correcta). Además, cabe reseñar que es una hiperbilirrubinemia no colestática (opción 3 falsa). La máxima concentración se obtiene alrededor del tercer día de vida.",
+      "id": 41
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Niño de 19 meses con síndrome de Down que, en los últimos meses, comienza a presentar estancamiento ponderoestatural. Según la madre, realiza una dieta variada, no ha presentado infecciones intercurrentes de interés, aunque últimamente le encuentra más decaído. En la exploración física llama la atención cierta palidez y distensión abdominal, con disminución del componente magro. Usted le realiza una analítica donde se objetiva anemia ferropénica. ¿Qué otras determinaciones añadiría en el estudio complementario para ayudar a clarificar el diagnóstico?",
+      "opciones": [
+        "Cuerpos reductores en orina.",
+        "Frotis sanguíneo periférico.",
+        "Anticuerpos antitransglutaminasa IgA, con cuantificación sérica de IgA.",
+        "Anticuerpos antitransglutaminasa y antigliadina IgA, con cuantificación sérica de IgA."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos encontramos ante un caso clínico típico de enfermedad celiaca. Como datos clínicos más significativos hay que destacar el estancamiento ponderoestatural con un intervalo de latencia variable desde la introducción del gluten, distensión abdominal y heces esteatorreicas. También es típica la existencia de anemia ferropénica debido a la malabsorción férrica por el daño mucoso intestinal, siendo una de las etiologías a discriminar ante cualquier anemia ferropénica en la infancia. Además, el caso clínico de la pregunta es un niño con síndrome de Down, entidad con predisposición a padecer esta enfermedad. El diagnóstico vendrá dado por la determinación de anticuerpos antitransglutaminasa (ATG), siendo los más sensibles y específicos los de tipo IgA (opción 4 correcta). En menores de 2 años baja la sensibilidad de los ATG, por lo que además nos apoyamos en los anticuerpos antigliadina, altamente sensibles, aunque de menor especificad. La determinación de cuerpos reductores en orina tiene su utilidad en el diagnóstico de galactosemia, entidad que cursa con fallo hepático temprano con la introducción de la leche. El frotis sanguíneo periférico serviría para descartar procesos leucemógenos, altamente incidentes en los Down, aunque la distensión abdominal no sería una forma típica de presentación.",
+      "id": 42
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Cuál de los siguientes parámetros NO se considera criterio de necesidad de realizar una exanguinotransfusión a un neonato Rh positivo siendo su madre Rh negativa?:",
+      "opciones": [
+        "Presencia de ictericia.",
+        "Hematócrito inferior al 40%.",
+        "Insuficiencia cardíaca.",
+        "Bilirrubinemia superior a 5 mg./dl."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En los niños afectados de isoinmunización antiD, el manejo terapéutico se basa en unas gráficas que establecen para cada hora de vida y para cada cifra de bilirrubina lo que tenemos que hacer. Pero esto no significa necesariamente que tengamos que hacer algo; a veces, recurriremos a observar al niño sin más, otras veces a administrar fototerapia y otras a exanguinotransfusión. Opción 1 correcta.",
+      "id": 43
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿Cuál es la edad de mayor riesgo para presentar una muerte súbita del lactante?:",
+      "opciones": [
+        "Entre los 0 y 2 meses.",
+        "Entre los 2 y 4 meses.",
+        "Entre los 6 y 8 meses.",
+        "Entre los 8 meses y el año de edad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta no tiene especial importancia. El síndrome de muerte súbita del lactante consiste en la muerte inexplicada e inesperada de un niño menor de 1 año de edad. Representa la primera causa de mortalidad entre la primera semana y el primer año de vida. La edad de mayor riesgo es entre 2 y 4 meses de edad (opción 2 correcta). Recuerda que el dormir en decúbito prono, la exposición al tabaco, la prematuridad son algunos de los factores de riesgo más destacables.",
+      "id": 44
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "En la asfixia neonatal se produce un aumento del cortocircuito derecha-izquierda para mantener transitoriamente el flujo cerebral, a costa de disminuir la perfusión de otros órganos, entre los que NO se encuentra:",
+      "opciones": [
+        "El pulmón.",
+        "Las glándulas suprarrenales.",
+        "Los riñones.",
+        "El intestino delgado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Existen órganos que pueden tolerar una isquemia relativa durante períodos de tiempo más o menos largos, como sucede con el riñón, el hígado, el pulmón o el intestino delgado. Sin embargo, la isquemia suprarrenal supone una amenaza inmediata para la vida, igual que la cardíaca o la cerebral. Por ello, en sutuaciones como la descrita, el flujo sanguíneo tiende a redistribuirse hacia cerebro, corazón y suprarrenales, descendiendo temporalmente la perfusión de otros órganos (respuesta 2 correcta).",
+      "id": 45
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "RN a término saludable de 34 hs de vida, presenta bilirrubina sérica de 13.4 mg/dL y hematocrito de 51 mg/dL. El diagnóstico más probable es",
+      "opciones": [
+        "Ictericia por septicemia",
+        "Ictericia secundaria a leche materna",
+        "Ictericia fisiológica",
+        "Ictericia hemolítica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: La ictericia fisiológica es el resultado de la inmadurez de los distintos pasos del metabolismo de la bilirrubina se caracteriza por ser mono sintomática, fugaz que desaparece antes de una semana poco intensa sin afectación del estado en general y aparece pasada las primeras 24 horas de vida, esta ictericia no recibe tratamiento medico.",
+      "id": 46
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Qué contenido de sodio se recomienda que contenga la solución de rehidratación oral en la fase de mantenimiento de una diarrea?:",
+      "opciones": [
+        "40-60 mEq/l.",
+        "75-90 mEq/l.",
+        "90-110 mEq/l.",
+        "20-40 mEq/l."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta sobre la rehidratación oral, que es la que de elección, es difícil y no muy importante. Puede ser útil que recuerdes que en el tratamiento de la deshidratación hay una fase de reposición y otra de mantenimiento. En la primera se puede usar la solución de Reposición de la OMS, pero su contenido en sodio es elevado (Na 90 mEq/l). En países desarrollados las soluciones que se emplean en ambas fases deben estar compuestas por sodio 50mEq/l, K 20mEq/l, glu 20 g/l y sustancias tampón. Opción 1 correcta.",
+      "id": 47
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Señale la respuesta INCORRECTA acerca de las anemias del neonato:",
+      "opciones": [
+        "Cuando aparece en los primeros días de vida es muy sugerente de un cuadro de anemia hemolítica, aunque también se puede deber a otras causas como hemorragia transplacentaria, cefalohematoma amplio o hemorragia por ligadura incompleta del cordón.",
+        "El tratamiento con transfusiones debe plantearse a neonatos sintomáticos, a los que tengan niveles de Hb muy bajos y en circunstancias especiales como las enfermedades que dificultan el transporte de oxígeno en la sangre, entre ellas la enfermedad de membrana hialina, incluso con niveles de Hb de 12 ó 13 g/dl.",
+        "La eritropoyetina no se ha demostrado eficaz en el tratamiento de las anemias de la prematurez, dado que su receptor no se encuentra todavía en suficiente número en los precursores hematopoyéticos.",
+        "Una causa frecuente de anemias en el neonato son las extracciones múltiples de sangre en los niños que precisan control periódico de parámetros bioquímico-gasométricos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el protocolo terapéutico de la anemia en los grandes prematuros (menores de 1500 g), juega un papel indispensable la eritropoyetina. Es cierto que hay menos receptores de EPO que en el adulto, pero se puede emplear. La EPO se administra dos veces por semana. Además de eritropoyetina, se les administra hierro, a razón de 1- 2 mg por kilogramo de peso y día. Opción 3 correcta.",
+      "id": 48
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "RN de bajo peso para su edad gestacional que a las 96 h de vida comienza con llanto agudo persistente, rechazo del alimento, irritabilidad, hipertonía y convulsiones. Presenta rinorrea y obstrucción nasal, así como una frecuencia respiratoria de 55 respiraciones/min y una sudoración excesiva. Entre las actitudes terapéutico-diagnósticas a tomar ante este caso, NO se encuentra:",
+      "opciones": [
+        "Administración de fenobarbital.",
+        "Administración de líquidos según las necesidades.",
+        "Solicitar opiáceos en orina materna.",
+        "Administración de naloxona."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Ante la presencia de hiperexcitabilidad neurológica extrema en un recién nacido (llanto agudo, polifagia, polipnea, taquicardia, convulsiones) junto con síntomas difusos (rinorrea, diarrea), has de pensar en un síndrome de abstinencia a opiáceos. Lógicamente, no se podría administrar naloxona, porque es el antagonista de los opiáceos y produciría un síndrome de abstinencia mucho mayor. La naloxona puede ser útil en el tratamiento de la intoxicación, pero no en la abstinencia por lo que marcamos la opción 4 correcta.",
+      "id": 49
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "La edad de máxima incidencia de la meningitis por Haemophilus influenzae es",
+      "opciones": [
+        "Durante el primer mes de edad",
+        "Entre 1 y 3 meses de edad",
+        "Entre 3 y 15 meses de edad",
+        "Entre 12 y 24 meses de edad"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: En los niños entre 1 y 3 meses de vida pueden aislarse los patógenos neonatales y los propios de mayores de 3 meses. Los microorganismos más frecuentes son meningococo B y neumococo, siendo actualmente H. influenzae b (Hib) y meningococo C.",
+      "id": 50
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Señale en qué supuesto hay que estudiar siempre la causa de la ictericia:",
+      "opciones": [
+        "La ictericia que aparece a las 48 horas de vida.",
+        "La bilirrubina alcanza una cifra superior a 10 mg/dl.",
+        "La bilirrubina directa supera el 20% de la total en cualquier momento.",
+        "En el prematuro alcanza un valor superior a 12 mg/dl al 7º día de vida."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las opciones 1, 2, y 4 forman parte del espectro de la ictericia fisiológica, un proceso transicional normal debido a que tras el nacimiento se produce una hemólisis fisiológica (que tiene su pico a las 48h de vida) con el objetivo de destruir el exceso de hematíes. Esto provoca un aumento de la producción de bilirrubina en un momento en el que la capacidad del hígado para expulsarla es baja, por lo que tiende a acumularse.\n\nLa opción 3 por el contrario designa una ictericia colestática, tributaria por tanto de estudio. Por tanto la opción 3 es correcta.",
+      "id": 51
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Se define policitemia en el RN, cuando el Hto central es igual o superior a:",
+      "opciones": [
+        "55%.",
+        "60%.",
+        "65%.",
+        "70%."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: La policitemia neonatal se define a través de la presencia de un hematocrito central mayor del 65%. No sirve para definirlo por ser un parámetro menos preciso el hematocrito capilar. Desde el punto de vista clínico, recuerda que su expresión engloba: irritabilidad, ictericia, hipocalcemia, acrocianosis, insuficiencia cardíaca y predisposición al desarrollo de trombosis.",
+      "id": 52
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Cuál de las siguientes afirmaciones es FALSA respecto a la ictericia fisiológica:",
+      "opciones": [
+        "Se debe a la presencia de algunas sustancias en la leche materna.",
+        "Suele alcanzarse valores más altos en los pretérminos.",
+        "Es infrecuente que persista más de una semana.",
+        "Es raro que provoque la aparición de kernicterus."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: La ictericia fisiológica es un mecanismo de defensa frente al estrés provocado por radicales libres. Aparece alrededor del segundo día de vida, y se perpetúa hasta alrededor del día siete de vida. Se debe a hemólisis. Se alcanzan cifras de hasta 12 mg/dl en RN término y de 14 mg/dl en prematuros. No suele provocar la aparición de kern- icterus.",
+      "id": 53
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "¿Cuál de estos agentes etiológicos es el que más veces origina la oftalmía del recién nacido?:",
+      "opciones": [
+        "Neisseria gonorrhoeae.",
+        "Chlamydia trachomatis.",
+        "Streptococcus pneumoniae.",
+        "Staphylococcus aureus."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: El tracoma (causada por Chamydia trachomatis) es la causa más frecuente de ceguera evitable en el mundo. El tracoma comienza como una conjuntivitis folicular; estos folículos curan dejando una cicatriz que - a su vez- puede evertir el párpado hacia dentro, situación conocida como entropión. Así, las pestañas pasan a erosionar la córnea, y el traumatismo constante genera úlceras corneales.",
+      "id": 54
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "En un lactante de dos meses con ictericia apreciable desde la 2ª semana de vida, deposiciones de color blanquecino, hepatomegalia de 6 cm de consistencia dura, esplenomegalia de 3 cm, en el que se realizó una gammagrafía hepática con HIDA observándose una captación normal en el hígado con ausencia de paso a intestino, ¿cuál es la primera actitud a tomar?",
+      "opciones": [
+        "Intervención quirúrgica de Kasai.",
+        "Determinación de alfa-1-antitripsina, cobre y ceruloplasmina.",
+        "Laparotomía exploradora urgente con biopsia hepática y colangiografía.",
+        "Dieta hipercalórica con triglicéridos de cadena media, vitaminas A, D, E y K, fenobarbital y colestiramina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La presencia de ictericia, acolia y coluria caracteriza un síndrome colestásico. Éste puede deberse a causas intra o extrahepáticas, y para distinguirlo se ha realizado una gammagrafía con HIDA (ácido hidroxi- indol- acético). Dado que existe un retraso en la evacuación del contraste, el problema muy probablemente sea extrahepático, que es lo que impide que llegue al intestino. Sabiendo esto, el siguiente paso sería conocer cuál es la causa exacta, por lo que elegiremos la respuesta 3. las opciones 1 y 2 no son válidas porque, hasta este momento, sólo sabemos que tiene una colestasis de origen extrahepático, pero no el diagnóstico exacto, por lo que aún no podemos establecer el tratamiento adecuado.",
+      "id": 55
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Señale en qué grupo estaría clasificado un niño diagnosticado de SIDA de 3 años de edad, con 780 linfocitos CD4 totales y que presenta una neumonía intersticial linfoide:",
+      "opciones": [
+        "C3.",
+        "B2.",
+        "A1.",
+        "B3."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de dificultad elevada debido a que la clasificación en estadíos del SIDA pediátrico no se estudia aunque viene en el manual y por lo tanto, al ser una pregunta muy directa no podemos deducirla. La respuesta correcta es la 2, puesto que en un niño entre 1 y 5 años con 780 CD4 nos situamos en un nivel de inmunosupresión moderada y la NIL se encuentra encuadrada dentro de la categoría clínica tipo B (moderadamente sintomáticos). Al cruzar ambos parámetros, categoría inmunológica y clínica, obtenemos el estadío B2, que es la respuesta a la pregunta.",
+      "id": 56
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Niño de 6 meses que presenta retraso del desarrollo psicomotor, microcefalia, hipertonía y convulsiones desde poco tiempo después del nacimiento. Durante los primeros días de vida sufrió un episodio de ictericia, petequias, hepatoesplenomegalia y dificultad respiratoria, que fue desapareciendo paulatinamente. Hace tres meses fue diagnosticado de sordera neurosensorial y coriorretinitis. Señale la opción INCORRECTA acerca de su diagnóstico de sospecha:",
+      "opciones": [
+        "La mayoría de los niños afectos que presentan clínica en el periodo neonatal fallecen a los pocos días.",
+        "En neonatos infectados por VIH es más frecuente que la infección sea sintomática durante el periodo neonatal.",
+        "Típicamente aparecen calcificaciones cerebrales periventriculares.",
+        "En algún caso puede aparecer bandas calcificadas en las metáfisis de los huesos largos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Sospecha que un neonato padece una infección connatal si presenta antecedente de retraso del crecimiento intrauterino, hiperplasia retículo- endotelial (hepatoesplenomegalia, adenopatías), anemia y trombopenia. Parece que el niño tiene una infección por CMV porque presenta microcefalia, hipoacusia y coriorretinitis . La mortalidad del cuadro sintomático es menor del 20%, pero el riesgo de secuelas, muy alto, por lo que marcamos la respuesta 1 correcta.",
+      "id": 57
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Señale la sentencia FALSA sobre la epidemiología de la rubéola:",
+      "opciones": [
+        "La mayoría de los casos se dan en adolescentes y adultos jóvenes.",
+        "La reinfección no existe.",
+        "La infección subclínica supera a los casos (proporción 2:1).",
+        "La mayoría de las embarazadas presentan anticuerpos antirrubéola."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de dificultad media- alta acerca de la Rubéola. Lo que crea la dificultad es que la pregunta hace referencia a aspectos poco comentados de esta patología y que es bastante directa. La respuesta correcta es la 2 ya que sí es cierto que pueden existir reinfecciones por este virus. Las otras opciones es importante que las recordemos por si salieran en el examen. Esta pregunta se podría contestar también utilizando técnica de examen, fijándonos que la opción 2 es muy tajante y ya sabemos que esas opciones suelen ser falsas.",
+      "id": 58
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Qué técnica es la empleada más frecuentemente en el diagnóstico microbiológico de la bronquiolitis por VRS?:",
+      "opciones": [
+        "Inmunofluorescencia directa en muestra de moco nasal.",
+        "Cultivo viral en moco nasal.",
+        "Serología, demostrando seroconversión 4 semanas después del comienzo de la enfermedad.",
+        "Inmunofluorescencia indirecta en muestra de moco nasal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El fallar esta pregunta sobre diagnostico de bronquiolitis no tiene importancia. El diagnostico de bronquiolitis es clínico y el etiológico se realiza a través de diversas técnicas: a) técnicas de diagnostico rápido (24h): ELISA, IFD y IFI que permiten la identificación de antígenos del virus en el moco nasal. La técnica mas empleada es la inmunofluorescencia por ser más sensible que el ELISA, opción 1 correcta; b) el cultivo de las secreciones nasofaríngeas se reserva para pacientes con test rápidos negativos, pues el resultado tarda 1 semana) Las pruebas serológicas se puede utilizar para confirmar la infección pero su sensibilidad es baja en lactantes d) La PCR es mas sensible que la inmunofluorescencia, pero no está disponible en la mayoría de los hospitales.",
+      "id": 59
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Recién nacido de 2 días de vida que comienza con ictericia y lesiones petequiales en tronco y raíz de extremidades. Es una niña, de 33 semanas de edad gestacional y peso de 2050 gr. Tiene hepatomegalia de 3 cm y esplenomegalia de 5. Le llama la atención su gran microcefalia y la presencia de leucocoria. Además presenta somnolencia excesiva, tiraje subcostal moderado, taquicardia, taquipnea y edemas en ambos párpados. Se le realiza ecografía cerebral (calcificaciones periventriculares), una analítica que muestra anemia, eritroblastosis, leucocitosis con neutrofilia y trombocitopenia en el hemograma y en la bioquímica hiperbilirrubinemia y aumento de transaminasas. Tras cuatro días de evolución fallece por insuficiencia cardíaca. ¿Cuál es su sospecha diagnóstica?:",
+      "opciones": [
+        "Isoinmunización Rh.",
+        "Sepsis neonatal precoz.",
+        "Infección perinatal por citomegalovirus.",
+        "Infección connatal por citomegalovirus."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Sospecha que un neonato padece una infección connatal si presenta antecedente de retraso del crecimiento intrauterino, hiperplasia retículo- endotelial (hepatoesplenomegalia, adenopatías), anemia y trombopenia. Parece que la niña tiene una infección por CMV porque presenta microcefalia, coriorretinitis y calcificaciones periventriculares. Opción 4 correcta.",
+      "id": 60
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Las principales causas de mortalidad infantil en países en desarrollo son, EXCEPTO",
+      "opciones": [
+        "Enfermedad diarreica",
+        "Infecciones respiratorias",
+        "Malaria",
+        "Enfermedad de Chagas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: La mayoría de los fallecimientos neonatales se deben a partos prematuros, asfixias durante el parto (incapacidad para respirar en el momento del parto) e infecciones. Desde el final del periodo neonatal hasta los cinco años, las principales causas de muerte son la neumonía, la diarrea y el paludismo. La malnutrición es una causa subyacente que contribuye aproximadamente a 45% del total de las muertes, ya que hace que los niños sean más vulnerables a las enfermedades graves.",
+      "id": 61
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Señale lo FALSO con respecto a las complicaciones de la parotiditis:",
+      "opciones": [
+        "En el LCR de pacientes con parotiditis y meningoencefalitis no se aísla el virus de la parotiditis.",
+        "La púrpura trombocitopénica es una complicación infrecuente.",
+        "La sordera suele ser unilateral.",
+        "Hasta en un 13% de los adultos afectos se encuentran alteraciones en el ST del electrocardiograma."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad alta sobre las complicaciones de la parotiditis, ya que no encontramos todas las opciones en el manual. La opción 1 es la incorrecta y es el dato básico que debemos saber acerca de las complicaciones de esta enfermedad, encontramos pleocitosis en el LCR sin aislamiento de bacterias pero si se puede realizar diagnóstico del virus por PCR. El siguiente dato que debemos recordar es que la sordera es más frecuentemente unilateral, y de ahí que la opción 4 sea correcta. El resto de opciones son difíciles y no son rentables en el examen.",
+      "id": 62
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "De los siguientes, el germen que con mayor frecuencia produce infección nosocomial en el neonato corresponde a:",
+      "opciones": [
+        "Streptococcus beta-hemolítico del grupo B.",
+        "Listeria monocytogenes.",
+        "Staphylococcus aureus.",
+        "Chlamydia trachomatis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Dentro de las sepsis, has de distinguir dos grandes grupos en función de su origen. Por un lado, las sepsis no nosocomiales (a su vez clasificables en precoces y tardías) y por otro, las sepsis de ámbito nosocomial. Como cualquier infección nosocomial (a lo mejor estás más familiarizado con las de la edad adulta), dentro de la etiología debes recordar los frecuentísimos estafilococos (aureus y epidermidis), los gram negativos tipo Pseudomonas spp. y los hongos (Candida). Opción 3 correcta.",
+      "id": 63
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Un lactante a término de 2100 gramos presenta irritabilidad, febrícula y temblor amplio a las 36 horas de nacer. Se alimenta mal y tiene diarrea y obstrucción nasal. ¿Cuál es el diagnóstico más probable?:",
+      "opciones": [
+        "Hipomagnesemia.",
+        "Déficit de piridoxina.",
+        "Abstención de heroína en una madre drogadicta.",
+        "Hipoglucemia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción3 correcta: El síndrome de abstinencia a opiáceos puede cursar clínicamente con gran variedad de sintomatología, que abarca desde la irritabilidad (llanto, temblores, crisis comiciales, hiperfagia, taquicardia, polipnea, sudoración) hasta síntomas menos específicos como el despeño diarreico, la inestabilidad térmica y la rinorrea. Recuerda que el manejo de este síndrome consiste en la administración de morfina o metadona (son los fármacos más empleados), y también pueden usarse fenobarbital o clonidina como terapias coadyuvantes.",
+      "id": 64
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Señale lo cierto con respecto al sarampión:",
+      "opciones": [
+        "Son infrecuentes los síntomas catarrales.",
+        "El exantema nunca afecta a palmas y plantas.",
+        "Se conoce como \"sarampión negro\" a un tipo de sarampión hemorrágico, con sangrado por boca, nariz e intestino.",
+        "La afectación hepática es más frecuente en niños que en adultos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad media- alta sobre el sarampión. Hemos de saber que el sarampión se presenta con frecuencia con síntomas catarrales con coriza y conjuntivitis, el exantema brota de craneal a caudal y centrífugamente y afecta con frecuencia palmas y plantas. La afectación hepática es más frecuente en los adultos. Por lo tanto la respuesta correcta es la 3",
+      "id": 65
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Se dice que un lactante prematuro presenta una anemia fisiológica cuando tiene:",
+      "opciones": [
+        "Cifras de Hb. de 6 gr/dl a las ocho semanas de edad.",
+        "Cifras de Hb. de 7-9 gr/dl hacia las 3-6 semanas.",
+        "Cifras de Hb. de 6 gr/dl hacia las 3-6 semanas.",
+        "Cifras de Hb. de 7-9 gr/dl hacia las ocho semanas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La anemia fisiológica de la prematuridad tiene como factores patogénicos tres: hemólisis (que comienza a las 48 horas de vida), resistencia a la acción de la eritropoyetina y escasez de reservas de hierro. El valor de la hemoglobina mínima alcanzada en el RNPT es de aproximadamente entre 7 y 9 g/dl alrededor de la sexta semana de vida (respuesta 2 correcta, valor mínimo fisiológico). Su Hb al nacer es de 12- 18 g/dl.",
+      "id": 66
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Se considera hipoglucemia en el recién nacido a término cifra de glucosa plasmática:",
+      "opciones": [
+        "Menor de 80 mg(dl.",
+        "Menor de 40 mg/dl.",
+        "Menor de 25 mg/dl.",
+        "Menor de 70 mg/dl."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La hipoglucemia neonatal se define arbitrariamente como glucemia plasmática menor de 40 mg/dl. A esta situación se puede llegar por diversas vías, siendo las más importantes la escasa ingesta, la escasez de reservas (CIR, bajo peso para edad gestacional, prematuros) y el hiperinsulinismo (nesidioblastosis, síndrome de Wiedamann, hijo de madre diabética).",
+      "id": 67
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Niño de 5 días de vida con ictericia desde el primer día, alimentado con leche materna, gana peso adecuadamente y la exploración física es normal. Se pide una bilirrubina total y directa y una tira de orina. ¿Cuál de los siguientes hallazgos analíticos NO le obligaría a realizar un estudio etiológico más exhaustivo?:",
+      "opciones": [
+        "Bilirrubina directa de 5 mg/dl.",
+        "Incremento de bilirrubina total de 6 mg/dl/día.",
+        "Hallazgo de bilirrubina importante en la \"tira de orina\".",
+        "Incremento de bilirrubina de 0,15 mg/dl/hora."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La presencia de bilirrubina directa superior a 2 mg/dl o mayor del 20% de la total siempre ha de ser estudiada (porque indica colestasis). A su vez, incrementos superiores a 5 mg/dl/día, indican que la ictericia no es fisiológica. La presencia de bilirrubina en orina también indica colestasis. Una bilirrubina de 20 mg/dl para un niño de 5 días extralimita los 12 mg/dl que se admite como límite máximo de ictericia fisiológica. Opción 4 correcta.",
+      "id": 68
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Nos hallamos ante un niño de 6 años que ha comenzado a quejarse desde hace 20 días de pérdida de visión del ojo derecho. Refiere cambios en la forma y tamaño de los objetos. En la exploración oftalmológica confirmamos la pérdida de agudeza visual y en el fondo de ojo se ve una zona de adelgazamiento de la retina, coincidente con la mácula, y con un borde hiperpigmentado. No tiene otras lesiones. En la historia lo único a reseñar es una ligera dificultad en el aprendizaje. ¿Qué tipo de patología sospecharía?:",
+      "opciones": [
+        "Toxoplasmosis congénita.",
+        "Retinitis pigmentaria de reciente comienzo.",
+        "Infección connatal por citomegalovirus.",
+        "Infección por candida albicans."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es bastante compleja. En primer lugar, has de enfocar el caso clínico hacia una afectación de la retina (por pérdida de agudez visual, adelgazamineto retiniano a nivel macular). La contestación no puede ser retinitis por C. albicans, pues en el examen del fondo ocular no se aprecian exudados algodonosos. Tampoco parece plausible una infección connatal por CMV, pues en este caso, si hay coriorretinitis también habría microcefalia y retraso mental profundo. La opción más correcta es la 1.",
+      "id": 69
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Cuál de los siguientes fármacos está CONTRAINDICADO en la lactancia materna?:",
+      "opciones": [
+        "Cloranfenicol.",
+        "Nitrofurantoína.",
+        "Clorfeniramina.",
+        "Antiácidos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "No te preocupes si has fallado esta pregunta. El estudio de las largas listas de fármacos que están contraindicados en la lactancia no es nada rentable. En líneas generales puedes recordar que durante la lactancia se deben evitar las sulfamidas, cloranfenicol, aminoglucósidos y antineoplásicos. Se pueden usar amoxicilina, eritromicina y cefalosporinas entre otros. Opción 1 correcta.",
+      "id": 70
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Se provoca el parto en la semana 41 + 5 de embarazo de una gestante que, después de dos horas con el goteo de oxitocina, comienza a experimentar fuertes contracciones muy dolorosas, cada vez más duraderas y más cercanas entre sí, sin que el feto progrese a través del canal del parto. La situación progresa rápidamente hasta que tiene que realizarse una cesárea urgente por tetania uterina. El líquido amniótico aparece marronáceo y el recién nacido inicialmente no respira de forma espontánea, aunque tras unos segundos responde a estímulos. En la exploración completa tras el parto, el neonato se muestra alerta, con reflejos primitivos fuertes y los tendinosos algo exaltados, pero sin ningún otro hallazgo llamativo. A las seis horas, presenta movimientos clónicos de la pierna derecha, que ceden tras la infusión de fenitoína IV. ¿Cuál cree que es la patología más probablemente responsable de este cuadro?:",
+      "opciones": [
+        "Infarto cortical en el hemisferio izquierdo.",
+        "Hemorragia intraventricular.",
+        "Hemorragia subaracnoidea.",
+        "Mioclonías benignas del lactante."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Este niño ha sufrido, secundariamente al problema materno, un insulto hipóxico. Fíjate en cómo ha eliminando meconio intraútero (líquido amniótio marronáceo). El insulto hipóxico, a su vez, ha dado lugar a una afectación piramidal difusa (hiperreflexia, irritabilidad) y a un infarto cortical izquierdo (con repercusión comicial sobre el miembro inferior derecho). Opción 1 correcta.",
+      "id": 71
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Durante el primer año de vida, generalmente los niños aprenden a:",
+      "opciones": [
+        "Diferenciar a su madre y familiares próximos de los extraños.",
+        "Andar.",
+        "Decir su primera palabra.",
+        "Todas las anteriores."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "No tiene mucha importancia el haber fallado esta pregunta del desarrollo psicomotor del niño. Los niños dicen su primera palabra y dan sus primeros pasos en torno a los 12-15 meses. El control vesical suele adquirirse hacia los 3 años, primero el diurno y luego el nocturno. Hablamos de enuresis cuando no se ha adquirido este control a la edad de 5 años. Opción 4 correcta.",
+      "id": 72
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Un RN de 38 semanas, pesa 2.200 g, mide 45 cm, tiene un perímetro cefálico de 32 cm y presenta los siguientes rasgos dismórficos: blefarofimosis, micrognatia, labio superior fino y anomalías menores de las articulaciones. ¿Qué habrá tomado la madre probablemente durante el embarazo?:",
+      "opciones": [
+        "Metadona.",
+        "Alcohol.",
+        "Fenobarbital.",
+        "Heroína."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: El síndrome alcohólico fetal cursa desde el punto de vista clínico con retraso de crecimiento intrauterino (fíjate que el niño del enunciado es muy pequeño), rasgos dismórficos faciales (labio superior fino, micrognatia), alteraciones de los dermatoglifos y cardiopatía (por lo general, suele haber alteraciones septales) y por retraso psicomotor de entidad variable.",
+      "id": 73
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Neonato de 8 días de vida que es traído a urgencias por presentar hemorragia umbilical tras la caída del cordón. No presenta otra sintomatología. En la exploración le llama la atención la presencia de petequias puntiformes distribuidas por toda la superficie corporal. Tras interrogar a la madre, nos cuenta que ella también tiene una patología de la coagulación, aunque no recuerda exactamente el nombre, y que durante el embarazo ha tenido que seguir tratamiento. En la analítica encontramos un nivel de plaquetas descendido. Indiquen la opción FALSA acerca de este cuadro:",
+      "opciones": [
+        "Sucede aproximadamente en un 30% de los niños cuyas madres tienen la enfermedad activa durante el embarazo, en cambio es excepcional si la enfermedad está inactiva.",
+        "Es frecuente la asociación con hepatoesplenomegalia.",
+        "La plaquetopenia suele durar de dos a tres meses.",
+        "No se debe hacer esplenectomía dado que el trastorno suele ser transitorio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Entre las causas de trombopenia neonatal, no ha de pasar desapercibida la posibilidad de que estés ante un hijo de madre con púrpura trombocitopénica de base inmune. En el niño no suele haber hepatoesplenomegalia (opción 2 correcta). La trombopenia en el niño puede durar bastante, incluso puede que dure meses. Una manera de minimizar la enfermedad consiste en administrar tratamiento específico a la madre.",
+      "id": 74
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Cuál de las siguientes opciones acerca de las convulsiones febriles NO es correcta?:",
+      "opciones": [
+        "Se debe estudiar y explorar al niño adecuadamente para descubrir el foco de la fiebre, porque las convulsiones en el contexto de la fiebre también pueden estar desencadenadas por sepsis o meningitis bacterianas.",
+        "Lo fundamental ante la primera crisis febril es descartar que haya una meningitis mediante la exploración y pruebas complementarias si es necesario y pautar un tratamiento anticonvulsivante.",
+        "La aparición de la convulsión tiene relación con la subida o bajada rápida de temperatura, por eso no se recomienda el baño en agua fría, sino templada, como antitérmico.",
+        "Es una patología rara antes de los 3 meses y después de los 5 años, teniendo el pico de máxima incidencia entre los 14 y 18 meses."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de dificultad alta debido a que la neurología pediátrica es un tema poco tratado en el manual de pediatría, aunque en el manual de neurología sí que aparece explicada. La respuesta correcta es la 2 ya que lo primero que debemos hacer ante una crisis febril es descender la fiebre lentamente y controlar el cuadro subyacente. Una vez logrado esto y si la crisis es típica, no debemos hacer nada más que estar atentos a posibles nuevos cuadros de fiebre elevada para aplicar rápidamente un tratamiento antitérmico. Si las crisis son frecuentes se puede aplicar como profilaxis, en caso de cuadro febril, diacepam rectal hasta la resolución del cuadro.",
+      "id": 75
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Mientras usted está de guardia le avisan para que vaya a valorar a un neonato de 4 días que ha rechazado las dos últimas tomas. Cuando llega encuentra que el niño está poco reactivo, con palidez de piel y mucosas y tinte ictérico. En la auscultación le llama la atención que está taquicárdico y taquipneico. En la palpación abdominal encuentra una masa elástica en hipocondrio derecho. Entre los antecedentes del embarazo y parto lo único destacable es que nació de nalgas y su peso de recién nacido fue de 4.050 gramos. ¿Cuál es su sospecha diagnóstica?:",
+      "opciones": [
+        "Hepatoblastoma.",
+        "Rotura del hígado con hematoma subcapsular.",
+        "Nefroma mesoblástico.",
+        "Sepsis neonatal precoz."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 3 correcta: La víscera que con mayor frecuencia se ve afectada en el contexto de un parto traumático es el hígado. Puedes sintetizar la lesión hepática del siguiente modo: neonato+parto traumático+palidez (secundaria a hemorragia)+masa en hipocondrio derecho. Como en cualquier hemorragia, el niño puede estar chocado, con lo cual sobreviene un aumento de la frecuencia cardíaca.",
+      "id": 76
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Un RN pretérmino de 30 semanas de edad gestacional, con un peso de 1100 gramos, realiza apneas de 30 segundos de duración con bradicardia y cianosis de forma frecuente. Señale entre las siguientes situaciones asociadas, cuál es MENOS frecuente:",
+      "opciones": [
+        "Anemia.",
+        "Sepsis.",
+        "Enterocolitis necrotizante.",
+        "Hiperglucemia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los neonatos expresan inespecíficamente su patología desde el punto de vista respiratorio, a través de pausas de apnea, distrés o polipnea. Cualquier enfermedad neonatal tiene una expresión común, por tanto. Cardiopatías, procesos intracraneales, anemia, infecciones, alteraciones digestivas, alteraciones metabólicas (hipoglucemia, no hiperglucemia - que suele ser iatrogénica y autolimitada- ) pueden ser causa de cese de la respiración. Opción 4 correcta.",
+      "id": 77
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Una de estas enfermedades NO se asocia a talla corta:",
+      "opciones": [
+        "Enfermedad de Conradi-Hunerman.",
+        "Enfermedad de Fairbank.",
+        "Síndrome de Hurler.",
+        "Enfermedad de Sprengel."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta sobre las causas de talla baja no tiene importancia. Hace referencia a enfermedades muy poco frecuentes. La acondroplasia es la displasia ósea más frecuente. Existe un cierre precoz de los cartílagos de crecimiento y una alteración en la osificación encondral que provoca acortamiento de las extremidades a expensas fundamentalmente del segmento proximal (enanismo rizomielico). La enfermedad de Fairbank (AD) es una forma de enanismo leve. Los miembros suelen ser extremadamente cortos y presentan artralgias debido a las anomalías del desarrollo de estos huesos. El síndrome de Conradi Hunerman se trata de una variedad de condrodisplasia punteada, asociada a rasgos faciales dismórficos, alteraciones oculares y trastornos hiperqueratósicos. Se caracteriza por acortamiento de huesos largos, calcificaciones periarticulares y contracturas articulares múltiples La enfermedad de Hurler (MPS tipo I) es la mucopolisacaridosis más grave con manifestaciones esqueléticas y neurológicas típicas que aparecen durante los 6 primeros meses de vida. La enfermedad de Sprengel consiste en una deformidad causada por una falta de descenso de la extremidad superior quedando la escápula anormalmente alta. Puede existir un hueso omovertebral. Se asocia a anomalías vertebrales como al síndrome de Klippel Feill . No afecta a la talla por lo que marcamos la opción 4 correcta.",
+      "id": 78
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Un RN pretérmino de 28 semanas de edad gestacional y 950 g de peso al nacer, presenta a los 15 días de vida sospecha clínica de sepsis. Presentó enfermedad de membrana hialina y recibió un ciclo de corticoides. Porta una vía central por donde recibe nutrición parenteral, y ha sido tratado con varios antibióticos por aparecer un estreptococo y un Staphylococcus aureus en el hemocultivo. ¿Cuál de los siguientes gérmenes sería el responsable con mayor probabilidad de la nueva infección?:",
+      "opciones": [
+        "Candida.",
+        "Citomegalovirus.",
+        "Listeria monocytogenes.",
+        "E. coli."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En los RN ingresado en una unidad de cuidados intensivo neonatal, especialmente si son grandes prematuros, si son portadores de vía central, si reciben nutrición parenteral y han sido tratados con antibióticos, hay que cubrir la posibilidad de la Cándida (opción 1 correcta). Esta situación queda plasmada en el enunciado de esta pregunta. Recuerda que en el tratamiento empírico de cualquier sepsis nosocomial se suele utilizar la anfotericina B liposómica.",
+      "id": 79
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre el tratamiento de la atresia de vías biliares es FALSA?",
+      "opciones": [
+        "La hepatoportoenterostomía con enteroanastomosis en Y de Roux es eficaz cuando se realiza a partir de los 4 meses de vida.",
+        "Aunque el tratamiento quirúrgico logre un buen flujo biliar, la mayoría de los pacientes desarrollará hipertensión portal y precisará un trasplante hepático.",
+        "Entre el 25 y el 50% de los pacientes no conseguirán un drenaje biliar adecuado.",
+        "La atresia de vías biliares es la causa más frecuente de trasplante hepático en el niño."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La atresia de vías biliares se caracteriza por la obliteración progresiva de los conductos biliares extrahepáticos. Su tratamiento definitivo es el trasplante hepático. Hoy por hoy, constituye la principal indicación de trasplante hepático infantil. Hasta que surja un donante, se procederá a realizar la intervención de Kasai, que es lo que están describiendo en la opción de respuesta 1 con otras palabras, pero no después de los 4 meses de vida, sino lo antes posible, para evitar las complicaciones neurológicas de la hiperbilirrubinemia. Opción 1 correcta.",
+      "id": 80
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Varón de 13 días que traen a urgencias porque presenta tras la caída del ombligo desde hace tres días una masa de color rojo intenso sobre la cicatriz umbilical, que ha aumentado progresivamente de tamaño. En la exploración todo es normal, salvo por la existencia de secreción mucoide sobre dicha masa. Señale el diagnóstico más probable:",
+      "opciones": [
+        "Granuloma umbilical.",
+        "Angioma umbilical.",
+        "Pólipo umbilical.",
+        "Onfalocele."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las masas umbilicales se pueden clasificar según su tamaño en dos grupos: las masas grandes (hernia, onfalocele y gastrosquisis) y las masas pequeñas. Las masas pequeñas son de color rojo. Estas masas pequeñas o masas rojas son dos: granuloma umbilical (blando, de aspecto vascular y color rojo pálido) y pólipo (consistencia dura, color rojo brillante). Opción 3 correcta.",
+      "id": 81
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Señale la sentencia FALSA en relación con la displasia broncopulmonar:",
+      "opciones": [
+        "Son antecedentes la prematuridad y la enfermedad de membrana hialina.",
+        "Los diuréticos se han demostrado poco útiles en el manejo a largo plazo.",
+        "La dexametasona i.v. puede emplearse en casos graves",
+        "A partir de los 2 años de edad el pronóstico generalmente es bueno."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La displasia broncopulmonar es aquella situación en la cual un RN sigue necesitando oxígeno a los 28 días de vida. Tiene un correlato radiológico que se conoce como pulmón en esponja. Es especialmente frecuente en prematuros que sufrieron enfermedad de membrana hialina. Puede predisponer de forma inespecífica al desarrollo futuro de hiperreactividad bronquial aunque a partir de los 2 años el pronóstico suele ser bueno. En su tratamiento se emplean, además de oxígeno, fisioterapia respiratoria, restricción de líquidos, diuréticos (opción 2, falsa) y broncodilatadores. En casos graves puede probarse un ciclo de dexametasona.",
+      "id": 82
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "La longitud del segmento corporal superior se iguala a la del segmento inferior aproximadamente a la edad de:",
+      "opciones": [
+        "Un año.",
+        "6 meses.",
+        "7 años.",
+        "10 años."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta de el tema del crecimiento del niño no tiene importancia. Desde el nacimiento hasta la edad adulta se producen cambios en la proporciones corporales debido a las diferencias en las tasas de crecimiento de las diferentes partes del cuerpo. La relación de los segmentos superior (talla- distancia de sínfisis al suelo) e inferior del cuerpo cambia con la edad: SS/SI = 1.7 en el RN, 1,4 al año, 1 a los 10 años y < de 1 a partir de entonces. Así, la longitud del segmento superior se iguala a longitud del segmento superior e inferior a los 10 años (opción 4 correcta). Esta relación tiene importancia para distinguir algunas displasias que afectan a la parte proximal (rizomielia) , media (mesomielia)o distal (acromielia) de los miembros y en el estudio de otras patologías como hipogonadismo (relación muy baja) e hipotiroidismo (relación muy alta )",
+      "id": 83
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Respecto a la varicela, señale lo correcto:",
+      "opciones": [
+        "l)La aspirina está indicada como tratamiento sintomático de la varicela.",
+        "En una neumonía por varicela no está indicado el tratamiento con aciclovir.",
+        "Niños con síndrome nefrótico que reciben corticoides deberían recibir la gammaglobulina antivaricela en las 72 horas postexposición.",
+        "En inmunosuprimidos no está indicado el tratamiento con aciclovir."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad media- alta sobre la varicela. La opción correcta es la 3, ya que un niño que recibe altas dosis de esteroides debemos considerarlo un inmunodeprimido y por lo tanto debería recibir la profilaxis postexposición con la gammaglobulina anti- VVZ. En cuanto al resto de las opciones, no debemos dar aspirina para prevenir la aparición de síndrome de Reye, tanto en la neumonía por varicela como en los inmunodeprimidos debemos tratar con aciclovir y también está indicada la profilaxis en RN cuya madre desarrolla varicela para prevenir la varicela perinatal.",
+      "id": 84
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "En un lactante se objetiva a los 2 meses una masa cervical de aspecto quístico que se comprime manualmente, no le duele y no está eritematosa. ¿Cuál es el diagnóstico más probable?:",
+      "opciones": [
+        "Quiste sebáceo.",
+        "Linfangioma.",
+        "Quiste enterógeno.",
+        "Quiste epidérmico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Los linfangiomas son masas esferoidales, de aspecto quístico, blandos a la presión. Los quistes son de consistencia elástica, y las adenopatías suelen estar induradas; ambas no desaparecen con la presión.",
+      "id": 85
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Todos los siguientes procesos se manifiestan frecuentemente como colestasis neonatal, EXCEPTO:",
+      "opciones": [
+        "Hepatitis B.",
+        "Sepsis.",
+        "Hemocromatosis neonatal.",
+        "Galactosemia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hepatitis B, en el período neonatal cursa de modo rigurosamente asintomático. A pesar de esta inocencia sintomática, hay una clara predisposición a desarrollar un estado de portador crónico. De ahí la peculiaridad de la infección transmitida de forma vertical. El resto de las patologías enumeradas, al igual que otras entidades (hepatitis neonatal idiopática, atresia biliar extrahepática, etc) pueden cursar con colestasis neonatal. Opción 1 correcta.",
+      "id": 86
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Niño de 3 años con cuadro catarral, fiebre de 39ºC y exantema maculoso que se inició en la cara y se ha generalizado, y que afecta a palmas y plantas. En la exploración se observa además un exantema rojo en mucosa bucal, facies abotargada, congestión nasal mucopurulenta, párpados hinchados y ojos rojos con lagrimeo intenso. ¿Con cuál de las siguientes complicaciones NO se ha relacionado esta enfermedad infecciosa?",
+      "opciones": [
+        "Orquitis.",
+        "Laringitis estenosante.",
+        "Neumonía de células gigantes.",
+        "Panencefalitis esclerosante subaguda."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cuadro clínico que nos describen corresponde a un sarampión. Son datos especialmente sugestivos la fiebre alta y el exantema con afectación palmoplantar. También son típicos el enantema faríngeo, la congestión nasal y la conjuntivitis bilateral. Por ello, la respuesta correcta es la 1, ya que esa complicación no es típica del sarampión, sino de la parotiditis.",
+      "id": 87
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Niño de 3 días que ha nacido de parto de nalgas y que presenta desde hace unas horas escasa reactividad y desconexión con el medio. En la exploración lo encuentra decaído, pálido, con tinte ictérico, taquicárdico y taquipneico. En el abdomen palpa una masa redondeada y lisa, en hipocondrio derecho, que parece depender del hígado. Señale la opción INCORRECTA acerca de la patología que sospecha:",
+      "opciones": [
+        "La prueba diagnóstica inicial debe ser un TC.",
+        "A veces el abdomen muestra un color azulado.",
+        "Los primeros datos suelen aparecer a partir del 3er-4º días de vida.",
+        "Suele ser consecuencia de la presión que se ejerce sobre el hígado durante la extracción de la cabeza en los partos de nalgas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La víscera que con mayor frecuencia se ve afectada en el contexto de un parto traumático es el hígado. Puedes sintetizar la lesión hepática del siguiente modo: neonato + parto traumático + palidez (secundaria a hemorragia) + masa en hipocondrio derecho. Como en cualquier hemorragia, el niño puede estar en shock, con lo cual sobreviene un aumento de la frecuencia cardíaca. Se diagnostica inicialmente a través de realizar una ecografía de abdomen, que mostrará el hematoma hepático. Opción 1 correcta.",
+      "id": 88
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "A su consulta acude un niño de 6 años con fiebre y exantema muy pruriginoso, con elementos vesiculosos y pustulosos de predominio en tronco, que le ha aparecido el día anterior. Cuando usted aconseja a la madre aislar al niño del resto de los niños y de embarazadas, ella asegura estar embarazada de 2 meses y no sabe si ha pasado la varicela. ¿Qué actitud es la más apropiada?",
+      "opciones": [
+        "No hacer nada, dado que lo más probable es que la madre haya pasado la varicela en la infancia.",
+        "Administrar Ig anti-varicela-zoster al niño y a la madre.",
+        "Realizar serología inmediata a la madre, y administrar Ig anti-varicela-zoster.",
+        "Tratar a la madre con aciclovir."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante un caso clínico como éste, debemos hacer las siguientes consideraciones.\n\n- La gestante está en el primer trimestre y no tenemos evidencia de que haya padecido la varicela. En caso de que, efectivamente, nunca la haya pasado, podría contagiarse en este momento.\n\n- El máximo riesgo de afectación fetal es el primer trimestre de la gestación, por ser el período durante el que se produce la organogénesis fetal. Realmente, no se trata de un riesgo muy alto, un 1- 2%, pero es el período donde es más probable.\n\nAunque la eficacia de la gammaglobulina para la prevención de la varicela congénita es dudosa hasta cierto punto, la respuesta más adecuada es la opción 3. El balance riesgo- beneficio aconseja su uso.",
+      "id": 89
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "¿Qué cuadro clínico NO se ha relacionado con las infecciones por enterovirus en la infancia?:",
+      "opciones": [
+        "Poliomielitis.",
+        "Herpangina.",
+        "Pericarditis.",
+        "Linfoma de Burkitt."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los enterovirus son gérmenes implicados con frecuencia en las infecciones infantiles; un enterovirus es el agente responsable de la poliomielitis. Pero, además de este, has de conocer otros enterovirus, como el Coxsackie A (responsable de a herpangina), el Coxsackie B (responsable de la mialgia epidémica de Bornholm) y los echovirus (implicados en miocarditis y pericarditis). El linfoma de Burkitt puede tener relación etiológica con el VEB, que es un herpesvirus.",
+      "id": 90
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "¿Cuál es la afectación más frecuente en la rubéola congénita?:",
+      "opciones": [
+        "Coriorretinitis.",
+        "Cardiopatía.",
+        "Catarata.",
+        "Sordera."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la rubéola congénita, las lesiones que pueden aparecer pueden ser: las de cualquier TORCH (antecedente de CIR, hepatoesplenomegalia, adenopatías, anemia, trombopenia), la tríada de Gregg (hipoacusia neurosensorial - que es lo más frecuente- , alteraciones oculares y cardiopatía) y lesiones óseas (recuerda que éstas no asocian periostitis).",
+      "id": 91
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Todas las siguientes son complicaciones de la exanguinotransfusión, EXCEPTO:",
+      "opciones": [
+        "Trombosis de la vena porta.",
+        "Enterocolitis necrotizante.",
+        "Síndrome del niño bronceado.",
+        "Síndrome de bilis espesa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome del niño bronceado es consecuencia del tratamiento de una ictericia con fototerapia, no de la exanguinotransfusión. El resto de las consecuencias enumeradas en esta pregunta pueden ser complicaciones del uso de la exanguinotrasfusión. Recuerad a efectos prácticos que se recurre a la exanguinotransfusión ante grandes ictericias, especialmente en prematuros con patología de base.",
+      "id": 92
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Todas las siguientes patologías se asocian a fontanela anterior amplia, EXCEPTO:",
+      "opciones": [
+        "Hipertiroidismo.",
+        "Osteogénesis imperfecta.",
+        "Raquitismo.",
+        "Hidrocefalia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La fontanela anterior o mayor tiene gran utilidad en la exploración física de los recién nacidos y lactantes hasta los 9- 18 meses de vida, fecha en que se cierra definitivamente. Nos va a veces a servir para orientar desde el punto de vista diagnóstico, si está a tensión (hemorragia intracraneal, hidrocefalia, meningitis); otras veces la encotraremos agrandada de forma inespecífica (acondroplasia, rubéola congénita, raquistismo, hipotiroidismo, osteogénesis imperfecta).",
+      "id": 93
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "El padecimiento de parotiditis en el primer trimestre de la gestación se asocia típicamente con una alteración cardíaca, ¿cuál?:",
+      "opciones": [
+        "Fibroelastosis endocárdica.",
+        "Pericarditis constrictiva.",
+        "Aneurismas de las arterias coronarias.",
+        "Comunicación interventricular múltiple."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las asociaciones que debes recordar de la parotiditis son: el aumento analítico de la amilasa (sin correlato clínico con pancreatitis) y la orquitis/ooforitis. Recuerda, además, que la parotiditis es la causa más frecuente de hipoacusia neurosensorial unilateral adquirida. Lo de que a veces se asocia con fibroelastosis endocárdica es casi una anécdota.",
+      "id": 94
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Señale la opción FALSA acerca del tratamiento de las bronquiolitis:",
+      "opciones": [
+        "Se debe mantener bien hidratado al niño. Lo mejor es que continúe con su alimentación vía oral, pero si esto no es posible, se debe emplear sonda nasogástrica para que siga siendo la vía de alimentación más fisiológica.",
+        "La hipoxia se debe corregir con medidas de oxigenoterapia para mantener saturaciones de oxígeno transcutáneas por encima del 95%.",
+        "La aplicación de salbutamol en aerosol es un pilar fundamental del tratamiento en los pacientes afectos de bronquiolitis.",
+        "La ribavirina no se debe aplicar de rutina porque no ha demostrado que sea eficaz ni para disminuir el tiempo de ventilación mecánica ni la duración de la estancia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta acerca de las bronquiolitis es útil porque nos resume su tratamiento. En cuanto a las medidas de soporte es necesario mantener una nutrición adecuada con tomas pequeñas y frecuentes, en el caso de que esto no sea posible se puede administrar la alimentación enteral por sonda nasogastrica. Se debe mantener al niño bien hidratado ya sea vía oral o parenteral. Recuerda que hay un aumento de las pérdidas insensibles de agua asociadas a la taquipnea.\n\nEl paciente hospitalizado debe recibir oxígeno para mantener una saturación > 93- 95% .\n\nEn lo referente al tratamiento farmacológico, la utilización de salbutamol en aerosol no está indicada debido a que el mecanismo fisiopatológico de la obstrucción bronquial es el edema y las secreciones y no el broncoespasamo. Además por debajo de los 6 meses no presentan receptores B2 en la pared bronquial. Ocasionalmente si el Paciente está mal y presenta claramente auscultación con Sibilantes se puede realizar una prueba terapéutica con salbutamol y valorar respuesta, si responde continuamos su administración. Pero no es un tratamiento de primera línea en los bronquiolitos (respuesta 3).\n\nEl uso se ribavirina (un agente antiviral específico) ha demostrado una leve eficacia en los ensayos clínicos. Se reserva para casos graves en pacientes de alto riesgo, pero no se debe aplicar de rutina.",
+      "id": 95
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Una niña de 12 años, con fibrosis quística presenta hemoptisis. ¿Qué diagnóstico diferencial NO se plantearía?:",
+      "opciones": [
+        "Hiperesplenismo con trombocitopenia.",
+        "Aspergilosis broncopulmonar alérgica.",
+        "Síndrome de Goodpasture.",
+        "Alteración plaquetaria tras tratamiento con ticarcilina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta sobre hemoptisis no tiene mucha relevancia. La hemoptisis es poco frecuente en pediatría Algunas de las causas son traqueotomía, cuerpo extraño, cardiopatía, MAV...Entre las causas mas frecuentes están las complicaciones de fibrosis quística. Puedes recordar que las hemoptisis de pequeña cuantía (<20ml) son muy frecuentes y suelen ser síntoma de una exacerbación respiratoria con erosión de la vía por la infección que requiere intensificar el tratamiento con antibióticos . En caso de hemoptisis masiva (250ml) pensaremos en rotura importante de una vaso y además de administrar vitamina K, puede ser necesario la embolización de la arteria bronquial. En caso se aspergillosis broncopulmonar alérgica es frecuente el esputo herrumbroso. El déficit de factores de coagulación por falta de vitamina K , la alteración plaquetaria por el uso de antiagregantes o la trombocitopenia por hiperesplenismo pueden ser causa de hemoptisis en la FQ. El síndrome de Goodpature (asocia hemorragia pulmonar y nefritis) no me lo plantearía en este caso. (Opción 3 correcta)",
+      "id": 96
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Qué puntuación en el test de Silverman tendría un recién nacido que presenta una maladaptación pulmonar con tiraje intercostal leve, aleteo nasal y boca abierta constantemente, quejido espiratorio en la auscultación, disociación toracoabdominal y depresión esternal marcada?:",
+      "opciones": [
+        "1-2.",
+        "3-4.",
+        "5-6.",
+        "7-8."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El test de Silverman cuantifica el distrés respiratorio de los neonatos y los lactantes más pequeños. Valora cinco ítems, cada uno de los cuales se puntúa entre 0 y 2 puntos (0 puntos indica la ausencia de clínica; 1 punto, síntomas leves; 2 puntos, severidad). Los ítmes son: aleteo nasal, quejido espiratorio, tiraje subcostal, retracción xifoidea y movimientos toraco-abdominales. Sumando todo da como respuesta correcta la opción 4.",
+      "id": 97
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Niño de 20 meses que es remitido a su consulta porque todavía no ha cerrado la fontanela anterior. En la exploración le llama la atención que tiene cifosis dorsal y que con la bipedestación tiene un genu varo. El abdomen es prominente, y se detecta una cierta hipotonía generalizada. En la analítica vemos: hemograma con 10,4 gr/dl de Hb, leucocitos y recuento normales, plaquetas de 354.000/mm3; ionograma normal, Calcio de 8,7 mg/dl, fósforo de 3,2 mg/dl; bioquímica con GOT 34 U/l, GPT 40 U/l, fosfatasa alcalina 1298 U/l, creatinina y urea normales. ¿Cuál de las siguientes afirmaciones acerca del cuadro clínico que sospecha es cierta?:",
+      "opciones": [
+        "El tratamiento más rápido y seguro es la administración de vitamina D a dosis profilácticas en este caso durante un año más.",
+        "El control del tratamiento se basa en determinación del calcio, fósforo y fosfatasa alcalina a los 15 días, y al mes el control radiográfico.",
+        "Suele existir en todos los niños una tendencia a la hipertonía por la existencia de hipocalcemia.",
+        "El primer signo óseo suele ser la existencia de metáfisis ensanchadas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En esta pregunta nos presentan un caso de raquitismo que es importante que sepamos reconocer. Además de las manifestaciones clínicas típicas: craneotabes, rosario condrocostal y fontanelas agrandadas con cierre retrasado debemos saber que en el raquitismo avanzado pueden aparecer deformidades de la columna y en los niños mayores pude apreciarse genu varum o valgum y fracturas en tallo verde de los huesos largos. Suele existir una hipotonía generalizada (abdomen abombado) y sólo en el caso de déficit crónico y grave se observa hipocalcemia que puede producir tetania. Desde el punto de vista analítico los niveles de calcio son normales o reducidos en el déficit de vitamina producido por carencia dietética o exposición solar inadecuada, mientras que los niveles de fósforo y 25(OH) D se reducen de forma constante. El primer signo óseo suele ser las rarefacciones del hueso que dan el aspecto de radiografía de mala calidad. El tratamiento se basa en la administración vo de 40000 UI de vitamina D durante un mes y después se sigue con la dosis profiláctica (400 UI /dia) durante el primer año.",
+      "id": 98
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Recién nacido a término, de 4 kg de peso, nacido de parto eutócico con líquido meconial, que presenta desde el nacimiento cianosis, tiraje intenso, aleteo nasal y rinorrea mucosa bilateral. Es incapaz de alimentarse y mejora su situación con el llanto intenso. La radiografía de tórax es normal. ¿Qué exploración será más útil para el diagnóstico?",
+      "opciones": [
+        "Ecocardiografía.",
+        "Radiografía lateral de faringe.",
+        "Pasar una sonda por la nariz hasta la faringe.",
+        "pH y gases capilares."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta clásica que no debe plantearte ningún problema. El caso que nos describen corresponde con una atresia de coanas. Es importante que aprendas a identificarlo.\n\nLos recién nacidos, igual que los adultos, respiran por la nariz la mayor parte del tiempo. Sin embargo, en algunsa ocasiones lo hacen por la boca, por ejemplo durante el llanto. Por ello, en la atresia de coanas, característicamente, mejoran durante el llanto, porque si respiran bucalmente el flujo aéreo no encuentra ningún obstáculo. Por el contrario, cuando se alimentan, al estar empleando la boca en la succión, se asfixian y tienen que parar para poder respirar. De las exploraciones que nos mencionan, la correcta sería la sonda hasta faringe, lo que confirma o descarta la obstrucción de las coanas. (opción 3 Correcta)",
+      "id": 99
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Niña de 2 meses de edad que se remite a la consulta de urología infantil por presentar reflujo vésico-ureteral bilateral grado III. Antecedentes: diagnóstico prenatal de ectasia piélica bilateral. Pielonefritis aguda, al mes de vida, tras la realización de la cistouretrografía diagnóstica. De las siguientes opciones, ¿cuál sería la indicación MÁS RECOMENDABLE?",
+      "opciones": [
+        "No hacer nada; ya que el reflujo puede desaparecer de forma espontanea.",
+        "Tratamiento endoscópico del reflujo",
+        "Solicitar gammagrafía renal (DMSA) y realizar un urocultivo mensual.",
+        "Profilaxis antibiótica con amoxicilina y solicitar gammagrafía renal (DMSA)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En esta pregunta se nos plantea el manejo de una paciente lactante con RVU. La importancia clínica del RVU en los niños ha venido determinada por su asociación con la presencia de infecciones urinarias de repetición y el posible establecimiento de un daño renal crónico que conduzca a la progresión a insuficiencia renal. La clasificación internacional del RVU establece cinco grados y determina el manejo conservador (grados I-II) o quirúrgico (IV-V). Concretamente en el grado III, el reflujo produce una ligera dilatación del uréter, la pelvis y los cálices renales, con preservación de los fórnix. El RVU de grado III se considera moderado y su manejo depende de la evolución, pues algunos de ellos pueden mejorar los primeros años de vida. En este caso clínico, se presenta una niña con antecedente de hidronefrosis prenatal a la que se le realiza la cistouretrografía que confirma un RVU grado III bilateral. Tras la exploración, desarrolla una pielonefritis aguda (PNA) como complicación infecciosa. En cuanto al manejo de esta paciente tenemos que plantearnos: necesidad de ampliar estudio , tratamiento quirúrgico y profilaxis antibiótica. Entre las pruebas a realizar, destaca la gammagrafía renal (DMSA) para valorar la repercusión que el RVU ha tenido sobre el parénquima renal tanto en la época prenatal como postnatal. El tratamiento del RVU grado III no se considera quirúrgico de entrada, sino que la decisión de realizar tratamiento endoscópico depende de la evolución: infecciones urinarias de repetición, persistencia del reflujo, etc. Por todo lo explicado, ante un RVU grado III bilateral (moderado) en una paciente de 2 meses que ya ha presentado una primera infección, estaría indicado iniciar profilaxis antibiótica con amoxicilina y realizar DMSA. Al año, tras repetir el estudio cistográfico, si no ha habido ninguna nueva ITU en este tiempo, se podría suprimir la profilaxis. En caso de mala evolución, se puede valorar la corrección quirúrgica.",
+      "id": 100
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Respecto a las diferencias entre la leche de vaca y la leche humana, es FALSO que la:",
+      "opciones": [
+        "Leche de vaca es más rica que la leche humana en sales minerales.",
+        "Leche humana tiene más flúor que la leche de vaca.",
+        "Leche de vaca es más pobre que la leche humana en cuanto a cantidad de vitamina K.",
+        "Composición proteica de la leche de vaca y humana difiere, estando en esta última compuesta hasta en un 70% de seroproteínas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Debes conocer las principales diferencias de composición entre la leche humana y de vaca:- La leche de vaca en comparación con la leche materna contiene más sales minerales (iones), vitamina B y K, calcio y proteínas.- La leche humana tiene más vitaminas C y D y ácidos grasos de cadena larga.Otras ideas relacionados con este tema que has de conocer son: el calostro (leche de los 2-4 primeros días) que tiene más proteínas, sales minerales y factores inmunitarios. La leche de inicio (para los 6 primeros meses) es más pobre que la de continuación (6 meses en adelante) en calcio, hierro y proteínas.",
+      "id": 101
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Neonato que presenta un episodio, nada más nacer, de dificultad respiratoria severa, con cianosis generalizada que mejora con el llanto. Señale la respuesta FALSA acerca de la patología que sospecha:",
+      "opciones": [
+        "Para su diagnóstico ha de utilizarse la radiografía lateral de cráneo con contraste nasal.",
+        "En este caso se espera que la atresia sea bilateral.",
+        "En algunas ocasiones podemos observar la participación del hueso en la malformación.",
+        "Una medida paliativa útil es el uso de las tetinas de McGovern."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La atresia de coanas es la malformación nasosinusal más frecuente (1 de cada 8.000 RN), tiene predilección por el sexo femenino. El tipo más frecuente es la unilateral derecha. En la bilateral hay riesgo para la vida del recién nacido. Como los recién nacidos presentan respiración nasal obligada, la atresia bilateral produce disnea que se alivia con el llanto (momento en que toma aire por nariz y boca) y empeora con la deglución. Generalmente la placa atrésica es membranosa, pero en un 10% de los casos, la falta de permeabilidad es por un stop óseo. Un 50% de las atresias se asocian a otras malformaciones.\n\nEl diagnóstico se sospecha ante la imposibilidad de hacer progresar una sonda nasogástrica en el RN, y se confirma con examen endoscópico nasal y tomografía computerizada (TC).\n\nEl tratamiento es quirúrgico y éste debe realizarse de forma urgente en el caso de las atresias con afectación bilateral. En espera de la cirugía precisa la colocación de sonda y cánula respiratoria.",
+      "id": 102
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Niño de 3 años con cuadro catarral, fiebre de 39ºC y exantema maculoso que se inició en la cara y se ha generalizado, y que afecta a palmas y plantas. En la exploración se observa, además, un exantema rojo en mucosa bucal, facies abotagada, congestión nasal mucopurulenta, párpados hinchados y ojos rojos con lagrimeo intenso. ¿Con cuál de las siguientes complicaciones NO se ha relacionado esta enfermedad infecciosa?",
+      "opciones": [
+        "Orquitis.",
+        "Laringitis estenosante.",
+        "Neumonía de células gigantes.",
+        "Panencefalitis esclerosante subaguda."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cuadro clínico que nos describen corresponde a un sarampión. Son datos especialmente sugestivos la fiebre alta y el exantema con afectación palmoplantar. También son típicos el enantema faríngeo, la congestión nasal y la conjuntivitis bilateral. Por ello, la respuesta correcta es la 1, ya que esa complicación no es típica del sarampión, sino de la parotiditis.",
+      "id": 103
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "El principal problema clínico de un recién nacido posmaduro deriva de:",
+      "opciones": [
+        "Enfermedad de membrana hialina.",
+        "Hipoglucemia.",
+        "Sindrome de insuficiencia placentaria.",
+        "Hiperglicemia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se dice que un recién nacido es posmaduro si su edad gestacional excede las 42 semanas. El mayor problema que asola a los posmaduros es la insufuciencia placentaria, que condiciona potencialmente la aparición de cuadros de hipoxia, acidosis, pérdida de bienestar y sufrimiento fetal agudo. Derivados de estos hechos puede aparecer, a su vez, cuadros también muy graves como el síndrome de aspiración meconial.",
+      "id": 104
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Un RN pretérmino de 29 semanas y 1100 gramos de peso al nacer, sometido a ventilación mecánica por enfermedad de membrana hialina, presenta deterioro clínico al 10º día de vida que impide la retirada de la ventilación mecánica. El niño tiene pulsos saltones, hepatomegalia, soplo continuo infraclavicular izquierdo y signos radiográficos de edema pulmonar. En la ecografía cerebral se objetiva una hemorragia intraventricular de grado III, y en la ecocardiografía un ductus arterioso permeable. ¿Qué medida terapéutica NO realizaría en este neonato?:",
+      "opciones": [
+        "Administración de furosemida.",
+        "Administración de indometacina.",
+        "Cierre quirúrgico del ductus arterioso permeable.",
+        "Mantener la ventilación mecánica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Muchos de los factores que favorecen la EMH provocan, asimismo, un retraso en el cierre del ductus. Suele manifestarse como apneas inexplicables en un RN que se recupera de una EMH, pulsos saltones, soplo sistólico o contínuo subclavicular izquierdo, aumento de las necesidades de oxígeno, hepatomegalia... El diagnóstico es con ecocardiograma Doppler. Para su tratamiento, además del aporte adecuado de líquidos y diuréticos, en caso de deterioro progresivo, está indicado el cierre farmacológico con inhibidores de la producción de prostaglandinas (ibuprofeno o indometacina), siempre y cuando no exista alguna contraindicación tales como hemorragia activa (como en este caso, y por eso se incluye este dato en esta pregunta), trombopenia, enterocolitis o insuficiencia renal. En caso de contraindicación o fracaso del tratamiento médico, la alternativa es la ligadura quirúrgica.",
+      "id": 105
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "El síndrome de Eagle-Barret o \"prune-belly\" cursa de forma habitual con todo lo siguiente, EXCEPTO:",
+      "opciones": [
+        "Cardiopatías congénitas en el 50% de los casos.",
+        "Malrotación intestinal.",
+        "Deficiencia de la musculatura de la pared abdominal.",
+        "Dilatación masiva de los uréteres."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de Eagle-Barret o \"prune-belly\"es un trastorno congénito del aparato urinario, caracterizado la ausencia de músculos abdominales, criptorquidia y piel del vientre arrugada.\n\nEl 10% de los casos cursan con cardiopatía congénita, y no el 50% como aparece especificado en la opción 1 de esta pregunta. El resto de las opciones son rigurosamente correctas, pues este síndrome puede acopañarse de malrotación intestinal, atrofia de los rectos abdominales, criptorquidia y ureterohidronefrosis.",
+      "id": 106
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "En el recién nacido pretérmino, la presencia de líquido amniótico teñido de meconio se ha asociado con un riesgo aumentado de padecer infección por:",
+      "opciones": [
+        "S. agalactiae.",
+        "S. epidermidis.",
+        "S. aureus.",
+        "Listeria monocytogenes."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Listeria monocytogenes es responsable de sepsis neonatales. Las sepsis debidas a este agente etiológico pueden llegar a ser altamente severas, y pueden cursar con meningitis que - a su vez- pueden acarrear secuelas serias. Recuerda que la presencia de líquido meconial se asocia con el desarrollo de sepsis por Listeria, y que este bacilo gram positivo que adecuadamente cubierto por el uso de ampicilina.",
+      "id": 107
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Usted acude a la maternidad de su hospital para hacer la revisión previa al alta de un niño de 3 días, que presenta en la exploración una zona tumefacta sobre la región parietal derecha. La madre le comenta que el expulsivo fue prolongado, pero que el niño no tenía el bulto al nacer, sino que se le ha ido formando. La tumefacción no sobrepasa la línea media y el cuero cabelludo no muestra alteraciones en su color. Sobre la patología que sospecha, señale la opción INCORRECTA:",
+      "opciones": [
+        "Puede asociarse a fracturas craneales, que generalmente son como una abolladura tipo pelota de ping-pong.",
+        "Se limita solo a un hueso craneal.",
+        "Si es muy grande y produce una gran hiperbilirrubinemia, puede estar indicada la fototerapia .",
+        "En principio, no están indicados la incisión y drenaje de la lesión."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el enunciado de la pregunta te están describiendo un cefalohematoma: aparece en el contexto de un parto traumático, no está presente al nacer (sino horas después del parto), no asocia alteraciones cutáneas suprayacentes a la lesión, queda confinada a un hueso... El cefalohematoma es una lesión que puede sobrevenir en un parto traumático, y que puede vincularse a fractura craneal. Ésta suele ser lineal (no deprimida).",
+      "id": 108
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Un niño de 8 años, inmigrante de un país africano, que presenta una gibosidad angulada a nivel torácico con paraparesias en miembros inferiores. En Rx lateral de columna se observa una cifosis angular intensa, destrucción del cuerpo vertebral T8-T9 y en RMN, una estrechez del canal torácico y comprensión medular. La etiología más frecuente:",
+      "opciones": [
+        "Cifosis congénita.",
+        "Tuberculosis vertebral.",
+        "Tumor de Ewing.",
+        "Infección piógena."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La osteomielitis tuberculosa fundamentalmente afecta a la columna dorsal (enfermedad de Pott). Produce importante destrucción de cuerpos vertebrales, con dolor y cifosis. Pueden existir abscesos fríos paravertebrales, que se extienden por las fascias y drenan en localizaciones lejanas a la columna. No suele ser preciso el drenaje, ya que responde bien al tratamiento médico. La tuberculosis articular afecta fundamentalmente a grandes articulaciones de carga, como caderas y rodillas.",
+      "id": 109
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Recién nacido, hijo de madre con diabetes gestacional, que comienza con temblor ante mínimos estímulos e irritabilidad desde el 2º día de vida. No existieron complicaciones perinatales, siendo el test de Apgar 8/10. En la analítica realizada se encuentra una glucemia de 40 mg/dl y un calcio total de 7 mg/dl. Se inician aportes de glucosa y calcio i.v. a pesar de lo cual persiste la sintomatología. Una nueva analítica demuestra una glucemia normal y una calcemia de 6,8 mg/dl. ¿Qué actitud le parece más adecuada?:",
+      "opciones": [
+        "Aumentar los aportes de calcio.",
+        "Determinar el calcio iónico.",
+        "Determinar calcio iónico, magnesio y fósforo.",
+        "Realizar ecografía cerebral urgente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Recuerda que el calcio y el magnesio son una especie de “hermanos gemelos”. Cuando una hipocalcemia se mantiene a pesar del tratamiento con calcio, debes descartar una hipomagnesemia asociada. Si ésta existe, tienes que corregirla, puesto que de lo contrario no solucionarás el problema del calcio. Por otra parte, no debes olvidarte del calcio iónico (indica más fiablemente la situación del niño que el calcio total) y el fósforo. (Opción 3 correcta)",
+      "id": 110
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Señale, de entre las siguientes patologías, la MENOS frecuentemente asociada a hidrops fetal:",
+      "opciones": [
+        "Malformación cardíaca.",
+        "Anemia por incompatibilidad Rh.",
+        "Trisomía 18.",
+        "Fisura palatina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El hidrops fetal supone la aparición de edemas generalizados en el feto. Es un concepto ecográfico. Pueden provocar la aparición de estos edemas diversas situaciones, como la disfunción cardíaca, el uso del hígado para hacer hematopoyesis extramedular (incompatibilidad Rh, infección por parvovirus B19) y otras causas menos frecuentes, como la trisomía 18. La fisura palatina no se asocia con el hidrops por lo que marcamos la opción 4.",
+      "id": 111
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Son causas de hiperbilirrubinemia conjugada en el recién nacido todas las que siguen, EXCEPTO:",
+      "opciones": [
+        "Síndrome de Dubin-Johnson.",
+        "Hepatitis A con colestasis.",
+        "Síndrome de Crigler-Najjar.",
+        "Colestasis familiar benigna."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el síndrome de Crigler- Najar hay una imposibilidad de conjugación de la bilirrubina por déficit enzimático (que afecta glucoronil transferasa). Por tal motivo no hay un síndrome colestático (opción 3). El resto de las opciones enumeradas en esta pregunta corresponden con formas raras de síndrome colestástico, cuyos máximos exponentes en el neonato son dos: hepatitis neonatal idiopática y atresia biliar extrahepática.",
+      "id": 112
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "En la exploración de un neonato de 3 días de vida, aprecia que el niño está poco reactivo y con cierta desconexión con el medio. La madre le cuenta que le nota un poco decaído desde hace un par de horas y que a veces se pasa unos segundos sin respirar, mostrando un color azulado alrededor de la boca. Continuando con la exploración, vemos palidez, petequias puntiformes en tórax, respiración superficial con taquipnea, abdomen blando, depresible y sin masas, fontanela a tensión. Se encuentra afebril. En los antecedentes familiares no recogemos nada de interés y en los personales encontramos que es un recién nacido con peso adecuado para la edad gestacional, con parto vaginal con ventosa, que ha recibido todas las medidas profilácticas adecuadas, y presenta un test de Coombs directo positivo. ¿Cuál sería su diagnóstico de sospecha?:",
+      "opciones": [
+        "Hemorragia intracraneal por paso de anticuerpos de una PTI materna.",
+        "Hemorragia intracraneal por enfermedad hemorrágica del recién nacido.",
+        "Hemorragia intracraneal por PTI del niño.",
+        "Hemorragia intracraneal por isoinmunización de antígenos plaquetarios."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Cualquier neonato enfermo, independientementede su proceso de base, puede hacer pausas de apnea. Por eso, debes buscar un signo localizador de patología. En este caso, el proceso es intracraneal (fontanela a tensión). Fíjate además en la naturaleza de la patología del niño: éste está pálido y presenta petequias, luego parace ques está sangrando y tienen trombopenia. Finalmente, la presencia de un test de coombs positivo, te orienta hacia una trombopenia isoinmune. Opción 4 correcta.",
+      "id": 113
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "¿Qué afirmación sobre las atresias intestinales es FALSA?:",
+      "opciones": [
+        "Las atresias yeyunal e ileal son las más frecuentes.",
+        "Puede existir antecedente de polihidramnios.",
+        "La asociación con S. de Down es frecuente.",
+        "La observación de calcificaciones intraperitoneales en la radiografía descarta este diagnóstico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las atresias intestinales son cuadros muchas veces de tediosa evolución, pues requieren múltiples intervenciones quirúrgicas y ocasionalmente derivan hacia la presencia de secuelas tales como el intestino corto. Son especialmente frecuentes en los niños con síndrome de Down, a nivel de yeyuno- íleon. Más raramente afectan al colon, en el contexto de un megacolon agangliónico extremo. Suele tener antecedente obstétrico de polihidramnios. Si generan peritonitis meconial intraútero, en la radiografía de abdomen se aprecian calcificaciones peritoneales dispersas. Opción 4 correcta.",
+      "id": 114
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Respecto a la afectación del aparato respiratorio en el seno de la fibrosis quística, señale cuál de las siguientes afirmaciones es cierta:",
+      "opciones": [
+        "El tratamiento broncodilatador es el punto principal del tratamiento de la fibrosis quística.",
+        "La colonización por Burkhloderia cepacia es de fácil erradicación",
+        "En fases precoces los estudios de función pulmonar muestran un patrón restrictivo.",
+        "El colonizador más frecuente en niños es el S. aureus."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La lesión anatomopatológica más precoz en los pacientes con FQ es la bronquiolitis (inflamación de las vías aéreas de pequeño calibre). El tratamiento broncodilatador mejora la permeabilidad de la vía respiratoria pero son los antibióticos para controlar las infecciones crónicas y la fisioterapia respiratoria el punto principal del tratamiento. En los estudios de función pulmonar el patrón encontrado inicialmente será obstructivo evolucionando en fases mas avanzadas a restrictivo. El colonizador más frecuente en niños es el S. aureus mientras que en adultos es P. aeruginosa (opción 4 correcta). La colonización por B. cepacia es de dificil erradicación y de mal pronóstico.",
+      "id": 115
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "La infección congénita por CMV y la rubéola congénita tienen un dato clínico en común, señálelo:",
+      "opciones": [
+        "Presencia de ductus arterioso persistente.",
+        "Calcificaciones cerebrales intracraneales.",
+        "Sordera neurosensorial.",
+        "Cataratas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Hay tres rasgos generales comunes a todas las infecciones connatales:\n\n- el antecedente de retraso del crecimiento intrauterino\n\n- la hiperplasia del sistema mononuclear fagocítico (hepatomegalia con ictericia, esplenomegalia, adenopatías)\n\n- las alteraciones hematológicas, anemia, trombopenia).\n\nRecuerda también que hay un rasgo clínico que se repite en muchas TORCH: la hipoacusia neurosensorial. Opción 3 correcta.",
+      "id": 116
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Señalar cuál de los siguientes enunciados es INCORRECTO con respecto al hijo madre diabética:",
+      "opciones": [
+        "Tienen una mayor incidencia de síndrome de distrés respiratorio.",
+        "La incidencia de anomalías congénitas es 3 veces mayor que en la población general.",
+        "Existen niveles plasmáticos elevados de hormona de crecimiento en el feto.",
+        "Son generalmente recién nacidos de peso elevado para la edad gestacional."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En los hijos de madre diabética las cifras de insulina son mayores que en los neonatos cuyas madres no tienen ninguna patología de base, si bien los niveles de GH se encuentran dentro de los niveles normales (opción 3 correcta). Ten en cuenta que, además de poder desarrollar hipoglucemia, estos niños tienen más riesgo de desarrollar enfermedad de membrana hialina, cardiopatía, hipoplasia de colon izquierdo y agenesia de sacro.",
+      "id": 117
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Señalar lo FALSO en relación a la taquipnea transitoria del RN o síndrome de distrés respiratorio tipo II (SDR-II):",
+      "opciones": [
+        "Auscultación sin estertores.",
+        "Taquipnea de inicio a las 12-24 horas de vida.",
+        "Radiografía de tórax con hipervascularización pulmonar, líquido en cisuras e hiperaireación discreta.",
+        "Mejora con administración de oxígeno."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La taquipnea transitoria es la modalidad de distrés respiratorio típica del RN a término o casi a término. Para su génesis, se requiere además un desencadenante obstétrico (parto por cesárea o vaginal rápido), que hace que el tórax del RN no sufra compresión en el canal del parto, con lo que el líquido pulmonar no sería desalojado. Precisamente, ese líquido pulmonar en la radiología te debe dar la clave diagnóstica, junto con la evolución favorable. El comienzo de los síntomas se produce hacia las 5- 6 horas de vida. Opción 2 correcta.",
+      "id": 118
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "El síndrome de Pierre Robin se caracteriza por:",
+      "opciones": [
+        "Hernia umbilical, ictericia prolongada y fontanela anterior amplia.",
+        "Hipoplasia mandibular con desplazamiento posterior de la lengua.",
+        "Debilidad de músculos abdominales, criptorquidia y anomalías genitourinarias.",
+        "Aniridia y hemihipertrofia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una pregunta de extrema dificultad. La secuencia de Pierre Robin se acompaña de micrognatia, glosoptosis y obstrucción respiratoria alta, y con frecuencia se asocia a fisura palatina (opción 2 correcta). Estos niños pueden mostrar importantes dificultades para respirar y deglutir, a causa de la obstrucción de la vía aérea superior, debido a la disminución del espacio faríngeo por la retropulsión de la lengua. La opción 1 correspondería a características clínicas del hipotiroidismo congénito. La opción 3 corresponde al síndrome de Eagle-Barrett o síndrome del abdomen en ciruela de pasa. La opción 4 sería compatible con el síndrome de Denys-Drash que se asocia a nefropatía, pseudohermafroditismo masculino y tumor de Wilms.",
+      "id": 119
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Para el prematuro de muy bajo peso, la leche humana puede aportar bajas cantidades de:",
+      "opciones": [
+        "Grasas.",
+        "Lactosa.",
+        "Calcio.",
+        "Vitamina E."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta sobre la alimentación del prematuro no es muy importante .El contenido de calorías, grasas y lactosa de la leche materna es suficiente para el prematuro, pero no así el de proteínas, vitaminas y minerales. Los prematuros de muy bajo peso desarrollan con frecuencia osteopenia. Es fundamental que reciban aportes adecuados de calcio fósforo y vitamina D para evitar la desmineralización y aparición de fracturas. Opción 4 correcta.",
+      "id": 120
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Ante un niño que presenta colestasis intrahepática, rasgos dismórficos (frente ancha, hipertelorismo con ojos hundidos y retromicrognatia), anomalías oculares (embriotoxon posterior), vértebras en mariposa y nefropatía tubulointersticial, ¿qué alteración cardiovascular esperaría encontrar?:",
+      "opciones": [
+        "Estenosis pulmonar periférica.",
+        "Estenosis valvular pulmonar.",
+        "Hipoplasia de arco aórtico.",
+        "Coartación de aorta."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de Alagille combina la colestasis intrahepática por ductopenia con un conjunto de rasgos dismórficos lleno de cosas que vuelan (vértebras en alas de mariposa, cara de pájaro) y patología malformativa: cardiopatía (estenosis pulmonar periférica, Fallot), malformaciones renales, alteraciones vasculares y alteraciones oculares. Opción 1 correcta.",
+      "id": 121
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Indique cuál de las siguientes situaciones NO produce falso positivo en el test del sudor:",
+      "opciones": [
+        "Hipotiroidismo.",
+        "Hipoparatiroidismo.",
+        "Edema hipoproteinémico.",
+        "Insuficiencia suprarrenal no tratada."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta del diagnostico de la fibrosis quística es difícil y sin mucha relevancia. Lo que si es importante es tener claros los criterios diagnósticos de fibrosis quística, las indicaciones del test del sudor y en qué consiste. En ciertas situaciones bien definidas se producen falsos negativos como en caso de edema (respuesta 3 falsa), y falsos positivos: insuficiencia suprarrenal, hipotiroidismo, hipopituitarismo, diabetes insípida nefrogénica, displasia ectodérmica, malnutrición y enfermedades por deposito como mucopolisacariosis, glucogenosis tipo I.\n\nUna mala técnica puede ser causa de falsos negativos o positivos. Algunos pacientes pueden presentar síntomas típicos pero leves con niveles de Cl normales fibrosis quística atípica. Recuerda que los epitelios derivan de la hoja ectodérmica y los principales órganos afectados en la FQ son los epitelios.",
+      "id": 122
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "En Bolivia más del 50% de los niños tienen anemia por",
+      "opciones": [
+        "Déficit de complejo B",
+        "Déficit ácido fólico",
+        "Hemólisis",
+        "Por déficit de hierro"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: La anemia es una afección en la cual el cuerpo ya no tiene suficientes glóbulos rojos sanos, puede existir una alteración de la hemoglobina provocando una deficiencia de hierro ocasionando anemia, entre otras causas pueden ser la incapacidad de absorber hierro.",
+      "id": 123
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Lactante de 3 meses que presenta tos y dificultad respiratoria de 2 días de evolución, que no cede pese al tratamiento con broncodilatadores en cámara. Durante el último día, ha comenzado a rechazar las tomas y a presentar vómitos después de los accesos de tos. Asocia febrícula. Ahora tiene tiraje sub e intercostal, palidez y abundantes ruidos de secreciones con la respiración, y en la auscultación presenta sibilancias espiratorias. La saturación transcutánea de oxígeno es del 90%. ¿Cuál será el tratamiento de elección, según su diagnóstico de sospecha?:",
+      "opciones": [
+        "Salbutamol en aerosol, además de medidas generales como posición semiincorporada, fraccionamiento de las tomas y lavados nasales.",
+        "Añadir a lo anterior un ciclo corto de corticoides vía oral.",
+        "Además de medidas generales, ingreso hospitalario y oxigenoterapia.",
+        "Aerosoles de adrenalina, medidas generales y antibioterapia vía oral por el riesgo tan alto de sobreinfección de esta patología."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta acerca del tratamiento de la bronquiolitis es difícil y nunca lo han preguntado. El tratamiento en las formas leves se puede realizar en el domicilio: posición semiincorporada, fraccionamiento de las tomas y lavados nasales. Los broncodilatadores no han demostrado eficacia. El paciente de la pregunta cumple criterios de ingreso (rechazo de tomas, saturación <93%) y debe recibir oxigeno que es la única terapia de eficacia demostrada en bronquiolitis (opción 3 correcta). Recuerda que los corticoides no han demostrado eficacia y que los antibióticos sólo se emplean si existe sobre infección bacteriana, que no existe en este caso. El riesgo de sobreinfección no es alto.",
+      "id": 124
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "La auscultación del abdomen nos revela la calidad de los ruidos intestinales y se debe detectar en",
+      "opciones": [
+        "El cuadrante superior",
+        "El cuadrante inferior",
+        "En todos los cuadrantes",
+        "En el cuadrante izquierdo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los ruidos intestinales (borborigmos) son los ruidos que se producen en el interior del intestino delgado y el intestino grueso, generalmente durante la digestión. Por lo general, son ruidos huecos similares a los que produce el agua al pasar por una cañería. Si bien los ruidos intestinales suelen ser normales, los ruidos frecuentes y excesivamente fuertes o la ausencia de ruidos intestinales podrían indicar la presencia de una afección subyacente en el sistema digestivo. El cual debe ser auscultado en los 9 cuadrantes. Opción 3 correcta.",
+      "id": 125
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Señale qué complicación NO se encuentra en la infección por rubéola adquirida durante la infancia:",
+      "opciones": [
+        "Artritis.",
+        "Neuritis.",
+        "Encefalitis.",
+        "Cataratas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las complicaciones de la rubéola son las siguientes: artritis de pequeñas articulaciones (más frecuente en mujeres pospúberes), trombocitopenia y alteraciones neurológicas (neuritis, encefalitis, panencefalitis rubeólica). No confundas las complicaciones de la rubéola- exantema con la rubéola congénita, que clásicamente cursa con alteraciones óseas, hipoacusia, alteraciones oculares (entre ellas, las cataratas) y cardiopatía. Opción 4 correcta.",
+      "id": 126
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Un recién nacido de término incrementa durante el primer mes a razón de",
+      "opciones": [
+        "15 gr por día",
+        "20 gr por día",
+        "35 gr por día",
+        "10 gr por día"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El crecimiento del recién nacido es un indicador de buena salud , sin embargo hay una variedad dependiendo el tipo de alimentación y también puede depender del tamaño y la estatura de los padres, la salud de la madre durante el embarazo o el tipo de alimentación, sin embargo hay una elevación del peso de 20 gramos por día durante las primeras semanas seguidas del nacimiento. Opción 2 correcta.",
+      "id": 127
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Neonato de 38 semanas de edad gestacional que en el paritorio presenta cianosis generalizada, tiraje intenso, aleteo nasal y rinorrea mucosa que se alivian parcialmente cuando el niño comienza a llorar. No se puede llevar a cabo la alimentación oral porque se vuelven a producir crisis de cianosis y dificultad respiratoria intensas. ¿Cuál sería su diagnóstico de sospecha?",
+      "opciones": [
+        "Atresia tráqueo-esofágica.",
+        "Atresia de coanas.",
+        "Sífilis congénita.",
+        "Traumatismo nasal y hematoma del tabique tras el parto."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta clásica que no debe plantearte ningún problema. El caso que nos describen corresponde con una atresia de coanas. Es importante que aprendas a identificarlo.\n\nLos recién nacidos, igual que los adultos, respiran por la nariz la mayor parte del tiempo. Sin embargo, en algunas ocasiones lo hacen por la boca, por ejemplo durante el llanto. Por ello, en la atresia de coanas, característicamente, mejoran durante el llanto, porque si respiran bucalmente el flujo aéreo no encuentra ningún obstáculo. Por el contrario, cuando se alimentan, al estar empleando la boca en la succión, se asfixian y tienen que parar para poder respirar. Por ello, se descartaría intentando pasar una sonda desde fosas nasales hasta faringe, lo que confirma o descarta la obstrucción de las coanas.",
+      "id": 128
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "¿Cuál de las siguientes NO es una indicación de monitorización domiciliaria mediante neumocardiograma en la prevención del síndrome de muerte súbita del lactante?:",
+      "opciones": [
+        "Niños que han presentado un episodio aparentemente letal.",
+        "Hijos de madres adictas a alcohol.",
+        "Lactantes traqueostomizados.",
+        "Secuelas cardiorrespiratorias de una displasia broncopulmonar."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La vigilancia domiciliaria mediante neumocardiograma se puede ofrecer a los padres de los lactantes en situación confirmada de alto riesgo de sufrir un SMSL: niños que han presentado un episodio aparentemente letal, hermanos de un niño fallecido de muerte súbita, lactantes traqueostomizados, niños con displasia broncopulmonar y otros . La capacidad de predecir qué lactantes se encuentra en situación de alto riego de sufrir un SMSL sobre la base de un neumograma no esta establecida, pero los que tienen una elevado porcentaje de respiración periódica o con crisis apneicas de mas de 15 segundos pueden estar en situación de alto riesgo. Ser hijo de madre alcohólica no es una indicación de monitorización domiciliaria por lo que marcamos opción 2 correcta.",
+      "id": 129
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "¿Cuál de los siguientes antecedentes se relaciona con menos frecuencia con la persistencia de la circulación fetal (o hipertensión pulmonar persistente del RN)?:",
+      "opciones": [
+        "Asfixia intraparto.",
+        "Aspiración meconial.",
+        "Sepsis por estreptococo del grupo B.",
+        "Administración de prostaciclina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La persistencia de circulación fetal supone hipertensión pulmonar mantenida. La hipertensión pulmonar suele derivarse de situaciones de hipoxia (asfixia intraparto, SAM), pues la hipoxia provoca vasoconstricción de las arterias pulmonares. Además, hay que considerar otras situaciones, como la hernia diafragmática (el exceso de presión se debe al efecto masa de las vísceras abdominales) o la sepsis. La prostaciclina, por el contrario, es vasodilatadora del lecho pulmonar por lo que marcamos la opción 4 correcta.",
+      "id": 130
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "La “regla de los nueve” para calcular la superficie corporal quemada en el tratamiento inicial de la quemaduras es menos exacta sí:",
+      "opciones": [
+        "La quemadura no es de grosor total. Hipoxia atmosférica",
+        "La quemadura se limita a una sola extremidad",
+        "La quemadura afecta la cabeza y el cuello",
+        "El paciente es menor de un año"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: Es así que en los menores de 2 años el índice de gravedad es mucho más exigente que en otras edades, ya que como efecto fisiopatológico de la injuria, produce la liberación de mediadores inflamatorios endógenos implicados en la patogénesis de la respuesta pos-quemaduras que incluyen: histaminas, serotoninas, quininas, radicales libres de oxígeno, peroxidasas lípidas y productos de la cascada del ácido araquidónico. Se mantiene un valor de puntaje, en niños menor de 1 año: 11 en cabeza incluido cuello, 9 en cada brazo, 15 en cada miembro inferior y 32 en tórax.",
+      "id": 131
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "La primera manifestación clínica de tétanos neonatal es",
+      "opciones": [
+        "Fiebre",
+        "Convulsiones",
+        "Opistótonos",
+        "Dificultad para succionar y deglutir"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Tétanos neonatal es un tipo de tétanos que ocurre en los recién nacidos. Están en riesgo especialmente en aquellos infantes que no adquirieron inmunidad pasiva por parte de la madre. Usualmente ocurre cuando se presenta una infección en el cordón umbilical que fue cortado con instrumentos no adecuados o que no fueron apropiadamente esterilizados. su clínica se caracteriza por la dificultad para succionar y deglutir, opción 4 correcta",
+      "id": 132
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "El/los agente(s) etiológico(s) más frecuente(s) de la meningitis bacteriana en lactantes es/son",
+      "opciones": [
+        "E coli estreptococo grupo A",
+        "H influenzae Estreptococo neumoniae",
+        "Estreptococo grupo B",
+        "Listeria monocitogenes"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: En lactantes de más edad, niños, las causas más comunes son: Neisseria meningitidis, Streptococcus pneumoniae e Haemophilus influenzae tipo b.",
+      "id": 133
+    }
+  ]
+}

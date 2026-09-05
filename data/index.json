@@ -6,6 +6,12 @@
     "conImagen": 0
   },
   {
+    "slug": "anatomia",
+    "titulo": "Anatomía",
+    "totalPreguntas": 181,
+    "conImagen": 0
+  },
+  {
     "slug": "anatomia-patologica",
     "titulo": "Anatomía Patológica",
     "totalPreguntas": 41,
@@ -76,6 +82,18 @@
     "slug": "otorrino",
     "titulo": "Otorrinolaringología",
     "totalPreguntas": 85,
+    "conImagen": 0
+  },
+  {
+    "slug": "pediatria",
+    "titulo": "Pediatría",
+    "totalPreguntas": 133,
+    "conImagen": 0
+  },
+  {
+    "slug": "psiquiatria",
+    "titulo": "Psiquiatría",
+    "totalPreguntas": 101,
     "conImagen": 0
   },
   {
