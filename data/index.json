@@ -42,6 +42,12 @@
     "conImagen": 0
   },
   {
+    "slug": "endocrino",
+    "titulo": "Endocrinología",
+    "totalPreguntas": 159,
+    "conImagen": 0
+  },
+  {
     "slug": "genetica",
     "titulo": "Genética",
     "totalPreguntas": 110,
@@ -73,6 +79,12 @@
     "conImagen": 0
   },
   {
+    "slug": "neurologia",
+    "titulo": "Neurología",
+    "totalPreguntas": 151,
+    "conImagen": 1
+  },
+  {
     "slug": "oftalmo",
     "titulo": "Oftalmología",
     "totalPreguntas": 91,
@@ -94,6 +106,12 @@
     "slug": "psiquiatria",
     "titulo": "Psiquiatría",
     "totalPreguntas": 101,
+    "conImagen": 0
+  },
+  {
+    "slug": "traumato",
+    "titulo": "Traumatología",
+    "totalPreguntas": 186,
     "conImagen": 0
   },
   {

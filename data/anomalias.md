@@ -75,6 +75,26 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p37: las opciones de la pregunta sobre la córnea llevan el número repetido dentro del propio texto ("1. 1. Tiene cinco capas..."); se transcribe tal cual
 - p6: en 'Señale la respuesta correcta con respecto a las funciones del sistema simpático-parasimpático a nivel oftalmológico' el comentario dice 'por tanto la 5 también es falsa' pero la pregunta solo tiene 4 opciones
 
+## Endocrinología
+
+- p12: el símbolo µ de las unidades de TSH está mal rasterizado y se solapa con la U (se lee como un trazo vertical pegado a la U); se transcribe µU/ml en las 4 opciones y en el comentario
+- p13: la opción 4 del síndrome de realimentación conserva el guión de partición de palabra ("fallo mul-tiorgánico") y no termina en punto
+- p18: en el comentario del síndrome hiperglucémico hiperosmolar (que continúa en la p19) se lee "el déficit de líquidos es de 10-2 litros", rango imposible; probablemente 10-12 litros
+- p21-p22: la µ de microgramos no se rasterizó en la pregunta del carcinoma papilar; el enunciado y las opciones 1 y 2 dicen '200 g/dl', '1,6 g/ml' y '225 g/dl' donde debería leerse µg (además la unidad de una dosis de levotiroxina no es g/dl).
+- p25: en la analítica del varón de 29 años el rango de referencia del Colesterol-HDL aparece como '(40.0 - 0.0)', un intervalo invertido e imposible.
+- p26: el comentario de la respuesta 4 es internamente incoherente: dice 'sin complicaciones, sin lesiones de órgano diana no factores de riesgo, se puede clasificar en altos riesgo y habrá que mantener un LDL < 100'.
+- p29: Resp. Correcta 3 pero el comentario cierra con '(respuesta correcta 4)'; además razona sobre 'La supresión con 8mg DXT', dosis que no figura en ninguna de las cuatro opciones.
+- p30: el enunciado de la gestante con Graves dice que 'está en la 20 semana de gestación' y a continuación que 'En la analítica del tercer trimestre se detecta un brote'; la semana 20 corresponde al segundo trimestre.
+- p45-p46: la opción marcada como correcta (3) dice que un niño de 35 kg debería ingerir 60 g de proteínas al día, pero el comentario cierra con el cálculo '(35 Kg*2=70 g al día)', que no coincide con los 60 g de la opción
+- p45: Resp. Correcta 3 (Dieta pobre en potasio) pero el comentario cierra con 'no hay razón para disminuir la ingesta de potasio (respuesta 4 falsa)', numerando mal la opción
+- p4: la HbA1c del enunciado no se rasterizó bien y aparece como "Hb Ale de 8%"; se transcribe tal cual
+- p4: la opción 2 aparece como "Análogos GLPI." (la cifra 1 de GLP1 se rasterizó como I)
+- p55: "T4 libre 3,5 g/ml" — falta el prefijo de la unidad (probablemente µg/ml o ng/dl); tal como está rasterizado el valor no es interpretable
+- p60: los electrólitos mezclan unidades: "Sodio 124 mEq/L. Cloro 88 mEq/dL y Potasio 6,8 mEq/L"; el cloro en mEq/dL es imposible, debería ser mEq/L
+- p69: en la pregunta de la diuresis abundante, la cuarta opción aparece con el numeral duplicado en el original ("4. 4. Debemos realizar pruebas de imagen si la causa es central"); se transcribe el texto tal cual, incluido el "4." sobrante
+- p9: la opción 2 está truncada en el original: "Determinación de calcio en sangre y orina, i."
+- p9: la opción 4 dice "dosis ablativa de 1-131"; el isótopo es I-131 y en el original la I aparece como el dígito 1
+
 ## Genética
 
 - p13: en la pregunta de screening prenatal no invasivo la opción 1 ("Analiza células fetales en sangre materna") se da por verdadera, pero el propio comentario indica que lo que se detecta es "DNA fetal en sangre materna", no células.
@@ -104,6 +124,24 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p33: exponentes perdidos en el rasterizado en las dos preguntas de la página: 'leucocitos 34 × 109/L', 'plaquetas 480 × 109/L', 'leucocitos 7.5 x 109/L', 'plaquetas 180 x 109/L', 'reticulocitos 150 x 109/L' (en el original serían 10^9/L)
 - p5: Resp. Correcta 2 (Leucemia mieloide crónica) pero el comentario afirma 'la que más se ajusta al cuadro es la leucemia mieloide crónica (respuesta 3 correcta)'; además el comentario descarta las opciones numeradas 1, 2, 4 y 5 cuando la pregunta solo tiene 4 opciones (numeración heredada de una versión de 5 opciones)
 - p8: en la pregunta del INR de 1,2 el comentario dice 'las enfermedades que nos mencionan en las otras cuatro opciones' cuando solo hay 3 opciones restantes
+
+## Neurología
+
+- p21: el enunciado del caso de la paciente de 63 años remite a una figura de resonancia magnética ('que se muestra en la figura') que no aparece rasterizada en las páginas 21-22 ni hay enlace 'Imagen'; se marca igualmente con el campo imagen
+- p26: la opción 4 de la pregunta sobre el oligodendroglioma está cortada en el original: 'El tratamiento de elección es la radioterapia, dejando la cirugía para casos' (la frase queda sin terminar)
+- p27: la pregunta del varón de 32 años (siringomielia) está duplicada en el documento; es la misma que empieza en la p20, con mínimas diferencias de puntuación en el enunciado y de párrafos en el comentario
+- p30: la pregunta sobre la cefalea migrañosa no tiene explicación propia; el comentario solo remite a otro material ('Comentario en pregunta 18 de vídeo adjunto (sesión 2 de neurología)')
+- p33: la pregunta del hombre de 60 años con demencia rápidamente progresiva (Creutzfeldt-Jakob) está duplicada en el documento; es la misma que empieza en la p27, con mínimas diferencias de redacción en el enunciado y el comentario
+- p35: 'Resp. Correcta: 3' en la pregunta sobre poliomielitis, pero el comentario (que continúa en la p36) abre con 'Respuesta d' y su contenido señala como incorrecta la opción 4 ('En la fase aguda de la poliomielitis el análisis del LCR es habitualmente normal'), ya que afirma que en el LCR hay pleocitosis; se respeta la clave 3 del original
+- p39 vs p46: la pregunta de p39 da como Resp. Correcta 1 'La secundaria a un traumatismo' para la causa más frecuente de hemorragia subaracnoidea, mientras que la pregunta de p46 (comentario en p47) afirma 'La causa más frecuente de HSA es el aneurisma cerebral en un 70-90%'. Las dos preguntas del mismo documento se contradicen entre sí
+- p41: la explicación de la pregunta sobre el nivel del neuroeje contiene una lista de niveles de pares craneales que se ha linealizado con saltos de línea dentro del párrafo
+- p42: el comentario de la pregunta sobre las crisis generalizadas tónico-clónicas menciona 'La carbamacepina o el fenobarbital' como posiblemente útiles, pero la carbamacepina no figura entre las cuatro opciones ofrecidas
+- p49: el comentario de la pregunta del agujero de salida del nervio vago afirma que el X par 'nace a nivel pontino'; el núcleo del vago está en el bulbo, no en la protuberancia. El mismo comentario sitúa la salida del VII par por el agujero estilomastoideo 'en el CAI', mezclando dos referencias anatómicas distintas
+- p63: 'Todas las afirmaciones respecto al pequeño mal son ciertas, EXCEPTO' marca Resp. Correcta: 3, pero el comentario escribe '(respuesta 4 falsa)' justo al explicar que la hiperventilación aumenta la frecuencia, que es el contenido de la opción 3. La clave 3 es la coherente con el texto
+- p66: el comentario de la pregunta de polineuropatía hereditaria abre con 'Respuesta d.', usando letras cuando las opciones están numeradas (d equivale a la opción 4, que coincide con Resp. Correcta: 4)
+- p67: el comentario de la pregunta de paraplejia tras cirugía de aorta abre con 'CORRECTA OPCIÓN C.', usando letras cuando las opciones están numeradas (C equivale a la opción 3, que coincide con Resp. Correcta: 3)
+- p8: el comentario afirma 'En la esclerosis múltiple tenemos signos de la segunda motoneurona', dato incorrecto (la EM cursa con signos de primera motoneurona); no afecta a la clave marcada (opción 4)
+- p9: Resp. Correcta 3, pero el comentario cierra con 'Como dice la respuesta 4, el hallazgo del genoma del virus JC no implica necesariamente que se vaya a padecer la enfermedad', contenido que corresponde a la opción 3
 
 ## Oftalmología
 
@@ -154,6 +192,24 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p50: en la pregunta del varón de 25 años el comentario descarta opciones desplazadas respecto al listado: '(la 5 descartada)' para los neurolépticos depot (que son la opción 4), '(4 descartada)' para el alprazolam (que es la opción 3) y '(2 descartada)' para la carbamacepina, que ni siquiera figura entre las opciones y coincide con el número de la clave (2, haloperidol)
 - p5: pregunta sobre el patrón de sueño en anoréxicas/bulímicas: 'Resp. Correcta: 2' pero el comentario dice '(opción 3 correcta)' y toda la numeración del comentario está desplazada una posición (llama 'opción 2' a la reducción de la latencia REM, que es la opción 1)
 - p8: pregunta sobre deshabituación del alcohólico: 'Resp. Correcta: 4' pero el comentario declara correctas las cuatro opciones ('La opción 4 también es correcta') describiendo en realidad el tiapride, que es la opción 3, y solo al final concluye que lo no admisible son los interdictores camuflados (opción 4); numeración del comentario desplazada
+
+## Traumatología
+
+- p14: en la pregunta '¿Cuál de las siguientes fracturas suele precisar tratamiento quirúrgico?:' el comentario repasa 'las fracturas del cuerpo de la escápula', que no figura entre las cuatro opciones
+- p18: la pregunta '¿En cuál de las siguientes fracturas NO está indicado el tratamiento quirúrgico?:' repite literalmente las opciones y la clave (3) de la pregunta ya planteada en p11, solo cambia el preámbulo del enunciado
+- p19: el comentario de la epifisiólisis es contradictorio: 'el plano de clivaje se produce a nivel de la capa de células hipertrófica, sin llegar a lesionar la capa hipertrófica'
+- p23: el comentario del síndrome doloroso regional complejo afirma que el cuadro 'cursa en tres fases bien diferenciadas, como se describe en las opciones', pero las opciones no describen tres fases
+- p31 y p36: la misma pregunta aparece duplicada casi textualmente ('Paciente de 32 años que ha sufrido una fractura transversa diafisaria de húmero...'), con la misma clave (2) y comentarios casi idénticos
+- p32 y p34: dos preguntas prácticamente idénticas sobre el traslado desde un centro de salud a 100 km con fractura abierta de tobillo, ambas con clave 2 y las mismas cuatro opciones
+- p32: la pregunta sobre clasificación de una fractura abierta con exposición ósea de 12 cm y colgajo muscular no tiene explicación: el original dice literalmente 'Comentario: No hay comentario'
+- p33: la explicación de la fractura-luxación de Bennett cierra con un paréntesis sin abrir: 'sino de la región metacarpiana)'
+- p42: el comentario razona sobre "un sistema de osteosíntesis del tipo placa y tornillos (opciones 1 y 5)" pero la pregunta solo tiene 4 opciones
+- p49: el enunciado habla de "fractura abierta grado IIB de la diáfisis femoral"; la clasificación de Gustilo y Anderson no contempla un grado IIB (probable errata por IIIB)
+- p54: el comentario afirma que "La lesión del N. cubital cursa con parestesias de 4º- 5º dedo y parálisis de la musculatura tenar" y a renglón seguido atribuye al túnel carpiano la atrofia de la eminencia tenar; el texto es internamente incoherente (la afectación del cubital corresponde a la musculatura hipotenar/intrínseca)
+- p59: en la pregunta sobre el derrame tras lesión meniscal, la opción marcada como correcta (3) dice "Diferido, entre 12 y 24 horas desde la torsión" pero el comentario afirma que el derrame se instaura "entre 18 y 24h después de la lesión"
+- p74: el enunciado del caso del accidente de montaña dice "hace 10 horas" pero a continuación relata que el paciente fue encontrado "al día siguiente"; el comentario vuelve a razonar sobre 10 horas de exposición ósea
+- p7: en el comentario, tras afirmar que la clavícula NO cursa con pseudoartrosis, se cierra con 'presentan una tasa elevada de pseudoartrosis, de alrededor del 5%', calificando de elevado un 5%
+- p8: el comentario dice 'inmovilizar la muñeca con escayola durante 23 meses'; el guion de '2-3 meses' no se rasterizó y el dato queda como un plazo imposible
 
 ## Urología
 
