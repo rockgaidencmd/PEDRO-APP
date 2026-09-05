@@ -1,0 +1,683 @@
+{
+  "titulo": "Cuestionario de Bioquímica",
+  "especialidad": "Bioquímica",
+  "totalPreguntas": 52,
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "“El fenómeno por el que dos disoluciones separadas por una membrana semipermeable (que permite el paso de las moléculas de agua, pero no del soluto) tienden a igualar su concentración” es la definición de:",
+      "opciones": [
+        "Presión oncótica.",
+        "Difusión pasiva.",
+        "Ósmosis.",
+        "Presión hidrostática."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: Ósmosis: fenómeno por el que dos disoluciones separadas por una membrana semipermeable (que permite el paso de las moléculas de agua, pero no del soluto) tienden a igualar su concentración. Es el caso de las células.",
+      "id": 1
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Tras el descanso de la clase de bioquímica, se reanuda la misma y la profesora se centra en el metabolismo de las grasas. Los conceptos iniciales han quedado claros y, ahora intenta usted comprender cómo actúan en el organismo; por ello la profesora pregunta ¿Cuál de los siguientes factores o situaciones INHIBE la movilización de lípidos?",
+      "opciones": [
+        "Ayuno.",
+        "Ejercicio.",
+        "Hormona del crecimiento.",
+        "Insulinemia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las situaciones de ayuno, hipertiroidismo, ejercicio y la acción de la hormona del crecimiento son todas situaciones en las que se activa la movilización de los lípidos (metabolismo de las grasas). El efecto contrario, es decir, la situación en la que se inhibe la movilización de lípidos es la insulinemia (opción 4 correcta), que es la tasa de insulina en sangre y permite el paso de la glucosa a las células.",
+      "id": 2
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "El colesterol es una sustancia similar a la grasa e indispensable para la vida. Se encuentra en las membranas celulares de nuestros organismos, desde el sistema nervioso al hígado y al corazón. El cuerpo necesita colesterol para fabricar hormonas, ácidos biliares, vitamina D, y otras sustancias. ¿En cuál de las siguientes sustancias NO actúa como precursor el colesterol?",
+      "opciones": [
+        "Sales biliares.",
+        "Estrógenos.",
+        "Prostaglandinas.",
+        "Aldosterona."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: Dentro de los lípidos sin ácidos grasos nos encontramos con el colesterol, un esteroide que sirve como precursor de distintas sustancias:\n- Hormonas sexuales: Testosterona, Estrógenos y Progesterona.\n- Hormonas suprarrenales: Aldosterona y Cortisol.\n- Sales biliares.\n- Vitamina D o Colecalciferol.\nCircula en el torrente sanguíneo unido a proteínas formando las lipoproteínas y además forma parte de las membranas celulares.",
+      "id": 3
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Resultados de la gasometría arterial de un paciente: pH: 7,44, pCO2: 30 mmHg, pO2: 100 mmHg, HCO3-: 20 mEq/l y EB: -3. ¿Qué alteración del equilibrio ácido-base presenta?",
+      "opciones": [
+        "Alcalosis respiratoria compensada.",
+        "Alcalosis metabólica.",
+        "Acidosis respiratoria compensada.",
+        "El patrón gasométrico es normal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El pH se encuentra dentro de los valores normales, pero aproximándose a la alcalosis (7,35-7,45; 7,38-7,48 según bibliografía), sin embargo, los valores del bicarbonato y ácido carbónico se encuentran modificados. Por tanto, existe una alteración del equilibrio, compensada por encontrarse el pH dentro del rango normal. El CO2, 30 mmHg, está bajo (valores normales 35-45) y el bicarbonato está también bajo. Por tanto, la alcalosis es de tipo respiratorio, dado que el bicarbonato (alcalino) está bajo y la alcalosis es a costa de una disminución del CO2(se comporta como ácido) por lo que marcamos la opción 1 correcta. Truco: La alteración es de tipo metabólico si el pH está elevado y el bicarbonato también, y viceversa.",
+      "id": 4
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Para su desarrollo y un funcionamiento adecuado, el cerebro necesita combustible en forma de glucosa, aproximadamente 5,6 mg de glucosa por cada 100 g de tejido cerebral por minuto. La glucosa es el único hidrato de carbono (azúcar) que puede alimentar al cerebro, y además es su principal fuente de energía. A través de la glucólisis de 1 molécula de glucosa se obtiene:",
+      "opciones": [
+        "2 moléculas de acetil-CoA.",
+        "1 molécula de acetil-CoA.",
+        "2 moléculas de ácido pirúvico.",
+        "3 moléculas de acetil-CoA."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El catabolismo de la glucosa sirve para obtener energía o para obtener intermediarios para la síntesis de otras biomoléculas. La glucosa, a través de la glucólisis, se degrada en 2 moléculas de ácido pirúvico (opción 3 correcta). El ácido pirúvico puede convertirse en acetil-CoA (vía aerobia) o en ácido láctico (en situaciones de hipoxia o anoxia).",
+      "id": 5
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "A nivel nutricional es habitual oír hablar de proteínas de alto valor biológico al referirnos a ciertos alimentos. En sí, el valor biológico de una proteína está determinado por su:",
+      "opciones": [
+        "Tolerancia.",
+        "Proporción de agua y grasa.",
+        "Digestibilidad.",
+        "Contenido en aminoácidos esenciales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El valor biológico de una proteína viene determinado por su contenido en aminoácidos esenciales (opción 4 correcta), que es la fracción de nitrógeno absorbido que se retiene en el organismo y que representa la capacidad máxima de utilización de esta. Las proteínas de origen animal poseen alto valor biológico, mientras que las de origen vegetal son de bajo valor biológico.",
+      "id": 6
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "La hemoglobina (Hb) es una hemoproteína de la sangre, de masa molecular de 64 000 g/mol (64 kDa), de color rojo característico, que transporta el oxígeno (O2) desde los órganos respiratorios hasta los tejidos. En referencia a la unión del oxígeno a la Hb:",
+      "opciones": [
+        "Es favorecida por una disminución del pH",
+        "Provoca la oxidación del átomo de hierro del grupo hemo de ferroso (Fe2+) a férrico (Fe3+)",
+        "Es favorecida por un aumento del pH",
+        "Es favorecida por el 2,3 bisfosfoglicerato"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Entre los factores que provocan un desacoplamiento (desunión) entre la Hb y el Oxígeno nos encontramos:\n\n- Disminución del pH (acidificación del medio), conocido como Efecto Bohr.\n- El 2,3 Bifosfoglicerato\n- El aumento del CO2\n- El aumento de la temperatura\n\nTodos estos factores arriba mencionados, se conocen con el nombre de factores alostéricos negativos. La presencia de los mismos al llegar a los tejidos, favorece una mayor liberación (desunión) del O2 des de la molécula de Hb, facilitando así el aporte tisular del mismo.",
+      "id": 7
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Las propiedades coligativas del agua varían en función de la cantidad de solutos disueltos en ella (indique la opción correcta):",
+      "opciones": [
+        "Presión de vapor: disminuye al aumentar la cantidad de soluto. La presión que provoca la vaporización de moléculas de agua es mayor con la presencia de un soluto.",
+        "Punto de ebullición: crece al aumentar la cantidad de soluto (p. ej.: si se añade sal al agua, la temperatura de ebullición será superior a la del agua pura; por tanto, tardará más en hervir).",
+        "Punto de congelación: disminuye al incrementarse la cantidad de soluto. Los solutos aumentan la temperatura de congelación (recuérdese que la temperatura de congelación es habitualmente negativa, y si aumenta, será más negativa, por lo que necesitará más frío para que se produzca la congelación). Por esa razón, se añade sal a la nieve cuando interesa fundirla.",
+        "Presión osmótica: crece al disminuir la cantidad de soluto."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las propiedades coligativas del agua se citan a continuación:\n\n- Presión de vapor: disminuye al aumentar la cantidad de soluto. La presión que provoca la vaporización de moléculas de agua es menor con la presencia de un soluto.\n- Punto de ebullición: crece al aumentar la cantidad de soluto (p. ej.: si se añade sal al agua, la temperatura de ebullición será superior a la del agua pura; por tanto, tardará más en hervir). Respuesta 2 correcta.\n- Punto de congelación: aumenta al incrementarse la cantidad de soluto. Los solutos aumentan la temperatura de congelación.\n- Presión osmótica: crece al aumentar la cantidad de soluto.",
+      "id": 8
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Las reacciones bioquímicas pueden agruparse desde un punto de vista energético en dos grandes tipos (señale la opción cierta):",
+      "opciones": [
+        "Exergónicas: desprenden energía. Son espontáneas y pueden producirse a velocidad lenta.",
+        "Endergónicas: necesitan aporte de energía para desarrollarse. En este caso, los productos son más energéticos que los sustratos. Requieren mecanismos que las impulsen.",
+        "Exergónicas: desprenden energía. Son espontáneas y pueden producirse a velocidad rápida.",
+        "Las respuestas 1 y 2 son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las reacciones bioquímicas pueden agruparse desde un punto de vista energético en dos grandes tipos: exergónicas y endergónicas (la opción 4 es cierta).",
+      "id": 9
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "El modelo del mosaico fluido explica que las membranas biológicas están formadas por:",
+      "opciones": [
+        "Lípidos: fosfolípidos, glucolípidos y colesterol. La mayoría son anfipáticos y se disponen formando una bicapa.",
+        "Proteínas: se clasifican en dos tipos: integrales y periféricas. Las proteínas integrales están unidas débilmente a la superficie de la membrana.",
+        "Las proteínas periféricas atraviesan completamente la membrana.",
+        "Glúcidos: son poco liposolubles y se sitúan, en general, en la zona interior."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para explicar la estructura de las membranas biológicas, se acude a este modelo teórico que determina que la membrana está formada por:\n\n- Lípidos: fosfolípidos, glucolípidos y colesterol. La mayoría son anfipáticos y se disponen formando una bicapa (respuesta 1 correcta).\n- Proteínas: se clasifican en dos tipos:\n  - Integrales: atraviesan completamente la membrana (respuesta 2 falsa).\n  - Periféricas: unidas débilmente a la superficie de la membrana (respuesta 3 falsa).\n- Glúcidos: son poco liposolubles y se sitúan, en general, en la zona exterior (respuesta 4 falsa). No se encuentran libres, sino unidos a lípidos o a proteínas.",
+      "id": 10
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Indique cuál de las siguientes funciones NO corresponde a las proteínas:",
+      "opciones": [
+        "Estructural.",
+        "Toxina.",
+        "De reserva.",
+        "Todas las opciones son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las proteínas desarrollan las siguientes funciones: estructural, catalítica, contráctil, protectora, transportadora, de reserva, hormonal, de receptor y toxina. (Respuesta 4 Correcta)",
+      "id": 11
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Señale la afirmación CORRECTA con respecto a los aminoácidos esenciales:",
+      "opciones": [
+        "Son aminoácidos que se acoplan a la proteína de manera postraduccional.",
+        "Pueden obtenerse todos ellos a partir de dietas vegetarianas estrictas si hay una adecuada variedad nutricional.",
+        "Su metabolismo se relaciona con el de los ácidos grasos esenciales.",
+        "No están presentes en las proteínas bacterianas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre un tema difícil, pero que puede resolverse por técnica de examen. No hay que subestimar nunca el poder de un \"puede\" y este caso no es una excepción. Veamos las opciones de respuesta:\n\n1.- Durante el proceso de traducción, los aminoácidos esenciales se comportan igual que los no esenciales.\n\n2.- Los aminoácidos esenciales son aquellos aminoácidos que no pueden ser sintetizados por el organismo, por lo que requieren su aporte a través de la dieta. De los 20 aminoácidos que forman nuestras proteínas, 10 son esenciales. Los alimentos de origen animal aportan todos ellos, pero algunos vegetales tienen carencias de algún aminoácido concreto (por ejemplo, el maíz tiene una baja concentración de triptófano); sin embargo, una dieta vegetariana variada impide un déficit de aminoácidos esenciales porque unos alimentos cubren las carencias de otros (respuesta 2 correcta).\n\n3.- Los ácidos grasos esenciales son \"esenciales\" porque también tienen que ser aportados por la dieta, pero su metabolismo no se relaciona con el de los aminoácidos.\n\n4.- Todos los aminoácidos se corresponden con uno o más codones de ARN mensajero según el código genético. Este código es universal para todos los seres vivos, por lo que las bacterias también cuentan con aminoácidos esenciales y no esenciales.",
+      "id": 12
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Usted está en su casa viendo la TV con un familiar. Están viendo un concurso en el que, en un momento dado, el presentador formula la siguiente pregunta: “Una sustancia formada por 1 molécula de glicerol, 2 ácidos grasos y 1 ácido fosfórico, es”. Usted contesta rápidamente lo siguiente:",
+      "opciones": [
+        "Un triglicérido.",
+        "Un fosfolípido.",
+        "Un ácido nucleico.",
+        "Un glucolípido."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las opciones de respuesta configuran el grupo de los lípidos y están compuestas por:\n1.- Triglicéridos: son lípidos compuestos por 3 ácidos grasos y 1 alcohol (glicerol).\n2.- Fosfolípidos: compuestos por 1 molécula de glicerol, 2 ácidos grasos y 1 ácido fosfórico (Respuesta correcta: 2).\n3.- Ácidos nucleicos: son polímeros de unidades básicas, denominadas nucleótidos, formados a su vez por 1 pentosa, 1 base nitrogenada y 1 ácido fosfórico. Los ácidos nucleicos del organismo son el ARN y el ADN.\n4.- Glucolípidos: compuestos por 1 porción lipídica unida covalentemente a una glucídica.",
+      "id": 13
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Enlazado con la pregunta anterior ¿Cuál es la alteración más habitual en un proteinograma de proteínas plasmáticas?",
+      "opciones": [
+        "Hipergammaglobulinemia monoclonal",
+        "Hipergammaglobulinemia policlonal",
+        "Hipoalbuminemia",
+        "Incremento de la B2-Microglobulina"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es la 3: Hipoalbuminémia. Tenemos que pensar sobretodo en pacientes desnutridos, hepatópatas, nefrópatias, oncológicos, etc. Alteraciones como la hipergammaglobulinemia monoclonal nos han de hacer pensar en patologias como la GMSI, el Mieloma Múltiple, o la Macroglobulinemia de Waldenström. La hipergammaglobulinemia policlonal es una alteración característica en pacientes cirróticos con importante shunt porto-cava o en el caso de la Leishmaniosis visceral o \"Kala Azar\". Finalmente, la elevación de B2 microglobulina es característico de neoplasias de origen hematológico.",
+      "id": 14
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿A qué pertenece la definición \"Cantidad de energía necesaria para aumentar primero la temperatura de 1 g de sustancia\"?",
+      "opciones": [
+        "Calor de evaporación.",
+        "Calor específico.",
+        "Tensión superficial.",
+        "Punto de ebullición."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La definición del enunciado corresponde, efectivamente, a calor específico (Opción 2). El agua es un buen regulador térmico pues tiene un elevado calor específico. Además, posee un elevado calor de evaporación, por lo que mayormente el agua se mantiene en estado líquido, así como una elevada tensión superficial que permite la cohesión de moléculas.",
+      "id": 15
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Alejandro tiene 70 años y está ingresado en la unidad de hospitalización de Medicina Interna a nuestro cargo. Viene su hijo y nos comenta que refiere encontrarse mal. Acudimos a la habitación y tomamos las constantes vitales; tras ello, lo comentamos con el equipo médico que nos pide que le saquemos una gasometría arterial. Los resultados de la gasometría arterial del paciente son: pH: 7,48; PCO2: 44 mmHg; PO2: 85 mmHg y HCO3-: 32 mEq/L. ¿Qué alteración del equilibrio ácido-base presenta, si es que presenta alguna?",
+      "opciones": [
+        "Alcalosis respiratoria.",
+        "Acidosis respiratoria.",
+        "Alcalosis metabólica.",
+        "Ninguna de las anteriores."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los valores normales de una gasometría son: pH (7,35-7,45), PO2 (80-100 mmHg), PCO2 (35-45 mmHg), Saturación O2 (95-100%) y bicarbonato o HCO3 (22-16 mEq/L - o de 22-24/26 dependiendo de la bibliografía -). En el enunciado el pH está elevado, por lo que corresponde a una alcalosis. El bicarbonato está muy elevado, así que podemos decir que se trata de una alcalosis de origen metabólico (Respuesta Correcta:3). El PCO2, está ligeramente elevado para compensar la alcalosis. La alcalosis metabólica (exceso de bicarbonato) se caracteriza por un aumento de pH y de la concentración de bicarbonatos. Esto se acompaña de un aumento de la PCO2, debido a la depresión del centro respiratorio por el descenso de la concentración de hidrogeniones (hipoventilación compensatoria). Para el desarrollo de la alcalosis metabólica es preciso una causa inicial, que por lo general es una pérdida exagerada de ácidos (hidrogeniones), y un factor de mantenimiento que evita que se elimine el exceso de bicarbonato por orina. Las causas suelen ser: vómitos y aspiraciones nasogástricas, pérdidas renales de potasio, acompañados de hidrogeniones (diuréticos a dosis altas, hiperaldosteronismo, síndrome de Cushing), administración de álcalis, que solo produce situación de alcalosis cuando la función renal está alterada.",
+      "id": 16
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Usted debe explicar a sus estudiantes de enfermería que el riñón interviene en el mantenimiento del pH mediante los procesos de filtración, reabsorción y secreción. En el caso de pH ácido:",
+      "opciones": [
+        "Se eliminan protones, principalmente en forma de ion amonio y fosfato dibásico.",
+        "Retención de bicarbonato, evitando su excreción renal o sintetizándolo de nuevo, con el fin de neutralizar el pH.",
+        "El ion amonio y el fosfato dibásico acidifican la orina durante su eliminación.",
+        "Todas son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Todas las opciones son correctas.\n\nLos sistemas amortiguadores o tampón permiten la adición de ciertas cantidades de ácidos o de bases sin alterar significativamente el pH. Son capaces de ceder H+ en situaciones donde el pH es básico y captarlos cuando es ácido. Los principales sistemas amortiguadores fisiológicos del organismo son:\n\n- Disoluciones fisiológicas amortiguadoras.\n- Ventilación pulmonar.\n- Filtración renal.",
+      "id": 17
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Escoja la respuesta correcta:",
+      "opciones": [
+        "Cuanto más alta sea la concentración de HO#, más ácida será la sustancia.",
+        "Cuanto más baja sea la concentración de HO#, más básica será la sustancia.",
+        "Cuanto más alta sea la concentración de H+, más ácida será la sustancia.",
+        "Todas son correctas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los hidrogeniones (H+ = ácidos) son liberados cuando una sustancia se ioniza. Cuando aumenta la concentración de hidrogeniones en una sustancia, el pH de ésta disminuye, volviéndose por tanto, más ácida. Los iones hidroxilos (HO# = bases), son capaces de captar los H+ liberados por un ácido, haciendo que disminuya la acidez (que aumente el pH) de una sustancia. A mayor concentración de bases, mayor pH, mayor alcalinidad y menor acidez. A mayor concentración de ácidos, menor pH, mayor acidez y menor alcalinidad.",
+      "id": 18
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Usted sabe que el selenio es un:",
+      "opciones": [
+        "Oligoelemento.",
+        "Elemento primario.",
+        "Elemento secundario.",
+        "Elemento principal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El selenio es un oligoelemento (Opción 1). En algunas clasificaciones lo encasilla como microconstituyente. Los oligoelementos son elementos que están en una proporción menor del 0,1% del peso corporal. Los elementos principales se clasifican en primarios (C,H,O,N) y secundarios (Ca, P, K, S, Na, Cl, Mg).",
+      "id": 19
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Cuando un paciente se encuentra en situación de ayuno prolongado y se han quemado todos los depósitos disponibles de glucosa a partir de hidratos de carbono como el glucógeno hepático y muscular, se emplean otros principios inmediatos para la obtención de glucosa. La formación de glúcidos a partir de aminoácidos se denomina:",
+      "opciones": [
+        "Glicólisis.",
+        "Glucogénesis.",
+        "Gluconeogénesis.",
+        "Desaminación glicídica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Al proceso de síntesis de glucosa a partir de precursores no glucídicos, como pueden ser el ácido láctico, los aminoácidos o el glicerol, se le denomina gluconeogénesis o neoglucogénesis y tiene lugar principalmente en el hígado y también en el riñón (opción 3 correcta). Se denomina glucólisis o glicólisis al proceso de conversión de una molécula de glucosa en dos de ácido pirúvico; esta reacción tiene lugar en el citoplasma celular y no requiere la presencia de O2. La glucogénesis o gluconeogénesis es el proceso de síntesis de glucógeno a partir de glucosa. Se da principalmente en el hígado en la etapa postprandial, a partir de los monosacáridos absorbidos. El glucógeno se almacena en forma de gránulos en el citoplasma de los hepatocitos. También el músculo esquelético, cardiaco y el riñón almacenan glucógeno para su propio uso. Se denomina glucogenólisis a la obtención de glucosa a partir del glucógeno almacenado; este proceso tiene lugar con el ayuno no demasiado prolongado.",
+      "id": 20
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿A qué corresponde la definición: enzima sintetizada en su forma inactiva que precisa de la rotura de algunos de sus enlaces para ser activa?",
+      "opciones": [
+        "Isoenzima.",
+        "Transaminasa.",
+        "Proenzima.",
+        "Enzima exergónica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: Una proenzima es una enzima que se sintetiza en forma inactiva, es decir, que cuando sale a la circulación NO puede realizar su actividad. Para pasar a ser una enzima activa precisa que se rompan algunos enlaces. Un ejemplo de proenzima es el pepsinógeno (proenzima secretado por el estómago); el pepsinógeno en presencia de ácido clorhídrico (HCl) se transforma en la enzima pepsina la cual SÍ que es activa y se encarga de hidrolizar los péptidos del bolo alimenticio.",
+      "id": 21
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "La célula eucariota es aquella célula con núcleo, es decir, todas aquellas que componen las células animales, incluso las vegetales y hongos. ¿En cuál de los siguientes elementos que constituyen la célula se encuentra el material genético?",
+      "opciones": [
+        "En las histonas.",
+        "En el ácido ribonucleico.",
+        "En el ácido desoxirribonucleico.",
+        "En las proteínas ácidas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el núcleo celular se encuentra el material genético, el ADN o ácido desoxirribonucleico (opción 3 correcta). También encontramos ARN mensajero, ribosómico y de transferencia, los cuales dirigen la síntesis proteica a nivel citoplasmático. Como organelas nucleares están los nucleolos, que sintetizan los diferentes tipos de ARN, y la cromatina que, si la célula no está en división está en forma de gránulos dispersos por el citoplasma, pero si la célula entra en proceso de división forma los cromosomas mediante las histonas, unas proteínas que compactan el ADN.",
+      "id": 22
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "La síntesis de glucosa a partir de precursores no glucídicos (ácido láctico, aminoácidos y glicerol) es la:",
+      "opciones": [
+        "Neoglucogénesis.",
+        "Gluconeogénesis.",
+        "Glucogenogénesis.",
+        "Las opciones 1 y 2 son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las opciones 1 y 2 son ciertas: Al proceso de síntesis de glucosa a partir de precursores no glucídicos, como pueden ser el ácido láctico, los aminoácidos o el glicerol, se le denomina gluconeogénesis o neoglucogénesis y tiene lugar principalmente en el hígado y también en el riñón.",
+      "id": 23
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "En referencia a las Vitaminas, estas son biomoléculas fundamentales para la vida, involucradas en múltiples procesos fisiológicos. Tanto es así, que sus déficits se asocian a múltiples y graves patologías. Señala la relación FALSA entre déficit vitamínico y su patología asociada:",
+      "opciones": [
+        "Vitamina B1 - Beri Beri",
+        "Vitamina B3 - Pelagra",
+        "Vitamina D - Osteomalacia",
+        "Vitamina B9 - Anemia sideroblástica"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "- Vitamina B1 o Tiamina: Encefalopatia de Wernicke-Korsakoff y Beri Beri.\n- Vitamina B3 o Niacina: Pelagra. La enfermedad de las 3Ds: Dermatitis, Demencia y Diarrea.\n- Vitamina D: Osteomalacia y Raquitismo\n- Vitamina B9 o Folato: Anemia megaloblástica (opción 4 correcta)",
+      "id": 24
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "El número de equivalentes-gramo de soluto/litro de disolución es la definición de:",
+      "opciones": [
+        "Molaridad.",
+        "Molalidad.",
+        "Normalidad.",
+        "Ninguna es correcta."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: Normalidad: número de equivalentes-gramo de soluto/litro de disolución.",
+      "id": 25
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Señale qué tres sustancias derivan del colesterol:",
+      "opciones": [
+        "Sales biliares, hormonas esteroideas y jugo pancreático.",
+        "Hormonas esteroideas, jugo pancreático y vitamina D.",
+        "Sales biliares, jugo gástrico y vitamina D.",
+        "Sales biliares, vitamina D y hormonas esteroideas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: Dentro de los esteroides, el principal es el colesterol, precursor de distintas sustancias:\n- Sales Biliares: Sintetizadas en el hígado y excretadas en la bilis al intestino para emulsionar los lípidos y favorecer su absorción.\n- Vitamina D: Se transforma en colesterol bajo la acción de la luz solar en la piel y se metaboliza en el hígado y posteriormente en el riñón a calcitriol, participando en el mantenimiento de los niveles de Ca y P regulada por la PTH.\n- Hormonas esteroideas: Provienen de la corteza suprarrenal.\nLa aldosterona, mineralcorticoides de la capa externa o glomerular, regulará la tensión arterial a través del sistema renina-angiotensina-aldosterona. El cortisol, glucocorticoide de la capa media o fascicular, con funciones metabólicas y cuya secreción controla el hipotálamo a través de la ACTH. Por último, la capa interna o reticular produce las hormonas sexuales: andrógenos, estrógenos y progesterona.",
+      "id": 26
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "En el ciclo del ácido cítrico, o ciclo de Krebs, se produce energía a través del metabolismo de:",
+      "opciones": [
+        "Minerales.",
+        "Proteínas.",
+        "Carbohidratos.",
+        "Vitaminas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ciclo de Krebs es el final común para la oxidación de las moléculas combustibles: carbohidratos (opción 3 correcta), aminoácidos y ácidos grasos. Tiene lugar en la matriz mitocondrial y es la vía común del metabolismo, en la que el acetil-CoA obtenido de la glucólisis se incorpora a una cadena de reacciones de las que se obtienen ATP y nucleótidos reducidos.",
+      "id": 27
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Respeto a la captación de glucosa por parte de los diferentes tejidos del organismo, la absorción intestinal de glucosa ocurre principalmente mediante:",
+      "opciones": [
+        "Un sistema que intercambia glucosa por calcio",
+        "Difusión simple",
+        "Un transportador dependiente de la insulina",
+        "Un simportador que utiliza un gradiente de sodio"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La absorción intestinal de glucosa se produce por el cotransportador o simportador que utiliza un gradiente de sodio-glucosa o GLUT: (opción 4 correcta)\n\nTransportador | Ubicación | Función\nGLUT-1 | Eritrocitos | Captación contínua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia\nGLUT-3 | Neuronas | Captación contínua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia. Recuerda, la glucosa es el combustible principal y cuasi-exclusivo de las neuronas.\nGLUT-4 | Tejido adiposo y Músculo | Expresión estimulada por acción de la Insulina (INS). El músculo dispone de mecanismos independientes a la INS para aumentar su expresión en las membranas celulares (sarcolema), como por ejemplo, durante el ejercicio físico.\nGLUT-2 | Hígado y Páncreas | A nivel del páncreas, juega un papel fundamental en la capacidad para sensar la glicemia del organismo y por ende estimular o inhibir la secreción de INS. A nivel de hígado, papel fundamental en el control de la glicemia del organismo. En ayunas, el hígado saca glucosa a la sangre para el resto de tejidos (especialmente las neuronas). Después de comer (postprandial) el hígado capta el exceso de glucosa y lo almacena en forma de glucógeno\nCoTransportador Na+-Glucosa (SGLT-1) | Intestino | Absorción y captación de glucosa procedente de la dieta\nGLUT-5 | Intestino | Absorción y captación de fructosa procedente de la dieta",
+      "id": 28
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Durante los estados de ayuno se mantienen las cifras normales de glucemia porque la glucosa se va liberando progresivamente desde sus centros de almacenamiento y porque se genera glucosa nueva a partir de los aminoácidos, el lactato y el glicerol procedente de los triglicéridos. La conservación de la glucemia dentro de unas márgenes normales es un proceso complejo regulado por diferentes hormonas. ¿Cómo se denomina el proceso de obtención de glucosa a partir del glucógeno almacenado?",
+      "opciones": [
+        "Glucogenólisis.",
+        "Glucofosforilación.",
+        "Gluconeogénesis.",
+        "Ninguna de las anteriores es correcta."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glucogenólisis es el proceso mediante el que el glucógeno se degrada y se obtienen moléculas de glucosa (opción 1 correcta). Dicho proceso ocurre como método de obtención de sustrato energético durante ayunos no demasiado prolongados.",
+      "id": 29
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Indique la opción falsa sobre el agua:",
+      "opciones": [
+        "La función de dispersión permite facilitar las reacciones metabólicas, al ser el agua el disolvente universal.",
+        "Las moléculas de agua tienen una gran afinidad, y se unen mediante puentes de hidrógeno, conformando una estructura tetraédrica.",
+        "La molécula de agua se comporte como un dipolo eléctrico, a pesar de ser eléctricamente neutra.",
+        "Las moléculas de agua se orientan (pero no se desplazan) si se someten a la acción de un campo eléctrico, de manera que el oxígeno queda orientado hacia el polo positivo (por tener una fracción de carga negativa) y el hidrógeno hacia el negativo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La opción 1 correcta: hace referencia a la función de disolución del agua. La dispersión, función también de ésta, se refiere a que el agua actúa como el dispersante de todos los orgánulos celulares (es el medio celular).\n\nEl resto de las opciones son correctas.",
+      "id": 30
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Respeto a la captación de glucosa por parte de los diferentes tejidos del organismo, el transporte de glucosa a la célula beta del páncreas es mediado por el:",
+      "opciones": [
+        "GLUT1",
+        "GLUT2",
+        "GLUT3",
+        "GLUT4"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta:\n\nTransportador | Ubicación | Función\nGLUT-1 | Eritrocitos | Captación continua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia\nGLUT-3 | Neuronas | Captación contínua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia. Recuerda, la glucosa es el combustible principal y cuasi-exclusivo de las neuronas.\nGLUT-4 | Tejido adiposo y Músculo | Expresión estimulada por acción de la Insulina (INS). El músculo dispone de mecanismos independientes a la INS para aumentar su expresión en las membranas celulares durante el ejercicio físico.\nGLUT-2 | Hígado y Páncreas | A nivel del páncreas, juega un papel fundamental en la capacidad para sensar la glicemia del organismo y por ende estimular o inhibir la secreción de INS. A nivel de hígado, papel fundamental en el control de la glicemia del organismo. En ayunas, el hígado saca glucosa a la sangre para el resto de tejidos (especialmente las neuronas). Después de comer (postprandial) el hígado capta el exceso de glucosa y lo almacena en forma de glucógeno\nCoTransportador Na+-Glucosa (SGLT-1) | Intestino | Absorción y captación de glucosa procedente de la dieta\nGLUT-5 | Intestino | Absorción y captación de fructosa procedente de la dieta",
+      "id": 31
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Qué se produce cuando se introduce un hematíe en un medio hipertónico?",
+      "opciones": [
+        "Una hiperhidratación de este.",
+        "Una entrada de solutos en su interior para compensar la diferencia de osmolaridad.",
+        "Una salida de solutos de la célula, con la consiguiente hiperhidratación y hemólisis.",
+        "Una salida de agua desde el interior celular, deshidratándose el eritrocito."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que constituye un ejemplo del fenómeno que ocurre cuando dos disoluciones están separadas por una membrana semipermeable (que permite el paso de agua, pero no de solutos) llamado ósmosis que tiende a igualar su concentración. Al introducir un hematíe en un medio hipertónico el agua sale del hematíe, produciéndose una deshidratación que puede ocasionar plasmólisis (opción 4 correcta). Veamos las demás opciones de respuesta:\n1 y 3.- En caso de que el medio sea hipotónico (agua destilada), el agua entra en el interior del hematíe, produciéndose una hiperhidratación de este y una hemólisis (rotura de membrana celular).\n2.- La difusión es el movimiento espontáneo de solutos cuando las disoluciones están separadas por una membrana permeable y el soluto se desplaza hacia la solución más diluida. Se refiere a este concepto.",
+      "id": 32
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "La función de las proteínas es:",
+      "opciones": [
+        "Estructural, da forma a las células.",
+        "Inmunitaria, forman parte de los anticuerpos.",
+        "Actúan en la homeostasis, formando parte del tampón químico.",
+        "Todas las opciones anteriores son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que nos da a conocer las funciones de las proteínas que, como bien indica la opción de respuesta 4, van desde dar forma a las estructuras del organismo, como actuar en el sistema defensivo, como en el sistema hormonal, formando parte de enzimas y hormonas y actuando en la homeostasis, facilitando la reacción del tampón químico y los factores de coagulación.",
+      "id": 33
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Un tejido es un conjunto de células similares que suelen tener un origen común y que funcionan en conjunto para desarrollar actividades especializadas. ¿Qué tipo de tejido es el que MAYOR porcentaje de agua contiene?",
+      "opciones": [
+        "El de mayor actividad metabólica.",
+        "El más joven.",
+        "El más viejo.",
+        "Las opciones 1 y 2 son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: La cantidad de agua que constituye un tejido difiere de unos a otros en función de su actividad metabólica; un tejido joven y por tanto con alta actividad metabólica contiene un porcentaje mayor de agua que un tejido envejecido.",
+      "id": 34
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Se encuentra trabajando en una Unidad de Neumología y tiene ingresada a Josefa Martínez, mujer de 81 años, con antecedentes de hipertensión y cardiopatía, entre otros problemas de salud. Es el primer día que la atiende, ya que usted acaba de llegar de vacaciones estivales y tiene pautado realizarle una gasometría arterial a primera hora de la mañana de hoy. Realizamos la gasometría arterial, que arroja los siguientes datos: pH = 7,35, PaCO2 = 50 mmHg, HCO3 = 38 mEq/L. ¿A qué situación clínica corresponde?",
+      "opciones": [
+        "Acidosis respiratoria crónica compensada.",
+        "Alcalosis respiratoria crónica compensada.",
+        "Acidosis metabólica.",
+        "Alcalosis metabólica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los valores normales de una gasometría son:\n- pH: (7,35-7,45).\n- PO2: (80-100 mmHg).\n- PCO2: (35-45 mmHg).\n- Saturación O2: (95-100%).\n- Bicarbonato o HCO3: (22-26 mEq/L).\nEn el enunciado el pH está normalizado, pero en el mínimo rango de la normalidad. El PCO2, está elevado, cosa que nos sugiere que se trata de una acidosis respiratoria, pero el bicarbonato elevado compensatorio (compensación metabólica) nos normaliza el pH, caso que acostumbra a suceder en la acidosis respiratoria crónica (opción 1 correcta). En la acidosis respiratoria hay un exceso de ácido que se caracteriza por un exceso de ácido carbónico, desciende el pH (aumento de hidrogeniones) debido a un aumento de la PCO2, y a un aumento compensador de la cifra de bicarbonato en plasma. Por tanto, el pH será < 7,35 y la presión parcial de PCO2< 40 mmHg. Este desequilibrio puede ser agudo o crónico dependiendo del proceso base que lo origine. Una acidosis respiratoria puede ser causada por una depresión súbita del centro respiratorio que provoque hipoventilación, cuyo origen puede ser la administración de narcóticos, anestesia, etc. Otras posibles causas son: parálisis de los músculos respiratorios, obstrucción de las vías aéreas, traumatismo torácico, paro cardiorrespiratorio, ventilación mecánica ineficaz, etc.",
+      "id": 35
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "En un paciente con alcalosis metabólica, esperaremos encontrar la pCO2:",
+      "opciones": [
+        "36mmHg",
+        "60mmHg",
+        "40mmHg",
+        "20mmHg"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: En un paciente con alcalosis metabólica, la pCO2 aumenta de forma compensatoria.",
+      "id": 36
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "El ambiente extracelular que rodea a las células consta de un compartimiento líquido en el que las moléculas están disueltas, y una matriz de polisacáridos y proteínas que dan forma a los tejidos. Las interacciones entre los ambientes intracelular y extracelular ocurren a través de la membrana plasmática. ¿Cuál es el anión extracelular MÁS abundante?",
+      "opciones": [
+        "Calcio.",
+        "Cloro.",
+        "Magnesio.",
+        "Sodio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de conocimientos básicos. Debemos conocer en qué proporción se encuentra cada ion en cada compartimento y también qué anión y qué catión es el más abundante y más deficitario en cada compartimento; así pues, en el compartimento extracelular el catión más abundante es el Sodio y el anión más abundante el Cloro (opción 2 correcta). En cambio, en el espacio intracelular el catión más abundante es el Potasio.",
+      "id": 37
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Entre las recomendaciones dietéticas diarias, ¿Cuál de las siguientes recomendaciones es FALSA?:",
+      "opciones": [
+        "Hidratos de carbono deben representar entre el 50 y el 60% de las Kcal diarias. Siendo de especial elección aquellos alimentos con indice glucémico bajo y que contengan, mayoritariamente, polisacáridos complejos.",
+        "Debemos ingerir entre 20 - 40g/día de fibra dietética.",
+        "Las proteínas deben representar entre el 10-15% de las Kcal diarias. Entre 1 - 1,5 mg/kg/día.",
+        "Los ácidos grasos insaturados no deben representar más del 10% de las grasas presentes en la dieta."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta.\n\nLas recomendaciones nutricionales diarias:\n\n- Hidratos de Carbono: 55 - 60% de las Kcal diarias. Optando por aquellos alimentos con índice glucémico bajo y que contengan, mayoritariamente, polisacáridos complejos. Los monosacáridos o azúcares simples deberían ser < 10%. Debemos ingerir entre 20 - 40g/día de fibra dietética\n- Proteínas: Deben representar entre el 10-15% de las Kcal diarias. Entre 1 - 1,5 mg/kg/día.\n- Grasas: Deben representar < 30% de las Kcal diarias. Siendo claramente mas interesantes des del punto de vista nutricional los ácidos grasos insaturados (origen vegetal), ya sean monoinsaturados o poliinsaturados (omega-3, omega-6). Los ácidos grasos saturados (origen animal) deberían ser inferiores al 10%. El colesterol diario debería ser inferior al 5%.",
+      "id": 38
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "La transformación de una molécula de glucosa en dos de ácido pirúvico, se denomina:",
+      "opciones": [
+        "Glucogenólisis.",
+        "Glucólisis.",
+        "Gluconeogénesis.",
+        "Neoglucólisis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La glucólisis o glicolisis o glicólisis o ruta de EMBDEN-MEYERHOF es la secuencia metabólica consistente en 10 reacciones enzimáticas, en la que se oxida la glucosa, produciendo 2 moléculas de piruvato y 2 equivalentes reducidos de NADH o NADH2, que al introducirse en la cadena respiratoria, producirán dos moléculas de ATP. El ácido pirúvico puede seguir 2 vías: la aerobia (que es la más habitual por la que se transforma en acetil-CoA), y la anaerobia con el paso de ácido pirúvico a láctico en la fermentación láctica, principalmente en situaciones de hipoxia, y la fermentación alcohólica en la que se transforma en etanol, que no se produce en el organismo humano sino en la industria.",
+      "id": 39
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿Cuál de estas propiedades es correcta refiriéndonos al agua?:",
+      "opciones": [
+        "Es un buen amortiguador térmico.",
+        "Tiene una elevada constante dieléctrica.",
+        "Bajo grado de ionización.",
+        "Todas son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: El agua es el elemento químico inorgánico elemental. Sus propiedades son:\n\nTiene una elevada fuerza de cohesión lo que hace tener una elevada tensión superficial (insectos que pueden andar sobre el agua), capilaridad, esto explica la capacidad de poder transportar masas de agua en contra la gravedad e incompresibilidad lo que le da función estructural en la célula, cuerpo. Se precisa mucho calor para aumentar un grado y es preciso llegar a los 100ºC para su evaporación con lo que el calor que se precisa es aun mayor. Su constante dieléctrica es debida a su polaridad lo que explica ser un buen disolvente de substancias iónicas, solvatación iónica .Solo 1 de cada 500 millones de moléculas es iónica, esto hace que sea un buen amortiguador del pH.",
+      "id": 40
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Usted está trabajando en la Unidad de Urgencias Hospitalarias de un hospital regional y acude a su Servicio un paciente de 67 años acompañado por su hijo con sensación mareos y disnea. Durante la valoración del paciente, además de tomar las constantes vitales, usted le realiza una extracción de sangre para una gasometría arterial. Los resultados de dicha gasometría son: pH: 7,32; PaCO2 30 mmHg; PaO2: 60 mmHg; CO3H-: 14 mEq/L. ¿Qué alteración del equilibrio ácido-base presenta?",
+      "opciones": [
+        "Acidosis respiratoria.",
+        "Alcalosis metabólica.",
+        "Alcalosis respiratoria.",
+        "Acidosis metabólica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Para contestar bien a esta pregunta primero nos fijamos en el pH = 7,32; como es < 7,35 nos encontramos ante una acidosis. Descartamos todas las opciones de respuesta, excepto la 1 y la 4. El valor de HCO3 = 14 mEq/L es < 24 mEq/L por lo que la acidosis es metabólica (respuesta 4 correcta), la PCO2 < 40 mmHg para compensar de forma respiratoria la acidosis.",
+      "id": 41
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuando podemos encontrar el agua en su máxima densidad?",
+      "opciones": [
+        "A 10º.",
+        "A 4º.",
+        "A -4 º.",
+        "A -10º."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La densidad del agua es de 1kg/l. La densidad del agua es mayor cuando está en estado líquido y menor cuando está en estado sólido, si bien va aumentando según disminuye la temperatura, alcanzando su máxima densidad a los 4ºC.\n\nComo ejemplo claro está que por ese motivo el hielo flota en el agua.",
+      "id": 42
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Durante el ayuno se estimula la gluconeogénesis hepática por varios y diversos motivos. Respecto a esta situación, señale la FALSA:",
+      "opciones": [
+        "Es necesario el aporte de glucosa a los tejidos extrahepáticos que dependen de ella",
+        "Predomina el efecto del glucagon sobre el efecto de la insulina",
+        "Aumenta la llegada de ácidos grasos al hígado",
+        "El hígado tiene unas necesidades aumentadas de glucosa"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Durante el ayuno, el órgano encargado de mantener la glicemia constante es el hígado. Por esta razón, lleva a cabo dos procesos metabólicos sinérgicos:\n\n- Gluconeogénesis (Síntesis de glucosa de novo): A partir de determinados precursores (aa, Lactato, Glicerol, ...) el hígado construye moléculas de glucosa completamente nuevas y las transfiere a la sangre para que sean aprovechadas por los tejidos que lo necesitan (Neuronas, Corazón, Musculo Esquelético, Hematíes, ...).\n- Glugenolisis (Ruptura del glucógeno): Movilización de los depósitos de glucosa presentes en el hígado (la glucosa se almacena en forma de glucógeno) y transferencia de la misma a la sangre para que sea aprovechada por los tejidos que lo necesitan (Neuronas, Corazón, Musculo Esquelético, Hematíes, ...)\n\nEsta situación, es favorecida por el glucagón (Hormona CONTRA-Insulínica). Además, si el hígado esta embarcado en la producción de grandes cantidades de glucosa para el resto de tejidos, este tendrá que sacar su energía a partir de otras biomoléculas. En este caso, el hígado sacará su energía a partir de la B-Oxidación de los ácidos grasos, por lo que marcamos la opción 4 correcta.",
+      "id": 43
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En referencia a las transaminasas ALT y AST, ¿Cuál de las siguientes vitaminas es fundamental para su actividad?",
+      "opciones": [
+        "Vitamina B1 o Tiamina",
+        "Vitamina B6 o Piridoxina",
+        "Vitamina B9 o Folato",
+        "Vitamina B12 o Hidroxicobalamina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "- Vitamina B1: fundamental para la acitividad de la Piruvato Deshidrogenasa (Pyr DH).\n- Vitamina B6: fundamental que utilizan como cofactor todas las transaminasas. Opción 2 correcta.\n- Vitamina B9 y B12: fundamentales para la hematopoyesis. Tambien son conocidos con el sobrenombre de factores madurativos.",
+      "id": 44
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Los cuerpos cetónicos son compuestos químicos sintetizados en las mitocondrias de los hepatocitos durante el ayuno. Su función es suministrar energía a los tejidos extrahepáticos (Cerebro, corazón, músculo) durante el mismo, constituyendo un importante mecanismo de ahorro de glucosa y siendo clave en la homeostasis de la misma. ¿Cuál de los siguientes NO es un cuerpo cetónico?",
+      "opciones": [
+        "Acetoacetato",
+        "B-OH Butirato",
+        "Piruvato",
+        "Acetona"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los cuerpos cetónicos propiamente dichos son el Acetoacetato y el B-OH Butirato. Por la descarboxilación espontánea del primero en la sangre, obtenemos al tercero en discordia, la Acetona.\n\nEl Pyr es el producto resultante de la degradación de la glucosa en la glicolisis citosólica (piruvato). Opción 3 correcta.",
+      "id": 45
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "En referencia a las proteínas y su estructura, ¿Que entendemos por el concepto de estructura primaria?",
+      "opciones": [
+        "Contenido de subunidades",
+        "Conformación tridimensional",
+        "Secuencia de aminoácidos",
+        "Contenido de alfa-hélice y hoja-plegada beta"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En referencia a la estructura de las proteínas:\n\n- Estructura primaria: corresponde a la secuencia de aminoácidos. Ej: Gly-Glu-Tyr-Asp-. Opción 3 correcta.\n- Estructura secundaria: Regiones dentro de una proteína organizadas de manera especial y/o característica en forma de Alfa-hélice, Hoja-plegada beta, Giros Beta etc.\n- Estructura terciaria: Conformación tridimensional. La proteína en su plenitud y la disposición que adopta la misma en las tres dimensiones del espacio. Es la estructura funcionalmente activa de la proteína. El término Conformación enlaza los conceptos estructura y función. Ej: Mioglobina.\n- Estructura cuaternaria: Son aquellas proteínas más grandes y complejas, constituidas por múltiples subunidades. Ej: Hemoglobina, Colágeno, etc.",
+      "id": 46
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Los pacientes alcohólicos crónicos, por definición, se consideran pacientes desnutridos, los cuales pueden presentar múltiples déficits vitamínicos (Vitaminas del grupo B, Vitamina C). Entre estos, uno de los déficits más característicos es la deficiencia de tiamina (vitamina B1), puesto que el alcohol inhibe su absorción intestinal. En ese caso estaría afectada la función de la siguiente enzima:",
+      "opciones": [
+        "Isocitrato deshidrogenasa",
+        "Piruvato deshidrogenasa",
+        "Malato deshidrogenasa",
+        "Glutamato deshidrogenasa"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La deficiencia de Vitamina B1 o Tiamina puede dar la cara mediante dos manifestaciones clínicas; la encefalopatía de Wernicke-Korsakoff o el Beri-Beri (siendo bastante más habitual la primera en nuestra práctica clínica diaria). Ambas patologías, tienen una explicación bioquímica en su fisiopatología.\n\nLa Tiamina, es el cofactor fundamental para la actividad de la enzima Piruvato Deshidrogenasa (Pyr DH) y otras enzimas del ciclo de Krebs. La Pyr DH es el paso previo necesario para la incorporación del Pyr (procedente de la degradación de la glucosa, recuerda 1 Glucosa -> 2 Pyr) al ciclo de Krebs (por lo que marcamos la opción 2 correcta) . Por consiguiente, si lo recordamos bien, el principal y cuasi exclusivo nutriente que utilizan nuestras neuronas es la glucosa. Por lo tanto, si tenemos un déficit de tiamina, la Pyr DH no funcionará correctamente, en consecuencia, la glucosa no podrá ser degradada completamente y no podremos obtener toda la energía/ATP que esperamos de ella. En definitiva, con poco o escaso ATP, nuestras neuronas serán completamente disfuncionales. Siendo las zonas más afectadas la sustancia gris alrededor del acueducto de Silvio, la sustancia gris alrededor del IV ventrículo cerebral y los cuerpos mamilares.\n\nEncefalopatía de Wernicke-Korsakoff: Oftalmoplejia, ataxia y síndrome confusional.\n\nBeri-Beri : Insuficiencia cardíaca con gasto cardíaco elevado.",
+      "id": 47
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Respecto a la captación de glucosa por parte de los diferentes tejidos del organismo, esta penetra en el eritrocito por un tipo de transporte que se caracteriza por ser:",
+      "opciones": [
+        "Facilitado por un co-transportador de sodio",
+        "Estimulado por la insulina",
+        "Difusión simple",
+        "Facilitado por el GLUT 1"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Transportador | Ubicación | Función\nGLUT-1 | Eritrocitos | Captación continua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia. Opción 4 correcta.\nGLUT-3 | Neuronas | Captación continua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia. Recuerda, la glucosa es el combustible principal y cuasi-exclusivo de las neuronas.\nGLUT-4 | Tejido adiposo y Músculo | Expresión estimulada por acción de la Insulina (INS). El músculo dispone de mecanismos independientes a la INS para aumentar su expresión en las membranas celulares durante el ejercicio físico.\nGLUT-2 | Hígado y Páncreas | A nivel del páncreas, juega un papel fundamental en la capacidad para sensar la glicemia del organismo y por ende estimular o inhibir la secreción de INS. A nivel de hígado, papel fundamental en el control de la glicemia del organismo. En ayunas, el hígado saca glucosa a la sangre para el resto de tejidos (especialmente las neuronas). Después de comer (postprandial) el hígado capta el exceso de glucosa y lo almacena en forma de glucógeno\nCoTransportador Na+-Glucosa (SGLT-1) | Intestino | Absorción y captación de glucosa procedente de la dieta\nGLUT-5 | Intestino | Absorción y captación de fructosa procedente de la dieta",
+      "id": 48
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "En el ser humano, la mayor parte del nitrógeno amínico (NH3) se excreta en forma de:",
+      "opciones": [
+        "Ácido úrico",
+        "Bilirrubina",
+        "Creatinina",
+        "Urea"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En referencia al metabolismo del nitrógeno en el cuerpo humano, el principal metabolito para la excreción del mismo es la Urea (opción 4 correcta). La urea se sintetiza en el hígado (Ciclo de la Urea) a partir del nitrógeno amínico extraído de los aminoácidos (aa). Finalmente, pasa al torrente sanguíneo y se excreta a través de la orina.\n\n- Ácido úrico: Procedente de la degradación de los nucleótidos púricos (A,G).\n- Bilirrubina: Procedente de la degradación del grupo Hemo.\n- Creatinina: Procedente de la degradación de la Fosfocreatina muscular.",
+      "id": 49
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "En referencia al contenido energético de las biomoléculas presentes en los alimentos, ¿Cuántas Kcal proporciona, aproximadamente, una comida que contenga 20 gramos de proteína, 10 gramos de grasa y 50 gramos de carbohidratos?:",
+      "opciones": [
+        "370 kcal (1548.08 kj)",
+        "320 kcal (1338.88 kj)",
+        "290 kcal (1213.36 kj)",
+        "690 kcal (2886.96 kj)"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los valores energéticos de las biomoléculas presentes en los alimentos son:\n\n- Hidratos de Carbono: 1g de CH equivale, aproximadamente, a 4 Kcal.\n- Proteínas: 1g de Prot. equivale, aproximadamente, a 4 Kcal.\n- Grasas: 1 g de grasas equivale, aproximadamente, a 9 Kcal.\n- Alcohol: 1 g de etanol equivale, aproximadamente, a 7 Kcal.\n- (20x4)+(10x9)+(50x4)= 80+90+200= 370kcal. Opción 1 correcta.\n\nRecuerda la asociación del alcohol y el concepto de las denominadas \"Calorías vacías\". Todo aquello que ingiramos de alcohol, por su gran aporte energético, no lo haremos de otros alimentos muchos más ricos y diversos desde un punto de vista nutricional. El alcohol no contiene nutrientes fundamentales como pueden ser las vitaminas. Un paciente alcohólico crónico es por definición un paciente desnutrido.",
+      "id": 50
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Niels Henrik David Bohr fue un físico danés que contribuyó en la comprensión del átomo y la mecánica cuántica. Fue galardonado con el Premio Nobel de Física en 1922. Entre sus contribuciones al campo de la medicina destaca el conocido efecto Bohr. El efecto Bohr describe la disminución de la afinidad de la Hb por el oxígeno cuando:",
+      "opciones": [
+        "Disminuye el pH",
+        "Disminuye la pCO2",
+        "Aumenta la pO2",
+        "Aumenta la concentración de 2,3 bifosfoglicerato"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Entre los factores que provocan un desacoplamiento (desunión) entre la Hb y el Oxígeno nos encontramos:\n\n- Disminución del pH (acidificación del medio), conocido como Efecto Bohr. Opción 1 correcta.\n- El 2,3 Bifosfoglicerato\n- El aumento del CO2\n- El aumento de la temperatura\n\nTodos estos factores arriba mencionados, se conocen con el nombre de factores alostéricos negativos. La presencia de los mismos al llegar a los tejidos, favorece una mayor liberación (desunión) del 02 des de la molécula de Hb, facilitando así el aporte tisular del mismo.",
+      "id": 51
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Referente al metabolismo de la glucosa, en condiciones anaeróbicas el Piruvato producido en la glucólisis se convierte en:",
+      "opciones": [
+        "Dihidroxiacetona-P",
+        "2,3 - Bifosfoglicerato",
+        "Lactato",
+        "Oxalacetato"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En condiciones aeróbicas, es decir, en presencia de oxígeno (O2), la glucosa se degrada hasta Piruvato (Pyr) en el citosol (Glicolisis citosólica). El Pyr entra en la mitocondria, y, mediante la acción de la Pyr Deshidrogenasa se transforma en Acetil-CoA. Este, se incorpora en el ciclo de Krebs para ser oxidado/degradado completamente hasta CO2 y H2O. En esta situación, una molecula de glucosa nos proporciona gran cantidad de ATP (36 ATP por molécula de Glucosa)\n\nEn condiciones anaeróbicas, es decir, en ausencia de O2, la glucosa se degrada hasta Pyr en el citosol. El Pyr no puede entrar en la mitocondria dada la ausencia de O2 (Si no hay O2, que es aceptor final de los electrones, todo el metabolismo y actividad mitocondrial se inhibe). En esta situación, el Pyr se degrada a Lactato, proporcionando un pobre rendimiento energético (opción 3 correcta). En condiciones anaerobias, una molécula de glucosa tan solo genera 2 ATP.",
+      "id": 52
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "titulo": "Cuestionario de Anatomía Patológica",
+  "especialidad": "Anatomía Patológica",
+  "totalPreguntas": 41,
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Varon de 25 años con antecedentes de obesidad mórbida y diabetes mellitus acude a su consulta. Refiere la aparición a lo largo del último año de lesiones cutáneas en los codos, abdomen y rodillas levemente pruriginosas que han ido aumentando progresivamente, tanto en tamaño como en número, desde el verano pasado. Las lesiones tienen forma de placa bien delimitada, son eritematosas y presentan una descamación gruesa y nacarada. Al raspado de las mismas se desprenden escamas blancas y finas que dejan una membrana fina que puede despegarse con facilidad. Al hacerlo, aparece un punteado hemorrágico bajo la superficie. Señale cual de las siguientes afirmaciones es FALSA en relación a los hallazgos histopatológicos característicos de la psoriasis:",
+      "opciones": [
+        "Hipogranulosis",
+        "Acantosis",
+        "Papilomatosis",
+        "Cuerpos de Civatte"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "RC: 4 (Cuerpos de Civatte)\n\nSi consideras el enunciado de una pregunta excesivamente largo, recuerda leer la pregunta final y las opciones de respuesta primero. Puedes llegar a ahorrar bastante tiempo. En este caso, por ejemplo, prácticamente todo el enunciado está de relleno.\n\nEn relación a la histología de la psoriasis debes intentar compararla con la del liquen plano. Los cuerpos de Civatte son típicos del liquen plano y no de la psoriasis. El resto de afirmaciones si son típicas de la psoriasis. También debes recordar los abscesos de Munro-Sabouraud como típicos de la psoariasis.",
+      "id": 1
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Mujer de 48 años que acude a su consulta por presentar desde hace más de 10 años sensación de “quemazón” en el pecho, mucho más frecuente tras las comidas copiosas. El médico que la atiende solicita una esofagoscopia que muestra en el tramo distal una zona circunferencial de 4 cm de color “asalmonado”. Tras la toma de biopsias de la zona, el anatomopatólogo informa de un epitelio columnar glandular sin proliferación celular desordenada ni alteraciones celulares que diagnostica como esófago de Barrett. En relación a este epitelio columnar glandular usted puede decir que:",
+      "opciones": [
+        "Es un área atrófica en relación con la infección por H. Pilory",
+        "Es una zona de metaplasia que requiere de esofaguectomía dado el riesgo de desarrollar un adenocarcinoma esofágico sin tratamiento",
+        "Es una zona de metaplasia que surge como respuesta adaptativa a la excesiva exposición al ácido gástrico",
+        "Es una zona de displasia que requerirá de la realización de biopsias a intervalos de 6 meses"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de Anatomía Patológica centrada en la ERGE. El RGE no se asocia con la infección por H. Pylori ni a la aparición de esófago de Barrett. La metaplasia requiere seguimiento con controles endoscópicos y no practicar esofaguectomía directamente. La aparición de metaplasia no evoluciona en todos los casos hacia la displasia, y en los casos que así ocurriera serían necesario el seguimiento con biopsias cada 3 meses o valorar otras opciones. En este caso, la opción 3 es la correcta ya que aporta la definición de metaplasia y concuerda con los hallazgos histológicos.",
+      "id": 2
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "El enfisema que casi siempre se asocia con cicatrices es:",
+      "opciones": [
+        "Enfisema irregular.",
+        "Enfisema panacinar.",
+        "Enfisema centroacinar.",
+        "Enfisema periacinar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad media acerca de la anatomía patológica del pulmón, pero que podía sacarse por lógica. El enfisema se caracteriza por ensanchamiento permanente de los espacios aéreos distales a los bronquíolos terminales acompañado de destrucción de sus paredes. El enfisema se define no sólo en términos de la naturaleza de la lesión, sino también de acuerdo con su distribución en los lobulillos y acinos pulmonares.\n\nEl enfisema centroacinar se caracteriza por afectación de la parte proximal de los acinos, mientras que los alveolos distales permanecen sin daño.\n\nEl panacinar se caracteriza por una dilatación uniforme de los acinos desde el nivel de los bronquíolos respiratorios hasta los alveolos ciegos terminales (es el enfisema típico del déficit de alfa- 1 antitripsina).\n\nEn el paraseptal la porción proximal del acino es normal, pero la parte distal está afectada. El enfisema típico asociado a las cicatrices pulmonares es el enfisema irregular, y se produce por tracción y distensión de las zonas pulmonares adyacentes a las cicatrices tras retraerse (respuesta 1 correcta).",
+      "id": 3
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "La organela celular más implicada en la patogénesis de la apoptosis a través de la vía intrínseca es:",
+      "opciones": [
+        "Núcleo.",
+        "Mitocondria.",
+        "Retículo endoplásmico.",
+        "Lisosoma."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La apoptosis es un proceso de «muerte celular programada» bien distinto de la necrosis, ya que en ella no se activa la respuesta inflamatoria y la membrana celular se mantiene intacta. Se podría decir que, en la apoptosis, la célula se desintegra ordenadamente en vez de destruirse.\n\nAunque el proceso es complejo, de forma grosera podrían distinguirse dos vías:\n\nVía extrínseca: También es conocida como “vía de los receptores de muerte”. En ella, la célula establece conexiones con el exterior, recibiendo señales proapoptóticas desde el medio externo y desde células vecinas. Se han identificado dos familias de receptores: la proteína Fas y el factor de necrosis tumoral.\n\nVía intrínseca o mitocondrial: Está regulada por proteínas de la familia Bcl- 2, que controlan la apoptosis ejerciendo su acción sobre la mitocondria (respuesta 2 correcta). La activación de las proteínas pro-apoptóticas de la familia Bcl2 produce un poro en la membrana mitocondrial, liberándose numerosas proteínas procedentes del espacio intermembrana, como el citocromo c. Cuando estas sustancias alcanzan el citoplasma celular, activan un complejo proteico llamado apoptosoma. Como consecuencia de esto, se activan a su vez unas proteínas llamadas caspasas y se pone en marcha el proceso apoptótico.",
+      "id": 4
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "La angiopatía congófila es un término que hace referencia a:",
+      "opciones": [
+        "Un tipo de enfermedad transmisible tropical.",
+        "Una alteración de los vasos en el paciente alcohólico crónico.",
+        "Un depósito de amiloide en los vasos.",
+        "Un raro tipo de proliferación vascular."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla sobre la amiloidosis. La respuesta correcta es la nº 3. Este término, angiopatía congófila, hace referencia a la tinción rojo Congo. Todas las muestras tisulares obtenidas cuando se sospecha una amiloidosis deben teñirse con rojo Congo y examinarse bajo la luz polarizada para observar la birrefringencia verde manzana tan característica. Llamamos angiopatía congófila cuando aparece en el sistema nervioso central material amiloide como un componente de las placas seniles, de los ovillos neurofibrilares y en las paredes de los vasos sanguíneos.",
+      "id": 5
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "A qué grado de Marsh se corresponde una biopsia duodenal que presenta atrofia parcial de las vellosidades aumento del número de linfocitos intraepiteliales e hiperplasia de las criptas:",
+      "opciones": [
+        "1.",
+        "2.",
+        "3a.",
+        "3b."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Grado 1 = aumento de linfocitos intraepiteliales sin alteración arquitectural; grado 2 = aumento de linfocitos intraepiteliales, arquitectura de las vellosidades normales, hiperplasia de criptas; 3a = atrofia parcial de las vellosidades aumento del número de linfocitos intraepiteliales e hiperplasia de las criptas; 3b = atrofia subtotal de las vellosidades aumento del número de linfocitos intraepiteliales e hiperplasia de las criptas; 3c = atrofia total de las vellosidades aumento del número de linfocitos intraepiteliales e hiperplasia de las criptas.",
+      "id": 6
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Si aparece en una biopsia hepática estasis biliar con áreas focales de necrosis centrolobulillar, proliferación y dilatación de conductillos biliares en espacios porta, que a su vez están ensanchados por edema y fibrosis, con formación de lagos biliares rodeados por células seudoxantomatosas cargadas de colesterol, pensará en:",
+      "opciones": [
+        "Cirrosis biliar primaria.",
+        "Cirrosis biliar secundaria.",
+        "Cirrosis cardíaca.",
+        "Cirrosis posthepatitis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta complicada muy concreta de Anatomía Patológica que nos habla de los distintos tipos de cirrosis que hallamos. Por un lado la cirrosis biliar primaria es una enfermedad de etiología autoinmune, más frecuente en mujeres y cuya AP característica es la colangitis destructutiva no supurativa crónica. La cirrosis biliar secundaria suele ser por litiasis o por estenosis postquirúrgica y presenta en AP todo lo que describe el enunciado.\nLa cirrosis cardiaca ( secundaria a insunficiencia cardica derecha) se caracteriza por el aspecto macroscópico en nuez moscada.\nLa cirrosis posthepatitis presenta nódulos de hepatocitos separados por bandas densas y amplias de fibrosis.\nLa cirrosis alcohólica presenta pequeños nódulos de regeneración (cirrosis micronodular), y en fases avanzadas aspecto macronodular.",
+      "id": 7
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "En el síndrome de Zollinger-Ellison, aparte de la demostración de las úlceras pépticas, el patólogo puede demostrar:",
+      "opciones": [
+        "Tumor del páncreas endocrino y de otras glándulas endocrinas.",
+        "Tumores de hígado y árbol biliar.",
+        "Tumores de pulmón y pleura.",
+        "Tumores del sistema nervioso central y de la piel."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de Zollinger-Ellison se define por la presencia de un gastrinoma. La hipergastrinemia crónica produce hipersecreción de ácido gástrico y consecuentemente, úlceras pépticas (que suelen ser refractarias y graves), diarrea y reflujo gastroesofágico.\n\nEl 20-25% de los pacientes tienen neoplasia endocrina múltiple (MEN) tipo I, y en la mayor parte se presenta hiperparatiroidismo antes del gastrinoma. La mayor parte de los gastrinomas afectan al duodeno, al que siguen el páncreas y otros sitios intraabdominales (mesenterio, ganglios linfáticos, vía biliar, hígado, estómago, ovario).",
+      "id": 8
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de los siguientes tumores se asocia con más frecuencia con hipertensión arterial?",
+      "opciones": [
+        "Mixoma cardiaco",
+        "Tumor de Krukenberg",
+        "Feocromocitoma",
+        "Carcinoma pulmonar de células en \"grano de avena\""
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La HTA es la manifestación más frecuente del feocromocitoma. En el 60% hay HTA sostenida, permanente, aunque es frecuente que exista una considerable labilidad de la presión arterial. En el 40% restante, la presión arterial sólo se eleva durante el ataque hipertensivo. Los mixomas cardiacos suelen presentarse con signos y síntomas de obstrucción, embolia o afectación general (fiebre, adelgazamiento, caquexia, artralgias…) El tumor de Krukenberg son nódulos metastásicos procedentes de cáncer gástrico que se implantan en los ovarios. En el caso del carcinoma microcítico de pulmón, puede haber numerosos síndromes paraneoplásicos derivados de la producción de hormonas (ADH, ACTH). Ambas suelen resultar en alteraciones electrolíticas, pero no en HTA.",
+      "id": 9
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Un niño de 10 años está siendo estudiado por retraso ponderoestatural y diarrea crónica con esteatorrea. Presenta anticuerpos antigliadina, por lo que se decide hacer una biopsia de yeyuno. ¿Cuál de los siguientes patrones esperaría encontrar en la biopsia?",
+      "opciones": [
+        "Vellosidades aplanadas o ausentes y aumento de la infiltración linfocitaria, de predominio distal por la afectación de las placas de Peyer.",
+        "Infiltrado inflamatorio en la lámina propia y el epitelio intestinal, con hiperplasia criptal y lesión del epitelio de superficie.",
+        "Acortamiento de las vellosidades con disminución del número de mitosis en las criptas e infiltrado mononuclear en la lámina propia.",
+        "Lesión parcheada de las vellosidades con aumento de la infiltración linfocitaria en la lámina propia, pero respetando el epitelio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta teórica acerca de la anatomía patológica de la enfermedad celíaca: incremento de los linfocitos intraepiteliales (grado I), hiperplasia de las criptas (grado II), o atrofia vellositaria (grado III).",
+      "id": 10
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "La reacción vacuolar de interfase se observa en todas las siguientes EXCEPTO:",
+      "opciones": [
+        "Enfermedad injerto contra huésped aguda.",
+        "Exantema fijo medicamentoso.",
+        "Liquen plano.",
+        "Necrólisis epidérmica tóxica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad intermedia sobre la histopatología de lesiones dermatológicas. En la reacción vacuolar de la interfase se produce por depósito de inmunocomplejos una destrucción de los queratinocitos basales y disolución de la unión dermoepidérmica sin apenas infiltrado inflamatorio( a diferencia de la reacción linfocítica de la interfase o liquenoide, donde el borramiento de la unión dermoepidérmica se produce por el infiltrado linfocitario) Es el patrón típico del grupo eritema exudativo multiforme- exantema fijo medicamentos- necrolísis epidérmica tóxica , pero también en el lupus eritematoso sistémico y en la enfermedad de injerto contra huesped aguda. En cambio en el liquen plano lo que hay es una reacción linfocítica de la interfase o liquenoide ( opción 4 falsa)",
+      "id": 11
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Todos los siguientes son hallazgos histológicas esperables en de la glomerulonefritis lúpica proliferativa difusa EXCEPTO:",
+      "opciones": [
+        "Proliferación difusa mesangial y endotelial con interposición de células mesangiales en la pared del capilar.",
+        "Capilares engrosados por el aumento de la membrana basal y la interposición del mesangio.",
+        "Depósitos electrodensos de predominio subepitelial y reacción de la membrana basal.",
+        "Cuerpos hematoxilínicos y necrosis fibrinoide."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta difícil ya que requiere conocer aspectos concretos de la anatomía patológica de la nefropatía lúpica. Recuerda que la GN lúpica proliferativa difusa es la fomra más grave y la más frecuente en enfermos sintomáticos. La respuesta 3 es falsa porque los depósitos que nos encontramos en este tipo de GN son subendoteliales y mesangiales, y no subepiteliales como aparece en la respuesta. Los depósitos subepiteliales los encontramos en la GN lúpica membranosa.",
+      "id": 12
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "En la glomerulonefritis proliferativa extracapilar difusa. ¿Qué patrón de inmunofluorescencia glomerular NO esperaríamos encontrar?:",
+      "opciones": [
+        "Positividad granular mesangial para IgA.",
+        "Positividad lineal para IgG en paredes capilares.",
+        "Positividad granular para IgG y C3 en membrana basal glomerular.",
+        "Ausencia de depósitos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta acerca de un tema importante dentro de la Nefro pero que aquí requiere de conocimientos de AP. La IF de la GMN proliferativa extracapilar difusa o rápidamente progresiva idiopatica puede ser: depoisitos lineales de IgG (anticuerpos anti- mb, GMNRP tipo I). Pueden ser depositos lineales de IgG y C3, o ausencia de depósitos en la GNRP tipo III. Al ser una extracapilar difusa pueden haber semilunas. La positividad granular mesangial para IgA se ve en la enfermedad de Berger o nefropatia IgA, que es la más frecuente en el area mediterránea. Asi pues la respuesta correcta es la 1.",
+      "id": 13
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Se realiza una biopsia renal a un paciente de 68 años que acude a urgencias con astenia y anorexia de 8 días de evolución así como un deterioro de su función renal con valores analíticos de Cr 4.2 mg/dL, Hb 9 g/dL, Na 140 mmol/L, K 5 mmol/L, hematuria, proteinuria en rango no nefrótico y Ac antiMPO positivos. ¿Qué esperaría encontrar en la biopsia?",
+      "opciones": [
+        "Aumento difuso de la matriz mesangial y engrosamiento de la membrana basal",
+        "Proliferación endocapilar",
+        "Necrosis fibrinoide con proliferación extracapilar",
+        "Extensión circunferencial del mesangio con imagen de doble contorno de la membrana basal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cuadro descrito corresponde a una glomerulopatía rápidamente progresiva en la que esperaremos encontrar la presencia de semilunas en la biopsia renal. Además, el paciente muestra niveles positivos de Ac anti mieloperoxidasa (MPO) o p-ANCA, lo que nos tiene que hacer pensar en una vasculitis pauciinmune cuya histología característica es la necrosis fibrinoide de vasos de pequeño tamaño.",
+      "id": 14
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Una biopsia cutánea que presenta una destrucción de queratinocitos basales, disolución de la unión dermoepidérmica, sin apenas infiltrado inflamatorio corresponderá a un paciente afecto de:",
+      "opciones": [
+        "Líquen plano.",
+        "Enfermedad injerto contra huésped crónica.",
+        "Eritema exudativo multiforme.",
+        "Síndrome estafilocócico de la piel escaldada."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad intermedia sobre la histopatología de lesiones dermatológicas. En la reacción vacuolar de la interfase se produce por depósito de inmunocomplejos una destrucción de los queratinocitos basales y disolución de la unión dermoepidérmica sin apenas infiltrado inflamatorio (a diferencia de la reacción linfocítica de la interfase o liquenoide, donde el borramiento de la unión dermoepidérmica se produce por el infiltrado linfocitario)\nEs el patrón típico del grupo eritema exudativo multiformre- exantema fijo medicamentos- necrolísis epidérmica tóxica , pero también en el lupus eritematoso sistémico y en la enfermedad de injerto contra huesped aguda ( opción 3 correcta).",
+      "id": 15
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "La célula lacunar, variante de la célula de Reed-Stenberg, se encuentra en un subtipo histológico de la enfermedad de Hodking. ¿En cuál?",
+      "opciones": [
+        "Predominio linfocítico",
+        "Depleción linfocítica",
+        "Celularidad mixta",
+        "Esclerosis nodular"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta es de anatomía patológica, pero se podría contestar con el capítulo de Linfoma de Hodking en el manual de Hematología. Existen 4 tipos principales de Linfoma de Hodking: predominio linfocítico, depleción linfocítica, celularidad mixta y esclerosis nodular.\n\nEn el linfoma de Hodking clásico tipo Esclerosis Nodular son muy características las células lacunares. Por tanto, opción correcta la 4.\n\nLas células lacunares tienen un núcleo multilobulado, con nucleolos pequeños y abundante citoplasma pálido que se retrae en el tejido fijado en formol y produce un espacio vacío \"una laguna\"",
+      "id": 16
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "¿Cuál de estas lesiones histológicas NO se observa en el shock?:",
+      "opciones": [
+        "Necrosis tubular aguda.",
+        "Necrosis periportal.",
+        "Daño alveolar difuso.",
+        "Eosinofilia citoplasmática y picnosis nuclear neuronal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de dificultad media- alta en relación con las manifestaciones anatomopatológicas del shock. Los cambios histológicos producidos por el shock son esencialmente los mismos de la lesión hipóxica, pudiendo manifestarse en cualquier tejido pero predominando en cerebro (encefalopatía isquémica, con picnosis nuclear neuronal y eosinofilia citoplasmática), corazón (necrosis coagulativa), pulmones (daño alveolar difuso, dentro del cuadro del SDRA), riñones (lesión isquémica tubular extensa), suprarrenales (vacualización citoplasmática y hemorragia) y tubo digestivo (hemorragia en placas y necrosis en la mucosa, lesión conocida como enteropatía hemorrágica). El hígado es más resistente al shock que otros órganos, pero puede presentar cambios grasosos y, con deficiencia grave de riego sanguíneo, necrosis hemorrágica central (y no periportal, como dice la respuesta 2).",
+      "id": 17
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Varón de 17 años que acude al médico por presentar ictericia, acompañada de astenia y anorexia. En la analítica presenta una ASAT de 870 UI y una ALAT de 1320 UI, así como una bilirrubina sérica de 6 mg/dl. Estudio serológico: HBsAg+, IgM antiHBc+ y resto de las pruebas normales. ¿Cuál de los siguientes hallazgos morfológicos NO esperaría encontrar si se hiciera una biopsia hepática a este paciente?",
+      "opciones": [
+        "Cuerpos de Councilman (degeneración acidófila de los hepatocitos).",
+        "Necrosis hepática en puentes.",
+        "Hipertrofia e hiperplasia de las células de Kupffer.",
+        "Hepatocitos con citoplasma esmerilado o en vidrio deslustrado."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Lo primero que debemos hacer es diagnosticar la patología que presenta el paciente. En este caso nos presentan un caso de infección VHB aguda (serología, clínica y laboratorio compatible). Hay que recordar que en la mayoría de los casos de infección vírica hepática la histopatología es similar; la hepatitis B se puede diagnosticar a veces por la presencia de hepatocitos con aspecto de vidrio deslustrado. Sin embargo esta característica es TÍPICA en infección por VHB CRÓNICA y no por infección aguda (que es este caso).\n\nEl resto de manifestaciones anatomopatológicas pueden presentarse en la infección por VHB.",
+      "id": 18
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Mujer de 24 años que acude a su médico de Atención Primaria por la aparición de pequeñas pápulas en pecho y espalda, así como en los hombros y glúteos. Las pápulas tienen un aspecto eritematodescamativo. La paciente refiere haber sufrido tos, odinofagia y cefalea unos días antes. En base a la historia clínica se llega al diagnóstico de psoriasis en gotas. Con respecto a los hallazgos anatomopatológicos en las enfermedades eritematodescamativas, señale la afirmación CORRECTA:",
+      "opciones": [
+        "La hiperqueratosis paraqueratósica es característica de la enfermedad de Darier.",
+        "La hiperqueratosis ortoqueratósica es característica de la psoriasis.",
+        "La papilomatosis es característica de la psoriasis.",
+        "La hipergranulosis es característica de la psoriasis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se denomina papilomatosis al aumento de la longitud de las papilas dérmicas, fenómeno que aparece en la psoriasis (respuesta 3 correcta). Se denomina hiperqueratosis al aumento de la capa córnea de la epidermis, y es un hallazgo típico tanto de la psoriasis como de la enfermedad de Darier, con la diferencia de que en la psoriasis es paraqueratósica (hay una presencia anormal de núcleos en las células del estrato córneo), mientras que en la enfermedad de Darier es ortoqueratósica (no hay núcleos en los corneocitos, de igual forma que en la epidermis normal). La hipergranulosis es el aumento del estrato granuloso, lo que ocurre en la enfermedad de Darier, pero no en la psoriasis, donde aparece hipogranulosis.",
+      "id": 19
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cuál de los siguientes elementos no esperaría encontrar en la biopsia de un ganglio linfático de una paciente afecta de la enfermedad de Kikuchi-Fujimoto?",
+      "opciones": [
+        "Histiocitos con núcleo en semiluna",
+        "Restos celulares con abundante cariorrexis",
+        "Necrosis paracortical",
+        "Abundantes células plasmáticas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la enfermedad de Kikuchi-Fujimoto o linfadenitis necrotizante de Kikuchi es muy característica la necrosis paracortical bien delimitada donde se hallan restos celulares con abundante cariorrexis, depósitos de fibrina dispersos y colecciones de células mononucleares. Es característica la ausencia de otra celularidad como los neutrófilos, los eosinófilos y las plasmáticas, que la diferencia de otras linfadenitis necrotizantes. La presencia de histiocitos con núcleo en semiluna es diagnóstica de esta patología.",
+      "id": 20
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "El tabaquismo contribuye a la patogenia del enfisema por los siguientes mecanismos, EXCEPTO:",
+      "opciones": [
+        "Estimula la liberación de elastasa de los neutrófilos.",
+        "Inhibe la capacidad de los leucocitos pulmonares para limpiar las bacterias.",
+        "Inhibe de manera directa la alfa 1-antitripsina.",
+        "Estimula la actividad de la elastasa de los macrófagos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Con esta pregunta podemos repasar el mecanismo a traves del cual actúa el tabaco en la producción del enfisema. Por un lado inhibe a la alfa 1 antitripsina cuya ausencia es uno de los responsables de la aparición del enfisema pero es que además provoca destrucción de los tabiques a través de la estimulación de la llegada de neutófilos y a la liberación por parte de éstos y de los macrófagos de la elastasa responsable último de la destrucción tisular y consecuentemente de la aparicíon de la histología que define el enfisema. La capacidad de los leucocitos pulmonares para limpiar las bacterias no participa en la fisiopatología de este cuadro.",
+      "id": 21
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál es el dato anatómico más característico de la Bronquitis crónica?:",
+      "opciones": [
+        "La hipertrofia de las glándulas mucosas.",
+        "El aumento de las células caliciformes.",
+        "Metaplasia de células ciliadas a caliciformes en bronquiolos respiratorios.",
+        "La destrucción de los septos alveolares."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta acerca de la anatomía patológica de la enfermedad pulmonar obstructiva crónica, uno de los temas más importantes en el bloque de neumología. En el estudio anatomopatológico de la bronquitis crónica podemos encontrar hipertrofia e hiperplasia de las glándulas mucosas y aumento de células caliciformes en los bronquios, siendo estas las características típicas de la bronquitis (respuesta 1 correcta).\nEl índice de Reid refleja la relación entre el espesor de las glándulas submucosas y la pared normal (mayor de 0,5 aproximadamente en la bronquitis crónica). En las vías más pequeñas encontraremos un infiltrado mononuclear, tapones mucosos, metaplasia de células caliciformes, hipertrofia del músculo liso y distorsión por fibrosis con pérdida del soporte alveolar.",
+      "id": 22
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Niño de 9 años con tumoración mandibular derecha de unos 5 cm. En la biopsia se objetiva una proliferación difusa de células pequeñas no hendidas y numerosos histiocitos con fagocitosis de elementos apoptóticos que dan un aspecto de \"cielo estrellado\". Con respecto a la enfermedad que probablemente presenta este paciente, señale la afirmación FALSA:",
+      "opciones": [
+        "La forma endémica es típicamente de países africanos, siendo en estos casos frecuente la afectación abdominal, mientras que en los occidentales suele ser esporádica y predomina la afectación maxilar.",
+        "La asociación a virus de Epstein Barr se observa en el 90% de los casos endémicos.",
+        "Es típica la traslocación t(8; 14) que implica al oncogén c-MYC.",
+        "Se trata de una neoplasia con un alto índice proliferativo y con tiempos de duplicación tumoral inferiores a 3 días."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La enfermedad que nos describen es un linfoma de Burkitt, que es una variante de linfoma linfoblástico B. En su histología, es bastante característica la denominada imagen de cielo estrellado. Desde el punto de vista genético, es típica la t(8;14), que sobreexpresa el oncogén c-MYC. Dentro de este linfoma, se distinguen dos formas:\n1) Endémica: Típica de países africanos, con frecuente afectación mandibular (opción 1 falsa, por lo que la marcamos).\n2) No endémica: Fuera de estas áreas, con afectación preferentemente abdominal.\nEl linfoma de Burkitt es el linfoma más agresivo que existe. Su tiempo de duplicación tumoral es inferior a los 3 días, motivo por el que la respuesta a la quimioterapia suele producir gran destrucción de células, con el consiguiente síndrome de lisis tumoral; para evitar dicha situación, se aconseja hidratación importante previa a la quimioterapia y administración de alopurinol para evitar la nefropatía por ácido úrico.",
+      "id": 23
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿De qué tejido es TÍPICA la necrosis colicuativa o con licuefacción?",
+      "opciones": [
+        "Del Sistema Nervioso Central.",
+        "Del pericardio.",
+        "Del tejido muscular.",
+        "Del tejido adiposo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se ha relacionado la necrosis colicuativa característicamente con el Sistema Nervioso Central (respuesta 1 correcta).",
+      "id": 24
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Acude a consulta una paciente de 54 años por habérsele encontrado la presencia de un nódulo tiroideo hipoecoico con microcalcificaciones en su interior y de bordes irregulares en una ecografía cervical, junto con una adenopatía cervical calcificada. Se realiza una PAAF que demuestra la presencia de sustancia amiloide y en la tinción inmunohistoquímica positividad para CEA y Calcitonina. Cuál de las siguientes son las encargadas de generar la sustancia denominada Calcitonina:",
+      "opciones": [
+        "Células foliculares",
+        "Células perifoliculares",
+        "Células parafoliculares",
+        "Células de Hurthle"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Todos los datos que nos proporcionan de la paciente nos sugieren el diagnóstico de Carcinoma Medular de Tiroides. En el tejido tiroideo, las células encargadas de la producción de Calcitonina (hormona con acción contraria a la PTH, reduciendo así los niveles plasmáticos de calcio) son las llamadas Células Parafoliculares o Células C.",
+      "id": 25
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Las células de Clara son células secretoras especializadas que:",
+      "opciones": [
+        "Producen surfactante.",
+        "Producen inmunoglobulina.",
+        "Constituyen la proteína de cobertura bronquiolar.",
+        "Poseen cilios."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad alta acerca de la histología del aparato respiratorio. Los bronquíolos poseen un epitelio de recubrimiento cuboideo, y no presentan células caliciformes. No presentan cartílagos ni glándulas mucosas, pero poseen unas células características denominadas células de Clara, de forma columnar baja y que hacen prominencia en la luz bronquiolar. Estas células secretoras especializadas son las encargadas de producir el componente fluido del moco bronquial y el llamado \"surfactante bronquiolar\", que no se debe confundir con el surfactante alveolar producido por los neumocitos tipo II, y que consiste en una proteina de cobertura del epitelio bronquiolar (respuesta 3 correcta).",
+      "id": 26
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "¿Cuál de los siguientes tumores se localiza con cierta frecuencia en la bifurcación del conducto colédoco (tumor de Klatskin)?",
+      "opciones": [
+        "Hemangioendotelioma juvenil.",
+        "Carcinoma fibrolamelar.",
+        "Colangiocarcinoma.",
+        "Cistoadenoma."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla sobre la patología neoplásica de la vía biliar. El colangiocarcinoma hiliar o tumor de Klatskin, aparece en el hepático común, cerca de la bifurcación, por lo que clínicamente suele ser más precoz. En consecuencia, el diagnóstico se realiza antes. A pesar de ello, su pronóstico es peor que el de los colangiocarcinomas extrahepáticos. Recuerda que es más frecuente en pacientes con colitis ulcerosa, igual que la colangitis esclerosante primaria.",
+      "id": 27
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "En el estudio de un paciente con hematuria se realiza una biopsia renal que demuestra afectación segmentaria en 3 de los 10 glomérulos de que consta el cilindro. Esta lesión consiste en marcada proliferación celular con pequeñas áreas de necrosis rodeadas de PMN y depósito de fibrina. El estudio de inmunofluorescencia demuestra depósito granular de IgA. ¿Cuál es el diagnóstico que hará el patólogo?:",
+      "opciones": [
+        "Glomeruloesclerosis segmentaria y focal.",
+        "Enfermedad de Berger.",
+        "GN proliferativa difusa intracapilar.",
+        "Nefropatía IgM."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta importante de un tema preguntado frecuentemente, las glomerulonefritis. En este caso, el dato clave es el depósito granular mesangial de IgA que se observa en la IF,y que es característica definitoria de la enfermedad de Berger o nefropatía IgA. En la MO de la biopsia renal aparece una glomerulonefritis proliferativa segmentaria y focal o proliferativa mesangial difusa. Raramente aparecen semimlunas y no suele existir engrosamiento de la membrana basal capilar.",
+      "id": 28
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Mujer de 37 años, diagnosticada de celiaquía desde los 12 años, sin más antecedentes de interés. Acude a Urgencias por la aparición en los últimos dos días de ampollas y erosiones dolorosas en tronco y axilas. En la exploración física se observan erosiones sobre piel aparentemente sana, con signo de Nikolsky positivo. Además, presenta erosiones dolorosas en la boca. Se deciden realizar biopsias de las lesiones y de piel sana. El anatomopatólogo nos informa de la presencia de acantólisis y ampollas intraepidérmicas, la inmunofluorescencia directa revela depósito de IgG en los espacios intercelulares de los queratinocitos. Ante la sospecha de una enfermedad ampollosa autoinmune, ¿cuál es el diagnóstico MÁS probable y su tratamiento de elección?",
+      "opciones": [
+        "Dermatitis herpetiforme – dapsona y continuar con dieta libre de gluten",
+        "Penfigoide ampolloso – corticoides 1 mg/kg/día",
+        "Pénfigo vulgar – corticoides 1 mg/kg/día",
+        "Herpes gestationis – corticoides 0,5 mg/kg/día y antihistamínicos orales"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre enfermedades ampollosas autoinmunes, donde las claves están en la clínica y la anatomía patológica. La paciente presenta varias características que orientan hacia el pénfigo vulgar: ampollas y erosiones en piel y MUCOSAS, con signo de Nikolsky POSITIVO, con ampollas INTRAepidérmicas y depósito de IgG en los espacios intercelulares.\n\nQue la lesión histológica sea una ampolla INTRAEPIDÉRMICA produce que se manifiesten como ampollas FLÁCIDAS, que se rompen produciendo erosiones y despegamiento de la piel cuando se ejerce presión (signo de Nikolsky positivo).\n\nEs importante diferenciar el pénfigo vulgar del penfigoide ampolloso, en este, la lesión histológica es una ampolla SUBEPIDÉRMICA (igual que en la dermatitis herpetiforme y el penfigoide gestacional), que se manifiesta con ampollas TENSAS, habitualmente sobre habones (también sobre piel sana), por lo que también se acompañan de PRURITO, síntoma que no suele aparecer en el pénfigo vulgar. En el penfigoide ampolloso NO hay signo de Nikolsky (la epidermis no se despega porque la ampolla es más profunda) (respuesta 2 incorrecta). Para completar, recuerda que el penfigoide ampolloso es la enfermedad ampollosa MÁS FRECUENTE, aparece en pacientes de mayor edad, en la histología aparecen eosinófilos y la IFD muestra deposito LINEAL de IgG +/- C3 en la unión dermoepidérmica.\n\nNO te dejes engañar por los antecedentes personales de enfermedad celiaca, en la dermatitis herpetiforme aparecen papulovesículas agrupadas (por eso “herpetiforme”) muy pruriginosas típicamente en zonas de extensión (codos, glúteos, …), y su lesión es una ampolla SUBEPIDÉRMICA, con depósito de IgA granular – diferencia con la dermatosis con IgA lineal, otra enfermedad ampollosa que aparece en niños y de curso benigna – (respuesta 1 incorrecta).\n\nEl penfigoide gestacional o herpes gestationis aparece en mujeres embarazadas en el 2º-3º trimestre y postparto. La paciente NO está embarazada, no debería generarte dudas en esta pregunta, además de las características histológicas e IFD (respuesta 4 incorrecta).\n\nPor último, recuerda que el pénfigo vulgar es una enfermedad grave, con una mortalidad del 10%, por lo que es imperativo iniciar tratamiento con corticoides sistémicos a dosis 1-2 mg/kg/día.",
+      "id": 29
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "En una mujer de 41 años con eritema nodoso y adenopatías hiliares bilaterales en la placa de tórax, ¿qué hallazgo morfológico NO esperaría encontrar en una muestra tomada con fibrobroncoscopia?",
+      "opciones": [
+        "Cuerpos de Schaumann o estructuras concoideas.",
+        "Cuerpos asteroides.",
+        "Células de Langerhans.",
+        "Granulomas no caseificantes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La Sarcoidosis es una enfermedad de causa desconocida que afecta a múltiples sistemas del organismo y que afecta principalmente a sujetos jóvenes. Prácticamente se puede afectar cualquier órgano, aunque el pulmón y los ganglios linfáticos suelen ser los más afectados. La radiografía de tórax constituye uno de los pilares para el diagnóstico de sarcoidosis.\nExiste una clasificación radiológica internacional que se utiliza para diferenciar cuatro tipos de estadios (I, II, III y IV) de la enfermedad, en función de las alteraciones que se observen en la radiografía. Estos estadios se correlacionan con la severidad, el pronóstico y la evolución de la enfermedad. Para llegar al diagnóstico definitivo de la enfermedad es necesario demostrar la existencia de granulomas sarcoideos (lesión histológica típica de la sarcoidosis). Se hace mediante la biopsia de los órganos afectados que sean más asequibles y cuya obtención ofrezca menos riesgos para el paciente y mayor rentabilidad diagnóstica. Otras estructuras que pueden aparecer en la fibro de un paciente con sarcoidosis son los cuerpos de Schaumann (inclusiones formadas por calcio y proteínas observadas en las células gigantes de Langhans de los granulomas), Cuerpos asteroides (estructuras eosinofílica extracelulares formadas por las levaduras de hongos rodeadas de espículas eosinofílicas derivadas de restos celulares de células de defensa). Las células de Langerhans derivan de la médula ósea y tienen la función de presentación antigénica y están involucradas en una gran variedad de respuestas inmunes por medio de la activación de las células T; tienen una distribución muy regular en toda la piel y pueden detectarse por medio de la localización de diversos antígenos como la ATPasa, CD1, CD4, S100, HLA- DR, y en el citoplasma las células contienen los gránulos de Birbeck. Por tanto, la respuesta falsa es la 3.",
+      "id": 30
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Anciana con demencia y pérdida de memoria reciente, junto con afasia y apraxia, que es diagnosticada de Alzheimer. Entre las siguientes opciones, ¿cuál es TÍPICA del Alzheimer?",
+      "opciones": [
+        "Leucoaraiosis.",
+        "Cuerpos de Lewy a nivel neocortical.",
+        "Atrofia y disfunción frontal.",
+        "Ovillos neurofibrilares y placa amiloides."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el Alzheimer es típico encontrar una atrofia generalizada más acusada en los lóbulos temporales. También encontramos placas amiloides y ovillos neurofibrilares (respuesta 4 correcta). La atrofia frontal se corresponde con la demencia frontotemporal o enfermedad de Pick, la leucoaraiosis es típica de la demencia vascular (enfermedad de Binswanger). Los cuerpos de Lewy son, como su nombre indica, característicos de la demencia de cuerpos de Lewy.",
+      "id": 31
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Mujer de 62 años que acude al Servicio de Urgencias por haber sufrido una metrorragia. La paciente refiere que la fecha de su última regla fue hace cinco años y no ha tenido partos ni embarazos. Además, es hipertensa y padece de diabetes mellitus tipo 2, mide 1,60 m y pesa 89 kg. Tras ser valorada en la consulta de Urgencias, es citada para histeroscopia. Durante la realización de esta se le toma una biopsia, en la que posteriormente se evidencian los siguientes hallazgos: presencia de formaciones pseudoglandulares revestidas por células cilíndricas que muestran estratificación y atipia nuclear, aumento del número de mitosis y escaso estroma fibroso con infiltración de células inflamatorias entre las formaciones glandulares. ¿De qué patología se trata con la MAYOR probabilidad?",
+      "opciones": [
+        "Adenocarcinoma de endometrio.",
+        "Hiperplasia endometrial simple.",
+        "Carcinoma endometrial papilar seroso.",
+        "Carcinoma de células claras."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cáncer de endometrio es la neoplasia ginecológica más frecuente después del de mama, por lo que es importante que conozcas los aspectos más esenciales sobre el mismo. Esta pregunta aparentemente se resuelve únicamente con posesión de conocimientos sobre anatomía patológica; sin embargo, hay un dato en el enunciado que te puede hacer deducir la opción de respuesta correcta: la presencia de estructuras GLANDULARES en la biopsia. Recuerda que los adenocarcinomas contienen este tipo de formaciones en su histología, dato que puede serte útil incluso para neoplasias en otras localizaciones (respuesta 1 correcta). Repasemos las demás opciones de respuesta:\n\n2.- La atipicidad de la muestra descarta esta opción de respuesta.\n\n3.- El carcinoma papilar seroso se caracteriza histológicamente por presentar tallos fibrovasculares arborizados que pueden formar penachos y en algunos casos se acompañan de cuerpos de Psamoma.\n\n4.- El carcinoma de células claras, por su parte, suele presentar células contenedoras de glucógeno o mucina (células claras) aunque el patrón de presentación es variable.",
+      "id": 32
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "En un informe autópsico se afirma que el paciente posee una marcada arteriosclerosis complicada aórtica. ¿La presencia de cuál de estas lesiones histológicas NO define el término anterior?:",
+      "opciones": [
+        "Solución de continuidad en la superficie.",
+        "Extravasación hemática intraplaca.",
+        "Agregados de plaquetas y fibrina en superficie.",
+        "Cristales de colesterol en el seno de la placa."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las placas ateromatosas constituyen la característica distintiva de la aterosclerosis. Pueden tener un contenido rico en lípidos, pero de manera más general son lesiones fibroadiposas y en ocasiones forman una masa casi sólida de células y tejido conjuntivo fibroso. Al microscopio las placas muestran tres componentes esenciales: células (musculares lisas, macrófagos y linfocitos), fibras y lípidos. Un ateroma típico será considerado como una placa complicada en los siguientes cuatro casos:\n\n1. Calcificación (típico de enfermedad avanzada)\n2. Formación de fisuras o ulceraciones en la superficie luminar.\n3. Trombosis superpuesta a las placas ulceradas.\n4. Hemorragia por pérdida de la integridad del endotelio (ulceración temprana) Estas cuatro complicaciones pueden presentarse sobre las placas en cualquier combinación\nPor lo tanto, la respuesta correcta es la 5, ya que la presencia de cristales de colesterol en el seno de una placa de ateroma no define ningún criterio de complicación.",
+      "id": 33
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Mujer de 28 años diagnosticada de enfermedad celíaca que acude a urgencias por astenia, malestar generalizado, náuseas, vómitos y leve coloración ictérica en piel y mucosas. Se cursa una analítica en la que se objetivan los datos siguientes: GOT 167 mU/mL, GPT 195 mU/mL, leve elevación de bilirrubina y enzimas de colectaseis (GGT y FA), IgM VHA -, IgM VHC -, ARN VHC -, AgHBs -, ANA +, hipergammaglobulinemia policlolnal IgG. Se realiza el diagnóstico de exclusión de Hepatitis Autoinmunitaria (HAI) una vez descartados otros procesos como la CEP y la CBP. Se inicia tratamiento con corticoides asociados a azatioprina. Atendiendo al tipo de HAI que con mayor probabilidad presenta nuestra paciente, cuál de los siguientes autoanticuerpos presentará con mayor probabilidad?",
+      "opciones": [
+        "AMA",
+        "Anti-LKM1",
+        "Anti-LC1",
+        "AML"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En este caso podemos ver claramente que nos están hablando de una Hepatitis Autoinmune (HAI): mujer joven con elevación predominante de transaminasas, con otra enfermedad auto inmune y ANA +. Lo importante es darse cuenta de que estamos frente a una HAI de tipo I, que se caracteriza por presentar ANA+ y AML + (anticuerpos anti-músculo liso). La HAI tipo 2 presenta Anti-LKM1 + y Anti-LC1 +.",
+      "id": 34
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Cuál de los siguientes documentos es necesario para proceder a la realización de una autopsia clínica?",
+      "opciones": [
+        "Autorización de los familiares",
+        "Autorización por el juez de guardia",
+        "Autorización del fallecido en sus últimas voluntades.",
+        "Certificación de que la sospecha de la causa de la muerte no es infecto-contagiosa"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es necesaria la autorización de los familiares del fallecido para poder proceder a la realización de la autopsia clínica.",
+      "id": 35
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Paciente mujer de 40 años de edad, sin antecedentes médicos de interés, que acude a Urgencias por febrícula, malestar y astenia de varios días de evolución, además presenta unas lesiones eritematosas en mejillas y dorso de la nariz que respetan el surco nasogeniano y las áreas periorbitarias, que según refiere empeoran con el sol. En la exploración física presenta edema maleolar bilateral. Se realiza una analítica sanguínea que muestra los siguientes resultados: Hb: 8,5 g/dl; VCM: 90fL; Hierro sérico: 30 µg/dl; ferritina: 300 µg/l; transferrina: 280 µg/dl; leucocitos: 3.500 mm3; plaquetas: 100.000/mm3. Se detectan anticuerpos antinucleares positivos 1/320, antiDNA nativo positivo, hipoproteinemia e hiperlipidemia, con complemento normal. En orina se detecta proteinuria (4,5 g/24h) con función renal conservada. Se decide realizar biopsia renal hallándose al microscopio óptico un engrosamiento difuso de la membrana basal glomerular y en la inmunofluorescencia depósitos granulares de IgG +++ y C3+ en la vertiente subepitelial de la membrana basal, así como la visualización de spikes en microscopía electrónica. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Nefropatía membranosa.",
+        "Nefritis lúpica proliferativa mesangial (Clase II).",
+        "Nefritis proliferativa difusa lúpica (Clase IV).",
+        "Glomerulonefritis mesangiocapilar/membranoproliferativa."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La nefropatía membranosa es la causa más frecuente de síndrome nefrótico en el paciente adulto no diabético, con máxima incidencia en la 4º o 5ª década de la vida. La clave de esta entidad es la formación de inmunocomplejos en la vertiente subepitelial del podocito. Existen dos tipos de nefropatía membranosa:\n\n-NM primaria (75%): Aproximadamente el 70% de los pacientes con NM primaria (idiopática) presentan anticuerpos dirigidos contra el receptor de la fosfolipasa A2 (PLA2R), tratándose, por tanto, de una enfermedad autoinmune.\n\nNM secundaria (25%): Se ha asociado a una gran variedad de condiciones (tumores de órgano sólido, infecciones como el VHB y VHC, fármacos como el captopril, AINEs, sales de oro, D-penicilamina, enfermedades autoinmunes como el LES o el síndrome de Sjögren, sarcoidosis, etc.), y la eliminación del agente inicial o el tratamiento de la condición basal suele conllevar la resolución del síndrome nefrótico. La forma de début más clásica (aproximadamente el 70%) es un síndrome nefrótico con función renal conservada y sin HTA. El diagnóstico se realiza por biopsia renal, que está indicada en todos los pacientes adultos con síndrome nefrótico de etiología no clara en los que no exista contraindicación para la misma. En la Anatomía Patológica encontramos:\n\n-Microscopio óptico: Engrosamiento difuso de la membrana basal glomerular que afecta a todos los glomérulos de forma global, en ausencia de hipercelularidad significativa.\n\n-Inmunofluorescencia: Depósitos granulares de IgG+++ y C3+ en la vertiente subepitelial de la membrana basal.\n\n-Microscopio electrónico: Depósitos electrodensos en la vertiente subepitelial de la membrana basal y expansión de la membrana basal glomerular por depósito de nueva matriz extracelular entre los depósitos (spikes).\n\nEn relación al pronóstico, la remisión espontánea ocurre en aproximadamente 1/3 de los pacientes con nefropatía membranosa, pero hasta el 30-40% de los pacientes progresan a ERCT en 5-15 años. En cuanto al tratamiento, los pacientes con NM deberían recibir tratamiento de soporte, que incluya el uso de antiproteinúricos (IECA/ARAII), hipolipemiantes y un adecuado control de la TA. El objetivo es conseguir una proteinuria < 1g/24h. El tratamiento con inmunosupresores (ciclofosfamida, tacrolimus o ciclosporina +/- corticoides) está indicado en pacientes con:\n\n-Proteinuria nefrótica persistente tras 6 meses de tratamiento antiproteinúrico.\n\n-Complicaciones relacionadas con el síndrome nefrótico que supongan riesgo vital para el paciente.\n\n-Presencia de insuficiencia renal a los 6-12 meses desde el diagnóstico.\n\nNo se recomienda el tratamiento inmunosupresor en pacientes con FG < 30 ml/min, tamaño renal < 8 cm o infecciones concomitantes graves o potencialmente mortales. El tratamiento con rituximab podría ser beneficioso en pacientes refractarios a otros inmunosupresores.",
+      "id": 36
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Varón de 68 años, diagnosticado de cáncer de páncreas, debuta con unas lesiones eritematosas en miembros inferiores. Se realiza una biopsia cutánea y el informe del patólogo menciona que en el tejido celular subcutáneo se observa necrosis grasa con células que parecen anucleadas a las que denomina “células fantasma”. ¿Cómo clasificaría histológicamente la paniculitis que presenta nuestro paciente?",
+      "opciones": [
+        "Paniculitis lobulillar con vasculitis.",
+        "Paniculitis septal sin vasculitis.",
+        "Paniculitis septal con vasculitis.",
+        "Paniculitis lobulillar sin vasculitis"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La paniculitis que se presenta de manera paraneoplásica en pacientes con cáncer de páncreas es lobulillar sin vasculitis. La liberación de enzimas pancreáticas junto a un aumento de la permeabilidad de la microcirculación permite la entrada de las enzimas en los lóbulos pancreáticos, con la consiguiente hidrólisis de grasa e inflamación, produciendo zonas de degeneración de los adipocitos que aparecen como células anucleadas con una gran membrana gruesa (células fantasmas). Debemos recordar que la paniculitis más frecuente es el Eritema Nodoso que aparece típicamente en la cara anterior de las piernas y es una paniculitis septal sin vasculitis",
+      "id": 37
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuál de las siguientes características es propia de la necrosis?",
+      "opciones": [
+        "Es la muerte parcial de un tejido",
+        "Es una lesión reversible",
+        "Es la muerte completa de un territorio orgánico",
+        "El tejido necrótico conserva en parte las funciones integradas con el resto del organismo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La necrosis es irreversible y afecta a partes concretas de un tejido, no a un órgano en toda su extensión. El tejido necrótico está muerto por definición y por tanto, no conserva funciones.",
+      "id": 38
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Mujer de 48 años que consulta por tos y expectoración abundante. En las placas de tórax presenta un patrón alveolar con broncograma aéreo. ¿En qué tipo de neoplasia pensaría usted en primer lugar?:",
+      "opciones": [
+        "Linfangitis carcinomatosa.",
+        "Carcinoma bronquioloalveolar.",
+        "Carcinoma escamoso de células grandes.",
+        "Carcinoma de células pequeñas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta acerca de la anatomía patológica de los tumores pulmonares. Los carcinomas pulmonares bronquioloalveolares afectan a partes periféricas del pulmón como un nódulo simple, o más frecuentemente como nódulos difusos múltiples que pueden confluir para producir consolidación de tipo neumonía con broncograma aéreo (respuesta 2 correcta). Su nombre deriva de su patrón de crecimiento según se observa con el microscopio, creciendo las células tumorales a lo largo de estructuras preexistentes como bronquíolos y alveolos. En algunos casos hay plegamiento papilar e invasión al interior de los espacios intersticiales. Las células tumorales son altas y columnares, en ocasiones con moco intracelular, estando la mayoría de ellas bien diferenciadas.",
+      "id": 39
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "La apoptosis o muerte celular programada es un proceso clave en el organismo ya que está implicada en eventos tan importantes como el control de la embriogénesis, la depleción de células lesionadas o el envejecimiento. Sin embargo, también se ha relacionado con procesos patológicos como el crecimiento tumoral. A continuación se señalan algunas de las características de este proceso. Indique cuál es FALSA:",
+      "opciones": [
+        "La apoptosis es el evento final de una cascada de acontecimientos moleculares, dependiente de energía, que es iniciada por diversos estímulos tanto intracelulares como exógenos.",
+        "Las proteínas de la familia Bcl-2 ejercen una importante función en el control del mecanismo de apoptosis. Por ejemplo, participan en su supresión mediante la variación de la permeabilidad mitocondrial.",
+        "El gen p53 también ejerce una importante función en el control de la apoptosis. Tanto es así que su activación contribuye al crecimiento tumoral mediante la inhibición este mecanismo de muerte celular.",
+        "La ejecución de la apoptosis es llevada a cabo por una serie de reacciones moleculares en las que intervienen, entre otros, enzimas proteolíticos de la familia de las caspasas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La apoptosis es un importante proceso celular que está implicado en numerosos eventos del organismo. Aunque su regulación puede resultar algo compleja, es importante que conozcas algunos aspectos que tienen cierta relevancia en la medicina. En esta regulación intervienen numerosos mecanismos pero nos centraremos en los expuestos en la pregunta. El gen p53 actúa deteniendo el ciclo celular cuando el ADN está dañado para permitir su reparación. Si esta reparación no es efectiva, p53 desencadena la apoptosis de la célula. Por tanto, su activación contribuirá a provocar la apoptosis y no a inhibirla (opción 3 falsa). Por este motivo, la supresión del gen p53 participa en el desarrollo de algunos tipos de tumores. Recuerda que la mutación de Bcl-2 se ha relacionado con el linfoma folicular.",
+      "id": 40
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Cuál de los siguientes hallazgos anatomopatológicos NO esperaría encontrar en un rechazo crónico de un trasplante hepático?:",
+      "opciones": [
+        "Ausencia total de conductos biliares.",
+        "Obstrucción arterial por fibrosis subintimal.",
+        "Cirrosis.",
+        "Infiltrado linfocitario y proliferación intimal en ramas portales (endotelitis)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta difícil de AP cuya respuesta la encontrarás en la separata de Digestivo y Cirugía General ( Tema 42, Trasplante Hepático). La endotelitis es característica del rechazo agudo celular o reversible. El resto de opciones sí son características del rechazo crónico o ductopénico.",
+      "id": 41
+    }
+  ]
+}

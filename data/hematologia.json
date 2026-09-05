@@ -1,0 +1,969 @@
+{
+  "titulo": "Cuestionario de Hematología",
+  "especialidad": "Hematología",
+  "totalPreguntas": 74,
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Señale la combinación MÁS importante de factores pronóstico para la supervivencia en un paciente con un síndrome mielodisplásico:",
+      "opciones": [
+        "Edad, sexo masculino, número y grado de citopenias y organomegalias.",
+        "Proporción medular de blastos, presencia de precursores inmaduros en sangre periférica, número y grado de citopenias y edad.",
+        "Anomalías citogenéticas, porcentaje de blastos en sangre periférica, LDH y edad.",
+        "Proporción medular de blastos, anomalías citogenéticas, número y grado de citopenias y edad."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de alta dificultad. La proporción medular de blastos, la citogenética, el número y grado de las citopenias y la edad, son los principales indicadores pronósticos de los SMD (respuesta 4 correcta). Cuanto mayor es la proporción medular de blastos, menor es la supervivencia y mayor el riesgo de evolución a leucemia aguda. Los casos con cariotipo normal, deleción aislada 5q y deleción aislada 20q, constituyen un grupo de mejor pronóstico. En cambio, la presencia aislada de monosomía 7, deleción 7q y las anomalías complejas, tienen un pronóstico desfavorable. Cuanto más grave, mayor es el grado de citopenias, especialmente el recuento de plaquetas y el nivel de Hb. Por último, disminuye la supervivencia de los pacientes con edad avanzada, sobre todo si son del sexo masculino.",
+      "id": 1
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente de 70 años en tratamiento con acenocumarol que acude a Urgencias por hemorragia digestiva aguda y hemodinámicamente inestable. Se le realiza una analítica en la que destaca un INR de 8 y una hemoglobina de 6,5 g/dl. El paciente es B Rh negativo. ¿Qué grupos sanguíneos serían compatibles para realizar transfusión de concentrados de hematíes?",
+      "opciones": [
+        "Grupos B y O, Rh +",
+        "Grupos AB y B, Rh –",
+        "Cualquier grupo sanguíneo con Rh –",
+        "Grupos B y O, Rh –"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta correcta: 4\n\nAnte un paciente con Rh – sólo podemos hacer transfusión sanguínea con hematíes de su mismo Rh. Para el grupo sanguíneo B podríamos hacer transfusión tanto con su mismo grupo sanguíneo como con el grupo O, ya que al carecer de receptores tipo A y B en su membrana, son el donante universal (Manual 10ª Edición Hematología, Grupo CTO)",
+      "id": 2
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿En cuál de las siguientes situaciones no veremos Esquistocitos?",
+      "opciones": [
+        "Anemia por prótesis mecánica aórtca.",
+        "Anemia hemolítica autoinmune.",
+        "Coagulación intravascular diseminada.",
+        "Síndrome hemolítico urémico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: En la anemia hemolítica autoinmune la “destrucción” de los hematíes está mediada por complemento (intravascular) o por el sistema reticuloendotelial (extravascular) de tal forma que, en caso de ver alteraciones de los hematíes veríamos esferocitos (los hematíes cambian de forma al posarse sobre ellos un anticuerpo). En el resto de opciones, existe un traumatismo mecánico (prótesis o trombosis microvascular) que producen una rotura de los hematíes en los vasos sanguíneos.",
+      "id": 3
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿Cuál de las siguientes asociaciones entre alteraciones genéticas y linfoma es incorrecta?",
+      "opciones": [
+        "t (8;14) – Linfoma Difuso de Células Grandes B.",
+        "t (11;14) – Linfoma de Células del Manto.",
+        "t (14;18) – Linfoma Folicular.",
+        "t (2;5) – Linfoma T Anaplásico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta que debes conocer acerca de las alteraciones citogenéticas de los Linfomas no-Hodgkin.\n\nLa translocación entre los cromosomas 8 y 14 reordena al oncogén C-MÝC y se produce en el linfoma de Burkitt, por lo que marcamos la opción 1 que es la incorrecta.\n\nEl resto de opciones muestran asociaciones correctas.",
+      "id": 4
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Paciente de 54 años que consulta por fiebre y pérdida de peso. La anamnesis revela artralgias y sangrados ocasionales en los últimos meses. En la exploración encontramos esplenomegalia y no se objetivan adenopatías periféricas. La analítica revela un hematocrito normal, 235.000 leucocitos/mm3 y 310.000 plaquetas. La fosfatasa alcalina leucocitaria está disminuida. El diagnóstico más probable es:",
+      "opciones": [
+        "Leucemia linfática crónica.",
+        "Leucemia mieloide crónica.",
+        "Metaplasia mieloide agnogénica.",
+        "Leucemia de células peludas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una pregunta sobre síndromes mieloproliferativos crónicos, de dificultad media, en la que nos presentan un caso clínico de un paciente con un síndrome constitucional, esplenomegalia y una analítica en la que destaca la leucocitosis y la disminución de la FA leucocitaria. De las opciones que nos dan, la que más se ajusta al cuadro es la leucemia mieloide crónica (respuesta 3 correcta). Este cuadro se caracteriza clínicamente por un síndrome hipermetabólico, una anemia progresiva (que el paciente no presenta) y hepatoesplenomegalia. En sangre periférica, destaca el aumento de los glóbulos blancos, plaquetas en número variable (desde trombopenia hasta trombocitosis) y una anemia normocítica normocrómica. Es típico de este síndrome el cromosoma Philadelphia (t 9; 22) y la disminución de la fosfatasa alcalina leucocitaria. Este último dato es importante, ya que si nos lo dan, nos acota las posibilidades de respuesta.\n\nDescartemos el resto de opciones:\n\n1: No nos hablan de la presencia de formas inmaduras (blastos) en sangre periférica, por lo tanto podemos descartar un proceso agudo.\n\n2: La LLC se caracteriza también por leucocitosis, pero a costa de los linfocitos (linfocitosis absoluta, con células de pequeño tamaño y morfología normal). Asimismo, suele tratarse de un paciente anciano, las adenopatías son relativamente frecuentes, junto con la hepatoesplenomegalia y, en las fases avanzadas, se observa anemia y trombopenia.\n\n4: En la metaplasia mieloide, el acontecimiento fundamental es una fibrosis de la médula ósea, dando lugar a lesiones óseas condensantes y hepatoesplenomegalia, por emigración de las células sanguíneas pluripotenciales, que ocupan estos órganos para llevar allí a cabo la hematopoyesis. Son típicos los dacriocitos (hematíes en lágrima) y la reacción leucoeritroblástica (formas celulares jóvenes en sangre periférica). La fosfatasa alcalina puede ser normal, o estar elevada.\n\n5: La tricoleucemia o leucemia de células peludas destaca fundamentalmente por la existencia de pancitopenia, aspirado medular seco (fibrosis medular) y esplenomegalia masiva.",
+      "id": 5
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Hombre de 83 años con buen estado general, viudo, vive sólo. Sus hijos refieren que es independiente para las actividades básicas, él limpia su casa, va a comprar el pan e incluso a veces prepara su comida. No tiene antecedentes personales de interés. Acude a urgencias por dolor de la pierna izquierda y dificultad para deambular. Tras una exploración física sugerente, se le realiza un eco-doppler y se diagnostica trombosis venosa profunda. Se le pauta tratamiento con 1 mg/kg de enoxaparina cada 8horas. Se observa al paciente pálido y con sudoración profusa. El paciente refiere mejoría de los síntomas en cuestión de horas. Pasados dos días se queja de dolor lumbar y cansancio acusado. Se le realiza una analítica de control en el que se observa Hb: 8g/dL, reticulocitos 4%, plaquetas 100 x10^6/L, leucocitos 5x 10^6/L. Señale la respuesta correcta:",
+      "opciones": [
+        "Seguramente el paciente presente trombopenia inducida por la heparina, un efecto secundario de la heparina que se trata retirando la heparina y administrando danaparoide",
+        "El paciente seguramente presente un sangrado por exceso de dosis, se le realizaría un TAC lumbar.",
+        "El paciente puede estar iniciando una leucemia aguda aleucémica, por lo que se solicita una punción medular urgente.",
+        "El paciente puede presentar una anemia aplásica, por lo que se le solicita una biopsia de médula ósea."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El efecto secundario más frecuente de la heparina es el sangrado por exceso de dosis, por ello es el primero en que deberíamos pensar (opción 2 correcta). Al observar la analítica con incremento de los reticulocitos (valor normal: 1-2%) descartamos la anemia aplásica. La trombopenia inducida por heparina cursa con trombosis paradójicas, y suele aparecer a partir de los 5-10 días desde el inicio de la heparina.\n\nEl caso clínico cuadra con una hemorragia en el retroperitoneo que cursa con: dolor lumbar, sudoración, disminución de la presión arterial, mala perfusión periférica, palidez, taquicardia. La anemia se corrige con transfusiones. Para confirmar el diagnóstico se realiza un TAC lumbar.",
+      "id": 6
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "De las diferentes reacciones adversas que se pueden presentar tras una transfusión, ¿cuál puede ser prevenida con la modificación del componente sanguíneo?",
+      "opciones": [
+        "Las reacciones hemolíticas tardías, ya que la pruebas de detección de anticuerpos previas a la transfusión son positivas y por tanto se transfundirá sangre carente del antígeno.",
+        "La hipocalcemia puede ser prevenida mediante la retirada del citrato que llevan los concentrados de hematíes.",
+        "El lavado de los concentrados de hematíes previene la sobrecarga férrica en los pacientes politransfundidos.",
+        "La irradiación de los componentes celulares (concentrados de hematíes y plaquetas) con 2.500 cGy evita la aparición de la enfermedad injerto contra huésped asociada a la transfusión."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que nos pide encontrar el efecto adverso de la transfusión que podemos evitar modificando el componente sanguíneo; es decir, alterando las características del concentrado de hematíes previamente a su infusión. Repasaremos las opciones de respuesta:\n\n1.- No se realiza detección de aloanticuerpos diferentes a los del grupo ABO-Rh previamente a la transfusión; por lo que no se realiza estudio de otros antígenos eritrocitarios diferentes a los citados que pueden dar lugar a una hemolisis tardía.\n\n2.- La hipocalcemia inducida por citrato (componente que se usa como anticoagulante en el concentrado de hematíes) se corrige con la infusión endovenosa de gluconato cálcico (pero solamente en caso de hipocalcemia postransfusional).\n\n3.- En caso de pacientes que precisen transfusiones periódicas de concentrados de hematíes, la prevención de la sobrecarga de hierro es mediante la administración de quelantes del hierro.\n\n4.- En paciente inmunosuprimidos con riesgo de EICH postransfusional es preciso la administración de concentrados irradiados para “inmunosuprimir” los leucocitos que puede haber en el concentrado (respuesta 4 correcta).",
+      "id": 7
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de los siguientes patrones de alteraciones analíticas se corresponde con una anemia de trastornos crónicos?:",
+      "opciones": [
+        "Hb: 10.8 g/dL, VCM: 80, plaquetas: 200000/mm3, leucocitos 10000/mm3,reticulocitos disminuidos, hierro sérico bajo, ferritina elevada, transferrina baja.",
+        "Hb: 6 g/dL, VCM 109, plaquetas: 90000/mm3, leucocitos 3000/mm3, reticulocitos disminuidos, hierro sérico normal, ferritina sérica elevada, transferrina normal.",
+        "Hb: 8 g/dL, VCM 100, plaquetas: 280000/mm3, leucocitos 7000/mm3, reticulocitos elevados, hierro sérico normal, ferritina sérica normal, transferrina normal.",
+        "Hb: 7 g/dL, VCM 85, plaquetas:20000/mm3, leucocitos 1000/mm3, reticulocitos disminuidos, hierro sérico normal, ferritina sérica elevada, transferrina normal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta es una de esas preguntas que parecen muy difíciles, y pensarás que seria mejor no contestarla. Pero en realidad, se puede sacar con relativa facilidad: las opciones 2 y 3 por su VCM hablan de anemias macrocíticas, lo cual quedan descartadas. La opción 4 es un paciente que presenta una pancitopenia muy marcada, y es importante recordar que las citoquinas liberadas en la anemia de trastornos crónicos, solo inhiben la producción de precursores eritroides. Luego sin duda la opción que más se ajusta a esta anemia es la respuesta 1.",
+      "id": 8
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Una paciente de 45 años, en tratamiento con anticoagulación oral por episodio de trombosis venosa profunda en miembro inferior izquierdo, acude a Urgencias por nueva inflamación en dicha pierna, objetivándose retrombosis con eco-doppler. El INR es de 1,2. ¿Cuál cree que es la explicación MÁS probable?",
+      "opciones": [
+        "Deficiencia de antitrombina III.",
+        "Deficiencia de proteína C.",
+        "Existencia de factor V de Leyden.",
+        "Tratamiento insuficiente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Después del padecimiento de una TVP, está indicado instaurar tratamiento anticoagulante durante 3-6 meses (según autores), aunque en algunos casos sería de por vida, si la hipercoagulabilidad se debe a una causa no controlable. Para mantener una anticoagulación adecuada, el INR debe oscilar entre 2 y 3 (recuerda que, en un paciente no anticoagulado, rondaría el 1). En el caso que nos plantean, está muy cerca de la unidad, por lo que la anticoagulación que está recibiendo es insuficiente, y esto es mucho más habitual que las enfermedades que nos mencionan en las otras cuatro opciones (respuesta 4 correcta).",
+      "id": 9
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Paciente de 20 años que consulta por debilidad. El hemograma da como resultado los valores siguientes: leucocitos 6.500 / mcL con fórmula normal, hemoglobina 7 g/dL, VCM 73 fL, reticulocitos 35.000 / mcL, plaquetas 180.000 / mcL. El valor de la ferritina sérica es de 5 ng/mL. ¿Cuál es el diagnóstico MENOS probable?:",
+      "opciones": [
+        "Enfermedad celíaca.",
+        "Hemoglobinuria paroxística nocturna.",
+        "Síndrome de Alport.",
+        "Enfermedad de Still."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El diagnóstico de ferropenia es firme. La respuesta 1 es causa de ferropenia por malabsorción y las 2 y 3 por pérdidas urinarias. En la enfermedad de Still el valor de la ferritina sérica es muy elevado, como reactante inflamatorio, por lo que marcamos la opción 4 correcta.",
+      "id": 10
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Señale cuál de los siguientes fármacos aplicados en oncohematología tiene propiedades inmunomoduladoras y antiangiogénicas:",
+      "opciones": [
+        "Imatinib.",
+        "Melfalán.",
+        "Lenalidomida.",
+        "Azacitidina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Repasemos las distintas opciones de respuesta:\n1.- El Imatinib es un inhibidor de la proteína tirosinquinasa de la LMC.\n2.- El Melfalán es un alquilante.\n3.- La Lenalidomida se emplea en el mieloma múltiple, tiene propiedades inmunomoduladoras y antiangiogénicas. (respuesta 3 correcta).\n4.- La azacitidina es agente desmetilante de ADN para SMD y leucemias agudas.",
+      "id": 11
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Antes de realizar un trasplante de médula ósea entre dos pacientes HLA idénticos, se debe realizar:",
+      "opciones": [
+        "Cultivo mixto de linfocitos.",
+        "Plasmaféresis.",
+        "Lavados gástrico e intestinal diarios desde 7 días antes.",
+        "Una transfusión sanguínea con sangre procedente del donante."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El trasplante de médula ósea no ha sido un tema demasiado preguntado hasta ahora. Debes insistir en otros más importantes dentro del bloque de Hematología, como las anemias. No obstante, no debes descuidarlo, porque durante las últimas dos convocatorias ha aumentado el número de preguntas. El cultivo mixto linfocitario consiste en cultivar a la vez dos poblaciones de linfocitos: una del donante y otra del receptor. Al ponerse en contacto, pueden reaccionar la una contra la otra, en cuyo caso donante y receptor no serían compatibles. En caso de que no exista una reacción inmunológica de agresión entre ellas, habría compatibilidad entre ambos y podría practicarse el trasplante. La electroforesis HLA de paciente y receptor también es importante, pero las conclusiones del cultivo mixto linfocitario son más definitivas. Opción 1 correcta.",
+      "id": 12
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Qué factor de la coagulación NO debería afectarse en una deficiencia de vitamina K?",
+      "opciones": [
+        "Fc II.",
+        "Fc V.",
+        "Fc VII.",
+        "Fc IX."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta bastante sencilla que no deberías de haber fallado. La vitamina K es necesaria para la síntesis hepática de los factores de coagulación II, VII, IX, X y proteínas C y S. El factor V no tiene relación con la vitamina K (marcamos la opción de respuesta 2). Los anticoagulantes orales inhiben la síntesis correcta de los factores vitamina K dependientes.",
+      "id": 13
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Una mujer de 25 años, previamente sana, presenta ictericia, confusión y fiebre. La primera exploración es anodina exceptuando petequias dispersas en miembros inferiores, ictericia en escleróticas y desorientación durante la exploración del estado mental. Los datos de laboratorio son los siguientes: hematocrito: 27%, recuento leucocitario: 12.000/microL, recuento de plaquetas: 10.000/microL, bilirrubina: 5mg/dL, bilirrubina directa: 0,6 mg/dL, nitrógeno ureico: 60 mg/dL, creatinina: 4,5 mg/dL. Un frotis de hematíes demuestra eritrocitos fragmentados y eritrocitos nucleados. Los tiempos de protrombina, de trombina y de tromboplastina parcial son normales. La conducta terapéutica más eficaz y adecuada probablemente es:",
+      "opciones": [
+        "Plasmaféresis.",
+        "Administración de aspirina.",
+        "Administración de glucocorticoides a dosis altas.",
+        "Administración de glucocorticoides a dosis altas más ciclofosfamida."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La dificultad de esta pregunta está en identificar el síndrome que se nos presenta en el caso clínico y que se incluye dentro de las alteraciones plaquetarias, tema al que no debes dar demasiada importancia. Basta con ir traduciendo los datos que nos dan, ya que nos acabarán dando una péntada que no debes olvidar: FIEBRE, ALTERACION NEUROLOGICA FLUCTUANTE (confusión, desorientación#), ANEMIA HEMOLITICA CON ESQUISTOCITOS (disminución del hematocrito con ictericia y aumento de la bilirrubina y eritrocitos fragmentados en el frotis), TROMBOPENIA con pruebas de coagulación normales y DISFUCION RENAL (aumento de la creatinina). Ante este cuadro debemos sospechar una PTT cuyo tratamiento de elección es la plasmaféresis (opción 1 correcta) debido a que el origen parece estar en una lesión del endotelio vascular lo que produce la liberación de multímeros de factor de von willebrand lo que facilita la adhesión plaquetaria y con este tratamiento por una lado se eliminan los grandes multímeros de factor von willebrand y por otra parte se aportan factores inhibidores para la agregación plaquetaria. Recuerda también que su equivalente en los niños es el SHU, que también cursa con trombopenia, anemia hemolítica con esquistocitos, pero que la clínica predominante es la afectación renal acompañada de HTA, siendo menos importantes la fiebre y la afectación neurológica y que suele aparecer tras una GEA por E.coli, Shigella",
+      "id": 14
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Enfermo de 48 años que consulta por síndrome constitucional y fiebre de tres semanas de evolución, sin otros síntomas que sugieran una focalidad en cuanto al origen de la fiebre. En la exploración física se palpan adenopatías cervicales. Los datos del hemograma son: leucocitos 7,8 × 109/L, hemoglobina 9 g/dL, plaquetas 190 × 109/L. En pruebas de imagen se detectan una masa retroperitoneal y esplenomegalia con múltiples lesiones esplénicas. La biopsia de una adenopatía cervical demuestra una infiltración difusa por células grandes CD20 positivas. ¿Cuál es el tratamiento MÁS adecuado?",
+      "opciones": [
+        "Quimioterapia ABVD.",
+        "Quimioterapia ABVD + radioterapia retroperitoneal.",
+        "Quimioterapia ABVD + rituximab.",
+        "Quimioterapia CHOP + rituximab."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se describe un caso anatomoclínico de linfoma difuso de células grandes B, cuyo tratamiento de primera línea es CHOP-rituximab (anticuerpo monoclonal anti-CD20). Ten en cuenta que, por las características de la enfermedad, es más sugestivo de LNH que de enfermedad de Hodgkin: enfermedad voluminosa que afecta el RETROPERITONEO, por lo que nos decidimos por quimioterapia CHOP con anticuerpo monoclonal anti-CD20 (respuesta 4 correcta).",
+      "id": 15
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Ante un paciente que presenta una leucemia aguda con infiltración de piel y encías, ¿qué subtipo de leucemia aguda considera MÁS probable teniendo en cuenta que en el estudio genético se ha encontrado una inversión del cromosoma 16?",
+      "opciones": [
+        "Leucemia mieloide aguda promielocítica (M3).",
+        "Leucemia mieloide aguda mielomonocítica (M4).",
+        "Leucemia mieloide aguda monoblástica (M5).",
+        "Leucemia mieloide aguda megacarioblástica (M7)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Tanto la inversión (16) como la traslocación (16;16) son alteraciones citogenéticas características de la LAM mielomonocítica (M4), que se caracteriza por ser una leucemia de buen pronóstico en la que se afectan piel, encías y SNC (respuesta 2 correcta).",
+      "id": 16
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "En un paciente con hemofilia la prueba que espera encontrar alargada es:",
+      "opciones": [
+        "El tiempo de protrombina.",
+        "El tiempo de tromboplastina parcial activada.",
+        "El tiempo de hemorragia.",
+        "La agregación plaquetaria."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las hemofilias no son muy preguntadas en el examen, pero conviene que conozcas algunas generalidades sobre ellas:\n\n- La herencia de la hemofilia A (factor VIII) es el déficit hereditario más frecuente de factores de coagulación.\n\n- La herencia de las hemofilias A y B es recesiva ligada al X. En el resto de las hemofilias, la herencia es autosómica recesiva.\n\n- Dado que se trata de un déficit de factor VIII, habrá prolongación del TTPA, con normalidad del tiempo de protrombina (opción 2 correcta). El diagnóstico definitivo se realiza con la cuantificación de factores de coagulación.\n\n- Clínicamente, debes sospechar hemofilia ante sangrados tipo hemartros, hematomas de tejidos blandos y, por supuesto, antecedentes familiares.",
+      "id": 17
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Paciente de 60 años que consulta por deterioro general progresivo en las semanas previas, acompañado de astenia y pérdida de peso. En la exploración física se palpan adenopatías cervicales y axilares bilaterales. En el hemograma la hemoglobina es de 9 g/dL y los leucocitos de 20 x 10^9/L con 75% de linfocitos. De entre los siguientes, ¿cuál es el diagnóstico MENOS probable?",
+      "opciones": [
+        "Leucemia aguda linfoblástica.",
+        "Enfermedad de Hodgkin.",
+        "Linfoma no hodgkiniano folicular.",
+        "Linfoma de células del manto."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La clínica y la exploración son compatibles con los cio diagnósticos, pero la existencia de linfocitosis no es propia de la enfermedad de Hodgkin, donde lo característico es que en fases avanzadas se produzca linfocitopenia por lo que marcamos la opción 2 correcta). El resto de respuestas pueden tener expresión tumoral en sangre periférica.",
+      "id": 18
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cuál de los siguientes no es característico de síndromes mielodispásicos?:",
+      "opciones": [
+        "Médula ósea hipercelular.",
+        "Posible evolución a leucemia mieloblástica.",
+        "Aparición tras radio o quimioterapia.",
+        "Linfocitosis absoluta."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad intermedia. El síndromes mielodisplásico (SMD) es un tema que en las ultimas convocatorias ha disminuido su frecuencia. Es una panmielopatía, por alteración de la célula germinal pluripotencial mieloide, que ocasiona en gran parte de los pacientes pancitopenia. Aunque en la LMMC (que por cierto actualmente se considera un híbrido entre SMD y Síndrome mieloproliferativo crónico) se puede observar una leucocitosis con monocitosis, nunca observarás una linfocitosis porque solo se altera la serie mieloide y no la linfoide (opción 4 falsa por lo que la marcamos). La médula ósea de un SMD puede ser hipercelular, normocelular o incluso hipocelular (opción 1 correcta). Luego, las opciones 2 y 3 también son correctas, un SMD puede ser secundario a diferentes opciones terapéuticas o desencadenar una leucemia aguda mieloide a lo largo de su evolución.",
+      "id": 19
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "En un paciente con tratamiento antiagregante, una de las siguientes pruebas estará alterada. Señálela:",
+      "opciones": [
+        "Tiempo de tromboplastina parcial activada.",
+        "Tiempo de protrombina.",
+        "Tiempo de trombina.",
+        "Tiempo de hemorragia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta podría acertarse con bastante sencillez si se conocen los siguientes conceptos básicos:\n- La hemostasia primaria (vasoplaquetaria) depende de la integridad de los vasos y las plaquetas. Cuando falla, se producen manifestaciones como sangrados cutáneos o mucosos (petequias, gingivorragias). Analíticamente, se altera el tiempo de hemorragia (respuesta 4 correcta). Un ejemplo de este grupo serían los sangrados por trombopenia, por la enfermedad de Von Willebrand, o asociadas al uso de antiagregantes plaquetarios.\n- La hemostasia secundaria depende de la cascada de la coagulación. Cuando se altera, aparecen hemorragias internas, como un hemartros o hematomas musculares. Analíticamente se modifican los tiempos de coagulación. El ejemplo más clásico es la hemofilia. Recuerda que las alteraciones de la vía intrínseca alteran el tiempo de tromboplastina parcial activado, mientras que las de la extrínseca alteran el tiempo de protrombina.",
+      "id": 20
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Paciente varón de 28 años, diagnosticado por biopsia de ganglios cervicales de enfermedad de Hodgkin, que tras el estudio de extensión presenta un estadio IV. ¿Qué actitud terapéutica le parece más correcta?:",
+      "opciones": [
+        "Radioterapia de las zonas afectas.",
+        "Régimen quimioterápico MOPP alternando con ABVD.",
+        "Irradiación corporal total.",
+        "Régimen quimioterápico CHOP."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "De los citados la poliQT tipo ABUD/MOPP (también valdniasólo ABUD) es el más apropiado. La RT se puede emplear en enfermedad localizada y el régimen CMOP es para LNH agresivos. La fludavabina se emplea en LLC fundamentalmente.",
+      "id": 21
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál de las siguientes alteraciones justifica un tiempo de hemorragia normal, tiempo de protrombina normal y TTPA prolongado en un paciente con niveles normales de F VIII y que no se le ha administrado heparina?",
+      "opciones": [
+        "Hepatopatía grave.",
+        "Coagulación intravascular diseminada.",
+        "Hemofilia B.",
+        "Administración de Acenocumarol."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La Hemofilia B se produce por déficit del factor IX de la coagulaicón, implicado en la vía intrínseca de la coagulación. Es por ello que se justifica el alargamiento del TTPA en un paciente sin déficit de factor VIII (descarta Hemofilia A) y que no ha recibido Heparina.\n\nLa administración de Acenocumarol daría lugar a un alargamiento del TP con TTPA normal.\n\nLa CID alargaría TP y TTPA.\n\nFinalmente la hepatopatía grave alargaria principalmente TP y, en menor grado TTPA por déficit de los factores vitamina K-dependientes.",
+      "id": 22
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿En cuál de los siguientes trastornos de las células plasmáticas es más característico el síndrome de hiperviscosidad?",
+      "opciones": [
+        "Mieloma múltiple.",
+        "Enfermedad de las cadenas pesadas.",
+        "Macroglobulinemia de Waldeström.",
+        "Amiloidosis primaria."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Hasta el 20% de los pacientes con macroglobulinemia presentan clínica de síndrome de hiperviscosidad sérica. También puede ocurrir en el mieloma múltiple, pero en mucha menor proporción. Recuerda que la hiperviscosidad va en función de la paraproteinemia. Como en el Waldenström es de tipo IgM (alto peso molecular) y la IgM es únicamente intravascular, sin distribuirse a nivel tisular, la concentración que alcanza es mayor y por ello es más frecuente la hiperviscosidad.",
+      "id": 23
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Un paciente de 45 años, recientemente intervenido de un úlcus gástrico perforado, requiere en el post-operatorio una transfusión de concentrados de hematíes. Al final de la transfusión del primer concentrado, aparece hipotensión, fiebre y oliguria. Ante la sospecha de una reacción hemolítica aguda, ¿cuál de las siguientes actuaciones debemos evitar?",
+      "opciones": [
+        "Detener la transfusión sanguínea.",
+        "Llamar al laboratorio para comprobar las pruebas cruzadas.",
+        "Iniciar sueroterapia intensiva a través de un acceso venoso periférico.",
+        "Iniciar medidas de acidificación de la orina para evitar la precipitación de la hemoglobina en los tubulos renales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Ante la sospecha de una reacción hemolítica aguda, todas las medidas nombradas en las respuestas 1, 2 y 3 son correctas. Junto a la hidratación intensiva debemos instaurar medidas para alcalinizar la orina para evitar el fracaso renal agudo debido a la precipitación de la hemoglobina en los tubulos renales.",
+      "id": 24
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Las trombocitopenias asociadas a las siguientes enfermedades tienen un mecanismo inmunológico con la EXCEPCIÓN de:",
+      "opciones": [
+        "Púrpura trombocitopénica trombótica.",
+        "Trombocitopenia secundaria a heparina.",
+        "Síndrome de Evans.",
+        "Enfermedad de Glanzmann."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La opción 4 es una trombocitopatía congénita, motivada por la deficiencia de receptores para fibrinógeno, necesarios para la agregación plaquetaria (GPIIb/IIIa) (marcamos la opción de respuesta 4). En el caso de la PTT hay Ac contra ADAMTS-13, que impide la formación de trombos mediante la escisión de los grandes multímeros de factor vW. En la trombocitopenia secundaria a heparina se produce un anticuerpo dirigido contra la heparina y su factor inhibidor que ataca también a las plaquetas. El síndrome de Evans es la coexistencia de inmunohemólisis y trombocitopenia inmune.",
+      "id": 25
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Mujer de 78 años, con antecedentes de diabetes tipo 2 en tratamiento con antidiabéticos orales, HTA en tratamiento con betabloqueantes e inhibidores de la ECA, e insuficiencia cardiaca congestiva grado 1 de la NYHA, con FEVI del 48%, y actualmente asintomática. Estado funcional: ECOG 0. Historia de dos años de evolución de pequeños bultos en el cuello. Biopsia de adenopatía cervical: linfoma folicular grado 2. Estudio de extensión: Hb 12 g/dL, Leucocitos 6.900/mcL (Neutrófilos 60%, Linfocitos 27%, Monocitos 6%, Eosinófilos 4%, Basófilos 4%), Plaquetas 220.000/mcL. MO: infiltrada por Linfoma folicular. Creatinina 1,5 mg/dL, LDH 235 U/L, Beta-2-microglobulina 2,1 mcg/mL. TAC: adenopatías menores de 3 cm en territorios cervical, axilar, retroperitoneo, ilíacos e inguinales; hígado y bazo normales. ¿Cuál de los siguientes tratamientos es el MÁS apropiado?",
+      "opciones": [
+        "Rituximab-CHOP (Ciclofosfamida, Adriamicina, Vincristina, Prednisona).",
+        "Rituximab-CVP (Ciclofosfamida, Vincristina, Prednisona).",
+        "No tratar y vigilar (esperar y ver).",
+        "Rituximab-Bendamustina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Sofisticada y prolija manera de preguntar la actitud terapéutica ante una paciente de edad avanzada con comorbilidades, asintomática y sin repercusión funcional por linfoma indolente (aunque la médula ósea está infiltrada por linfoma, la función medular, el hemograma es normal): “Esperar y ver”, ya que no hay curación con las terapias enunciadas en el resto de opciones de respuesta, todas ellas aplicables para linfomas.",
+      "id": 26
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "En el hemograma de un paciente con astenia se informa sobre la existencia de blastos. ¿Cuál es el diagnóstico MENOS probable?",
+      "opciones": [
+        "Leucemia mieloide aguda.",
+        "Leucemia mieloide crónica.",
+        "Leucemia linfática crónica.",
+        "Mielodisplasia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "A nadie le extrañaría encontrarse blastos en una leucemia aguda, con lo que la opción de respuesta 1 se descarta con facilidad. También puede haberlos en algunos síndromes mielodisplásicos (por ejemplo, en la anemia refractaria con exceso de blastos). La duda razonable estaría entre las opciones 2 y 3. La correcta es la 3, ya que en la leucemia linfática crónica es absolutamente extraordinaria la evolución hacia leucemia, falleciendo los pacientes por infecciones bacterianas debidas a su déficit de anticuerpos (neumococo, Moraxella,Haemophilus, etc.). Sin embargo, la historia natural de la leucemia mieloide crónica termina con frecuencia en una fase acelerada, a la que sigue una crisis blástica, donde lógicamente abundan este tipo de células.",
+      "id": 27
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Paciente de 55 años recientemente intervenido de valvulopatía aórtica, con recambio valvular por una válvula metálica. Tras iniciar el tratamiento con Acenocumarol desarrolla dolor en extremidades inferiores con cambio de coloración de la piel sugestivo de necrosis cutánea. ¿Cuál de las siguientes alteraciones justificaria el siguiente cuadro?",
+      "opciones": [
+        "Déficit de Antitrombina III.",
+        "Factor V Leiden.",
+        "Hiperhomocisteinemia.",
+        "Déficit de proteina C."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Uno de los efectos adversos de los anti-vitamina K como el Acenocumarol es la necrosis cutánea. Ésta tiene lugar entre el tercer y el octavo día de trataiento como consecuencia de una trombosis extensa de capilares en el tejido celular subcutáneo. Es más frecuente en paciente con déficit de proteina C y S, pero también aparecen en personas sin estos defectos.",
+      "id": 28
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Una paciente de 65 años es ingresada en la UCI por una sepsis de origen urinario. En el hemocultivo se aísla un E.coli. Su analítica muestra los siguientes datos: Leucocitos 12.500/mm3; Hemoglobina 9,5 g/dL con esquistiocitos en el frotis; Plaquetas 55.000/mm3. Estudio de coagulación: prolongación de los tiempos de protrombina (TP), de tromboplastina (TTPA) y de trombina (TT) con aumento de D-Dímero y productos de degradación del fibrinógeno (PDFs). ¿Cuál de los siguientes diagnósticos es más probable?",
+      "opciones": [
+        "Púrpura trombótica trombocitopénica.",
+        "Anemia hemolítica microangiopática.",
+        "Coagulación intravascular diseminada.",
+        "La paciente está siendo tratada con Acenocumarol."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Paciente afecto de sepsis bacteriana con anemia hemolítica microangiopática, trombocitopenia y alargamiento de todos los tiempos de coagulación. Todo ello debe hacerte sospechar una Coagulación Intravascular Diseminada. El aumento del D-Dímero y de los PDFs son datos acompañantes que van a favor de la sospecha diagnóstica.\n\nEn la PTT puede haber cierto alargamiento de los tiempos de coagulación pero es mínimo.\n\nY si la paciente estuviera tomando Acenocumarol, solamente tendría alargado el TP con TTPA y TT normal.",
+      "id": 29
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Un sujeto de 70 años diagnosticado de artritis reumatoide consulta por clínica de síndrome anémico desde hace 6 meses. Se realiza un hemograma que muestra: Hb:8,5g/dl; VCM:69 fl; leucocitos 7,5.109/l y plaquetas 220.109/l, sideremia 30 y/dl (N: 50-150), frerritina: 520 ng/ml (N<400). Señale cual es el diagnóstico más probable:",
+      "opciones": [
+        "Anemia de enfermedad crónica.",
+        "Anemia ferropénica.",
+        "Anemia por déficit de Ac. Fólico.",
+        "Anemia por déficit de B 12."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La anemia de enfermedad crónica puede ser normocítica o, como en este caso clínico, microcítica. En el paciente existe además antecedente de una enf. crónica como la A.R. Bioquímicamente se caracteriza por hiposideremia, como la ferropenia, pero a diferencia de esta última, la ferritina sérica se encuentra elevada, por la falta de utilización de los depósitos de hierro.",
+      "id": 30
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Podemos ver la presencia de blastos en sangre periférica en todas las siguientes patologías excepto en:",
+      "opciones": [
+        "Leucemia linfática crónica.",
+        "Leucemia linfoblástica aguda.",
+        "Síndrome mielodisplásico.",
+        "Leucemia mieloide crónica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Recuerda que en la LLC no hay blastos en sangre periférica, a diferencia de su homólogo mieloide (la LMC) en la cual si hay células inmaduras mieloides en sangre periférica (blastos, mielocitos, metamielocítos, cayados, etc).",
+      "id": 31
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Varón de 8 años de edad que acude a consulta por presentar, según refieren sus padres, astenia y debilidad intensas, asociado a múltiples equimosis en diferentes localizaciones, de reciente aparición. Tras realizar un estudio completo se encuentran los siguientes resultados en el hemograma: leucocitos 30.000/microL, con linfocitosis absoluta, Hb 9.5 g/dL, plaquetas 80.000/microL. Tras una punción de médula ósea se objetiva la presencia de un 30% de blastos. En el estudio genético hallamos cariotipo complejo. Una vez completado el estudio se diagnostica al paciente de leucemia linfática aguda B. Indique cuál de los siguientes supuestos no implica un pronóstico desfavorable en la leucemia linfática aguda B:",
+      "opciones": [
+        "Leucocitosis superior a 30.000/microL",
+        "Edad de aparición entre 1-9 años",
+        "Presencia de t(9;22)",
+        "Respuesta lenta al final de la inducción"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El factor pronóstico más desfavorable en la LAL es la mala respuesta al tratamiento. De la misma manera la presencia del cromosoma Filadelfia implica un peor pronóstico en el caso de la LAL. La leucocitosis superior a 30.000 por microlitro también implica un mal pronóstico. Sin embargo, el pronóstico es más favorable generalmente en LAL que asientan en niños de 1-9 años, siendo de peor pronóstico en menores de 1 año y mayores de 9.",
+      "id": 32
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Cuál de las siguientes trastornos de los que mostramos podría dar lugar a una anemia aregenerativa?",
+      "opciones": [
+        "Déficit de glucosa-6-fosfato deshidrogenasa.",
+        "Formación de un hematoma retroperitoneal agudo.",
+        "Anemia hemolítica autoinmune.",
+        "Leucemia mieloide aguda."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "De las siguientes posibles causas de anemia, solamente la opción 4 daría lugar a una anemia arregenerativa. En la leucemia aguda, la alta tasa de replicación del clon maligno de la serie blanca impide una correcta formación y regeneración de la serie roja, lo que da lugar a anemia y con un bajo número de reticulocitos. El resto de opciones son anemias hemolíticas (opciones 1 y 3) o bien por sangrado agudo (opción 2).",
+      "id": 33
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Una mujer de 43 años consulta a su médico de Atención Primaria por cansancio, gingivorragias y petequias. Se le realiza analítica en la que destaca: anemia de 8 g/dL, trombopenia de 4.000/mcL y Ieucopenia de 1.200/mcL con neutropenia absoluta. En el estudio de coagulación se observa alargamiento del APTT (43\"), actividad de la protrombina disminuida (55%), hipofibrinogenemia (98 mg/dL) y presencia de concentración elevada de dímero-D y monómeros de fibrina. Se remite para estudio hematológico urgente, realizándose un aspirado de médula ósea en el que se observa una infiltración masiva por elementos inmaduros con núcleo hendido, y numerosas astillas y bastones de Auer en el citoplasma. ¿Cuál es el diagnóstico MÁS probable de esta paciente?",
+      "opciones": [
+        "Leucemia mieloide crónica.",
+        "Leucemia aguda promielocítica.",
+        "Leucemia aguda monoblástica.",
+        "Leucemia linfoide aguda."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El cuadro de pancitopenia elimina la opción de respuesta 1 (cursan con leucocitosis), por lo que es evidente que se trata de una leucemia aguda. Dos datos, por separado, permiten contestar a la pregunta: el cuadro de CID (prolongación de los tiempos de coagulación y existencia de monómeros de fibrina y aumento de dímero D), y los bastones de Auer en las células leucémicas; ambos son datos característicos de LAM promielocítica (respuesta 2 correcta).",
+      "id": 34
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Una de las siguientes circunstancias NO se ha relacionado con anemia megaloblástica por deficiencia de vitamina B12:",
+      "opciones": [
+        "Dieta estricta vegetariana.",
+        "Gastrectomía.",
+        "Intoxicación por óxido nitroso.",
+        "Tratamiento prolongado con heparina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "No os preocupéis si fallasteis esta pregunta, os exige conocer a fondo las etiologías menos frecuentes de la anemia megaloblastica por déficit de vitamina B12. Esta se produce por: a) disminución de la ingesta: dieta estricta vegetariana durante largo tiempo; b) disminución de la absorción: déficit de FI (gastrectomía y anemia perniciosa son las causas más frecuentes), alteraciones del ileon (enf. de Crohn, sobrecrecimiento bacteriano, etc.); c) aumento de las necesidades: embarazo, neoplasias o hipertiroidismo; d) alteración en la utilización: intoxicaciones agudas por óxido nitroso. Luego el tratamiento con heparina no altera el metabolismo de la vitamina B12 (opción 4 falsa).",
+      "id": 35
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Un enfermo de 68 años, diagnosticado de una leucemia linfática crónica B 5 años antes, acude a Urgencias por intensa astenia, disnea de mínimos esfuerzos y ocasionales episodios de angina, todo ello a lo largo de las últimas semanas; no refiere coluria. En la exploración se objetiva palidez mucocutánea, ictericia y esplenomegalia de 2 cm. El hemograma revela una hemoglobina de 7,2 g/dl, 75000 leucocitos (82% linfocitos), 325000 plaquetas. La bioquímica revela una bilirrubina aumentada, a expensas de la fracción indirecta, y una LDH en el doble del valor normal. Los reticulocitos están aumentados y la haptoglobina disminuida. El frotis de sangre periférica revela la presencia de abundantes esferocitos, y la prueba de Coombs es positiva para IgG. El diagnóstico más probable es:",
+      "opciones": [
+        "Anemia hemolítica autoinmune por anticuerpos calientes.",
+        "Anemia por infiltración medular de la LLC.",
+        "Esferocitosis hereditaria de comienzo tardío.",
+        "Anemia refractaria simple."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de un caso clínico sencillo de contestar ya que nos presenta los datos típicos de esta entidad. Tenemos un paciente con antecedentes de leucemia linfática crónica B, con datos clínicos y analíticos que indican una anemia hemolítica intravascular (aumento de bilirrubina indirecta, LDH y descenso de la haptoglobina). La prueba de Coombs positiva para Ig G nos orienta hacia una causa inmune, al igual que los esferocitos que pueden verse en la esferocitosis hereditaria y en las inmunohemolisis. Por lo tanto, acotamos los diagnósticos posibles entre las opciones 1) y 2). El antecedente de la LLC- B es característico de la anemia hemolítica autoinmune por anticuerpos calientes y es un dato clave para realizar el diagnóstico correcto (opción 1). Página 12 ; Manual CTO, 4ª Edición.",
+      "id": 36
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Enfermo diagnosticado de tricoleucosis que presenta un cuadro agudo de síntomas respiratorios, fiebre e infiltrado pulmonar radiológico. ¿Qué tratamiento inicial sería el MÁS correcto?",
+      "opciones": [
+        "Poliquimioterapia.",
+        "Interferón.",
+        "Antituberculosos.",
+        "Levofloxacino."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La tricoleucemia es una enfermedad relativamente poco preguntada en el MIR, pero es interesante recordar esta asociación: la neumonía por Legionella, que es lo que sugiere la pregunta. De las opciones de respuesta, la única correcta sería el levofloxacino, que durante muchos años fue el tratamiento de elección de este tipo de neumonías (respuesta 4 correcta).",
+      "id": 37
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Mujer de 70 años que consulta por debilidad progresiva. Refiere antecedente de “operación de estómago” hace años, pero carece de otras informaciones al respecto. Los valores de la serie roja son: hemoglobina 5 g/dL, VCM 80 fL, reticulocitos 20.000/mcL, ferritina sérica 5 ng/mL. Comienza tratamiento con hierro oral y, un mes más tarde, acude a revisión sin presentar cambios significativos en la clínica ni en el hemograma. La búsqueda de sangre oculta en heces ha sido negativa. ¿Qué es lo MÁS correcto en esta situación?",
+      "opciones": [
+        "Transfusión de concentrados de hematíes.",
+        "Estudio de médula ósea.",
+        "Solicitar niveles séricos de cobalamina.",
+        "Solicitar niveles séricos de folato."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El antecedente relatado por la paciente probablemente implicó una gastrectomía amplia que ha ocasionado deficiencia mixta de hierro y vitamina B12 por carencia de factor intrínseco gástrico. La doble deficiencia es la causa de la anemia normocítica y la falta de respuesta al tratamiento exclusivo con hierro. En este caso tendríamos que solicitar niveles séricos de cobalamina, ya que esta paciente podría tener un déficit combinado (respuesta 3 correcta).",
+      "id": 38
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Un varón de 28 años diagnosticado de leucemia mieloide crónica 19 meses antes, a quien se le ha practicado un trasplante alogénico de médula ósea de un hermano HLA idéntico, acude al servicio de Urgencias por diarrea de 48 horas de evolución, de 8 a 10 deposiciones diarias, acompañadas de discreto dolor abdominal. La exploración pone de manifiesto una ictericia conjuntival evidente y un rash cutáneo, pruriginoso, maculopapular en tronco, cara, palmas, plantas y detrás de las orejas. La única medicación que toma en ese momento es ciclosporina A y trimetoprim-sulfametoxazol (como profilaxis del Pneumocystis carinii). El diagnóstico más probable es:",
+      "opciones": [
+        "Infección aguda por citomegalovirus.",
+        "Enfermedad injerto contra huésped aguda.",
+        "Reacción alérgica a la sulfamida.",
+        "Recidiva leucémica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es relativamente sencilla, sobre las complicaciones del trasplante de médula ósea. No son muy preguntadas, pero si tuvieras que estudiar sólo una deberías elegir la enfermedad injerto contra huésped (EICH) aguda. Se debe a que los linfocitos T del injerto desencadenan una respuesta inmune contra los tejidos del huésped, a los que reconocen como extraños. Clínicamente, comienza con un exantema, que luego se sigue de afectación intestinal (diarrea, dolor abdominal) y hepática (en este caso, probablemente explique la ictericia). El tratamiento de la EICH aguda es la administración de fármacos inmunosupresores, para aminorar el ataque que los linfocitos del injerto están dirigiendo contra el huésped.",
+      "id": 39
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Mujer de 29 años con antecedentes de reglas abundantes y anemia ferropénica de larga evolución que ha precisado tratamiento con ferroterapia desde los 17 años. Consulta porque tras una extracción dental tiene hemorragia que ha precisado tratamiento hemostático local. Relata que una tía materna presenta epistaxis frecuentes. En analítica presenta: 8100 leucocitos/uL, Hb 10,7 g/dL, VCM 76 fL, 380,000 plaquetas/uL; la bioquímica es normal. Actividad de protrombina 90%; INR 0,9, Tiempo de Tromboplastina Parcial Activado (TTPA) 48 seg (39 seg) con un TTPA ratio de 1,3 y fibrinógeno 340 mg/dL. ¿Cuál es la sospecha diagnóstica MÁS probable y cómo lo confirmaría?",
+      "opciones": [
+        "Hemofilia A y prueba de mezclas.",
+        "Anticoagulante lúpico y estudio de AMAS.",
+        "Trombocitopatía congénita y estudio de agregación plaquetaria.",
+        "Enfermedad de von Willebrand determinación de factor vW."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la pregunta se nos presenta a una mujer joven con antecedentes de sangrado leve/moderado fundamentalmente a nivel mucocutáneo, (y además con antecedentes familiares de sangrado que orientan a origen hereditario). En el hemograma presenta una anemia microcítica (ferropénica por sangrado), y en la coagulación un TP/INR normal con un TTPA discretamente alargado. Ante este cuadro clínico lo que tendremos que pensar es que se trata de la que es la diátesis hemorrágica hereditaria más frecuente: la enfermedad de Von Willebrand (respuesta correcta: 4). Las dos situaciones que pueden llevarte a error serían, por un lado el síndrome antifosfolipídico; es importante que recuerdes que aunque también presenta un TTPA alargado en el cuadro clínico lo que predomina es la clínica trombótica y no hemorrágica, y la hemofilia, que es característica de edades más tempranas de la vida (primera infancia) y se presenta en varones por su herencia ligada al X. Con respecto a la alteración en los tiempos de coagulación, aunque en la enfermedad de Von Willebrand suelen ser normales (se debe a anomalías cuali o cuantitativas del factor vW), el TTPA puede estar alargado o no en función del grado de descenso del FVIII:C.",
+      "id": 40
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Paciente varón que es acude a su médico de atención primaria por epistaxis frecuentes. Se realiza un hemograma que muestra: Hb 12,5 g/dL; Leucocitos 6,5 x10^9/L con fórmula normal; Plaquetas 280 x10^9/L. Se realiza un estudio de hemostasia que muestra un alargamiento del tiempo de hemorragia con TP y TTPA normales. Se remite al hematólogo para estudio y se evidencia una alteración de la adhersión de las plaquetas con Ristocetina que no se corrige con plasma. ¿Dónde está la alteración en el paciente?",
+      "opciones": [
+        "Ausencia de factor de Von Willebrand.",
+        "Ausencia de Glicoproteina IIb-IIIa en las plaquetas.",
+        "Ausencia de la Glicoproteina Ib en las plaquetas.",
+        "Déficit parcial de factor VII de la coagulación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La combinación de sangrado por mucosas + plaquetas normales + alargamiento del tiempo de hemorragia nos debe hacer pensar en una trombocitopatía.\n\nEl hecho que exita una alteración de la adhesión plaquetaria con Ristocetina nos limita el problema a un déficit de factor de Von Willebran o Gp Ib. El hecho que no se corriga con plasma es indicativo que el paciente tiene un déficit de Gp Ib en sus plaquetas o enfermedad de Bernard-Soulier.",
+      "id": 41
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Paciente mujer de 72 años de edad, hipertensa y diabética tipo 2, que ha sido intervenida quirúrgicamente implantándose una prótesis total de rodilla. Durante el postoperatorio inmediato, a las 24 horas de la cirugía, presenta una analítica con los siguientes valores: hemoglobina 8,1 g/dL, hematocrito 24%, hematíes 3.200.000/mm3. Dada la mala tolerancia hemodinámica, y que la paciente ha participado en el programa de autodonación que se realiza previamente a la cirugía, se decide trasfundir dos concentrados de hematíes. Tras la trasfusión, el postoperatorio cursa sin incidencias, por lo que la paciente es dada de alta a los 7 días de la cirugía. Los valores analíticos al alta son: hemoglobina 10,5 g/dL, hematocrito 31%, hematíes 3.700.000/mm3. En el tratamiento al alta de la paciente se incluye la administración de hierro por vía oral. En relación con el hierro, señale la respuesta FALSA:",
+      "opciones": [
+        "La absorción intestinal de hierro es mayor en su forma férrica que en su forma ferrosa.",
+        "La demanda de hierro es mayor cuando la eritropoyesis está estimulada.",
+        "La liberación de hierro en los depósitos disminuye en la inflamación.",
+        "La absorción intestinal del hierro contenido en el hemo de la carne roja es proporcionalmente mayor que la del hierro contenido en los vegetales."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta 1 es falsa: es justo al revés. El hierro se absorbe mejor en su forma ferrosa aunque se transporta en plasma en su forma férrica.",
+      "id": 42
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Respecto a la transfusión de concentrados de hematies, ¿cuál de las siguientes opciones es falsa?",
+      "opciones": [
+        "Cada concentrado incrementa 2 g/dL la concentración de hemoglobina.",
+        "La clínica del paciente y la tolerancia a la anemia son más importantes de la concentración de Hb a la hora de indicar transfusión.",
+        "Cada concentrado de hematies incrementa un 3% el hematocrito del paciente.",
+        "Transfundiremos a un paciente con insufiencia cardíca y anemización reciente a pesar de Hb > 7 g/dL."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta fácil a cerca del concentrado de hemtaies. Recuerda que cada concentrado de hematies aumenta un 3% el valor del hematocrito y 1g/dL la concentración de hemoglobina. El resto de opciones son ciertas.",
+      "id": 43
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Señale la relación INCORRECTA respecto a los estudios de hemostasia:",
+      "opciones": [
+        "Tiempo de hemorragia-hemostasia primaria.",
+        "Tiempo de protrombina-coagulación extrínseca.",
+        "Tiempo de protrombina-control de heparina.",
+        "Tiempo de trombina-actividad de fibrinógeno."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla acerca del estudio de la función hemostásica.\n\nAntes de analizar cada una de las opciones debemos fijarnos en algo evidente: en las opciones 2 y 3 hacen referencia a que el tiempo de protrombina nos mide la coagulación extrínseca y la heparina, cosa incompatible porque son 2 vías distintas, por lo que la clave estará entre ellas.\n\nVeamos:\n\n-el tiempo de hemorragia, y una de sus variantes que es el test de Ivy, mide la actividad de la hemostasia primaria, y se altera por tanto en enfermedades del vaso sanguíneo, trombopenias y alteraciones de la función plaquetaria.\n\n-el tiempo de protrombina, y una de sus variantes que es el tiempo de Quick, mide la actividad de la coagulación extrínseca, y sirve por tanto para el control de la anticoagulación oral (warfarina, acenocumarol).\n\n-el tiempo de tromboplastina parcial activado o tiempo de cefalina-kaolín, mide la actividad de la coagulación intrínseca y sirve para monitorizar el tratamiento con heparina.\n\n-el tiempo de trombina mide la actividad del fibrinógeno.\n\nPor tanto, queda claro que la opción falsa es la 3.",
+      "id": 44
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Paciente de 22 años de edad, con antecedentes personales de hemofilia A, y antecedentes familiares de 2 hermanos menores también diagnosticados de hemofilia A. En la infancia, a los 5 años, fue diagnosticado tras un traumatismo nasal, que cursó con sangrado muy importante y que requirió asistencia médica urgente. Posteriormente, el sangrado importante se ha repetido en un par de ocasiones en las que se ha realizado cirugía máxilofacial de extracción de las muelas del juicio. Actualmente el paciente presenta una tumoración en el dorso de la muñeca, de consistencia blanda y movilizable, de 1 cm de diámetro y con características ecográficas de ganglión. Previamente a la cirugía se realiza un estudio preanestésico, que incluye un estudio de coagulación. En un paciente con hemofilia la prueba que espera encontrar alargada es:",
+      "opciones": [
+        "El tiempo de protrombina.",
+        "El tiempo de tromboplastina parcial activada.",
+        "El tiempo de hemorragia.",
+        "La agregación plaquetaria."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las hemofilias no son muy preguntadas en el examen, pero conviene que conozcas algunas generalidades sobre ellas:\n\n- La herencia de la hemofilia A (factor VIII) es el déficit hereditario más frecuente de factores de coagulación.\n\n- La herencia de las hemofilias A y B es recesiva ligada al X. En el resto de las hemofilias, la herencia es autosómica recesiva.\n\n- Dado que se trata de un déficit de factor VIII, habrá prolongación del TTPA, con normalidad del tiempo de protrombina. El diagnóstico definitivo se realiza con la cuantificación de factores de coagulación.\n\n- Clínicamente, debes sospechar hemofilia ante sangrados tipo hemartros, hematomas de tejidos blandos y, por supuesto, antecedentes familiares.",
+      "id": 45
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "En el hemograma de una paciente de 69 años, derivada al hospital para estudio de anemia, se dan los siguientes resultados: leucocitos 3.400 /microL con fórmula normal. Hemoglobina 6.5 g/dL, VCM 123 fL, plaquetas 76.000 /microL, hipersegmentación de núcleos en neutrófilos y presencia de macroovalocitos. NO es propio del cuadro más probable de la paciente:",
+      "opciones": [
+        "Elevación de LDH sérica.",
+        "Hipoplasia de serie roja en médula ósea.",
+        "Precursores medulares de gran tamaño.",
+        "Rápida desaparición de las anomalías del frotis con tratamiento."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Todos los datos del hemograma y las respuestas son muy característicos de la forma grave de la anemia megaloblástica, con excepción de la hipoplasia de serie roja en médula osea, ya que la médula presenta hiperplasia eritroide. A pesar del incremento de células medulares, la elevada destrucción de las mismas genera la alteraciones bioquímicas y las citopenias sanguíneas (hemopoyesis ineficaz).",
+      "id": 46
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "En un hemograma se aprecian los siguientes datos hematológicos: hematíes 3.500.000/mm3, leucocitos 3.500/mm3, plaquetas 95.000/mm3. ¿Cuál sería el diagnóstico MENOS probable?",
+      "opciones": [
+        "Mielodisplasia.",
+        "Anemia megaloblástica.",
+        "Ferropenia.",
+        "Hemoglobinuria paroxística nocturna."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En esta pregunta debemos tener claro un concepto para responder correctamente: las tres series hematológicas están afectadas, tenemos anemia, linfopenia y trombopenia, y de las opciones que nos ofertan, todas producen o pueden producir este patrón salvo una, la ferropenia. Opción 3 correcta.\n\nEn el hiperesplenismo, existe “atrapamiento” de todas las células que pasan por el bazo, sean del tipo que sean, mientras que en la mielodisplasia y la HPN está alterada la célula pluripotencial, de la cual derivan las tres series. En el caso de la anemia megaloblástica, el déficit de ácido fólico o vitamina B12 son necesarios para la síntesis de ADN por lo que puede afectar a las tres series. Sin embargo, el hierro sólo es necesario para la síntesis del grupo hemo, presente en los hematíes y no en el resto de series. Por ello, el déficit de hierro no explicaría una pancitopenia.",
+      "id": 47
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "¿Cuál es la causa de la mayor parte de los casos de crisis aplásicas transitorias que aparecen de forma brusca en los pacientes con enfermedad hemolítica crónica?",
+      "opciones": [
+        "Infección bacteriana aguda.",
+        "Enfermedades autoinmunes.",
+        "Parvovirus B19.",
+        "Papilomavirus."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: Recuerda que el parvovirus B19, agente del eritema infeccioso, es responsable de crisis aplásicas en pacientes con enfermedades hemolíticas crónicas (como la anemia falciforme o la esferocitosis hereditaria).",
+      "id": 48
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Paciente de 20 años, sometido a trasplante alogénico de médula ósea por leucemia aguda mieloblástica, que, en el día 32 postrasplante, presenta un exantema maculopapular en la región retroauricular, en el escote, palmas y plantas; ictericia; dolor abdominal, y diarrea de 10 deposiciones líquidas diarias. En la analítica presenta: Hb 9 g/dL, leucocitos 1.600/mm3, plaquetas 25.000/mm3, bilirrubina 5 mg/dL de predominio directo, AST 80 U/L, AST 65 U/L. La complicación MÁS probable en este paciente podría ser:",
+      "opciones": [
+        "Rechazo del injerto.",
+        "Enfermedad de injerto contra huésped aguda.",
+        "Candidemia diseminada con afectación visceral.",
+        "Infección por parvovirus B19."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En las últimas convocatorias MIR ha habido muchas preguntas sobre las complicaciones del trasplante de médula ósea. Sin entrar en detalles, es necesario conocer la clínica, que debe hacerte pensar en una enfermedad de injerto contra huésped (EICH) aguda o crónica (según si aparece antes o después del tercer mes del trasplante).\n\nLa EICH aguda suele iniciarse a las 2-4 semanas del trasplante y se caracteriza por una erupción cutánea maculopapular eritematosa, anorexia o diarrea persistentes, y hepatopatía con aumento de las concentraciones séricas de bilirrubina, transaminasas y fosfatasa alcalina (respuesta 2 correcta). Como existen muchos procesos patológicos que pueden simular una EICH aguda, el diagnóstico requiere habitualmente una biopsia cutánea, hepática o endoscópica para su confirmación. En todos estos órganos se observa una lesión endotelial e infiltrados linfocitarios.\n\nEn la EICH crónica (más de tres meses después del trasplante), aparece un cuadro de afectación hepática, exantema, ojo seco y esclerodermatitis, con alteraciones histológicas muy similares a las que se ven en las conectivopatías. A diferencia de la forma aguda, en la EICH crónica se suele afectar el pulmón.",
+      "id": 49
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Varón de 72 años, con antecedentes de acrocianosis con exposición al frío, que consulta por debilidad y cansancio. El hemograma es el siguiente: leucocitos 11 × 10^9/L, hemoglobina 10 g/dL, VCM 85 fL, plaquetas 210 × 10^9/L. La prueba de Coombs directa es positiva para complemento y se ha objetivado un componente monoclonal en sangre de tipo IgM. ¿Qué es FALSO con relación a la enfermedad del paciente?",
+      "opciones": [
+        "Es improbable que la causa sea una mononucleosis infecciosa.",
+        "Debe hacerse estudio de médula ósea.",
+        "El proceso se acompaña de hemólisis intravascular.",
+        "La esplenectomía es importante en el tratamiento."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Aunque el caso es complejo, la respuesta podría deducirse por el concepto de que la hemólisis por complemento es intravascular y que, por tanto, la esplenectomía no es sustancialmente beneficiosa (opción 4 correcta). La acrocianosis, la anemia y el componente monoclonal IgM son compatibles con macroglobulinemia de Waldenström con enfermedad asociada de aglutininas frías, por lo que el estudio medular demostraría una infiltración monoclonal de células linfoplasmocitoides. La MNI es causa de crioaglutininas, pero no de monoclonalidad y, además, la edad no es la típica.",
+      "id": 50
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Paciente de 61 años que es diagnosticado de anemia hemolítica autoinmune Coombs +, superpuesta a un cuadro previo de linfadenopatía periférica e infecciones respiratorias recurrentes. El hígado es de tamaño normal. La analítica demuestra un recuento leucocitario de 180 × 109/L a expensas, principalmente, de linfocitos B maduros, hematíes 2,5 × 106, y una hipogammaglobulinemia moderada. En este paciente cabría esperar:",
+      "opciones": [
+        "Existencia de trisomía 12.",
+        "Pobre respuesta al clorambucil.",
+        "El tratamiento de mantenimiento tiene un valor importante.",
+        "La terapia con interferón alfa es de una eficacia demostrada."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cuadro que nos describen corresponde a una leucemia linfática crónica (LLC). Vamos a repasar algunas características fundamentales de esta entidad:\n\n- Son características las alteraciones de la inmunidad humoral hipogammaglobulinemia. Lógicamente, al tratarse de una leucemia crónica, habrá leucocitosis, a expensas de células de aspecto maduro.\n\n- La causa más frecuente de muerte son las infecciones, normalmente bacterianas (por ejemplo, el neumococo).\n\n- La incidencia de tumores está aumentada respecto a la población sana, debido a la inmunosupresión que padecen, y a las transformaciones hacia leucemias más agresivas (prolinfocítica) o linfomas (síndrome de Richter).\n\n- Suele presentarse en ancianos. Produce linfocitosis, adenopatías y sombras de Gumprecht en el frotis (sombras nucleares).\n\n- Desde el punto de vista genético, es clásica la aparición de la trisomía 12 (respuesta 1 correcta).",
+      "id": 51
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Hombre de 75 años que recibe tratamiento anticoagulante con dabigatrán por una fibrilación auricular. Acude al Servicio de Urgencias por hemorragia digestiva en forma de melenas. Se realiza analítica en la que presenta Hb 6,8 g/dL, plaquetas 234.000/mm3, creatinina 1,5 mg/dL, TTPa 60 segundos. Ha tomado la última dosis de dabigatrán hace 4 horas y precisa realización de endoscopia urgente. ¿Qué fármaco utilizaría para revertir el efecto del dabigatrán?",
+      "opciones": [
+        "Vitamina K.",
+        "Idarucizumab.",
+        "Plasma fresco congelado.",
+        "Sulfato de protamina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos presentan a un paciente con una hemorragia aguda en tratamiento con dabigatrán. Nos preguntan cuál es la forma más rápida de revertir el efecto de este inhibidor selectivo de la trombina. La respuesta correcta es el idarucizumab (opción 2), que es un anticuerpo monoclonal anti-dabigatrán. La vitamina K es el antídoto de los antagonistas de la vitamina K, el plasma fresco congelado se utiliza en una hemorragia en un paciente tratado con antagonistas de la vitamina K en los que su efecto se tiene que revertir de la forma más rápidamente posible y el sulfato de protamina es el antídoto de la heparina.",
+      "id": 52
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Respecto al receptor soluble de transferrina, ¿Cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "El receptor soluble de la transferrina resulta de la proteólisis del receptor de la transferrina.",
+        "Los niveles de recptor soluble de transferrina son un reflejo de los receptores de transferrina expresados y, por lo tanto, de la necesidad celular de hierro",
+        "El receptor soluble de la transferrina se encuentra disminudo en casos de ferropenia.",
+        "Ayuda a determinar si existe ferropenia en el seno de una anemia de trastorno crónico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: El receptor soluble de la transferrina es una péptido que nos indica de forma indirecta el número total de receptores de transferrina. El número de receptores de transferrina se modifica de forma similar a la transferrina en la anemia ferropénica, de tal forma que existe un aumento de receptor y, por lo tanto, de receptor soluble. Permite determinar si hay ferropenia latente en contexto de una anemia de trastorno crónico.",
+      "id": 53
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Hablando del mieloma múltiple, ¿cuál de las siguientes afirmaciones es cierta?:",
+      "opciones": [
+        "La elevación de beta-2-microglobulina es patognomónica del mismo.",
+        "Puede presentar estreñimiento entre sus manifestaciones clínicas.",
+        "El tratamiento es con melfalán desde que se diagnostica.",
+        "La gammagrafía ósea es fundamental para el diagnóstico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: A través de hipercalcemia se explicaría el estreñimiento. Un 10% de células plasmáticas es diagnóstico de mieloma si existen otros criterios. El estudio óseo no debe realizarse con gammagrafia sino fundamentalmente con radiología. No siempre el mieloma precisa tratamiento. La beta- 2 microglobulina no es patognomónica de mieloma.",
+      "id": 54
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Entre los datos de laboratorio característicos de la púrpura trombocitopénica trombótica, NO se encuentra:",
+      "opciones": [
+        "Aumento de ADAMTS-13 en plasma.",
+        "Aumento de creatinina sérica.",
+        "Esquistocitos en frotis sanguíneo.",
+        "Tiempos de coagulación poco alterados."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "ADAMTS- 13 es la metaloproteasa que escinde los grandes multímeros, culpables de la formación indiscriminada de trombos, por lo que en la PTT está disminuida (marcamos la opción de respuesta 1), dando lugar a la trombosis de la microcirculación, que facilita la hemólisis microangiopática y el fallo renal. Se trata de un trastorno de la hemostasia primaria, no de la coagulación, por lo que los tiempos de coagulación no suelen afectarse significativamente. Hay esquistocitos en el frotis debido a la anemia hemolítica microangiopática. Finalmente, las cifras de creatinina pueden estar elevadas si ha habido agregación plaquetaria a nivel renal.",
+      "id": 55
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "En el diagnóstico diferencial de una poliglobulia estaría justificada la realización de las siguientes pruebas, con la EXCEPCION de:",
+      "opciones": [
+        "Gasometría venosa.",
+        "Determinación de masa eritrocitaria.",
+        "Determinación de vitamina B12 sérica.",
+        "Determinación de fosfatasa alcalina leucocitaria."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de cierta dificultad, ya que requiere pensar qué se esconde detrás de cada opción.\n\nLas opciones 3 y 4 están justificadas. Los niveles de vitamina B12 sérica están aumentadas en la policitemia vera, lo mismo que la fosfatasa alcalina leucocitaria, lo que podría ayudarnos a orientar el diagnóstico. Por el mismo motivo, la determinación de la masa eritrocitaria también nos ayuda, ya que estaría aumentada en esta enfermedad, y serviría para descartar la llamada “falsa policitemia” o “policitemia espuria”, donde estaría normal.\n\nSin embargo, la respuesta 1 es incorrecta, ya que lo que nos interesa es la GASOMETRÍA ARTERIAL, en cualquier caso. Eso es lo que nos da una idea de la oxigenación tisular (no el oxígeno de sangre venosa). No obstante, es mucho más habitual medir la saturación de la hemoglobina con el pulsioxímetro (y menos doloroso para el paciente). En pacientes con hipoxemia crónica (fumadores con EPOC, por ejemplo), el oxígeno arterial estaría disminuido, mientras que en una policitemia vera estaría en límites normales.",
+      "id": 56
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Respecto a las características del concentrado de hematíes, ¿Cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "Es el hemoderivado más empleado en la práctica clínica.",
+        "Suele indicarse con una Hb inferior a 7 g/dL.",
+        "Su administración da lugar a un incremento de 2 g/dL de Hb.",
+        "Su volumen ronda los 300-350mL dependiendo del sistema de preparación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Recuerda que la transfusión de un concentrado de hematíes (el hemoderivado más empleado) incrementa la concentración de Hb en 1 g/dL y el Hematocrito en un 3%. Opción 3 correcta. Suele indicarse en pacientes con una Hb inferior a 7 g/dL; pero puede estar indicado con concentraciones superiores o inferiores en función de la clínica del paciente.",
+      "id": 57
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Respecto a la leucemia mieloide crónica, ¿Cuál de las siguientes afirmaciones es cierta?",
+      "opciones": [
+        "Es la neoplasia mieloproliferativa crónica más frecuente.",
+        "Podemos ver blastos en sangre periférica.",
+        "Se caracteriza por la la translocación t(9;21) entre BCR-ABL.",
+        "El mesilato de Imatinib es un tratamiento curativo de la LMC."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La leucemia mieloide crónica, una de las neoplasias mieloproliferativas más frecuente (pero no la más frecuente) se caracteriza por la translocación t(9;22) entre BCR-ABL. Consecuencia de ello, veremos en el hemograma un aumento de neutrófilos maduros en sangre periférica acompañado de progenitores (blastos, promielocitos, mielocitos, metamielocitos, etc) Opción 2 correcta. Recuerda que el único tratamiento curativo es el trasplante alogénico de médula ósea; pero que disponemos de tratamientos con inhibidores tirosina kinasa que permiten alcanzar remisiones duraderas en muchos casos.",
+      "id": 58
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Una mujer de 82 años presenta intensa anemia normocítica acompañada de neutropenia y trombopenia moderadas. El estudio de médula ósea evidencia alteraciones de la maduración medular de células mieloides, eritroides y megacariocíticas, con acumulación de importante cantidad de hierro en las mitocondrias de las células eritroides. ¿Qué diagnóstico sospecharía como más probable?",
+      "opciones": [
+        "Aplasia eritrocitaria pura.",
+        "Anemia por déficit de hierro.",
+        "Anemia aplásica.",
+        "Anemia refractaria con sideroblastos anulares."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad intermedia. Podemos descartar con facilidad la opción 1, la aplasia eritrocitaria pura no presenta una disminución de las otras líneas celulares hematológicas (opción 1 falsa). La anemia por déficit de hierro es un diagnóstico poco probable en este paciente, ya que por ejemplo la anemia ferropénica cursa con una elevación de las plaquetas (opción 2 falsa). La anemia aplasica cursa con pancitopenia intensa y sin alteraciones de la maduración de los progenitores en médula ósea (opción 3 falsa). Es importante que recordéis que en todo paciente anciano con anemia o pancitopenia debéis tener como diagnóstico diferencial al síndrome mielodisplásico, y sobre todo cuando en la médula ósea hay acumulación de hierro en las mitocondrias. A estas células se las conoce como sideroblastos, pero no son exclusivas de los SMD (opción 4 correcta).",
+      "id": 59
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Enfermo de 74 años, remitido para valoración de hemograma con leucocitosis de 25 x 10^9/L, con 85% linfocitos pequeños maduros, hemoglobina 12 g/dL, plaquetas 190 x 10^9/L y sombras nucleares en el frotis sanguíneo. El paciente se encuentra asintomático y la exploración física es normal. Acerca del diagnóstico MÁS probable del paciente, indique el tratamiento ADECUADO:",
+      "opciones": [
+        "No está indicado en este momento.",
+        "Clorambucil.",
+        "Rituximab.",
+        "Trasplante alogénico de progenitores hematopoyéticos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cuadro de linfocitos con linfocitos maduros en sangre periférica en un anciano es compatible con leucemia linfática crónica. En este trastorno la fragilidad de los linfocitos produce su ruptura en el frotis, dejando las sombras nucleares características o manchas de Gumprecht. En estadio 0 de Rai la enfermedad (pacientes sin síntomas, sin adenopatías, sin organomegalias y sin anemia o trombopenia) no precisa tratamiento. Opción 1 correcta.",
+      "id": 60
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Un paciente de 29 años es diagnosticado de anemia refractaria con exceso de blastos tras la realización de un estudio de médula ósea. ¿Cuál de las siguientes terapéuticas considera usted curativa en este paciente?:",
+      "opciones": [
+        "Interleuquina-3.",
+        "Arabinósido de citosina (citarabina).",
+        "Trasplante de médula ósea.",
+        "Fosfato de piridoxal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad intermedia. No puedes dudar esta pregunta, no existe mejor tratamiento que el curativo, y en los síndromes mielodisplásicos es el trasplante de médula ósea (opción 3 correcta). El problema es que los SMD son más frecuentes en pacientes ancianos y los trasplantes tienen muchas complicaciones (por ej. EICH), por lo que se opta la mayoría de las veces por tratamientos alternativos con dudosa respuesta terapéutica.",
+      "id": 61
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Indique la respuesta FALSA respecto a la leucemia granulocítica crónica:",
+      "opciones": [
+        "El cromosoma Filadelfia se encuentra en todas las células del organismo.",
+        "En una minoría de casos es posible encontrar antecedentes de contacto con solventes orgánicos.",
+        "Entre los síntomas de presentación se encuentran los secundarios a hipermetabolismo.",
+        "La esplenomagalia es palpable en la mayoría de los casos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad intermedia. La leucemia mieloide crónica (LMC) es una enfermedad de la médula ósea claramente relacionada con un marcador citogenético, el cromosoma Philadelphia, que aparece hasta en un 95% de los casos. Dicho cromosoma consiste en una traslocación del material genético entre los cromosomas 9 y 22. Este reordenamiento del ADN, no solo aparece en las células precursoras de la serie blanca, sino también en precursores eritroides y megacariocitos y hasta un 20% de los casos en linfocitos, fundamentalmente de la serie B. Pero recordar que no se encuentra el cromosoma Philadelphia en células no hematopoyéticas (opción 1 falsa). No olvides repasar las otras opciones que describen perfectamente a esta enfermedad.",
+      "id": 62
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Enfermo de 50 años que consulta por debilidad de reciente aparición. En su hemograma aparecen, entre otros, los siguientes resultados: hemoglobina 6,8 g/dL, VCM 82 fL, reticulocitos 150.000/mcL, plaquetas 70.000/mcL. La cifra de LDH sérica es de 750 UI/mL y la haptoglobina libre se encuentra descendida. ¿Cuál es el diagnóstico MENOS probable?",
+      "opciones": [
+        "Lupus eritematoso sistémico.",
+        "Leucemia linfática crónica.",
+        "Púrpura trombocitopénica trombótica.",
+        "Síndrome mielodisplásico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una anemia hemolítica por los datos bioquímicos y la cifra elevada de reticulocitos, que puede asociarse a todas las respuestas excepto los Síndromes mielodisplásicos, donde la anemia no es regenerativa (respuesta 4 correcta). La hemólisis es típicamente inmune en las opciones de respuesta 1 y 2 y traumática en la 3.",
+      "id": 63
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Cuáles de las siguientes son las manifestaciones MÁS características del síndrome poliglobúlico?",
+      "opciones": [
+        "Hipertermia y sudoración nocturna.",
+        "Rubicundez y cianosis.",
+        "Adenomegalias y hepatomegalia.",
+        "Hipertensión y dermografismo histamínico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El término poliglobulia se refiere a un incremento de la masa eritrocitaria, que habitualmente en clínica se reconoce por el incremento del hematocrito. Un hematocrito por encima del 55% en mujeres y 60% en varones implica casi siempre un aumento de la masa eritrocitaria. En cuanto a las manifestaciones clínicas, el inicio suele ser insidioso, con síntomas generales (astenia, sudoración nocturna, pérdida de peso), pero, sin duda, las manifestaciones más características están relacionadas con la eritrocianosis cutánea. La eritrosis se observa sobre todo en la cara, cuello y las partes acras (nariz, manos, orejas), donde puede adoptar un matiz cianótico (respuesta 2 correcta).",
+      "id": 64
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Mujer de 45 años que presenta deterioro general y astenia en los últimos meses. En la exploración física se palpa esplenomegalia moderada. El hemograma tiene leucocitos 34 × 109/L con 80% neutrófilos, 5% cayados 1% metamielocitos, 2% mielocitos, 1% basófilos, 10% linfocitos, 1% monocitos, hemoglobina 10 g/dL, plaquetas 480 × 109/L. El estudio citogenético es normal y se detecta reordenamiento BCR/ABL. ¿Cuál es el tratamiento de primera línea para la paciente?",
+      "opciones": [
+        "Hidroxiurea.",
+        "Mesilato de imatinib.",
+        "Interferón alfa.",
+        "Alotrasplante de progenitores hematopoyéticos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "A pesar de que el estudio citogenético sea normal (alrededor de un 5% de los casos de Leucemia Mieloide Crónica no tienen cromosoma pH) el hemograma con leucocitosis mieloide principalmente a expensas de neutrófilos, pero con diversas formas mieloides inmaduras y el reordenamiento genético, corresponden a LMC. Aunque todas las opciones de respuesta son tratamientos que se pueden aplicar en la enfermedad, el imatinib es la primera línea en la mayoría de las ocasiones, aunque el único curativo sea el alo-TPH (respuesta 2 correcta).",
+      "id": 65
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Mujer de 45 años que consulta por astenia y debilidad y sensación de mareo con ortostatismo. El hemograma es el siguiente: leucocitos 7.5 x 109/L con fórmula normal, hemoglobina 7 g/dL, VCM 105 fL, plaquetas 180 x 109/L, reticulocitos 150 x 109/L. ¿Cuál es el diagnóstico MÁS probable entre los siguientes?",
+      "opciones": [
+        "Hipotiroidismo.",
+        "Síndrome mielodisplásico.",
+        "Anemia inmunohemolítica.",
+        "Anemia megaloblástica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La pregunta es sencilla, ya que la única respuesta que presenta elevación de reticulocitos es la 3 opción correcta. El aumento del VCM es posible en las cuatro opciones, en la 3 principalmente por el incremento reticulocitario, que puede elevar el VCM sin verdadera macrocitosis en los hematíes maduros.",
+      "id": 66
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Paciente de 52 años, sin antecedentes médicos de interés, que consulta por astenia. En la exploración física se palpan poliadenopatías y esplenomegalia. El hemograma es el siguiente: leucocitos 40.000/mcL con 90% linfocitos pequeños, hemoglobina 10 g/dL, plaquetas 215.000/mcL. El inmunofenotipo de los linfocitos es IgM-lambda, CD5, CD19, CD20. En el estudio citogenético, las células presentan del (13q). ¿Cuál es el tratamiento MÁS adecuado?",
+      "opciones": [
+        "Clorambucilo.",
+        "Alotrasplante de progenitores hematopoyéticos.",
+        "Poliquimioterapia CHOP.",
+        "Fludarabina con ciclofosfamida y rituximab."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Caso clínico sobre una leucemia linfocítica crónica (LLC) con marcador citogenético de buen pronóstico, por lo que no hay motivo para trasplante en primera línea, sino tratamiento farmacológico (respuesta 4 correcta).",
+      "id": 67
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "La transfusión de concentrados de hematíes es un tratamiento cuya indicación depende del valor de la hemoglobina del paciente, de su hemodinámica y de los síntomas anémicos que presente. ¿En cuál de los siguientes pacientes está MENOS indicada la transfusión de hematíes?",
+      "opciones": [
+        "Varón de 75 años con episodio agudo de insuficiencia cardíaca y Hb 9 g/dL (siendo hace un mes de 11 g/dL).",
+        "Mujer con LES diagnosticada de anemia hemolítica autoinmune asintomática con Hb 7 g/dL.",
+        "Mujer de 65 años con un síndrome mielodisplásico con astenia de 3 días de evolución y Hb 6 g/dL.",
+        "Varón de 35 años post-operado reciente de una apendicitis que desarrolla disnea y con una Hb 8 g/dL (a su llegada a ugencias Hb de 12 g/dL)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La decisión a cerca de la transfusión de concentrados de hematíes depende de los niveles de Hb del paciente (así como del cambio reciente en los valores de Hb), la clínica del paciente y el tratamiento de la causa de la anemia. En el caso de la opción número 2 la paciente está asintomática, tiene una causa que puede revertir la anemia (corticoides) y la transfusión de concentrados de hematíes puede empeorar la hemólisis del paciente. Es por ello que es el caso en el que la transfusión está “menos” indicada.",
+      "id": 68
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "La leucemia que se relaciona con mayor frecuencia a incidencia familiar es:",
+      "opciones": [
+        "Leucemia mieloblástica aguda.",
+        "Leucemia linfática crónica.",
+        "Leucemia mieloblástica crónica.",
+        "Leucemia linfoblástica aguda."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Le han descrito familias con Leucemia linfática crónica. El riesgo de padecer la enfermedad es de 2- 7 veces superior entre familiares de pacientes con LLC. En la forma familiar de la enfermedad, la aparición suele ser a edades más tempranas.",
+      "id": 69
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Mujer de 72 años, diagnosticada de anemia y en tratamiento con ácido fólico desde hace ocho meses. Carece de otras informaciones o informes al respecto. Refiere que en este tiempo presentó mejoría significativa de su astenia, pero inicia dificultad para caminar desde hace tres meses, que es progresiva. El hemograma actual es el siguiente: leucocitos 4.200 /microL con fórmula normal, hemoglobina 10 g/dL, VCM 105 fL, plaquetas 90.000 /microL, frotis con aislados macroovalocitos. Lo MÁS apropiado en este momento sería:",
+      "opciones": [
+        "Continuar el tratamiento.",
+        "Medir niveles de folato sérico.",
+        "Medir niveles de cobalamina sérica.",
+        "Realizar estudio de médula ósea."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es conocida la mejoría de la función medular y, por tanto, de la anemia en la deficiencia de cobalamina con la exclusiva administración de folato.\n\nEllo puede conllevar la derivación de cobalamina desde el sistema nervioso a la médula ósea, con la aparición de síntomas neurológicos, que en este caso pueden deberse a polineuropatía o mielopatía.\n\nEn definitiva, lo que tiene nuestra paciente son trastornos neurológicos asociados a la deficiencia de B12 en el Sistema Nervioso. Opción 3 correcta.",
+      "id": 70
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "La presencia de punteado basófilo en los hematíes sugiere el diagnóstico de:",
+      "opciones": [
+        "Esferocitosis hereditaria.",
+        "Sepsis por gramnegativos.",
+        "Saturnismo.",
+        "Hepatopatía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los hallazgos en el frotis sanguíneo suelen ayudarnos a encontrar el diagnostico sobre todo en los casos clínicos, por lo que conviene aprenderse algunos de ellos, como el punteado basófilo en los hematíes. Estos se observa en los trastornos de la síntesis del hem, como el saturnismo (opción 3 correcta), los estados diseritropoyéticos (anemias sideroblasticas), así como en algunas enzimopatías (déficit de pirimidina 5' nucleotidasa).",
+      "id": 71
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Enfermo de 55 años con episodio de hemorragia digestiva alta e inestabilidad hemodinámica. Su grupo sanguíneo es 0 negativo, pero no hay disponible de forma rápida sangre de su grupo. El paciente no tiene antecedentes de transfusiones previas. ¿Qué tipo de sangre será el más aconsejable en esta situación?:",
+      "opciones": [
+        "0 positivo.",
+        "AB negativo.",
+        "AB positivo.",
+        "A negativo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La sangre de grupo 0 tiene anticuerpos naturales anti- A y anti- B, por lo que el paciente no puede recibir sangre que presente estos antígenos. Los anticuerpos anti- Rh no son naturales, por lo que se desarrollan tras la primera exposición al antígeno. Dado que no hay antecedentes de transfusiones previas, puede administrarse sangre 0 positiva opción 1 correcta.",
+      "id": 72
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Un paciente consulta por astenia severa y progresiva. En su hemograma aparecen los siguientes valores: leucocitos 7.000 /microL con fórmula normal, hemoglobina 5 g/dL, VCM 98 fL, ausencia de reticulocitos, plaquetas 180.000 / microL. ¿Cuál es la explicación MENOS probable?",
+      "opciones": [
+        "Timoma.",
+        "Tratamiento con fenitoína.",
+        "Infección por parvovirus.",
+        "Metástasis en médula ósea de carcinoma de origen indeterminado."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El diagnóstico es eritroblastopenia (ausencia de reticulocitos en sangre). La opción 4 explicaría una anemia mieloptísica, pero no eritroblastopenia. Recuerda que en la Mieloptisis, a pesar de ser una anemia de origen central, cursa con reticulocitos elevados en sangre periférica (que \"son echados de la médula ósea\" por el tumor, en el caso de la opción de la pregunta).\n\nLa eritroblastopenia adquirida puede ser secundaria a tumores (síndrome paraneoplásico en timoma), infecciones (parvovirus infecta a los proeritroblastos), fármacos o procesos autoinmunes.",
+      "id": 73
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "¿A qué corresponde, fundamentalmente, el color oscuro de la orina del proceso hemolítico intravascular?",
+      "opciones": [
+        "Hemoglobina.",
+        "Bilirrubina indirecta.",
+        "Eritrocitos.",
+        "Mioglobina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las orinas oscuras del proceso hemolítico intravascular son producto de la eliminación de hemoglobina (hemoglobinuria) en las primeras horas (opción 1 correcta). De forma más diferida (días más tarde) también se producirá eliminación de hierro (hemosiderinuria) a través de la orina.",
+      "id": 74
+    }
+  ]
+}

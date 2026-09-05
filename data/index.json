@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "anastesiologia",
+    "titulo": "Anestesiología",
+    "totalPreguntas": 76,
+    "conImagen": 0
+  },
+  {
+    "slug": "anatomia-patologica",
+    "titulo": "Anatomía Patológica",
+    "totalPreguntas": 41,
+    "conImagen": 0
+  },
+  {
+    "slug": "bioquimica",
+    "titulo": "Bioquímica",
+    "totalPreguntas": 52,
+    "conImagen": 0
+  },
+  {
+    "slug": "cardiologia",
+    "titulo": "Cardiología",
+    "totalPreguntas": 50,
+    "conImagen": 0
+  },
+  {
+    "slug": "dermatologia",
+    "titulo": "Dermatología",
+    "totalPreguntas": 76,
+    "conImagen": 0
+  },
+  {
+    "slug": "embriologia",
+    "titulo": "Embriología",
+    "totalPreguntas": 97,
+    "conImagen": 0
+  },
+  {
+    "slug": "genetica",
+    "titulo": "Genética",
+    "totalPreguntas": 110,
+    "conImagen": 0
+  },
+  {
+    "slug": "hematologia",
+    "titulo": "Hematología",
+    "totalPreguntas": 74,
+    "conImagen": 0
+  },
+  {
+    "slug": "histologia",
+    "titulo": "Histología",
+    "totalPreguntas": 145,
+    "conImagen": 1
+  },
+  {
+    "slug": "imagen",
+    "titulo": "Diagnóstico por Imagen",
+    "totalPreguntas": 62,
+    "conImagen": 62,
+    "oculta": true
+  },
+  {
+    "slug": "inmuno",
+    "titulo": "Inmunología",
+    "totalPreguntas": 86,
+    "conImagen": 0
+  },
+  {
+    "slug": "oftalmo",
+    "titulo": "Oftalmología",
+    "totalPreguntas": 91,
+    "conImagen": 0
+  },
+  {
+    "slug": "otorrino",
+    "titulo": "Otorrinolaringología",
+    "totalPreguntas": 85,
+    "conImagen": 0
+  },
+  {
+    "slug": "urologia",
+    "titulo": "Urología",
+    "totalPreguntas": 100,
+    "conImagen": 0
+  }
+]

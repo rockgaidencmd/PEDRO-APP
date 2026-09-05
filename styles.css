@@ -11,7 +11,7 @@ body {
     padding: 20px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .container {
@@ -87,8 +87,10 @@ body {
     cursor: pointer;
     transition: all 0.3s ease;
     background: #f9f9f9;
+    font-family: inherit;
     font-size: 16px;
     color: #333;
+    text-align: left;
 }
 
 .option:hover {
@@ -130,6 +132,7 @@ body {
     padding: 12px 30px;
     border: none;
     border-radius: 8px;
+    font-family: inherit;
     font-size: 16px;
     font-weight: 600;
     cursor: pointer;
@@ -229,4 +232,174 @@ body {
     .btn {
         width: 100%;
     }
+
+    .materias {
+        grid-template-columns: 1fr;
+    }
+
+    .ajustes {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .dialogo-botones {
+        flex-direction: column;
+    }
+
+    #dialogoProgreso {
+        padding: 22px;
+    }
+}
+
+[hidden] {
+    display: none !important;
+}
+
+.ajustes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #e0e0e0;
+    color: #555;
+    font-size: 14px;
+}
+
+.ajuste {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.ajuste select {
+    padding: 6px 10px;
+    border: 2px solid #e0e0e0;
+    border-radius: 6px;
+    font-size: 14px;
+    color: #333;
+    background: #f9f9f9;
+    cursor: pointer;
+}
+
+.materias {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 12px;
+}
+
+.materia {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 16px 18px;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    background: #f9f9f9;
+    cursor: pointer;
+    text-align: left;
+    font-family: inherit;
+    transition: all 0.3s ease;
+}
+
+.materia:hover {
+    border-color: #667eea;
+    background: #f0f5ff;
+    transform: translateY(-2px);
+}
+
+.materia.con-progreso {
+    border-color: #667eea;
+}
+
+.materia-titulo {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+}
+
+.materia-detalle {
+    font-size: 13px;
+    color: #666;
+}
+
+.imagen-pregunta {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.imagen-pregunta img {
+    max-width: 100%;
+    border-radius: 8px;
+    border: 2px solid #e0e0e0;
+}
+
+.imagen-pregunta figcaption {
+    padding: 15px;
+    border-radius: 8px;
+    background: #fff8e1;
+    border-left: 4px solid #ffb300;
+    color: #8a6100;
+    font-size: 14px;
+    text-align: left;
+}
+
+.pie-quiz {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+}
+
+.btn-enlace {
+    background: none;
+    border: none;
+    color: #667eea;
+    font-family: inherit;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 0;
+}
+
+.btn-enlace:hover {
+    text-decoration: underline;
+}
+
+.aviso-error {
+    padding: 20px;
+    border-radius: 8px;
+    background: #ffebee;
+    border-left: 4px solid #f44336;
+    color: #c62828;
+    line-height: 1.6;
+}
+
+#dialogoProgreso {
+    margin: auto;
+    border: none;
+    border-radius: 12px;
+    padding: 30px;
+    width: min(420px, calc(100vw - 40px));
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    color: #333;
+    font-family: inherit;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#dialogoProgreso::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.dialogo-botones {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 25px;
 }
