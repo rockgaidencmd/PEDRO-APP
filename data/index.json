@@ -48,6 +48,12 @@
     "conImagen": 0
   },
   {
+    "slug": "fisiologia",
+    "titulo": "Fisiología",
+    "totalPreguntas": 167,
+    "conImagen": 0
+  },
+  {
     "slug": "genetica",
     "titulo": "Genética",
     "totalPreguntas": 110,
@@ -76,6 +82,12 @@
     "slug": "inmuno",
     "titulo": "Inmunología",
     "totalPreguntas": 86,
+    "conImagen": 0
+  },
+  {
+    "slug": "nefro",
+    "titulo": "Nefrología",
+    "totalPreguntas": 172,
     "conImagen": 0
   },
   {

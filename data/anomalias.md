@@ -95,6 +95,29 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p9: la opción 2 está truncada en el original: "Determinación de calcio en sangre y orina, i."
 - p9: la opción 4 dice "dosis ablativa de 1-131"; el isótopo es I-131 y en el original la I aparece como el dígito 1
 
+## Fisiología
+
+- p19: el comentario desglosa el transporte de CO2 como bicarbonato (70%), disuelto (7%) y unido a Hb (20%), que suman 97% y no 100%
+- p29: en la pregunta del desplazamiento de la curva sigmoidea, Resp. Correcta 3, pero el comentario afirma 'El resto de respuestas son falsas' y acto seguido explica que la respuesta 2 'hace referencia a una consecuencia del desplazamiento de la curva a la derecha... hay mas desplazamiento de oxigeno de Hb a tejidos', es decir describe la opción 2 como cierta.
+- p30: la pregunta '¿Señale qué proceso metabólico NO tiene lugar en el hígado?' tiene un comentario que abre hablando del fibrinógeno ('El fibrinógeno es un factor de la coagulación...'), sustancia que no aparece en ninguna de las cuatro opciones; parece texto de otra pregunta.
+- p36: en 'El principal sistema muscular responsable de la espiración durante el ejercicio es', Resp. Correcta 4 pero el comentario dice 'En el caso concreto del ejercicio, la respuesta correcta es la 5' y solo hay 4 opciones; además descarta 'las respuestas 1, 2 y 4' cuando la 4 es la clave.
+- p37: en la pregunta del ÍNDICE CARDIACO el comentario da una fórmula de superficie corporal incorrecta ('una fórmula que multiplica el peso (en Kg) por la talla (en cm)') y nunca llega a calcular el valor 2,54 L/min/m2 de la opción marcada.
+- p41 y p43: las opciones de "Respecto a la fisiología cardiaca..." y de "La fase cefálica de la actividad gástrica..." llevan el número repetido dentro del propio texto ("1. 1. Existe un grupo de células marcapasos..."); se transcribe tal cual
+- p42: en la gasometría del paciente de 37 años el bicarbonato aparece como "HCO3: 44 mm Hg"; el bicarbonato se expresa en mEq/L, no en mm Hg
+- p42: en la pregunta sobre las membranas del músculo cardíaco y esquelético la clave es "Resp. Correcta: 3" pero el comentario afirma que "Las dos primeras opciones son ciertas" cuando las opciones 1 y 2 se contradicen entre sí (calcio del retículo frente a calcio extracelular) y además cierra señalando "(opción 4 falsa)"
+- p43: la pregunta de fármacos que producen hipercaliemia tiene 4 opciones, pero el comentario dice "Justificar las otras cuatro respuestas no es tan sencillo" y razona sobre la ciclosporina, que no figura entre las opciones
+- p47: Resp. Correcta 4 en la pregunta del "chasquido de apertura" pero el comentario cierra con "se deduce fácilmente que la opción correcta es la 5" y solo hay 4 opciones
+- p4: el enunciado pregunta por el potencial de acción de una célula nodal, pero el comentario abre hablando de 'las células marcapasos existentes en el ventrículo (por ejemplo, células de Purkinje)'
+- p50: el comentario de "¿De qué forma se almacena el glucógeno en el hígado?" se refiere a las opciones con letras b), c) y d) aunque en el enunciado están numeradas del 1 al 4
+- p53: en el caso de la paciente de 25 años la gasometría del enunciado da pH 7.55 y el comentario razona "ya que el pH es > 7.55"
+- p58: la pregunta de la Ley de Ohm repite la etiqueta "Comentario:" dos veces (la segunda dentro del propio párrafo); se omite la repetición en la explicación
+- p60-p61: el comentario de la pregunta sobre gasto cardiaco afirma que "En la anemia, aumenta el hematocrito por lo que aumenta la viscosidad de la sangre"; en la anemia el hematocrito y la viscosidad sanguínea descienden
+- p66: en la pregunta sobre sistemas de feed back, la opción 4 aparece con la numeración duplicada en el original ('4. 4. La persistencia de un feed back positivo no suele provocar un círculo vicioso.'); se transcribe tal cual
+- p70: la opción 2 habla de la “relajación inversa” pero el comentario la explica como 'relación inversa'; los dos términos no coinciden en el original
+- p71: en la pregunta de Luis (EPOC) el original escribe el oxígeno y el anhídrido carbónico con dígito cero: '02', 'C02', 'Fi02'; conviven en la misma pregunta con 'CO2' correcto, se transcribe tal cual
+- p75: en el comentario de la pregunta de ultraestructura muscular el original define dos veces 'Epimisio' ('Epimisio: envuelve los fascículos musculares. Epimisio: envuelve varios fascículos musculares, al músculo.'); la primera debería ser 'Perimisio', que es justo el término evaluado en la opción 3
+- p77: el comentario usa PaCO2 y PaO2 con subíndices tipográficos que se han linealizado como PaCO2 / PaO2
+
 ## Genética
 
 - p13: en la pregunta de screening prenatal no invasivo la opción 1 ("Analiza células fetales en sangre materna") se da por verdadera, pero el propio comentario indica que lo que se detecta es "DNA fetal en sangre materna", no células.
@@ -124,6 +147,34 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p33: exponentes perdidos en el rasterizado en las dos preguntas de la página: 'leucocitos 34 × 109/L', 'plaquetas 480 × 109/L', 'leucocitos 7.5 x 109/L', 'plaquetas 180 x 109/L', 'reticulocitos 150 x 109/L' (en el original serían 10^9/L)
 - p5: Resp. Correcta 2 (Leucemia mieloide crónica) pero el comentario afirma 'la que más se ajusta al cuadro es la leucemia mieloide crónica (respuesta 3 correcta)'; además el comentario descarta las opciones numeradas 1, 2, 4 y 5 cuando la pregunta solo tiene 4 opciones (numeración heredada de una versión de 5 opciones)
 - p8: en la pregunta del INR de 1,2 el comentario dice 'las enfermedades que nos mencionan en las otras cuatro opciones' cuando solo hay 3 opciones restantes
+
+## Nefrología
+
+- p24: la opción 2 aparece rasterizada como "(IgG/albúmina L<0.1)"; la "L" no corresponde a ningún símbolo esperado y probablemente sustituye a un carácter perdido en la rasterización
+- p28: el comentario sitúa el rango nefrótico en "> 3-3,5 mg/día" cuando la unidad correcta es g/día (el propio enunciado habla de proteinuria superior a 10 gramos/24 horas)
+- p31: tras el último párrafo del comentario de la GNRP ("La imagen de las semilunas glomerulares...") queda un hueco en blanco donde el PDF original tenía una imagen que no se rasterizó
+- p33: el enunciado da un Índice proteínas/Creatinina de 4,8 mg/g y el comentario afirma que equivale a 4,8 g/día de albuminuria; la equivalencia solo sería válida con 4.800 mg/g
+- p34: el comentario de la pregunta sobre recidiva postrasplante dice "podemos descartar las opciones 4 y 5" pero la pregunta solo tiene 4 opciones
+- p35: el comentario de la pregunta de rabdomiolisis cierra con "(R2 incorrecta, R4 correcta)" repitiendo R4, que ya había declarado correcta antes; probablemente debería decir R3
+- p35: el enunciado da "CPK 20.000 mg/dl"; la unidad correcta de la CPK es U/L, no mg/dl
+- p36: el símbolo micro (µ) no se rasterizó y aparece como "?" en "valores repetidos > 60 ?g/l" y en "solución de diálisis con aluminio < 2 ?g/l"; se transcribe tal cual
+- p40-41: Resp. Correcta 1 pero el comentario dice "(respuesta 3 correcta)" y "(respuestas 2 y 4 correctas)"; se refiere a que esas asociaciones son ciertas, no a la clave, pero contradice literalmente el número de la respuesta
+- p40: en el comentario de la pregunta de histopatología del LES aparece "?semilunas?" - las comillas del original no se rasterizaron y quedaron como signos de interrogación
+- p43-44: pregunta sobre glomerulonefritis rápidamente progresiva con Resp. Correcta 2, pero el comentario afirma "LA OPCION CORRECTA ES POR TANTO LA 3", dice que la opción 2 es falsa y menciona una "opción 5" inexistente (solo hay 4 opciones)
+- p44: pregunta del varón de 35 años con rabdomiolisis: Resp. Correcta 1 (CPK) pero el comentario cierra con "por lo que la respuesta correcta es la 2"
+- p47-48: comentario de la pregunta prerrenal vs intrínseca dice "una osmolaridad como la de la opción 4" cuando la opción que habla de osmolaridad es la 3, que es además la clave
+- p50-51: el enunciado indica TA de 220/120 mmHg y el comentario dice 220/110 mmHg
+- p52-53: comentario de la enfermedad quística medular menciona "(respuestas 1, 2 y 5 incorrectas)" pero la pregunta solo tiene 4 opciones
+- p53: enunciado del varón culturista da "Hb 10,5 mg/dL"; la unidad correcta de hemoglobina es g/dL
+- p57-58: el enunciado de los anticalcineurínicos incluye las cuatro opciones linealizadas dentro del propio enunciado, sin separadores ("Hipomagnesemia Hipouricemia Hipofosfatemia Hiperpotasemia"), y se repiten después como opciones
+- p59-60: Resp. Correcta 2 (SHU atípico) pero el comentario cierra con "su indicación en ficha tecnica es en el tipico", contradiciendo su propia frase inicial y la clave
+- p62: el comentario afirma que 'Solo el yodo y el magnesio tienen una mayor reabsorción a nivel del asa de Henle'; el yodo no es un soluto de reabsorción tubular relevante (probable errata por sodio) y el dato es incorrecto como material de estudio.
+- p64: la opción 1 de la pregunta del varón de 38 años tiene el texto duplicado en el original: 'el tratamiento de elección es el tratamiento es la anticoagulación'.
+- p65: en el comentario el bicarbonato aparece con subíndice y superíndice (CO3H con menos volado) seguido de la cifra; al linealizarlo queda 'CO3H-42 mmol/L' y puede leerse como un valor negativo.
+- p71: la analítica del niño de 7 años indica 'albuminemia de 2,1 mg/dl'; la unidad correcta sería g/dl (el valor tal cual es mil veces inferior al fisiológicamente posible).
+- p77: Resp. Correcta 3, pero el comentario etiqueta 'opción 4 falsa' y 'opción 3 correcta', y menciona 'opciones 2 y 5 correctas' cuando la pregunta solo tiene 4 opciones.
+- p7: en el comentario de la pregunta sobre tratamiento del síndrome nefrótico hay dos caracteres que no se rasterizaron y aparecen como '?': 'hipercoagulabilidad? Para el tratamiento' y '0,6g/kg/día ?entonces la respuesta incorrecta ha de ser la 1- .'
+- p9: en la pregunta '¿Cuál de las siguientes opciones, NO elegiría para el tratamiento del síndrome nefrítico?' la Resp. Correcta es 4, pero el comentario afirma 'la respuesta 3 es correcta'; se refiere a que la medida 3 es una actuación adecuada (no a la clave), y concluye que la digoxina no está indicada
 
 ## Neurología
 
