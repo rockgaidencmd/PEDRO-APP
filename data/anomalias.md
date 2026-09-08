@@ -135,6 +135,34 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p9: la opción 2 está truncada en el original: "Determinación de calcio en sangre y orina, i."
 - p9: la opción 4 dice "dosis ablativa de 1-131"; el isótopo es I-131 y en el original la I aparece como el dígito 1
 
+## Farmacología
+
+- p12: en el comentario sobre tolerancia antibiótica aparece '(CMB/CMI ? 32)': el signo original (probablemente '≥') no se rasterizó y quedó como interrogante
+- p14: la explicación del cotrimoxazol queda truncada a mitad de frase al final de la p15 ('También es activo frente a S. aureus,') y el separador cierra la pregunta sin completarla
+- p17: el enunciado pregunta por el mecanismo antianginoso de los 'nitritos', pero todo el comentario habla de 'nitratos'
+- p24: en la clasificación de las RAM, el comentario define 'Tipo D (Diferidas): Son RAM que aparecen al tiempo de la administración del fármaco', lo que contradice el propio concepto de reacción diferida (deberían aparecer a distancia en el tiempo); los ejemplos que da (teratogénesis, carcinogénesis) sí corresponden a reacciones diferidas.
+- p28: el enunciado pregunta por 'los receptores de canales inotrópicos' mientras que el comentario responde sobre 'los receptores que actúan sobre canales iónicos' (ionotrópicos); no son lo mismo y el término del enunciado está mal empleado.
+- p32: en la pregunta de la ARN polimerasa el comentario clasifica la vancomicina como aminoglucósido ('los aminoglucósidos (vancomicina)'), cuando es un glucopéptido, y además cita como betalactámico la meticilina, que no figura entre las opciones.
+- p33: el rango terapéutico de la fenitoína aparece como '10-20 g/ml'; falta el prefijo micro (µg/ml), lo que altera la dosis en un factor de un millón.
+- p34: el comentario del equilibrio estacionario contiene dos tablas (Dosis / Cp max / Cp 8 h) que se han linealizado como texto; además, en la primera tabla el valor de 'Cp 8 h' de la 5.ª dosis figura como 96.86 mientras que en la segunda tabla (doble de dosis) el valor equivalente es 193.75, es decir el doble de 96.875.
+- p37: el comentario dice 'idarucizumab (el cual ha funcionado, aunque solo completamente)' cuando el enunciado especifica que la reversión se consiguió solo parcialmente; la frase es internamente incoherente.
+- p41: en la pregunta sobre los efectos de la edad, el comentario justifica la opción 2 diciendo que la disminución de la albúmina 'aumenta la fracción libre de fármacos ácidos (como la albúmina)', poniendo la propia albúmina como ejemplo de fármaco ácido; la opción 2 del enunciado habla de la digoxina.
+- p44: en la pregunta sobre intoxicación por betabloqueantes el comentario dice dos veces 'como dice la opción 2'; la segunda cita (hipoglucemias graves sin clínica) corresponde en realidad a la opción 1
+- p47: en el comentario los símbolos Na+ y H2O aparecen con superíndice/subíndice en el original y se transcriben linealizados
+- p55: en el comentario de la pregunta del aclaramiento renal hay un hueco en blanco donde debería figurar la fórmula (no se rasterizó); el cálculo sí aparece después en texto: 30 [mg/hora] / 6 [mg/L] = 5 L/hora
+- p59: en la pregunta del síndrome de secreción inadecuada de ADH el comentario dedica una frase a la lamotrigina, fármaco que no figura entre las opciones
+- p62: la opción 2, marcada como correcta, afirma que los salicilatos y barbitúricos 'se encuentran en gran parte ionizados, lo que facilita su absorción' en el estómago; contradice el principio que el propio documento expone en la p63 ('Solo la parte no ionizada es capaz de atravesar membranas')
+- p69: el comentario de la digoxina dice 'es efectiva en el control de la frecuencia en reposo, pero durante el ejercicio, por ello se emplea...': falta la negación ('pero no durante el ejercicio') y la frase queda incoherente con la opción 3 marcada como correcta
+- p69: en el comentario de la pregunta del eritema difuso no se rasterizaron comillas ni guiones: aparece '?precisamente esta ha sido preguntada- ,' y '?síndrome del hombre rojo?'. Lo mismo ocurre en el comentario de los glucopéptidos (p73)
+- p70: el comentario de los ésteres de la colina contiene una tabla (columnas Cardiovascular / Gastrointestinal / Vías urinarias / Pupila / Nicotínica) que hubo que linealizar en la explicación
+- p71: el comentario del mismo caso describe una cetoacidosis diabética pero justifica la respuesta (metformina) por acidosis láctica, y cierra diciendo que el resto de fármacos no tienen descrita la cetoacidosis como reacción adversa
+- p71: en el caso clínico del varón de 58 años la analítica indica 'K 74 mmol/L', valor de potasio imposible (incompatible con la vida); además el comentario afirma que hay hipopotasemia
+- p74: en el enunciado 'intoxicación aguda por un opioide agonista m puro' la letra µ (mu) no se rasterizó y aparece como 'm'
+- p76: el comentario del síndrome miasténico habla de 'los otros cuatro antiepilépticos' cuando solo hay 3 opciones distintas de la correcta, y comenta el fenobarbital, que no figura entre las opciones
+- p77: el enunciado de la pregunta de la neumonía comunitaria empieza truncado ('días después de comenzar el tratamiento...'), falta el número de días que debía precederlo
+- p79: el comentario de 'Señale la respuesta INCORRECTA' analiza la anfotericina B, que no figura entre las opciones (la opción 4 es la colistina)
+- p83: el comentario afirma que 'el porcentaje corporal de agua y el de grasa es menor en niños que en adultos', lo que contradice la justificación de la opción 1 (mayor volumen de distribución de los hidrosolubles en niños)
+
 ## Fisiología
 
 - p19: el comentario desglosa el transporte de CO2 como bicarbonato (70%), disuelto (7%) y unido a Hb (20%), que suman 97% y no 100%
@@ -215,6 +243,24 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p77: Resp. Correcta 3, pero el comentario etiqueta 'opción 4 falsa' y 'opción 3 correcta', y menciona 'opciones 2 y 5 correctas' cuando la pregunta solo tiene 4 opciones.
 - p7: en el comentario de la pregunta sobre tratamiento del síndrome nefrótico hay dos caracteres que no se rasterizaron y aparecen como '?': 'hipercoagulabilidad? Para el tratamiento' y '0,6g/kg/día ?entonces la respuesta incorrecta ha de ser la 1- .'
 - p9: en la pregunta '¿Cuál de las siguientes opciones, NO elegiría para el tratamiento del síndrome nefrítico?' la Resp. Correcta es 4, pero el comentario afirma 'la respuesta 3 es correcta'; se refiere a que la medida 3 es una actuación adecuada (no a la clave), y concluye que la digoxina no está indicada
+
+## Neumología
+
+- p13: el enunciado de la gasometría dice 'pH = 7.27' pero el comentario (p14) razona 'por el pH de 7,29'
+- p17: 'Hombre de 65 años... derrame sero-hemorrágico' tiene Resp. Correcta: 2, pero el comentario afirma 'El tratamiento de elección es la heparina (respuesta correcta la 3)'; la opción 3 es evitar la anticoagulación, luego el comentario contradice a la vez la clave y su propio razonamiento
+- p18: el enunciado dice 'niveles de glucosa < 40 mg/mL' (unidad implausible para glucosa en líquido pleural) mientras el comentario maneja 'la glucosa (< 60 mg/dL)'
+- p20: la pregunta de gasometría a nivel del mar da 'gradiente alvéolo-arterial de O2 = 15 mm Hg' y el comentario lo califica de normal, coherente con la clave, pero conviene notar que con PaO2 58 y PaCO2 60 el gradiente calculado no cuadra exactamente con 15
+- p25: en la pregunta del trabajador de sauna se pide 'la prueba más útil para el diagnóstico' y la Resp. Correcta es la 1, que no es una prueba sino un dato clínico ('Fiebre y tos, que aparecen horas después de volver al lugar de trabajo'); el comentario lo justifica por basarse el diagnóstico en la historia clínica
+- p29: en el enunciado la espirometría aparece rasterizada como 'FEV11890 ml (68%)', sin separación entre la etiqueta FEV1 y el valor 1890 ml
+- p47: en la pregunta "Cuál de los siguientes NO es un signo de mal pronóstico en la crisis asmática" (enunciado en p46) el comentario abre repitiendo la clave como párrafo: 'Respuesta correcta: 4'
+- p53, p60: en el original algunos gases aparecen con subíndice (pO2, pCO2); se han transcrito en línea como 'pO2' y 'pCO2'
+- p57: el enunciado 'Un paciente en estudio por disnea presenta la siguiente exploración funcional respiratoria completa:Espirometría... FEV1/FVC 0.63Difusión de CO: DLCO 56%, DLCO/VA 81%Plestimografía: CPT 4130 ml (70%), VR 1600 ml (110%)¿Qué valoración le sugiere este estudio funcional?' aparece en el original con los bloques pegados sin espacio ni salto de línea; se transcribe tal cual
+- p59: 'Paciente de 41 años, fumador de 1 paquete/día durante 15 años...' tiene Resp. Correcta: 1 (EPOC tipo enfisema pulmonar) pero el comentario dice '(respuesta 2 correcta)' al referirse al enfisema; la opción 2 es tromboembolismo pulmonar
+- p61: 'La presencia de atelectasia, ¿cómo influye en la estadificación del cáncer de pulmón?' - la cuarta opción viene con numeración duplicada en el original: '4) Es M1a'
+- p63: 'Todas las características siguientes EXCEPTO una distinguen al carcinoma pulmonar de células pequeñas...' tiene Resp. Correcta: 3 pero el comentario concluye '(respuesta 4 incorrecta)' razonando sobre la supervivencia global a 5 años, que es el contenido de la opción 3
+- p6: 'A propósito del tratamiento del tromboembolismo pulmonar...' tiene Resp. Correcta: 1, pero el comentario justifica la opción marcada diciendo '(opción 2 falsa)'; la numeración del comentario no coincide con la clave
+- p76: la opción 4 aparece como 'Se realiza en pacientes con FEV 250%.'; el símbolo de comparación no se rasterizó (probablemente 'FEV1 <50%'), por lo que la cifra tal cual no tiene sentido
+- p82: el enunciado de la pregunta del varón de 45 años con roncopatía (IMC 28, Epworth 13) termina en punto sin formular ninguna pregunta; las opciones son pruebas diagnósticas, de modo que falta la frase que las introduce
 
 ## Neurología
 

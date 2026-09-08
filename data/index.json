@@ -60,6 +60,12 @@
     "conImagen": 0
   },
   {
+    "slug": "farmacologia",
+    "titulo": "Farmacología",
+    "totalPreguntas": 185,
+    "conImagen": 0
+  },
+  {
     "slug": "fisiologia",
     "titulo": "Fisiología",
     "totalPreguntas": 167,
@@ -100,6 +106,12 @@
     "slug": "nefro",
     "titulo": "Nefrología",
     "totalPreguntas": 172,
+    "conImagen": 0
+  },
+  {
+    "slug": "neumologia",
+    "titulo": "Neumología",
+    "totalPreguntas": 185,
     "conImagen": 0
   },
   {

@@ -15,6 +15,7 @@ La explicación cita una numeración que no cuadra con las opciones mostradas. L
 - Histología #118 (p42): respuestaCorrecta=1 pero la explicación señala la 2
 - Nefrología #81 (p40): respuestaCorrecta=1 pero la explicación señala la 3
 - Nefrología #89 (p44): respuestaCorrecta=1 pero la explicación señala la 2
+- Neumología #125 (p59): respuestaCorrecta=1 pero la explicación señala la 2
 - Pediatría #76 (p33): respuestaCorrecta=2 pero la explicación señala la 3
 - Pediatría #120 (p51): respuestaCorrecta=3 pero la explicación señala la 4
 - Psiquiatría #4 (p5): respuestaCorrecta=2 pero la explicación señala la 3
