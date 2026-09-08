@@ -5,6 +5,8 @@ La explicación cita una numeración que no cuadra con las opciones mostradas. L
 - Anestesiología #68 (p37): respuestaCorrecta=2 pero la explicación señala la 1
 - Anatomía Patológica #33 (p19): la explicación cita la opción 5 y solo hay 4
 - Cardiología #50 (p25): la explicación cita la opción 5 y solo hay 4
+- Cirugía #58 (p27): respuestaCorrecta=2 pero la explicación señala la 3
+- Cirugía #124 (p56): la explicación cita la opción 5 y solo hay 4
 - Endocrinología #59 (p29): respuestaCorrecta=3 pero la explicación señala la 4
 - Fisiología #76 (p36): la explicación cita la opción 5 y solo hay 4
 - Hematología #5 (p5): respuestaCorrecta=2 pero la explicación señala la 3

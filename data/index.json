@@ -18,6 +18,12 @@
     "conImagen": 0
   },
   {
+    "slug": "bioetica",
+    "titulo": "Bioética",
+    "totalPreguntas": 196,
+    "conImagen": 0
+  },
+  {
     "slug": "bioquimica",
     "titulo": "Bioquímica",
     "totalPreguntas": 52,
@@ -27,6 +33,12 @@
     "slug": "cardiologia",
     "titulo": "Cardiología",
     "totalPreguntas": 50,
+    "conImagen": 0
+  },
+  {
+    "slug": "cirugia",
+    "titulo": "Cirugía",
+    "totalPreguntas": 184,
     "conImagen": 0
   },
   {

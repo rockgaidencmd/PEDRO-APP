@@ -46,6 +46,28 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p70: Resp. Correcta 3 ('Recto lateral – III par craneal') pero el comentario invierte los pares craneales: afirma que el recto lateral lo inerva el IV par y el oblicuo superior el VI par, cuando en realidad es al revés (recto lateral = VI par, oblicuo superior = IV par)
 - p8: el comentario arrastra un marcador de nota al pie suelto sin nota asociada ("solo intervienen en ella.1 El músculo grácil...")
 
+## Bioética
+
+- p12: las opciones 2 y 4 dicen 'Alimentación enteral a través de vía venosa central' y 'Alimentación enteral a través de vía venosa periférica', combinación imposible (la nutrición enteral no se administra por vía venosa); el comentario solo explica la parenteral
+- p13: el IMC figura con un 2 en superíndice (kg/m²); se ha linealizado como 'kg/m2'
+- p15: el enunciado dice 'Se observa ua masa en ciego que corresponde a un adenocarcinoma de colona' y la opción 3 acaba en 'evitando la palabra cáncer la explicación'; ambas frases están truncadas en el original
+- p18: el comentario dice 'El cisplatino es un derivado del paciente'; debería decir 'derivado del platino'
+- p22 y p28: la misma pregunta ('En la etapa final de la enfermedad terminal...') aparece duplicada con la opción 3 distinta ('La vía de administración farmacológica de elección es la intravenosa' en p22, '...es la subcutánea' en p28); en ambas Resp. Correcta 3 y el comentario dice que la vía de elección es la oral, de modo que en p28 se marca como FALSA la vía subcutánea, que sí es una vía habitual en cuidados paliativos (el propio libro la recomienda en p39 y p38).
+- p24 y p34: la misma pregunta del psiquiatra de interconsulta se repite con opciones 3 y 4 diferentes (p24: '3. Respetar la decisión del paciente y buscar las alternativas...' / '4. Incapacitación civil'; p34: '3. Alta hospitalaria' / '4. Informar al juez con el fin de que ordene tratamiento'). Ambas con Resp. Correcta 3, por lo que la conducta 'correcta' que se estudia cambia según la versión.
+- p26: la pregunta 'El consentimiento informado tiene por objeto principal:' tiene la etiqueta 'Comentario:' vacía, sin ninguna explicación antes del separador; se emite con explicacion vacía.
+- p31-p32: la opción 3 de la pregunta del paciente de 69 años queda truncada al cambiar de página: '...evitando la palabra cáncer la explicación.'; falta al menos una palabra en el original (probablemente 'en la explicación'). Se transcribe tal cual.
+- p35: el comentario de 'En cuál de los siguientes supuestos no es aplicable el principio de autonomía' aparece maquetado en tres líneas sueltas con sangría; se ha linealizado en un único párrafo.
+- p38: el caso del carcinoma microcítico habla de 'natremia de 95 mEq/L', valor incompatible con la vida (rango normal 135-145; probablemente debía decir 125 mEq/L).
+- p52: el comentario contiene los caracteres '&&&' delante de 'a)' y 'b)' (resto de una lista de dos apartados que quedó linealizada en el rasterizado)
+- p53: el comentario de la pregunta '¿Cuál de las siguientes afirmaciones es correcta con respecto a los principios básicos de la Bioética?' aparece en un bloque de texto con saltos de línea duros a media frase; se ha reconstruido en tres párrafos
+- p56: en la cita bibliográfica del comentario aparece 'EndofLife Communication in the Intensive Care Unit'; los guiones de 'End-of-Life' no se rasterizaron
+- p63: el comentario de la pregunta del paciente ADVP con TBC aparece en un cuadro de texto flotante con saltos de línea propios; se linealizó en un solo párrafo
+- p64: la explicación de la pregunta sobre las esferas de la calidad de vida queda cortada, sin punto final ("...según las circunstancias")
+- p66: el comentario de "Indica lo que es FALSO" no justifica por qué la opción 3 es la falsa; describe el nuevo rol del paciente sin mencionar la clave
+- p68: la pregunta sobre enfermedades con peligro para la salud pública repite el planteamiento, las opciones y el comentario de la de p62 sobre enfermedad infectocontagiosa, con la misma clave 2
+- p72: el comentario "La autocracia no forma parte de los principios de la bioética." aparece en un cuadro de texto flotante; se linealizó en un solo párrafo
+- p76: la pregunta "El principio que implica por parte del profesional sanitario hacer el bien, se denomina:" repite literalmente la de p66 y el mismo comentario, con las opciones abreviadas como "Pº" y las erratas "beneficiencia" y "maleficiencia"
+
 ## Bioquímica
 
 - p10: el comentario da el rango normal de bicarbonato como "22-16 mEq/L", rango invertido e imposible (debería ser 22-26, como sugiere el propio inciso "o de 22-24/26").
@@ -62,6 +84,24 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p7: en la pregunta de propiedades coligativas, la opción 3 dice que el punto de congelación "disminuye al incrementarse la cantidad de soluto" y a continuación afirma lo contrario ("Los solutos aumentan la temperatura de congelación"); el comentario resuelve que "aumenta", lo que contradice el descenso crioscópico real (por eso se echa sal a la nieve para fundirla, como dice la propia opción).
 - p8: la pregunta pide la función que NO corresponde a las proteínas, pero la clave es la opción 4 "Todas las opciones son correctas" y el comentario enumera las tres opciones como funciones proteicas; la pregunta es lógicamente incoherente.
 - p9: el enunciado empieza con "Enlazado con la pregunta anterior", pero la pregunta previa trata de la composición de los fosfolípidos, no del proteinograma.
+
+## Cirugía
+
+- p15: en 'Paciente con antrectomía + Billroth II presenta dolor epigástrico continuo...' el comentario queda truncado a mitad de frase: termina en '...reconstrucción en Y Roux para eliminar el reflujo alcalino,' y la página siguiente ya abre con el separador, por lo que falta el final de la explicación
+- p16: en 'Hombre de 56 años, fumador y bebedor...' el enunciado describe una 'tumoración de 3 cm estenosante en esófago distal' pero el comentario habla de 'un adenocarcinoma de esófago torácico de 2 cm de diámetro'; el dato del tamaño es incoherente entre enunciado y explicación
+- p18: en 'Respecto al reflujo gastroesofágico y la cirugía antirreflujo, la siguiente afirmación es falsa' la opción 2 aparece sin su letra inicial: 'as funduplicaturas tienden a hacerse calibradas...' (falta la 'L' de 'Las')
+- p27: Resp. Correcta 2 en la pregunta sobre apendicectomía por laparoscopia, pero el comentario (p28) cierra afirmando '(respuesta 3 correcta)', que en el enunciado es la opción que dice que la apendicitis aguda contraindica de forma absoluta la laparoscopia
+- p35: el comentario de la pregunta de la mujer de 31 años con dolor en fosa ilíaca derecha es el mismo texto genérico sobre abdomen agudo que aparece en p32 y no justifica por qué la opción 1 (laparotomía urgente) es la falsa
+- p56: en la pregunta 'Entre las causas de carcinoma epidermoide de esófago, se consideran las siguientes EXCEPTO' la clave es 'Resp. Correcta: 4' pero el comentario afirma 'La respuesta correcta es la 5' y solo hay 4 opciones; se respeta la clave 4 (reflujo gastro-esofágico)
+- p58: en la pregunta sobre cirugía urgente de colitis ulcerosa el comentario cierra con '(RC b)', notación por letras ajena al resto del documento; corresponde a la opción 2, coincidente con la clave
+- p64: el comentario de la acalasia está escrito sin espacios tras muchos signos de puntuación ('opciones.Ladilatación', 'cirugia,tiene', 'cirugía(respuesta nº 3 correcta)La inyección'); se transcribe tal cual
+- p66, p72, p78, p79, p80, p81: varias explicaciones contienen listas de viñetas o clasificaciones que se linealizaron con saltos de línea
+- p69 y p73: la misma pregunta (varón de 65 años con tumoración cervical durante las comidas, divertículo de Zenker) aparece duplicada con opciones ligeramente distintas; ambas se emiten porque ambos enunciados empiezan dentro del rango
+- p70-p71: la pregunta del signo esperado en dolor en hipocondrio derecho (Resp. Correcta 2, signo de Murphy) tiene un comentario que empieza explicando el signo de Blumberg, que no figura entre las opciones
+- p70: en la pregunta del hombre de 65 años con carcinoma epidermoide de esófago (Resp. Correcta 3), el comentario habla del 'tratamiento del cáncer de recto' en lugar de esófago y termina con una comilla suelta; la explicación es incoherente con el enunciado
+- p71-p72: la pregunta del grado de hemorroides tiene opciones que son solo cifras ('2', '3', '4') y una cuarta opción 'Externas'; la clasificación del comentario se linealizó como lista
+- p75: en el comentario del adenocarcinoma de antro gástrico hay un paréntesis sin abrir: 'los estadios precoces de la enfermedad T0-1 y algún T2 N0)'
+- p82: Resp. Correcta 1 (trombosis venosa profunda) pero el comentario no menciona la trombosis venosa profunda y enumera otras complicaciones (lesiones vasculares, intestinales, vesicales, uretrales, hernias, infecciones), sin justificar la clave
 
 ## Embriología
 
@@ -292,6 +332,7 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 
 El original trae la etiqueta "Comentario:" sin texto debajo. Se pueden responder, pero no dan retroalimentación.
 
+- Bioética #53 (p26)
 - Urología #4 (p5)
 - Urología #6 (p6)
 - Urología #9 (p7)
