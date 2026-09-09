@@ -1,0 +1,470 @@
+{
+  "materia": "fisiologia",
+  "paginaInicio": 61,
+  "paginaFin": 79,
+  "anomalias": [
+    "p66: en la pregunta sobre sistemas de feed back, la opción 4 aparece con la numeración duplicada en el original ('4. 4. La persistencia de un feed back positivo no suele provocar un círculo vicioso.'); se transcribe tal cual",
+    "p71: en la pregunta de Luis (EPOC) el original escribe el oxígeno y el anhídrido carbónico con dígito cero: '02', 'C02', 'Fi02'; conviven en la misma pregunta con 'CO2' correcto, se transcribe tal cual",
+    "p75: en el comentario de la pregunta de ultraestructura muscular el original define dos veces 'Epimisio' ('Epimisio: envuelve los fascículos musculares. Epimisio: envuelve varios fascículos musculares, al músculo.'); la primera debería ser 'Perimisio', que es justo el término evaluado en la opción 3",
+    "p70: la opción 2 habla de la “relajación inversa” pero el comentario la explica como 'relación inversa'; los dos términos no coinciden en el original",
+    "p77: el comentario usa PaCO2 y PaO2 con subíndices tipográficos que se han linealizado como PaCO2 / PaO2"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 61,
+      "enunciado": "Con respecto a la diástole cardíaca, es cierto que:",
+      "opciones": [
+        "Se produce el vaciado de las arterias coronarias.",
+        "En el ECG está representada coincide con el intervalo entra la onda T y el complejo QRS, englobando la onda P.",
+        "Es la fase del ciclo cardíaco que se afecta más lentamente en caso de frecuencia cardíaca elevada.",
+        "En caso de isquemia, es la fase del ciclo cardíaco que más tarde se afecta."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La opción 1 es incorrecta, debido a que en la diástole se produce el llenado (perfusión) de las arterias coronarias.\n\nLa opción 2 es correcta. En el ECG está representada coincide con el intervalo entra la onda T y el complejo QRS\n\nLa opción 3 es incorrecta, debido a que la diástole es la fase del ciclo cardíaco que mas rápido se afecta en caso de frecuencia cardíaca elevada.\n\nLa opción 4 es incorrecta, ya que en caso de isquemia, la diástole es la fase del ciclo cardíaco que se afecta más tempranamente."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "En diversas enfermedades del ámbito de la neurología o psiquiatría existe una alteración en la producción de neurotransmisores. Indique cuál de las siguientes asociaciones es falsa:",
+      "opciones": [
+        "Esquizofrenia: Exceso de dopamina.",
+        "Depresión: Exceso de noradrenalina.",
+        "Enfermedad de Alzheimer: descenso de somatostatina.",
+        "Enfermedad de Alzheimer: descenso de acetilcolina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta 1 es verdadera. Al igual que en la enfermedad de parkinson existe niveles de dopamina bajos en la sustancia negra y se trata con agonistas dopaminérgicos o con levodopa (y como efectos secundarios puede existir cuadros psicóticos). En la esquizofrenia y resto de cuadros psicóticos existe un exceso de dopamina, que se trata con neurolépticos, cuyo principal efecto es el antidopaminérgico (por lo tanto, tienen efectos secundarios extrapiramidales).\n\nLa respuesta 2 es falsa. En la depresión suele haber disminución de noradrenalina (sintetizada por el locus coeruleus) y de serotonina (sintetizada por los núcleos del rafe del puente y bulbo –en la línea media-). Por eso se trata con antidepresivos tipo ISRS, duales, IMAO, tricíclicos, etc.\n\nLa respuesta 3 y 4 es verdadera. Ambos neurotransmisores están disminuidos en la enfermedad de Alzheimer, si bien es cierto que el que tiene una mayor importancia clínica es la acetilcolina (se trata con inhibidores de acetilcolinesterasa), pero hay estudios que han demostrado que los niveles de somatostatina en individuos con Alzheimer es menor que en individuos sanos."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "En relación a la regulación rápida de la presión arterial, el sistema nervioso ejerce una función fundamental. ¿Cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "El control nervioso de la presión arterial a través del sistema simpático-parasimpático es el más rápido de todos los mecanismos de control de la presión.",
+        "El centro vasomotor del bulbo raquídeo mantiene en condiciones basales señales activadoras del parasimpático, para mantener un tono vasomotor regulado.",
+        "El sistema nervioso simpático libera fundamentalmente noradrenalina, que tiene función vasoconstrictora.",
+        "El sistema nervioso simpático activa la médula suprarrenal, que secreta noradrenalina (función vasoconstrictora) y adrenalina (función vasoconstrictora y vasodilatadora)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta 1 es verdadera. El sistema nervioso simpático-parasimpático es el más rápido en actuar.\n\nLa respuesta 2 es falsa. El centro vasomotor se encuentra en el bulbo raquídeo. Existe una parte vasodilatadora, mediada por el parasimpático, pero es la parte vasoconstrictora la que ayuda a mantener un tono vasoconstrictor basal, es decir un estado parcial de contracción de los vasos. Este tono vasomotor, es mediado por el sistema simpático de manera continua.\n\nLa respuesta 3 y 4 son verdadera. A destacar el efecto que tiene la adrenalina sobre los receptores periféricos Beta (función vasodilatadora)."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "La pirimidina es un compuesto orgánico, similar al benceno y a la piridina con dos átomos de nitrógeno que sustituyen al carbono en las posiciones 1 y 3, además tiene tres derivados muy importantes para la vida, ya que forman parte de los ácidos nucleicos. ¿Cuál de las siguientes bases nitrogenadas NO es pirimidínica?",
+      "opciones": [
+        "Timina.",
+        "Adenina.",
+        "Uracilo.",
+        "Citosina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las bases pirimidínicas derivan del anillo de pirimidina. Las bases pirimidínicas que aparecen en el RNA son uracilo y citosina, mientras que en el DNA encontramos timina y citosina. Las bases púricas que se encuentran en los ácidos nucleicos (tanto DNA como RNA) son la adenina (respuesta correcta) y la guanina."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "El reflejo de la tos es un mecanismo de defensa del aparato respiratorio ante partículas extrañas que entran en contacto con él. La tos también se puede provocar voluntariamente. En relación a la fisiopatología del reflejo tusígeno, marque la opción INCORRECTA:",
+      "opciones": [
+        "El aire expulsado durante la tos siempre tiene una velocidad mayor que el de una espiración forzada.",
+        "Los alveolos y bronquiolos terminales son las únicas zonas del aparato respiratorio cuya estimulación química o corrosiva produce la tos.",
+        "La vía aferente del reflejo de la tos viaja a través del nervio vago.",
+        "El centro neurológico del reflejo tusígeno se encuentra en el bulbo raquídeo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta 1 es verdadera. Durante el reflejo tusígeno, se cierran la epiglotis y cuerdas vocales y se genera aumento de presión abdominal por contracción diafragmática y también de presión pulmonar por contracción de músculos espiratorios, creando una presión de 100mmHg o más en el interior del pulmón. La salida de aire tras la apertura de la epiglotis puede tener velocidades muy altas, para poder expulsar las sustancias extrañas de tráquea o vías aéreas distales.\n\nLa respuesta 2 es falsa. Las zonas con mayor sensibilidad a las sustancias irritantes extrañas son la laringe y la carina traqueal. Sin embargo, las partes más distales del árbol respiratorio también son sensibles a sustancias corrosivas, como gases tipo azufre o cloro.\n\nLa respuesta 3 es verdadera. La información aferente viaja a través del nervio vago hasta el bulbo raquídeo, donde se activan una serie de mecanismos posteriores que ocasionarán la tos. (Respuesta 4 verdadera)."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "En ausencia de la secreción de las células parietales, ¿Cuál de los siguientes compuestos sufrirá una drástica reducción en su absorción intestinal?",
+      "opciones": [
+        "Sales biliares.",
+        "Proteínas.",
+        "Vitamina B12.",
+        "Ácido fólico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El factor intrínseco es secretado por las células parietales del estómago que también secretan ácido clorhídrico y facilitan la absorción de la vitamina B12, por lo que en ausencia de estas células, disminuye su absorción y generaría anemia perniciosa."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "En relación al control nervioso y hormonal de la función gastrointestinal, señale la respuesta verdadera.",
+      "opciones": [
+        "El sistema nervioso simpático tiende a estimular la actividad del tubo digestivo.",
+        "El reflejo gastrocólico inhibe la peristalsis del colon, cuando el estómago se encuentra vacío.",
+        "La colecistokinina es secretada por las células parietales gástricas ante la presencia de grasas en el estómago. Su función es la estimulación de la vesícula biliar.",
+        "La Acetilcolina es el neurotransmisor que produce principalmente un estímulo para la actividad gastrointestinal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta 1 es falsa. El sistema nervioso simpático, a través de la noradrenalina, tiende a inhibir la actividad del sistema digestivo.\n\nLa respuesta 2 es falsa. El reflejo gastrocólico, ocurre porque cuando hay aumento de alimentos en el estómago, se produce estimulación del peristaltismo en el colon.\n\nLa respuesta 3 es falsa. Cuando existen productos de degradación de las grasas (ácidos grasos y monoglicéridos) en el intestino, las células I de la mucosa duodenal y yeyuno favorecen la secreción de colecistokinina. La función de ella, es potenciar la motilidad de la vesícula biliar.\n\nLa respuesta 4 es verdadera. El sistema nervioso parasimpático, a través de la acetilcolina, estimula la actividad gastrointestinal."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "En relación a la membrana celular y los componentes del medio interno, indique la opción verdadera.",
+      "opciones": [
+        "El líquido intracelular está formado principalmente por sodio, cloruro, bicarbonato, aminoácidos y dióxido de carbono.",
+        "El transporte pasivo permite la entrada de moléculas polares al interior celular.",
+        "El transporte activo necesita energía para transportar moléculas en contra de gradiente; suele hacerlo a través de aberturas en la membrana celular.",
+        "El transporte pasivo por difusión facilitada presenta una velocidad de difusión saturable."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La opción 1 es falsa, el líquido intracelular está formado principalmente por iones potasio, magnesio y fosfato. Los mecanismos de transporte a través de la membrana celular mantienen estas concentraciones.\n\nLa opción 2 es falsa: el transporte pasivo es un método de transporte que por definición no consume energía, y lo hace de manera pasiva a través de poros en la membrana celular. A su través pasan moléculas lipofílicas (apolares), como son el CO2, nitrógeno, etc. Cuanto mayor sea la liposubilidad y el gradiente de concentración entre el exterior y el interior, con más facilidad actuará este método de transporte.\n\nLa respuesta 3 es falsa: el transporte activo, necesita energía para poder transportar moléculas en contra de gradiente, pero precisamente por ello, necesita siempre de proteínas transmembrana para realizar esta acción. De hecho, el ejemplo típico de transporte activo primario es la bomba de Na+/K+ ATP asa.\n\nLa respuesta 4 es verdadera. La difusión facilitada no consume energía, al ser un tipo de transporte pasivo, pero necesita de una proteína anclada a la membrana celular para poder hacer el traslado al interior celular. La unión de las moléculas a la proteína transportadora depende de la “ley de oferta y demanda”. Si hay muchas moléculas intentando entrar (mucha demanda), pero la oferta de proteínas transmembrana es limitada, la difusión se saturará. Es necesario un tiempo para que la proteína transmembrana realice el transporte y el cambio conformacional."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "La contracción del músculo cardiaco y esquelético guarda similitudes y diferencias. ¿Cuál de las siguientes afirmaciones le parece incorrecta?",
+      "opciones": [
+        "Los discos intercalados en la estructura del músculo estriado, facilitan la transmisión del potencial de acción de unas fibras musculares a otras.",
+        "El músculo cardiaco tiene periodo refractario absoluto pero no periodo refractario relativo.",
+        "La mayor parte del calcio utilizado en la contracción de la fibra muscular de trabajo cardiaca procede del exterior celular.",
+        "Los túbulos T del músculo cardiaco tienen un diámetro mayor que el músculo esquelético."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta 1 es verdadera. El músculo cardiaco actúa como sincitio, en el que hay muchas células cardiacas interconectadas entre sí por las que se va transmitiendo de unas a otras el potencial de acción. Los discos intercalados son las membranas celulares que separan unas fibras musculares de otras. Se llaman así, por la visión en el microscopio. A través de estos discos intercalados fluye el paso de iones y la despolarización celular.\n\nLa respuesta 3 es verdadera. En las células cardiacas de trabajo, el calcio procede sobre todo del exterior celular, entrando por canales de calcio voltaje dependientes y formando la meseta. Esto ocurre entre otras cosas, porque hay un mayor diámetro de los tubos T (Respuesta 4 es verdadera), que tienen carga negativa y favorecen la existencia de iones calcio en el exterior celular.\n\nLa respuesta 2 es falsa. El periodo refractario es el intervalo de tiempo durante el cual un impulso cardiaco normal no puede reexcitar una zona ya excitada de músculo cardiaco."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "En ciertas zonas existen poblaciones que tienen un déficit de yodo en su alimentación diaria. ¿Cuál de las siguientes es una consecuencia directa de este defecto en la glándula tiroidea?",
+      "opciones": [
+        "Efecto Wolff Chaikoff",
+        "Aumento de produccion de T3, T4",
+        "Aumento de la vascularización tiroidea",
+        "Disminución de los transportadores de yodo en el tiroides"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Para resolver esta pregunta debemos tener dos conceptos claros. El primero es que ante un déficit de materia prima de hormonas tiroideas, es decir, de yodo, el tiroides intentará captar tanto como sea posible; de modo que las opciones 2 y 4 parecen bastante poco lógicas teniendo en cuenta este razonamiento. El segundo concepto que debemos conocer, es el de Efecto Wolff Chaikoff, que precisamente consiste en la inhibición de la síntesis de hormona tiroidea y se produce en tiroides con \"exceso de yodo\". Debemos diferenciar este efecto, del efecto Jod-Basedow, que consiste en un exceso de producción de hormona tiroidea por exceso de yodo (especialmente en tiroides predispuestos a producir en exceso hormona tiroidea, como pueden ser los bocios multinodulares, que al recibir el yodo que les hacía falta para que éstos nódulos funcionen, lo hacen a todo tren). La respuesta correcta, es la 3, pues necesitamos que todo el yodo presente llegue al tiroides.\n\nRecordar, el yodo en la tiroides hace de todo menos fomentar el crecimiento de nódulos y la aparición de cáncer"
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "En relación a la fisiología de las glándulas suprarrenales, señale cuál es el estímulo más importante para la producción de aldosterona:",
+      "opciones": [
+        "El potasio",
+        "La ACTH",
+        "El sistema renina-angiotensina-aldosterona",
+        "El sodio"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El principal estímulo de producción de la aldosterona es el SRAA. Es por ello, por lo que en la insuficiencia suprarrenal secundaria (déficit de ACTH), los niveles de aldosterona se mantienen en un rango dentro de la normalidad, por lo que no suelen existir alteraciones en el equilibrio ácido-base ni en el potasio. La función de la aldosterona es reabsorber sodio y excretar potasio en el túbulo renal distal. Por ello se puede entender que el aumento de potasio y la ACTH son estímulos para la producción de aldosterona, aunque no son los principales; y sin embargo el exceso de sodio inhibe la liberación de aldosterona."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "En relación a los sistemas de mantenimiento de la homeostasis a través de sistemas de retroalimentación (“feed back”), señale cual es la verdadera:",
+      "opciones": [
+        "La mayoría de sistemas de autorregulación entre distintos órganos tienen un sistema de retroalimentación negativa, que permite mantener la homeostasis.",
+        "La persistencia de un feed back negativo suele provocar un círculo vicioso, dañino para la homeostasis.",
+        "La mayoría de sistemas de autorregulación entre distintos órganos tienen un sistema de retroalimentación positiva, que permite mantener la homeostasis.",
+        "4. La persistencia de un feed back positivo no suele provocar un círculo vicioso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta correcta es la 1. El cuerpo humano, y sus componentes (células, tejidos, aparatos, órganos y sistemas) tienen unos sistemas de autorregulación intracelular, intercelular, o inter órganos, que suelen ser de tipo negativo. Si existe un desequilibrio en algún punto del sistema, el feedback tiende hacia la inhibición para mantener la homeostasis. Es decir, el producto final/intermedio tiende a producir inhibición del inicio. Si no se consigue autorregular, provocará disfunción a ese nivel, lo que puede generar “enfermedad”. La segunda opción es falsa, porque precisamente la mayoría de sistemas funcionan con dicho feedback negativo.\n\nLos feedback positivos existen, pero son la minoría. Dado que la existencia de los mismos, puede provocar una persistencia de la acción de dicho sistema, y la estimulación continua del mismo, provoca un círculo vicioso, que pude degenerar en disfunción a ese nivel."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Acude a consulta un paciente varón de 41 años, afecto previamente de una miocardiopatía hipertrófica obstructiva que derivó en una insuficiencia cardíaca, razón por la que requirió un trasplante cardíaco hace un año. El paciente refiere que se encuentra bien y que ha empezado a hacer ejercicio moderado. Durante la revisión, usted observa que la frecuencia cardíaca es más elevada que la que cabría esperar en una persona sana. Señale cuál es el mecanismo de este fenómeno:",
+      "opciones": [
+        "La frecuencia cardíaca es superior a la esperable porque su corazón todavía no está en forma.",
+        "El corazón del paciente presenta una denervación del sistema parasimpático.",
+        "Las catecolaminas circulantes son más elevadas en los pacientes trasplantados.",
+        "El sistema simpático está más activo al tratarse de un corazón trasplantado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un corazón sano en reposo existe un tono vagal cardíaco que provoca una notable disminución de la frecuencia cardíaca. En ausencia del sistema parasimpático, la frecuencia cardíaca puede elevarse hasta 150 pulsaciones por minuto. La acción del simpático sobre el corazón en reposo es poco importante. Por ello, en un corazón trasplantado, que carece de conexiones nerviosas, la frecuencia cardíaca en reposo es superior a la normal. Este fenómeno no se debe a que el corazón esté desentrenado, ya que no esperaríamos frecuencias superiores a 100, y las catecolaminas tampoco han de por qué estar más elevadas. El efecto del simpático también será menor por haber sido seccionado durante la cirugía."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "El sistema nervioso central contiene más de 100 mil millones de neuronas. La información viaja en forma de señales que ingresan a estas neuronas a través de las sinapsis ubicadas principalmente en las dendritas neuronales, pero también en el cuerpo celular. Para diferentes tipos de neuronas, puede haber desde 100 a 200,000 de estas conexiones sinápticas. ¿Cuál es el tipo de sinapsis más frecuente en el sistema nervioso central?",
+      "opciones": [
+        "Sinapsis eléctrica",
+        "Sinapsis térmica",
+        "Sinapsis química",
+        "Sinapsis mecánica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Hay dos tipos principales de sinapsis: la sinapsis química y la sinapsis eléctrica. Casi todas las sinapsis utilizadas para la transmisión de señales en el sistema nervioso central del ser humano son sinapsis químicas."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Señale la afirmación FALSA con respecto al potencial de acción del miocardio:",
+      "opciones": [
+        "El potencial de membrana de reposo del miocardio normal es de 85 a 95 milivoltios.",
+        "El potencial de membrana de las fibras de Purkinje es de 90 a 100 milivoltios.",
+        "El potencial de acción del miocardio es causado por la apertura repentina de los canales rápidos de Potasio.",
+        "La membrana permanece despolarizada 0,2 segundos en la aurícula y 0,3 segundos en el músculo ventricular."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El potencial de membrana en reposo en el músculo cardiaco normal es aproximadamente de -85 a -95 milivoltios (respuesta 1 incorrecta ). Y aproximadamente de -90 a -100 milivoltios en las fibras conductoras especializadas, las fibras de Purkinje (respuesta 2 incorrecta).\n\nEl potencial de acción del músculo cardíaco es de 105 milivoltios, lo cual significa que el potencial de membrana aumenta desde su valor normal muy negativo a un valor ligeramente positivo de aproximadamente +20 milivoltios. Después de la espiga inicial, la membrana se conserva despolarizara durante cerca de 0,2 segundos en el músculo auricular y cerca de 0,3 segundos en el músculo ventricular (respuesta 4 incorrecta), lo que conduce a una meseta seguida por una repolarización súbita. La presencia de esta meseta en el potencial de acción hace que la contracción muscular dure de 3 a 15 veces más tiempo en el músculo cardiaco que en el músculo esquelético.\n\nHay dos diferencias fundamentales entre los músculos cardiaco y esquelético que explican esta diferencia. La despolarización en el músculo esquelético es causada por la apertura de canales rápidos de sodio, mientras que en el músculo cardiaco intervienen, ademas de estos, unos canales de calcio y sodio (respuesta 3 correcta). Estos canales tardan más en abrirse, pero se mantienen abiertos durante más tiempo, fluyendo una gran cantidad, tanto de calcio como de sodio, al interior del músculo cardiaco, lo cual conserva un periodo prolongado de despolarización. Por otra parte, en el músculo cardiaco hay una disminución de la permeabilidad al potasio de la membrana inmediatamente después de iniciarse el potencial de acción. De este modo, se reduce la salida de potasio durante la meseta del potencial de acción y, por tanto, se impide la recuperación temprana."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "¿Cuál de las siguientes no estimula la secreción de ácido gástrico?",
+      "opciones": [
+        "Acetilcolina",
+        "Histamina",
+        "Gastrina",
+        "Somatostatina"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Como norma general, recuerda que la somatostatina es la paninhibina: ante la duda, inhibe la secreción de lo que sea."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "Juan pesa 70 kg, ¿cuánto volumen tendrá, aproximadamente, su espacio intracelular?",
+      "opciones": [
+        "40 litros",
+        "15 litros",
+        "5 litros",
+        "28 litros"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El ser humano está constituido en promedio por 60% de agua. El agua corporal se distribuye en dos compartimientos principales: el líquido intracelular (LIC) y el líquido extracelular (LEC), que se localizan, como sus nombres lo indican, en el interior y el exterior de las células, respectivamente. El LEC a su vez se divide en dos compartimientos: el interior del árbol circulatorio, que constituye el líquido intravascular o plasma sanguíneo, y el exterior de los vasos sanguíneos, que forma el líquido intersticial que se encuentra entre las células. Los porcentajes de agua en cada uno de estos compartimientos son los siguientes: líquido intracelular, 40% del peso corporal; líquido extracelular, 20% del peso corporal, el cual a su vez se divide en plasma, 5% del peso corporal; líquido intersticial, 15% del peso corporal. Para calcular el agua corporal se considera que 1 kg= 1 L; por lo tanto, en un sujeto adulto de 70 kg el agua se encuentra distribuida de la siguiente manera: agua corporal total, 42 L; líquido intracelular, 28 L; líquido extracelular, 14 L; líquido intravascular o plasma, 3.5 L, y líquido intersticial, 10.5 L."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "En el ciclo cardíaco, ¿qué fase acontece después del segundo ruido?:",
+      "opciones": [
+        "Eyección ventricular.",
+        "Relajación isovolumétrica.",
+        "Llenado ventricular.",
+        "Contracción auricular."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta extremadamente sencilla que nadie debe fallar. El segundo ruido se corresponde con el cierre de las válvulas sigmoideas por lo que marca el final de la sístole ventricular y el inicio de la diástole. Inmediatamente después de cerrarse las válvulas comienza la relajación del ventrículo de forma que la presión va cayendo hasta que la presión en la aurícula supera la presión ventricular y se abre la válvula aurículoventricular permitiendo el llenado. Por tanto es fácil deducir que la opción correcta es la 2."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "En el shock hipovolémico se activan una serie de factores para intentar compensar el shock. Todos forman parte de sistemas integrales de feedback negativo cuyo objetivo final es normalizar el gasto cardiaco y la presión arterial. Indique cual de las siguientes afirmaciones es incorrecta:",
+      "opciones": [
+        "Los reflejos barorreceptores producen una activación simpática cuya acción comienza a los pocos segundos de la bajada de presión arterial.",
+        "La “relajación inversa” por estrés ocurre a los pocos segundos de la bajada de presión arterial.",
+        "La hormona antidiurética produce un aumento de la retención de agua.",
+        "El flujo coronario está preservado a pesar de presiones arteriales medias bajas que condiciona hipoperfusión en otros territorios."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La activación simpática por la hipotensión moderada debido a la activación de los reflejos barorreceptores es la primera actuación fisiológica compensadora del shock, que produce vasoconstricción arteriolar y aumento de la contractilidad cardiaca y frecuencia cardiaca (Respuesta 1 es verdadera).\n\nEl concepto de relación inversa, hace referencia a la contracción espontánea de las arteriolas y de los vasos venosos debido a la disminución del volumen sanguíneo que transporta. Es rápida, pero tarda unos minutos en poder hacer su acción (Respuesta 2 falsa).\n\nLa respuesta 3 es verdadera, la ADH secretada desde la hipófisis posterior tarda horas o días en hacer efecto, pero aumenta la retención de agua y puede producir también vasoconstricción arteriolar o renal.\n\nLa respuesta 4 es verdadera: la contracción arteriolar producida por el simpático respeta el flujo coronario y cerebral, que además tiene unos sistemas autorregulatorios locales eficaces cuando la presión arterial media es baja."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "El calcio es esencial para todos los siguientes pasos en la cascada de la coagulación EXCEPTO:",
+      "opciones": [
+        "Activación del factor IX por el XI.",
+        "Activación del XI por el XII.",
+        "Formación de la trombina.",
+        "Formación de protrombina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos enfrentamos a una pregunta acerca de la coagulación. La verdad es que no es práctico memorizar toda la cascada de la coagulación de cara al examen. Lo que sí debes saber en qué vía de la coagulación interviene cada factor y cuáles son dependientes de vitamina K.\n\nLa mayoría de los factores se sintetizan en el hígado en forma de precursores que se activan de forma secuencial en la cascada de la coagulación (de esta forma, disponemos de múltiples pasos donde ejercer control sobre el sistema). Algunos de ellos necesitan de la vitamina K (es un cofactor enzimático en la reacción de carboxilación de los residuos de ácido glutámico, que a su vez son los puntos de unión al calcio). Los factores dependientes de vitamina K son la protrombina, VII, IX, X y las proteínas C y S. El calcio interviene en las reacciones de activación de los distintos factores de coagulación y por ello, es fácil pensar que no sea necesario para la formación de protrombina, que precisamente es una forma no activada, sintetizada a nivel hepático."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "La Aldosterona se sintetiza y libera en:",
+      "opciones": [
+        "La médula de la glándula suprarrenal.",
+        "La capa glomerular de la corteza suprarrenal.",
+        "La capa fascicular de la corteza suprarrenal.",
+        "La capa reticular de la corteza suprarrenal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La aldosterona se sintetiza en la capa glomerular de la corteza suprarrenal (Respuesta 2 correcta) y está regulada por las concentraciones de angiotensina II y K+ extracelular.\n\nLa médula secreta la adrenalina y la noradrenalina.\n\nLa zona fascicular secreta glucocorticoides y pequeñas cantidades de andrógenos y estrógenos.\n\nLa zona reticular se encarga de la secreción de andrógenos suprarrenales (dehidroepiandrosterona y androstendiona) y estrógenos."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Luis es un varón de 85 años con sobrepeso, fumador y que toma tratamiento farmacológico para controlarse la tensión arterial, el colesterol y su EPOC. Además consume analgesia con frecuencia por gonartrosis y lumbalgia crónica. Si Luis ingresase por una acidosis respiratoria sintomática:",
+      "opciones": [
+        "Le ventilaremos con el mayor flujo de oxígeno puesto que al ser un retenedor crónico de C02 su estímulo principal es el 02.",
+        "Como es EPOC pero además anciano la respuesta a la hipercapnia se compensa y no es necesario ventilar.",
+        "Le ventilaremos con la Fi02 mas baja posible.",
+        "El principal estímulo para la respiración es el 02 con la excepción de los pacientes EPOC en la que lo es el CO2."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Un concepto clave que debemos internalizar es que el estimulo principal de la ventilación es el 02, no obstante los retenedores crónicos de CO2 tienen la respuesta a la hipercapnia disminuida (como también ocurre con los ancianos) y en ellos el estímulo principal pasa a ser el 02, siendo por ello importantísimo ventilarles con el menor flujo de 02 posible, ya que si nos pasamos anularíamos su ventilación."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Los receptores hormonales se clasifican según dónde se ubiquen : membrana, citosol o núcleo. Todos las siguientes hormonas se unen en la membrana a EXCEPCIÓN:",
+      "opciones": [
+        "Calcitonina",
+        "TSH",
+        "T4",
+        "TRH"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Tanto el TRH, TSH y la calcitonina se unen en la membrana al receptor de siete domimios transmembrana, sin embargo tanto la T4 (respuesta correcta) como la T3 son aminas que se unen a unos receptores ubicados en el núcleo."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "¿Cuál de los siguientes factores NO influye en la difusión de los gases a través de la membrana alveolocapilar?",
+      "opciones": [
+        "Gradiente de presión del gas entre ambos lados de la membrana.",
+        "Concentración de surfactante en el alvéolo.",
+        "Espesor de la membrana.",
+        "Superficie de la membrana."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El surfactante pulmonar es una sustancia principalmente compuesta por fosfolípidos, cuya misión es disminuir la tensión superficial de los alveolos. Esta sustancia aumenta la distensibilidad pulmonar e impide el colapso alveolar. No es uno de los factores que influyen en la difusión de los gases a través de la membrana (opción 2 falsa, por lo que la marcamos). Recuerda la relación del surfactante con la madurez pulmonar fetal y que puede aumentarse la producción fetal del mismo mediante el uso de corticoides."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "¿Cuál de los siguientes factores asociados a la membrana alveolo-capilar favorece la difusión de gases (intercambio gaseoso) a través de la misma?:",
+      "opciones": [
+        "El aumento de grosor de la membrana respiratoria.",
+        "La elevada superficie de la membrana respiratoria.",
+        "Un coeficiente de solubilidad del gas muy bajo.",
+        "Una disminución del gradiente de presión entre ambos lados de la membrana."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Existen varios factores que determinan el intercambio gaseoso en la membrana respiratoria:\n\n- Si se incrementa el grosor de la membrana (como, por ejemplo, en una fibrosis pulmonar) los gases difundirán con mayor dificultad que ante una membrana fina. (Opción 1 incorrecta)\n\n- Si existe una superficie de intercambio muy grande, se favorece el paso de gases de un lado a otro de la membrana. (Opción 2 correcta, por lo que la marcamos). El caso contrario lo ejemplifica el enfisema pulmonar, donde la destrucción de la superficie respiratoria que es sustituida por grandes espacios aéreos se traduce en hipoxemia en los pacientes EPOC.\n\n- El coeficiente de solubilidad es una medida que depende de cada gas, pero es lógico pensar que a mayor solubilidad, mejor difundirá un gas a través de la membrana (opción 3 incorrecta).\n\n- Los gases se mueven por diferencias de presión entre uno y otro lado de la membrana. Si existe un gradiente alto, los gases difundirán con mayor facilidad que si el gradiente es muy bajo, en cuyo caso se dificulta el intercambio gaseoso (opción 4 incorrecta)."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "En relación a la secreción pancreática, indique cuál de las siguientes opciones es falsa.",
+      "opciones": [
+        "La colecistocinina estimula la síntesis de enzimas proteolíticas en las células acinares pancreáticas, cuando hay un aumento del quimo en el intestino delgado.",
+        "La función principal de la secretina es el estímulo de la secreción de bicarbonato por el epitelio ductal del páncreas.",
+        "El principal estímulo para la síntesis de enzimas proteolíticas es la acetilcolina, a través del vago.",
+        "Las enzimas proteolíticas son sintetizadas en forma inactiva."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta 1 es verdadera. Es una de las funciones de la colecistocinina, cuyo principal estímulo es la presencia de quimo gástrico, especialmente grasas. Su función es activar la vesícula biliar, y también la secreción pancreática (un estímulo que es más potente que la acetilcolina). Respuesta 3 es falsa.\n\nRespuesta 2 es verdadera. La secretina se sintetiza por las células S del duodeno cuando hay un pH ácido en la luz del intestino. Su función prioritaria es estimular bicarbonato para que las enzimas proteolíticas tengan un pH adecuado para realizar su función (en torno a 7); dado que son sintetizadas en forma inactiva (Respuesta 4 es verdadera)."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "En relación con la vía extrínseca de la coagulación, una de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "Se inicia con un traumatismo de la pared vascular o de los tejidos extravasculares que entra en contacto con la sangre.",
+        "El factor X se activa con la participación del factor VIIa y el factor tisular.",
+        "El factor tisular se compone de fosfolípidos procedentes de membranas tisulares.",
+        "Por lo general la vía extrínseca es más lenta que la intrínseca."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El mecanismo extrínseco para el inicio de la formación del activador de la protrombina comienza cuando la pared vascular o un tejido extravascular sufren un traumatismo (opción 1 correcta). Mediante la participación de los complejos formados por el factor tisular y el factor VII y, en presencia de iones de calcio, se produce la activación del factor X (opción 2 correcta). El tejido lesionado libera un complejo de varios factores, llamado tromboplastina tisular o factor tisular; estos factores son fosfolípidos de las membranas de los tejidos dañados y un complejo lipoproteico que actúa como enzima proteolítica del factor X (opción 3 correcta). En un traumatismo tisular grave, la coagulación puede tener lugar en un mínimo de 15 s. La vía intrínseca es mucho más lenta en su proceder, y necesita generalmente de 1 a 6 min para llevar a cabo la coagulación (opción 4 falsa)."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "En relación a la fisiología básica en el cuerpo humano, marque de las siguientes la opción que le parece incorrecta:",
+      "opciones": [
+        "Existe un control del feedback negativo que puede ser a nivel local, hormonal o incluso entre distintos sistemas o aparatos.",
+        "La mayoría de sistemas de autorregulación en el cuerpo humano funcionan como retroalimentación negativa.",
+        "Uno de los principales sistemas de feedback negativo es el que ocurre durante el parto.",
+        "Los sistemas de feedback negativo permiten mantener el equilibrio en el cuerpo humano. Cuando uno de ellos falla, puede producir enfermedad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La homeostasis se mantiene en el cuerpo humano gracias al propio autocontrol que se ejerce en si mismo. Este autocontrol puede ser ocasionado a nivel local con diversos factores sintetizados, o también a nivel sistémico por la secreción de otras sustancias por otros órganos, aparatos, etc (Respuesta 1 es verdadera). Estos sistemas de autocontrol suelen funcionar como retroalimentación negativa (Respuesta 2 es verdadera), dado que el producto del sistema suele producir un efecto inhibidor o atenuador en el inicio del sistema. Cuando este autocontrol falla, se pueden producir enfermedades (R4 Verdadera).\n\nEn general los feedback positivos, suelen ser perjudiciales y generar círculos viciosos que perduran y producen enfermedad. En cambio, en algunas situaciones como en el parto, los feedback pueden ser positivos (Respuesta 3 es falsa). En el parto, la presión que ejerce el feto sobre el cuello uterino, manda señales hacia la musculatura uterina, y esto provoca cada vez contracciones más potentes hasta que sale el feto, y deja de ejercer esa presión sobre el cuello uterino."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Respecto a las proteínas plasmáticas señale la respuesta FALSA:",
+      "opciones": [
+        "La función principal de la albúmina es proporcionar presión coloidosmótica al plasma.",
+        "La mayoría de las proteínas plasmáticas se sintetizan en el hígado.",
+        "La testosterona aumenta el depósito de proteínas en todos los tejidos, en especial el de proteínas contráctiles en los músculos.",
+        "El ácido pirúvico es un aminoácido esencial."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta teórica sobre las proteínas plasmáticas. Las respuestas 1, 2 y 3 son correctas; mientras que la respuesta 4 es la falsa: los aminoácidos esenciales son aminoácidos que no se pueden sintetizar o solamente en cantidades demasiado pequeñas para suplir las necesidades orgánicas, de forma que debemos obtenerlos de la dieta. El ácido pirúvico se produce en grandes cantidades durante la glucólisis, por tanto sí es sintetizado, clasificándose como aminoácido \"no esencial\", es decir aquellos que no son esenciales en la dieta porque el organismo puede sintetizarlos."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "El músculo esquelético tiene una estructura compleja. A nivel microscópico está formado por miofibrillas, células multinucleadas con haces de filamentos finos y gruesos. En relación a la ultraestructura de la fibra muscular esquelética, señale la opción verdadera.",
+      "opciones": [
+        "El sarcolema es la membrana celular de las fibras musculares.",
+        "La titina es una molécula de bajo peso molecular. La falta de esta proteína, no produce ninguna alteración en el ser humano.",
+        "El perimisio es la capa de tejido conjuntivo que envuelve las fibras musculares.",
+        "La proteína que mantiene la estructura funcional entre la actina y la miosina es la meromiosina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta 1 es verdadera. El sarcolema es la membrana celular de las fibras musculares, y contiene numerosas fibrillas delgadas de colágeno. En cada uno de los dos extremos se une con fibras tendinosas.\n\nLa respuesta 2 es falsa. La titina es la proteína más grande conocida. Mutaciones en el gen que codifica la titina puede producir enfermedades cardiacas como la miocardiopatía hipertrófica obstructiva y también en miocardiopatía dilatada. Su función, al ser elástica, es mantener la estructura entre la actina y miosina (R4 Falsa). La meromiosina, es una enzima ATP asa, no tiene función estructural.\n\nLa respuesta 3 es falsa. Endomisio: envuelve las fibras musculares. Epimisio: envuelve los fascículos musculares. Epimisio: envuelve varios fascículos musculares, al músculo."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "¿Cuál de los siguientes procesos ocurre durante la fase delta del sueño?",
+      "opciones": [
+        "Bruxismo.",
+        "Atonía muscular y movimientos oculares rápidos.",
+        "Pesadillas.",
+        "Terrores nocturnos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La fase delta del sueño comprenden realmente las fases 3 y 4 de este; durante ella se producen los terrores nocturnos (respuesta 4 correcta) y en ellos hay movimientos, gritos y al día siguiente no se recuerda nada sobre este. Las pesadillas, a diferencia de los terrores nocturnos, se producen en la fase REM, en la cual fisiológicamente no se producen movimientos y pueden recordarse al día siguiente. La atonía muscular y movimientos oculares rápido forman parte al igual que las pesadillas de la fase REM. El bruxismo se encuentra en la fase 2, la cual es la fase más larga del sueño."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "La médula espinal no es únicamente un canal de transmisión desde la periferia al cerebro, sino que también tiene una gran actividad neuronal intrínseca. Indique cual de las siguientes opciones es correcta:",
+      "opciones": [
+        "El reflejo de retirada ante el dolor implica la relajación muscular flexora ipsilateral al estímulo.",
+        "Las motoneuronas gamma son las encargadas de inervar grandes fibras musculares.",
+        "Las interneuronas se encuentran exclusivamente en la médula espinal.",
+        "Los husos musculares detectan cambios en la longitud muscular y en la velocidad de contracción muscular."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta 1 es incorrecta. El reflejo de retirada es polisináptico y medular. Hay una contracción musculatura flexora ipsilateral al estimulo y relajación o inhibición de la musculatura extensora.\n\nLa repuesta 2 es incorrecta. Las motoneuronas alfa son las encargadas de producir gran contracción muscular a inervar fibras musculares grandes por neuronas de tipo A-alfa. Las motoneuronas gamma están encargadas de reflejos miotáticos y del tono muscular.\n\nLa respuesta 3 es incorrecta, dado que las interneuronas se pueden encontrar en otras zonas del Sistema nervioso central.\n\nLa respuesta 4 es correcta. Los husos musculares son los encargados de controlar los reflejos miotáticos, y también el tono muscular. Modificaciones en la velocidad de contracción o longitud muscular pueden producir su activación."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "El ATP es una molécula necesaria para poder realizar la contracción en el músculo esquelético. ¿Para cuál de las siguientes acciones, es necesaria la molécula de ATP?",
+      "opciones": [
+        "Para volver al potencial de membrana en reposo cuando finaliza la contracción voluntaria.",
+        "Apertura del canal de ryanodina.",
+        "Acción de la titina.",
+        "Entrada de calcio al sarcoplasma cuando se inicia la contracción voluntaria."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta 1 es verdadera. El calcio se utiliza al finalizar la contracción muscular para bombear Calcio desde el sarcoplasma al interior del retículo sarcoplásmico y para mantener el potencial de reposo a través de la bomba Na/K ATP asa.\n\nEl canal de ryanodina, permite la salida de calcio desde el retículo sarcoplásmico al sarcoplasma. Su activación es la propia entrada de calcio desde el exterior celular; no el ATP. (R2 F). La titina es una proteína estructural, grande y elástica; cuya función no depende del ATP.\n\nLa respuesta 4 es falsa. La entrada de Calcio al interior celular cuando se inicia la contracción muscular voluntaria, se debe a la entrada de calcio a través de canales de Calcio voltaje dependientes."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "Señale la afirmación INCORRECTA sobre la concordancia ventilación-perfusión pulmonar:",
+      "opciones": [
+        "La sangre que procede de los vértices tras el intercambio gaseoso tiene una PaO2 más alta y una PaCO2 más baja que la de las bases.",
+        "El contenido de O2 en la sangre es directamente proporcional a la PaCO2.",
+        "La falta de concordancia ventilación-perfusión puede afectar a la PaCO2, aunque con un efecto menos marcado que para la PaO2.",
+        "El aumento de la PaCO2 a menudo se compensa con un incremento de la ventilación total por minuto."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Al contrario de lo que dice la opción de respuesta 2, la proporcionalidad entre la PaCO2, y la PaO2, es inversa. Cuando aumenta la PaCO2, es porque estamos hipoventilando, y precisamente la hipoventilación es una causa de hipoxemia. Por tanto, a mayor PaCO2, menor PaO2(relación INVERSAMENTE proporcional)."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "En relación al control hormonal de la función gastrointestinal indique cuál de las siguientes opciones le parece falsa:",
+      "opciones": [
+        "La gastrina se sintetiza por células G del antro y píloro gástrico, ante estímulos como la distensión estomacal.",
+        "Una de las funciones de la gastrina es el estímulo para aumentar la síntesis de mucosa gástrica.",
+        "La colecistocinina se secreta cuando el contenido alimenticio ha llegado al intestino, y su función principal es inhibir la motilidad de la vesícula biliar.",
+        "La colecistocinina es partícipe de que se inicie la secreción pancreática."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta 1 es verdadera. Cuando entra alimento en el estómago, o hay un estímulo por el vago (Acetilcolina), o disminuye el HCl en el interior de la cámara gástrica, se activa la síntesis de gastrina, que es el mayor estímulo para la secreción de ácido gástrico. Otra de sus funciones es el estímulo para la síntesis de la mucosa gástrica (Respuesta 2 verdadera).\n\nLa respuesta 3 es falsa. La colecistocinina es secretada por células I de duodeno y yeyuno, especialmente cuando llega contenido alimenticio rico en grasas al intestino delgado. Su función es estimular la vesícula biliar para promover la digestión de las grasas, también estimula la secreción pancreática e inhibe la secreción de gastrina. (Respuesta 4 es verdadera)."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "Señalar lo FALSO entre las siguientes asociaciones, no exclusivas, del pulso y su patología:",
+      "opciones": [
+        "Pulso parvus e hipovolemia.",
+        "Pulso tardus e hipertensión arterial.",
+        "Pulso celer y bloqueo cardíaco completo.",
+        "Pulso bisferiens y estenosis aórtica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En cuanto a la semiología del pulso arterial debes memorizar algunos patrones típicos: El pulso parvus et tardus es típico de la estenosis aórtica. Existe un importante obstáculo al vaciamiento del ventrículo por lo que la eyección será lenta y el volumen estará disminuído (dando lugar a un pulso pequeñito y con velocidad de ascenso reducida). La hipovolemia también reduce el volumen de eyección porque el ventrículo trabaja en condiciones de baja precarga y la hipertensión arterial supone un aumento de la postcarga (o lo que es lo mismo una mayor resistencia a la eyección) por lo que el ascenso será lento. Otros dos patrones típicos son el pulso dícroto típico de la miocardiopatía dilatada (recuerda ambas empiezan por D) que se caracteriza por tener dos ondas, un pico sistólico y otro diastólico; y el pulso bisferiens que es típico de la miocardiopatía hipertrófica (este también tiene dos picos pero ambos sistólicos). El pulso en el bloqueo cardíaco completo es celer porque se establece un ritmo de escape generalmente a frecuencia baja que hace que el volumen telediastólico del ventrículo esté muy aumentado (diástole muy prolongada) lo que aumenta también el volumen sistólico."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "El hipo se debe a una contracción inesperada del diafragma durante la inspiración. El hipo persistente o “singultus” es el que dura más de 48 horas. La fisiopatología del hipo, no es muy bien conocida, pero existen ciertos postulados. En relación al hipo, marque la opción incorrecta:",
+      "opciones": [
+        "La señal aferente del reflejo del hipo viene dada por el nervio vago, el nervio frénico o también por el sistema simpático.",
+        "La vía eferente del reflejo del hipo viene dada por el nervio frénico y produce en la mayoría de casos una contracción diafragmática unilateral.",
+        "La presencia de un absceso hepático en contacto con el diafragma puede ser causa de hipo persistente.",
+        "La realización de Tac Craneal carece de valor para el diagnóstico del hipo persistente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La opción falsa es la 4. En caso de hipo persistente, es necesario valorar las posibles causas que pueden ocasionarlo (gastrointestinales, respiratorias, cardiovasculares, neurológicas, etc)\n\nEntre las pruebas recomendadas se encuentran: TC craneal o RM craneal (existen alteraciones en pares craneales que pueden ocasionar hipo persistente), phMetría o manometría esofágica (para detección de hernia de hiato, reflujo gasoesofágico…) Rx de tórax, TC torax, ECG (para detectar lesiones vasculares aórticas o pulmonares (contacto con nervio vago o frénico), analítica de sangre (causas metabólicas iónicas), retirada de fármacos productores, etc.\n\nLa opción 1, 2 y 3 son verdaderas."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "El mantenimiento del equilibrio ácido base es fundamental para el correcto funcionamiento de nuestras células. De mantenerlo se encargan fundamentalmente el aparato respiratorio, que protagoniza la regulación rápida del mismo y, los riñones, que llevan a cabo un control más a largo plazo. En relación al equilibrio ácido base marque la correcta:",
+      "opciones": [
+        "El hiato aniónico son las 20 +/-2 cargas positivas que tenemos en condiciones normales.",
+        "La acidosis es el aumento de hidrogeniones en sangre.",
+        "El anion gap se calcula restando al Na la suma de bicarbonato y cloro",
+        "El proceso metabólico o respiratorio responsable de un aumento del pH se conoce como alcalemia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "No debemos confundir el aumento o disminución de hidrógenos en sangre (academia y alcalemia respectivamente) de los procesos respiratorios o metabólicos implicados y conocidos como acidosis o alcalosis según disminuyan o aumenten el pH.\n\nPor otro lado debemos conocer que el anion gap en condiciones normales oscila entre 10+/-2 y que como dice la respuesta 3 se calcula restando al Na (ión positivo) la suma de bicarbonato y cloro (iones negativos)."
+    }
+  ]
+}

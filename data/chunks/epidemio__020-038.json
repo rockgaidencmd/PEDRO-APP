@@ -1,0 +1,507 @@
+{
+  "materia": "epidemio",
+  "paginaInicio": 20,
+  "paginaFin": 38,
+  "anomalias": [
+    "p22: en la pregunta del té y la coronariopatía, el comentario dice 'traducen la existencia de un factor de riesgo' cuando el contexto y la clave (opción 4) apuntan a un factor de confusión; además el comentario identifica como factor de confusión 'la dieta mediterránea' mientras la opción correcta habla de 'la dieta'",
+    "p32: en el comentario de la pregunta del ácido úrico aparece el carácter 'à' (V1: ... à Cualitativa; V2: ... à Cuantitativa) donde el original usaba una flecha que no se rasterizó correctamente",
+    "p34: en la pregunta de screening de diabetes el comentario usa 'TP' y 'TN' como total de positivos y total de negativos del test (76 y 24), no como verdaderos positivos/negativos; el VPN se calcula como VN/TN = 16/24 = 0,666",
+    "p36: el comentario de la pregunta sobre estudio analítico observacional contiene una clasificación jerárquica con viñetas '·', 'o' y '#' que se linealizó como líneas de texto",
+    "p36-p37: el comentario de la pregunta de alimentos transgénicos incluye una tabla 2x2 (Expuestos/No expuestos frente a Enfermos/Sanos/Total) que se linealizó en el texto de la explicación",
+    "p24 y p30: la misma pregunta sobre el estudio de 1962 de la Universidad de Harvard aparece duplicada, con redacción ligeramente distinta y comentarios de distinta extensión; en ambos casos Resp. Correcta: 2"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 20,
+      "enunciado": "Para el cálculo del tamaño muestral en un estudio descriptivo en el que la variable de interés es dicotómica, se precisa conocer los siguientes ingredientes, EXCEPTO uno:",
+      "opciones": [
+        "Proporción esperada de la variable de interés en la población.",
+        "Precisión deseada del intervalo de confianza.",
+        "El error beta asumible por el investigador.",
+        "Nivel de confianza del intervalo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta acerca del cálculo del tamaño muestral. Entre los factores que influyen en este cálculo siendo un estudio descriptivo en el que vamos a estimar un determinado parámetro se encuentra la variabilidad de dicho parámetro (previamente conocida o aproximada según datos preexistentes o estudios pilotos), de la precisión con que deseemos obtener esa estimación (amplitud del intervalo de confianza, a mayor precisión mayor tamaño muestral), nivel de confianza y proporción esperada de la variable en la población. El error beta sólo influiría como factor si nos encontrásemos ante un test de contraste de hipótesis, ya que recuerda que es el inverso de la potencia, que es lo que nos permite detectar las diferencias si existen. Opción 3 correcta.\nManual CTO 6ª Edición Epidemiología y Estadística, página 16."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Con respecto a los tesauros, es INCORRECTO que:",
+      "opciones": [
+        "Son vocabularios controlados y estructurados formalmente, formados por términos que guardan entre sí relaciones semánticas y genéricas: de equivalencia, jerárquicas y asociativas.",
+        "Se trata de un instrumento de control terminológico que permite convertir el lenguaje natural de los documentos en un lenguaje controlado con el fin de servir tanto para la indización, como para la recuperación de los documentos.",
+        "MeSH y DeCS son tesauros con gran difusión en nuestro medio.",
+        "El DeCS (descriptores en ciencias de la salud) es el tesauro de Medline, un vocabulario controlado que contiene los descriptores utilizados en la base de datos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre los tesauros. Veamos las opciones de respuesta:\n\n1 y 2.- Resumen la definición de tesauro. Se trata de un instrumento de control terminológico que permite convertir el lenguaje natural de los documentos en un lenguaje controlado, lo que permite que, si varios investigadores, buscando la misma información, introducen conceptos parecidos (pero diferentes), los tesauros van a encontrar una palabra común de forma que todos los investigadores tengan la misma información, aunque hayan introducido en el buscador términos diferentes.\n\n3.- MeSH y DeCS son tesauros con gran difusión en nuestro medio.\n\n4.- El MeSH (Medical Subject Headings) es el tesauro de Medline (opción 4 incorrecta, por lo que la marcamos); por ejemplo: el autor puede utilizar la palabra flu o la palabra grippe (gripe) pero en el MeSH se le asigna Influenza Human, que es el término aceptado en el tesauro MeSH."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "En un ensayo clínico se comparan 3 tratamientos (p.e. placebo, tratamiento establecido y un tratamiento nuevo). La variable respuesta es contínua (p.e. nivel de glucosa en sangre). ¿Si la variable no tiene una distribución normal, el test correcto para comparar la respuesta es?:",
+      "opciones": [
+        "La t de Student.",
+        "El test de Wilcoxon.",
+        "El test de Krusal-Wallis.",
+        "El test ji-cuadrado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las pruebas no paramétricas son las adecuadas cuando las variables no siguen una distribución normal. En este ensayo clínico, la variable 1 es cualitativa (3 tratamientos) y la variable 2 cuantitativa (glucemia), así que el test que se debe utilizar es: Kruskal- Wallis. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Se ha realizado un estudio de no-inferioridad comparando A frente B en cuanto a la reducción del número de fracturas en pacientes con osteoporosis. Se fija el límite de no-inferioridad en -3%. Los resultados muestran una diferencia entre ambos de +5% a favor de A, IC 95% (-10% a +17%):",
+      "opciones": [
+        "A es no inferior.",
+        "A es superior.",
+        "A es equivalente terapéutico.",
+        "El resultado es no concluyente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El intervalo que nos ofrecen en el enunciado, con una confianza del 95%, incluye y cruza el límite de no-inferioridad. Por tanto, una parte del intervalo arroja resultados intolerables. De ahí que aseguremos que el resultado no es concluyente, no es válido y no es estadísticamente significativo. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "En un estudio de cohortes se ha visto asociación entre el consumo de té y la enfermedad coronaria, de tal forma que los “teístas” tenían un RR de coronariopatía de 0,7 con respecto a los “ateístas”. Se consideró que la dieta podría suponer un factor de confusión en este estudio y se estratificó en función de los hábitos dietéticos (dieta mediterránea vs dieta anglosajona). Al hacerlo, el RR de coronariopatía para los teístas era de 0,97 para el estrato dieta mediterránea y de 0,98 para los mismos en el estrato dieta anglosajona. Qué conclusión sacamos?",
+      "opciones": [
+        "El té es un factor de confusión en la relación dieta–coronariopatía.",
+        "La dieta es un factor modificador del efecto en la relación té–coronariopatía.",
+        "La dieta anglosajona protege ligeramente de coronariopatía",
+        "La dieta es un factor de confusión en la relación té–coronariopatía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los resultados al estratificar, con RR similares entre sí y distintos al inicial, traducen la existencia de un factor de riesgo. En este caso el factor de confusión es la dieta mediterránea, más asociada a personas con hábito de consumo de té. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la potencia o poder estadístico de una prueba es FALSA?:",
+      "opciones": [
+        "Corresponde al complementario de la probabilidad el cometer un error beta.",
+        "Indica la capacidad de la prueba para detectar una determinada diferencia, si existe.",
+        "Depende del tamaño de la muestra.",
+        "No depende de la magnitud de la diferencia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La magnitud de la diferencia que se desea detectar influye en la potencia de una prueba (opción 4 correcta). Si pretendemos detectar diferencias muy grandes, no haría falta una prueba con gran potencia, ya que estas diferencias serían muy claras y se detectarían fácilmente. En cambio, si se intenta detectar diferencias muy pequeñas, se precisaría un poder estadístico muy elevado, porque si son mínimas puede ser muy difícil objetivarlas, y existe un gran riesgo de pasarlas por alto (decir que no existen cuando en realidad sí, es decir, cometer un error tipo II)."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Señale la opción FALSA acerca de los factores de confusión:",
+      "opciones": [
+        "Es un factor de riesgo de la enfermedad.",
+        "Es un paso intermedio entre la exposición y la enfermedad.",
+        "Está asociado con la exposición.",
+        "Para prevenirlo se pueden utilizar técnicas de aleatorización, apareamiento o restricción."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Un factor de confusión es una variable ajena al estudio que nos modifica los resultados obtenidos. Para una mejor comprensión, vamos a poner un ejemplo práctico.\n\nSupongamos un estudio donde se estudia la relación entre el café y la mortalidad cardiovascular. El resultado nos dice que los pacientes que toman café tienen un mayor riesgo de muerte por causas cardiovasculares. Más tarde, el investigador se da cuenta de que los pacientes que el café y el tabaco son hábitos asociados. Comprueba que los pacientes que tomaban café fumaban en su mayoría, y los que no tomaban café no fumaban. ¿Quién produce en realidad las muertes cardiovasculares? ¿Era el café, o tal vez se debía en realidad al tabaco? Ante la posibilidad de que todo se deba al tabaco, repite el estudio, teniendo esto en cuenta. El resultado final es que el café no influye, sino que todo era consecuencia del tabaco.\n\nLo que ha sucedido aquí con tabaco y café es un ejemplo típico. El factor de confusión era el tabaco, que no había sido previsto en el estudio, pero estaba modificando los resultados del mismo. Las características fundamentales de un factor de confusión serían:\n\n- Ser un factor de riesgo para la enfermedad (el tabaco es un factor de riesgo cardiovascular).\n\n- Estar relacionado con la exposición que estamos estudiando (tabaco y café se asocian).\n\n- No ser un paso intermedio entre la exposición y la enfermedad (obviamente, entre fumar y morir por un infarto, el café no es un paso intermedio)."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Señale la correcta en relación con los estudios de cohortes:",
+      "opciones": [
+        "Los estudios de cohortes están indicados en enfermedades raras.",
+        "Nunca ocurren pérdidas de individuos en el seguimiento.",
+        "No permiten el cálculo de la razón de incidencias.",
+        "No es adecuado para la formulación de nuevas hipótesis de causalidad."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En los estudios de cohortes, el investigador identifica dos grupos de sujetos, uno expuesto al factor en estudio (fármaco, factor de riesgo) y otro no expuesto. Después, los sigue a lo largo del tiempo para ver la incidencia de enfermedad. NO son útiles para enfermedades raras, poco frecuentes, porque aunque siguiéramos la cohorte durante mucho tiempo podrían no aparecer (Respuesta 1 es incorrecta). Tampoco son útiles para enfermedades con período de inducción largo, porque el estudio se prolongaría mucho y su organización sería cara y complicada. El matiz que permite contestar a esta pregunta es que se trata del mejor estudio observacional para establecer relaciones de causalidad, no para formularlas (Respuesta 4 es correcta).\n\nLos estudios de cohortes tienen menor probabilidad de sesgos que los casos y controles. Sin embargo, dentro de los de cohortes es posible el llamado “sesgo de migración”. Se debe al abandono de la cohorte inicial por los sujetos en estudio; al realizarse en períodos largos de tiempo, las exposiciones pueden cambiar entre los grupos, diluyéndose así los grupos originales. Por todo ello, sí puede haber pérdida de individuos en el seguimiento (Respuesta 2 es incorrecta). La medida de frecuencia de enfermedad que obtenemos es la incidencia en expuestos y no expuestos, y la medida de asociación el riesgo relativo o razón de incidencias (Respuesta 3 es incorrecta)"
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "En 1962, unos investigadores de la Universidad de Harvard identificaron a 16.936 graduados de dicha universidad a los que se les solicitó la cumplimentación de un cuestionario sobre la actividad física y otros factores de riesgo cardiovasculares, recogiendo también datos a partir de los registros de la universidad. 10 años más tarde, se envió un cuestionario de seguimiento sobre la arteriopatía coronaria y se recogieron datos sobre esta enfermedad a partir de los registros de defunción. ¿Cuál es el tipo de diseño de estudio empleado?:",
+      "opciones": [
+        "Estudio transversal o de prevalencia.",
+        "Estudio de cohortes.",
+        "Estudio de casos y controles.",
+        "Ensayo clínico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta de dificultad media sobre los tipos de diseño epidemiológicos. De las opciones que nos ofrecen, existen varias que podemos descartar con mucha facilidad.\n\n- Dado que existe un seguimiento, se trata de un estudio de carácter prospectivo. Esto descarta las respuestas 1 y 3.\n\n- El investigador se limita a observar. En ningún momento aleatoriza ni asigna él mismo ningún factor de estudio, por lo que no puede tratarse de un ensayo clínico. Opción 4 descartada.\n\nLa respuesta correcta es la 2. Se trata de un estudio observacional y prospectivo, por lo que estaríamos ante un estudio de cohortes.\n\nResumen: se identifica a sujetos sin enfermedad coronaria en 1962, clasificándolos según tengan o no un FR cardiovascular. A lo s 10 años se ve en cada grupo cuántos hicieron la coronariopatía."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "La eficacia de tres tratamientos para la reducción del acné se mide mediante el número de lesiones que desaparecen. Se aplica cada tratamiento a un grupo de voluntarios y se comparan los resultados. La prueba estadística más apropiada para evaluar las diferencias entre grupos es:",
+      "opciones": [
+        "Análisis de la varianza de una vía.",
+        "Análisis factorial (multivariante).",
+        "Prueba exacta de Fisher.",
+        "Análisis de la regresión."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos piden elegir la prueba estadística más apropiada para comparar la eficacia de tres tratamientos (variable independiente: cualitativa de más de dos categorías) en la reducción del numero de lesiones en pacientes con acné (variable dependiente: cuantitativa), por lo que deberemos utilizar el análisis de la varianza (ANOVA). El análisis factorial o análisis de varianza sirve para establecer que variables independientes influyen en una variable dependiente (opción 1 correcta). La prueba exacta de Fisher la usamos para comparar dos variables cualitativas cuando la N es baja (N<5 en una casilla de una tabla 2x2 contraindica el uso de Chi-Cuadrado). El análisis de regresión sirve para extrapolar los valores de la variable dependiente a partir de los valores de la variable independiente, siguiendo la ecuación de una recta, cuando ambas variables son cuantitativas."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Usted plantea un ensayo clínico donde va a comparar un placebo con un nuevo antibiótico en el tratamiento de las endocarditis infecciosas. La asignación a cada grupo será aleatoria y se emplearán técnicas de enmascaramiento (doble ciego). El comité ético que se encarga de revisar la metodología le dice que su propuesta es inaceptable. ¿Qué debería hacer para llevar a cabo este estudio, con el MÁXIMO rigor y grado de evidencia científica posibles?",
+      "opciones": [
+        "Realizar el ensayo clínico a pesar de todo, pero en secreto.",
+        "Realizar un estudio de cohortes.",
+        "Utilizar controles históricos para evitar los problemas éticos, comparando con un grupo de pacientes con endocarditis anteriores al descubrimiento de los antibióticos.",
+        "Realizar un ensayo de características similares, empleando un antibiótico de conocida eficacia en lugar de placebo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta de estadística se resuelve por sentido común. Por supuesto que no es ético dejar al grupo de control sin tratar, sobre todo considerando que la endocarditis es una enfermedad seria que afecta al pronóstico vital del paciente. Por otra parte, los controles históricos tienen sesgos. Por pura lógica, si se prueba un nuevo fármaco es porque se piensa que será mejor en algo a los existentes (más eficaz, menos efectos secundarios, etc.). Es de cajón que habrá que compararlo con el fármaco habitual para ver eficacia, seguridad, etc. Nadie va a tratar una endocarditis infecciosa con placebo en la práctica clínica habitual, por lo que el nuevo fármaco deberá \"competir\" con otro antibiótico, no con placebo."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "El nivel de CD4 de los pacientes con VIH sigue una distribución normal de media 200 y desviación típica 50. Si clasificamos a los sujetos como pacientes con “SIDA” cuando tienen unos niveles de CD4 < 150, ¿qué proporción de los sujetos estarán enfermos?",
+      "opciones": [
+        "16%",
+        "2,5%",
+        "32%",
+        "5%"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta clásica acerca de la distribución normal. En un intervalo que sea media +- 1 desviación estándar estarán el 68% de los sujetos y en un intervalo que sea media +- 2 desviaciones estándar estarán el 95% de los sujetos. En este caso, un intervalo de 150 a 250 contendrá al 68% de los sujetos. La distribución normal es simétrica, por lo que a cada lado de ese intervalo habrá un 16% de los sujetos."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "En un ensayo clínico aleatorizado, controlado y con diseño doble-ciego se han administrado dosis crecientes de 10 mg, 20 mg, 50 mg y 100 mg de un nuevo fármaco en un total de 60 pacientes (15 pacientes por cada grupo de dosis), con el fin de establecer la relación entre la eficacia y toxicidad del nuevo fármaco. Además, se ha incluido un grupo control con 15 pacientes. Señale la opción CORRECTA:",
+      "opciones": [
+        "Se trata de un estudio Fase I.",
+        "Se trata de un estudio Fase IIa.",
+        "Se trata de un estudio Fase IIb.",
+        "Se trata de un estudio Fase III."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Vamos a resumir los aspectos más importantes sobre las fases de los ensayos clínicos:\n-Fase I: Primera vez que se usa en humanos, que son voluntarios sanos. No hay grupo control. Sirve para evaluar la toxicidad. Aquí estarían también los estudios de bioequivalencia.\n-Fase II: Intenta conocer la relación dosis-respuesta. Se administra en pacientes. No es necesario establecer comparación con otro fármaco.\n-Fase III: Sirve para evaluar la eficacia, en comparación con placebo u otros fármacos (si existen). También da información sobre los efectos adversos habituales.\n-Fase IV: Farmacovigilancia (post- comercialización). Detecta efectos adversos infrecuentes o de aparición tardía. También da información sobre interacciones con otros fármacos.\nEsta pregunta da un paso más. Dentro de la fase II, debemos ser capaces de distinguir entre las dos subfases existentes: IIa y IIb.\n- IIa. En ella, se realizan los primeros ensayos en pacientes. Suele tratarse de estudios piloto, no controlados, en poblaciones de pacientes muy seleccionados.\n- IIb. En esta fase, se trata de ensayos controlados. Son más rigurosos y suelen ser enmascarados. Los ensayos en fase IIb son mucho más parecidos a los de fase III que los de la fase IIa. Recuerda que a veces la única forma de diferenciar un estudio IIb de un etudio III es el tamaño muestral del estudio (mayor en fase III)."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "En un estudio epidemiológico se trató de correlacionar el consumo de carne procesada “per cápita” en distintos países en el año 2013 con la incidencia de cáncer de colon registrada en ese mismo año en dichos países. ¿De qué tipo de estudio se trata?",
+      "opciones": [
+        "Estudio ecológico.",
+        "Series de casos.",
+        "Estudio de caso-cohorte.",
+        "Estudio de corte transversal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se nos pide que identifiquemos el tipo de estudio que nos presentan. Es un estudio en el que a partir de datos existentes previamente: consumo de carne per cápita e incidencia de cáncer de colon (ya registrada) van a hacer una correlación. Puesto que no es un estudio en el que recluten una muestra y midan unas variables, sino que a partir de datos preexistentes concluirán la incidencia de cáncer en año por cantidad de carne consumida, lo que es un estudio descriptivo de tipo ecológico. Hay que tener en cuenta que no se trata de un estudio longitudinal dónde se va a registrar la incidencia, sino que se están tomando casos prevalentes (ya han ocurrido) y a partir de datos preexistentes (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "La media aritmética NO debe emplearse como estadístico de centralización cuando:",
+      "opciones": [
+        "Los datos son homogéneos.",
+        "Se desea conocer el centro de gravedad de la distribución.",
+        "Las muestras son asimétricas.",
+        "Se desea calcular otros estadísticos relacionados, como el coeficiente de variación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Dentro de la estadística descriptiva es importante que domines el tema de síntesis de datos y te queden claras las distintas medidas de tendencia central y de dispersión. La media aritmética es la medida de centralización más común y utiliza todos los datos de la distribución. Es de elección si los datos son homogéneos pero tiene el inconveniente de que es muy sensible a observaciones atípicas y un error o valor anormal pueden modificarse totalmente. Sin embargo la mediana sólo tiene en cuenta el orden de los datos y no su magnitud y no se ve alterada por observaciones extremas. Recuerda: Distribución homogénea- - >media + desviación estandar; Distribución asimétrica- - >mediana + rango."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "¿Cuál de los siguientes es un procedimiento para el control de factores de confusión en estudios epidemiológicos?",
+      "opciones": [
+        "Prueba de la Chi-cuadrado.",
+        "Apareamiento (matching).",
+        "Análisis de la varianza.",
+        "Análisis por intención de tratar."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El apareamiento es uno de los posibles métodos para neutralizar los potenciales factores de confusión; consiste en elegir los controles en función de las características de los casos. Así, por ejemplo, si en el grupo de casos entrase un varón de 50 años, 80 kg de peso y fumador de 20 cigarrillos diarios, entre los controles deberíamos incluir otro, de la misma edad, peso y similar hábito tabáquico; de este modo, estas características (sexo, edad, peso, tabaquismo) se reparten por igual en ambos grupos y, en principio, no deberían comportarse como factores de confusión. Por supuesto, el apareamiento no garantiza la total ausencia de potenciales factores de confusión. Date cuenta de que no podemos aparear en función de todas las características del sujeto. Cuando apareamos en función de multitud de factores, puede resultar muy difícil conseguir un número suficiente de sujetos, por lo que debemos limitarnos a las características que realmente nos interesan."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "El error tipo I es:",
+      "opciones": [
+        "Aceptar la hipótesis nula cuando es falsa.",
+        "Rechazar la hipótesis alternativa cuando es cierta.",
+        "Ver diferencias significativas donde no las hay.",
+        "No detectar diferencias cuando realmente las hay."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El error tipo I o alfa es el que se comete cuando, no habiendo diferencias entre dos tratamientos, llegamos a la conclusión de que sí las hay. Es decir, consiste en detectar diferencias que no existen en la realidad (respuesta correcta 3). Esto, en otras palabras, implicaría rechazar la hipótesis nula cuando es cierta.\n\nPor otra parte, el error tipo II consiste en que, cuando hay diferencias en realidad, no llegamos a detectarlas.\n\nRecuerda que ambos errores pueden disminuirse si se aumenta el tamaño muestral del estudio."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Señale la verdadera sobre las pruebas no paramétricas:",
+      "opciones": [
+        "Requieren la normalidad de la distribución de las variables en la población.",
+        "Son más potentes que las pruebas paramétricas.",
+        "Son útiles para demostrar asociación entre dos variables ordinales.",
+        "No son aplicables al estudio de medidas repetidas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta conceptual importante. Las pruebas paramétricas son estadísticamente más potentes y recomendables (opción 2 falsa). Sin embargo, en ciertas situaciones es obligado recurrir a los tests no paramétricos:\n\n1. Cuando la distribución no se ajuste a la normal.\n\n2. Cuando la variable sea ordinal.\n\n3. Cuando el tamaño muéstralo sea menor de 30."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Usted realiza un estudio y se da cuenta de que ha cometido un error al realizarlo, por lo que decide, una vez recogidos los datos, corregir dicho error. ¿De qué tipo de error se trata?",
+      "opciones": [
+        "Sesgo de selección.",
+        "Factor de confusión.",
+        "Efecto Hawthorne.",
+        "No puede corregir ningún error después de realizar el estudio; tiene que preverlos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los errores sistemáticos se deben prever antes de realizar su estudio para que no te invaliden las conclusiones, sin embargo, la detección de un factor de confusión durante la realización de este sí se puede corregir a posteriori mediante un análisis estratificado o un análisis multivariante. Recuerda por tanto que es el único sesgo que puede evitarse a posteriori (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Usted desea realizar un ensayo clínico para valorar la eficacia de dos técnicas quirúrgicas distintas, A y B, a la hora de tratar una determinada patología congénita en neonatos. Durante la fase de diseño del mismo, realiza una correcta aleatorización y enmascaramiento, y establece unos valores para el error alfa y beta del 5% y 20% respectivamente. Para dichos parámetros, usted estima que necesitará una muestra de 700 niños a fin de lograr demostrar diferencias de manera estadísticamente significativa, en caso de que las haya. Al realizar el ensayo, se encuentra con que para una muestra estudiada de 150 niños, la técnica A presenta diferencias pronósticas respecto a la técnica B con p<0,05. ¿Cuál sería su valoración del estudio?:",
+      "opciones": [
+        "A pesar de que el resultado es estadísticamente significativo, debe haber algún tipo de error sistemático en el diseño del estudio, ya que la muestra es demasiado pequeña respecto a la “n” estimada inicialmente.",
+        "El resultado es un falso positivo, pero el diseño es correcto. Hay que seguir recopilando los datos hasta los 700 niños, antes de realizar un nuevo análisis.",
+        "El resultado es correcto; hay diferencias estadísticamente significativas a favor de la técnica A con una p<0,05.",
+        "A pesar de los datos obtenidos, debemos analizar a los 700 niños para asegurarnos del resultado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Si cuando nosotros realizamos el diseño de un ensayo clínico y estimamos una n para alcanzar una determinada significación estadística, y al realizar el ensayo, alcanzamos esos valores de significación con una n menor de la estimada, habremos logrado comprobar lo que queríamos con un menor costo y esfuerzo. El resultado es igualmente válido, como se indica en la respuesta correcta (opción 3), y no es necesario continuar el estudio para alcanzar el tamaño muestral estimado inicialmente."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Estamos diseñando un ensayo clínico controlado para evaluar el efecto de un nuevo fármaco hipolipemiante sobre la morbimortalidad cardiovascular, y sabemos que la diabetes mellitus tipo II es un factor pronóstico muy relevante que queremos que se distribuya por igual en los dos grupos de tratamiento. ¿Qué tipo de aleatorización sería la más adecuada?:",
+      "opciones": [
+        "Asignnación aleatoria restrictiva.",
+        "Aleatorización por bloques.",
+        "Asignación aleatoria estratificada.",
+        "No es necesario aleatorizar a los pacientes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy típica que ya ha caído años anteriores. La aleatorización consiste en asignar por azar, sin que influya ningún factor los pacientes de la muestra a los dos grupos de intervención de modo que, si el tamaño muestral es suficientemente grande, se consiga una distribución homogénea de las variables predictoras en ambos grupos. La aleatorización ideal es la de tipo estratificado: los pacientes son divididos en grupos o estratos homogéneos respecto a alguna variable de interés pronóstico y posteriormente son asignados aleatoriamente a uno de los dos grupos de intervención.\nManual CTO 6ª Edición Epidemiología y Estadística, página 9."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "En 1962 unos investigadores de la Universidad de Harvard identificaron a 16.936 graduados de dicha universidad a los que se les solicitó la cumplimentación de un cuestionario sobre la actividad física y otros factores de riesgo cardiovasculares, también recogieron datos a partir de los registros de la universidad. 10 años más tarde se envió un cuestionario de seguimiento sobre la arteriopatía coronaria y se recogieron datos sobre esta enfermedad a partir de los registros de defunción. ¿Cuál es el tipo de diseño de estudio empleado?",
+      "opciones": [
+        "Estudio Transversal o de prevalencia.",
+        "Estudio de cohortes.",
+        "Estudio de casos y controles.",
+        "Ensayo clínico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta de dificultad media sobre los tipos de diseño epidemiológicos. De las opciones que nos ofrecen, existen varias que podemos descartar con mucha facilidad.\n\n- Dado que existe un seguimiento, se trata de un estudio de carácter prospectivo. Esto descarta las respuestas 1 y 3.\n\n- El investigador se limita a observar. En ningún momento aleatoriza ni asigna él mismo ningún factor de estudio, por lo que no puede tratarse de un ensayo clínico. Opción 4 descartada.\n\nTampoco se trata de un estudio ecológico. En este tipo de diseños, la unidad de estudio es la población, ya que nos falta información sobre los individuos concretos. No puede tratarse de un estudio ecológico, ya que conocemos exactamente cuántos y quiénes son los sujetos participantes, al tenerlos identificados desde el comienzo del mismo.\n\nOtra observación con respecto a los estudios ecológicos. La esencia de los mismos está en utilizar la población como unidad de estudio, tal como hemos dicho. Muchos de vosotros, nada más oír “estudio ecológico”, automáticamente hace una asociación mental con “medidas preventivas”, y esto es ABSOLUTAMENTE INCORRECTO. Para evaluar actividades de prevención, se dispone de diseños específicos, tales como los ensayos de campo o los estudios de intervención comunitaria. No entendemos el motivo de este error tan común, pero sabemos que existe por la experiencia de los años. Esperamos que, después de leer este comentario, ninguno de vosotros lo vuelva a cometer. Opción 4 incorrecta.\n\nLa respuesta correcta es la 2. Se trata de un estudio observacional y prospectivo, por lo que estaríamos ante un estudio de cohortes."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Cuál de los siguientes diseños es el más adecuado para contrastar una hipótesis etiológica en una enfermedad poco frecuente?:",
+      "opciones": [
+        "Estudio de cohortes.",
+        "Estudio de casos y controles.",
+        "Serie de casos.",
+        "Estudio de prevalencia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para estudiar una enfermedad “rara” o poco frecuente, lo más práctico será identificar un grupo de sujetos que padezcan esa enfermedad y hacer un estudio retrospectivo para identificar posibles factores etiológicos de la misma, es decir, llevar a cabo un estudio de casos y controles (opción 2 correcta). Son estudios epidemiológicos muy buenos para estudiar situaciones infrecuentes, como por ejemplo reacciones adversas a fármacos después de la comercialización de los mismos, efectos adversos asociados a duraciones prolongadas de tratamiento (p.e. retinopatía por cloroquina) o que aparecen tras un período de latencia prolongado (p.e. cáncer de vagina en hijas de madres tratadas con dietilestilbestrol en el embarazo). Para este tipo de patologías, un estudio de cohortes resultaría poco práctico, muy largo y muy costoso, y un ensayo clínico encontraría, además de esos inconvenientes, limitaciones obvias de tipo ético. Ejemplos de enfermedades, aparte de los citados, que se han estudiado con esta metodología para estimar el riesgo de diferentes fármacos son la agranulocitosis, la anemia aplásica y malformaciones congénitas, entre otros."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Cuando se dice que una prueba estadística es adecuada para la comparación de dos muestras independientes, significa que:",
+      "opciones": [
+        "Los sujetos de ambas muestras son diferentes.",
+        "Los sujetos de ambas muestras son los mismos.",
+        "La prueba puede utilizarse independientemente de las condiciones de aplicación.",
+        "La prueba es aplicable independientemente de la distribución de las variables."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La importancia de esta pregunta radica en que es fundamental considerar el tipo de muestra de un estudio experimental para elegir la prueba de análisis de resultados adecuada.\n\nEn los estudios de muestras independientes, los individuos que integran cada grupo comparativo son distintos. La comparación de la distribución de la variable objetivo en cada grupo permite la obtención de resultados. La respuesta 1 es, por tanto, la correcta. Ejemplo: comparación de la eficacia de labetalol en la reducción de las cifras de presión arterial frente a carvedilol en pacientes con alto riesgo cardiovascular. Los dos grupos comparativos son el experimental, que recibe labetalol, y el control, que recibe carvedilol. Los datos se obtienen de forma independiente en cada muestra, para ser comparados posteriormente.\n\nEn los estudios de muestras pareadas, la comparación se produce entre la medición de la variable objetivo antes de la introducción del factor de intervención y su medición tras dicha introducción sobre los mismos sujetos. Por ello se denominan también estudios antes-después. En ellos, cada sujeto ejerce como su propio control. La muestra es la misma. Ejemplo: estudio que pretende determinar el nivel medio de reducción de la presión sanguínea en pacientes con alto riesgo cardiovascular a los que se administra labetalol. La comparación se establece entre la media de presión arterial que presentan el grupo de pacientes de la muestra antes de introducir el labetalol y la media de presión arterial registrada por la misma muestra tras cierto tiempo desde la administración del mismo. Cabe mencionar que para este tipo de estudios se emplean pruebas estadísticas de contraste de hipótesis específicas."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Queremos hacer un estudio con el fin de relacionar el descenso de los niveles de ácido úrico al realizar dieta, al tomar alopurinol y al tomar probenecid. Para ello tomamos una población de 200 gotosos y la dividimos en tres grupos cada uno de los cuales es sometido a una de las intervenciones anteriores. ¿Qué tipo de estudio realizaría usted?",
+      "opciones": [
+        "ANOVA.",
+        "t de Student.",
+        "Correlación de Pearson.",
+        "Test de Kruskal-Wallis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En este tipo de preguntas, lo más importante es la correcta identificación de las variables de estudio. En este caso, serían:\n\nV1: Grupo de tratamiento (dieta, alopurinol o probenecid) à Cualitativa con tres categorías.\n\nV2: Descenso de la uricemia à Cuantitativa.\n\nPor lo tanto, el test que deberíamos aplicar sería el análisis de la varianza (ANOVA). Opción 1 correcta."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Su intención es estudiar si haber trabajado durante más de 10 años en una fábrica de materiales de construcción con amianto y asbesto aumenta el riesgo individual de una serie de enfermedades. Para ello, el diseño más apropiado será:",
+      "opciones": [
+        "Cohorte",
+        "Casos y controles",
+        "Serie de casos",
+        "Ensayo clínico"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cuando estás estudiando un factor raro de exposición, el mejor diseño es cohortes, porque un grupo de casos y otro de controles para cierta enfermedad no tendrá, previsiblemente, suficientes sujetos con el antecedente de exposición como para hacer comparaciones con suficiente poder estadístico. Además, cohortes me permite estudiar varias enfermedades como posible variable resultado. Opción 1 correcta."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Qué es un estudio de casos y controles anidado?",
+      "opciones": [
+        "Es el tipo de estudio de casos y controles en el que la serie de controles está apareada con los casos en posibles factores de confusión.",
+        "Es el tipo de estudio de casos y controles en el que la serie de controles está muestreada aleatoriamente de la cohorte que da origen a los casos.",
+        "Es el tipo de estudio de casos y controles en el que tanto los casos como los controles se extraen del mismo hospital o centro de estudio.",
+        "Es el tipo de estudio de casos y controles que se realiza para estudiar los factores etiológicos de las malformaciones congénitas y que se llevan a cabo en las unidades de neonatología."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El estudio de casos y controles anidado es aquel en estudio diseñado como un casos y controles típico, difiriendo en que los controles serán seleccionados de la misma subpoblación (un colegio, una fábrica, un hospital, un pueblo, etc.) que da origen a los casos. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Tenemos interés en estudiar la relación que pueda existir entre la utilización de determinado medicamento antiasmático y las muertes por asma. Para ello, disponemos de los datos de los últimos 10 años de la mortalidad por asma en determinada Area de Salud, y del consumo de este medicamento en el mismo ámbito. Con estos datos, ¿qué tipo de diseño de estudio podría realizarse?:",
+      "opciones": [
+        "Estudio de cohorte retrospectivo.",
+        "Estudio de caso-control anidado.",
+        "Estudio cuasi-experimental.",
+        "Estudio de tendencias temporales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En los estudios ecológicos de tendencias temporales, la unidad de análisis son grupos de individuos, no individuos. En este estudio que nos describen precisamente sólo disponemos de datos poblacionales, no individuales, acerca de la mortalidad por asma y del consumo de cierto medicamento. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Seleccionamos una muestra aleatoria entre los pacientes que acuden a vacunarse de la gripe durante la campaña anual en un centro de salud. Se registra en los pacientes seleccionados si están utilizando fármacos hipolipemiantes y si están diagnosticados de diabetes mellitus, entre otros datos. Se obtiene que la diabetes mellitus es más frecuente entre los pacientes que toman hipolipemiantes que entre los que no los toman. ¿A cuál de los siguientes corresponde el diseño de este estudio?",
+      "opciones": [
+        "Un estudio de prevalencia.",
+        "Un estudio de casos y controles.",
+        "Un estudio de cohortes prospectivo.",
+        "Un ensayo clínico aleatorizado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta estándar, en la que se describe brevemente la metodología de un estudio para que elijamos la opción correcta. Hay dos claves: la primera, se realiza un muestreo aleatorio en una población determinada y en un momento determinado del tiempo; la segunda, esa muestra se utiliza para describir la frecuencia ( o prevalencia) de uno o varios factores de riesgo. Se trata por ello de un claro diseño de corte o prevalencia (opción 1 correcta). Respecto a las otras opciones, en ningún caso el diseño describe un seguimiento a lo largo del tiempo de pacientes (descarta ensayo clínico y cohortes) y tampoco se identifican enfermos y sanos que son comparados directamente (casos y controles)."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Por qué habremos de multiplicar el error estándar de la media para obtener un intervalo con el 99% de las observaciones centradas en la media?",
+      "opciones": [
+        "2.",
+        "2,6.",
+        "1.",
+        "3."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una pregunta de estimación de una media, en la que hacen referencia a las propiedades de la curva normal. Un intervalo de confianza consiste en una horquilla de dos valores, entre los cuales con una probabilidad dada (del 95% o del 99 %) estará un determinado parámetro poblacional.\n\nEl intervalo: media muestral ± 2,6 EEM comprende a la media poblacional con una probabilidad del 99%. Por ello, la respuesta correcta es la 2."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Al realizar un test de Screening para diabetes mellitus en una determinada población, nos encontramos con que la probabilidad de que a un individuo sano lo clasifiquen como diabético es de un 20%, y la probabilidad de no detectar a un individuo enfermo es del 10%. Si usted conoce que la prevalencia de diabetes mellitus en esta población es de un 80%, calcule la probabilidad de no padecer la enfermedad si se tiene un resultado negativo en el test:",
+      "opciones": [
+        "33%.",
+        "80%.",
+        "66%.",
+        "20%."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que presenta una típica tabla de contingencia, pero con datos que no estamos muy habituados a manejar. Lo primero que hay que hacer es identificar la TFP del 20% y la TFN del 10%. El siguiente paso será construir nuestra tabla de contingencia, de tal manera que sabiendo que la prevalencia es del 80%, pondremos una n de 100, 80 individuos enfermos y 20 sanos. A continuación, empleando las fórmulas de la TFP (TFP = FP/Sanos) y la TFN (TFN = FN/Enfermos), obtendremos los datos que nos faltan en la tabla: VP=72, FN=8, FP=4, VN=16, TP=76 y TN=24. Por último, queda tener claro qué nos están preguntando, en este caso es el cociente VN/TN (VPN) que nos da un resultado de 0,666666 (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "El riesgo alfa de prueba de hipótesis:",
+      "opciones": [
+        "Se fija a priori.",
+        "Se puede conocer determinando previamente el número de individuos necesarios.",
+        "Es siempre desconocido.",
+        "Se elige subjetivamente un valor cualquiera."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El riesgo alfa que usaremos como límite para hablar de significación estadística lo prefijamos antes de realizar el contraste de hipótesis, siendo los valores más frecuentes 0,05 y 0,01. Opción 1 correcta."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Respecto a la mediana, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Es una medida de tendencia central.",
+        "Es útil es muestras grandes y homogéneas.",
+        "No siempre es un valor de la muestra.",
+        "Divide al conjunto de datos en partes iguales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La mediana es una medida de tendencia central cuya principal utilidad es en muestras heterogéneas, ya que está menos influida por los valores extremos que otros parámetros de tendencia central como la media. La mediana es el percentil 50, por ello es el valor que deja a cada lado de él a un mismo número de sujetos. Recuerda que en las distribuciones normales, la media, la moda y mediana son iguales. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Respecto a las fases del desarrollo clínico de un medicamento, ¿cuál de las siguientes características NO corresponde a un ensayo clínico en fase 2?:",
+      "opciones": [
+        "Son estudios terapéuticos exploratorios.",
+        "Se realizan en un número amplio de pacientes (entre 100 y 1.000).",
+        "Se utilizan para delimitar un intervalo de dosis terapéuticas.",
+        "Se requiere el consentimiento informado de los pacientes para su inclusión en el estudio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La segunda fase del desarrollo de un medicamento tiene como objetivo principal la posología (opción 3), mediante el estudio de la relación dosis-respuesta, para establecer las que serán las dosis según el efecto deseado (opción 1), en función de variables como peso o función renal. Se suelen realizar en un grupo pequeño de pacientes, normalmente alrededor de 100 (opción 2 correcta), y si es posible con grupos de control. Requieren, como en cualquier ensayo, la firma de un consentimiento informado, y al ser una muestra no muy grande, no tienen una gran duración (opción 4). En ocasiones aportan datos preliminares sobre la eficacia (Fase IIb)."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "¿Cuál de los siguientes diseños puede considerarse un estudio analítico observacional?:",
+      "opciones": [
+        "Estudios de casos y controles.",
+        "Ensayos clínicos aleatorios.",
+        "Estudios de prevalencia.",
+        "Estudios ecológicos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es fácil. Hay que tener claro la clasificación de los diferentes tipos de estudios epidemiológicos. Se pueden dividir en:\n\n· Descriptivos: Series de casos clínicos, estudios ecológicos, estudios descriptivos de morbilidad-mortalidad, estudios de prevalencia, corte o transversales\n\n· Analíticos: o Asignación controlada del factor de estudio\n\n# Aleatoria: Estudios experimentales: E. Clínico, E.Campo\n\n# No aleatoria: Estudios cuasi- experimentales: Ensayo Comunitario de Intervención, Estudios antes-después, EC controlados no aleatorizado\n\no Asignación no controlada: estudios observacionales:\n\n# Elección de sujetos según FR: cohortes\n\n# Elección de sujetos según enfermedad: casos y controles.\n\nPor lo tanto, y teniendo en cuenta la clasificación anterior, el único estudio analítico observacional que hay entre las respuestas es el Estudio Casos y Controles. Opción 1 correcta."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Participa en un estudio para conocer la importancia del consumo de alimentos transgénicos en el desarrollo de patología neoplásica. De una muestra de 165 individuos sanos (110 expuestos, 55 no expuestos) se encuentran con el tiempo 4 casos en los expuestos y 2 en los no expuestos. Tras el estudio con la medida de asociación adecuada, se puede concluir respecto a la relación entre alimentos transgénicos y desarrollo de cáncer que:",
+      "opciones": [
+        "Es una factor de riesgo evidente.",
+        "Supone un riesgo relativo alto.",
+        "Es indiferente.",
+        "Representa un factor protector."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Sustituyendo los valores en la tabla siguiente obtenemos un RR de 1, que indica asociación indiferente entre la exposición y la enfermedad. Opción 3 correcta.\n\nExpuestos: Enfermos 4, Sanos 106, Total 110. No expuestos: Enfermos 2, Sanos 53, Total 55.\n\nRR = (4/110) / (2/55) = 1."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "¿Cuál será el CV en un estudio cuya media sea 100 mg/dl de glucosa y la desviación típica sea 20 mg/dl?",
+      "opciones": [
+        "20%.",
+        "20mg/dl.",
+        "80%.",
+        "80mg/dl."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El CV no tiene unidades y se calcula DS/media x100. 20/100x100=20%. Opción 1 correcta."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Señale cuál de las siguientes afirmaciones sobre el metaanálisis es INCORRECTA:",
+      "opciones": [
+        "Si los ensayos que integra están bien diseñados, esto garantiza que el metaanálisis resultante está exento de sesgos.",
+        "Agrega resultados de varios ensayos clínicos de diseño similar.",
+        "Al incluir un mayor número de observaciones que un ensayo clínico aislado, el poder estadístico es superior.",
+        "Se basa en la integración sistemática y estructurada de la información contenida en varios ensayos clínicos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta 1 es falsa. El metaanálisis no deja de ser un estudio observacional donde los fenómenos observados son ensayos clínicos previos con un mismo objeto de estudio, y por tanto está sometido a los mismos sesgos que podemos encontrar en los estudios observacional, incluso cuando los ensayos clínicos que lo integran están bien diseñados. Los estudios aislados incluidos pueden estar bien diseñados, pero si no se incluyen todos, incurrimos en un sesgo de publicación."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Disponemos de dos test para diagnosticar una enfermedad de pronóstico grave. La prueba A tiene una sensibilidad del 95% y una especificidad del 60% y la prueba B tiene una sensibilidad del 70% y una especificidad del 99%. Disponemos de un tratamiento eficaz, aunque produce efectos adversos importantes y además tiene un costo muy elevado. ¿Qué prueba elegiríamos para hacer el diagnóstico?",
+      "opciones": [
+        "La prueba A, porque detectará menos falsos positivos.",
+        "La prueba A, porque tiene una sensibilidad mayor.",
+        "La prueba B, porque detectará más falsos positivos.",
+        "La prueba B, porque tiene una mayor especificidad."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Un test específico se usa para confirmar enfermedad, ya que tiene pocos falsos positivos. Si tenemos un tratamiento que causa efectos secundarios importantes y tiene un coste elevado, hay que estar lo más seguro posible de que el paciente está realmente enfermo. Por eso, entre las opciones, elegiremos el test más específico (prueba A 60%, prueba B 99%), por tanto elegiremos la opción 4."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Las edades de una muestra de 100 pacientes siguen una distribución normal con media 50 años y desviación típica 10 años. Esto implica que:",
+      "opciones": [
+        "Aproximadamente el 95% de los pacientes tienen edades entre 40 y 60 años",
+        "Existe un 95 % de probabilidades de que la verdadera edad media se sitúe entre 40 y 60 años",
+        "Existe un 95 % de probabilidades de que la verdadera edad media se sitúe entre 30 y 70 años",
+        "Aproximadamente el 95% de los pacientes tienen edades entre 30 y 70 años"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Para responder esta pregunta, tenemos que recordar las características básicas de la distribución normal: un intervalo de media +/1 DS incluye un 68% de los valores de una muestra y el intervalo media +/- 2 DS incluye un 95% de los valores muestrales.\n\nEn este caso, como la media es 50 y la desviación es 10, podremos construir el intervalo 50 +/- 2x10 = (30 – 70). Como este intervalo se ha calculado multiplicando por 2 la DS, concluimos que la correcta es la 4."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Marca la asociación falsa respecto a las fases de un ensayo clínico:",
+      "opciones": [
+        "Fase I - Biodisponibilidad del fármaco",
+        "Fase II - Efecto dosis-respuesta",
+        "Fase III - Eficacia y efectos adversos frecuentes y tardíos",
+        "Fase IV - Efectividad y efectos adversos poco frecuentes y tardíos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La fase I de un ensayo clínico tiene por objetivo conocer la biodisponibilidad de un fármaco estudiando su farmacocinética y suele hacerse en individuos sanos. La fase II de un ensayo clínico tiene por objetivo conocer la dosis-respuesta del fármaco y suele hacerse en pacientes. La fase III de un ensayo clínico tiene por objetivo conocer la eficacia (resultados en condiciones ideales) y conocer los efectos adversos frecuentes y precoces (no se detectan los muy infrecuentes y los tardíos por tratarse de un grupo de pacientes no demasiado grande y por no realizarse un seguimiento demasiado largo) (respuesta 3 correcta). La fase IV de un ensayo clínico tiene por objetivo conocer la efectividad (resultados en condiciones reales) y todos los tipos de efectos adversos (precoces y tardíos; frecuentes e infrecuentes)."
+    }
+  ]
+}

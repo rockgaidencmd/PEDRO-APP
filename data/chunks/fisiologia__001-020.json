@@ -1,0 +1,491 @@
+{
+  "materia": "fisiologia",
+  "paginaInicio": 1,
+  "paginaFin": 20,
+  "anomalias": [
+    "p4: el enunciado pregunta por el potencial de acción de una célula nodal, pero el comentario abre hablando de 'las células marcapasos existentes en el ventrículo (por ejemplo, células de Purkinje)'",
+    "p19: el comentario desglosa el transporte de CO2 como bicarbonato (70%), disuelto (7%) y unido a Hb (20%), que suman 97% y no 100%"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cuál de los siguientes iones es el RESPONSABLE de la fase de despolarización del potencial de acción de una célula nodal?",
+      "opciones": [
+        "Canales rápidos de sodio dependientes de voltaje.",
+        "Canales lentos de sodio no dependientes de voltaje.",
+        "Canales lentos de calcio dependientes de voltaje.",
+        "Canales rápidos de potasio dependientes de voltaje."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta directa sobre las células marcapasos existentes en el ventrículo (por ejemplo, células de Purkinje). En las células marcapasos en general, el potencial de reposo es menos negativo que en las células musculares de trabajo (- 55 mV VS -90 mV) porque las membranas celulares son permeables naturalmente a cationes Na+ y Ca++ y estas cargas positivas neutralizan la negatividad intracelular. Con este potencial de membrana los canales rápidos de Na+, ya se encuentran inactivos. Son los canales lentos los que producen la despolarización celular (respuesta 3 correcta). Las demás opciones de respuesta son falsas."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Con respecto a la secreción ácida gástrica, es INCORRECTO que:",
+      "opciones": [
+        "La acetilcolina estimula la secreción ácida gástrica.",
+        "La histamina estimula la secreción ácida gástrica.",
+        "La enterogastrona estimula la secreción ácida gástrica.",
+        "La distensión gástrica estimula la secreción ácida gástrica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre la secreción ácida gástrica. Veamos las opciones de respuesta:\n\n1.- El sistema nervioso parasimpático, a través de la acetilcolina, estimula la actividad gastrointestinal.\n\n2.- La histamina es secretada por las células parecidas a enterocromafines, localizadas muy cerca de las células oxínticas, y ante estímulos como la gastrina, producen estímulo de las células parietales al actuar sobre receptores H2. Estimula la secreción gástrica.\n\n3.- La enterogastrona es un péptido formado del gen proglucagón, por lo que favorece la síntesis de glucagón en el páncreas, y la de GLP-1 y GLP-2 en el intestino (opción 3 incorrecta, por lo que la marcamos).\n\n4.- El aumento de volumen intragástrico produce distensión gástrica por actuación del parasimpático, que a su vez secreta ACH y favorecerá la secreción gástrica."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Uno de los objetivos más relevantes a la hora de utilizar la ecocardiografía es establecer el valor de la fracción de eyección del ventrículo izquierdo (FEVI) del paciente, que en situaciones fisiológicas se debe encontrar en torno a un 60-65%. La fracción de eyección se define como la proporción de volumen que el ventrículo es capaz de bombear del total que contiene en telediástole. Teniendo esto en cuenta, ¿A cuál de las siguientes fórmulas corresponde la definición de FEVI?:",
+      "opciones": [
+        "FEVI = (Volumen telesdiastólico - Volumen telesistólico) x 100/ Volumen telediastólico",
+        "FEVI = (Volumen diastólico - Volumen sistólico) x 100",
+        "FEVI = Volumen sistólico x Frecuencia cardiaca",
+        "FEVI = (Volumen telesistólico – Volumen telediastólico) x 100/ Volumen telesistólico"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Tal y como dice el enunciado, la FEVI representa el porcentaje o proporción de sangre que se bombea, de todo el volumen que contiene el ventrículo al final de la diástole o (volumen telediastólico).\n\nPor lo tanto, al volumen telediastólico (volumen maximo del corazon al final de la diastole) debemos restarle el volumen telesistólico (volumen que queda dentro del corazon despues de la sistole). Con esta resta obtenemos el volumen que se ha bombeado.\n\nPero debemos calcular la proporción con respecto a lo que había después de la diástole, por ello dividimos este cálculo entre el volumen telediastólico.\n\nAdemás, para obtener un resultado porcentual debemos multiplicarlo por 100."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "En un gran quemado, señale la respuesta falsa:",
+      "opciones": [
+        "Se produce un aumento del edema extracelular debido a la disminución de la presión oncótica del plasma.",
+        "Se produce un aumento de la cantidad de agua evaporada por la piel.",
+        "Es preferible el uso de drogas vasoactivas antes que la reposición hídrica.",
+        "Se deben utilizar sueros isotonicos (por ejemplo Ringer lactato) para la reposicion de fluidos en el gran quemado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La Respuesta 1 es verdadera. En un gran quemado, existe un shock distributivo, en el que el líquido se traslada al espacio extracelular. La R2 es verdadera, porque en los quemados, hay una pérdida de la capa cornificada de la piel (tiene abundante colesterol), y de este modo, se favorece la salida de líquido y su posterior evaporación.\n\nLa Respuesta 3 es falsa. El problema existente en un gran quemado es un shock distributivo. Lo primero que hay que administrar es soluciones isotónicas. Si no responde inicialmente a esto, se pueden usar drogas vasoactivas.\n\nLa Respuesta 4 es verdadera. Se debe intentar restituir el volumen extracelular. El uso de suero hipotónico favorecería la extravasación al espacio extracelular, por lo que no se debe usar. El uso de suero hipertónico, aunque podría hacernos pensar que favorecería el paso de líquido del espacio intersticial al vaso sanguíneo, realmente no es así, porque la membrana capilar está dañada. Además, el uso de hipertónico se ha relacionado con mayor morbimortalidad."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Acude a urgencias un varón de 55 años, con antecedentes de enfermedad pulmonar obstructiva crónica (EPOC) e hipertensión, sin hábito tabáquico actual, y toma diariamente enalapril. El paciente viene por una reagudización de su situación basal con una SatO2 del 89% y presentando uso de la musculatura accesoria. En esta situación podemos afirmar:",
+      "opciones": [
+        "El principal estimulo respiratorio en pacientes EPOC es la hipoxemia, y por tanto no se deberían dar fracciones altas inspiradas de oxígeno a estos pacientes.",
+        "El control involuntario de la respiración se ubica en la protuberancia.",
+        "Los estimulantes de la ventilación pueden ser el aumento del pH, la hipercapnia o el descenso de oxígeno.",
+        "El seno carotideo es muy sensible a los niveles de PaCO2 en sangre."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta correcta es el número 1, es cierto que en los pacientes EPOC presentan una retención crónica de CO2 y por tanto no es aconsejable emplear altas fracciones de oxígeno en estos pacientes, su centro bulbar donde se ubica el control involuntario (opción 2 falsa) ``se acostumbra´´ a trabajar con elevadas concentraciones de CO2 y se vuelve ''insensible'' a su incremento, entonces pasa a ser la hipoxemia el principal estímulo respiratorio.\n\nOtros factores que pueden estimular son el descenso del ph, la hipercapnia, el descenso de oxígeno o el aumento de la temperatura del LCR, siendo el más importante la hipercapnia. (opción 3 falsa). Y el seno carotideo es muy sensible a los descensos de la PaO2 (opción 4 falsa)"
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Un varón de 69 años y antecedentes de infarto agudo de miocardio y vasculopatía periférica acude a consulta. Nos explica que recientemente ha conocido a una mujer de su edad después de divorciarse hace unos años, pero ha notado problemas para conseguir una erección. Usted, que es un entendido en el tema, decide explicarle algunos conceptos sobre la erección al estudiante que le acompaña hoy en consulta. Señale cuál de las siguientes afirmaciones es VERDADERA:",
+      "opciones": [
+        "La respuesta sensorial que pone en marcha las respuestas reflejas de la erección se procesa a nivel de L2-L4.",
+        "Para la activación de la erección se debe inhibir el sistema parasimpático.",
+        "El mecanismo por el que se produce la erección es la vasoconstricción.",
+        "La erección no sexual se produce durante la fase REM del sueño."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta sexual de erección requiere una coordinación nerviosa precisa. Repasemos las distintas opciones de respuesta:\n\n1.- La inervación simpática procede de los segmentos medulares T1 a L3, mientras que la parasimpática procede de S2 a S4. Aun así, la inervación sensorial que pone en marcha las respuestas reflejas se integra a nivel de S2-S4, que es de dónde emerge la inervación motora.\n\n2.- Para que la erección sea posible, el sistema parasimpático debe participar activamente.\n\n3.- Es este sistema el que produce la respuesta de vasodilatación de los cuerpos cavernosos y esponjoso, que a su vez provoca la vasocongestión de las venas, dando lugar a la erección.\n\n4.- La erección no sexual se produce durante la fase REM del sueño (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "En el mecanismo de concentración de la orina, desempeña un importante papel una de las siguientes estructuras vasculares renales:",
+      "opciones": [
+        "Arteriola aferente.",
+        "Arteriola eferente.",
+        "Capilares peritubulares.",
+        "Vasos rectos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La vascularización intrarrenal podría sistematizarse de la siguiente manera: de las arterias interlobulillares parten las arteriolas aferentes. Después de éstas, está el ovillo capilar glomerular, y de éste parte la arteriola eferente, que después se ramifica originando los capilares peritubulares, de los que surgen los vasos rectos. Estos vasos rectos acompañan al asa de Henle de la nefrona, es decir, se hunden con ella hasta la papila, volviendo a subir hasta la corteza. Recuerda que el asa de Henle es la parte de la nefrona implicada en la concentración de la orina. El hecho de que los vasos rectos la acompañen no es casualidad, puesto que son necesarios para el correcto funcionamiento de ésta (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Señale cuál de los siguientes enunciados es verdadero con respecto a la relación ventilación/perfusión alveolar:",
+      "opciones": [
+        "Si la ventilación total es normal y el flujo sanguíneo pulmonar total también lo es, no es posible que exista insuficiencia respiratoria.",
+        "En los vértices pulmonares el cociente ventilación/perfusión es menor al del resto del pulmón.",
+        "En las bases pulmonares el cociente ventilación/perfusión es superior al del resto del pulmón.",
+        "Cuando el cociente ventilación/perfusión tiende a cero, las presiones parciales de oxígeno y de dióxido de carbono en el alveolo se igualan a los de la sangre."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta 1: FALSO: Si respiramos un ambiente sin FiO2 entraremos en insuficiencia respiratoria con una relación ventilación/perfusión perfecta\n\nRespuestas 2 y 3 FALSO: Están intercambiadas. Las porciones superiores tienen una V/Q mayor que el resto del pulmón, y las bases tienen una V/Q menor que el resto del pulmón en conjunto.\n\nLa 4 es cierta: si el alveolo no ventila (V/Q = 0) las presiones de oxigeno y CO2 en el alveolo tenderán a igualarse con las de la sangre (que por cierto implicaría que el O2 baja y el CO2 subiría poco a poco por los procesos metabólico)."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de las siguientes sustancias está implicada en la transmisión del estímulo doloroso?",
+      "opciones": [
+        "La sustancia P",
+        "La encefalina.",
+        "El neuropéptido Y.",
+        "La estimulina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta correcta es la 1. La sustancia P está implicada en la transmisión del dolor. El resto de respuestas son falsas."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Es usted residente de primer año y se encuentra en una de sus primeras guardias de puertas de urgencia. La jornada transcurre milagrosamente calmada y es capaz de desenvolverse adecuadamente gracias a los cursos de introducción de su hospital, sin embargo en un momento dado acude a usted un compañero residente con una gasometría en la mano, está muy nervioso puesto que no recuerda con precisión los valores de normalidad y le pide ayuda. La gasometría dice lo siguiente; pH 7.15 HCO3 12 mEq PCO2 40 mmHg. Sin tener más datos del paciente ¿Cómo la interpretaría?",
+      "opciones": [
+        "Acidosis respiratoria",
+        "Alcalosis metabólica",
+        "Acidosis mixta",
+        "Acidosis metabólica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La gasometría detecta una acidosis clara (pH < 7.35) en este caso metabólica ya que el HCO3 es muy bajo, sin embargo hay que detectar que el pulmón no está compensando (PCO2 40) por lo que se considera un trastorno mixto. Acidosis mixta (respuesta correcta)"
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Señale la respuesta ERRONEA en cuanto a la correlación clínica de las alteraciones de la función de los vasos pulmonares:",
+      "opciones": [
+        "La disminución del área transversal del lecho vascular pulmonar es el principal responsable del aumento de la resistencia vascular pulmonar en las enfermedades que afectan directamente a esta circulación.",
+        "En la hipertensión pulmonar primaria, la presión media de la arteria pulmonar es desproporcionada para el flujo y la resistencia vascular.",
+        "La presión vascular pulmonar media aumenta sólo ligeramente cuando aumenta el gasto cardíaco, gracias a la disminución de la resistencia vascular.",
+        "En la embolia pulmonar, la tensión arterial pulmonar aumenta por disminución del área transversal pulmonar."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En la hipertensión pulmonar primaria, la presión de la arteria pulmonar es desproporcionada para el flujo, pero proporcionada para las resistencias vasculares. Respuesta 2 incorrecta."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Cuando aumenta la frecuencia cardiaca, la fase del ciclo cardiaco cuya duración se reduce proporcionalmente MÁS es la:",
+      "opciones": [
+        "Fase de sístole auricular.",
+        "Fase de sístole isovolumétrica.",
+        "Fase de llenado rápido.",
+        "Fase de llenado lento o diástasis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta difícil sobre el ciclo cardiaco, y específicamente sobre uno de sus temas estrellas, la diástole. Es necesario conocer que en caso de taquicardia o isquemia, se acorta más y antes la diástole que la sístole, por lo que la opción 2 es incorrecta. A partir de aquí, y aquí reside la dificultad, el resto de opciones son las 3 fases de la diástole (llenado rápido, lento y contracción auricular). De estas 3, y tiene sentido fisiológico dado que es la etapa de “estasis” auricular en la que no “ocurre nada”, es la fase de llenado lento la que más se acorta en caso de taquicardia, por lo que la opción correcta es la 4."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "El ser humano NO puede:",
+      "opciones": [
+        "Convertir glucosa en lactato.",
+        "Transformar hidratos de carbono en ácidos. Grasos.",
+        "Transformar ácidos grasos en hidratos de carbono.",
+        "Convertir piruvato en glucosa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta complicada al hacer referencia a aspectos de fisiología. Durante la actividad muscular intensa con aumento del metabolismo anaerobio se producen grandes cantidades de lactato que a nivel hepático puede ser transformado de nuevo en glucosa. El ser humano es capaz de sintetizar ácidos grasos a partir de hidratos de carbono ya que se trata de la molécula de almacenamiento de energía más eficiente. Sin embargo, aunque los animales pueden sintetizar hidratos de carbono a partir de la porción glicerol de los triglicéridos no pueden hacerlo a partir de los ácidos grasos (opción 3, falsa). La neoglucogénesis permite la síntesis de glucosa a partir de precursores no glucídicos como el piruvato, lactato, aminoácidos o el glicerol antes comentado."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Mujer de 83 años, asintomática, con IMC de 35 y vida sedentaria, a la que el médico le pide una analítica sanguínea en la que descubre una HbA1c de 8. Tras una segunda analítica se confirma que padece diabetes tipo 2. Inicialmente es tratada con metformina, pero ante la persistencia de valores muy elevados de HbA1c, el facultativo decide añadir un segundo antidiabético oral, en este caso una sulfonilurea. ¿Cuál es el mecanismo de acción de las sulfonilureas?",
+      "opciones": [
+        "Activación de los canales GLUT 2.",
+        "Inhibición del DPP-IV.",
+        "Bloqueo de los canales de K+.",
+        "Aumento vida media GLP-1."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre las sulfonilureas. Veamos las opciones de respuesta:\n\n1.- Los canales GLUT 2 son transportadores que están continuamente abiertos y no son modificables.\n\n2 y 4.- La inhibición del DPP-IV (que conlleva el aumento de la vida media del GLP-1) es el mecanismo de acción de las gliptinas.\n\n3.- Las sulfonilureas actúan bloqueando los canales de K+, haciendo que se positivice el potencial de membrana, provocando la despolarización esta; esto abre los canales de calcio voltaje dependientes, aumentando el calcio intracelular, favoreciendo la excreción de insulina (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Si 100 gramos de huevo cocido tienen 11 gramos de grasa, 1.1 gramos de hidratos de carbono y 13 gramos de proteínas. ¿Cuántas kcalorías supone aproximadamente para el organismo el metabolismo de 200 gramos de huevo cocido?",
+      "opciones": [
+        "155 kcal.",
+        "310 kcal.",
+        "275 kcal.",
+        "105 kcal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es la 2.\n\n11 gramos de grasa x 9 = 99; 1.1 gramos de hidratos de carbono x 4 = 4.4; y 13 gramos de proteínas x 4= 52. En total 155 kcal en 100 gramos de huevo cocido. En 200 gramos de huevo cocido, habrá unas 310 kcal."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿Cuál de las siguientes opciones es incorrecta?",
+      "opciones": [
+        "La angiotensina II actúa principalmente en la arteriola aferente.",
+        "La adrenalina tiene un papel broncodilatador en la vía aérea y puede producir vasoconstricción arteriolar, pero no juega un papel importante a nivel renal.",
+        "La bradicinina tiene un efecto vasodilatador en el aparato circulatorio.",
+        "La angiotensina II aumenta la reabsorción de todos los solutos a nivel del túbulo proximal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La opción que debemos señalar como incorrecta en esta pregunta es la numero 1, ya que la angiotensina II es un vasoconstrictor que en situaciones fisiológicas, y sobretodo de hipovolemia, actúa fundamentalmente en la arteriola eferente, produciendo vasoconstricción de la misma, y no en la arteriola aferente como se indica en la respuesta de la pregunta.\n\nEl resto de opciones son correctas. Recordar que en el túbulo proximal recibe 180L de ultrafiltrado al día, y debe reabsorberse alrededor del 60-80% del mismo. La reabsorción de soluto puede verse favorecida por la acción de la angiotensina II."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "En el riñón, la glucosa es reabsorbida por:",
+      "opciones": [
+        "Cápsula de Bowman.",
+        "Tubos colectores.",
+        "Túbulo contorneado proximal.",
+        "Cálices."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta bastante sencilla sobre fisiología tubular. Debes conocer para qué sirve cada parte de la nefrona, lo que te simplificará el estudio de las enfermedades del riñón, ahorrándote tiempo y memoria. Del túbulo proximal, debes saber que reabsorbe la mayor parte de lo que filtra el glomérulo (casi el 90% del filtrado) y da lugar a un líquido tubular isoosmótico respecto al plasma. El túbulo proximal reabsorbe el 100% del calcio, fósforo, aminoácidos y ácido úrico filtrados. También se encarga de reabsorber la mayor parte de la glucosa filtrada, apareciendo glucosuria cuando la concentración de ésta es tal que satura el transportador (opción 3 correcta). Recuerda que la reabsorción de la glucosa en el túbulo contorneado proximal es un proceso pasivo, acoplado al sodio (región apical de las células tubulares) o mediante un sistema exclusivo para la glucosa (membrana basolateral de las células)."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "¿Cuál de los siguientes factores DISMINUYE la síntesis de aldosterona?:",
+      "opciones": [
+        "ACTH.",
+        "PAN.",
+        "Beta-endorfina.",
+        "Serotonina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta básica acerca de la fisiología del sistema renina- angiotensina- aldosterona, en concreto acerca de la regulación de la síntesis de aldosterona. Recordemos que la aldosterona es una hormona que actúa a nivel del túbulo colector de la nefrona, con un papel fundamental en el metabolismo del potasio y en el volumen de agua corporal. Esta hormona determina la reabsorción del sodio filtrado (arrastra siempre agua) y la eliminación renal de potasio. Es producida por la corteza suprarrenal (en concreto por la pars glomerulosa) y está sometida igual que el resto de las regiones de ésta a la regulación por ACTH (aunque no es el principal estímulo, sino que el mayor estimulante de la síntesis de aldosterona es la angiotensina II). La regulación por los niveles de potasio extracelular representa un mecanismo de feedback, tan comunes en endocrinología: cuando aumenta el potasio, aumenta la síntesis de aldosterona y de esta manera aumenta la eliminación de potasio en la orina y se tiende al restablecimiento de la homeostasis. Lo más interesante de esta pregunta tiene que ver con los péptidos natriuréticos (PAN y BNP) que están muy de moda ahora. Estos péptidos se producen a nivel de la aurícula (Peptido atrial natriuretico o PAN) y del ventrículo (BNP) en las situaciones de sobrecarga de presión, prototipo la insuficiencia cardíaca. En estas situaciones se ponen en marcha también otros mecanismos compensatorios (SRAA, sistema simpático) que a la larga tienen un efecto deletéreo sobre la función cardíaca. Los péptidos natriuréticos antagonizan algunas de las acciones del sistema renina- angiotensina- aldosterona y además disminuyen la síntesis de aldosterona. Su importancia estriba en que pueden servir para el diagnóstico de la insuficiencia cardíaca (paciente con disnea), tienen valor pronóstico y sirven para el seguimiento y la evaluación de la respuesta al tratamiento de los pacientes con IC. El memorizar el efecto de las endorfinas y de la serotonina sobre la aldosterona tiene mucha menos importancia."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Los PRINCIPALES combustibles del cerebro en caso de ayuno prolongado son:",
+      "opciones": [
+        "Los aminoácidos procedentes del hígado.",
+        "Los cuerpos cetónicos procedentes del músculo.",
+        "Los ácidos grasos procedentes del tejido adiposo.",
+        "Los cuerpos cetónicos procedentes del hígado."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta complicada al hacer referencia a aspectos de fisiología. Durante el ayuno prolongado y ante el déficit de glucosa, el cerebro utiliza como combustible los cuerpos cetónicos producidos por el hígado."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cuál de los siguientes factores hormonales FAVORECE la lipolisis?",
+      "opciones": [
+        "Hiposecreción de glucagón.",
+        "Hiposecreción de hormonas tiroideas.",
+        "Hipersecreción de insulina.",
+        "Hipersecreción de adrenalina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La única opción de respuesta que favorece la lipolisis es la secreción de adrenalina (R4 V) (respuesta 4 correcta). Dentro del grupo de hormonas contrarreguladoras, al igual que el cortisol, favorece la lipolisis para generar energía. La hipersecreción de insulina e hiposecreción de glucagón favorecen la lipogénesis (no la lipolisis). La hipersecreción de hormonas tiroideas también favorece la lipolisis de manera indirecta (aumenta el metabolismo corporal)."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "En el sistema de conducción y excitación cardíaca, señalar la cierta:",
+      "opciones": [
+        "El nodo auriculoventricular genera el impulso rítmico de contracción.",
+        "Las fibras internodales conducen el impulso del nodo sinusal al AV.",
+        "El nodo sinoauricular se encuentra en la parte superior de la aurícula izquierda.",
+        "El retraso en la transmisión del impulso de las aurículas al ventrículo se produce en las vías internodales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta muy básica acerca del sistema de excitación- conducción del corazón. Está constituído por el nodo sinusal y el AV, el primero genera en condiciones normales el estímulo cardíaco y el segundo es el responsable del retraso del estímulo permitiendo el correcto acoplamiento mecánico entre aurículas y ventrículos (opciones 1 y 4 incorrectas). El nodo sinusal está situado en la parte superior de la aurícula derecha, así la despolarización auricular se produce de derecha a izquierda y de arriba abajo. Esto se traduce en una onda P que será positiva en cara inferior (derivaciones II, III y aVF puesto que el vector se aproxima). Las fibras de Purkinje representan la parte terminal del sistema y salen de las ramas del Haz de His, conectando con el miocardio."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "El reflejo corneal tiene gran relevancia en la exploración neurológica, especialmente en pacientes en coma o en pacientes con sospecha de lesión troncoencefálica. Para poder interpretarlo es necesario entender bien su fisiología. Con respecto al reflejo corneal, señale la afirmación CORRECTA:",
+      "opciones": [
+        "En un individuo sano, al estimular la córnea del ojo derecho se produce la contracción palpebral solo la contracción palpebral derecha.",
+        "La vía aferente viaja por la rama V1 del trigémino, y a vía eferente viaja por el III par craneal.",
+        "En un individuo con una lesión en el V par craneal derecho, al estimular el V par craneal izquierdo se producirá cierre de parpado bilateral.",
+        "Es un reflejo monosináptico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El reflejo corneal tiene su localización topográfica en el puente, porque interactúa el V par craneal y el VII par craneal. La vía V1 es la aferente, y hace sinapsis en el ganglio del trigémino. De ahí surge una nueva neurona que actúa sobre el facial ipsilateral y también sobre el contralateral, que serán los que se encarguen de la vía efectora. Por lo tanto es un reflejo polisináptico, directo y consensual (respuesta 3 correcta). La vía aferente es V1 y la eferente es VII. El hecho de que sea consensuado quiere decir que en un individuo sano, al estimular una córnea se produce la contracción palpebral (orbicular de los ojos) bilateral. En cambio, si estimulamos sobre el lado donde está lesionado el V par craneal no habrá reflejo ni directo ni consensuado. Se contrae el orbicular de los ojos, inervado por el facial. El III par craneal inerva el elevador del párpado superior."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "En relación a la digestión cuál de las siguientes opciones es incorrecta:",
+      "opciones": [
+        "Los hidratos de carbono son absorbidos como monosacáridos.",
+        "Las proteínas son digeridas en péptidos pequeños y aminoácidos.",
+        "Algunos péptidos más grandes pueden ser absorbidos intactos.",
+        "La mayor parte del líquido es absorbida en el intestino grueso."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Aproximadamente un 80% del agua que ingresa en el tracto gastrointestinal es absorbida por el intestino delgado, mientras que un 20% es absorbida por el intestino grueso. Por lo tanto, respuesta numero 4 incorrecta."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "En relación con los efectos fisiológicos de la histamina, señale la respuesta incorrecta:",
+      "opciones": [
+        "A nivel pulmonar produce broncodilatación.",
+        "Interviene en la regulación de los ritmos circadianos.",
+        "A nivel endotelial produce separación y contracción celular.",
+        "A nivel gástrico aumenta la secreción ácida."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta que si te dejas llevar por técnica de examen y eliges la opción que parece más distinta por cómo está redactada (la 2) fallarías.\n\nA nivel pulmonar la histamina produce broncoconstricción, y síntomas parecidos al asma. Asocia la histamina, con alergia, y esta con hiperreactividad bronquial y asma.\n\nGeneralmente la histamina actúa sobre los receptores tipo H1 provocando efectos como broncoconstricción, eritema por alteraciones en el músculo liso (venodilatación postcapilar, venoconstricción y dilatación de arteriolas terminales), contracción del endotelio y aumento de la sensibilización de aferencias nerviosas implicadas en el dolor.\n\nLos receptores tipo H2 median efectos en el aumento de la secereción ácida del estómago y ligero aumento de la frecuencia cardiaca y contractilidad.\n\nLos receptores H3 actúan como neurotransmisor a nivel del sistema nervioso central, estando implicado en el funcionamiento de los ritmos circadianos y en el estado de consciencia."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "La orina puede ser negra en:",
+      "opciones": [
+        "Pacientes tratados con rifampicina.",
+        "Pacientes con melanoma.",
+        "Porfirias.",
+        "Ictericia obstructiva."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es al mismo tiempo curiosa y difícil. La emisión de orina negra, o melanuria, es una rara pero posible complicación del melanoma, especialmente en pacientes con metástasis de este tumor en la mucosa urinaria (opción 2 correcta). Fíjate bien que la pregunta dice \"orina negra\". El término \"melanuria\" se refiere a la emisión de una orina del color del alquitrán, no simplemente oscura. Podría ser oscura en casos de porfiria, mioglobinuria o ictericia obstructiva, pero no negra. En el caso de los pacientes que toman rifampicina, las lágrimas y otros fluidos corporales, como la orina, pueden aparecer de color naranja."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "En relación a la circulación pulmonar, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "La hipoxia produce vasodilatación en los vasos pulmonares a nivel local.",
+        "La pared de los capilares y arterias pulmonares es más fina que los de la circulación sistémica.",
+        "La presión hidrostática es la causante de que la perfusión en las bases pulmonares sea mayor que en los vértices pulmonares.",
+        "En el ejercicio intenso, se aumenta el número de capilares pulmonares “abiertos”."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta 1 es falsa. La hipoxia a nivel de la circulación pulmonar produce vasoconstricción (a diferencia de la vasodilatación local que acontece en respuesta a la hipoxemia tisular). La sustancia que produce vasoconstricción en la circulación pulmonar no es del todo conocida. El objetivo de producir vasoconstricción en los capilares que irrigan alveolos mal ventilados, es redirigir la sangre a aquellos alveolos mejor perfundidos.\n\nLa respuesta 2 es verdadera. Como tienen una presión arterial media menor que la sistémica, la trofia del ventrículo derecho y el grosor de la pared es menor si lo comparamos con la circulación sistémica.\n\nLa respuesta 3 es verdadera. La propia presión hidrostática, por la gravedad, provoca que la presión arterial medida en el pie pueda ser distinta a la del brazo, si el individuo está en bipedestación. La misma explicación sirve para la circulación pulmonar, siendo mayor en bases que en vértices si está en bipedestación el individuo.\n\nLa opción 4 es verdadera. En el ejercicio intenso, se producen una serie de mecanismos para aumentar el flujo sanguíneo pulmonar. Uno de ellos, es “reclutar” aquellos capilares que no estaban funcionando en reposo. Otro es dilatar los capilares pulmonares, para así producir un aumento de lflujo sanguíneo pulmonar."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Una de las siguientes enzimas constituye un punto de control en la ruta anaeróbica de la degradación de la glucosa:",
+      "opciones": [
+        "Glucógeno sintetasa.",
+        "Citrato sintetasa.",
+        "Fosfofructoquinasa.",
+        "Citocromo-oxidasa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las dos primeras son enzimas que participan en la síntesis (sintetasas) y no en la degradación de la glucosa. La última es un citocromo que tampoco participa en la degradación de la glucosa."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Con respecto a la tripsina, es FALSO que:",
+      "opciones": [
+        "Se encuentra en los gránulos de zimógeno de las células acinares en forma de proenzima.",
+        "Es capaz de autocatalizar la activación del tripsinógeno.",
+        "Al actuar sobre el quimo libera aminoácidos.",
+        "Para la hidrólisis de la caseína, su pH óptimo es de 8 a 9."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy difícil sobre fisiología pancreática. No te preocupes si la has fallado. La tripsina es una endopeptidasa, es decir, actúa sobre las regiones más o menos centrales de los péptidos; por lo tanto, su acción libera otros péptidos más pequeños, pero no aminoácidos (esto lo harían las exopeptidasas, como la carboxipeptidasa o la aminopeptidasa) (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Respecto de la vitamina B12, ¿qué opción considera correcta?",
+      "opciones": [
+        "Su principal fuente para el organismo es la ingesta de frutas y verduras.",
+        "Sus depósitos se localizan en el hígado.",
+        "Se conjuga en el íleon con el factor intrínseco.",
+        "Su déficit conduce a reducción de los niveles de homocisteína en plasma."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La única fuente alimentaria de la vitamina B12 son los productos de origen animal: carne y productos lácteos. Durante la digestión gástrica, la vitamina B12 forma un complejo estable con un factor de unión llamado R. Al llegar al duodeno, el complejo vitamina B12-R se digiere y la vitamina B12 se une al factor intrínseco (FI) producido por las células parietales gástricas. El complejo vitamina B12-FI llega hasta el ileon terminal donde se produce la absorción de la vitamina B12. El hígado almacena un cantidad importante de vitamina B12 por lo que serían necesarios de 3 a 6 años para que una persona normal presentara una carencia de vitamina B12 si la absorción se interrumpiera de manera súbita. Al igual que en la carencia de folatos, los niveles de homocisteína están elevado en el déficit de vitamina B12, y las concentraciones plasmáticas altas de homocisteína parecen ser un factor de riesgo para la trombosis arterial y venosa."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuál de los siguientes sistemas neurohormonales que están activados en pacientes con insuficiencia cardíaca, NO aumenta las resistencias vasculares sistémicas?",
+      "opciones": [
+        "Péptidos natriuréticos.",
+        "Hormona antidiuretica.",
+        "Actividad adrenérgica.",
+        "Aldosterona."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los Péptidos natriuréticos disminuyen las resistencias vasculares sistémicas al producir vasodilatación, el resto produce aumento de las resistencias vasculares sistémicas."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Qué isoenzima de la 11-beta-hidroxiesteroide-deshidrogenasa transforma la cortisona en cortisol?",
+      "opciones": [
+        "Tipo 1 (11-beta-HDS-1).",
+        "Tipo 2 (11-beta-HDS-2).",
+        "Tipo 3 (11-beta-HDS-3).",
+        "Tipo 4 (11-beta-HDS-4)."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta compleja. El cortisol es metabolizado fundamentalmente en el hígado por la 11-beta-hidroxiesteroide-deshidrogenasa. Existen 2 isoenzimas:\n\n1) Tipo 1 (11-beta-HDS-1): transforma la cortisona en cortisol (expresada principalmente en el hígado, confiere bioactividad a la cortisona administrada vía oral - respuesta 1 correcta -).\n\n2) Tipo 2 (11-beta-HDS-2): convierte el cortisol en el metabolito inactivo cortisona."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "¿Cuál de los siguientes neurotransmisores tiene una acción exclusivamente excitadora en el sistema nervioso central?",
+      "opciones": [
+        "Glicina",
+        "GABA (ácido gamma-aminobutírico)",
+        "Ácido aspártico.",
+        "Serotonina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es la 3. La glicina actúa como inhibidor en la médula espinal. El GABA es el nt inhibidor por excelencia. La serotonina tiene función inhibidora del dolor en la médula espinal."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "¿Cuál es la sustancia que difunde en mayor cuantía a través de la membrana celular?",
+      "opciones": [
+        "Sodio",
+        "H20",
+        "Potasio",
+        "Calcio"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es la 2. Si bien es cierto que el H20 es una molécula polar, y por ello tendría dificultad para pasar entre la bicapa lipídica, su tamaño es muy pequeño, y gracias a proteínas llamadas acuaporinas, puede pasar de un lado a otro de la membrana celular. Es decir, la membrana celular presenta una “permeabilidad selectiva”. El mecanismo por el cual se mueve el agua de un lado a otro de la membrana celular se denomina ósmosis. (Difusión neta de agua a través de una membrana con permeabilidad selectiva desde una región con una concentración alta de agua a otra que tiene una concentración baja)."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Hombre de 53 años que refiere dolor y opresión en región torácica desde hace aproximadamente 20 minutos por lo que decide acudir a urgencias. Presenta cortejo vegetativo. Debemos realizar lo antes posible un electrocardiograma para descartar cardiopatía isquémica. Cuando un paciente presenta una lesión miocárdica, se produce en algún momento evolutivo una disminución del volumen minuto que activará una serie de mecanismos para mantener la perfusión tisular, esencial para los órganos vitales. Los mecanismos adaptativos se dividen en intrínsecos, periféricos y neurohormonales. Dentro de los mecanismos neurohormonales el péptido natriurético auricular (PAN) tiene un papel importante. Señalar la respuesta FALSA:",
+      "opciones": [
+        "Esta familia de péptidos (que también se producen a nivel cerebral) tiene una acción vasoconstrictora y natriurética, como su nombre indica.",
+        "Estos péptidos natriuréticos los libera el miocardio cuando se produce algún grado de distensión auricular detectado por los mecanorreceptores.",
+        "Estos péptidos al potenciar la diuresis, disminuyen la volemia y la distensión auricular, para compensar la situación.",
+        "Los niveles de péptido natriurético pueden tener un valor pronóstico, y se considerarían un buen marcador de gravedad del cuadro clínico de la insuficiencia cardiaca"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta familia de péptidos (que también se producen a nivel cerebral) tienen una acción VASODILATADORA (NO vasoconstrictora) y natriurética, como su nombre indica.\n\nEl resto de opciones describen información verdadera e importante sobre esta familia de péptidos que comprenden uno de los mecanismos adaptativos fundamentales ante una lesion miocárdica."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Sobre el equilibrio ácido-base, una de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "La generación del bicarbonato adicional, para restituir el consumo en amortiguar la producción diaria de ácidos no volátiles, se realiza en el túbulo distal.",
+        "La alcalinización de la orina por el riñón consiste en disminuir la producción de acidez titulable.",
+        "En términos cuantitativos, la secreción de hidrogeniones por el túbulo distal es muy inferior a la del túbulo proximal.",
+        "El sistema bicarbonato/ácido carbónico contribuye a reducir la tendencia a la acidificación, del pH de la sangre."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El concepto de acidez titulable denota la cantidad de álcali que habría que añadir a la orina hasta hacer que alcance el pH plasmático. El principal componente de los ácidos titulables en orina es el ácido fosfórico. Cuando el riñón alcaliniza la orina, siguen produciéndose en la misma medida; lo que ocurre es que se elimina más bicarbonato por la orina (opción 2 falsa). La excreción de acidez titulable es una aproximación a la cantidad de bicarbonato regenerado como resultado de una reducción del pH urinario por debajo del plasmático. Desde el punto de vista clínico, tiene su utilidad en el diagnóstico diferencial de las tubulopatías. Así, la acidez titulable está aumentada en las acidosis metabólicas, mientras que estaría disminuida en las alcalosis metabólicas y en la acidosis tubular renal. El resto de las opciones (1, 3, 4, ) son correctas y hacen referencia a conceptos más asequibles. De todas formas, la pregunta era difícil. No te preocupes si la fallaste."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Sobre la fisiología del sistema noradrenérgico en el sistema nervioso central, señale la respuesta incorrecta:",
+      "opciones": [
+        "Está implicado en el sistema de alerta y vigilancia, dirigido a mantener procesos de atención.",
+        "Interviene en la regulación de los procesos de alimentación (como el hambre y la saciedad).",
+        "Las proyecciones de este sistema están bien definidas y localizadas en pocas zonas cerebrales.",
+        "Actúa junto con otros sistemas (como el colinérgico y el serotoninérgico) en la fisiología cognitiva normal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que seguramente te parezca rarísima, y efectivamente lo es ya que se trata de un tema poco frecuente como es la neurofisiología.\n\nLas proyecciones de este sistema son difusas por TODO el cerebro. Se han encontrado multitud de efectos fisiológicos, lo que contrasta con la escasez de aplicaciones farmacológicas. Precisamente que sea tan difuso explica que esté relacionado con la atención, que implica una gran cantidad de sistemas funcionando a la vez (visión, planificación…)\n\nLa 4 también es correcta, ya que los distintos neurotransmisores y sus sistemas actúan de manera coordinada."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "En relación al transporte de O2 y CO2 por la sangre, responda la respuesta incorrecta:",
+      "opciones": [
+        "La acidosis, la hipercapnia, la hipertermia y el aumento del 2,3 DPG eritrocitario desplazan la curva de Saturación de la hemoglobina hacia la derecha.",
+        "Existe un pequeño porcentaje de O2 que se transporta disuelto en la sangre.",
+        "La mayor parte del CO2 es transportado unido a la Hemoglobina, como compuesto carbamino.",
+        "El efecto Root implica que una disminución del pH disminuye la capacidad de transporte del oxígeno por la hemoglobina aunque la presión de oxígeno arterial sea muy alta."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción 1 es verdadera.\n\nLa opción 2 es verdadera. 97% del oxígeno es transportado unido a la hemoglobina, y sólo 3% disuelto en la sangre.\n\nLa respuesta 3 es falsa. La mayor parte del CO2 es transportado como ion bicarbonato (70%). Otras formas de transporte de CO2 por la sangre son: disuelto (7%), unido a Hb (20%).\n\nLa opción 4 es verdadera. El efecto Root no ocurre en humanos. Ocurre en algunos animales, como las anguilas, que tienen unos pigmentos respiratorios distintos a los humanos."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "La difusión de los gases a través de la membrana alveolocapilar se explora mediante:",
+      "opciones": [
+        "Monóxido de carbono.",
+        "Gases inertes múltiples.",
+        "Espirometría.",
+        "Gammagrafía de ventilación."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La difusión de los gases a través de la membrana alveolocapilar se explora con monóxido de carbono, CO (esta prueba es la famosa DLCO). Se inspira una pequeña cantidad conocida de CO mezclada con aire, se mantiene unos segundos en los pulmones y se mide cuánto CO queda en el aire espirado. Lo que \"falta\" respecto a la cantidad que se inspiró habrá difundido a través de la membrana alveolocapilar. La DLCO está característicamente disminuida en enfermedades como el enfisema y la fibrosis pulmonar idiopática. En cambio, estaría aumentada en una hemorragia alveolar, puesto que la sangre estaría en contacto directo con el aire inspirado, con lo que el intercambio sería más fácil que si tuviera que atravesar la membrana alveolocapilar."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "El método de Fowler para la medición del espacio muerto anatómico requiere un analizador rápido de las concentraciones de:",
+      "opciones": [
+        "Vapor de agua.",
+        "Nitrógeno.",
+        "Helio.",
+        "CO."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta de importante dificultad que no se presta a posible razonamiento si no se sabe. No tiene importancia que la falles. Vamos a aprovechar la ocasión para recordarte algunas técnicas para el estudio del aparato respiratorio. De todas formas, basta que leas el comentario; no pierdas tiempo en esta pregunta y dedícate a temas más preguntados. Como dice la pregunta, el método de Fowler, basado en el nitrógeno, mide el espacio muerto anatómico (opción 2 correcta). Por el contrario, si quisieras medir el espacio muerto fisiológico, utilizarías la ecuación de Bohr. La DLCO sirve para estudiar la difusión a través de la membrana alveolocapilar. La oscilometría es lo que se utilizaría para medir las resistencias de la vía aérea. Para la medida de la mayoría de los volúmenes estáticos, basta la espirometría, salvo en el caso del volumen residual, que puede estudiarse mediante pletismografía corporal o, menos preciso, por técnicas de dilución de helio."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "En cuanto a la fisiología del ciclo cardíaco, señale la respuesta que considere INCORRECTA:",
+      "opciones": [
+        "El primer tono se debe al cierre de la válvulas aurículo-ventriculares, es el comienzo de la sístole.",
+        "El segundo tono es debido al cierre de las válvulas sigmoideas, es el comienzo de la diástole.",
+        "El llenado ventricular tiene una fase rápida y una fase lenta, finalizando con la contracción auricular.",
+        "El cuarto tono se considera patológico y suele aparecer cuando el paciente está en FA."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad baja. El primer tono se debe al cierre de las válvulas mitral y tricúspide; el segundo tono es debido al cierre de las válvulas aórtica y pulmonar. Salvo que exista patología, siempre se cierran en el orden expuesto (un truco es pensar que se cierran en orden alfabético: primero mitral y después tricúspide; primero aórtica y después pulmonar).\n\nComo bien dice la opción 3, el llenado ventricular tiene una fase rápida, una fase lenta y la contracción auricular. Durante la fase de llenado rápido puede aparecer un tercer tono que no tiene porque ser patológico (puede aparecer en situaciones de elevado gasto cardiaco). El cuarto tono siempre es patológico, suele aparecer en la miocardiopatía hipertrófica obstructiva (MHO). PERO NUNCA APARECE EN FA ya que es la expresión de la contracción auricular contra un ventrículo rígido, es decir, para que aparezca un cuarto tono es indispensable que exista la contracción auricular, que estará ausente en la FA."
+    }
+  ]
+}

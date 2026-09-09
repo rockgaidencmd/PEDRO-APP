@@ -1,0 +1,530 @@
+{
+  "materia": "digestivo",
+  "paginaInicio": 20,
+  "paginaFin": 38,
+  "anomalias": [
+    "p28: 'El test de la D-xilosa alterado indica' tiene Resp. Correcta: 1, pero el comentario (que continúa en p29) afirma '(respuesta 2 correcta)'; se respeta el 1 de la clave.",
+    "p31: la explicación de las causas de pancreatitis aguda es un listado con guiones que se ha linealizado en líneas separadas dentro del mismo párrafo.",
+    "p36: en la pregunta de Natalia la cuarta opción aparece numerada dos veces en el original ('4. 4. Es frecuente la pérdida de peso...'); se transcribe el texto tal cual, con el '4.' sobrante.",
+    "p25: en la explicación de la anemia ferropénica el original perdió los espacios alrededor del texto en cursiva: 'al serH. pyloripositivo' (por 'al ser H. pylori positivo'); se transcribe tal cual.",
+    "p28: en el enunciado del cirrótico el sodio figura como 'Na 121 mEq/1' (uno en lugar de ele) por errata del original."
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Cuál de estos fármacos se utiliza en el tratamiento de mantenimiento de la colitis ulcerosa?:",
+      "opciones": [
+        "Omeprazol.",
+        "Anti-H2.",
+        "Metronidazol.",
+        "Sulfasalazina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una pregunta directa. En el tratamiento de mantenimiento de la colitis ulcerosa, se emplean los 5'ASA (sulfasalazina). No se utilizarían como tratamiento de mantenimiento (sólo para los brotes), los glucocorticoides, debido a los importantes efectos secundarios de estos fármcos si se emplean de forma prolongada. El metronidazol queda reservado para los casos de enfermedad de Crohn con afectación fistulosa perianal. El Omeprazol y los Anti-H2 no forman parte del tratamientro de mantenimiento de la colitis ulcerosa."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Varón de 22 años, con relaciones sexuales con otros hombres de riesgo, acude por astenia e ictericia. En la exploración física únicamente destacaba ligera hepatomegalia y abdomen globuloso. La analítica realizada mostraba los siguientes resultados: Hb 14.5 g/dl, leucocitos 7400/mm3, plaquetas 258.000/mm3, glucosa 102 mg/dl, urea 46 mg/dl, creatinina 0.6 mg/dl, GOT 160 U/L, GPT 285 U/L, GGT 200 U/L, bilirrubina total 3.1 mg/dl, fosfatasa alcalina 55 U/L, LDH 160 U/L, anti-VHA IgM -, anti-VHA IgG +, AgHBs +, antiHBs -, antiHBc +, AgHBe +, antiHBe -, DNA-VHB 1100 UI/ml, Ag-VHD -, Ac-VHC -, RNA-VHC indetectable. Señale a cuál de las siguientes actitudes sería más correcta:",
+      "opciones": [
+        "Remitir a un centro trasplantador dado que posiblemente se instaure un fallo hepático agudo.",
+        "Iniciar tratamiento con Entecavir oral.",
+        "Iniciar tratamiento con Interferón pegilado.",
+        "Vigilancia analítica cada 6 meses."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El paciente no presenta hepatitis C dado que los anticuerpos y el RNA son negativos. La serología de VHA corresponde a una hepatitis A pasada. Dado que presenta antígeno de superficie positivo y anticore positivo de tipo IgG, puede considerarse una hepatitis crónica B. El Antígeno-e y el DNA son positivos, lo que corresponde a una hepatitis crónica B por cepa salvaje replicativa. Dado que las transaminasas están elevadas más de 2 veces lo normal estaría indicado tratamiento, siendo el más adecuado en la cepa salvaje intentarlo con Interferón pegilado salvo que tenga otros factores de riesgo claramente de mal pronóstico de respuesta."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Una de las siguientes afirmaciones es FALSA respecto a la gastritis crónica A. Señálela:",
+      "opciones": [
+        "Existe hiperplasia de las células G del antro.",
+        "La anemia perniciosa se produce al poco tiempo de originarse la enfermedad.",
+        "Existe hipo o aclorhidria.",
+        "Se han encontrado Ac contra factor intrínseco y células parietales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La anemia perniciosa se debe a un déficit de vitamina B12. Las reservas hepáticas de vitamina B12, tardarían varios años en agotarse desde el comienzo de la gastritis autoinmune porque son ciertamente abundantes (opción 2 falsa, por lo que la marcamos). Sobre la anemia perniciosa, debes tener muy claro que, como consecuencia de la destrucción de las células parietales, disminuye la secreción de ácido clorhídrico. Esto hace que llegue al duodeno una menor cantidad de ácido, produciéndose una hiperplasia de células G que sintetizarán una mayor cantidad de gastrina. Por tanto, siempre debes relacionar la anemia perniciosa con hipoclorhidria e hipergastrinemia, igual que ocurre con los pacientes en tratamientos prolongados con omeprazol."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Varón de 47 años, bebedor 50 g/día alcohol y fumador de 20 cig/día que acude por dolor abdominal intermitente de meses de evolución pero que ha ido empeorando progresivamente y diarrea intermitente de 3 meses de evolución. La exploración física demostró la existencia de dolor abdominal en hemiabdomen superior a la palpación sin peritonismo. La radiografía simple de abdomen mostraba un patrón gaseoso inespecífico con pequeñas calcificaciones en región central de abdomen superior. La analítica realizada fue la siguiente: Hb 11.9 g/dl, leucocitos 6.700/mm3, plaquetas 318.000/mm3, actividad de protrombina 70%, glucosa 144 mg/dl, urea 52 mg/dl, creatinina 1.1 mg/dl, albúmina 3 g/dl, GOT 60 U/L, GPT 40 U/L, GGT 115 U/L, bilirrubina total 1.2 mg/dl, fosfatasa alcalina 80 U/L, LDH 90 U/L, amilasa 18 U/ml. Ante la entidad que debería sospechar, ¿qué tratamiento resultaría menos adecuado actualmente?:",
+      "opciones": [
+        "Suplementación con enzimas pancreáticos.",
+        "Suplementación con nutrición enteral.",
+        "Fitomenadiona oral.",
+        "Tramadol oral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un paciente bebedor y fumador que tiene clínica y radiología simple diagnósticas de pancreatitis crónica. El paciente esta desnutrido y con dolor abdominal recurrente. La administración de vitamina K oral (Fitomenadiona Oral) no sería útil ya que el paciente no presenta colestasis ni deterioro de coagulación."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "El medicamento de elección en la esofagitis grave por reflujo es:",
+      "opciones": [
+        "Cimetidina.",
+        "Omeprazol.",
+        "Ranitidina.",
+        "Sucralfato."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El uso de anti- H2 en enfermedad por reflujo es útil, pero la eficacia es inferior cuando se compara con un inhibidor de la bomba de protones como es el omeprazol. El empleo de sucralfato no ha demostrado utilidad. Los procinéticos tienen un nivel de eficacia semejante al de los anti- H2. La combinación procinético - anti- H2 no mejora el resultado de cualquiera de estos fármacos en forma independiente y el empleo de alcalinos sólo tiene interés como alivio sintomático y no aporta beneficio terapéutico en la solución de la esofagitis."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Indique la variante genética del HLA que expresa el 90% de los pacientes celíacos:",
+      "opciones": [
+        "DQ8.",
+        "DQ2.",
+        "B27.",
+        "B12."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta fácil sobre la predisposición genética en la enfermedad celiaca La enfermedad celiaca es una intolerancia al gluten que aparece en individuos genéticamente susceptibles. En la base genética de la enfermedad celiaca está implicado el sistema HLA (conjunto de genes localizados en el cromosoma 6, que se encarga de vigilar que las células del organismo sean propias, es decir, que sepan diferenciar lo propio de lo ajeno). Los HLA con mayor asociación con la predisposición a la celiaquía son DQ2 y DQ8, estando presente HLA-DQ2 en el 90% de los celiacos y HLA-DQ8 en el 5%. Estos marcadores genéticos poseen alto valor predictivo negativo, por lo que tenerlos no implica enfermedad, pero su ausencia sí descarta la misma."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cual de los siguientes factores no es de alto riesgo para desarrollo de displasia grave y adenocarcinoma en un paciente con colitis ulcerosa?:",
+      "opciones": [
+        "Presencia de pseudopólipos inflamatorios.",
+        "Asociación con colangitis esclerosante primaria.",
+        "Afectación extensa de colon.",
+        "Antecedentes familiares en primer grado de cáncer colorrectal en menores de 50 años."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los pseudopólipos inflamatorios en la colitis ulcerosa representan un riesgo moderado de desarrollo de displasia grave y adenocarcinoma por lo que estos pacientes deben de ser revisados cada 2-3 años en vez de forma anual. El resto de factores que se expresan si son de alto riesgo y requerirían de revisión con colonoscopia anual."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Mujer de 66 años que acude a Urgencias por dolor en epigastrio, así como náuseas y vómitos alimentario-biliosos. La exploración física es de dolor epigástrico a la palpación, con defensa y ruidos hidroaéreos negativos. La analítica fue: Hb 13,2 g/dL, leucocitos 19.500/mm³, plaquetas 195.000/mm³, glucosa 111 mg/dL, urea 40 mg/dL, creatinina 0,7 mg/dL, GOT 478 U/L, GPT 190 U/L, GGT 200 U/L, bilirrubina total 1,4 mg/dL, fosfatasa alcalina 311 U/L, amilasa 1.080 U/L. Se realiza un TC abdominal con contraste i.v. en el que se observa un páncreas edematoso con colecciones peripancreáticas y ausencia de captación de contraste en el 65% de la glándula. ¿Cuál sería la actitud a continuación?",
+      "opciones": [
+        "Necrosectomía profiláctica.",
+        "Imipenem i.v.",
+        "Carbapenem i.v. solo en caso de infección de necrosis infectada.",
+        "CPRE."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Según las últimas guías y recomendaciones, ya no se recomienda sistemáticamente la profilaxis antibiótica en pacientes con pancreatitis graves. Solo debe ponerse en caso de infección demostrada de la necrosis. La necrosectomía solo se realiza en caso de infección confirmada, por lo que no sería profiláctica. La paciente tiene bilirrubina de 1,4 (casi normal) y en la prueba de imagen no nos dicen q haya coledocolitiasis, por lo que en este momento no está indicada la CPRE. En caso de confirmar infección de la necrosis, ahí si estaría indicado el tratamiento antibiótico (respuesta 3 correcta) y necrosectomía."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Cuál de las siguientes pruebas es MÁS útil para el diagnóstico de colangitis esclerosante primaria?",
+      "opciones": [
+        "ColangioRM.",
+        "TC (tomografía computarizada).",
+        "Biopsia hepática.",
+        "Colangiografía retrógrada endoscópica (CPRE)."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La colangitis esclerosante primaria suele asociarse a la colitis ulcerosa, cosa que ocurre en aproximadamente un 70% de los casos. El método diagnóstico de elección es la colangioRM, que mostraría una imagen con múltiples estenosis y dilataciones a lo largo de los conductos biliares. Anteriormente al desarrollo de la RM, se realizaba CPRE para objetivar dichas alteraciones, aunque al ser una técnica invasiva con tasa de complicaciones no despreciable, ha sido relegada a un segundo plano, aplicándose con intención terapéutica (dilataciones, colocación de prótesis, etc.). Entre las opciones que nos ofrecen, la biopsia puede resultar tentadora, pero es una trampa. En la biopsia de la colangitis esclerosante primaria podríamos encontrar un dato que se considera patognomónico: la lesión en piel de cebolla. El problema es que solo lo encontramos en un 30% de los pacientes, por lo que su interés diagnóstico es escaso. En cambio, las estenosis y dilataciones de la colangioRM aparecen en la mayoría de los casos."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Señale el signo serológico que predice más tempranamente una evolución ulterior favorable en la hepatitis aguda B, HBsAg seropositiva, de curso común:",
+      "opciones": [
+        "La aparición de anti-HBc de clase IgM.",
+        "La negativización del antígeno HBs.",
+        "La negativización del antígeno HBe.",
+        "La aparición de anti-HBs."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La negativización del AgHBe es el primer acontecimiento que ocurre en los pacientes que se están curando ya que lo primero que ocurre es el cese de replicación, para posteriormente producirse la negativización del antígeno de superficie (AgHBs), momento en el cual se considera que la infección está curada."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Se sabe que todos los procesos siguientes predisponen a la formación de cálculos de colesterol, EXCEPTO:",
+      "opciones": [
+        "Obesidad.",
+        "Edad avanzada.",
+        "Tratamiento con ácido ursodesoxicólico.",
+        "Resección quirúrgica del íleon."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ácido ursodesoxicólico se emplea en la cirrosis biliar primaria. En esta enfermedad, ha demostrado ser el fármaco más eficaz de los disponibles hasta el momento, aumentando el tiempo hasta el que se hace necesario el trasplante hepático. Debe administrarse desde las fases iniciales de la enfermedad, aunque se trate de pacientes asintomáticos. Otra aplicación del ácido ursodesoxicólico es el tratamiento médico de los cálculos biliares. Por ello, la respuesta opción de respuesta que hay que marcar es la 3, ya que precisamente hacen lo contrario: oponerse a la formación de estos cálculos. Este tratamiento se reserva para pacientes asintomáticos, con cálculos de pequeño tamaño y vesícula funcionante. Presenta el inconveniente de que se producen recidivas con mucha frecuencia, siendo más eficaz la colecistectomía."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Mujer de 51 años, antecedentes personales de consumo de tabaco de hasta 20 cigarrillos al día, que acude refiriendo un cuadro de hemorragia digestiva alta, sin relación con la ingesta. Refiere que ha venido padeciendo un dolor en epigastrio tras las comidas durante varias semanas que se aliviaba con la administración de antiácidos. Se realiza estudio con contraste, en el que no se observan imágenes patológicas, por lo que se decide realizar estudio endoscópico que demuestra la existencia de una úlcera de 7 mm de diámetro, con restos mínimos de sangre oscura alrededor, en la primera porción del duodeno. Asimismo, las muestras confirman la existencia de lesión por Helicobacter pylori. Indique, en relación con las medicinas utilizadas en el tratamiento de la úlcera duodenal, la afirmación INCORRECTA:",
+      "opciones": [
+        "Mientras que el hidróxido de aluminio puede producir estreñimiento, el hidróxido de magnesio tiene efecto laxante.",
+        "Los antiácidos se emplean en la erradicación de Helicobacter pylori.",
+        "El sucralfato actúa protegiendo la mucosa gástrica.",
+        "El bismuto coloidal tiene acción frente a Helicobacter pylori."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ten mucho cuidado con esta pregunta. Lo que se utiliza en la erradicación del H. pylori son los inhibidores de la bomba de protones (IBP), como el omeprazol o los inhibidores del receptor de histamina tipo 2 (anti H2), como la Ranitidina. Antiácidos son, por ejemplo, el bicarbonato sódico, el hidróxido de aluminio o el de magnesio. Otra cosa es que los IBP reduzcan la secreción ácida gástrica, pero su mecanismo de acción no es antiácido, sino inhibir la citada bomba de protones.\n\nEl Sucralfato es el protector de mucosa por excelencia y el Bismuto coloidal tiene actividad anti-Helicobacter Pylori (de hecho se utiliza en la cuádruple terapia con Doxiciclina y Metronidazol)."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Varón de 25 años que acude a su consulta por anemia. La exploración física era normal salvo ligera palidez de mucosa conjuntival. Tras estudio analítico destacaban Hb 10,3, VCM 74.3 fL, HCM 24 pg, ferritina 4, leucocitos 6.500 con 59% neutrófilos, plaquetas 400.000, GOT 12, GPT 23, GGT 32, bilirrubina total 0,8, LDH 168, sodio 142, potasio 3,8. Los anticuerpos antitransglutaminasa y antigliadina fueron negativos. Ya tuvo episodios similares a los 18 y 22 años. Aporta estudio de heces con sangre oculta negativa, y además se realizaron estudios con gastroscopia, colonoscopia y cápsula endoscópica normales, salvo test de ureasa positivo. ¿Qué cree RECOMENDADO realizar a continuación?",
+      "opciones": [
+        "Tratamiento antibiótico por sospecha de sobrecrecimiento bacteriano.",
+        "Solicitar estudio genético de enfermedad celíaca (HLA-DQ2 / DQ8).",
+        "Tratamiento erradicador de H. pylori.",
+        "Dieta exenta de gluten de forma empírica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un paciente con anemia ferropénica. Tras ser estudiado ampliamente, no se observa causa. Por ello, al serH. pyloripositivo, puede probarse a erradicar (indicación relativa de consenso Maastricht III) ya que algunos pacientes mejoran de la misma y no vuelven a presentarla."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Paciente con molestias epigástricas, hipo, estado nauseoso y edema generalizado. Analiticamente tiene marcada hipoproteinemia. En la gastroscopia se observan pliegues gástricos pseudolipoides, gruesos y con erosiones varioliformes. ¿Cuál es su diagnóstico?:",
+      "opciones": [
+        "Cáncer gástrico.",
+        "Cirrosis hepática con varices esofágicas.",
+        "Poliadenomatosis.",
+        "Enfermedad de Ménétrier."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la enfermedad de Ménétrier se observan pliegues gruesos a nivel gástrico, con formaciones que asemejan pequeños pólipos y alguna erosión por la hiperplasia de las células mucosas. Es inhabitual la ulceración péptica. Con frecuencia se asocia a una pérdida luminal de proteínas, que pueden condicionar una hipoalbuminemia con los consiguientes edemas. El cáncer gástrico en su variedad difusa provocaría pliegues gástricos gruesos, pero, al igual que el linfoma, rígidos, y la posibilidad de una enteropatía pierdeproteínas es menor."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Todos, MENOS uno de los siguientes procedimientos, pueden ser adecuados para el tratamiento del pseudoquiste de la cabeza del páncreas. Señálelo:",
+      "opciones": [
+        "Quistogastrostomía.",
+        "Duodenopancreatectomía cefálica.",
+        "Quistoyeyunostomía.",
+        "Drenaje externo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debemos recordar que el pseudoquiste es la complicación más frecuente de la pancreatitis aguda, y que una vez establecido el pseudoquiste una gran parte de ellos se resuelven espontáneamente (25- 40%), y que además la localización más frecuente de los mismos es el cuerpo- cola del páncreas (hasta el 85%). Cuando se establece la indicación quirúrgica de un pseudoquiste la técnica habitualmente empleada es la del drenaje interno (a una víscera hueca del tubo digestivo alto, en forma de quistogastrostomía, quistoduodenostomía o quistoyeyunostomía) y que en casos excepcionales por imperativo de la clínica se puede utilizar el drenaje externo (con alta frecuencia de fístulas pancreáticas posteriores). Sólo en casos seleccionados de pseudoquistes localizados en la cola del páncreas optaremos por una extirpación del mismo. En el caso que nos ocupa, el pseudoquiste se localiza en la cabeza y la extirpación pasaría por realizar una duodenopancreatectomía cefálica, actitud excesivamente agresiva y con alta frecuencia de complicaciones teniendo en cuenta que existen otras técnicas menos agresivas y más sencillas de realizar."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Cuál de las siguientes afirmaciones relativas al tratamiento de la hepatitis crónica viral es FALSA?",
+      "opciones": [
+        "Una respuesta viral mantenida (negativización del ARN) en la hepatitis crónica C se considera curación de la infección viral.",
+        "La ribavirina produce típicamente anemia hemolítica, síndrome pseudogripal y alteraciones tiroideas.",
+        "La ausencia de respuesta viral temprana permite interrumpir el tratamiento en pacientes con hepatitis crónica C, evitando efectos secundarios y costes económicos innecesarios.",
+        "La duración del tratamiento antiviral en la hepatitis crónica C depende del genotipo viral."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Tratan de confundirte entre los dos fármacos principales en el tratamiento de la hepatitis C. La ribavirina produce típicamente anemia hemolítica, pero es el interferón el que produce síndrome pseudogripal y alteraciones tiroideas."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Señale la afirmación FALSA con respecto a la enfermedad por reflujo gastroesofágico:",
+      "opciones": [
+        "Debe estudiarse la infección por H. pylori y, en caso de ser positivo, erradicar.",
+        "La mayoría de estos pacientes no tienen esofagitis en la endoscopia.",
+        "Los síntomas cardinales de la enfermedad por reflujo gastroesofágico son la pirosis y regurgitación.",
+        "El test de Bernstein puede ser útil en algunos casos de hipersensibilidad visceral."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El reflujo esofágico no es una patología que deba erradicarse aun teniendo infección por H. pylori, y, de hecho, en algunos casos, puede asociarse a empeoramiento del reflujo (opción 1 falsa, por lo que la marcamos). La enfermedad por reflujo gastroesofágico es una patología cuyos síntomas cardinales son la pirosis y la regurgitación; asimismo, se asocia a dolor torácico no cardiaco, asma y laringitis posterior. La mayoría de los pacientes con enfermedad por reflujo gastroesofágico no presentan datos de esofagitis, de forma que hay que recurrir a una pHmetría de 24 horas. En casos de no existir reflujo patológico y tener síntomas, puede ser útil el uso del test de Bernstein para descartar un trastorno de hipersensibilidad visceral subyacente."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Mujer de 60 años sin antecedente de interés que acude por diarrea liquida de hasta 12 deposiciones al día matutinas, líquidas y sin productos patológicos acompañadas de dolor abdominal cólico leve. La exploración física era normal. La analítica mostraba los siguientes resultados: Hb 13.5 g/dl, leucocitos 6500/mm3, plaquetas 275.000/mm3, glucosa 108 mg/dl, urea 34 mg/dl, creatinina 1 mg/dl, sodio 141 mEq/L, potasio 3.9 mEq/L, VSG 6 mm, calprotectina fecal normal. Se realizó una colonoscopia en la que no se objetivaron alteraciones relevantes. Las biopsias por tramos únicamente mostraron infiltrado llamativo de predominio linfocitico con células maduras. En relación con la entidad que debería considerar, señale que característica consideraría incorrecta:",
+      "opciones": [
+        "No suele ser frecuente la esteatorrea.",
+        "Suele cursar con perdida de peso progresiva.",
+        "Tiene una etiología desconocida.",
+        "Su prevalencia es igual en ambos sexos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La colitis linfocítica es una entidad de origen desconocido, igual de prevalente en los 2 sexos y no suele acompañarse de rectorragia ni esteatorrea. La perdida de peso que aunque inicialmente acontece luego suele estabilizarse."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Enfermo de 48 años diagnosticado de cirrosis hepática alcohólica al que venimos controlando desde hace años. No ha conseguido dejar de beber alcohol. Desde hace 2 años presenta ascitis, que responde cada vez peor al tratamiento diurético. En el momento actual toma 120 mg/día de furosemida, 300 mg/día de espironolactona y tiene ascitis a tensión. Analíticamente destaca Na 121 mEq/1, K 4,7 mEq/l y creatinina 1,6 mg/dl. ¿Cuál es la actitud terapéutica más correcta en el momento actual?:",
+      "opciones": [
+        "Proponer entrada preferente en un programa de trasplante hepático.",
+        "Establecer un régimen de paracentesis evacuadoras periódicas con reposición coloidal.",
+        "Insertar un TIPS.",
+        "Administrar una sobrecarga de suero salino hipertónico para forzar la diuresis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Resumiendo la pregunta, se trata de una ascitis resistente a diuréticos. Cuando se produce esta situación, existen varias posibilidades:\n\n- Paracentesis evacuadoras: Incluso se podría extraer todo el líquido ascítico en una sola paracentesis. No obstante, se debe tener la precaución de reexpandir el volumen plasmático con albúmina o dextranos, para evitar complicaciones. En este caso, es la respuesta 2 la que debemos considerar correcta, dado que nos dicen que es ascitis a tensión\n\n- Shunt peritoneo- venoso de LeVeen: No ha demostrado prolongar la supervivencia, pero puede mejorar la sintomatología. No obstante, tiene un riesgo muy alto de complicaciones, como infección, aparición de coagulación intravascular diseminada, trombosis del shunt…. No obstante, en esta pregunta ni siquiera aparece entre las posibles opciones.\n\n- Trasplante hepático: La supervivencia al año de los pacientes con ascitis refractaria a diuréticos es del 25%. Por ello, plantear directamente un trasplante no es descabellado. Sin embargo, en nuestro caso nos especifican que el paciente no ha dejado de beber, por lo que por el momento no estaría indicado el trasplante.\n\n- TIPS: Recientemente, se ha introducido la colocación del TIPS para pacientes con ascitis refractaria a diuréticos. No obstante, la principal indicación de esta técnica es la prevención de la hemorragia digestiva alta por varices en pacientes que están esperando un trasplante hepático, y en los que han fallado los tratamientos endoscópicos y farmacológicos. Por ello, por el momento debemos preferir la respuesta 2."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "El test de la D-xilosa alterado indica:",
+      "opciones": [
+        "Síndrome de malabsorción por defecto de la pared del intestino.",
+        "Esteatorrea pancreática.",
+        "Déficit congénito de disacaridasas.",
+        "Obstrucción biliar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La D- xilosa se absorbe en el yeyuno por difusión pasiva, sin necesidad de que intervengan las enzimas pancreáticas o las sales biliares. Por ello, está alterada en procesos que afectan a la pared del tubo digestivo (respuesta 2 correcta), sin verse influida por alteraciones pancreáticas ni biliares.\n\nEl test de la D- xilosa consiste en administrar este azúcar en ayunas, y luego se mide su presencia en orina, cuando pasan unas horas. Si la encontramos en orina, quiere decir que se ha absorbido a nivel intestinal."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Paciente que acude por hipertransaminasemia en el que se objetiva en sangre la siguiente serologia: Ac HBc IgM+, Ag HBs +, AgHBe +, DNA +. ¿Cuál es el diagnóstico?",
+      "opciones": [
+        "Hepatitis aguda.",
+        "Hepatitis B crónica AgHBe positivo",
+        "Mutación precore.",
+        "Portador inactivo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La presencia de Ag de superficie denota la presencia del virus en el cuerpo. Al tener los anti-core de tipo IgM indican infección reciente (hepatitis aguda)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Mujer de 65 años sin antecedentes de interés que consulta porque desde hace un año presenta diarrea. En la analítica : las grasas fecales son de 10 gr/24 h y se detecta proteinuria de 3 gr/24 h. En el estudio radiológico se aprecia derrame plural derecho y en la ecografía hepatomegalia. Entre las siguientes pruebas, ¿cual sería la más rentable para obtener el diagnóstico?:",
+      "opciones": [
+        "Test de Trioleína.",
+        "Biopsia de submucosa rectal.",
+        "Biopsia pleural.",
+        "Aclaramiento de alfa 1 antitripsina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Al observarse alteración en la absorción (con esteatorrea) y afectación de la función renal (con proteinuria en rango nefrótico), ya se debe sospechar el diagnóstico de amiloidosis. Además, la presencia de derrame pleural y de hepatomegalia, lo han todavía más sugestivo. Por tanto, la prueba diagnóstica que sería inicialmente más rentable es la biopsia de grasa rectal. En ella esperaríamos encontrar depósito de sustancia amiloide, causante de todo el cuadro clínico."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Señale, de entre los siguientes, cuál es el tratamiento MÁS adecuado para un paciente con ingesta de 14 gramos de paracetamol:",
+      "opciones": [
+        "Alopurinol.",
+        "Estreptomicina.",
+        "Resincolestiramina.",
+        "N-acetilcisteína."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tratamiento de elección de la toxicidad por paracetamol es la N-acetilcisteína. Aunque es más eficaz en las primeras horas tras la ingestión del paracetamol, se debe administrar en el momento en el que diagnostiquemos la intoxicación independientemente del tiempo que haya pasado desde la ingesta."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Con respecto a las lesiones agudas de la mucosa gástrica (LAMG), es INCORRECTO que:",
+      "opciones": [
+        "Las úlceras de Cushing aparecen como consecuencia de lesiones del SNC.",
+        "Las úlceras de Curling aparecen en los grandes quemados.",
+        "La hematemesis es una forma común de presentación.",
+        "Las úlceras de Cushing cursan con normo o hiposecreción."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las gastritis agudas de estrés suelen expresarse clínicamente en forma de hemorragia digestiva, ya sea en forma de hematemesis, melenas o anemización súbita. Aunque su localización puede ser difusa, predominan en fundus. El mecanismo de la lesión es por isquemia y alteración de la barrera mucosa gástrica, como sucede en las úlceras de Curling (grandes quemados). La excepción a esta regla son las úlceras de Cushing, que se relacionan con la hipertensión intracraneal, sobre todo cuando es aguda, ya que produce una hiperestimulación vagal y, como resultado, hipersecreción ácida gástrica (opción 4 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Varón que fue diagnosticado hace seis meses de úlcera duodenal, Helicobacter pylori +, instaurándose tratamiento médico. Acude de nuevo a la consulta por persistencia de la sintomatología con persistencia endoscópica de la lesión ulcerosa, para valorar indicación quirúrgica. Previo a la misma, debemos investigar posibles causas de fracaso del tratamiento, entre las que usted indicaría todas las siguientes, EXCEPTO:",
+      "opciones": [
+        "Un tratamiento inadecuado del Helicobacter pylori: no impuesto o incumplido.",
+        "La persistencia de la toma de AINEs.",
+        "Toma de comidas picantes y abundantes.",
+        "Hábito tabáquico importante no abandonado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cuando existe persistencia de una úlcera secundaria a Helicobacter pylori tras el tratamiento, en la mayoría de los casos el tratamiento ha sido inadecuado, por incumplimiento del paciente o por la utilización de protocolos no suficientemente consensuados. Una vez descartada adecuadamente la presencia del microorganismo, se deberá insistir en la posibilidad de la persistencia de la toma de AINEs o en el hábito tabáquico que altera el proceso cicatricial y lo retrasa, precisando tratamientos más largos y a veces más intensos; por su parte, el consumo de comidas copiosas o picantes no se ha relacionado con la persistencia ulcerosa (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Todas las siguientes están descritas como causa de pancreatitis aguda, EXCEPTO:",
+      "opciones": [
+        "Hipertrigliceridemia.",
+        "Alcohol.",
+        "Hipercolesterolemia.",
+        "Traumatismo abdominal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La mayoría de las pancreatitis agudas (60-85%) se presentan en pacientes con colelitiasis y abuso de alcohol (agudo y crónico). En un 10% se encuentra una posible causa identificada de las siguientes:\n- Postoperatoria (abdominal, bypass aortocoronario).\n- CPRE.\n- Traumatismos (sobre todo abdominales no penetrantes).\n- Metabólicas.\n- Hipertrigliceridemia.\n- Deficiencia de CII apoproteína.\n- Hipercalcemia.\n- Insuficiencia renal.\n- Trasplante renal (multifactorial).\n- Embarazo.\n- Pancreatitis hereditaria.\n- Infecciones.\n- Virus: parotiditis, hepatitis vírica.\n- Otros virus: Coxsackievirus,echovirus.\n- Ascaridiasis.\n- Micoplasma,Salmonella,Campylobacter jejuni.\n- SIDA (multifactorial).\n- Fármacos.\n- Trastornos del tejido conectivo con vasculitis.\n- Lupus eritematoso sistémico.\n- Angeítis necrotizante.\n- Púrpura trombocitopénica trombótica.\n- Úlcera péptica penetrante.\n- Obstrucción de la ampolla de Vater.\n- Enteritis regional.\n- Divertículo duodenal.\n- Tumores pancreáticos: primarios o metastáticos.\n- Páncreas dividido.\nEntre un 8 y un 24% no se encuentra una explicación causal. En este caso, la hipercolesterolemia no se contempla dentro de las causas identificadas de pancreatitis aguda."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Varón de 24 años que acude a Urgencias por disfagia súbita (mientras comía carne) y sialorrea. En la endoscopia practicada en Urgencias tras la extracción del bolo cárnico impactado en el esófago medio, se observa una mucosa normal. Se toma una biopsia que únicamente demuestra la existencia de 45 eosinófilos por campo en la mucosa. La analítica era la siguiente: Hb 13,6 g/dL; 11.300 leucocitos/mm³ con neutrófilos 54%; linfocitos 25%; monocitos 13%; eosinófilos 2%; plaquetas 165.000/mm³; creatinina 1,0; urea 66; GOT 25; GPT 38; GGT 13; bilirrubina 1,1; sodio 147; potasio 4,4. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Síndrome hipereosinófilo.",
+        "Acalasia.",
+        "Esofagitis eosinofílica.",
+        "Esofagitis candidiásica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La esofagitis eosinofílica (marcamos la opción de respuesta 3) es un trastorno caracterizado por la existencia de disfagia e incluso impactaciones de repetición con una mucosa normal o un aspecto ligeramente traquealizado del esófago y, por tanto, el diagnóstico es histológico (marcada infiltración de la mucosa por eosinófilos). La diferencia con el síndrome hipereosinofílico radica en que no tiene eosinofilia plasmática marcada como sucede así en este último."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Paciente de 22 años que acude a usted por diarrea de tres semanas de evolución con expulsión de sangre, fiebre de hasta 38ºC y dolor abdominal. No refiere antecedentes de interés y en los últimos meses no ha viajado fuera de su localidad habitual. El coprocultivo es negativo. ¿Cuál sería el PRIMER proceso que deberíamos descartar?",
+      "opciones": [
+        "Amebiasis.",
+        "Enfermedad inflamatoria intestinal.",
+        "Diarrea enteroinvasiva por Shigella.",
+        "Neoplasia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta relativamente sencilla. Dada la negatividad del coprocultivo y la ausencia de viajes recientes, se descartan las opciones 1 y 3. No parece probable una neoplasia, dada la edad del paciente y la ausencia de síndrome constitucional, con lo que también descartamos la opción 4. La única opción razonable sería la 2, cuya edad pico de presentación oscila entre los 20-30 años, y cuyas manifestaciones clínicas son compatibles con el cuadro descrito."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Varón de 38 años, profesional del taxi y con antecedente de pancolitis ulcerosa que precisó colectomía urgente por perforación en el contexto de una colitis fulminante. Tras mejoría clínica y nutricional deseaba volver a operarse para crear un reservorio. Se procedió a ello contrayéndose un reservorio en J con anastomosis ileorrectal. A los 5 años comenzó con aumento d enumero de deposiciones líquidas con sangre hasta 15 al día, fiebre y dolor pélvico. La analítica mostraba los siguientes resultados: Hb 10 g/dl, leucocitos 12000/mm3, plaquetas 310.000/mm3, glucosa 102 mg/dl, urea 42 mg/dl, creatinina 1.4 mg/dl, sodio 143 mEq/L, potasio 3.7 mEq/L, VSG 48 mm, calprotectina fecal 400 mg/g. Se realizó una colonoscopia en la que se observaban múltiples ulceraciones en el muñón rectal con neoíleon integro. Con la información de la que disponemos, ¿cuál sería el tratamiento más adecuado?:",
+      "opciones": [
+        "Budesonida en enemas y antibioterapia.",
+        "Infliximab i.v.",
+        "Mesalazina tópica.",
+        "Extirpación del reservorio e ileostomía terminal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un paciente con actividad en el muñón rectal y, por consiguiente, se trata de una Cuffitis y no una reservoritis. Esta es una entidad que se comporta como una colitis ulcerosa al quedar recto residual. El tratamiento por lo tanto será el mismo que una colitis ulcerosa."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Mujer de 75 años de edad, sin antecedentes de interés, que acude a urgencias por dolor abdominal cólico difuso y vómitos alimentarios y biliosos. Se diagnostica cólico biliar y se pauta tratamiento espasmolítico, pero la paciente empeora clínicamente, apareciendo febrícula, distensión abdominal y disminución del peristaltismo. En la radiografía de abdomen se observa: asas de intestino delgado dilatadas con distribución en patrón \"en escalera\" y niveles hidroaéreos, pequeña imagen de densidad calcio en cuadrante inferior derecho y aire en la vía biliar. Su sospecha diagnóstica es:",
+      "opciones": [
+        "Ileo biliar.",
+        "Colangitis.",
+        "Colecistitis enfisematosa.",
+        "Trombosis de la vena mesentérica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de una paciente que asocia síntomas típicos de cólico biliar con un cuadro posteriormente de obstrucción intestinal, tanto clínico como radiológico. La presencia de imagen cálcica en la fosa iliaca derecha (ileon terminal), asociada a niveles hidroaéreos por la obstrucción y la aerobilia, hacen que el cuadro más probable sea el íleo biliar, es decir, la obstrucción intestinal por un cálculo biliar impactado en ileon terminal, que ha conseguido pasar al tubo digestivo por una fístula colecistoduodenal."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "¿A qué diagnóstico corresponde el siguiente patrón manométrico? En el cuerpo esofágico distal, las contracciones son de baja amplitud y son simultáneas, el esfínter esofágico inferior es hipotenso:",
+      "opciones": [
+        "Acalasia vigorosa.",
+        "Espasmo esofágico difuso.",
+        "Acalasia clásica.",
+        "Esclerodermia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta parece más difícil de lo que es en realidad. Aunque aparentemente nos piden un dato memorístico, podemos ir descartando opciones a partir de conocimientos básicos.\n\nLas opciones 1 y 3 nos hablan de dos tipos de acalasia: la vigorosa y la clásica. La acalasia viene definida por una ausencia de relajación del esfinter esofágico inferior con la deglución, y aquí nos cuentan todo lo contrario: esfinter esofágico inferior hipotenso. Por tanto, descartaríamos estas dos opciones, teniendo en cuenta que la única diferencia entre ellas es la presencia de ondas de mayor amplitud y repetitivas, similares a las que aparecen en el espasmo esofágico difuso, en la acalasia vigorosa. Tampoco pensaríamos en la opción 2, por ser en nuestro caso ondas de baja amplitud. En la esclerodermia se afectan especialmente los dos tercios inferiores del esófago, por infiltración de la musculatura lisa, lo que hace que disminuya el peristaltismo y la presión del esfínter esofágico inferior."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "El esófago de Barrett es una entidad clinicopatológica estrechamente relacionada con el reflujo gastroesofágico. Señale cuál de las siguientes afirmaciones es verdadera:",
+      "opciones": [
+        "Es una metaplasia del epitelio escamoso del esófago, que es sustituido por un epitelio columnar de tipo intestinal.",
+        "Se produce en un 30% de los pacientes con reflujo gastroesofágico crónico.",
+        "Tiene un alto índice de malignización, pudiendo alcanzar hasta un 30% de los casos.",
+        "La presencia de esófago de Barrett en un paciente es indicación de cirugía, dado el alto potencial maligno de esta entidad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El esófago de Barrett es una metaplasia intestinal que surge en esófagos con esofagitis por reflujo, en general severas y de larga duración. No se conoce con precisión la incidencia, pero se observa en aproximadamente entre el 8-20% de los pacientes con reflujo. Incrementa en riesgo de desarrollar malignización en forma de adenocarcinoma, pero en un porcentaje pequeño, con una tasa inferior al 5% anual. Es indicación de cirugía (esofaguectomía) cuando el esófago de Barret se acompaña de displasia severa, porque en ese caso el riesgo aumenta mucho. En referencia al tratamiento del esófago de Barret a dia de hoy, es controvertido si el tratamiento con IBP evita la aparición del esófago de Barret, su progresión o el desarrollo de cáncer . No obstante, y puesto que el único factor conocido actualmente al esófago de Barret es el reflujo, se recomienda a todos estos pacientes el tratamiento con IBP, a la misma dosis recomendada en ERGE, o bien cirugía antirreflujo si son pacientes de bajo riesgo quirúrgico."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "El marcador serológico más útil para el diagnóstico de una pancreatitis autoinmune tipo I es:",
+      "opciones": [
+        "El anticuerpo anticitoplasma de los neutrófilos (ANCA).",
+        "El anticuerpo antimitocondrial (AMA).",
+        "El anticuerpo antimicrosomal.",
+        "El nivel de Ig G4."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una pregunta sencilla en relación con la pancreatitis autoinmune (PAI). La elevación de IgG4 es el parámetro más sensible (95%) y específico (97%) para el diagnóstico de la PAI tipo I. Además es el parámetro más útil para determinar la actividad y predecir el curso de la enfermedad. Es importante recordar que puede encontrarse elevado en el cáncer de páncreas o la pancreatitis crónica.Las otras opciones hacen referencia a autoanticuerpos detectados en colitis ulcerosa y CEP (ANCA), cirrosis biliar primaria (CBP) y enfermedades tiroideas (antimicrosomales)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "La poliposis adenomatosa familiar (PAF) y el síndrome de Gardner se han puesto en relación con la alteración de uno de los siguientes genes. Señálelo:",
+      "opciones": [
+        "C-yes.",
+        "APC.",
+        "C-fos.",
+        "C-mos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre la genética de las poliposis hereditarias. A simple vista, puede parecer difícil, pero si sabemos que APC significa Adenomatosis Polyposis Coli, y que este nombre se le puso por su relación con la poliposis adenomatosa familiar, es evidente que la opción de respuesta correcta es APC (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "El gastrinoma es un tumor neuroendocrino productor de gastrina originado en las células G y que pude condicional un síndrome de hipersecreción ácida. Señale la afirmación que considera incorrecta respecto a esta entidad:",
+      "opciones": [
+        "Puede aparecer en el contexto de una neoplasia endocrina múltiple tipo 1.",
+        "La gammagrafía con octreótido tiene unos sensibilidad en el diagnóstico inferior a la ecoendoscopia en los tumores localizados en duodeno y páncreas.",
+        "El tratamiento quimioterápico y con IBPs constituye el tratamiento de elección.",
+        "La esteatorrea es un síntoma que con frecuencia acompaña a la dispepsia ulcerosa que pueden padecer estos enfermos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El tratamiento elección es el quirúrgico con exéresis del tumor, y posteriormente tratamiento oncológico con quimioterapia. El tratamiento médico es paliativo y consiste en un abordaje sintomático con IBP a dosis altas. La esteatorrea es relativamente frecuente. El aumento de la secreción ácida por la hipergastrinemia impide la activación de los enzimas pancreáticos por la gran cantidad de ácido presente en el duodeno, que es incapaz de neutralizarse por el bicarbonato pancreático. La ecoendoscopia es superior a la gammagrafía con octreótido. Puede presentarse aislada o en el contexto de una neoplasia endocrina múltiple tipo 1."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Natalia es una chica universitaria de 22 años que acude a su consulta de digestivo por dolor abdominal. Al interrogarla, le cuenta que estos cuadros de dolor suelen durarle 3 días aproximadamente y a menudo se acompañan de diarrea. Además, la frecuencia de los episodios se incrementa en períodos de exámenes. Usted tiene un mente un diagnóstico. ¿Cuál de los siguientes síntomas/signos iría en contra de este?",
+      "opciones": [
+        "El dolor abdominal mejora con la defecación.",
+        "Existe un cambio en la frecuencia de las deposiciones.",
+        "En ocasiones, la diarrea se acompaña de grandes cantidades de moco.",
+        "4. Es frecuente la pérdida de peso en los períodos diarreicos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Cuadro clínico de una paciente con síndrome de intestino irritable. Se trata de la enfermedad gastrointestinal más frecuente. El hallazgo clínico más frecuente es la alteración del ritmo intestinal, asociado siempre a dolor abdominal que mejora con la defecación. La pérdida de peso es un dato de alarma que debe orientarnos a patología orgánica y que, por tanto, va en contra del diagnóstico de intestino irritable."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Mujer de 37 años, afecta de una colitis ulcerosa extensa, presenta un brote grave por el que se inicia tratamiento con prednisona en dosis de 1 mg/kg. Tras una semana de tratamiento, la paciente no presenta mejoría. ¿Cuál es la siguiente medida terapéutica a realizar?",
+      "opciones": [
+        "Colectomía subtotal de urgencia y, en un segundo tiempo, proctectomía y reservorio ileoanal.",
+        "Asociar un inmunosupresor como azatioprina.",
+        "Asociar mesalazina en dosis de 4 gramos al día oral y triamcinolona rectal, 1 aplicación cada 12 horas.",
+        "Ciclosporina endovenosa 2 mg/kg."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos presentan a un paciente con colitis ulcerosa sin mejoría tras 7 días de tratamiento esteroideo en dosis estándar (brote corticorresistente).\n\nEl tratamiento del mismo a día de hoy se recomienda con ciclosporina IV en dosis de 2mg/kg o bien con Infliximab."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Ante un paciente con enfermedad de Crohn que va a comenzar tratamiento con terapia biológica antiTNF (anticuerpos antifactor de necrosis tumoral alfa), ¿cuál de las siguientes pruebas diagnósticas NO es necesaria antes de iniciar dicha terapia?",
+      "opciones": [
+        "Valoración del estadio inmunitario mediante contaje linfocitario.",
+        "Serología del virus de hepatitis B (VHB).",
+        "Prueba de la tuberculina.",
+        "Radiografía de tórax."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los anticuerpos contra el factor de necrosis tumoral son inhibidores potentes de los linfocitos T y con su administración puede incrementar el riesgo de infecciones, motivo por el que antes de administrarlos es necesario destacar la existencia de hepatitis B, Hepatitis C, VIH y tuberculosis. Para ello, se solicitan serologías virales, Rx Tórax y Mantoux (PPD, prueba de la tuberculina)."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Una mujer de 49 años acude a consulta por presentar rectorragia de heces de aspecto mucoide. En el examen endoscópico se encuentra una tumoración plana de superficie vellosa, de 4 x 3 cm, que se reseca endoscópicamente al parecer de forma completa. Histológicamente se objetiva un adenoma velloso, descartándose infiltración neoplásica del tallo vascular. ¿Cuál es la actitud que debe adoptar respecto a esta paciente?",
+      "opciones": [
+        "Resección segmentaria de la zona donde implantaba el pólipo, con anastomosis término-terminal posteriormente.",
+        "Realizar los test genéticos oportunos para descartar una poliposis colónica familiar entre sus familiares.",
+        "Realizar una TC cerebral para descartar tumores endocraneales, ya que los pólipos adenomatosos pueden verse en el síndrome de Turcot.",
+        "Observación periódica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un adenoma velloso resecado completamente. El siguiente paso es el seguimiento endoscópico periódico."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "¿Qué patología cutánea suele asociarse a la enfermedad celíaca?:",
+      "opciones": [
+        "Dermatitis herpetiforme.",
+        "Pioderma gangrenoso.",
+        "Necrosis grasa metastásica.",
+        "Necrólisis epidérmica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de una pregunta directa. Y para contestarla , la opción más fácil y razonable es la siguiente: La enfermedad celíaca es una enfermedad con una base autoinmune. Cualquier paciente que presente una enfermedad con alteración en la autoinmunidad, tiene un riesgo aumentado de presentar otras patologías o síndromes autoinmunes. Así, de las opciones que nos dan, la que tiene una base autoinmune clara es la dermatitis herpetiforme."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "En la peritonitis bacteriana esponténea del cirrótico no esperaría encontrar en el líquido ascítico:",
+      "opciones": [
+        "cultivo monomicrobiano",
+        "LDH baja",
+        "proteinas bajas",
+        "glucosa próxima a cero"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El líquido ascítico en la peritonitis bacteriana espontánea se caracteriza:\n\n- cultivo monomicrobiano\n\n- proteinas < 1g/dl\n\n- glucosa > 50mg/dl (similar a la plasmática)\n\n- LDH < 225 U/l\n\nLa glucosa próxima a cero es características de las peritonitis bacterianas secundarias"
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Una mujer de 23 años, diagnosticada de colitis ulcerosa dos años antes, es ingresada por un cuadro de fiebre, dolor, distensión abdominal y diarrea de múltiples deposiciones líquidas. Se instaura un tratamiento con prednisona a razón de 1 mg/kg/día, pero después de tres días de tratamiento, no se observa una mejoría significativa. ¿Cuál debe ser la actitud terapéutica en este caso?",
+      "opciones": [
+        "Doblar la dosis de esteroides y, si no se aprecia mejoría, preparar a la paciente para cirugía.",
+        "Realizar una pancolectomía urgente ante la sospecha de megacolon tóxico.",
+        "Añadir ciclosporina i.v. a la pauta de tratamiento.",
+        "Pautar enemas de sulfasalacina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico sobre brote agudo de colitis ulcerosa. Es un brote grave, cursa con fiebre, dolor abdominal y diarrea intensa. Además, no responde a corticoides a dosis adecuadas (1 mg/kg/día). Por tanto, sería necesario ahora iniciar tratamiento con ciclosporina i.v. (respuesta 3 correcta) o antiTNF (infliximab). En caso de fracaso al tratamiento, plantearíamos como última opción la cirugía."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Durante una guardia, usted observa que uno de sus compañeros tiene un tono amarillento. Él le explica que ya se lo han comentado en alguna ocasión durante las guardias, y también cuando realiza mucho ejercicio. Sin embargo, la revisión médica que le hicieron hace unos meses, al comenzar la residencia, no reveló ninguna alteración en las enzimas hepáticas ni hiperbilirrubinemia. Su serología para virus hepatotropos es negativa. Si en este momento solicitase una analítica con perfil hepático, señale lo que esperaría encontrar:",
+      "opciones": [
+        "GOT y GPT discretamente elevadas.",
+        "Fosfatasa alcalina elevada y, en menor proporción, GGT.",
+        "Hiperbilirrubinemia, acompañada de cierto grado de colestasis.",
+        "Hiperbilirrubinemia, probablemente inferior a 5 mg/dl, con transaminasas normales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos describen un caso típico de síndrome de Gilbert. Pacientes jóvenes, en los que en situaciones de estrés se produce un aumento exclusivamente de bilirrubina (elevación de < 5 mg/dl) a expensas de la fracción indirecta."
+    }
+  ]
+}

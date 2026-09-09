@@ -1,0 +1,632 @@
+{
+  "materia": "reumatologia",
+  "paginaInicio": 23,
+  "paginaFin": 44,
+  "anomalias": [
+    "p25: en 'Señale la afirmación INCORRECTA sobre la amiloidosis' la clave es 'Resp. Correcta: 3' pero el comentario afirma 'La macroglosia aparece sobre todo en la amiloidosis primaria, por lo que la respuesta 4 es falsa'",
+    "p25: en ese mismo comentario aparece '(miocardiopatía restrictiva con arritmias, bloqueos,?)': hay un carácter que no se rasterizó tras 'bloqueos,'",
+    "p25: la pregunta de la mujer de 31 años con LES embarazada no tiene explicación escrita; el comentario solo dice 'El comentario de esta pregunta se realiza en vídeo.'",
+    "p27: el comentario de la mujer de 84 años habla de 'dolor a nivel lumbar (región de mayor carga)' cuando el enunciado describe dolor en la zona media de la columna vertebral torácica",
+    "p29: en 'En la EMTC, ¿cuál de las siguientes es la manifestación clínica MENOS frecuente?' la clave es 'Resp. Correcta: 3' pero el comentario cierra con 'La respuesta 4 es la correcta'",
+    "p33: la explicación de los criterios de clasificación 2010 de AR es una tabla de puntuaciones que se ha linealizado como lista de líneas separadas por saltos de línea",
+    "p34: la pregunta sobre artropatía psoriásica lleva la etiqueta 'Comentario:' sin ningún texto de explicación detrás",
+    "p38: la pregunta sobre panarteritis nodosa clásica lleva la etiqueta 'Comentario:' sin ningún texto de explicación detrás",
+    "p43: la pregunta sobre la actitud inicial ante monoartritis aguda de origen infeccioso lleva la etiqueta 'Comentario:' sin ningún texto de explicación detrás",
+    "p43: en el comentario del varón de 32 años con parótida aumentada aparece 'parálisis facial,? otros síntomas distintos': hay un carácter que no se rasterizó",
+    "p44: las cuatro opciones de 'Respecto a la artritis reumatoide, señale la opción falsa' están gravemente corrompidas en el original ('pudiéndose hacías', 'modelos subcutáneos', 'la modificación este articular', 'la tomé a patológica'), lo que las hace difícilmente interpretables"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 23,
+      "enunciado": "En la artritis reumatoide, el antígeno de histocompatibilidad DR4 se relaciona con la presencia de:",
+      "opciones": [
+        "Anticuerpos antinucleares.",
+        "Erosiones óseas.",
+        "Proteinuria.",
+        "Nódulos pulmonares."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Existe una predisposición genética a padecer artritis reumatoide, como lo demuestra la presencia de ciertos haplotipos HLA con mayor frecuencia que en la población general: El 70% de los pacientes con AR presentan el haplotipo HLA DR4, mientras que en la población general solo aparece en el 30%. Tambien se asocia, aunque en menor medida, al HLA DR1.\n\nAdemás, algunos subtipos del HLA DR4 se asocian a su vez con enfermedad más erosiva (DRB1*0401 y DRB1*0404)."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿En cuál de las formas de artritis crónica juvenil es más frecuente el desarrollo de amiloidosis?",
+      "opciones": [
+        "Sistémica.",
+        "Oligoarticular ANA positivo.",
+        "Oligoarticular HLA B27 positivo.",
+        "Poliarticular FR positivo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las dos formas de ACJ que muestran tendencia a evolucionar a amiloidois son la forma de comienzo sistémico y la forma de comienzo poliarticular seropositiva (que de hecho es el equivalente a la AR del adulto por debajo de los 16 años). Esto se debe a que, en ellas, es donde aparece inflamación de forma más intensa y persistente. En la forma de comienzo sistémico, la presencia de proteinuria debe hacernos pensar en el desarrollo de una amiloidosis, complicación que aparece en el 5% de los casos y que entraña un empeoramiento del pronóstico."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es CORRECTA en relación al tratamiento con un anti-TNF?",
+      "opciones": [
+        "No se puede utilizar en combinación con Metotrexato.",
+        "No se puede utilizar en combinación con corticoides.",
+        "Se puede utilizar en cardiopatía isquémica.",
+        "Se puede utilizar en enfermedad desmielinizante."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La principal toxicidad derivada del empleo de anti-TNF es la aparición de infecciones, sobre todo TBC o hepatitis, pero también puede provocar empeoramiento de insuficiencia cardiaca (por lo que está contraindicado en insuficiencia cardiaca grave o moderada, pero no en cardiopatía isquemia específicamente) . Además, se han descrito casos de enfermedad desmielinizante o de lupus inducido. También está contraindicado su uso en pacientes con antecedente tumoral reciente o linfomas. Su uso combinado con FAMEs suele mejorar la efectividad o evitar la pérdida de eficacia. Puede usarse asociado a contriciones o a AINEs si el paciente lo precisa."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Varón de 25 años, diagnosticado de enfermedad de Crohn, que refiere dolor lumbar bilateral que empeora con el reposo y rigidez matutina. En la exploración destaca una limitación de la movilidad, así como dolor a la palpación en ambas sacroilíacas, y en la radiografía se observa un estrechamiento del espacio articular con esclerosis y algunas erosiones. Con respecto a la complicación que presenta este paciente, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Es muy infrecuente, afectando a menos del 5% de los pacientes.",
+        "Puede preceder a los síntomas gastrointestinales.",
+        "A diferencia de la espondilitis anquilopoyética, no hay asociación con el HLA-B27.",
+        "Su evolución está estrechamente ligada al curso clínico de la enfermedad intestinal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico que permite repasar la espondilitis/sacroileítis asociada a enfermedad inflamatoria intestinal. Puede preceder a los síntomas gastrointestinales (respuesta 2 correcta) De las demás opciones de respuesta podemos decir que:\n\n1.- No es una manifestación muy infrecuente (afecta aproximadamente al 9- 15% de los pacientes con EII).\n\n3.- En caso de afectación axial existe una asociación con el HLA-B27 entre 50- 75% (a diferencia de las formas periféricas, que no se relacionan con el HLA-B27).\n\n4.- El curso clínico de la enfermedad no se asocia de forma tan estrecha como en la artritis periférica a los síntomas gastrointestinales."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Señale la afirmación INCORRECTA sobre la amiloidosis:",
+      "opciones": [
+        "En el riñón, el glomérulo es la estructura que se afecta principalmente.",
+        "La hipertensión es poco frecuente, excepto en la amiloidosis crónica.",
+        "La infiltración de la lengua es característica de la amiloidosis secundaria.",
+        "La amiloidosis cardíaca es frecuente en la forma primaria."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es una pregunta un tanto difícil, pero que te ayudará a memorizar algunos datos de este rentable tema. El riñón es el órgano más afectado, y se debe al depósito glomerular de amiloide, generando escape de proteínas y síndrome nefrótico (y por último, insuficiencia renal). Es la primera causa de muerte en la amiloidosis secundaria; la amiloidosis cardíaca es la pricipal causa de muerte en la forma primaria (miocardiopatía restrictiva con arritmias, bloqueos,?). El hígado se puede afectar, pero no suele ser grave, tan sólo se manifiesta por elevación de la FAlc y la GGT con hepatoesplenomegalia. La macroglosia aparece sobre todo en la amiloidosis primaria, por lo que la respuesta 4 es falsa. Es típica así mismo la presencia de petequias perioculares, el síndrome del tunel carpiano, la infiltración articular con \"hombros de rugby\", las pápulas céreas, la diarrea y la neuropatía."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Mujer de 24 años, con episodios de dolor en miembros superiores, que presenta asimetría de pulsos a la exploración. En la analítica presenta importante elevación de parámetros inflamatorios. ¿Qué patología sospecharía en primer lugar?",
+      "opciones": [
+        "Enfermedad de Kawasaki.",
+        "Arteritis de Takayasu.",
+        "Enfermedad de Behçet.",
+        "Enfermedad de Horton."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico básico que debes reconocer de la arteritis de Takayasu (respuesta 2 correcta). No debe generarte ningún tipo de dificultad este tipo de casos."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Mujer de 31 años, diagnosticada de LES hace 6 años, presentando durante este tiempo, como síntomas fundamentales, rash, artritis y ocasionalmente fiebre. Inicialmente tuvo proteinuria moderada, que está ausente desde hace 4 años. La paciente está embarazada de 16 semanas, y mantiene el tratamiento que recibía antes de la gestación, hidroxicloroquina 200 mg al día, fundamentalmente para el control de los síntomas articulares. En la exploración física tiene una TA de 100/60, con un adecuado crecimiento del feto. Analítica: hemoglobina 11,2 g/dl, leucocitos 3.600/mm3, plaquetas 175.000/mm3, tiempo de tromboplastina parcial activado (TTPA) 42 segundos (control 26 segundos), anticuerpos anticardiolipina IgG positivos e IgM negativos, creatinina 0,6 mg/dl, C3 normal y C4 descendido, proteinuria de 0,3 g/24 horas. Anticuerpos anti-Ro positivos con anti-La y anti-RNP negativos. Los anti-ADNds son positivos, en títulos bajos. Señale a continuación la respuesta INCORRECTA:",
+      "opciones": [
+        "La utilización de aspirina y heparina de bajo peso molecular está justificada en este caso si ha habido pérdidas fetales previas.",
+        "La utilización de prednisona es segura durante la gestación.",
+        "El neonato tiene altas probabilidades de tener bloqueo cardíaco congénito.",
+        "La utilización de ciclofosfamida se contraindica durante la gestación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El comentario de esta pregunta se realiza en vídeo."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Mujer de 26 años que consulta por sensación de debilidad generalizada que se ha instaurado progresivamente en el curso de tres semanas, haciéndose especialmente intensa en los últimos dos días. Refiere desde hace un par de años episodios de dolor articular en las manos que han precisado de la toma de antiinflamatorios, así como la aparición de alguna lesión eritematosa de causa no aclarada en la zona del escote, principalmente en verano. En la exploración física destacan únicamente una palidez cutaneomucosa evidente y una frecuencia cardiaca de 100 lpm. En el hemograma destacan: Hb 6 g/dL, hematocrito 27%, VCM 105 fL, 3.420 leucocitos/mm³ (2.300 neutrófilos/mm³, 800 linfocitos/mm³, 250 monocitos/mm³, 50 eosinófilos/mm³, 20 basófilos/mm³), plaquetas 170.000/mm³. En la bioquímica: AST 30 UI/L, ALT 35 UI/L, GGT 59 UI/L, fosfatasa alcalina 105 UI/L, LDH 490 UI/L, urea 20 mg/dL, creatinina 0,8 mg/dL. Teniendo en cuenta la información disponible, indique cuál de los siguientes parámetros analíticos adicionales necesitaría conocer para poder tomar la decisión inmediata MÁS apropiada:",
+      "opciones": [
+        "Vitamina B12.",
+        "Anticuerpos antinucleares.",
+        "Test de Coombs directo.",
+        "Anticuerpos anti-DNA."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El caso clínico de la pregunta describe un síndrome anémico de reciente aparición en una paciente con síntomas de 2 años de evolución que sugieren un probable lupus eritematoso sistémico (LES). La analítica aportada objetiva la presencia de anemia macrocítica con LDH elevada, sugestivo de anemia hemolítica en el contexto descrito, así como leucopenia y linfopenia, esperables en una paciente con LES. La decisión inmediata más apropiada es confirmar el origen autoinmune de la anemia hemolítica que padece la paciente, de cara a poder indicar el inicio de tratamiento con corticoides en caso de confirmarse anemia hemolítica autoinmune. Para poder confirmar el origen autoinmune de la anemia hemolítica, es necesario realizar un test de Coombs (respuesta 3 correcta). La realización de ANAs o anticuerpos anti-DNA apoyaría la sospecha diagnóstica de LES, pero confirmar este diagnóstico no es la decisión inmediata más apropiada que requiere esta paciente. Respecto a la vitamina B12, el contexto descrito sugiere anemia hemolítica, no anemia megaloblástica."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "¿Cuál de las siguientes manifestaciones clínicas es más característica de la artritis reumatoide?",
+      "opciones": [
+        "Dolor típicamente con el movimiento, que mejora en reposo.",
+        "Dolor en reposo sin presentar prácticamente signos flogóticos en las articulaciones.",
+        "Dolor continuo, que se exacerba en actividad, con signos inflamatorios.",
+        "Dolor continuo, que se exacerba en reposo, con signos inflamatorios."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clínica habitual de la AR suele comenzar con dolor de ritmo inflamatorio que se exacerba con el reposo e inflamación articular (con derrame y/o hipertrofia sinovial) en las articulaciones afectadas."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Una mujer de 84 años acude a nuestra consulta por dolor crónico en la zona media de la columna vertebral torácica, que aumenta al sentarse y al levantarse. A la exploración se detecta una marcada cifosis y contractura de la musculatura paravertebral. ¿Cuál es la causa MÁS probable del dolor?",
+      "opciones": [
+        "Aneurisma abdominal con erosión vertebral acompañante.",
+        "Estenosis de canal lumbar.",
+        "Osteoporosis con aplastamiento vertebral.",
+        "Enfermedad de Paget."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un caso típico de osteoporosis; mujer de edad avanzada que presenta dolor a nivel lumbar (región de mayor carga) y de forma asociada presenta cifosis, que muy probablemente se encontrará en relación con acuñamientos vertebrales asociados a fracturas a dicho nivel (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Con respecto al tratamiento de la artritis reumatoide, es FALSO que:",
+      "opciones": [
+        "Es altamente recomendable realizar ejercicio diario para mantener la morbilidad articular y evitar la atrofia muscular.",
+        "Los antiinflamatorios no esteroides son útiles para el control de los síntomas sin embargo Su uso está más limitado por los efectos secundarios, por ello se emplean también los antiinflamatorios selectivos de la COX-2 aunque su uso está limitado por su toxicidad renal.",
+        "En el tratamiento farmacológico y la piedra angular son los FAME siendo de ellos el más empleado el metotrexato.",
+        "Los corticoides constituyen un tratamiento muy efectivo, aunque está limitado debido a la aparición de efectos secundarios."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta relativamente sencilla sobre el tratamiento y manejo de la artritis reumatoide. Debes saber que los AINES, selectivos o no de la COX-2, no son el tratamiento de entrada en estos pacientes (opción 2 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Un hombre de 41 años acude a Urgencias por cuadro de tres días de evolución de tumefacción y dolor en la rodilla derecha, con impotencia funcional y febrícula. Dos semanas antes había tenido un cuadro de diarrea autolimitada. En la exploración existe derrame articular, por lo que se procede a realizar una artrocentesis y se obtienen 50 cc de líquido de color turbio, con viscosidad disminuida y los siguientes parámetros analíticos: leucocitos 40.000/mcL (85% de neutrófilos), glucosa 40 mg/dL, ausencia de cristales, tinción de Gram: no se observan microorganismos. ¿Cuál de las siguientes afirmaciones sobre este paciente es INCORRECTA?",
+      "opciones": [
+        "Se debe iniciar tratamiento con cloxacilina y ceftriaxona en espera del resultado del cultivo del líquido.",
+        "Es aconsejable realizar artrocentesis diarias para aliviar los síntomas y evitar la destrucción articular.",
+        "Si el cultivo es negativo, es probable que se trate de una artritis reactiva.",
+        "La negatividad de la tinción de Gram descarta que se trate de una artritis séptica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que nos habla del manejo de la monoartritis aguda. Según lo que nos presenta la pregunta, se podría tratar de un cuadro de artritis reactiva (antecedente de cuadro de diarrea autolimitada, monoartritis de miembro inferior, paciente joven), aunque los resultados del líquido no son los característicos de un líquido séptico (no más del 90% de neutrófilos, no más de 50.000 células). Sí nos dan algún dato que nos hace dudar, como la disminución de la viscosidad, de ahí que iniciar un tratamiento antibiótico empírico es útil. Resulta muy evidente lo que nos dice la opción de respuesta 2, ya que el manejo de toda monoartritis aguda debe incluir la realización de artrocentesis; por todo lo expuesto anteriormente la opción de respuesta falsa es la 4, ya que un gramnegativo no descarta una artritis séptica."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "La marcada calcificación y osificación de los ligamentos paraespinales anteriores dando la imagen característica en \"cera derretida\" es típica de:",
+      "opciones": [
+        "EA (espondilitis anquilosante).",
+        "Hiperostosis vertebral idiopática difusa.",
+        "Osteomielitis vertebral.",
+        "AR (artritis reumatoide)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La imagen característica que nos describen es propia de la hiperostosis anquilosante vertebral difusa (enfermedad de Forestier), un proceso frecuentemente asintomático propio de varones de edad avanzada. La lesión radiológica típica de la espondilitis anquilosante son los sindesmofitos, formaciones más “finas”, uniformes y simétricas. En la espondiloartrosis la lesión radiológica son los osteofitos. Y en la osteomielitis vertebral, lo típico es la destrucción del disco intervertebral. En cuanto a la Artritis reumatoide, no es propia de ella la afectación del esqueleto axial, excepto a nivel de la columna cervical."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Varón de 30 años, homosexual y VIH positivo, sin tratamiento en la actualidad, que acude por tumefacción dolorosa en rodilla derecha, a la que se ha añadido posteriormente hinchazón en tobillo izquierdo. En la exploración presenta además conjuntivitis, lesiones pustulosas en plantas, queratosis ungueal importante y erosiones indoloras en glande. Interrogándole, refiere que ha tenido, unos 15 días antes, disuria, polaquiuria y exudado uretral mucopurulento. Respecto a la enfermedad que probablemente presenta este paciente, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Es la forma de artritis más frecuente en los pacientes VIH.",
+        "Típicamente siguen un curso más indolente que las de los pacientes inmunocompetentes.",
+        "Las lesiones cutáneas no son una manifestación habitual en las espondiloartropatías de los pacientes VIH, y cuando aparecen, son más leves que en pacientes no VIH.",
+        "El tratamiento de elección son inmunosupresores."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La presencia de una monoartritis aguda debe plantearnos, como principales diagnósticos diferenciales, la artritis séptica, la microcristalina y la reactiva. Dado que el paciente es joven, no tiene antecedentes de hiperuricemia ni tiene ninguna enfermedad metabólica que predisponga al depósito de pirofosfato, la primera opción no sería una artritis por microcristales. Por otra parte, la afectación aditiva de una segunda articulación, acompañada de lesiones cutáneas características, hace muy improbable una artritis séptica. Las lesiones mucocutáneas que nos refieren son sugestivas de una queratodermia palmoplantar, balanitis circinada y onicopatía. Todo esto, unido a un antecedente de uretritis durante las últimas semanas, establece el diagnóstico de artritis reactiva. Por otra parte, la artritis reactiva es la causa más frecuente de artritis en pacientes infectados por VIH, por lo que es el diagnóstico más probable. En estos pacientes, los síntomas articulares y, sobre todo, los cutáneos, suelen tener un curso mucho más agresivo que en las personas VIH negativas. El tratamiento de elección son los AINEs, aunque el tratamiento antirretroviral también contribuye a una mejoría. Lógicamente, al tratarse de un paciente VIH positivo, debemos evitar los inmunosupresores en su tratamiento."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "En la EMTC, ¿cuál de las siguientes es la manifestación clínica MENOS frecuente?:",
+      "opciones": [
+        "Cutánea.",
+        "Muscular.",
+        "Renal.",
+        "Pulmonar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La EMTC no es un tema importante, pero puede resultar rentable saber cuatro cosas. La primera, que es una entidad bien definida y no una entidad dudosa cuando la clínica no sugiere un diagnóstico claro. Lo segundo, es su serología imprescindible: los anticuerpos anti- RNP. Lo tercero, que reúne clínica de varias enfermedades reumatológicas, como son la esclerodermia, la miopatía inflamatoria, el LES y la artritis reumatoide. Lo cuarto, que ninguna de ellas será extensa o grave, por lo que no hay afectación visceral importante. Entre las manifestaciones lúpicas, podemos mencionar la afectación cutánea y sistémica leve, siendo muy infrecuente nefritis lúpica. De esclerosis sistémica progresiva, las manifestaciones serán leves: Raynaud, esclerodactilia, afectación esofágica y como mucho hipertensión pulmonar, como se ve, todas propias de forma localizada, nunca crisis renales esclerodérmicas. La respuesta 4 es la correcta."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "El líquido pleural en los pacientes con AR suele tener:",
+      "opciones": [
+        "Glucosa elevada y complemento bajo.",
+        "Glucosa alta y complemento alto.",
+        "Glucosa baja y complemento bajo.",
+        "Glucosa normal y complemento alto."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La pleuritis es la manifestación cardiopulmonar más frecuente de la AR, aunque no es tan habitual ni tan clínicamente evidente como en el LES. Las características del líquido pleural de la AR son curiosamente muy similares a las del derrame pleural tuberculoso. En ambos casos se trata de un exudado con celularidad variable, a menudo abundante y de predominio mononuclear. También comparten ambos derrames pleurales la disminución de la glucosa y los niveles elevados de ADA (adenosin deaminasa). Desde el punto de vista teórico la diferencia radica en que los niveles de complemento en líquido pleural están disminuidos en la AR a diferencia de la TBC. La utilidad de esta diferenciación no se planteará ante un paciente con derrame pleural y síntomas articulares, ya que estos últimos son bien distintas en ambas enfermedades (poliartritis simétrica de manos vs monoartritis crónica). La utilidad radica en el estudio de un paciente, ya diagnósticado de AR que desarrolla derrame pleural y en que nos planteamos la duda de si el derrame pleural se debe a la actividad inflamatoria propia de la enfermedad o a la reactivación de una tuberculosis probablemente favorecida por el tratamiento con corticoides. El diagnóstico de certeza se realizará mediante el cultivo en medio de Lowenstein del líquido pleural y la biopsia pleural que mostrará granulomas en el caso de la TBC. El tratamiento de estas dos situaciones es obviamente bien distinto."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Varón de 58 años diagnosticado de artritis gotosa tofácea y litiasis ureteral por cálculos de ácido úrico no tratado previamente, consulta por monoartritis aguda de rodilla. El análisis del líquido sinovial obtenido por artrocentesis muestra abundantes microcristales de urato intraleucocitarios. El ácido úrico sérico es de 9,4 mg/dl (valor normal <7mg/dl) y la creatinina está en rango normal. ¿Cuál de las siguientes estrategias terapeúticas esta contraindicado en el tratamiento de la gota aguda tofacea?",
+      "opciones": [
+        "Aumentar la dosis de alopurinol",
+        "Disminuir la dosis de alopurinol",
+        "La opción 1 y 2 estan contraindicadas",
+        "Colchicina"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Recuerda que en los casos de gota aguda tofacea NO debemos de modificar los niveles de ácido úrico."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Paciente con colitis ulcerosa que presenta diarrea sanguinolenta y ha notado de forma aguda tumefacción dolorosa en rodillas. Respecto a la complicación que presenta este paciente, señale la afirmación CORRECTA:",
+      "opciones": [
+        "La artritis periférica, al igual que la espondilitis tiene una predilección por el sexo masculino.",
+        "El factor reumatoide es invariablemente positivo en estos pacientes.",
+        "No hay asociación al HLA-B27 si no hay afectación axial.",
+        "Con frecuencia se observa artropatía destructiva con erosiones subcondrales."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La afectación articular es la complicación extraintestinal más frecuente de la enfermedad inflamatoria intestinal. Puede afectar a articulaciones periféricas (25- 30%) o al esqueleto axial (20- 25%). La afectación de articulaciones periféricas no muestra predominio sexual mientras que la afectación del esqueleto axial es más frecuente en varones. La asociación con el HLA B27 sólo se produce (70%) en las formas con afectación del esqueleto axial. Como corresponde a espondiloartropatias seronegativas no se asocia al factor reumatoide. La afectación de articulaciones periféricas es de comienzo agudo, coincidiendo con los síntomas gastrointestinales y no es erosiva."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Señale la afirmación FALSA en relación con la enfermedad de Behçet:",
+      "opciones": [
+        "Se relaciona con la presencia de HLA B5 y HLA B51.",
+        "Se asocia a prueba de patergia positiva.",
+        "En mujeres es frecuente la presencia de úlceras recidivantes en la boca, siendo extraña la aparición de úlceras vulvares que, de estar presentes, suelen dejar cicatriz.",
+        "Asocia lesiones oculares tales como: iritis, uveítis anterior y posterior, hipopion, con riesgo incluso de ceguera."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las aftas orales recidivantes (100% de los casos) son dolorosas, y tienen un tamaño y aspecto variable, curándose solas en un tiempo comprendido entre 1 y 3 semanas, sin dejar cicatrices. Las aftas genitales (60- 80%) se localizan en el glande y escroto en el varón y en la vulva, vagina y cérvix en la mujer, siendo dolorosas y tardando en cicatrizar en el varón, y mucho menos molestas en las mujeres. Se trata, por lo tanto, de un problema frecuente (opción 3 falsa, por lo que la marcamos). La uveítis bilateral casi siempre está presente en el 60-70% de los pacientes. A veces se asocian coroiditis, hemorragias del cuerpo vítreo, neuritis óptica, alteraciones vasculares retinianas y otras, que pueden conducir a la ceguera si no se trata la enfermedad."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Mujer de 52 años que acude a Urgencias por presentar desde hace varias semanas palidez de los dedos de las manos especialmente con el frío, artritis en ambas manos, principalmente en articulaciones interfalángicas proximales, mialgias generalizadas y tumefacción de los dedos con tirantez cutánea. Se le realiza una analítica que presenta importante elevación de marcadores inflamatorios, destacando elevación de VSG, y anemia, y elevación de los anticuerpos anti-RNP a títulos muy elevados. Dados los hallazgos descritos, ¿cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Síndrome de CREST.",
+        "Enfermedad mixta del tejido conectivo.",
+        "Esclerosis sistémica.",
+        "Fascitis eosinofílica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El diagnóstico de la enfermedad mixta del tejido conectivo se establece mediante una serie de criterios, siendo indispensable la elevación de títulos de anticuerpos anti-RNP por encima de 1/1.600. El resto de criterios son clínicos (edema de manos, fenómeno de Raynaud, sinovitis, esclerodactilia, miositis), y para establecer el diagnóstico se deben presentar al menos tres criterios clínicos (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Varón de 50 años, sin antecedentes de interés, que desde hace cuatro meses presenta cefalea, pérdida de memoria, y en la última semana se ha añadido disminución del nivel de conciencia y varios accidentes isquémicos transitorios en territorios de ambas arterias cerebrales medias. En la analítica destaca solo una VSG elevada, siendo las serologías para sífilis, VIH, CMV, herpes simple, varicela y Borrelia negativas, así como los ANA y ANCA. Radiografía de tórax, ecocardiograma y estudio Doppler de troncos supraaórticos sin alteraciones. La TC y la RMN objetivan múltiples infartos en corteza y sustancia blanca. La angiografía no mostró lesiones. En la biopsia cerebral se evidenció afectación de arteriolas con lesiones vasculíticas granulomatosas. El diagnóstico que usted sospecha en este paciente es:",
+      "opciones": [
+        "Enfermedad de Wegener.",
+        "Enfermedad de Eales.",
+        "Vasculitis primaria del SNC.",
+        "Enfermedad de Churg-Strauss."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta complicada, puesto que la vasculitis aislada del SNC es un proceso muy poco frecuente. Se trata de una patología grave con afectación principal de arteriolas. La clínica suele ser bastante inespecífica, aunque es típica la aparición de cefalea, deterioro progresivo de las funciones superiores y aparición de múltiples infartos distribuidos por ambos hemisferios cerebrales (respuesta 3 correcta). Dado el cuadro clínico, podemos descartar las demás opciones de respuesta:\n\n1.- Wegener (infiltrados bilaterales cavitados no migratorios, afectación de vía aérea superior y frecuente afectación renal).\n\n2.- Eales (vasculitis retiniana).\n\n4.- Churg-Strauss (asma resistente a tratamiento, eosinofilia e infiltrados pulmonares no cavitados migratorios)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "¿Cuál es la complicación más grave de la enfermedad de Behçet?",
+      "opciones": [
+        "Uveítis posterior.",
+        "Eritema nodoso.",
+        "Aneurismas arteriales.",
+        "Tromboembolismo pulmonar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En este caso nos hablan de la complicación más grave del Behçet, debemos saber que no existe complicación más grave que la afectación neurológica, no obstante, esta opción no aparece entre las posibles opciones por lo tanto no podemos marcarla.\n\nLo que si podemos hacer es fijarnos en la afectación ocular, que nos muestra la opción 1, que es la opción más grave de las que aparecen"
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Rotando por el servicio de Reumatología se encuentra una hoja suelta en una mesa al lado de un ordenador, con una analítica, pero que no tiene nombre ni identificador. En el informe aparece “Inmunología positiva para ANCA específicos para la proteinasa 3, con inmunofluorescencia indirecta donde se objetiva un patrón citoplasmático granular”. ¿A qué enfermo cree usted que pertenece esa analítica?",
+      "opciones": [
+        "Rocío, paciente de 36 con Arteritis de Takayasu.",
+        "Javier, diagnosticado de Granulomatosis de Wegener.",
+        "Pedro, paciente en estudio por una posible Granulomatosis eosinofílica con poliangeítis.",
+        "La paciente de la 304 que tiene una Panarteritis nodosa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En relación al tema de las vasculitis, la determinación con más trascendencia en el diagnóstico es la presencia de ANCA. La detección de ANCA específicos para la proteinasa 3, o c-ANCA (C=citoplasmáticos) es muy específica y característica de la Granulomatosis de Wegener. Por lo tanto, tendríamos que ir a buscar al adjunto encargado de Javier y devolverle el informe del análisis."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Una paciente de 56 años presenta poliartritis simétrica de IFP, MCF, carpos y rodillas desde hace tres meses, con rigidez matutina de 90 minutos. En la radiología de manos muestra aumento de partes blandas. El factor reumatoide es negativo, tiene una VSG de 40 (normal hasta 20) y no presenta nódulos reumatoides. ¿Qué puntuación suma esta paciente en los nuevos criterios de clasificación (2010) para artritis reumatoide?",
+      "opciones": [
+        "Dos.",
+        "Siete.",
+        "Cinco.",
+        "Seis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El diagnóstico de AR se realiza por un cuadro clínico compatible (poliartritis simétrica de más de seis semanas de evolución que afecta a pequeñas articulaciones de las manos) y nos ayudamos de los hallazgos radiológicos (erosiones, osteopenia en banda) si existen, y analíticos (FR, anti-CCP). Pero, con el fin de homogeneizar a nuestros pacientes y poder incluirlos en un ensayo clínico o cualquier tipo de estudio, empleamos los criterios de clasificación. Los últimos publicados son los de 2010, que se basan en un sumatorio:\n·Afectación articular:\n- 1 articulación grande afectada: 0.\n- 2-10 articulaciones grandes afectadas: 1.\n- 1-3 articulaciones pequeñas afectadas: 2.\n- 4-10 articulaciones pequeñas afectadas: 3.\n- > 10 articulaciones pequeñas afectadas: 5.\n·Serología:\n- FR y ACPA negativos: 0.\n- FR y/o ACPA positivos bajos (< 3 VN): 2.\n- FR y/o ACPA positivos alto (> 3 VN): 3.\n·Reactantes de fase aguda:\n- VSG y PCR normales: 0.\n- VSG y/o PCR elevadas: 1.\n·Duración:\n- < 6 semanas: 0.\n- = 6 semanas 1.\n\nLa paciente de nuestro caso clínico tiene > 10 articulaciones pequeñas inflamadas (2 carpos, 10 MCF, 10 IFP): 5 puntos + VSG elevada: 1 unto + evolución de > 6 semanas: 1 punto = 7 (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Una de las siguientes afirmaciones sobre la artropatía psoriásica no es cierta. Señálela:",
+      "opciones": [
+        "Es una artropatía inflamatoria y seronegativa.",
+        "El metotrexato es una buena opción terapéutica.",
+        "La psoriasis suele preceder a la artritis.",
+        "Es muy rara la afectación de las articulaciones interfalángicas distales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Mujer de 29 años diagnosticada de lupus eritematoso sistémico desde hace cinco años. Actualmente, se encuentra bien controlada de su enfermedad, sin requerir tratamiento. Consulta para informarse sobre la posibilidad de quedarse embarazada dada su enfermedad. ¿Cuál de las siguientes afirmaciones sobre lupus y embarazo es VERDADERA?",
+      "opciones": [
+        "Está terminantemente prohibido que una enferma con lupus se quede embarazada, ya que sería peligroso para madre y feto.",
+        "La disminución de la fertilidad en las pacientes con lupus limita mucho la posibilidad de embarazo, siendo necesario recurrir a técnicas de reproducción asistida para conseguir la gestación.",
+        "No está completamente demostrado que la gestación empeore el curso de la enfermedad, pero sí puede haber un empeoramiento en el puerperio. Se recomienda la gestación cuando la enfermedad esté inactiva.",
+        "Puede quedarse embarazada, pero sabiendo que es altamente probable que el feto desarrolle un lupus neonatal, cuadro con una elevada mortalidad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta en la que es fácil descartar opciones de respuesta mediante técnica de examen. Veamos las opciones de respuesta:\n\n1.- Es poco probable si comienza con: \"Está terminantemente prohibido...\".\n\n2.- Nos habla de una disminución de la fertilidad como consecuencia del LES. No es cierto. Es verdad que presentan un riesgo aumentado de abortos, sobre todo en el contexto de un posible síndrome antifosfolípido o una nefritis activa durante la gestación, pero el problema no estaría en conseguir la gestación.\n\n3.- No se ha demostrado que empeore el LES durante la gestación, aunque se recomienda que busquen embarazo cuando la enfermedad esté inactiva (respuesta 3 correcta). Sí que se ha descrito que la enfermedad PUEDE empeorar en el posparto.\n\n4.- Se parece bastante a la primera; de una forma no tan estricta, nos da a entender que el embarazo tiene riesgos que no son asumibles. Solo un pequeño porcentaje (menos del 5%) de los hijos de madres con LES portadoras de anticuerpos anti-Ro y anti-La desarrollarán un lupus neonatal, siendo en la mayoría de los casos un cuadro leve."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Una mujer de 40 años presenta engrosamiento en la piel de la cara, artralgias y dolor centrotorácico que aumenta con la inspiración, así como fenómeno de Raynaud; todo ello desde hace seis meses. En la radiografía de tórax hay cardiomegalia y en el ecocardiograma se objetiva derrame pericárdico. Los anticuerpos anti-SCL 70 son positivos. ¿Cuál es el tratamiento de elección?",
+      "opciones": [
+        "D-penicilamina.",
+        "Aspirina 200 mg/día.",
+        "Prednisona.",
+        "Colchicina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Del tema de esclerosis sistémica (ES), lo más importante es que sepas diferenciar las formas difusa y limitada. Este es un caso de ES difusa. Se caracteriza por afectación cutánea de cara, tronco y extremidades, con fenómeno de Raynaud de reciente comienzo (generalmente el año anterior a las manifestaciones cutáneas). El curso es rápidamente progresivo, y el pronóstico lo marca la afectación pulmonar (enfermedad pulmonar intersticial) y renal. También puede provocar alteraciones cardiacas y gastrointestinales. Se caracteriza por la presencia de Ac anti-topoisomerasa I = anti-SCL 70. Cuando existe afectación cardiaca en forma de pericarditis (como sucede en este caso clínico), el tratamiento de elección son los corticoides a dosis bajas (15-20 mg de prednisona al día) para el tratamiento de la fase aguda, pero no está indicado su uso a largo plazo. Recuerda que en la ES no podemos administrar dosis altas de corticoides debido al riesgo de precipitar una crisis renal esclerodérmica."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Varón de 42 años que hace 7 meses comenzó con fatiga, artralgias y congestión nasal, seguido de un episodio de hemoptisis. La analítica mostró elevación de la VSG, leucocitosis, anemia, alteraciones en el sedimento urinario, así como infiltrados pulmonares. El título de c-ANCA fue de 1:128. ¿Qué tratamiento RECOMENDARÍA en este paciente?",
+      "opciones": [
+        "Ciclosporina 0,5 mg/kg/semanal.",
+        "Metotrexate 1 mg/semanal.",
+        "Prednisona 1 mg/kg/día y ciclofosfamida 2 mg/kg/día.",
+        "Prednisona 0,5 mg/kg/día."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre un paciente con una granulomatosis con poliangeítis, también llamada enfermedad de Wegener, cuyo tratamiento tiene una fase inicial de inducción y una fase posterior de mantenimiento. La fase inicial se basa en corticoides en dosis altas + ciclofosfamida (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "En la artritis periférica de las enfermedades intestinales inflamatorias, es cierto que:",
+      "opciones": [
+        "Guarda relación con el HLA B27.",
+        "Aparece en más del 40% de los casos.",
+        "Guarda relación con los brotes digestivos.",
+        "Es una indicación por sí sola de tratamiento con esteroides."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La artritis de articulaciones periféricas asociada a la enfermedad inflamatoria intestinal aparece en el 25- 30 % de los casos. Es más frecuente en los pacientes que muestran afectación del intestino grueso y complicaciones como abcesos, poliposis pseudomembranosa, lesiones perianales, hemorragias masivas, eritema nodoso, estomatitis, uveitis o pioderma gangrenoso. Suele afectar a grandes articulaciones (rodillas, tobillos) y característicamente muestra un curso paralelo al de la enfermedad intestinal, de forma que coinciden los brotes de artritis con los brotes intestinales (diarrea, rectorragia, fiebre, dolor abdominal). Cuando no haya afectación del esqueleto axial la frecuencia con la que se asocia al B27 es similar a la población general. En su tratamiento es útil cualquier medida que mejore los síntomas intestinales y no necesarimente los corticoides (aunque estos sí pueden ser útiles)."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Una mujer de 63 años, trabajadora de una fábrica textil, consulta a su médico de cabecera porque, desde hace unos meses, presenta dolor en articulaciones interfalángicas proximales y distales de ambas manos que se acentúa con los movimientos. La exploración revela deformación articular característica. La analítica es normal. Su médico recomienda antiinflamatorios, así como jubilación anticipada. Señale el enunciado INCORRECTO al respecto:",
+      "opciones": [
+        "La capsaicina en crema puede proporcionar alivio sintomático tópico, al interferir con el neuropéptido P.",
+        "La patología que padece la paciente descrita es una enfermedad degenerativa sin tratamiento posible, salvo sintomático.",
+        "A diferencia del caso descrito, habitualmente la velocidad de sedimento globular está elevada.",
+        "Es necesario mantener un cierto grado de ejercicio, preferiblemente isométrico, para asegurar la motilidad articular."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Estamos ante un enunciado sencillo aparentemente con respuestas bastante rebuscadas. En este tipo de preguntas lo primero es que no cunda el pánico; debemos elegir la opción que mejor nos cuadre con nuestra sospecha diagnostica. Dado que estamos ante un caso típico de artrosis (artrosis de IF distales y proximales) debemos tener claro solo una cosa, la VSG NO estará elevada dado que no se trata de una enfermedad inflamatoria sistémica y por tanto no tendrá ningún reactante de fase aguda elevado ni ninguna alteración analítica secundaria a la propia artrosis."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "¿Cuál de estos NO es criterio diagnóstico de LES?:",
+      "opciones": [
+        "Erupción malar.",
+        "Ulceras bucales.",
+        "Vasculitis leucocitoclástica cutánea.",
+        "Anticuerpos anti-DNA de doble hélice positivos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El diagnóstico de lupus eritematoso sistémico (LES) se basa en la presencia de al menos 4 de los 11 criterios que se han establecido para este fin. Los cuatro primeros son de manifestaciones cutáneas: erupción malar, erupción discoide, fotosensibilidad y úlceras orales o nasofaríngeas. Los cuatro siguientes de manifestaciones clínicas no cutáneas: artritis, serosistis (pleuritis o pericarditis), enfermedad renal manifestada por proteinuria o cilindros celulares y enfermedad neurológica (convulsiones o psicosis lúpica). Los tres últimos son manifestaciones de laboratorio: enfermedad hematológica (anemia hemolítica, leucopenia, linfopenia o trombopenia), presencia de anticuerpos característicos como anti- DNSds; anti- Sm o antifosfolípido, y por último la determinación de anticuerpos antinucleares. Como puedes comprobar, la respuesta correcta es la vasculitis leucocitoclastica cutánea."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA?:",
+      "opciones": [
+        "El factor reumatoide es un autoanticuerpo que reacciona con el fragmento Fc de la inmunoglubulina G.",
+        "Existen diferentes tipos de factor reumatoide.",
+        "Algunas infecciones víricas agudas pueden ir asociadas a la presencia de factor reumatoide.",
+        "La presencia de factor reumatoide en una poliartritis es diagnóstica de artritis reumatoide."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El factor reumatoide es un criterio diagnóstico más de la artritis reumatoide, que ni es específico (aparece en otros múltiples procesos e incluso en población sana), ni aparece en tosos los casos de la enfermedad (el 30% de los pacientes con AR no muestran factor reumatoide). El FR es una Ig (de diferentes tipos) que reacciona frente a la Fc de la Ig G. El más frecuentemente detectado es de tipo IgM. La opción que ofrece más dudas es la 3, ya que el porcentaje de personas sanas que muestran FR no es pequeño, se encuentra en el 5% de la población general y el porcentaje alcanza el 15- 20 % de las personas de edad avanzada."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Ante un paciente con una trombosis venosa profunda y con positividad en 2 determinaciones diferentes para anticoagulante lúpico y anticuerpos anticardiolipina, ¿Cuál de los siguientes sería el tratamiento más indicado?",
+      "opciones": [
+        "Enoxaparina 40 mg diarios.",
+        "Ácido acetilsalicílico 100 mg diarios.",
+        "Medias de compresión en miembros inferiores.",
+        "Acenocumarol."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Ante casos diagnósticos de síndrome antifosfolípido, está indicado el tratamiento anticoagulante con acenocumarol, manteniendo un INR entre 2.5 y 3.5. En casos en los que no se pueda administrar o esté contraindicado, se pueden emplear heparinas de bajo peso molecular a dosis anticoagulantes."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "¿Cuál de estas afirmaciones es FALSA respecto a la osteoporosis postmenopáusica?",
+      "opciones": [
+        "La pérdida de masa ósea se inicia en el hueso cortical.",
+        "Es más frecuente en mujeres ooforectomizadas.",
+        "Se hace evidente entre los 50 y los 75 años.",
+        "Es más frecuente en mujeres fumadoras."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La pérdida ósea es fundamentalmente en la zona trabecular, más que en la cortical. Para recordarlo, ten presente la imagen de una densitometría, en la que se valora la pérdida de masa ósea trabecular respecto a la media poblacional. Por ello, es frecuente la fractura del cuerpo vertebral (trabecular). En cambio, aquellas en las que la pérdida cortical es más importante (fractura de cuello de fémur, por ejemplo) es más frecuente en ancianos."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Una de las siguientes características anatomopatológicas NO es propia de la panarteritis nodosa clásica:",
+      "opciones": [
+        "Marcada necrosis fibrinoide.",
+        "Afectación parcheada, con predominio de las zonas de bifurcación.",
+        "Depósito de inmunocomplejos en la pared vascular.",
+        "Afectación de capilares y vénulas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "¿Cuál de los siguientes NO es un componente del denominado síndrome CREST, manifestación típica de la esclerosis sistémica con afectación cutánea limitada?",
+      "opciones": [
+        "Calcinosis cutánea.",
+        "Fenómeno de Raynaud.",
+        "Enfermedad pulmonar intersticial.",
+        "Telangiectasias."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las manifestaciones del síndrome de CREST son calcinosis, fenómeno de Raynaud, afectación esofágica (típicamente hipomotilidad de 2/3 inferiores, y disfunción de EEI), esclerodactilia y telangiectasias (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "En relación con la fibrosis retroperitoneal relacionada con IgG4, cuál es CIERTA:",
+      "opciones": [
+        "Debemos considerar el linfoma en el diagnóstico diferencial.",
+        "Suele presentar buena respuesta a corticoides.",
+        "Suele presentar niveles elevados de IgG4 en suero.",
+        "Es más frecuente en mujeres asiáticas mayores de 50 años."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La enfermedad relacionada con IgG4 predomina en general en varones de entre 50 y 70 años (respuesta 4 falsa) y la raza asiática es más frecuente en las formas limitadas de cabeza y cuello y en la forma sistémica/síndrome de Mikulicz, mientras que la raza blanca predomina en las formas pancreato-hepato-biliares y especialmente en la fibrosis retroperitoneal.\n\nLa fibrosis retroperitoneal supone el fenotipo de enfermedad relacionada con IgG4 con menor elevación de IgG4 (respuesta 3 falsa) y peor respuesta a corticoides (respuesta 2 falsa).\n\nEn los casos de masas de partes blandas retroperitoneales que rodean o engloban la aorta y/u otras estructuras no podemos asumir el diagnóstico de IgG4 sin biopsia, ya que los síndromes linfoproliferativos son indistinguibles desde el punto de vista de la imagen (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Mujer de 53 años, con fenómeno de Raynaud de 10 años de evolución, consulta por la aparición de artralgias y artritis de la muñeca izquierda, así como por una esclerodactilia, disfagia, sobre todo para alimentos sólidos, y empeoramiento de su fenómeno de Raynaud. Sabiendo que los ANA son positivos a 1:160, ¿cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "LES.",
+        "Esclerosis sistémica.",
+        "Enfermedad mixta del tejido conectivo.",
+        "Síndrome de superposición."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos describen un caso de esclerosis sistémica limitada. El fenómeno de Raynaud se presenta en la práctica totalidad de los pacientes, a menudo es la primera manifestación de la enfermedad, y puede preceder en años a la aparición del resto de signos y síntomas, a diferencia de lo observado en la difusa en la que la precede en meses. Las alteraciones músculo-esqueléticas se observan en la mitad de los pacientes incluyendo artralgias y artritis (puede llegar a ser similar a la artrititis reumatoide). La afectación esofágica es la afectación visceral más frecuente, originando disfagia, pirosis, plenitud gástrica y dolor retroesternal. No olvides que la positividad de los ANAs es más bien inespecífica para este tipo de enfermedades, presentándose en un 95% de los pacientes con esclerosis sistémica."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Varón de 29 años, VIH positivo, que consulta por artritis de comienzo agudo en tobillo derecho, junto con talalgia intensa, y a la que se ha añadido tumefacción de rodilla izquierda e intensa inflamación de 2º y 4º dedos del pie izquierdo, observándose además lesiones pustulosas en plantas y queratosis ungueal intensa. El paciente presenta además conjuntivitis bilateral, astenia, anorexia y febrícula. El líquido sinovial extraído de la rodilla es amarillento y turbio, tiene una viscosidad baja, glucosa baja, proteínas altas y 50.000 PMN/mm3, y no se evidencia gérmenes en el gram. Refiere haber tenido un episodio de diarrea sanguinolenta hace 15 días aproximadamente. Ud sospecha que este paciente presenta:",
+      "opciones": [
+        "Artritis séptica.",
+        "Artritis gonocócica.",
+        "Artritis reactiva.",
+        "Artritis psoriásica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La causa más frecuente de artritis aguda en el VIH positivo es la artritis reactiva. Por otra parte, la presencia de talalgia, conjuntivitis, lesiones plantares y diarrea sanguinolenta previa sugieren fuertemente este diagnóstico."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Valorando un paciente, en estudio en su consulta por una artritis de pequeñas articulaciones de meses devolución, tras una serie de pruebas le consigue realizar el diagnóstico de artritis rematoidea. ¿Cual de los siguientes fármacos deben incluir dentro del tratamiento de entrada?",
+      "opciones": [
+        "Metotrexato",
+        "Metilprednisolona",
+        "Etoricoxib",
+        "Diclofenaco"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Debes conocer que el tratamiento de elección en la artritis reumatoide de entrada es el metotrexate"
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cuál de los siguientes fármacos antihipertensivos sería el MENOS indicado en un paciente hipertenso con antecedentes de artritis gotosa?",
+      "opciones": [
+        "Hidroclorotiazida.",
+        "Amlodipino.",
+        "Losartán.",
+        "Enalapril."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Lo más inadecuado sería la administración de diurético que eleve la uricemia mientras que, por el contrario, hay algún antihipertensivo que puede ser beneficioso para los pacientes con gota por su efecto uricosúrico, como el Losartán o los antagonistas del calcio."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cuál de las siguientes descripciones de líquido articular es más compatible con el diagnóstico de artritis séptica?",
+      "opciones": [
+        "Líquido transparente con glucosa 75 mg/dl y proteínas normales.",
+        "Líquido turbio con presencia de 50.000 PMN/ml y glucosa 17 mg/dl.",
+        "Líquido turbio con presencia de 20.000 PMN/ml y cristales con birrefringencia negativa en el examen con luz polarizada.",
+        "Líquido claro con glucosa 25 mg/dl y proteínas altas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El examen fundamental es el estudio del líquido sinovial, que es de características infecciosas: aspecto turbio o purulento, recuento celular habitualmente superior a 50.000 leucocitos/mm3, de predominio polimorfonuclear y consumo de glucosa. El punto de corte de 50.000 células no permite, sin embargo, diferenciar entre artritis microcristalinas y sépticas, pues las primeras pueden sobrepasar frecuentemente dicho umbral."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cual de las siguientes manifestaciones clínicas hematológicas en el lupus eritematoso sistémico es más frecuente?",
+      "opciones": [
+        "Esplenomegalia",
+        "Linfadenopatías",
+        "Trombopenia",
+        "Leucopenia"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Recuerda que las alteraciones hematológicas en el LES son muy frecuentes y dentro de ellas la anemia de trastorno crónico y la leucopenia son las más frecuentes"
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Un anciano con TBC e ICC que recibe tratamiento para ambas patologías, desarrolla un cuadro de artritis aguda en el tobillo derecho que cede a las pocas horas de la infusión i.v. de colchicina. ¿Cuál de los siguientes fármacos NO suele producir esta complicación?:",
+      "opciones": [
+        "Hidroclorotiazida.",
+        "Isoniacida.",
+        "Piracinamida.",
+        "Etambutol."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El paciente ha desarrollado un cuadro de monoartritis aguda que cede con la administración de colchicina por vía intravenosa por lo que debes suponer que se trata de una artritis por microcristales, probablemente de ácido úrico. Esta sospecha se confirma al analizar las respuestas ya que aparecen en todas ellas, excepto en la que es correcta, diversos fármacos que producen hiperuricemia al disminuir la excreción renal de ácido úrico. Entre estos fármacos están algunos tuberculostáticos como la piracinamida o el etambutol, pero no la isoniacida que es la respuesta correcta. Los diuréticos como la hidroclorotiazida, la aspirina en dosis bajas (inferiores a los 2 gramos al día) así como la ciclosporina que no aparece en esta pregunta también disminuyen la excreción renal de ácido úrico."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Con respecto a la afectación articular de la artritis reumatoide, es INCORRECTO que:",
+      "opciones": [
+        "La afectación articular se produce generalmente de forma simétrica.",
+        "La afectación axial afecta, exclusivamente, a la columna dorsal.",
+        "La implicación de las articulaciones interfalángicas distales se produce de forma excepcional.",
+        "Se presenta habitualmente en forma de poliartritis de inicio insidioso."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debes conocer bien la clínica de la artritis reumatoide, sobre todo las peculiaridades de la afectación articular. Generalmente se presenta en forma de poliartritis de inicio insidioso con afectación simétrica, siendo las metacarpofalángicas y las muñecas las más frecuentemente afectadas. Recuerda que la implicación de las interfalángicas distales es excepcional (su afectación es más típica de la artropatía psoriásica). En la opción de respuesta 2 se afirma que la afectación dorsal es la típica de la enfermedad cuando, en realidad, es la cervical (opción 2 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "¿Cuál de las siguientes situaciones se asocia a artropatía por oxalato cálcico?:",
+      "opciones": [
+        "Hemocromatosis.",
+        "Hemodiálisis.",
+        "Hipotiroidismo.",
+        "Dermatomiositis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El depósito de cristales de oxalato cálcico puede deberse a una oxalosis primaria o a una oxalosis secundaria. La oxalosis primaria es un trastorno metabólico hereditario raro. La formación excesiva de ácido oxálico se debe al menos a dos defectos enzimáticos distintos que acarrean hiperoxalemia y depósito de cristales de oxalato en los tejidos. La oxalosis secundaria es más frecuente que la primaria y constituye una de las muchas alteraciones metabólicas que aparecen como complicación de la insuficiencia renal terminal. Los pacientes afectos por este proceso eran dependientes de hemodiálisis o de diálisis peritoneal durante largos periodos, y muchos habían recibido suplementos de ácido ascórbico. El ácido ascórbico, al metabolizarse, produce oxalatos. Actualmente suele evitarse la administración de estos suplementos durante las sesiones de hemodiálisis, dado el incremento de incrementar la hiperoxalosis y sus consecuencias."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Ante la sospecha de monoartritis aguda de origen infeccioso, ¿cuál debe ser nuestra actitud inicial tras realizar artrocentesis?",
+      "opciones": [
+        "Iniciar tratamiento antibiótico oral.",
+        "Iniciar tratamiento antibiótico empírico iv.",
+        "Esperar resultados de estudios microbiológicos.",
+        "Iniciar tratamiento antibiótico empírico intraarticular."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Varón de 32 años que acude a consulta por la aparición de una parótida aumentada de tamaño, boca seca y queratitis seca con un test de Schirmmer positivo (ausencia de secreción lacrimal). En la biopsia parotídea se observa un infiltrado linfocitario con predominio CD8. Como antecedente de interés refiere un cuadro mononucleósico hace 2 meses. ¿Qué es lo más probable?:",
+      "opciones": [
+        "Sarcoidosis.",
+        "Linfoma linfoblástico.",
+        "Sind. de linfocitosis difusa infiltrativa por HIV.",
+        "Recidiva mononucleósica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta te servirá para memorizar una posible causa infecciosa de un síndrome indistinguible del Sjögren. El virus HIV puede hacer casi de todo, y ésta es una curiosidad más. La clínica es la de xerostomía y queratoconjuntivitis seca, con hipertrofia parotídea y infiltrados linfocitarios. Sin embargo el infiltrado está compuesto por linfocitos CD8, y el paciente es muy joven, además de tener un antecedente típico de primoinfección VIH (el síndrome mononucleósico). Pues, debes sospechar que hay una causa infecciosa imitando al Sjögren, capaz de crear un síndrome mononucleósico. Los linfomas a que predispone el Sjögren aparecen tras mucho tiempo de evolución de la enfermedad, y no son de linfocitos CD8+, sino de linfocitos B. La sarcoidosis presenta hipertrofia parotídea pero además disnea, parálisis facial,? otros síntomas distintos."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Respecto a la artritis reumatoide, señale la opción falsa:",
+      "opciones": [
+        "La manifestación ocular más común es la escleritis pudiéndose hacías en ocasiones a un síndrome de Sjögren secundario",
+        "En aquellos pacientes que desarrollan modelos subcutáneos, lo más habitual es que presenten factor reumatoide positivo",
+        "La pleuritis es la modificación este articular más frecuente, aunque suele ser asintomática",
+        "Los pacientes que presentan vasculitis reumatoidea la tomé a patológica de las lesiones es muy similar a la observada y la panarteritis nodosa"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Debes conocer que la manifestación ocular más común en la AR es la conjuntivitis que estará en el 20% de los pacientes\n\nLa escleritis, es la manifestación ocular más específica, pero sólo está en el 1% de los pacientes"
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "¿Cuál es la vía MÁS frecuente de producción de una artritis séptica?",
+      "opciones": [
+        "Por contigüidad.",
+        "Hematógena.",
+        "Local a través de cortes o heridas.",
+        "Tras cirugías abiertas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La vía más frecuente en todas las artritis sépticas es la hematógena, tras bacteriemia de cualquier origen."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Un varón de 80 años, diabético de años de evolución, acudió a consulta por rigidez de raquis de 10 años de evolución. En la anamnesis dirigida no refería dolor alguno. La exploración física evidenció una gran disminución de la flexoextensión, flexiones laterales y rotaciones del raquis cervical. El raquis dorsal y lumbar también estaban limitados. La radiología evidenció calcificaciones en la cara anterolateral de los cuerpos vertebrales, formando puentes óseos intervertebrales, que predominaban en lado derecho; el espacio discal estaba conservado. ¿Cuál es su diagnóstico?",
+      "opciones": [
+        "Espondilitis anquilopoyética.",
+        "Artrosis de raquis.",
+        "Hiperostosis anquilosante vertebral de Forestier- Rotes.",
+        "Mastocitosis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es la foto típica de la hiperostosis anquilosante vertebral difusa (enfermedad de Forestier-Rotes). Esta enfermedad presenta rigidez axial (principalmente dorsal y cervical baja, sin comprometer las sacroilíacas) en pacientes de edad avanzada, indolora (o con muy poco dolor de características mecánicas) y cuyos hallazgos radiológicos descritos en la pregunta se corresponden con engrosamientos asimétricos de las corticales de las vértebras, dando un aspecto de imagen en “cera derretida”, sin presentar sindesmofitos (respuesta 3 correcta). Repasemos las demás opciones de respuesta:\n1.- La Espondilitis anquilosante (aunque al igual que el Forestier es más frecuente en varones), suele iniciar antes de 40 años, con limitación y dolor de características inflamatorias a nivel de las sacroilíacas [sacroileitis radiológica generalmente simétrica, es hallazgo radiológico imprescindible (100% de los casos)] y que clásicamente en la radiografía de columna vertebral muestra el patrón “caña de bambú” por la presencia de cuadratura vertebral, sindesmofitos y anquilosis de las articulaciones interapofisarias.\n2.- En la artrosis del raquis se produce dolor, limitación y además alteración en el espacio intervertebral por lesión del cartílago articular. Las vértebras que se afectan con mayor frecuencia son las cervicales y las lumbares.\n4.- La mastocitosis en sus dos variantes, la cutánea (más frecuente) y la sistémica con afectación de varios órganos como médula ósea y/u otros órganos extracutáneos como huesos, hígado, bazo o ganglios linfáticos (70% afectación ósea), en la radiología hablarían de un patrón osteolítico u osteoblástico en varios huesos, acompañados de clínica sistémica."
+    }
+  ]
+}

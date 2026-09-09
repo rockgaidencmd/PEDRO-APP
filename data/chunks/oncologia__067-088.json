@@ -1,0 +1,606 @@
+{
+  "materia": "oncologia",
+  "paginaInicio": 67,
+  "paginaFin": 88,
+  "anomalias": [
+    "p67: en la bioquímica del enunciado el ácido úrico aparece como '951 mol/L'; falta el prefijo µ (µmol/L), que no se rasterizó",
+    "p70: las opciones de la pregunta de hipercalcemia llevan la numeración duplicada en el propio texto ('1. 1. Salino intravenoso...'); se transcribe tal cual",
+    "p73: la explicación de la pregunta sobre tumores curables arrastra los enlaces y los créditos editoriales de la American Cancer Society (Managing Director, Content / Eleni Berger / Amy Sherrod... / Elizabeth Mendes), que continúan en la p74; se incluyen dentro de 'explicacion'",
+    "p78: la pregunta 'Mujer de 60 años, postmenopáusica...' no tiene explicación escrita, solo 'Comentario: Comentada en vídeo'",
+    "p84: la pregunta '¿Cuál de las siguientes relaciones entre biomarcador... es falso?' no tiene explicación escrita, solo 'Comentario: Comentada en vídeo'",
+    "p86: las opciones de la pregunta del síndrome de vena cava superior llevan la numeración duplicada en el propio texto ('1. 1. Quimioterapia + medidas de soporte vital'); se transcribe tal cual",
+    "p87: en el resumen del tratamiento del síndrome de vena cava superior las flechas están rasterizadas como 'à' (fuente Wingdings no convertida), p.ej. 'linfomas)à Quimioterapia'",
+    "p87: el comentario afirma que la pentazocina activa 'el receptor opioide γ'; el receptor de la pentazocina es el κ, el carácter parece mal rasterizado",
+    "p87: la pregunta 'Una mujer de 65 años, a raíz de una anemia ferropénica...' no tiene explicación escrita, solo 'Comentario: Comentada en vídeo'"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 67,
+      "enunciado": "En la respuesta celular al daño radioinducido ¿cuál de estas afirmaciones es incorrecta?",
+      "opciones": [
+        "Los sensores del daño al ADN detectan lesiones en el genoma y lo señalan a vías efectoras",
+        "La muerte celular programada es una de las respuestas celulares al daño radioinducido",
+        "La célula no activa mecanismos de reparación del ADN dañado por radiaciones ionizantes",
+        "Los puntos de control del ciclo celular bloquean o enlentecen la progresión de la célula a la siguiente fase del ciclo celular"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta al daño del ADN inducido por las radiaciones ionizantes consiste en un sistema de vías de señalización altamente interrelacionadas, cada una de las cuales controla diferentes efectos sobre la célula. Determina la viabilidad celular tras el daño radioinducido e implica a numerosos genes. Este sistema se divide en dos partes:\n\nSensores del daño al ADN consistente en un grupo de proteínas que vigilan la presencia de daños en el genoma ( fundamentalmente roturas de cadena doble) y señalan el daño a las vias efectoras.\n\nEfectores de respuesta al daño del ADN que determinarán con su activación en futuro de la célula dañada (muerte celular programada, activación de puntos de control del ciclo celular o reparación del daño al ADN)"
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Acude a urgencias Francisco, un paciente de 45 años en el segundo día post-quimioterapia por un linfoma de Burkitt aquejando una intensa irritabilidad muscular y espasmos y contracturas en manos y pies. A la exploración el paciente se encuentra hiperventilando. Realizamos una bioquímica sanguínea que aporta los siguientes datos: glucosa 4,6 mmol/L, urea 31 mmol/L, sodio 138 mmol/L, potasio 5,1 mmol/L, calcio 1,8 mmol/L, ácido úrico 951 mol/L, fósforo 2,16 mmol/L, LDH 1687 U/L, AST 39 U/LI, ALT 14 U/L y ácido láctico 8,5 mmol/L. Cuál sería su diagnóstico de presunción:",
+      "opciones": [
+        "Síndrome de lisis tumoral.",
+        "Hipoparatiroidismo secundario.",
+        "Reacción adversa a tratamiento quimioterápico.",
+        "Progresión tumoral con metástasis óseas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento eficaz de los tumores puede precipitar aparición de un síndrome de lisis tumoral, con la consecuente liberación de potasio, fosfato, ácido úrico y otros productos de degradación de las células. Las manifestaciones clínicas son las derivadas de los trastornos hidroelectrolíticos: hiperpotasemia, hiperfosfatemia, hiperuricemia, acidosis láctica e HIPOcalcemia. Se produce con frecuencia en linfomas de alta agresividad como el linfoma de Burkitt, la LLA y el carcinoma microcítico de pulmón. Suele aparecer entre el primer y quinto día post-quimioterapia. En cuanto a su tratamiento es vital su prevención en las neoplasias altamente replicativas y muy sensibles al tratamiento y en aquellos casos con alta carga tumoral mediante hidratación abundante, alopurinol y alcalinización de la orina."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Una paciente de 32 años acude a su consulta tras ser intervenida de un cáncer de mama derecho mediante cirugía conservadora. El informe de anatomía patológica informa de carcinoma ductal infiltrante moderadamente diferenciado de 2 cm con afectación de 8 de 12 ganglios aislados. Receptores de estrógenos y progesterona positivos. Her-2 negativo. El tratamiento adyuvante indicado incluiría todas las opciones EXCEPTO:",
+      "opciones": [
+        "Quimioterapia sistémica.",
+        "Radioterapia sobre lecho mamario.",
+        "Hormonoterapia con inhibidores de la aromatasa.",
+        "Radioterapia sobre hueco axilar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante un carcinoma infiltrante de mama tratado con cirugía conservadora, asociamos RT de la mama (opción 2 correcta). La afectación ganglionar condiciona administrar QT y RT sobre la axila(opciones 1 y 4 correctas). La positividad de los RE condiciona la administración de hormonoterapia, pero dada la edad de la paciente el fármaco de elección será tamoxifeno y no los inhibidores de la aromatasa. Los inhibidores de la aromatasa pueden ser esteroideos (exemestano) o no esteroideos (anastrozol y letrozol) y son fármacos que inhiben la vía enzimática que convierte los andrógenos en estrógenos en los tejidos periféricos, principal fuente de estrógenos en la mujer posmenopáusica."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Paciente de 45 años que es diagnosticado de un melanoma maligno cutáneo en la espalda con un Breslow de 3 mm. En el estudio de extensión se aprecia la existencia de metástasis en ganglios retroperitoneales y metástasis hepáticas. Se le realiza un estudio de BRAF sobre la muestra del tumor primario, apreciando la existencia de la mutación BRAF V600-E. ¿Cuál de los siguientes es el MEJOR tratamiento para este paciente?",
+      "opciones": [
+        "Interleuquina-2 a altas dosis.",
+        "Dacarbazina.",
+        "Dabrafenib y Trametenib.",
+        "Vemurafenib."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El tratamiento del melanoma metastásico en pacientes con mutaciones de BRAF puede consistir en diferentes opciones que se pueden dividir en dos grupos: inmunoterapia o tratamiento dirigido. En el caso del tratamiento dirigido se ha observado que es mejor la combinación de un inhibidor de BRAF (como Dabrafenib o Vemurafenib) y un inhibidor de MEK (como Trametenib) respecto a un inhibidor de BRAF en monoterapia (respuesta 3 correcta). Dacarbazina e IL-2 son opciones de tratamiento que en la actualidad han quedado relegadas a últimas línea de tratamiento en pacientes que ya han recibido inmunoterapia y tratamiento dirigido previamente."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Eres el Oncólogo de guardia del hospital y te consultan desde Urgencias por una paciente con diagnóstico de cáncer metastásico y con tratamiento (que desconocemos). Según te cuenta el SEM la paciente tiene diarreas. Te planteas diversos fármacos que podrían dar lugar a diferentes tipos de diarrea en un paciente oncológico. ¿Cuál de los siguientes fármacos tiene menor potencial de dar lugar a este efecto adverso?",
+      "opciones": [
+        "Letrozol.",
+        "Ipilimumab.",
+        "Irinotecan.",
+        "Capecitabina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las diarreas son un efecto adverso muy común entre los diferentes tipos de tratamiento antineoplásico (quimioterapia convencional, tratamiento biológico, tratamiento dirigido, inmunoterapia, etc). El Letrozol se ha asociado al desarrollo de diarreas y estreñimiento en pacientes pero, de los fármacos que se exponen, es del que sospecharíamos en menor medida. Merece especial mención el Ipilimumab (un agente de inmunoterapia anti-CTLA4) que se ha asociado al desarrollo de diarrea en torno al 25-30% de los pacientes."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "En un paciente en situación terminal de enfermedad que precisa morfina para un correcto control sintomático, ¿cuál de las siguientes actuaciones, encaminadas al control del estreñimiento, está contraindicada?:",
+      "opciones": [
+        "Pautar laxantes estimulantes de la motilidad colónica.",
+        "Pautar fibra.",
+        "Pautar laxantes reblandecedores de heces.",
+        "Pautar laxantes vía rectal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para el control del estreñimiento por morfina se pueden utilizar laxantes osmóticos o estimulantes , un laxante reblandecedor de heces o también laxantes rectales. La ingesta de fibra es lo menos indicado ya que para ser eficaz debe ingerirse con abundante agua, que no suele ser bien tolerada por estos pacientes. Además, es poco eficaz en el estreñimiento grave, que es el que suelen presentar los pacientes graves en tratamiento con opiaceos"
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "Un paciente de 65 años con diagnóstico de carcinoma microcítico de pulmón E-IV acude a Urgencias presentando intenso dolor en columna dorsal a nivel de T8. El dolor se irradia hacia el brazo derecho en su cara interna. Se le realiza una TC urgente que evidencia la presencia de una masa expansiva en cuerpos vertebrales T7-T8-T9 que invade el canal medular. Señale cuál es la actitud MÁS adecuada:",
+      "opciones": [
+        "Cirugía urgente previa administración de metilprednisolona.",
+        "Administrar dexametasona y morfina por vía intravenosa.",
+        "Administrar dexametasona y realizar radioterapia urgente.",
+        "Quimioterapia urgente previa administración de prednisona."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante un síndrome de compresión medular es de elección administrar dexametasona a altas dosis e iniciar tratamiento con radioterapia lo antes posible. La cirugía solo está indicada en caso de necesitar un diagnóstico histológico, si hay inestabilidad espinal, o si hay fragmentos óseos en el canal medular. La quimioterapia puede ser útil en tumores muy quimiosensibles, pero no es de primera elección."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Varón de 67 años afecto de un adenocarcinoma de colon metastásico sin mutaciones de RAS (KRAS, NRAS y BRAF) al disgnóstico que ha progresado a 3 lineas de tratamiento (incluyendo combinaciones de análogos de pirimidinas con oxaliplatino, irinotecan y anti-EGFR). Buscando nuevas opciones de tratamiento, se decide realizar una biopsia de una de las lesiones hepáticas que confirma la ausencia de mutaciones en RAS y muestra un perfil de inestabilidad de microsatélites (MSI) con pérdida de expresión MLH1 y MSH6 por inmunohistoquímica. Basándonos en datos de la FDA, podríamos solicitar el uso de unos de los siguientes fármacos:",
+      "opciones": [
+        "TAS-102.",
+        "Ipilimumab.",
+        "Regorafenib.",
+        "Pembrolizumab."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La alteración de las proteínas reparadoras del ADN del Mismatch Repair dan lugar a un aumento de los errores en la replicación del ADN durante el ciclo celular. Esos errores dan lugar a modificaciones en la traducción de las proteínas dando lugar a nuevas proteínas o neoantígenos. Esos neoantígenos pueden ser reconocidos por el sistema inmune como extraños y, por lo tanto, atacarían al tumor. La inmunoterapia en estas situaciones han demostrado eficacia en inhibir la represión tumoral sobre el sistema inmune y, por lo tanto, favorecer que el sistema inmune ataque al tumor con mayor facilidad. Teniendo en cuenta ello, FDA ha aprobado Pembrolizumab para el tratamiento de tumores de órgano sólido que muestren un perfil MSI (independiente de la localización)."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Paciente varón, fumador de 64 años diagnosticado recientemente de carcinoma epidermoide de pulmón. Acude a urgencias por presentar desde hace 24h sed, poliuria, dolor abdominal y somnolencia intensa. En la exploración el paciente se muestra confuso. TA 135/85 mmHg, Tª 36.1ºC FC 90 lpm. En la analítica destaca un calcio corregido de 11.9. ¿Cuál es la actitud prioritaria en este caso?",
+      "opciones": [
+        "1. Salino intravenoso + furosemida i.v + zolendronato iv",
+        "2. Corticoides iv",
+        "3. Furosemida iv + zolendronato iv",
+        "4. Quelantes cálcicos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos encontramos ante un caso clínico sencillo en el cual nos cuentan los síntomas típicos (aunque inespecíficos) de una hipercalcemia maligna. Además cuentan que el paciente tiene un carcinoma epidermoide de pulmón que como sabéis puede producir PTHr que causa hipercalcemia.\n\nEn cuanto al tratamiento lo más importante es la sueroterapia intravenosa urgente, a lo que se pueden añadir furosemida intravenosa (en caso de que no haya déficit de volumen) y bifosfonatos intravenosos. (Respuesta correcta 1)\n\nPor último recordar que los corticoides pueden ser útiles para el tratamiento de la hipercalcemia maligna pero su inicio de acción es lento (unos 5/7 días) por lo que no son eficaces en la fase aguda. En cuanto a los quelantes cálcicos, se suelen utilizar en hipercalcemias crónicas como las de la insuficiencia renal crónica."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Varón de 75 años, diagnosticado de un adenocarcinoma de próstata con metástasis óseas, que acude a Urgencias por dolor lumbar agudo con imposibilidad para caminar. A la exploración física se aprecia debilidad distal de miembros inferiores y una retención aguda de orina. Usted solicita una prueba de urgencia que confirma la sospecha clínica. A este respecto, es FALSO que:",
+      "opciones": [
+        "La prueba diagnóstica de elección es la RMN urgente.",
+        "De confirmarse la sospecha, hay que administrar dosis altas de dexametasona.",
+        "El segmento medular más afectado es el lumbosacro.",
+        "La radioterapia es una alternativa a la cirugía en pacientes no candidatos por grado de afectación o pronóstico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La compresión medular debe sospecharse en pacientes con metástasis óseas que tienen aumento del dolor junto a alteraciones autonómicas, motoras o sensitivas en miembros inferiores. La prueba principal para el diagnóstico es una RMN urgente para valorar el grado de compromiso del canal medular. El segmento medular más afectado es el torácico (opción 3 falsa, por lo que la marcamos), seguido del lumbosacro. El tratamiento es multimodal e implica la dexametasona en conjunto con el tratamiento de radioterapia y/o quirúrgico (en función del grado de afectación y pronóstico del paciente)."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "¿En cuál de las siguientes situaciones NO estaría recomendada la realización de la técnica del ganglio centinela?",
+      "opciones": [
+        "Mujer de 28 años en la que se ha realizado tumorectomía de nódulo mamario 12×14 mm, con PAAF ganglionar positiva para células tumorales.",
+        "Varón de 32 años con adenocarcinoma de mama luminal A en el que se va a realizar tratamiento conservador.",
+        "Mujer 67 años con antecedentes familiar de cáncer de mama y ovario, con BAG sobre nódulo en cuadrante superoexterno mamario compatible con adenocarcinoma infiltrante mamario con sobreexpresión HER-2.",
+        "Mujer de 45 años con carcinoma ductal infiltrante in situ de 35 mm de diámetro que se va a realizar cirugía conservadora."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Con PAAF ganglionar positiva ya no es necesaria la realización de la técnica del ganglio centinela (marcamos la opción de respuesta 1)."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "Desde un punto de vista estrictamente teórico, el tratamiento de elección para el estreñimiento inducido por opiáceos consiste en:",
+      "opciones": [
+        "Lactulosa.",
+        "Parafina.",
+        "Metilcelulosa.",
+        "Senósidos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La fisiopatología del estreñimiento en el tratamiento con opiáceos parece ser por aumento del tono segmentario y disminución de los movimientos peristálticos del intestino. Para contrarrestar este efecto los laxantes más indicados, en teoría, serían los estimulantes del peristaltismo tipo senósidos, en dosis progresiva según control (respuesta 4 correcta); sin embargo, en la práctica se sabe que no existen laxantes «puros», y los efectos de unos y otros se suelen superponer. Se recomienda combinar los estimulantes con osmóticos, tipo lactulosa, para obtener mejores resultados."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "Se presenta en su consulta de oncología un varón no fumador que acaba de ser diagnosticado de cáncer epidermoide de pulmón estadio IV. Presenta traslocación en el gen ALK. ¿Qué tratamiento le propondría?",
+      "opciones": [
+        "Tratamiento dirigido con inhibidor de tirosin kinasa (crizotinib).",
+        "Inmunoterapia (pembrolizumab).",
+        "Quimioterapia combinada con bevacizumab.",
+        "Quimioterapia con radioterapia concomitante, seguido de cirugía si es posible."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En cáncer de pulmón no microcítico en estadio avanzado con traslocación en el gen ALK o ROS1, el tratamiento de elección seria un tratamiento dirigido con crizotinib. Utilizaríamos pembrolizumab en caso de positividad de PD-L1. El tratamiento con bevacizumab estaría contraindicado por alto riesgo de sangrado."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "Paciente de 61 años, sin antecedentes familiares de interés. En su Historia Clínica destaca colecistectomía abierta hace 30 años. HTA de 10 años de evolución, en tratamiento. DM tipo 2, de seis años de evolución. Anemia crónica de origen indeterminado, con aspirado medular con frotis normal. Acude al Servicio de Urgencias por astenia, anorexia y fiebre vespertina de 39 ºC. En la exploración presenta masa palpable en flanco derecho. En analítica destacan Hb 6,28 g/dL, hematocrito 20,59%. Leucocitos 10.220. Plaquetas 575.000. En ecografía, se observa tumoración de 11×10 cm en polo inferior con datos de pielonefritis. En TC abdominopélvica, se observa metástasis, por lo que se decide tratamiento con un inhibidor del VEGF (bevacizumab), que no resulta exitoso. ¿Cuál de los siguientes fármacos tiene APROBADO su uso en el tratamiento del cáncer renal metastásico tras fallo de bevacizumab?",
+      "opciones": [
+        "Trastuzumab.",
+        "Dabrafenib.",
+        "Everolimus.",
+        "Nivolumab."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El everolimus, es un inhibidor de mTOR (diana de rapamicina en mamíferos que controla la división celular). Está aprobado su uso en el tratamiento del cáncer renal metastásico tras fallo de un inhibidor del VEGF (bevacizumab o un ITK)."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "Todos los siguientes tumores en estadio avanzado son potencialmente curables con los actuales protocolos de quimioterapia, excepto uno. Señálelo:",
+      "opciones": [
+        "Seminoma testicular.",
+        "Carcinoma microcítico de pulmón.",
+        "Linfoma folicular.",
+        "Adenocarcinoma de mama."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Basándonos en las primera líneas de tratamiento quimioterápico de los distintos tipos de tumores, se han observado curaciones en estadio avanzando en: cáncer microcítico de pulmón, seminoma testicular y linfoma folicular, entre otros. En cambio, el adenocarcinoma de mama no es potencialmente curable en estadios avanzados únicamente con quimioterapia.\n\nClásicamente en el siglo XX, se observó que el primer tumor en estadio avanzado en ser potencialmente curable con quimioterapia era el tumor testicular.\n\nMás adelante aparecieron resultados prometedores con el carcinoma microcítico de pulmón, si bien es cierto, que en los últimos años esos prometedores resultados han quedado reducidos a que, únicamente, un 10% de los cánceres microcíticos de pulmón en estadio avanzado son curables con quimioterapia.\n\nDe esta pregunta es importante recordar que el cáncer en estadio avanzado de la mama no es curable únicamente con quimioterapia. Este cáncer sería candidato a una terapéutica multidisciplinar e individualizada.\n\n-https://www.seom.org/es/el-cancer-de-testiculo-es-un-modelo-de-enfermedad-oncologica-curable\n\n-https://www.cancer.org/es/cancer/cancer-de-pulmon-microcitico/tratamiento/quimioterapia.html. ACS Medical Content and News Staff\n\nManaging Director, Content\n\nEleni Berger\n\nDirector, Cancer Information\n\nAmy Sherrod, RN, MSN, CPNP\n\nDirector, Digital Content\n\nElizabeth Mendes."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Se encuentra usted trabajando en consultas de oncología, y su primer paciente es una mujer de origen asiático, no fumadora, que acaba de ser diagnosticada de adenocarcinoma de pulmón estadio IV. Al realizar el análisis mutacional, presenta mutación en el gen EGFR. ¿Qué tratamiento iniciaría?",
+      "opciones": [
+        "Tratamiento dirigido con inhibidores de tirosin kinasa (erlotinib, gefitinib).",
+        "Inmunoterapia (pembrolizumab).",
+        "Quimioterapia seguido de radioterapia.",
+        "Quimioterapia con radioterapia concomitante, seguido de cirugía si es posible."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En pacientes con adenocarcinoma de pulmón metastásico con mutación en el gen EGFR, se puede iniciar tratamiento dirigido con inhibidores de tirosin kinasa (erlotinib, gefitinib). En el caso de inmunoterapia con pembrolizumab, estaría indicado cuando existe positividad >50% de la proteína ligando del PD1 (PD-L1)."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Mujer de 65 años, fumadora desde los 20 años de un paquete de cigarrillos al día, con antecedentes de hipertensión, hipercolesterolemia y angina de pecho estable y en tratamiento con enalapril, simvastatina, aspirina y carvedilol. Hace seis meses es diagnosticada de un carcinoma pulmonar de célula pequeña con metástasis óseas. En cuanto al dolor oncológico, señale la afirmación FALSA:",
+      "opciones": [
+        "La causa más habitual de dolor oncológico es la invasión ósea, pudiendo a veces complicarse con un síndrome de compresión medular.",
+        "En un 20% el dolor tumoral es ocasionado por el tratamiento antitumoral (cirugía, quimioterapia o radioterapia).",
+        "En las ocasiones en las que el paciente no responde al tratamiento habitual puede utilizarse placebo.",
+        "En el tratamiento farmacológico del dolor hay que evitar la analgesia a demanda."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Veamos las opciones de respuesta:\n\n1.- El dolor oncológico más común es la invasión tumoral , siendo la más importante la ósea.\n\n2.- Otras causas frecuentes son la obstrucción de visceras huecas, compresión vascular o nerviosa. En un 20% de las ocasiones el dolor esta causado por el tratamiento antitumoral.\n\n3.- El dolor tumoral supone una experiencia subjetiva y por ello el que refiere el paciente es el dolor que pacede, NO utilizando placebo para valorar el componente psicológico del dolor (opción 3 falsa, por lo que la marcamos).\n\n4.- La OMS clasifica el dolor en dos grandes grupos: el noniceptivo, que generalmente responde a los analgésicos, opiáceos y AINEs convencionales; y el neuropático de más difícil manejo, por lo que suelen usarse anticonvulsivos ( pregabalina, gabapentina,etc.) o antidepresivos (amitriptilina, venlafaxina,etc.). Entre sus principios básicos se encuentra la administración de este pautado evitando el uso de analgésicos a demanda, no siendo necesario empezar con el primer escalón, sino adaptarlo a la intesindad de este."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "Respecto a los efectos adversos de los quimioterápicos más comunes en Oncología, ¿cuál de las siguientes relaciones entre quimioterápico y efecto adverso es cierto?",
+      "opciones": [
+        "Cisplatino - Nefrotoxicidad.",
+        "Adriamicina – Neuropatía periférica.",
+        "Paclitaxel - Hepatotoxicidad.",
+        "Capecitabina – Fibrosis pulmonar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cisplatino es un derivado del platino muy empleado en oncología. Entre sus efectos adversos típicos detacan la emesis, la neurotoxicidad (menor que el oxaliplatino), la pérdida auditiva y la nefrotoxicidad (sobretodo, a nivel tubular). Del resto de quimioterápicos habría que destacar:\n\n· Adriamicina: Cardiotoxicidad acumulativa.\n\n· Paclitaxel: Neuropatía periférica.\n\n· Capecitabina: Diarreas y síndrome mano-pie."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "Varón de 87 años que es diagnosticado de cáncer microcítico de pulmón con pronóstico desfavorable. Entre sus antecedentes se encuentran hipertensión arterial, diabetes, pérdida de peso y EPOC. En el último ingreso presenta insuficiencia cardíaca congestiva en fase terminal con una fracción de eyección muy reducida. ¿Cuál de los siguientes NO constituye un principio en los cuidados paliativos?",
+      "opciones": [
+        "Anticiparse a los síntomas siempre que sea posible.",
+        "Acordar con el paciente en la medida de lo posible las diferentes opciones terapéuticas.",
+        "Utilizar siempre una vía subcutánea para administrar la medicación.",
+        "Buscar opiniones de expertos si los resultados iniciales no son los esperados."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta con enunciado largo, aunque no necesario para contestarla. El objetivo principal de los cuidados paliativos es cuidar y no abandonar al paciente ni a su familia. Para ello se utilizarán los siguientes principios:\n\n- Anticiparse a los síntomas siempre que sea posible.\n\n- Efectuar una valoración clínica exhaustiva antes de iniciar un tratamiento.\n\n- Explicar al paciente lo que está ocurriendo\" y, utilizando para ello un lenguaje adecuado y comprensible.\n\n- Acordar con el paciente (hasta donde sea posible) las diferentes opciones terapéuticas.\n\n- Proporcionar información amplia a los familiares, dado que se trata de agentes fundamentales de cuidados básicos.\n\n- Buscar opiniones de expertos, si los resultados iniciales no son los esperados.\n\n- Supervisar muy estrechamente los tratamientos.\n\n- Ante la noticia de que un paciente padece una dolencia terminal, el médico ha de dar respuestas aproximadas y nunca exactas sobre su pronóstico, a partir de las estadísticas y de las experiencias del facultativo, ya que en medicina no hay nada exacto.\n\nAunque la opción de respuesta 3 puede parecer en un principio correcta porque la vía subcutánea es muy utilizada para el tratamiento del paciente terminal, el SIEMPRE debe hacernos dudar (la técnica de examen nos ayuda a contestar muchas preguntas, de ahí la importancia de hacer los simulacros), pues la vía subcutánea no es de elección siempre que podamos utilizar la vía oral (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "¿Cual es la alteración cromosómica más frecuente en los tumores testiculares de células germinales?",
+      "opciones": [
+        "Isocromosoma 12p",
+        "Isocromosoma 18q",
+        "Isocromosoma del brazo largo del cromosoma 17",
+        "Isocromosoma del brazo largo del cromosoma 14"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un isocromosoma 12p (p.ej un cromosoma con dos copias del brazo corto del cromosoma 12) es la alteración cromosómica más frecuente en los tumores testiculares de células germinales"
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "En una paciente de 32 años con diagnóstico de carcinoma epidermoide de cervix que desea preservar la fertilidad, señale la opción de tratamiento adecuada que cumpla sus deseos de preservación de fertiiidad:",
+      "opciones": [
+        "En tumores N0 ( sin afectación ganglionar) con invasión estromal en profundidad menor o igual a 3mm y extensión lateral menor o igual a 7mm puede ofrecerse conización (asociada a linfadenectomia/ muestreo ganglionar pélvico en caso de presencia de invasión linfovascular)",
+        "En tumores con un tamaño inferior a 4cms independientemente de la afectación estromal o la presencia de invasión linfovascular",
+        "Se puede vigilar estrechamente a la paciente y realizar el tratameinto quirúrgico una vez cumplido su deseo genésico",
+        "Administrando RTE pélvica y braquiterapia vaginal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Solo podrá ofrecerse preservación de la fertilidad ( por medio de conización o traquelectomía) a aquellas pacientes con estadío FIGO IA1-2 ( asociando linfadenectomia pélvica en caso de presencia de invasión linfovascular o estadío IA2). Las pacientes con estadio IB1 y tumor menor de 2cms pueden ser tratadas con traquelectomia + linfadenectomía pélvica pero la selección de pacientes debe ser muy cuidadosa ya que si el estadio patológico es mayor podría precisar radioterapia adyuvante que impediria preservar la fertilidad por irradiación pélvica"
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "Mujer de 70 años, afecta de un carcinoma seroso de alto grado de ovario (sin alteraciones germinales o somáticas de BRCA), metastásico (peritoneal difusa), que acude a Urgencias por estreñimiento. Refiere estreñimiento de cinco días de evolución (a pesar de uso de laxantes), ausencia de emisión de ventosidades, náuseas sin vómitos y distensión abdominal. A la exploración física, presenta abdomen timpánico con ausencia de peristaltismo. La radiografía de abdomen muestra aire en asas de intestino delgado sin signos niveles hidroaéreos. Respecto a la entidad que padece esta paciente; es FALSO que:",
+      "opciones": [
+        "Iniciaremos tratamiento con dieta absoluta, sueroterapia y antieméticos.",
+        "En tratamiento con dexametasona a dosis altas mejora la sintomatología y puede ayudar a revertir la situación.",
+        "En caso de ayuno prolongado es necesaria la colocación de SNG con inicio de nutrición enteral.",
+        "La carcinomatosis peritoneal hace poco probable el éxito de un tratamiento quirúrgico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La carcinomatosis peritoneal es una manifestación de enfermedad extendida en pacientes oncológicos. Suele afectar a tumores ginecológicos (ovario) y digestivos (estómago, páncreas o colon) fundamentalmente. Una de las complicaciones habituales en estos pacientes es la suboclusión intestinal con alteraciones funcionales intestinales. El tratamiento habitualmente es médico con dexametasona a dosis altas y, en pacientes con probabilidad de responder al tratamiento médico y quimioterápico, se debe plantear la nutrición parenteral por una vía venosa central (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "¿Cuál de los siguientes fármacos utilizaría en una paciente con cáncer de mama HER2 positivo?",
+      "opciones": [
+        "Cetuximab.",
+        "Bevacizumab.",
+        "Trastuzumab.",
+        "Panitumumab."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El trastuzumab es un anticuerpo monoclonal que actúa sobre el oncogen C-erbB2 (HER2/neu), útil en pacientes con cáncer de mama que lo sobreexpresan. Cetuximab, panitumumab y bevacizumab son anticuerpos utilizados sobre todo en cáncer de colon metastásico.\n\nUn tumor de mama con sobreexpresión de HER2 se caracteriza por ser más agresivo y tener mal pronóstico. Al ser tumores muy proliferativos, son más quimiosensibles, y responden bien al tratamiento anti-HER2, como trastuzumab y pertuzumab."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Mujer de 60 años, postmenopáusica. Antecedente de carcinoma ductal infiltrante de mama localizado e intervenido hace 15 años. Recibió tratamiento complementario con radioterapia sobre el lecho quirúrgico y hormonoterapia durante 5 años (finalizó hace 9 años). Actualmente presenta una recaída adenopática y ósea. La biopsia ósea fue positiva para adenocarcinoma de origen mamario (GATA3+) con expresión de receptores hormonales y HER2-. Respecto al tratamiento de elección, ¿cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "El tratamiento de elección debe basarse en Inhibidores de la Aromatasa (IA); como Letrozol.",
+        "La combinación con quimioterapia es útil en este contexto.",
+        "Recientemente, se conoce el beneficio en supervivencia libre de progresión de la adición de inhibidores de kinasas dependientes de ciclina (CDK4/6) al tratamiento con IA, como Palbociclib.",
+        "Entre los efectos adversos de los inhibidores de CDK4/6 destacan las citopenias."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Con respecto a los tratamientos biológicos en Oncología, ¿cuál de las siguientes asociaciones entre biológico y mecanismo de acción es CIERTA?",
+      "opciones": [
+        "Aflibercept - Anticuerpo anti-EGFR.",
+        "Dabrafenib - Inhibidor tirosinquinasa de HER-2.",
+        "Nivolumab - Anticuerpo anti-PD-1.",
+        "Panitumumab - Inhibidor tirosinquinasa BCR-ABL."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La inmunoterapia ha sido una de las nuevas incorporaciones al tratamiento asistencial de los pacientes oncológicos en los últimos años; por ello es importante tener algunos conocimientos básicos. La inmunoterapia, principalmente, tiene su efecto antitumoral por medio de impedir que el tumor inhiba la respuesta del sistema inmune contra él. Disponemos de fármacos que inhiben PD-1 (Nivolumab - respuesta 3 correcta - o Pembrolizumab), PD-L1 (Atezolizumab) o CTLA4 (Ipilimimab). Con respecto al mecanismo de acción de los demás fármacos enumerados en las opciones de respuesta podemos decir que:\n\n1.- Aflibercept: es un inhibidor de VEGF (como Bevacizumab).\n\n2.- Dabrafenib: es un inhibidor de BRAF (como Vemurafenib).\n\n4.- Panitumumab: es un inhibidor de EGFR (como Cetuximab)."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Jacinto es un paciente afecto de cáncer de colon diagnosticado a raíz de un cuadro de obstrucción intestinal que debutó en fin de semana. En espera de la reunión del comité multidisciplinar, Jacinto entra en shock en la tarde del domingo. ¿Cuál de los factores que se exponen a continuación no contribuyó a la entrada en shock de Jacinto?",
+      "opciones": [
+        "Descenso de las catecolaminas por el estado vagal del paciente.",
+        "Hipoventilación y acumulación de líquido en tercer espacio.",
+        "Compresión de la vena cava.",
+        "Acidosis metabólica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el caso de la obstrucción intestinal, la salida de líquido al tercer espacio induce a hipoventilación, compresión de la vena cava, entrada en acidosis metabólica y respiratoria (por la hipoventilación) y al AUMENTO de las catecolaminas secundario al descenso de volumen efectivo. Por tanto, respuesta a marcar la 1."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Para mejorar el control sintomático en Medicina Paliativa se emplean fármacos con variados mecanismo de acción. Señale el grupo terapéutico que no se emplea como analgésico o coadyuvante en el control del dolor.",
+      "opciones": [
+        "Opiáceos.",
+        "Antidepresivos tircíclicos.",
+        "Agonistas dopaminérgicos.",
+        "Anticomiciales."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el tratamiento del dolor usamos diferentes fármacos coadyuvantes, entre ellos los fármacos anticomiciales (gabapentina o pregabalina) o antidepresivos tricíclicos (amitriptilina). Ambos grupos tienen un gran papel en el tratamiento del dolor neuropático. A su vez, los opiáceos son por excelencia el tratamiento del dolor en pacientes oncológicos. Los agonistas dopaminérigos no tienen un papel como coadyuvantes en el dolor."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "¿Cuál de las siguientes pautas SELECCIONARÍA en un paciente de 69 años con un cáncer de pulmón en progresión con metástasis pulmonares bilaterales, esperanza de vida de 2-3 semanas y disnea de reposo como síntoma dominante?",
+      "opciones": [
+        "Oxigenoterapia + broncodilatadores vía oral.",
+        "Oxigenoterapia + corticoides sistémicos.",
+        "Broncodilatadores inhalados.",
+        "Opiáceos + benzodiacepinas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El concepto de paciente terminal implica necesariamente que no es posible obtener la curación. Partiendo de esta premisa debemos darnos cuenta de que el manejo tendrá que ser distinto, omitiendo exploraciones invasivas que solo le producirán molestias innecesarias, y tratando de ofrecer al paciente la mayor tranquilidad y comodidad posible, dentro de su estado. En un caso como el que nos describen, no podemos plantearnos maniobras como la intubación, ni tampoco tendremos éxito con medidas aplicables a un paciente con esperanzas de curación (por ejemplo, oxígeno). Sin embargo, con benzodiacepinas y opiáceos, aunque puedan producir hipoventilación, nos han dicho que este paciente tiene una esperanza de vida de 2- 3 semanas, y su problema principal es la disnea de reposo. La opción de respuesta 4 es la que más contribuirá a paliar sus síntomas y a mejorar su calidad de vida, al disminuir la sensación de disnea (opiáceos) y el componente de ansiedad que esta produce (benzodiacepinas y también opiáceos - respuesta 4 correcta -)."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "En un paciente con diagnóstico previo de cáncer testicular, ¿Cuál es la incidencia acumulada a 25 años de padecer un seminoma testicular contralateral?",
+      "opciones": [
+        "3,6%",
+        "5,5%",
+        "1%",
+        "9,6%"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "25 años tras el diagnóstico de un cáncer testicular, la indicencia acumulada de seminoma contralateral es del 3,6%"
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Los anticuerpos monoclonales dirigidos frente al receptor del factor de crecimiento epidérmico (EGFR), como el cetuximab o panitumumab, están indicados en una de las siguientes situaciones. Señálela:",
+      "opciones": [
+        "Tratamiento adyuvante de pacientes con cáncer de colon estadio III y presencia de sobrexpresión de EGFR.",
+        "Tratamiento neoadyuvante de pacientes con cáncer de recto estadio III en combinación con radioterapia, con mutaciones en K-RAS y/o N-RAS.",
+        "Tratamiento adyuvante en combinación con quimioterapia en pacientes con cáncer de recto estadios II y III, con sobreexpresión de EGFR.",
+        "Tratamiento de pacientes con cáncer colorrectal avanzado (estadio IV) sin mutaciones en K-RAS ni N-RAS."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "EGFR se sobreexpresa en una amplia variedad de tumores sólidos (colon, pulmón, cabeza y cuello, y páncreas, entre otros). Los anticuerpos monoclonales dirigidos frente al receptor del factor de crecimiento epidérmico se unen a EGFR evitando la homodimerización o la heterodimerización del receptor. Este fenómeno impide la autofosforilación del receptor y el inicio de la cascada de señalización intracelular de EGFR. Están indicados en el tratamiento de pacientes con cáncer colorrectal metastásico, con expresión del referido receptor del factor de crecimiento epidérmico (EGFR), con gen RAS de tipo NATIVO (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "El crecimiento rápido de un adenoma hipofisario secretor de ACTH tras adrenelectomia bilateral es conocido como:",
+      "opciones": [
+        "Síndrome de Nelson",
+        "Síndrome de Virchow",
+        "Síndrome de salazar",
+        "Síndrome de Rodger"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es la manifestación de una neoplasia adenohipofisiaria secretora de hormona adrenocorticotropa que ocurre en pacientes adrenalectomizados por ser portadores deenfermedad de Cushing.\n\nCursa con una marcada hiperpigmentación y signos compresivos propios de un macroadenoma hipofisario, de comportamiento agresivo como cefalea, alteraciones campimétricas y de los pares craneales II, IV y VI, hipopituitarismo de otras hormonas, diferentes a la hormona adrenocorticotropa (ACTH), y, eventualmente, hipertensión intracraneal a causa de un bloqueo de la circulación del líquido cefalorraquídeo"
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Las proteínas BRCA (BReast CAncer) 1 y 2 forman parte del sistema de detección y reparación de los daños del ADN. En concreto participa en la reparación de las roturas del ADN, sobretodo, por medio de la recombinación homóloga del ADN con la hebra complementaria. Los pacientes con neoplasias de órgano sólido pueden tener mutaciones germinales o somáticas en los genes BRCA 1 o 2. En estos pacientes el tratamiento con Olaparib puede tener una indicación. Respecto a este fármaco, ¿cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "Olaparib es un inhibidor de la polimerasa de poli (ADP-ribosa) (PARP).",
+        "Olaparib es un inhibidor de la actividad de la topoisomerasa.",
+        "Está indicado como tratamiento de mantenimiento en carcinoma seroso de ovario con mutación somática o germinal de BRCA1/2 tras respuesta parcial o completa a una primera línea de tratamiento con carboplatino-paclitaxel.",
+        "Su principal toxicidad limitante son las citopenias."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recientemente, existe evidencia que demuestra que las células deficientes en BRCA1 y BRCA2 son sensibles a los inhibidores de la polimerasa de poli (ADP-ribosa) (PARP), lo que sugiere que los inhibidores de PARP se pueden emplear como nuevos fármacos terapéuticos. Olaparib es un inhibidor de la PARP. PARP es un regulador clave en el proceso de reparación del ADN por escisión de bases y participa en la reparación de roturas de una sola hebra del ADN. Es probable que la pérdida de actividad de PARP provoque la acumulación de roturas de una hebra, que se convierten en roturas de doble hebra durante la replicación o reparación por recombinación homologa. El aumento de las lesiones de ADN resulta en la letalidad de las células deficientes en BRCA1 o BRCA2."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "Varón de 70 años con adenocarcinoma de próstata con metástasis óseas, en tratamiento con Docetaxel, presenta cuadro de dolor abdominal en fosa iliaca derecha, fiebre de hasta 38 ºC, y distensión abdominal con resistencia en la exploración. Además, refiere deposiciones líquidas sanguinolentas en los últimos días. En análisis de sangre presenta hemoglobina 12 g/dL, leucocitos 0,8 × 10³/mcL con neutrófilos 0,2 × 10³/mcL, plaquetas 125 × 10³/mcL. ¿En cuál de los siguientes cuadros pensaría y cuál sería el abordaje?",
+      "opciones": [
+        "Enterocolitis neutropénica. Realizaría radiografía simple de abdomen y tratamiento con antibiótico de amplio espectro seguido de hemicolectomía derecha.",
+        "Apendicitis aguda. Dejaría al paciente en dieta absoluta, haría ecografía abdominal y plantearía tratamiento quirúrgico urgente.",
+        "Enterocolitis neutropénica. Realizaría TC abdominal, dejaría al paciente en dieta absoluta y plantearía inicialmente manejo conservador con antibiótico de amplio espectro.",
+        "Apendicitis aguda. Al ser un paciente mayor de 65 años, pondría tratamiento antibiótico y descartaría de momento la cirugía, salvo complicaciones importantes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico sobre un paciente oncológico en tratamiento con docetaxel con neutropenia grave. En este caso pensaríamos en la enterocolitis neutropénica (respuesta 3 correcta). La clínica es típica, con afectación más frecuente del colon derecho (sobre todo el ciego). Se realiza TC abdominal y el tratamiento es conservador a la espera de la recuperación de la cifra de neutrófilos (salvo inestabilidad, que en ese caso sería tratamiento quirúrgico, con sus múltiples riesgos para el paciente)."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "¿Qué porcentaje de pacientes presentan en el momento del diagnóstico de un carcinoma no microcítico de pulmón, metástasis a distancia?",
+      "opciones": [
+        "5%-10%",
+        "15-20%",
+        "30%-40%",
+        "50%-60%"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aproximadamente el 30%-40% de pacientes con carcinoma no microcítico de pulmón presentan metástasis sintomáticas al diagnóstico"
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "En relación con las estrategias de prevención del cáncer, señale la respuesta falsa:",
+      "opciones": [
+        "La prevención primaria consiste en la adopción de medidad encaminadas a evitar la adquisición de la enfermedad",
+        "El objetivo principal del código europeo contra el cáncer es la reducción de la prevalencia de factores de riesgo y la incidencia del cáncer",
+        "La prevención secundaria poersigue detectar la enfermedad en estadíos precoces para impedir su progresión",
+        "El código europeo contra el cáncer recoge unas recomendaciones en su mayoría dirigidas a la detección precoz del cáncer en la población de riesgo"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El objetivo principal del código europeo contra el cáncer es la reducción de la prevalencia de factores de riesgo y la incidencia del cáncer en la población general"
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "Varón de 57 años diagnosticado de un glioblastoma multiforme hace dos meses, inoperable, que comienza con cefalea, vómitos y deterioro neurológico. ¿Cuál es el tratamiento farmacológico MÁS indicado en este enfermo?",
+      "opciones": [
+        "Morfina: 10 mg cada 4 horas vía parenteral.",
+        "Dexametasona: 16 mg al día vía parenteral.",
+        "Paracetamol-Codeína: 500/30 mg cada 6 horas vía oral.",
+        "Carbamazepina: 200 mg cada 8 horas vía oral."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico compatible con hipertensión intracraneal secundaria, en este caso a un tumor cerebral primario por efecto masa que puede haber sangrado, hecho muy frecuente en este tipo de tumores. El tratamiento de dicho cuadro, al igual que cuando ocurre en relación con las metástasis cerebrales, se trata de administrar corticoides a dosis altas intravenoso, con reducción del edema vasogénico y efecto masa y alivio variable del cuadro, habitualmente con mejoría terapéutica. Es el único tratamiento de los descritos que actúa sobre la génesis del trastorno (edema vasogénico), por lo que es el tratamiento de elección. (Marcamos la opción de respuesta 2)."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "Mujer de 69 años con antecedentes de úlcera péptica. Diagnosticada de cáncer de mama hace cinco años, actualmente presenta dolor en relación con metástasis óseas que se controla con AINEs y anorexia severa que ha respondido a tratamiento con corticoides. En esta paciente, el tratamiento profiláctico de la úlcera péptica MÁS aceptado en la actualidad es:",
+      "opciones": [
+        "Cimetidina.",
+        "Almagato.",
+        "Omeprazol.",
+        "Sucralfato."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En pacientes que toman AINEs habitualmente, como suele suceder en el paciente terminal (primer escalón analgésico de la OMS), existe un riesgo tres veces mayor que en la población de desarrollar una hemorragia digestiva. Este riesgo es aún mayor en pacientes como las de este caso, con antecedentes personales de úlcera, hemorragia digestiva, edad > 60 años, consumo de AINEs en dosis altas o de forma prolongada o consumo simultáneo de anticoagulantes orales o corticoides. En estos casos, las recomendaciones actuales son:\n\n1) Usar los AINEs menos agresivos, como el ibuprofeno, el menor tiempo y a la menor dosis necesaria. Si no hay componente inflamatorio se deberá intentar primero el uso de paracetamol.\n\n2) Añadir profilácticamente omeprazol o misoprostol ¡Recuerda que antes de administrar misoprostol en una mujer en edad fértil debes asegurarte de que no se encuentre embarazada! Una alternativa, aunque más cara y no aceptada por todos a día de hoy, es usar inhibidores selectivos de la COX- 2 (celecoxib, rofecoxib) sin añadir ningún protector gástrico."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "¿Cuál de las siguientes relaciones entre biomarcador necesario al diagnóstico (en contexto metastásico) y neoplasia es falso?",
+      "opciones": [
+        "Cáncer seroso de ovario – BRCA germinal.",
+        "Cáncer de pulmón – EGFR.",
+        "Cáncer de colon – BRAF.",
+        "Melanoma – PD-L1."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "¿Cuál es el principal factor de riesgo para el desarrollo de cáncer testicular?",
+      "opciones": [
+        "Exposición previa a radiaciones ionizantes",
+        "Exposición prenatal a dietilestilbestrol",
+        "Raza blanca",
+        "Criptorquidia"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La criptorquidia incrementa el riesgo de cáncer testicular en aproximadamente 5 veces. Cuanto menor es el descenso testicular ( canal inguinal vs intra-abdominal) mayor es el riesgo.\n\nLa orquiopexia previa al desarrollo puberal reduce el riesgo.\n\n5-20% de los tumores en pacientes con criptorquidia lo desarrollan en el testiculo contralateral normalmente descendido. El riesgo es mayor en caso de criptorquidia bilateral.\n\nEl cáncer testicular es 5,4 veces más frecuente en varones de raza blanca que en varones de raza negra"
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "El momento óptimo para iniciar el tratamiento radioterápico torácico en un carcinoma microcítico de pulmón con enfermedad limitada al torax es:",
+      "opciones": [
+        "Previo a la quimioterapia",
+        "Al inicio de la quimioterapia ( 1º-2º ciclo)",
+        "Al final de la quimioterapia ( 4º-6º ciclo)",
+        "Tras finalizar la quimioterapia"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El momento de iniciar la radioterapia en el tratamiento del carcinoma microcítico de pulmón es controvertido . Varios meta-análisis sugieren el beneficio del inicio precoz de la radioterapia concurrente con la quimioterapia en pacientes con buen estado general"
+    },
+    {
+      "paginaPdf": 85,
+      "enunciado": "¿Cuál de los siguientes supuestos se corresponde con un tumor pancreático RESECABLE?",
+      "opciones": [
+        "Tumor pancreático que contacta con la vena mesentérica superior en <180º de la circunferencia.",
+        "Tumor pancreático que contacta con la arteria mesentérica superior en <180º de la circunferencia.",
+        "Tumor pancreático que contacta con el tronco celiaco en <180º de la circunferencia.",
+        "Tumor pancreático que contacta con la vena cava inferior."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un tumor pancrático que contacta con la VENA mesentérica superior en <180º de la circunferencia es un tumor resecable. El resto de supuestos pueden considerarse tumores pancreáticos BORDERLINE, es decir, que pueden convertirse en resecables tras tratamiento neoadyuvante."
+    },
+    {
+      "paginaPdf": 85,
+      "enunciado": "Señale la afirmación incorrecta en relación a los marcadores moleculares más frecuentemente empleados en el adenocarcinoma de pulmón:",
+      "opciones": [
+        "La mutación BRAF ( proto-oncogen B_RAF) es porpia de pacientes fumadores o exfumadores",
+        "La mutación KRAS implica peor pronóstico y ausencia de respuesta a inhibidor de tirosinquinasa EGFR",
+        "La presencia de mutación EGFR y ALK es propia de no fumadores",
+        "Los pacientes con reordenamiento ROS-1 tienen peor respuesta a Crizotinib"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El reordenamiento o mutación del proto-oncogen ROS-1 (receptor de tirosinquinasa) es propio de mujeres no fumadoras con frecuencia con AGFR, ALK y KRAS negativo.\n\nSu presencia en el tumor implica una mayor respuesta a inhibidor de tirosinquinasa ROS1 ( Crizotinib)"
+    },
+    {
+      "paginaPdf": 85,
+      "enunciado": "El tratamiento oncológico, que se administra antes de de la cirugía, en tumores que son resecables y que tiene por objetivo mejorar la calidad de la resección (márgenes) y disminuir los efectos secundarios de la terapia definitiva (sangrado, amputaciones…), se denomina:",
+      "opciones": [
+        "Tratamiento de inducción.",
+        "Tratamiento neoadyuvante.",
+        "Tratamiento adyuvante.",
+        "Tratamiento paliativo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para entender la asignatura de oncología y poder aplicarla a los distintos tumores debemos tener claros los tratamientos que se manejan y la terminología que se emplea. Entendemos por Tratamiento de inducción el tratamiento que se da para intentar rescatar los tumores que de entrada son irresecables (por ejemplo, cáncer de colon con metástasis hepáticas irresecables, en el que se administra quimioterapia. Si responde puede ser candidato a cirugía, si no pasaría a tratamiento paliativo). Se diferencia del Tratamiento neoadyuvante, aunque a veces se usan erróneamente como sinónimos, en que este último, se administra antes de de la cirugía, en tumores que son resecables, pero intenta mejorar la calidad de la resección (por ejemplo en el cáncer de recto la radioterapia busca aumentar la distancia del tumor al margen circunferencial) y disminuir los efectos secundarios de la terapia definitiva (por ejemplo, lograr cirugías conservadoras en el cáncer de mama). El Tratamiento adyuvante, busca, tras el tratamiento local, disminuir la muerte por metástasis y la recaída, mientras que el concomitante es el que se usa en combinación con la radioterapia como radiosensibilizante. Por último el Tratamiento paliativo se usa en tumores incurables, buscando aumentar la supervivencia y disminuir los síntomas."
+    },
+    {
+      "paginaPdf": 86,
+      "enunciado": "La Radiocirugía Estereotáxica y la la Radioterapia Estereotáxica Corporal son en lineas generales técnicas similares de tratameinto radioterápico excepto por:",
+      "opciones": [
+        "Número de fracciones",
+        "Localización del area de tratamiento",
+        "1 y 2",
+        "Empleo de modulación de intensidad del haz de radiación (IMRT)"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ambas técnicas son similares excepto la localización tumoral sobre la que se aplican:\n\nRadiocirugía Estereotáxica se emplea en lesiones cerebrales y la Radioterapia Estereoátxica Corporal se emplea en pequeñas lesiones del resto del cuerpo ( p.ej cáncer de pulmón en estadío precoz)"
+    },
+    {
+      "paginaPdf": 86,
+      "enunciado": "Varón de 63 años diagnosticado de carcinoma microcítico de pulmón (confirmado por biopsia) acude a urgencias por dificultad respiratoria y congestión en la cara y miembros superiores (en esclavina) que se ha agravado en las últimas horas. Usted realiza el diagnóstico se sospecha de Síndrome de vena cava superior. Decide medir las constantes vitales del paciente y obtiene los siguientes resultados: Tª 36.5, TA 80/40, SatO2 79%. Indique el tratamiento prioritario en este caso:",
+      "opciones": [
+        "1. Quimioterapia + medidas de soporte vital",
+        "2. Cirugía urgente.",
+        "3. Medidas generales (soporte vital + tratamiento médico) + radioterapia urgente.",
+        "4. Tratamiento médico con medidas de soporte vital y diuréticos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la pregunta nos encontramos ante un síndrome de vena cava superior que está causado compromiso vital, por tanto el tratamiento debe ser urgente mediante radioterapia + medidas de soporte vital (respuesta 3 correcta), además se pueden añadir corticoides a dosis altas junto con diuréticos con el objetivo de disminuir la congestión. Aunque conviene recordar que los diuréticos pueden precipitar una trombosis (por tanto convendría asociar heparina a dosis profilácticas).\n\nOs dejo un pequeño resumen sobre el tratamiento del Síndrome de vena cava superior:\n\n· En ausencia de compromiso vital urgente: Se actúa según la histología\n\nTumor quimiosensible (microcítico de pulmón y linfomas)à Quimioterapia\n\nTumor poco quimiosensible (pulmón de cels no pequeñas)à Radioterapia\n\nEn presencia de compromiso vital (inestabilidad hemodinámica, compromiso respiratorio) à Radioterapia urgente (no hay tiempo a ver la histología)"
+    },
+    {
+      "paginaPdf": 87,
+      "enunciado": "De entre los medicamentos que se relacionan a continuación, señale cuál tiene MÁS riesgo de provocar disforia, cuadros psicomotores y alucinaciones:",
+      "opciones": [
+        "Naloxona.",
+        "Morfina.",
+        "Pentazocina.",
+        "Buprenorfina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy difícil sobre fármacos opiáceos, no te preocupes si la has fallado. Lo más importante sobre los opiáceos es la escala analgésica del dolor. La pentazocina es un agonista/ antagonista mixto, se caracteriza por activar el receptor opioide γ, y por comportarse como agonista débil o incluso antagonista del receptor mu. Produce menor grado de depresión respiratoria y no produce estreñimiento. No se acompaña de euforia, sino de disforia. Entre sus reacciones adversas se encuentran desorientación, mareos, náuseas y vómitos, alucinaciones, pesadillas, alteraciones cognitivas, cuadros psicomotores, cefalea, etc. (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 87,
+      "enunciado": "Una mujer de 65 años, a raíz de una anemia ferropénica, ha sido diagnosticada de un adenocarcinoma de colon derecho metastásico (adenopática, hepática y pulmonar). Acude a la primera visita a Oncología para valorar tratamiento sistémico. ¿Cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "El esquema fundamental de quimioterapia se basa en la combinación de una fluoropirimidina (5FU o Capecitabina) con Oxaliplatino (FOLFOX) o Irinotecan (FOLFIRI).",
+        "En pacientes con mutaciones de KRAS/NRAS/ HRAS/BRAF se puede añadir al tratamiento un anticuerpo anti-EGFR (como Cetuximab o Panitumumab).",
+        "En caso de ser posible (si el paciente tiene buen ECOG) se añade al tratamiento de quimioterapia un fármaco biológico; bien sea un antiangiogénico o un anticuerpo anti-EGFR.",
+        "Para poder determinar el mejor tratamiento es necesario el estudio molecular con las alteraciones de las proteínas “RAS” (KRAS/NRAS/HRAS) y BRAF así como (proferiblemente también) la estabilidad de microsatélites."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 88,
+      "enunciado": "¿Con cuál de los siguientes tumores no se ha relacionado la exposición al tabaco?",
+      "opciones": [
+        "Gliomas.",
+        "Vejiga.",
+        "Esófago.",
+        "Páncreas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tabaco es el principal carcinógeno ambiental y se ha relacionado con el desarrollo de múltiples tumores. Entre ellos hay que destacar: pulmón, ORL, esófago-gástricos, páncreas, renal y vejiga entre otros. En el caso de los gliomas la exposición a radiaciones ionizantes es el único factor de riesgo ambiental relacionado a su desarrollo. Otros factores son genéticos, asociados a síndromes genéticos hereditarios como la neurofibromatosis."
+    },
+    {
+      "paginaPdf": 88,
+      "enunciado": "¿Cuál es el tratamiento de la obstrucción intestinal por carcinomatosis peritoneal en la fase terminal de la enfermedad?",
+      "opciones": [
+        "Cirugía desobstructiva.",
+        "Administración por vía subcutánea de morfina, buscapina, haloperidol y octreótido.",
+        "Alimentación parenteral total y laxantes.",
+        "Sonda nasogástrica, aspiración continua, sueroterapia intravenosa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante un paciente en fase terminal, debemos plantearnos un tratamiento sintomático y lo menos invasivo posible. La vía de elección en el paciente terminal es siempre la oral, y en caso de no poder utilizarse (como en nuestro paciente debido a la obstrucción intestinal), la vía subcutánea (respuesta 2 correcta)."
+    }
+  ]
+}

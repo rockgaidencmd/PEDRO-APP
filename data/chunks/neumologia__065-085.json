@@ -1,0 +1,587 @@
+{
+  "materia": "neumologia",
+  "paginaInicio": 65,
+  "paginaFin": 85,
+  "anomalias": [
+    "p76: la opción 4 aparece como 'Se realiza en pacientes con FEV 250%.'; el símbolo de comparación no se rasterizó (probablemente 'FEV1 <50%'), por lo que la cifra tal cual no tiene sentido",
+    "p82: el enunciado de la pregunta del varón de 45 años con roncopatía (IMC 28, Epworth 13) termina en punto sin formular ninguna pregunta; las opciones son pruebas diagnósticas, de modo que falta la frase que las introduce"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 65,
+      "enunciado": "Paciente joven con disnea, tos nocturna no productiva y sibilancias. Refiere que, tras inicio de tratamiento con un agonista beta-2-adrenérgico de acción corta a demanda, junto con glucocorticoide inhalado a dosis altas pautado y agonista beta-2-adrenérgico de acción larga pautado ha estado unos meses controlada, pero ahora vuelve a tener síntomas nocturnos frecuentes y limitación de la actividad. ¿Cuál de las siguientes medidas ve MÁS adecuada para modificar su tratamiento?",
+      "opciones": [
+        "En caso de que se trate de asma alérgica (con IgE en suero > 30 IU/mL), añadir Omalizumab.",
+        "En caso de que se trate de asma eosinofilica (> 300 eosinófilos en sangre periférica), añadir Azitromicina a días alternos.",
+        "En caso de que se trate de asma neutrofílica, añadir Mepolizumab (Anticuerpo monoclonal anti-IL5).",
+        "Retirar el agonista beta-2-adrenérgico de acción corta a demanda ya que no consigue el control del asma y le está sobremedicando."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta sobre una paciente con asma moderada-grave no controlada, ya que presenta síntomas nocturnos y limitación de la actividad. En los pacientes con asma es fundamental mantener el tratamiento a demanda con un agonista beta-2-adrenérgico de acción corta para su uso ante una exacerbación. Dado que la paciente no está controlada, existen varias opciones de tratamiento:\n\n- Omalizumab: útil en casos de asma alérgica (niveles elevados de IgE) que no se controla con dosis altas de corticoides inhalados. Se trata de un anticuerpo monoclonal que bloquea los receptores de alta afinidad IgE en la membrana de los mastocitos, con el objetivo de evitar la liberación de mediadores de la inflamación asmática (respuesta 1 correcta).\n\n- Mepolizumab: Anticuerpo monoclonal que se une a la IL-5 (que es la principal citoquina moduladora de los eosinófilos en sangre y tejidos). Uso como tratamiento adicional en el asma EOSINOFÍLICA refractaria grave. En pacientes con asma eosinofilico, que sea además mediada por IgE, pueden recibir omalizumab o mepolizumab.\n\n- Azitromicina: uso en asma grave no controlada de perfil NO EOSINOFÍLICO. Además de su acción antibacteriana puede presentar un cierto efecto antiinflamatorio por disminución de la actividad de las células inmunitarias y alteración de las células bacterianas."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Respecto a la EPOC, ¿cuál de las siguientes afirmaciones es FALSA?",
+      "opciones": [
+        "El hábito tabáquico es el factor más importante para desarrollar EPOC.",
+        "Contrariamente al asma, no hay componente inflamatorio.",
+        "Las acropaquias no son características de la EPOC y su presencia debe sugerir bronquiectasias asociadas o carcinoma broncopulmonar.",
+        "Espirométricamente, se detecta obstrucción por un cociente FEV1/FVC < 0,70."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una pregunta sencilla sobre la EPOC, pues con saber la definición de la enfermedad se puede contestar de forma correcta. La EPOC es una enfermedad caracterizada por una obstrucción al flujo aéreo que es crónica, progresiva y no totalmente reversible, producida por una respuesta inflamatoria anómala del pulmón frente a la inhalación de diferentes sustancias, en nuestro medio, casi siempre por inhalación de humo de tabaco. Esta definición deja claro que la obstrucción en la EPOC es consecuencia de inflamación. Es una inflamación diferente de la que se produce en asma, pero existe, y tiene repercusión sistémica."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "Un paciente diagnosticado de EPOC grave, tipo bronquitis crónica, acude a Urgencias tras llevar en su domicilio 4 días con un cuadro de tos con expectoración verdosa, febrícula, aumento de disnea hasta hacerse de pequeños esfuerzos. La familia refiere que en las últimas 24 horas \"dormía demasiado\".En Urgencias se encuentra a un paciente con bajo nivel de consciencia (Glasgow 5), cianótico, con múltiples roncus a la auscultación. La gasometría, extraída con oxígeno por mascarilla de efecto Venturi al 28% -condición en la que fue traslado al hospital por el servicio de urgenicas extrahospitalario-muestra pO2 57, pCO2 72, pH 7.22. ¿Qué debe hacer a continuación?",
+      "opciones": [
+        "Subir la FiO2 al 31%, administrar salbutamol + ipratropio inhalado y metilprednisolona iv",
+        "Administrar salbutamol + ipratropio inhalado y metilprednisolona iv, sin modificar la FiO2 para no empeorar la hipoventilación que presenta",
+        "Iniciar ventilación mecánica no invasiva, junto con tratamiento broncodilatador y metilprednisolona iv",
+        "Intubar al paciente, conectarlo a ventilación mecánica, administrar metilprednisolona iv"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Este paciente presenta una exacerbación con acidosis respiratoria aguda grave y bajo nivel de consciencia. El nivel de consciencia es el mejor indicador para decidir si se inicia ventilación mecánica no invasiva (VMNI) o intubación orotraqueal y ventilación mecánica. Para el éxito de la VMNI se requiere un nivel de consciencia aceptable, por lo que en esta situación está indicado intubar al paciente y conectarlo a un ventilador (ventilación mecánica invasiva)."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "Señale cuál de los siguientes NO es un músculo inspiratorio:",
+      "opciones": [
+        "Diafragma.",
+        "Intercostal interno",
+        "Esternocleidomastoideo",
+        "Pectoral."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es una pregunta de dificultad elevada sobre la mecánica de la ventilación pulmonar. Aunque no es un tema prioritario, es interesante conocer los músculos que intervienen en la espiración y en la inspiración. El diafragma es el principal músculo inspiratorio y su contracción produce el descenso de las superficies inferiores pulmonares y su consiguiente expansión (respuesta 1 correcta). Los músculos escalenos, esternocleidomastoideo, pectorales, junto con los intercostales externos y los serratos anteriores elevan la caja torácica y expanden los pulmones (respuestas 3 y 4 correctas). Sin embargo, los músculos rectos abdominales y los intercostales internos tiran de la caja torácica hacia abajo, siendo músculos espiratorios (respuesta 2 incorrecta)."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Paciente de 65 años, fumador activo, que consulta por tos y expectoración hemoptoica de dos meses de evolución. En la Rx tórax se observa una masa pulmonar en el LID. Se le realiza TAC torácica, donde se confirma la existencia de una masa sólida en LID, de 6 cm de diámetro, y se observa además una adenopatía paratraqueal derecha de 1,5 cm de diámetro y otra subcarinal de 2 cm de diámetro. Se le realiza una tomografía por emisión de positrones, donde se observa captación patológica de fluorodesoxiglucosa a nivel de la masa del LID, y captación indeterminada a nivel de las dos adenopatías mediastínicas, sin observarse captaciones patológicas a ningún otro nivel del organismo. La exploración funcional respiratoria es normal. Se le realiza una broncoscopia con biopsia de la masa del LID (con resultado de carcinoma epidermoide) y punción transbronquial aspirativa de las adenopatías mediastínicas (con resultado de muestra no representativa de ganglio linfático). Señale cuál sería la actitud MÁS adecuada:",
+      "opciones": [
+        "Lobectomía inferior derecha, puesto que se ha descartado razonablemente la naturaleza tumoral de las adenopatías mediastínicas.",
+        "Mediastinoscopia, para estudiar las adenopatías mediastínicas.",
+        "Quimiorradioterapia, ya que se trata de un estadio III-A.",
+        "RNM cerebral para estudiar la posible existencia de metástasis cerebrales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de un paciente operable, puesto que tiene una exploración funcional respiratoria normal, pero la resecabilidad no está correctamente estudiada, ya que en las técnicas de imagen se aprecian adenopatías mediastínicas patológicas de las que no tenemos diagnóstico definitivo tras la realización de la punción transbronquial. Por lo tanto, y dado que la N es relevante para la estadificación, hay que realizar una mediastinoscopia."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Mujer de 60 años que acude tras alta de ingreso hospitalario por exacerbación de EPOC a su médico de cabecera con cambios en su medicación habitual. Hasta el momento ella tomaba salbutamol tantas veces como necesitaba al día hasta que este último año, a raíz de un resfriado, no pudo controlar sus síntomas con este medicamento. Explica que le hicieron un cuestionario y recuerda que puntuó 5. ¿A qué categoría GOLD pertenece?",
+      "opciones": [
+        "Grupo A",
+        "Grupo B",
+        "Grupo C",
+        "Grupo D"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Para la clasificación se tiene en cuenta los síntomas, medidos por la escala mMRC (0 a 4) o el cuestionario CAT (0 a 40) y el riesgo de agudizaciones, considerando alto riesgo 2 en el último año o 1 que haya requerido ingreso. Teniendo esto en cuenta, la paciente ha tenido 1 ingreso por reagudización (alto riesgo, grupos C y D) pero presenta pocos síntomas (como mMRC es hasta 4, una puntuación de 5 significa <10 en el CAT) por lo que debemos clasificarla en C. Recuerda que en la clasificación GOLD actual la función pulmonar no se utiliza para definir la categoría, si no que sirve como paso previo para cuantificar la gravedad de la obstrucción."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Paciente de 57 años, trabajador en una fábrica de frenos. En una revisión rutinaria se aprecia la siguiente exploración funcional: CVF 80%, VEF1 75%, VEF1/CVF 85%, CPT 75%, DLCO 60%. La Rx de tórax muestra la presencia de placas pleurales sin afectación parenquimatosa. Señale cuál es la actitud más correcta:",
+      "opciones": [
+        "Realizar un BAL para demostrar la presencia de cuerpos de asbesto.",
+        "Realizar un TC de alta resolución para valorar la presencia de asbestosis.",
+        "No es necesario realizar más técnicas, pues la Rx de tórax no muestra datos de asbestosis.",
+        "Pedir citologías de esputo seriadas para descartar carcinoma broncogénico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un paciente con antecedente epidemiológico de exposición al asbesto (fábricas de frenos) y placas pleurales, se debe sospechar enfermedad ocupacional por exposición al asbesto. La presencia de asbestosis (patrón intersticial por exposición al asbesto) se debe valorar mediante la TC, puesto que la radiografía torácica no es lo suficientemente sensible, sobre todo en estadios iniciales. Sólo en los casos de duda diagnóstica, se deben buscar las fibras de asbesto en el LBA o en una biopsia. No hay indicación en estos pacientes de screening de carcinoma broncogénico con citologías seriadas, y únicamente se deben realizar estudios radiológicos periódicos de control."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Una mujer de 30 años, no fumadora, consulta por malestar general, cansancio y fiebre de 39 ºC desde hace un mes. En la exploración hay lesiones cutáneas induradas y purpúreas en nariz, mejillas, labios y orejas. No tiene adenopatías periféricas. En la radiografía de tórax hay adenopatías hiliares bilaterales. TC toracoabdominal con adenopatías hiliares bilaterales, sin encontrarse a otros niveles. Mantoux negativo. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Linfoma.",
+        "Carcinoma broncogénico.",
+        "Fibrosis pulmonar idiopática.",
+        "Sarcoidosis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El caso descrito debe hacernos pensar en una sarcoidosis con forma de presentación aguda. Cuando la sarcoidosis se presenta de esta forma, hecho que ocurre en el 20-40% de todos los casos, clínicamente se manifiesta con fiebre y mal estado general. Es característico además el eritema nodoso, que consiste en nódulos subcutáneos rojos y sensibles a la palpación, localizados en la cara anterior de las piernas. En el caso de esta paciente, las lesiones induradas y purpúreas en región facial corresponden al lupus pernio, una manifestación cutánea muy típica de la sarcoidosis. Aunque radiológicamente lo más característico son las adenopatías hiliares bilaterales, también puede haber afectación parenquimatosa pulmonar en forma de infiltrados retículonodulares difusos. Desde el punto de vista funcional, lo típico es el patrón restrictivo y la disminución de la DLCO. El aumento de los niveles de enzima convertidor de la angiotensina también es muy propio de la sarcoidosis, aunque inespecífico, por lo que carece de utilidad diagnóstica."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "Paciente que presenta el siguiente estudio espirométrico: CVF 68%, FEV1 70%, FEV1/CVF 103%. En la pletismografía el VR se encuentra aumentado y la CPT descendida. ¿Cuál de los siguientes NO concuerda con estos datos?",
+      "opciones": [
+        "Cifoescoliosis.",
+        "Síndrome de Guillén Barré.",
+        "Espondilitis anquilosante.",
+        "Miastenia gravis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El patrón que presenta el paciente del caso clínico es restrictivo con afectación extraparenquimatosa. El aumento del VR indica que existe afectación inspiratoria y espiratoria, lo que descarta la opción de respuesta 1, donde solo hay afectación inspiratoria (marcamos la opción de respuesta 1)."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "¿Cuál es la localización más frecuente de la atelectasia redonda o síndrome de Blesovsky?:",
+      "opciones": [
+        "Lóbulo medio.",
+        "Lóbulo inferior derecho.",
+        "Lóbulo inferior izquierdo.",
+        "Língula."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La atelectasia redonda es una de las complicaciones de la exposición al asbesto, y con frecuencia se localiza en la língula."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Hombre de 70 años, que presenta disnea progresiva y tos no productiva de varios años de evolución. En la Rx de tórax se observan placas pleurales en pleura mediastínica y diafragmática. En la TC se confirman dichas placas, apreciando además la presencia de afectación reticulonodulillar de predominio en campos inferiores. De entre las siguientes, ¿qué actitud recomendaría en PRIMER lugar?",
+      "opciones": [
+        "Completar su historia tabáquica.",
+        "Indagar sobre exposición ocupacional.",
+        "Solicitar analítica de sangre para descartar eosinofilia.",
+        "Hacer pruebas funcionales respiratorias completas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La presencia de placas pleurales calcificadas, sobre todo en bases, debe hacer sospechar exposición al asbesto. La causa más frecuente de exposición al asbesto es de origen laboral, por lo que se debe interrogar por su historia laboral."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "¿Cuál de los siguientes antibióticos puede causar neumopatía intersticial difusa?:",
+      "opciones": [
+        "Trimetoprim.",
+        "Acido pipemídico.",
+        "Nitrofurantoína.",
+        "Estreptomicina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La nitrofurantoína produce una reacción aguda pulmonar caracterizada por eosinifilia sanguínea (pero no en el LBA), fiebre, escalofríos, tos y disnea; presenta patrón alveolar en bases y derrame pleural eosinofilico en 1/3 de los casos. En las fases crónicas puede producir daño intersticial difuso. La presencia de derrame pleural eosinofilico debe orientar a enfermedad por fármacos o parásitos, o a la presencia de aire o sangre en el espacio pleural. La presencia de eosinofilia pleural prácticamente descarta la TBC pleural y disminuye la probabilidad de neoplasia. El tratamiento consiste en suspender el fármaco e iniciar corticoides, si no se resuelve."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "El volumen de gas que no participa del intercambio gaseoso en cada movimiento respiratorio y que se conoce como espacio muerto anatómico es aproximadamente:",
+      "opciones": [
+        "500 ml.",
+        "300 ml.",
+        "400 ml.",
+        "150 ml."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El volumen del espacio muerto anatómico es de aproximadamente 150 ml."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Uno de los siguientes casos de paciente con SAHS no se beneficia de tratamiento con CPAP. Indíque cual:",
+      "opciones": [
+        "75 años, SAHS grave (IAH 39), oligosintomático (Epworth 5)",
+        "43 años, SAHS grave (IAH 57), moderadamente sintomático (Epworth 13)",
+        "51 años, SAHS moderado (IAH 21), oligosintomático (Epworth 10), con HTA mal controlada",
+        "39 años, SAHS moderado (IAH 17), sintomático (Epworth 20)"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La CPAP es el tratamiento de elección del SAHS. Está indicado en todo paciente con AHS sintomático, pues ha demostrado su mayor eficacia en el control de la sintomatologia diurna; en pacientes con factores de riesgo vascular (HTA con mal control farmacológico) o en pacientes con SAHS grave menores de 70 años también se debe intentar un ensayo terapéutico con CPAP. La mejor forma de cuantificar la clínica diurna es midiendo la somnolencia con el test de Epworth, considerando significativa una puntuación de 12 o superior.\n\nEn pacientes asintomáticos por encima de 70 años el beneficio es discutible; no va a mejorar la clínica porque es escasa o nula, y la supuesta reducción del riesgo vascular a esa edad poco significativa"
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Paciente con antecedentes de asma que presenta clínica de fiebre y pérdida de peso y en radiografía de tórax aparecen unos infiltrados periféricos como negativos del edema de pulmón. De entre las siguientes enfermedades, ¿cuál presentaría con MAYOR probabilidad?",
+      "opciones": [
+        "Neumonía eosinófila crónica.",
+        "Aspergilosis broncopulmonar alérgica.",
+        "Granulomatosis de Churg-Strauss.",
+        "Hemosiderosis pulmonar idiopática."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La neumonía eosinófila crónica (NEC) se manifiesta de forma subaguda con fiebre moderada, sudores nocturnos, pérdida de peso y tos con escasa expectoración, precediendo al diagnóstico en varias semanas. La mitad de los pacientes tiene antecedentes de atopia, rinitis o pólipos nasales y, hasta dos tercios, de asma. Es una enfermedad más frecuente en mujeres de edad media. En la radiografía se observan infiltrados pulmonares bilaterales y periféricos de predominio en campos superiores y medios. Cuando son generalizados se produce una “imagen negativa” del edema pulmonar, típica de esta enfermedad (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "¿Con respecto al surfactante pulmonar, ¿cual de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "Es producido por los neumocitos tipo I",
+        "Su función es reducir la tensión superficial en el alveolo, lo que impide su colpaso en la espiración",
+        "Está compuesto por lipoproteínas",
+        "El déficit o alteración en su eliminación da lugar a la proteinosis alveolar"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El surfactante pulmonar es un material lipoproteináceo producido por los neumocitos tipo II (respuesta 1 falsa) que tapiza la luz alveolar y tiene como función reducir la tensión superficial en el alveolo, disminuyendo la posibilidad de colapso al final de la espiración. Es eliminado por los macrófagos alveolares; si no se elimina de forma adecuada se acumula en las luces alveolares, lo que da lugar a la proteinosis alveolar."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "¿Cuál de las siguientes no es una indicación de filtro de vena cava inferior?",
+      "opciones": [
+        "TEP en paciente con cirugía reciente de meningioma.",
+        "TEP recurrente en paciente tratado con acenocumarol e IRN de 2,8.",
+        "TEP en paciente con enoxaparina a dosis profiláctica.",
+        "TEP en paciente con hipertensión arterial grave."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el caso de un TEP en un paciente con enoxapartina a dosis profiláctica habría que aumentar la dosis a 1 mg/kg de peso cada 12 horas. El resto de opciones son indicación de filtro de vena cava inferior."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "Un paciente con antecedentes de asma bronquial que presenta eosinofilia, niveles elevados de IgE, reactividad cutánea inmediata a un hongo, bronquiectasias proximales y un infiltrado pulmonar transitorio es sugestivo de:",
+      "opciones": [
+        "Enfermedad de Wegener.",
+        "Angeitis alérgica granulomatosa de Churg-Strauss.",
+        "Esquistosomiasis.",
+        "Aspergilosis broncopulmonar alérgica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La aspergilosis broncopulmonar alérgica se manifiesta clínicamente por asma de difícil control, tos productiva, disnea, sibilancias, malestar, febrícula y hemoptisis. Para su diagnóstico existen 8 criterios mayores y 3 menores. Entre los criterios mayores se incluyen: asma, eosinofilia sanguínea, precipitinas IgG contra Aspergillus, test cuáneos de hipersensibilidad inmediata positivo para Aspergillus, IgE total sérica elevada, infiltrados pulmonares transitorios, bronquiectasias proximales o centrales e IgE e IgG específicas para Aspergillus elevadas. Los criterios menores son expectoración de tapones mucosos marronáceos, identificación de Aspergillus en esputo y reacción cutánea retardada al Aspergillus."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "La presión transpulmonar es la diferencia entre:",
+      "opciones": [
+        "Presión atmosférica y presión alveolar",
+        "Presión alveolar y presión pleural",
+        "Presión pleural y presión atmosférica",
+        "Presión en la vía aérea y presión en faringe"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La presión transpulmonar es la diferencia entre la presión interna (alveolar) y la externa (pleural). Es importante sobre todo en ventilación mecánica invasiva."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "Un varón de 50 años, tras realizársele estudios de función ventilatoria, presenta los siguientes índices: VR (Volumen Residual) de 0.5 litros (normal, de 1 a 2 litros), CV (Capacidad Vital) de 2,5 litros (normal, de 4 a 5 litros), CPT de 4 litros (normal, de 6 a 7) y una relación FEV1 / FVC de 0,85 (normal, mayor de 0.6). Este cuadro funcional es más compatible con:",
+      "opciones": [
+        "Asma.",
+        "Bronquiectasias.",
+        "Enfisema.",
+        "Neumoconiosis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El patrón funcional ventilatorio corresponde a un patrón restrictivo (volúmenes disminuidos con índice de Tiffenau normal), por lo que la neumoconiosis es la enfermedad que con mayor probabilidad se corresponde con este patrón. La espondilitis anquilopoyética ocasiona una deformidad de la caja torácica que produce restricción; pero al afectar tanto a la fase inspiratoria como a la espiratoria, el volumen residual está típicamente aumentado. El resto de las enfermedades propuestas producen típicamente un patrón obstructivo."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "Un paciente asmático en tratamiento con dosis bajas de budesonida comienza a experimentar un aumento en el uso de betaagonistas de acción corta de rescate y síntomas nocturnos frecuentes. ¿Cuál de las siguientes acciones le será de MAYOR utilidad?",
+      "opciones": [
+        "Añadir teofilinas.",
+        "Añadir Montelukast.",
+        "Añadir formoterol.",
+        "Añadir metilprednisolona."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El tratamiento del paciente asmático al que ya se le han prescrito fármacos antiasmáticos consiste en conseguir el control del asma, que se consigue con el llamado tratamiento escalonado, en el que se añaden fármacos o se sube la dosis del principal fármaco controlador (el corticoide inhalado) hasta lograr este objetivo. Los escalones del tratamiento del asma son seis:\n\n1) Betaagonistas de acción corta empleados a demanda: se utilizan como tratamiento de rescate en todos los escalones asociados al fármaco o fármacos controladores.\n\n2) Corticoides inhalados a dosis bajas.\n\n3) Corticoides inhalados a dosis bajas + un betaagonista de acción larga.\n\n4) Corticoides inhalados a dosis medias asociados a un betaagonista de acción larga.\n\n5) Corticoides inhalados a dosis altas asociados a un betaagonista de acción larga. Se añadirá en este escalón el resto de los fármacos controladores si no se alcanza el control: antagonistas de receptores de leucotrienos, teofilinas y omalizumab (este último en pacientes alérgicos).\n\n6) A los fármacos del escalón 5 se añadirán corticoides orales tras asegurarnos del uso correcto del resto de fármacos controladores.\n\nEn el caso que nos ocupa, dado que el paciente estaba en el segundo escalón, recibiendo dosis bajas de corticoides inhalados, lo correcto sería añadir un betaagonista de acción larga como el formoterol (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Remiten a su consulta a un paciente de 63 años por el hallazgo en una radiografía de tórax preoperatoria de un patrón intersticial, más acusado en las bases pulmonares, asociado a placas pleurales. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Silicosis.",
+        "Sarcoidosis.",
+        "Aspergilosis broncopulmonar alérgica.",
+        "Asbestosis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La asbestosis es una enfermedad pulmonar producida por la inhalación de partículas de asbesto o amianto, muy empleado en el pasado por sus propiedades aislantes. La imagen radiológica típica consiste en un patrón intersticial que afecta sobre todo a los campos pulmonares inferiores asociado a placas pleurales que suelen verse en la pleura diafragmática."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Es usted Médico de Atención Primaria y uno de sus pacientes ha sido valorado por Neumología por sospecha de SAHS, pero la poligrafía en su ciudad tiene una lista de espera de 1 año, a pesar de haberse solicitado de forma preferente. ¿Cuál es la actitud más correcta?",
+      "opciones": [
+        "Debe pautarle CPAP por su cuenta a la espera de la prueba.",
+        "Debe pautarle oxígeno nocturno.",
+        "Si tiene sobrepeso, debe ayudarle con medidas dietéticas y animar a realizar ejercicio físico diario para conseguir normopeso.",
+        "Debe pautarle un fármaco hipnótico para inducir el sueño nocturno."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Todos los pacientes con SAHS y sobrepeso u obesidad, deben realizar dieta y ejercicio para disminuir de peso, ya que es el principal factor de riesgo de esta enfermedad."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "¿Cuál de los siguientes tumores pulmonares se acompaña con mayor frecuencia de síntomas endocrinos?:",
+      "opciones": [
+        "Carcinoma epidermoide.",
+        "Adenocarcinoma.",
+        "Adenocarcinoma bronquioloalveolar.",
+        "Carcinoma anaplásico de células pequeñas (en grano de avena)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sencilla de uno de los temas más preguntados de Neumo, el cáncer de pulmón. Los síndromes paraneoplásicos son producidos más frecuentemente por los tumores microcíticos (son tumores derivados de células de Kultichsky y del sistema APUD bronquial, que contienen gránulos neurosecretores en sus células) Los síndromes paraneoplásicos producidos por el oat- cell son la hipopotasemia por secreción ectópica de ACTH, hiponatremia por secreción inadecuada de ADH o del péptido auricular natriurético, un síndrome constitucional con astenia, anorexia y pérdida de peso, síndrome de Eaton- Lambert, ceguera retiniana, y otros mucho menos frecuentes. Las excepciones que debes recordar son: la ginecomastia, producida por el anaplásico de células grandes; la hipercalcemia con hipofosfatemia por secreción de un péptido \"PTH- like\", por el epidermoide; la osteoartropatía hipertrófica, que consiste en acropaquias que asocian periostitis con dolor y tumefacción."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "Paciente con pO2 de 48 mmHg, pCO2 57 mmHg, gradiente alveoloarterial de 5 mmHg y disminución de la ventilación alveolar por minuto. ¿Qué trastorno de los siguientes explica estos resultados?:",
+      "opciones": [
+        "Neumonía.",
+        "Insuficiencia cardíaca.",
+        "EPOC.",
+        "Distrofia muscular."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un paciente que hipoventila( pCO2 muy elevada y disminución de la ventilación alveolar) pero sin patología parenquimatosa(pues el gradiente alveoloarterial es de 5 mmHG). Por tanto la patología mas compatible seria aquella que cursara con una hipoventilación de causa no parenquimatosa como es la distrofia muscular."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "En una paciente con hipertensión pulmonar idiopática en clase funcional I, sin factores de mal pronóstico, con prueba vasodiladora negativa, indique cual puede ser el tratamiento de inicio:",
+      "opciones": [
+        "No precisa tratamiento mientras permanezca en clase funcional I",
+        "Sildenafilo",
+        "Nifedipino 120 mgrs/d",
+        "Treprostinil"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los pacientes con hipertensión pulmonar primaria con test de vasorreactividad negativo se tratan con vasodilatadores a partir de clase funcioal II. En clase funcional I sólo precisan anticoagulación.\n\nSi el test de vasorreactividad fuera positivo, el tratamiento sería antagonistas del calcio a dosis altas más anticoagulación"
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "Respecto a la reducción de volumen pulmonar es FALSO:",
+      "opciones": [
+        "Es una técnica indicada para enfermos con EPOC muy grave tipo enfisema.",
+        "Se requiere un enfisema homogéneo y bilateral para la cirugía.",
+        "La complicación más frecuente es la fuga aérea.",
+        "Se realiza en pacientes con FEV 250%."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La cirugía en el EPOC, es una opcion que se realiza cuando otras opciones medicas o de oxigenoterapia no han dado resultado, y el paciente esta en una situación grave(por ejemplo un FEV1 menor del 30%). Tiene su utilidad en los pacientes con enfisema, ya que permite que las zonas de pulmon circundante no enfisematosas, recuperen una función normal. Por ello es preciso que el enfisema no sea homogéneo, puesto que los mejores resultados se consiguen en casos de enfisema hetereogéneo de predominio apical acompañado de mala tolerancia al esfuerzo; en este grupo ha demostrado mejorar la supervivencia comparado con el tratamiento convencional"
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "La presencia de eosinofilia en el líquido pleural orienta a las siguientes entidades EXCEPTO:",
+      "opciones": [
+        "Exposición al asbesto.",
+        "Enfermedad de Churg-Strauss.",
+        "Hidroneumotórax.",
+        "Tuberculosis pleural."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Dentro del tema del derrame pleural, es importante conocer las características del líquido para así poder determinar la etiología y el manejo terapéutico. Este es un ejemplo claro, en el que nos habla de la presencia de eosinófilos en el líquido pleural, lo cual, en general, suele aparecer en relación con aire o sangre, fármacos, parásitos y vasculitis, pero sin embargo su presencia descarta una TBC y malignidad (aunque en algunas ocasiones el linfoma sí pueda presentarlos).\n\nAsí es como hay que estudiarse esta parte, por lo que de la misma manera, la presencia de linfocitos orienta a TBC y malignidad y nos descarta un empiema; la presencia de neutrófilos nos orienta a neumonía como causa más frecuente, pero también pueden aparecer en relación con un TEP, pancreatitis e incluso en las fases iniciales de la TBC; la presencia de >5% de células mesoteliales nos descarta TBC; la presencia de >110mg/del de triglicéridos o de quilomicrones nos orienta hacia quilotórax, mientras que si el aumento es de colesterol hablamos de pseudoquilotórax; el aumento de amilasa puede estar relacionado con una pancreatitis, rotura esofágica o neoplasia (pulmón, ginecológica) y el aumento de ADA orienta hacia TBC (aunque son más específicas lisozima y sobre todo IFN gamma), pero también pueden aparecer en la AR, linfoma y empiema."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "Mujer de 35 años en tratamiento con anticonceptivos orales y fumadora de 20 paquetes-año, sin antecedentes médicos o quirúrgicos de interés, que acude al servicio de urgencias por disnea de aparición brusca de 12 horas de evolución y dolor centrotorácico. A su llegada a urgencias, presenta: frecuencia cardiaca de 110 lpm, TA 90/50 mmHg, frecuencia respiratoria 30 rpm, SaO2 basal 90% y temperatura 36,5 ºC. Finalmente, se llega a un diagnóstico de TEP mediante angioTC de tórax. Señale la opción falsa en relación con la actitud terapéutica indicada en esta paciente.",
+      "opciones": [
+        "El tratamiento trombolítico, que sería el más adecuado en esta paciente, administrado durante 2 horas es más eficaz y seguro que las pautas de 12-24 horas.",
+        "El tratamiento percutáneo dirigido por catéter tiene como finalidad desobstruir los vasos pulmonares principales, provocando una mejora en la disfunción del ventrículo derecho, así como una mayor supervivencia. Estos procedimientos pueden ser una estrategia potencial para el manejo de los pacientes con TEP de alto riesgo o TEP de riesgo intermedio-alto, que tienen contraindicación para la fibrinólisis sistémica o la anticoagulación estándar. Sin embargo, no existe evidencia suficiente en términos de seguridad y eficacia para el uso de estas intervenciones.",
+        "Entre los fibrinolíticos preferidos se encuentra la alteplasa (activador del plasminógeno recombinante, rTPA) en dosis de 100 mg en 2 h, administrado en infusión intravenosa a través de un catéter central, ya que el uso de una vía periférica no es más eficaz y aumenta el riesgo de sangrado en el punto de inserción del acceso venoso.",
+        "Una vez realizada la fibrinolisis, se realizará un nuevo control de hemostasia; si el TTPa es 2,5 veces superior al basal, se debe diferir la administración de heparina hasta no conseguir el TTPa adecuado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta y por tanto la FALSA es la 3).\n\nSe deberá administrar a través de vía periférica precisamente porque a través de catéter central no se ha demostrado que sea más eficaz y puede aumentar el riesgo de sangrado.\n\nEl resto son correctas."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "La aparición en una placa de tórax de un patrón micronodular difuso en ambos campos pulmones es MENOS probable:",
+      "opciones": [
+        "Tuberculosis miliar.",
+        "Metástasis de carcinoma de tiroides.",
+        "Silicosis.",
+        "Metástasis de carcinoma colorrectal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta dificil sobre radiología. El patrón intersticial micronodular es característico de la tuberculosis miliar o la silicosis simple. Las metástasis suelen provocar en el pulmón nódulos pulmonares de gran tamaño, a veces cavitados (las metástasis de carcinomas epidermoides) y no micronódulos (respuesta 4 correcta), con excepción del carcinoma de tiroides."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Un paciente fumador de 79 años consulta por disnea para moderados esfuerzos y tos poco productiva. Se realiza una gasometría arterial en la que se observa: pH 7,45, PaO2 54 mmHg y PaCO2 42 mmHg. La radiografía de tórax muestra signos de hiperinsuflación pulmonar. En la espirometría se observa un volumen espiratorio forzado en el primer segundo (FEV1) del 48%, una capacidad vital forzada (FVC) del 85% y una relación FEV1/FVC del 56%. A la vista de estos resultados, el paciente es diagnosticado de EPOC. ¿Cuál es la gravedad de su enfermedad según la clasificación GOLD?",
+      "opciones": [
+        "Leve.",
+        "Moderada.",
+        "Grave.",
+        "Muy grave."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aunque en la última normativa GOLD no se tiene en cuenta la función pulmonar para definir la categoría (A, B, C o D) sí se utiliza como paso previo para definir la gravedad de la obstrucción. Un paciente con un FEV1 entre 30-50% tiene una obstrucción grave."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Una de las siguientes enfermedades presenta unos granulomas similares a los de la sarcoidosis, sin afectación vasculítica:",
+      "opciones": [
+        "Aspergilosis broncopulmonar alérgica.",
+        "Tuberculosis.",
+        "Granulomatosis de Churg-Strauss.",
+        "Beriliosis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La exposición al berilio puede producir una neumonitis aguda o lo que es mucho más frecuente una neumonitis intersticial crónica. Suelen transcurrir de dos a quince años desde la exposición hasta que aparece la enfermedad. La exposición al berilio ocurre en la fabricación de aleaciones, cerámica, electrónica de alta tecnología y producción de lámparas fluorescentes.\n\nHistológicamente se caracteriza por granulomas similares a los que encontramos en la sarcoidosis, por lo que es importante la determinación de la concentración de berilio en el tejido para diferenciar ambas enfermedades."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "¿Cuál es el mecanismo más frecuente de hipoxemia?:",
+      "opciones": [
+        "Hipoventilación",
+        "Disminución de la PiO2",
+        "Trastorno de la difusión",
+        "Alteración en la relación V/Q"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Aunque todos ellos pueden producir hipoxemia, la causa más frecuente son las alteraciones en la relación V/Q, que en mayor o menor medida se producen en prácticamente todas las enfermedades pulmonares."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Un joven de 18 años, con antecedentes de alergia a pólenes y eccema, acude a Urgencias por dificultad respiratoria progresiva, con broncoespasmo muy severo que obliga a actuación terapéutica inmediata. Señale de los siguientes datos observados, ¿cuál es el que MENOS nos indica la gravedad de la situación?",
+      "opciones": [
+        "Hiperinsuflación torácica.",
+        "Sibilancias.",
+        "Hipercapnia.",
+        "Uso de músculos accesorios respiratorios."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de dificultad moderada sobre el asma, del que debes conocer su definición, diagnóstico y tratamiento.\n\nLa agudización del asma se define como el empeoramiento progresivo en un corto espacio de tiempo de algunos o de todos los síntomas, junto con una disminución del flujo espiratorio, que se objetiva generalmente con el PEF (parámetro más fiable para monitorizar la crisis).\n\nDe las 4 respuestas, la que menos nos indica la gravedad del proceso son las sibilancias, ya que están presentes incluso en exacerbaciones leves de la enfermedad, si bien es cierto que un aumento en la intensidad de las mismas es indicativo de mayor gravedad. No obstante, en caso de paro respiratorio inminente pueden desaparecer, o cuando la broncoconstricción es extrema.\n\nEl resto de respuestas indican que la exacerbación del asma es moderada- grave. La hipercapnia indica extrema gravedad y es indicación de ventilación mecánica."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "En un paciente con un carcinoma epidermoide metastásico, ¿cuándo hay que hacer determinación de PD-L1?:",
+      "opciones": [
+        "Siempre",
+        "Nunca",
+        "Solo en no fumadores",
+        "Solo en no fumadores o histología mixta"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La determinación de PD-L1 hay que hacerla en todos los casos. En los no fumadores o histología mixta hay que determinar, además, el resto de marcadores moleculares y dianas terapéuticas."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "En relación con el estreñimiento en el paciente con cáncer en situación paliativa, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Está provocado habitualmente por diversas causas.",
+        "Se debe descartar la hipocalcemia por su manejo específico.",
+        "La disminución de la actividad física contribuye a empeorar este síntoma.",
+        "Muchos de los fármacos que se utilizan en esta fase, como la amitriptilina, contribuyen al estreñimiento."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta relativamente sencilla. Acertarla es más una cuestión de atención que de conocimientos teóricos.\n\nTal como dice la respuesta 1, el estreñimiento puede ser de origen multifactorial. Pueden contribuir factores como el encamamiento, los fármacos (opiáceos, antidepresivos tricíclicos…), alteraciones hidroelectrolíticas (hipercalcemia), etc. Por ello, la opción incorrecta es la 2, ya que es la hipercalcemia (y no la hipocalcemia) lo que se tiene relación con este síntoma."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Paciente de 45 años que acudió a consulta el día antes y fue diagnosticado de lumbalgia, acude a Urgencias con una crisis asmática grave asociada a conjuntivitis y síntomas vasomotores en cara y cuello. En la analítica aparece una marcada eosinofilia. ¿Cuál ha sido la causa de dicha crisis asmática?",
+      "opciones": [
+        "Mal control del asma.",
+        "Ingesta de inhibidores de la COX-1.",
+        "Ejercicio físico desencadenante.",
+        "Acetaminofeno."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La ingesta de antiinflamatorios no esteroideos inhibidores de la COX-1 se asocia a la conocida como triada ASA (asma, poliposis nasal en intolerancia a AINEs). Su ingesta produce broncoespasmo precedido de síntomas vasomotores (rinitis, conjuntivitis y enrojecimiento facial) (respuesta 2 correcta). Como tratamiento o para evitar esta crisis asmática se dan corticoides, paracetamol o acetaminofeno o inhibidores de la COX-2."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Una de las siguientes afirmaciones con respecto al intercambio gaseoso es FALSA:",
+      "opciones": [
+        "La acidosis disminuye la afinidad de la hemoglobina por el oxígeno.",
+        "La disminución del 2,3 DPG aumenta la afinidad de la hemoglobina por el oxígeno.",
+        "Los trastornos de la relación ventilación-perfusión son la causa más frecuente de hipoxemia.",
+        "La hemorragia alveolar se caracteriza por la disminución de la capacidad de difusión del CO."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La hemorragia alveolar no se caracteriza por disminución de la DLCO. Al reves, el acumulo de Hb en el alveolo, produce hipercaptacion de CO, y el médico detecta falsamente una elevación de la difusión. Realmente el CO no difunde, sino que se retiene en el alveolo, pero a efectos prácticos, produce la misma alteración."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Paciente de 46 años de edad, hipertenso y sin otros antecedentes patológicos de interés. Acude a consulta por presentar una tumoración anterior paraesternal izquierda no dolorosa, de dos meses de evolución, y sin otro síntoma añadido. En la exploración física se aprecia una masa dura de 4,5 x 4 cm, no dolorosa, sin retracción de la piel y adherida a planos profundos. ¿Cuál de estas afirmaciones es correcta?",
+      "opciones": [
+        "Al tratarse de una masa anterior no dolorosa, se debe considerar un tumor benigno.",
+        "Como primera medida, debe considerarse un tumor condroide, dado que son los más frecuentes en esta localización.",
+        "No está indicada la realización de una biopsia por el peligro de diseminación local del tumor.",
+        "Es preferible mantener una actitud conservadora, evaluando la evolución y el posible crecimiento de la tumoración."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta difícil, por lo inusual de estas lesiones. Por su localización, lo más probable es que se trate de una tumoración condroide, que por su origen cartilaginoso suelen ser duras, aunque benignas. Lógicamente biopsiar una lesión benigna no conlleva la posibilidad de diseminación, y la actitud expectante no parece lógica, pues en el diagnóstico diferencial se incluyen lesiones benignas."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Paciente de 47 años, de origen venezolano, trabajador en una fábrica de ron de caña, que acude a urgencias con \" opresión torácica\", disnea, tos y malestar general. Existen crepitantes en todos los campos pulmonares, en radiografía de tórax aparecen infiltrados nodulares mal definidos en campos inferiores. Usted sospecha:",
+      "opciones": [
+        "Bagazosis por thermoactinomyces sacchi.",
+        "Bagazosis por thermoactinomyces vulgaris.",
+        "Sarcoidosis.",
+        "Aspergilosis broncopulmonar."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La historia de exposición al azúcar de caña debe hacernos pensar, junto con la sintomatología y radiografía que presenta el paciente, que se trata de una bagazosis. Esta enfermedad es una forma de neumonitis por hipersensibilidad producida por la exposición al actinomicetos termófilos ( especie que comprende el thermoactinomyces vulgaris ) y que se encuentra en el azúcar de caña mohosa. Las enfermedades pulmonares relacionadas con exposición laboral son las neumonitis por hipersensibilidad (antígenos orgánicos), las neumoconiosis (antígenos inorgánicos) y el asma ocupacional."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "¿En cual de las siguientes situaciones estaría indicado el tratamiento con pembrolizumab en un paciente con adenocarcinoma de pulmón estadio IV?",
+      "opciones": [
+        "Mutación en el EGFR.",
+        "Gen de fusión ROS1.",
+        "Traslocación EML4/ALK.",
+        "Expresión de PD L1 en más del 50% de las células tumorales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El pembrolizumab es un anticuerpo monoclonal anti PD1. Ha demostrado utilidad en pacientes con carcinoma no microcítico en estadio IV en aquellos casos en los que más del 50% de las células tumorales expresen el ligando de la proteína PD1 (PD L1). Esta proteína tiene como función permitir que el sistema inmunológico reconozca a la célula como propia, y por tanto no la ataca. Si se interrumpe este mecanismo de reconocimiento celular, que permite a las células tumorales \"engañar\" al sistema inmune, los linfocitos atacan y destruyen las células tumorales. Por eso este tipo de tratamientos se conoce como inmunoterapia."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "Paciente varón de 45 años, con sobrepeso (IMC de 28 kg/m2), que acude a consulta por roncopatía intensa, cuadro de somnolencia diurna discreta con puntuación en la escala de Epworth de 13. Duerme aceptablemente unas 7-8 horas. HTA mal controlada, sin otras enfermedades conocidas.",
+      "opciones": [
+        "Poligrafía respiratoria domiciliaria",
+        "Pulsioximetría nocturna domiciliaria.",
+        "Polisomnografía hospitalaria.",
+        "Pérdida de peso e higiene del sueño. No estan indicadas pruebas adicionales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El paciente tiene síntomas de SAS y factores de riesgo CV (HTA), junto con somnolencia discreta a pesar de horas en cama suficientes\n\nPor este motivo una poligrafía respiratoria basal, seria la prueba de elección."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "Un paciente ingresado por neumonía comunitaria presenta mala evolución, con persistencia de la fiebre tras 72 horas de antibioterapia intravenosa. Se solicita una radiografía de tórax en la que se ve la aparición de un derrame pleural derecho moderado, no presente al ingreso. Se practica una toracocentesis diagnóstica, obteniendo un líquido pleural amarillo turbio, con 12000 leucocitos, 90% polimorfonucleares, glucosa 40 mg/dl. proteínas 40 gr/l (en sangre la cifra de proteínas es de 68 gr/l), LDH 980 UI/l, pH 7.00. La tinción de Gram no demuestra la presencia de microorganismos. ¿Qué debe hacer?",
+      "opciones": [
+        "Mantener el tratamiento intravenoso. Al no haber gérmenes en la tinción de Gram, la respuesta es más lenta pero será favorable",
+        "Cambiar la pauta antibiótica para ampliar la cobertura inicial",
+        "Colocar un tubo de drenaje torácico",
+        "Pedir una PCR en el líquido pleural para descartar tuberculosis"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta característica de derrame pleural que no debes fallar. Se trata de un derrame paraneumónico complicado, tiene glucosa y pH bajos, y cuando esto ocurre a la cobertura antibiótica se debe añadir un tubo de drenaje torácico. Si el líquido es purulento o presenta gérmenes en la tinción de Gram se denomina empiema pleural e igualmente requiere drenaje."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "La presentación simultánea de un neumotórax espontáneo y nódulos pulmonares múltiples es muy sugerente de:",
+      "opciones": [
+        "Tumor testicular.",
+        "Osteosarcoma.",
+        "Nefroblastoma.",
+        "Linfoma."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta muy difícil. La presentación simultánea de neumotórax espontáneo y nódulos pulmonares múltiples es muy rara, aunque el osteosarcoma es uno de los tumores que lo hace con más frecuencia, entre un 5-7%."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "Respecto a la clínica de un paciente con EPOC no esperaría encontrar:",
+      "opciones": [
+        "Ortopnea y disnea paroxística nocturna.",
+        "Sibilancias, con disminución del murmullo vesicular y espiración prolongada.",
+        "Respiración paradójica y signo de Hoover.",
+        "En el caso del enfisema puede faltar la matidez cardiaca."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta no muy difícil que debes responder bien si sabes identificar la exploración de un paciente EPOC y diferenciar esta de exploraciones típicas de otras enfermedades. La clínica del paciente EPOC puede reunir todos las opciones excepto la 1, ya que la ortopnea y la DPN son signos típicos de la insuficiencia cardiaca izquierda; recuerda que el corazón que sufre en el paciente EPOC es el derecho, llegando incluso a desarrollar cor pulmonale, manifestándose fundamentalmente como edemas en miembros inferiores y hepatomegalia. Es importante también saber que la causa más frecuente de hemoptisis es la bronquitis y que en la exploración típica del EPOC se produce un alargamiento en la exploración por la obstrucción existente. Por último recuerda que tanto la respiración paradójica como el signo de Hoover (movimiento hacia adentro de las últimas costillas durante la inspiración) son signos de gravedad."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "¿Cuál de los siguientes parámetros es más útil para valorar la gravedad y el pronóstico de un paciente EPOC?",
+      "opciones": [
+        "Indice BODE",
+        "FEV1/FVC",
+        "Grado de disnea",
+        "FEV1"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El índice BODE, formado por 4 parámetros (índice de masa corporal - body mass index- obstrucción - medida por el FEV1 en porcentaje del teórico-, grado de disnea - según la escala modificada del Medical Research Council- y la capacidad de ejercicio -según el test de marcha de 6 minutos- es el índice que mejor refleja la gravedad y el pronóstico de la EPOC, pues combina varios aspectos importantes en la enfermedad. De hecho, es el mejor parámetro para valorar cuando remitir a un paciente con EPOC para valoración de trasplante. No confundir la valoración pronóstica con la valoración de gravedad según la clasificación GOLD, que se hace en dos pasos: primero valoración de la gravedad de la obstrucción, según el FEV1, y en un segundo paso asignación de categoía -A, B, C o D- según síntomas e historial de exacerbaciones."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "Con respecto al cáncer de pulmón, señale cuál de los siguientes signos o síntomas es el MENOS frecuente:",
+      "opciones": [
+        "Adelgazamiento.",
+        "Dolor torácico.",
+        "Hemoptisis.",
+        "Tos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de elevada dificultad que hace referencia a un aspecto muy concreto de las neoplasias pulmonares. La clínica depende del tumor y, más concretamente, de la localización del mismo. Los de localización central pueden dar atelectasias, disnea y hemoptisis por afectación del árbol bronquial. Los periféricos generalmente no dan síntomas hasta estadios avanzados (dolor por afectación de la pleura o derrame pleural maligno). De todos estos síntomas, el menos frecuente es la hemoptisis. No te pongo porcentajes para que no te líes. Respuesta correcta 3."
+    },
+    {
+      "paginaPdf": 85,
+      "enunciado": "Acude a Urgencias un paciente con dolor en costado izquierdo que aumenta con la inspiración profunda. En la auscultación se objetiva una disminución del murmullo vesicular, una disminución en la transmisión de vibraciones vocales y percusión timpánica. Le solicita una radiografía de tórax urgente. ¿Qué esperaría encontrar?",
+      "opciones": [
+        "Neumotórax",
+        "Derrame pleural",
+        "Atelectasia",
+        "Condensación"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La disminución del murmullo vesicular con disminución en la transmisión de vibraciones vocales y percusión timpánica es la semiología característica del neumotórax"
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "materia": "cirugia",
+  "paginaInicio": 63,
+  "paginaFin": 82,
+  "anomalias": [
+    "p70: en la pregunta del hombre de 65 años con carcinoma epidermoide de esófago (Resp. Correcta 3), el comentario habla del 'tratamiento del cáncer de recto' en lugar de esófago y termina con una comilla suelta; la explicación es incoherente con el enunciado",
+    "p70-p71: la pregunta del signo esperado en dolor en hipocondrio derecho (Resp. Correcta 2, signo de Murphy) tiene un comentario que empieza explicando el signo de Blumberg, que no figura entre las opciones",
+    "p82: Resp. Correcta 1 (trombosis venosa profunda) pero el comentario no menciona la trombosis venosa profunda y enumera otras complicaciones (lesiones vasculares, intestinales, vesicales, uretrales, hernias, infecciones), sin justificar la clave",
+    "p64: el comentario de la acalasia está escrito sin espacios tras muchos signos de puntuación ('opciones.Ladilatación', 'cirugia,tiene', 'cirugía(respuesta nº 3 correcta)La inyección'); se transcribe tal cual",
+    "p71-p72: la pregunta del grado de hemorroides tiene opciones que son solo cifras ('2', '3', '4') y una cuarta opción 'Externas'; la clasificación del comentario se linealizó como lista",
+    "p66, p72, p78, p79, p80, p81: varias explicaciones contienen listas de viñetas o clasificaciones que se linealizaron con saltos de línea",
+    "p69 y p73: la misma pregunta (varón de 65 años con tumoración cervical durante las comidas, divertículo de Zenker) aparece duplicada con opciones ligeramente distintas; ambas se emiten porque ambos enunciados empiezan dentro del rango",
+    "p75: en el comentario del adenocarcinoma de antro gástrico hay un paréntesis sin abrir: 'los estadios precoces de la enfermedad T0-1 y algún T2 N0)'"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 63,
+      "enunciado": "Un paciente presenta una perforación del esófago torácico secundaria a la realización de una endoscopia digestiva alta hace 12 horas. De los siguientes síntomas, ¿cuál es el que espera encontrar con MÁS frecuencia?",
+      "opciones": [
+        "Dolor torácico.",
+        "Fiebre.",
+        "Disnea.",
+        "Crepitación cervical."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los síntomas que aparecen tras una perforación esofágica son, por orden de frecuencia, el dolor (71% - respuesta 1 correcta -), la fiebre (51%), la disnea (24%) y la crepitación (22%). No es necesario que aparezcan todos a la vez para llegar a un diagnóstico de sospecha, y menos si nos dan un dato clave como es un antecedente de intervencionismo endoscópico reciente, que es la causa más frecuente de perforación esofágica."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Entre las sinuientes aseveraciones referentes al divertículo de Zenker hay una FALSA. Señálela:",
+      "opciones": [
+        "Se sitúa en la parte posterior e izquierda del límite faringoesofágico.",
+        "Es más frecuente en varones.",
+        "Se suele asociar a hernia de hiato.",
+        "El tratamiento quirúrgico sólo debe realizarse en presencia de complicaciones o de clínica importante."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El divertículo de Zenker se desarrolla en la región posterior de la hipofaringe en la unión con el esófago superior. Se acompaña de disfagia tipo faríngeo por disfunción de la musculatura cricofaríngea. Además, el acúmulo de alimento condiciona halitosis, e incluso en ocasiones regurgitación maloliente. Sucede más en varones y se suele asociar a hernia de hiato. Si es sintomático es ya indicación de miotomía del cricofaríngeo y, si fuera necesario, mejor aún, acompañado de diverticulotomía."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "¿Cuál es el tratamiento más eficaz de la acalasia?:",
+      "opciones": [
+        "Antiespasmódicos.",
+        "Dilatación del cardias.",
+        "Esofagomiotomía.",
+        "Resección de la unión gastroesofágica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respecto al tratamiento de la acalasia,tenemos hoy en día varias opciones.Ladilatación con balón se considera actualmente la primera opción,siendo efectivo en un 85% de los pacientes.Aunque el resultado a largo plazo es inferior al de la cirugia,tiene la ventaja de ser más barata ,asi como la posibilidad de indicación de cirugía si ésta fracasa,teniendo similares tasas de complicaciones y de mortalidad.Sin embargo,en los últimos años la cirugía con realización de miotomía modificada de heller más técnica antireflujo,está ganando gran aceptación sobre todo por el uso de técnicas via laparoscópica,con menor nº de complicaciones ,que las implicadas en la cirugía(respuesta nº 3 correcta)La inyección de toxina botulínica es una técnica novedosa,que mejora la sintomatología sobre todo en ancianos y pacientes con acalasia vigorosa,pero aún no estan bien establecidas las indicaciones.Respecto al tto médico,(respuesta 1),son poco útiles,estando unicamente indicados de forma temporal y en edades extremas de la vida.EN CUALQUIER CASO NOS PREGUNTAN POR EL TRATAMIENTO MAS EFICAZ Y ESTE ES LA MIOTOMIA CON TÉCNICA ANTIREFLUJO"
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Con respecto a los divertículos esofágicos, señale cuál de las siguientes respuestas es FALSA:",
+      "opciones": [
+        "El cuello de un divertículo de Zenker está situado por encima del músculo cricofaríngeo.",
+        "El mejor tratamiento para un divertículo faringoesofágico es la diverticulectomía asociada a una miotomía del músculo cricofaríngeo.",
+        "La pared de los divertículos por pulsión está constituida por mucosa, submucosa y muscular.",
+        "Los divertículos esofágicos más frecuentes son los de Zenker."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los divertículos esofágicos más frecuentes son los de Zenker, que están situados por encima del músculo cricofaríngeo y se producen como una protrusión en la zona posterior lateral izda. del esófago. La miotomía del músculo cricofaríngeo mejora la disfagia de estos enfermos, pero el tratamiento de elección es la combinación con la diverticulectomía. Los divertículos por pulsión son pseudodivertículos, es decir, están formados por mucosa y submucosa y no por músculo."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Paciente de 52 años, en seguimiento periódico por enfermedad de Barrett, que es diagnosticado de un adenocarcinoma de esófago a nivel de la unión gastroesofágica. La estadificación realizada con TAC y ecoendoscopia muestra un tumor en estadio I (T1 N0). No presenta morbilidad respiratoria, ni criterios que contraindiquen la cirugía. ¿Qué estrategia terapéutica emplearía?",
+      "opciones": [
+        "Quimiorradioterapia preoperatoria + cirugía.",
+        "Quimiorradioterapia como único tratamiento.",
+        "Cirugía por vía trashiatal.",
+        "Endoprótesis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El afortunado paciente que presentamos en el caso es de los pocos casos con indicación quirúrgica de entrada en el cáncer de esófago. Presenta un tumor localizado, por lo que podríamos operarlo. Reservamos la neoadyuvancia (con quimio o quimiorradioterapia) para los pacientes diagnosticados en estadios avanzados (por desgracia, la mayoría). Al tratarse de un tumor de esófago distal, la técnica trashiatal es una buena opción (respuesta 3 correcta). Recuerda que se realiza por medio de laparotomía y cervicotomía y que la anastomosis se hace en el cuello. La reconstrucción del tránsito, en este caso, la haríamos con estómago tubulizado o, si el tumor es muy bajo y finalmente necesitara resecar el estómago, usaríamos el colon."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Cuál de las siguientes afirmaciones es incorrecta respecto a las hernias de hiato:",
+      "opciones": [
+        "Consiste en la herniación de un órgano abdominal a través del hiato esofágico",
+        "Las tipo I o también llamadas por deslizamiento son las más frecuentes",
+        "Las tipo III o mixtas son las mas frecuentes dentro de las paraesofágicas",
+        "Siempre tienen indicación quirúrgica"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "No siempre tienen indicación quirúrgica,en las asintomáticas se debe individualizar según las características del paciente y las tipo I seguirán los mismos criterios que la ERGE."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Paciente que tras vomitar de forma intensa y repetida los vómitos se hacen sanguinolentos dando paso a una importante hematemesis. ¿Cómo se llama este cuadro?:",
+      "opciones": [
+        "Síndrome de Plummer-Vinson.",
+        "S. de Paterson-Kelly.",
+        "S. de Mallory-Weiss.",
+        "S. de Potter."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome de Mallory- Weiss consiste en el desgarro y erosión de la mucosa esofágica situada anatómicamente dentro de la cavidad gástrica e inducida por los vómitos repetidos. Generalmente cursa con una hemorragia digestiva benigna y autolimitada y, por ello, raramente se precisa cirugía."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Una paciente de 58 años estudiada por dispepsia es remitida desde su médico de atención primaria aportando una ecografía en la que se describe la presencia de cálculos en la vesícula biliar con vía biliar no dilatada sin otros hallazgos relevantes. En la anamnesis la paciente describe molestias vagas postprandiales y algo de pirosis. ¿Su recomendación sería?",
+      "opciones": [
+        "Recomendar intervención quirúrgica dada la edad de la paciente para evitar complicaciones futuras",
+        "Recomendar intervención quirúrgica puesto que la sintomatología se justifica por la presencia de colelitiasis",
+        "No está indicado el tratamiento quirúrgico en esta paciente",
+        "Se recomienda la realización de CPRE profiláctica para evitar complicaciones por coledocolitiasis"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La presencia de colelitiasis es muy frecuente en la población y suele ser un hallazgo en el contexto de estudios por dispepsia. El simple hecho de presentar colelitiasis no justifica la intervención quirúrgica para evitar complicaciones futuras, ya que la colecistectomía en sí misma implica una morbilidad. Dentro de las indicaciones de la colecistectomía se encuentran los cólicos de repetición cuya sintomatología no es la que describe la paciente del caso clínico."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "La colecistectomía laparoscópica tiene como VENTAJA sobre la colecistectomía por laparotomía:",
+      "opciones": [
+        "La reducción de la estancia hospitalaria.",
+        "No se asocia a lesiones de la vía biliar.",
+        "Es una técnica exenta de mortalidad.",
+        "Es siempre posible realizarla mediante el abordaje laparoscópico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El abordaje laparoscópico tiene una serie de ventajas frente al abordaje abierto clásico (laparotomía):\n- Menos dolor postoperatorio.\n- Menos íleo paralítico postoperatorio.\n- Menor tasa de complicaciones de la herida (seroma, infección, eventración).\n- Menor índice de adherencias intraabdominales postoperatorias.\n- Recuperación posoperatoria más rápida, con menor estancia hospitalaria (respuesta 1 correcta).\n- Menor defecto estético.\nEn una colecistectomía laparoscópica, como en toda intervención quirúrgica, pueden desarrollarse complicaciones intra y postoperatorias. En el caso concreto de la colecistectomía, tanto abierta como laparoscópica, existe el riesgo potencial de lesión de la vía biliar. En ocasiones, por dificultades técnicas, es necesario convertir un abordaje inicialmente laparoscópico a una cirugía \"abierta\"."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "A un paciente se le ha realizado una polipectomía endoscópica de un pólipo pediculado de sigma < 2 cm. El resultado anatomopatológico ha sido de carcinoma infiltrante en la submucosa limitado a la cabeza del pólipo. Indique la conducta CORRECTA a seguir:",
+      "opciones": [
+        "Resección segmentaria del colon afecto.",
+        "Vigilancia periódica radiológica.",
+        "Vigilancia periódica endoscópica.",
+        "Hemicolectomía más linfadenectomía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Si se tratara de un ca in situ (no infiltrante) o un ca infiltrante limitado a la cabeza del pólipo, no estaría indicado realizar una colectomía y bastaría extirpar el pólipo. Sin embargo, está claro que es necesario un seguimiento de este paciente, porque en él sería más probable encontrar en algún momento otro cáncer de colon, por lo que se realizaría un seguimiento endoscópico (no radiológico, por ser menos sensible en el diagnóstico de esta enfermedad)."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "La intervención quirúrgica urgente en la pancreatitis ha de contemplarse en una de las situaciones siguientes:",
+      "opciones": [
+        "La calcemia cae a menos de 7 mg/100 ml.",
+        "Aparece insuficiencia respiratoria que obliga a la intubación o traqueostomía.",
+        "Se detecta coledocolitiasis con la colangiografía intravenosa.",
+        "La TAC abdominal muestra una masa quística grande en la región del páncreas con burbujas aéreas en su interior."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La intervención quirúrgica urgente en el contexto de una pancreatitis aguda es un tema controvertido y sujeto a revisión. Actualmente la indicación más ampliamente aceptada es la existencia de una complicación infecciosa de la pancreatitis bien en forma de un absceso o demostrando la existencia de bacterias en el contexto de un flemón o pancreatitis necrótica. Así pues, la existencia de una colección líquida con burbujas de aire en su interior lo cual sugiere la formación de un absceso sería una indicación de cirugía urgente para el drenaje del mismo si la situación clínica del paciente lo permite. La demostración de coledocolitiasis tiene indicación de una CPRE con esfinterotomía endoscópica de forma precoz (en las primeras 72 horas del cuadro clínico). Otras situaciones como el deterioro clínico del paciente están sujetas a revisión y son las más controvertidas en la actualidad pues presentan complicaciones graves sin haber demostrado firmemente un aumento de la supervivencia del enfermo."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "A un paciente de 24 años y con antecedentes familiares de cáncer de colon se le detectan en una colonoscopia cientos de pólipos adenomatosos. Señale de las que se describen a continuación, la actitud terapéutica más adecuada ante la patología que probablemente presenta este enfermo:",
+      "opciones": [
+        "Extirpar todos los pólipos con asa de polipectomía.",
+        "Quimioterapia.",
+        "Proctocolectomía restauradora profiláctica.",
+        "Revisiones periódicas y cuando se detecte un adenocarcinoma, colectomía total."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El caso clínico nos hace pensar en una poliposis adenomatosa familiar que es indicación de Proctocolectomia.\n\nEn casos de recto no afecto, especialmente en pacientes jóvenes podria plantearse la Colectomia total"
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Una mujer de 75 años sin antecedentes de interés acude a la consulta por presentar dolor epigástrico y disfagia de 4 mese de evolución. Pérdida de 16 kg de peso en los últimos 2 meses. Se solicita una endoscopia digestiva alta que muestra una masa vegetante en el tercio superior del esófago torácico, se toman biopsias que resultan de carcinoma escamoso . Se solicita un TAC en el que se objetiva dicha lesión que infiltra la tráquea sin objetivarse metástasis a distancia ¿Cuál es el tratamiento correcto?",
+      "opciones": [
+        "Resección endoscópica",
+        "Esofagectomía + Quimioradioterapia adyuvante",
+        "Quimioradioterapia neoadyuvante + Reevaluación PET-TC",
+        "Colocación de una prótesis esofágica recubierta con intención paliativa y asegurar un soporte nutricional adecuado"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La invasión traqueal es un criterio de irresecabilidad y por tanto para una paciente de 75 años con corta esperanza de vida lo mas adecuado es el tratamiento paliativo."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Respecto a las complicaciones quirúrgicas del trasplante hepático, señale entre las siguientes respuestas cual NO es correcta:",
+      "opciones": [
+        "En los tres primeros meses se suelen deber a complicaciones técnicas o infecciones postoperatorias.",
+        "El rechazo del trasplante representa hasta el 80-90% de las pérdidas de injerto.",
+        "A partir de los tres meses, se relacionan más con infecciones secundarias a la inmunosupresión, rechazo o recidiva de la enfermedad primitiva.",
+        "Los problemas vasculares y biliares representan las principales complicaciones del trasplante hepático."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las complicaciones precoces después del trasplante de hígado más comunes son las fugas biliares y las estenosis, pero normalmente su manejo puede ser endoscópico.\n\nSin embargo, la infección es la principal causa de mortalidad, por lo la presencia de fiebre u otros signos de infección requieren una evaluación urgente. Un desafío importante para muchos pacientes después de un trasplante de hígado es la recurrencia de la enfermedad primaria. Los trastornos más comúnmente asociados con la recurrencia incluyen el virus de la hepatitis B (VHB) y el virus de la hepatitis C (VHC). Afortunadamente, la recurrencia del VHB después del trasplante hepático se puede prevenir administrando inmunoglobulina de hepatitis B y antivirales como tenofovir o entecavir. Las complicaciones vasculares suelen producirse en el postoperatorio temprano y pueden afectar a la arteria hepática, vena porta, vena cava y venas suprahepáticas. La trombosis/estenosis de la arteria hepática se suele manifestar como un deterioro brusco y progresivo de la función hepática que, a diferencia de la disfunción primaria del injerto, ocurre tras un periodo variable de función hepática normal. El tratamiento de elección continúa siendo el retrasplante urgente, pero cada vez más surge la alternativa de la radiología intervencionista.\n\nPor lo tanto, la respuesta falsa y a marcar, es la B: existe hasta un 5-10% de pacientes que presentan rechazo celular tardío, generalmente durante la reducción programada de la inmunosupresión."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Señale la respuesta incorrecta respecto a los marcadores tumorales del cáncer colorrectal:",
+      "opciones": [
+        "El Antígeno Carcinoembrionario (CEA) es el marcador tumoral de referencia actualmente",
+        "Sus valores se normalizan tras 1-4 meses de la intervención",
+        "Desempeña un papel importante en el cribado del CCR",
+        "Durante el seguimiento puede detectar precozmente recidiva de la enfermedad incluso antes de que aparezcan los síntomas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se desaconseja su uso para cribado y únicamente juega un discreto papel de apoyo en el diagnóstico de casos en los que ya se ha establecido el diagnóstico por otros métodos."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "Un paciente varón de 65 años acude a su consulta refiriendo notarse un tumoración o bulto en la región lateral izquierda del cuello durante las comidas que aumenta progresivamente de tamaño. Ocasionalmente presenta regurgitación de material maloliente. ¿Cuál es el diagnóstico de sospecha y qué pruebas indicaría?",
+      "opciones": [
+        "Linfoma. ECO cervical.",
+        "Quiste braquial ECO cervical.",
+        "Divertículo de Zenker. Esofagograma y manometría esofágica.",
+        "Absceso periamigdalino. TAC cervical."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El divertículo de Zenker se localiza en la parte posterior de la hipofaringe, por encima del músculo cricofaríngeo y debajo del músculo constrictor inferior de la faringe. Se originan por pulsión, debido a una mala coordinación de la musculatura faríngea. Puede causar halitosis, regurgitación, disfagia orofaríngea e incluso una obstrucción completa por compresión.\n\nComo complicaciones, puede producir episodios de broncoaspiración, formación de fístulas entre el divertículo y la tráquea, hemorragia intradiverticular (sobre todo con la aspirina) y, más raramente, la aparición de un carcinoma epidermoide dentro del divertículo. La colocación de una sonda nasogástrica o la realización de una endoscopia en estos pacientes tiene riesgo de perforación del divertículo, por lo que deben evitarse. El tratamiento es quirúrgico, realizando una miotomía cricofaríngea y extirpando el divertículo. Si es pequeño, la miotomía es suficiente."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "¿Cuál de las siguientes estructuras anatómicas constituye el límite lateral del triángulo de Hesselbach permitiendo diferenciar hernias directas e indirectas?",
+      "opciones": [
+        "Fascia de Scarpa.",
+        "Fascia transversalis.",
+        "Ligamento inguinal.",
+        "Vasos epigástricos inferiores."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El triángulo de Hesselbach, es un espacio anatómico, delimitado lateralmente por los vasos epigástricos inferiores (ramos de las arterias iliacas), medialmente por la vaina del recto abdominal y caudalmente por el ligamento inguinal (inserción del Músculo oblícuo externo del abdomen). Permiten la diferenciación de hernias inguinoabdominales directas u oblicuas internas o indirectas u oblicuas externas en función de que protruyan de forma medial (directas) o lateral (indirectas) a dichos vasos."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Con respecto a la clasificación de Siewert de los tumores del cardias, es FALSO que:",
+      "opciones": [
+        "Los tumores de tipo I se localizan 1-5 cm por debajo de la unión gastroesofágica.",
+        "Los tumores de tipo I suelen ser adenocarcinomas del esófago distal, generalmente relacionado con el esófago de Barrett.",
+        "Los tumores de tipo III se localizan más allá de 2 cm por debajo de la unión gastroesofágica.",
+        "Los tumores de tipo II se localizan entre 1 cm por arriba y 2 cm por debajo de la unión gastroesofágica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los tumores tipo I de la clasificación de Siewert son los que se localizan 1-5 cm por encima de la UGE (opción 1 falsa, por lo que la marcamos). Se trata de un adenocarcinoma del esófago distal generalmente relacionado con el esófago de Barrett."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Hombre de 65 años que consulta por disfagia a sólidos desde hace dos meses. La esofagoscopia evidencia tumoración a 30 cm de arcada dental, parcialmente estenosante, con anatomía patológica de carcinoma epidermoide. Se le solicita ecografía endoscópica y PET-TAC donde no se observan adenopatías patológicas. ¿Cuál de las siguientes opciones sería la MÁS correcta?",
+      "opciones": [
+        "Esofagectomía trashiatal.",
+        "Esofagectomía según la técnica de Ivor-Lewis.",
+        "Quimioterapia + radioterapia preoperatoria.",
+        "Quimioterapia neoadyuvante."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es controvertida, dado que el tratamiento del cáncer de recto depende del estadiaje locorregional tanto de la T (capas afectadas del esófago) como de la N (adenopatias patológicas). Básicamente podríamos resumir que los pacientes con tumores localizados se pueden tratar directamente (endoscópicamente o quirúrgicamente en función de la T) mientras que los tumores localmente avanzados se tratan de inicio con neoadyuvancia. El enunciado de la pregunta omite la información sobre las capas afectadas, especificando únicamente que no tiene adenopatias, lo que nos podría hacer dudar con la opción quirúrgica. Sin embargo, si nos basamos en lo más frecuente, y en la clínica que presenta el paciente (disfagia y lesión estenosante en la endoscopia), la mayoría de los cánceres epidermoides de esófago de tercio medio serán inicialmente tratados con Qt-Rt Neoadyuvante (respuesta 3 correcta)\"."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Ante un paciente con dolor en hipocondrio derecho, fiebre y leucocitosis, ¿que signo esperaría encontrar usted?",
+      "opciones": [
+        "Signo de Rovsing",
+        "Signo de Murphy",
+        "Signo de Cullen",
+        "Signo de Coirvoisier - Terrier"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El signo de Blumberg o signo de rebote se puede presentar en cualquier caso de peritonitis al vibrar el peritoneo con la descompresión brusca.\n\nEl signo de Murphy es característico de la colecistitis aguda.\n\nLos signos de Rovsing y del psoas son característicos de la apendicitis aguda, este último de la localización retrocecal."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Indique cuál de las siguientes NO es una indicación de cirugía en la pancreatitis aguda grave:",
+      "opciones": [
+        "Necrosis pancreática infectada.",
+        "Mala respuesta al tratamiento médico intensivo.",
+        "Presencia de colecciones pancreáticas.",
+        "Aumento de la presión intraabdominal: síndrome compartimental."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La presencia de colecciones pancreaticas es indicación de drenaje percutaneo bajo control radiológico. Se intenta demorar el tratamiento quirúrgico lo máximo posible si la estabilidad del paciente lo permite."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "El tronco celíaco constituye la primera rama de la aorta intraabdominal. ¿Cuáles son sus tres ramas principales?",
+      "opciones": [
+        "Arteria hepática común, gástrica derecha y esplénica.",
+        "Arteria hepática propia, gástrica derecha y esplénica.",
+        "Arterial hepática propia, gástrica izquierda y gastroepiploica izquierda.",
+        "Arterial hepática común, gástrica izquierda y esplénica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta fácil sobre anatomía vascular del área abdominal, que ha sido preguntada previamente en algunas convocatorias de forma directa. El tronco celíaco nace de la arteria aorta a nivel de L1, ramificándose en arteria hepática común, arterial gástrica izquierda y arteria esplénica. La arteria hepática común se divide posteriormente en hepática propia y gastroduodenal (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Un paciente con molestias anales y hemorroides de larga evolución , relata que recientemente sus hemorroides han empeorado y ya no se reducen solas y ha de empujarlas después de la higiene, volviendo a exteriorizarse en cada deposición. Son hemorroides grado:",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "Externas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda la clasificación de las hemorroides internas:\n\nGrado 1: no prolapsadas\n\nGrado2: Prolapso con el esfuerzo, se reduce espontáneamente.\n\nGrado 3: Prolapso con el esfuerzo, se reduce manualmente.\n\nGrado 4: prolapso irreductible, permanente"
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "Hombre de 70 años de edad, con antecedentes de demencia senil, estreñimiento crónico y abuso de laxantes, que presenta náuseas y dolor abdominal. En la exploración, el abdomen está distendido y doloroso a la palpación, sobre todo en el flanco izquierdo, con percusión timpánica y ruidos \"metálicos\". En la radiografía de abdomen se aprecia gran distensión del colon, que se incurva produciendo una imagen en \"grano de café\". El diagnóstico MÁS probable en este paciente es:",
+      "opciones": [
+        "Síndrome de Ogilvie.",
+        "Diverticulitis aguda.",
+        "Vólvulo de ciego.",
+        "Vólvulo de sigma."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La localización más frecuente de vólvulo de colon es a nivel sigmoideo. Clínicamente, se manifiesta por un cuadro de dolor y distensión abdominal. Si se produce necrosis tisular como consecuencia de la isquemia sostenida, habría fiebre, leucocitosis y expulsión de material fecaloideo teñido de sangre. Desde el punto de vista radiológico, es característica una importante distensión del colon, con una imagen en “grano de café” o “en asa de omega”. Lógicamente, este cuadro produce una obstrucción intestinal, que se traduce como ruidos metálicos a la auscultación, como otros cuadros obstructivos.\n\nComo tratamiento, inicialmente se intenta una reducción urgente no quirúrgica, mediante colonoscopia, seguida de la colocación posterior de una sonda rectal. Esto es suficiente en un 75% de los casos. El problema es que recidiva con bastante frecuencia, por lo que no es raro tener que recurrir a una cirugía diferida (cirugía urgente en caso de fracaso de colonoscopia, inestabilidad, sepsis o peritonismo)."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "Ante un paciente ingresado en la planta a nuestro cargo, que comienza con cuadro de dolor torácico, con el antecedente de una endoscopia digestiva alta realizada 12 horas antes, decidimos realizar pruebas de imagen que confirmen el diagnóstico que sospechamos. Se realizan una Rx de tórax y una TAC torácica, que demuestran la presencia de aire extraluminal, diagnosticando al paciente de una perforación esofágica. Con respecto al tratamiento del paciente, señale la afirmación INCORRECTA:",
+      "opciones": [
+        "En ausencia de sepsis se puede tratar conservadoramente.",
+        "Si el paciente presenta fiebre, leucocitosis, taquicardia o mal estado general optaríamos por la opción quirúrgica, consistente en sutura primaria.",
+        "La mejor opción quirúrgica es la resección con anastomosis.",
+        "El tratamiento médico implica la disponibilidad de radiólogos intervencionistas, endoscopistas y cirujanos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El tratamiento de los pacientes con perforación esofágica precisa de un equipo multidisciplinar integrado por radiólogos, cirujanos, endoscopistas e intensivistas, ya que se trata de una patología compleja que puede precisar terapéuticas variadas. Si el paciente está estable y sin signos de sepsis, se debe optar por el tratamiento conservador, que implica antibioterapia de amplio espectro y el drenaje de colecciones mediastínicas y pleurales a través de radiología intervencionista. Si el paciente está inestable o séptico, se debe operar: si ha pasado poco tiempo desde la perforación, lo ideal es hacer una sutura primaria, con la colocación de drenajes para detectar y drenar posibles fístulas. Si la perforación lleva más de 24 horas y el paciente está grave, no debemos intentar la anastomosis por los malos resultados de esta (opción 3 incorrecta, por lo que la marcamos) y optaríamos por la exclusión esofágica alimentando al paciente con una sonda de gastrostomía."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "Un varón de 65 años acude a su consulta refiriendo notarse una tumoración o bulto en la región lateral izquierda del cuello durante las comidas que aumenta progresivamente de tamaño. Ocasionalmente presenta regurgitación de material maloliente. ¿Cuál es el diagnóstico de sospecha y qué pruebas indicaría?",
+      "opciones": [
+        "Linfoma - ECO cervical.",
+        "Quiste braquial - ECO cervical.",
+        "Divertículo de Zenker - Esofagograma (tránsito esofágico).",
+        "Linfoma - RNM cervical."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El divertículo de Zenker se localiza en la parte posterior de la hipofaringe, por encima del músculo cricofaríngeo y debajo del músculo constrictor inferior de la faringe. Se origina por pulsión/hiperpresión. Puede causar halitosis, regurgitación, disfagia orofaríngea, tos, etc. Como complicaciones puede producir episodios de broncoaspiración, formación de fístulas entre el divertículo y la tráquea, hemorragia intradiverticular y, más raramente, la aparición de un carcinoma epidermoide dentro del divertículo. El tratamiento es quirúrgico, realizando una miotomía cricofaríngea y extirpando el divertículo."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "Respecto a los siguientes cuadros clínicos señale la opción falsa:",
+      "opciones": [
+        "Un paciente con dolor en HCD que se autolimita sin fiebre ni elevación importante de reactantes de fase aguda sugiere tratarse de un cólico biliar cuyo tratamiento es médico con espasmolíticos.",
+        "Un paciente con dolor mantenido en HCD, Murphy positivo, con fiebre y elevación de reactantes de fase aguda muy probablemente padece una colecistitis aguda.",
+        "La Triada de Charcot : dolor en hipocondrio derecho + fiebre + ictericia es típica de la colangitis aguda. Si se añade Shock y obnubilación se denomina Pentada de Reynolds. El tratamiento inicial consiste en antibioterapia y eliminar la obstrucción mediante CPRE.",
+        "Un dolor epigástrico irradiado en cinturón con aumento de amilasa ó lipasa es diagnóstico de pancreatitis aguda y siempre precisa antibioterapia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La pancreatitits no precisa tratamiento antibiótico si no hay infección demostrada. Se trata con reposo digestivo y analgesia y tratamiento de soporte.\n\nEl resto de las respuestas nos dan las claves típicas para diferenciar el cuadro clínico de cólico biliar- colecistitis aguda y colangitis aguda."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Con respecto a las hernias de hiato, señale la afirmación INCORRECTA:",
+      "opciones": [
+        "La hernia por deslizamiento es la más frecuente.",
+        "Las hernias tipo I, por lo general, son sintomáticas y requieren tratamiento quirúrgico.",
+        "La hernia tipo II o paraesofágica presenta herniación del fundus gástrico con la unión gastroesofágica en su sitio.",
+        "La hernia tipo IV o complejas se debe a la migración intratorácica de cualquier órgano abdominal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las hernias de hiato tipo I o por deslizamiento son las más frecuentes. La unión gastroesofágica (UGE) se desplaza al mediastino por el hiato. No presentan saco herniario; son, por lo general, asintomáticas; precisan tratamiento únicamente cuando existen criterios quirúrgicos de RGE sintomático (opción 2 incorrecta, por lo que la marcamos). Las hernias paraesofágicas constituyen una auténtica herniación del estómago (generalmente fundus) dentro de un saco herniario en el mediastino, debido a la debilidad de la membrana pleuroperitoneal. Son típicas de mujeres mayores. Pueden ser asintomáticas, presentar síntomas típicos de reflujo (pirosis, regurgitación, dolor torácico posprandial y disfagia), o presentar complicaciones debidas al defecto anatómico que producen síntomas compresivos (saciedad temprana y dolor torácico). Deben ser operadas debido al riesgo de vólvulo gástrico, anemia (por úlceras de Cameron, erosiones lineales en los pliegues del estómago herniado) o complicaciones intratorácicas. Se distinguen tres tipos:\n\n1) Tipo II o paraesofágicas puras. La UGE permanece en su sitio y el fundus se hernia por el hiato.\n\n2) Tipo III o mixtas (combinan la tipo I y la tipo II). Son las más comunes de las hernias paraesofágicas.\n\n3) Tipo IV o complejas. Se deben a la migración intratorácica de cualquier órgano abdominal (colon, intestino, bazo, etc.)."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Con respecto al cáncer de esófago, señale la afirmación CORRECTA:",
+      "opciones": [
+        "La invasión del árbol traqueobronquial no contraindica la neoadyuvancia.",
+        "La presencia de afectación ganglionar supraclavicular indica enfermedad diseminada.",
+        "La positividad en la expresión del biomarcador Her-2 confiere mejor pronóstico.",
+        "La radioterapia no tiene indicación en estadio avanzado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respecto al cáncer de esófago debemos conocer los métodos diagnósticos y las indicaciones en su tratamiento, ya que su grado de afectación va a determinar cuál es la mejor opción terapéutica. Para responder adecuadamente a esta pregunta es importante saber cuáles son los criterios de irresecabilidad del cáncer esofágico y los criterios de enfermedad diseminada. La mayoría de los tumores malignos del esófago se presentan en estadio avanzado al diagnóstico por su capacidad de invasión y de diseminación ganglionar debido a la vascularización linfática del esófago que favorece la dispersión de las células tumorales. Veamos las demás opciones de respuesta:\n\n1.- No existe indicación para la neoadyuvancia, aunque sí para el tratamiento paliativo.\n\n2.- Los criterios de irresecabilidad del cáncer de esófago incluyen los tumores T4b (invasión grandes vasos, árbol traqueobronquial) y se considera enfermedad diseminada (M1+) la afectación a distancia y las metástasis ganglionares en grupos no regionales como ocurre a nivel supraclavicular o la axilar (respuesta 2 correcta).\n\n3.- En pacientes candidatos a quimioterapia se debe estudiar la expresividad del biomarcador Her-2, que es positiva aproximadamente en un 20-25% de los pacientes y que confiere generalmente peor pronóstico, pero aporta una diana terapéutica para el tratamiento con el anticuerpo monoclonal Trastuzumab.\n\n4.- Los estadios avanzados pero resecables tienen indicación de tratamiento neoadyuvante mediante quimiorradioterapia y posterior evaluación de cara al tratamiento quirúrgico con intención curativa. Sin embargo, los pacientes con lesiones NO resecables o con enfermedad diseminada a distancia no son candidatos a tratamiento quirúrgico curativo, sino que las medidas van a ser paliativas, entre las que destaca la quimiorradioterapia como tratamiento definitivo y otras medidas destinadas a la paliación sintomática como la colocación de endoprótesis."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "Paciente mujer de 65 años que es diagnosticado de adenocarcinoma de antro gástrico. El estudio de extensión mediante ecoendoscopia y TAC revela una tumoración que invade la subserosa con 4 adenopatías locorregionales afectas. No se observan metástasis a distancia. Indique la opción que le parece menos correcta en este caso:",
+      "opciones": [
+        "Es recomendable una laparoscopia diagnóstica para descartar diseminación peritoneal.",
+        "En caso de intervención no es necesaria la linfadenectomía.",
+        "Es necesario administrar quimioterapia adyuvante.",
+        "Es necesario administrar quimioterapia neoadyuvante."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La cirugía es el tratamiento de elección en los estadios precoces de la enfermedad T0-1 y algún T2 N0), así como en caso de sintomatología obstructiva o hemorrágica dominante. El resto de pacientes, se benefician de un tratamiento combinado, quimioterapia neoadyuvante, cirugía y quimioterapia adyuvante. Así la paciente del caso presenta una estadificación T3, N2, M0 por lo que se beneficia de esta estrategia terapéutica."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "Varón de 67 años que acude a consulta por disfagia progresiva que comenzó para líquidos y posteriormente para sólidos. Su médico solicita una endoscopia digestiva alta en la que se aprecia una estenosis sospechosa de neoplasia en esófago cervical cercana a la unión faringoesofágica. Se le realiza estudio de extensión en el que se aprecia tumoración a dicho nivel que afecta a todas las capas del esófago sin objetivarse diseminación locorregional ni a distancia. El tratamiento MÁS adecuado para este paciente será:",
+      "opciones": [
+        "Radioquimioterapia como tratamiento definitivo.",
+        "Radioquimioterapia neoadyuvante y posterior cirugía.",
+        "Colocación de endoprótesis paliativa.",
+        "Esofaguectomía total con gastroplastia tubular y anastomosis cervical."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los tumores de esófago cervical no se benefician del tratamiento quirúrgico, por lo que el tratamiento de elección es la radioquimioterapia para todos los estadios. Las prótesis no son útiles en los tumores de esófago cervical, por la dificultad de anclaje y la mala tolerancia por los pacientes a nivel orofaríngeo. En todo caso el tratamiento en este caso no sería paliativo sino radioquimioterapia con intención curativa (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "Paciente de 29 años, operada por endometriosis (anexectomía izquierda) hace 2 años. Acude a Urgencias presentando un cuadro de dolor abdominal, que se ha ido localizando en fosa ilíaca derecha, náuseas, dos vómitos y febrícula. No refiere diarrea. Está en la mitad del ciclo. En la exploración parece existir más dolor en fosa ilíaca derecha, sin contractura local, pero con signo de Blumberg positivo. En el tacto vaginal parece que hay más dolor al palpar el anexo derecho. Analíticamente presenta 11.000 leucocitos (79% neutrófilos). La Rx de abdomen es normal. ¿Cuál de las siguientes actitudes le parece menos adecuada?",
+      "opciones": [
+        "Pedir valoración ginecológica.",
+        "Realizar ecografía abdominal.",
+        "Dejar en observación 12 horas, y hacer nueva valoración clínica y analítica.",
+        "Intervenir quirúrgicamente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el abdomen agudo, cuando el paciente está estable, es importante completar el diagnóstico diferencial, dado que muchas causas de abdomen agudo no son quirúrgicas.\n\nPor tanto, cuando existen dudas diagnósticas, como en el caso clínico, son oportunas las actitudes conservadoras como las respuestas 1,2 y 3. Si existe duda en el diagnóstico no contemplamos la cirugía directamente salvo inestabilidad clínica."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "Un paciente con colelitiasis es intervenido quirúrgicamente. Tras la intervención presenta malestar abdominal, dolor, náuseas, meteorismo..., muy semejantes los síntomas a los que presentaba antes de la cirugía. ¿Cuál es la causa más habitual de estos síntomas postcolecistectomía?:",
+      "opciones": [
+        "Desorden extrabiliar ya presente antes de la colecistectomía.",
+        "Coledocolitiasis.",
+        "Fístula biliar postoperatoria.",
+        "Síndrome del muñón cístico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cuando se interviene a un paciente de colecistectomía y continua teniendo los mismo síntomas tras la operación, hay que descartar siempre que los síntomas no tengan otro origen, pues la causa más frecuente de clínica persistente tras colecistectomía es que exista un trastorno extrabiliar no detectado (esofagitis por reflujo, úlcera péptica, síndrome postgastrectomía, pancreatitis crónica o síndrome del colon irritable). La respuesta correcta, por lo tanto, es la 1.\n\nUna vez descartado esto y el paciente continua con síntomas, entonces se habla de síndrome postcolecistectomía. En conjunto, la colecistectomía es una intervención con una elevada tasa de éxitos. Sin embargo, un reducido grupo de pacientes persistirá con sintomatología debido a una alteración de la vía biliar extrahepática, incluyéndose dentro del llamado síndrome postcolecistectomía."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "¿En cuál de las siguientes patologías el estudio radiológico nos va a ser de escasa utilidad para establecer el diagnóstico de un paciente que presentó una hemorragia digestiva alta?:",
+      "opciones": [
+        "Síndrome de Mallory-Weiss.",
+        "Cáncer epidermoide de esófago.",
+        "Linfoma gástrico.",
+        "Adenocarcinoma de estómago."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El diagnóstico ante una hemorragia digestiva alta debe ser siempre endoscópico. De esta forma puede también, en ocasiones, realizarse una maniobra terapéutica adicional. Sin embargo, en ocasiones el estudio radiológico baritado sirve de apoyo para identificar un proceso determinado o sus complicaciones. En el síndrome de Mallory- Weiss consiste en una hemorragia digestiva alta que se produce como consecuencia de erosiones longitudinales en la región de la unión gastroesofágica. Habitualmente se produce tras intensos vómitos o incluso tos. Es más frecuente en personas alcohólicas.En este sindrome no se observan lesiones radiológicas relevantes."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "Un paciente presenta un cuadro de dolor abdominal agudo con signos de irritación peritoneal difusos. Está taquicárdico, sudoroso, hipotenso e impresiona de gravedad. Su actitud será:",
+      "opciones": [
+        "Laparotomía urgente",
+        "TAC",
+        "ECO",
+        "Arteriografía urgente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ante un paciente con abdomen agudo debemos plantearnos si el paciente está estable o inestable, si está grave o no lo está.\n\nSi un paciente está estable, sin datos de gravedad clínica, debemos investigar la causa y hacer el diagnóstico diferencial. Pero si está grave debemos procedere a la cirugía urgente."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Señale cuál de las siguientes lesiones premalignas NO es un factor de riesgo de carcinoma epidermoide de esófago:",
+      "opciones": [
+        "Acalasia.",
+        "Esofagitis cáustica.",
+        "Divertículo esofágico.",
+        "Esófago de Barrett."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las lesiones premalignas consideradas factor de riesgo de cáncer epidermoide son:\n\n- Acalasia.\n\n- Esofagitis cáustica.\n\n- Divertículos esofágicos.\n\nEl esófago de Barrett es factor de riesgo para el adenocarcinoma de esófago (marcamos la opción de respuesta 4)."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "De las siguientes técnicas quirúrgicas, indique en la que NO es esperable, de entrada, la realización de un estoma:",
+      "opciones": [
+        "Panproctocolectomía restauradora con reservorio ileoanal.",
+        "Amputación abdominoperineal.",
+        "Bypass gástrico laparoscópico.",
+        "Intervención de Hartmann."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Debemos realizar estomas ante tres situaciones fundamentalmente:\n- De forma temporal para proteger anastomosis de riesgo como sucede en las anastomosis colo o ileoanales (panproctocolectomía restauradora con reservorio íleoanal) o colorrectales muy bajas (resección anterior baja con escisión mesorrectal total). Generalmente usamos ileostomías “de descarga” que se cerrarán tras seis semanas de la Cirugía inicial, si no ha habido complicaciones de la misma. Algunos centros prefieren no hacerlas en la Cirugía inicial y la reservan para tratar la complicación (la dehiscencia de la anastomosis), pero es un aspecto controvertido.\n- En pacientes donde no se puede reestablecer el tránsito, bien porque no tengan una buena continencia o porque exista un tumor que afecte a los esfínteres: amputación abdominoperineal.\n- Situaciones de urgencia que impidan la realización de una anastomosis, bien porque haya “que correr” y no se pueda emplear tiempo en hacer una anastomosis (control de daños), o bien porque exista alto riesgo de fracaso de la misma por sepsis local o difusa, desnutrición, terapias con corticoides, etc., en el caso de la intervención de Hartmann por perforaciones de colon izquierdo y sepsis que contraindique la anastomosis primaria.\nLas intervenciones gástricas e intestinales rara vez requieren el uso de un estoma, al menos de entrada (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Paciente varón de 86 años con cardiopatía isquémica que requirió revascularización mediante triple bypass coronario. Actualmente sigue tratamiento con clopidogrel y tratamiento antihipertensivo que no recuerda. Exfumador desde hace 5 años, presenta EPOC severa que controla con inhaladores de budesonida y salbutamol. Acude a consulta por presentar aumento del número de deposiciones con mucosidad abundante y manchado de la ropa interior. En el tacto rectal no se palpa nada, aunque el dedo sale manchado de moco y sangre. La colonoscopia describe la presencia de un pólipo en cara posterior del recto medio, a unos 9 cm de margen anal, de unos 3 cm de diámetro y amplia base, irresecable endoscópicamente, por lo que lo biopsian. Biopsia: adenoma velloso con displasia severa – carcinoma in situ. La actitud terapéutica más adecuada en este paciente será:",
+      "opciones": [
+        "Amputación abdominoperineal dado que presenta incontinencia.",
+        "Escisión mesorrectal total laparoscópica y anastomosis colorectal baja, dado que la incontinencia puede ser secundaria al tumor.",
+        "Resección local endoscópica transanal (TEM).",
+        "Quimiorradioterapia neoadyuvante, y si presenta buena respuesta, realizar seguimiento únicamente dado el riesgo quirúrgico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los tumores de recto localizados, hasta T1 N0, son candidatos a resección local de pared completa mediante microcirugía endoscopica transanal (TEM).\n\nEste tratamiento es menos agresivo y por tanto estará especialmente indicado en pacientes ancianos de alto riesgo quirúrgico."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Los tumores benignos MÁS frecuentes del esófago son:",
+      "opciones": [
+        "Los pólipos fibrovasculares.",
+        "Los leiomiomas.",
+        "Los papilomas escamosos.",
+        "Los hemangiomas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En el esófago los tumores benignos son menos frecuentes que los malignos. En este caso se trata de una pregunta directa que se debe reconocer ya que se especifica de forma explícita en el manual CTO, Los tumores benignos más frecuentes del esófago son los leiomiomas (respuesta 2 correcta), derivan de la muscular propia del esofágico y típicamente aparecen en esófago medio y distal. Se diagnostican mediante ecoendoscopia, precisando tratamiento cuando crecen y causan síntomas. Las demás opciones de respuesta son menos frecuentes:\n1.- Los pólipos fibrovasculares son tumores de partes blandas, generalmente pediculados, que se sitúan en el esófago proximal pudiendo obstruir la vía aérea.\n3.- Los papilomas escamosos se asocian a inflamación y aparecen en el esófago distal.\n4.- Los hemangiomas suelen ser lesiones rojizas submucosas que pueden sangrar."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Hombre de 36 años remitido a la consulta de Cirugía tras drenaje urgente de absceso perianal dos meses antes, persistiendo supuración. El paciente estaba siendo estudiado previamente por digestivo por cuadro de diarrea, dolor abdominal y pérdida de peso. Colonoscopia: Recto de aspecto normal; a nivel de colon descendente y sigma se alternan zonas con aspecto de “empedrado” y úlceras lineales y profundas con otras de aspecto normal. Se completa estudio con Eco endoanal y RM observándose una fístula transesfinteriana alta. Sin tratamiento médico actual. ¿Cuál sería el tratamiento inicial más adecuado de la fístula?",
+      "opciones": [
+        "Fistulotomía.",
+        "Colocación de sedal no cortante en el trayecto de la fístula asociado a tratamiento con metronidazol, infliximab e inmunosupresores.",
+        "Realizar drenajes repetidos cada vez que presente un absceso, asociando tratamiento con infliximab e inmunosupresores.",
+        "Esfinterotomía lateral interna."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En esta pregunta nos piden contestar cómo debemos actuar quirúrgicamente ante una enfermedad perianal en el contexto de una Enfermedad Inflamatoria Intestinal. Nos describen un paciente joven en estudio por diarrea, dolor abdominal y pérdida de peso con una descripción endoscópica sugestiva de enfermedad inflamatoria intestinal (mucosa en empedrado y úlceras lineales y profundas). Además el paciente tiene una fístula compleja (transesfinteriana alta) y episodios previos de absceso perianal. El papel de la cirugía en estos casos es el de drenar la sepsis perianal exclusivamente. Es decir, drenar las cavidades abscesuales y mantener el drenaje permeable mediante la colocación de sedales (setones) para evitar nuevos abscesos. No olvidemos que el tratamiento de la enfermedad perianal de Crohn es el tratamiento médico sistémico, mediante metronidazol inicialmente y posteriormente inmunosupresores o antiTNF como el infliximab (respuesta 2). Dado que el paciente va a estar inmunosuprimido, es prioritario evitar nuevos episodios de abscesos por lo que en ocasiones se mantiene el sedal a largo plazo (hasta conseguir remisión) o incluso de por vida."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Tras una esofaguectomía por una neoplasia esofágica resecable de tercio medio, señale cuál considera el órgano de elección para realizar la plastia para la reconstrucción del tránsito:",
+      "opciones": [
+        "Colon derecho.",
+        "Colon descendente.",
+        "Estómago.",
+        "Yeyuno."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Para la reconstrucción del tránsito tras una esofaguectomía, se considera de primera elección la plastia gástrica. El colon debe utilizarse como alternativa en caso de cirugía o patología gástrica previa, o cuando se lesiona o se devasculariza la plastia durante la cirugía . Por ello es aconsejable siempre el estudio tanto del estómago como del colon antes de la cirugía esofágica."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Un tumor de colon que afecta a la capa muscular se denomina:",
+      "opciones": [
+        "Tx",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es importante que recuerdes el TNM del cáncer colorrectal:\n\nTis: sólo mucosa\n\nT1 afectación submucosa\n\nT2 llega a la muscular\n\nT3 afecta a la subserosa en el colon y a la grasa de mesorrecto en el recto.\n\nT4 afecta a órganos vecinos. Los tumores perforados se consideran T4"
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Un paciente de 50 años sin antecedentes patológicos presenta disfagia, regurgitación, pirosis y dolor torácico. Es estudiado por sospecha de trastorno motor esofágico y es diagnosticado de acalasia. El tratamiento que usted le aconsejaría sería:",
+      "opciones": [
+        "Miotomía de Heller.",
+        "Miotomía endoscópica por vía oral.",
+        "Inyección de toxina botulínica.",
+        "Dilatación neumática."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Tratamiento quirúrgico. Es el de elección si existe riesgo quirúrgico aceptable.\n\n- Ventajas: solución definitiva a largo plazo.\n\n- Inconvenientes: más invasiva (inconveniente que ha disminuido con el abordaje laparoscópico). Es menor el riesgo asociado a la miotomía laparoscópica de Heller (MLH) que el que se asocia a dilataciones repetidas."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "¿Cuál de las siguientes es una complicación postquirúrgica que aparece con mayor frecuencia en la laparoscopia que en la cirugía abierta?",
+      "opciones": [
+        "Trombosis venosa profunda.",
+        "Eventración (hernia incisional).",
+        "Dolor postoperatorio.",
+        "Infección de herida quirúrgica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Dentro de las principales complicaciones de la cirugía laparoscópica tenemos las lesiones vasculares e intestinales y menos frecuentes lesiones vesicales, uretrales, hernias, infecciones e incluso el cambio de laparoscopia a laparatomía."
+    }
+  ]
+}

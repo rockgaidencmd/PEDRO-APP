@@ -1,0 +1,484 @@
+{
+  "materia": "ginecologia",
+  "paginaInicio": 77,
+  "paginaFin": 94,
+  "anomalias": [
+    "p78: 'Respecto a los anticonceptivos orales...' tiene Resp. Correcta 3 pero el comentario cierra con '(respuesta 5 correcta)' y solo hay 4 opciones",
+    "p83: 'Al hacer un estudio mediante una microtoma de sangre fetal...' tiene Resp. Correcta 2 pero el comentario dice '(respuesta 3 correcta)'; el texto del comentario describe la conducta de la opcion 2",
+    "p85: 'En el cancer de mama, cuando se emplea la radioterapia?' tiene la explicacion con una lista de criterios (T3, T4, afectacion axilar, margenes) que se linealizo como parrafos separados",
+    "p86: 'Ante los cambios que se producen en el embarazo...' tiene Resp. Correcta 2 pero el comentario dice '(opcion 3 correcta)'; el contenido del comentario respalda la opcion 2",
+    "p86: 'En el manejo de la Eclampsia son correctas todas EXCEPTO' tiene Resp. Correcta 4 pero el comentario dice 'Las 4 primeras respuestas son todas ciertas' y 'La respuesta incorrecta es la 5', y solo hay 4 opciones",
+    "p90: 'Cual de los siguientes NO es util en el diagnostico prenatal de las cromosomopatias' tiene Resp. Correcta 4 pero el comentario dice 'la opcion 5 es la que debemos escoger', y solo hay 4 opciones",
+    "p88: 'Para medir la eficacia anticonceptiva utilizamos el indice de Pearl...' presenta cada opcion como una lista numerada interna del 1 al 5; se transcribio linealizada dentro del texto de cada opcion"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 77,
+      "enunciado": "Gestante controlada en su país con normalidad, acude a su consulta solicitando seguimiento del embarazo. Aporta ecografías realizadas en el primer y segundo trimestre. Usted calcula la edad gestacional por la primera ecografía y actualmente se encuentra de 31 semanas. Cuándo recomendaría la realización de la tercera ecografía",
+      "opciones": [
+        "Entre la 33 a 35+6",
+        "Entre la 32 a 34+6",
+        "Entre la 34 a 36+6.",
+        "Entre la 35 a 37"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Según las últimas recomendaciones las Ecografías durante la gestación normal se deben realizar: Primera ecografía : 11 a 13+6, Segunda ecografía: 18 a 21+6, Tercera ecografía: 34 a 36+6, SDG."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA en relación con la transmisión vertical al feto/recién nacido por parte de la gestante con infección HIV:",
+      "opciones": [
+        "Aumenta el riesgo de malformaciones fetales.",
+        "Tiene lugar sobre todo durante el parto.",
+        "La lactancia aumenta el riesgo de transmisión entre un 10 y un 20%.",
+        "Disminuye con tratamiento antirretroviral durante el embarazo y el parto."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las mujeres infectadas por el VIH tienen un riesgo aumentado de aborto espontáneo .Algunos estudios muestran una mayor tasa de prematuridad, un mayor retraso del\n\ncrecimiento y una mayor tasa de muertes fetales en gestantes infectadas por el VIH .\n\nLa mayoría de los casos de transmisión vertical del VIH se producen durante el parto y/o en las últimas semanas de gestación.\n\nEs fundamental realizar tratamiento antirretroviral en todas las gestantes independientemente del número de linfocitos CD4 que tengan.\n\nPreeclampsia es la complicación del embarazo más frecuentemente observada en mujeres con TAR.\n\nRecuerda en cuanto al diagnostico de VIH- gestación.\n\nLa serología frente al VIH se debe indicar en la primera visita de la gestante lo antes posible y se recomienda repetir la prueba en el tercer trimestre de gestación con carácter general.\n\nEn mujeres con prácticas de riesgo para la infección por el VIH durante la gestación, especialmente si su pareja está infectada, se debe repetir la prueba al menos una vez cada trimestre\n\nSi la situación serológica con respecto al VIH es desconocida en el momento del parto, o en el postparto inmediato, se debe indicar, con carácter urgente, la realización de pruebas serológicas rápidas."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Respecto a los anticonceptivos orales, señale cuál de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "Los estrógenos disminuyen las LDL y aumentan las HDL.",
+        "Los progestágenos tienen un efecto aterogénico.",
+        "Los estados de hipercoagulabilidad están relacionados con la dosis de progestágeno.",
+        "Está incrementada la actividad de los factores II, VII, IX y X de la coagulación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los estrógenos disminuyen las LDL y aumentan las HDL, por lo que su efecto es antiaterogénico y cardioprotector (respuesta 1 verdadera). De hecho, éste es uno de los motivos por los que la morbilidad cardiovascular en las mujeres es muy inferior a la de los varones antes de la menopausia. En cambio, los progestágenos tienen un efecto aterogénico, porque tienen cierto efecto androgénico (respuesta 2 verdadera). Por otro lado, los estrógenos producen un aumento de la actividad de ciertos factores de coagulación, así como la actividad plauqetaria, la proteína C y la proteína S (opción 4 cierta). Por este motivo, producen tendencia a la hipercoagulabilidad (respuesta 3 falsa, ya que esto es obra de los estrógenos, no los progestágenos). Es cierto que los anticonceptivos orales aumentan la actividad fibrinolítica, pero esto no significa que no haya hipercoagulabilidad (respuesta 5 correcta).\n\nLos preparados actuales apenas aumentan el riesgo cardiovascular, ya que emplean dosis muy bajas de estrógenos, y los progestágenos tienen una acción androgénica muy escasa. El aumento sólo es considerable cuando exista algún factor de riesgo cardiovascular asociado (mayor de 35 años, obesidad, hipertensión arterial…)."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "¿Cuál de los siguientes estudios, es de utilidad diagnóstica y terapéutica en la endometriosis?",
+      "opciones": [
+        "Laparoscopía",
+        "Eco-doopler",
+        "Asa diatérmica",
+        "Histerosonografía"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La ecografía-Doppler posibilita evaluar las características de la pelvis, pero actualmente, el diagnóstico de certeza de la endometriosis es por laparoscopia, que presenta las siguientes ventajas: permite visualizar directamente las lesiones, que tienen aspecto de quemadura de pólvora, es posible valorar el resto del aparato genital, realizar la estadificación y tomar muestras para estudio anatomopatológico"
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Tratamiento de elección en pacientes con lesiones intraepiteliales cervicales de alto grado, con el fin de evitar la progresión a un cáncer invasor.",
+      "opciones": [
+        "Histerectomía radical",
+        "Vacunación para el virus del papiloma humano (HPV).",
+        "Radiación",
+        "Conización cervical"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se ha demostrado que las pacientes que fueron sometidas a una conización exhibieron una reducción de aproximadamente un 65% en el riesgo de positividad en los márgenes endocervicales en comparación con aquellas en que no se realizó la intervención. Hay consenso en que las lesiones de alto grado (NIC II-III) deben ser tratadas con conización para evitar la progresión a un cáncer invasor."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Mujer de 28 años sometida hace 7 meses a 3 legrados evacuadores por un aborto diferido. Consulta por amenorrea secundaria. Señale la respuesta correcta:",
+      "opciones": [
+        "Lo más probable es que tenga la menstruación si le administramos un preparado con progestágenos, ya que lo que esta paciente tiene son ciclos anovuladores postaborto.",
+        "Esperamos encontrar datos en la analítica de la paciente que nos orienten a una amenorrea por estrés emocional.",
+        "Es muy probable que la paciente siga sin tener la menstruación pese a la administración de un preparado que asocie estrógenos y progestágenos.",
+        "En estos casos es muy frecuente encontrar niveles patológicamente elevados de prolactina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante una amenorrea en primer lugar se realiza un test de embarazo, si es negativo seguimos el estudio con TSH y PRL, en caso de que sean normales damos una pequeña cantidad de progesterona (5 días) si la paciente tiene la regla es porque existía una anovulación que impedía el aumento de la progesterona.\n\nSi no aparece la regla administramos estrógenos y progestágenos durante 3 meses, si no tiene la regla a pesar de una adecuada secuencia hormonal debemos pensar en alteraciones genitales estructurales.\n\nSi tiene la regla tras al administración hormonal combinada debemos pensar en un problema ovárico o hipotálamo- hipofisario y para ello ya determinaremos gonadotropinas.\n\nLo más frecuente en está paciente es que tenga una alteración en el útero, concretamente un síndrome de Asherman, con adherencias provocadas por los sucesivos legrados y que no responda a la utilización de estrógenos y gestágenos combinados."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Nulípara de 28 años, casada hace 5 años, presenta oligomenorrea, vellosidad en la región de cara, espalda, acné y obesidad de desarrollo progresivo desde su menarquia. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Síndrome de ovario poliquístico",
+        "Aborto incompleto",
+        "Dismenorrea",
+        "Síndrome de Morris"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Debe sospecharse SOP en cualquier adolescente o mujer en edad reproductiva con hirsutismo u otras manifestaciones cutáneas de hiper-androgenismo, irregularidades menstruales y obesidad. El síndrome de ovario poliquístico es un diagnóstico de exclusión y por lo tanto, debe diferenciarse de los cambios fisiológicos propios de la edad y de otros trastornos hiperandrogénicos que requieren de una terapia específica. El diagnóstico oportuno es importante ya que este síndrome se asocia a riesgos reproductivos, oncológicos y metabólicos."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Paciente gestante de 38 semanas en periodo de dilatación (4 cm, primer plano); disfruta de anestesia epidural. Hace un año se le realizó cesárea por situación transversa. Estando previamente bien, y de forma súbita, presenta un sangrado que coincide en el registro cardiotocográfico fetal con 4 desaceleraciones tipo DIP 1, seguidas de una bradicardia fetal a 70 latidos por minuto. La presentación fetal se palpa sobre el estrecho superior de la pelvis y la dinámica uterina prácticamente ha cesado. Su actitud es:",
+      "opciones": [
+        "Sospecha de abruptio placentae; realiza cesárea.",
+        "Sospecha de placenta de inserción baja; esperará a la normalización de la frecuencia cardíaca fetal y permitirá seguir el curso del parto.",
+        "Sospecha de rotura uterina; realiza cesárea.",
+        "Sospecha de rotura de vasa previa; realiza cesárea."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "- En la rotura de vasa previa, el dato típico sería un sangrado coincidente con la rotura de la bolsa, que aquí no mencionan. Por otra parte, no encaja el dato del cese de la dinámica uterina (respuesta 4 falsa).\n\n- En un abruptio placentae, el útero está hipertónico, de consistencia muy aumentada, por lo que no sería lógico encontrar un descenso de la dinámica uterina. Por otra parte, tampoco se habla de un sangrado oscuro, dato muy típico.\n\nEn cambio, existen varias razones a favor de la respuesta 3, la rotura uterina, que sería la solución correcta:\n\n- El antecedente de cesárea aumenta el riesgo.\n\n- La exploración uterina también sugiere una rotura, ya que el órgano está adinámico, aparte de que el feto se palpa por encima del estrecho superior.\n\nEn este caso, no presenta dolor, que es uno de los datos más típicos de la rotura uterina, dada la anestesia epidural."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Paciente de 34 años que acude a la consulta por infertilidad. Antecedente de embarazo ectópico complicado hace 2 años y enfermedad inflamatoria pélvica en 3 ocasiones. Sin método anticonceptivo. ¿Cuál es el examen inicial a solicitar?",
+      "opciones": [
+        "Histerosalpingografía",
+        "Ecografía transvaginal",
+        "Histeroscopia",
+        "Histerosonografía"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La histerosalpingografía (HSG) es el método de elección. Consiste en la visualización fluoroscópica y radiográfica de la cavidad uterina y trompas, tras la inyección de contraste opaco, 2-5 días después de la mestruación. Permite valorar una obstrucción tubárica y ocasionalmente puede resultar terapéutica y repermeabilizar una obstrucción tras su realización. Es una prueba en ocasiones dolorosa y existe posibilidad de reagudización de un absceso tubo-ovárico o enfermedad inflamatorio pélvica antigua (1-3%)."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "El perjuicio fundamental del tamoxifeno aparece en:",
+      "opciones": [
+        "Mama.",
+        "Hueso.",
+        "Hipotálamo.",
+        "Endometrio."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tamoxifeno es un fármaco modulador de los receptores de estrógenos (SERM), con lo que tendrá un efecto estrogénico en algunos receptores como en el endometrio ( aumentando el riesgo de hiperplasia), hueso e hígado."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Gestante de 38 semanas que ingresa con trabajo de parto. Durante el período de dilatación presenta cuadro de dolor brusco. En la exploración, usted objetiva metrorragia escasa y aumento del tono uterino a la palpación abdominal que resulta muy doloroso. ¿Cuál sería su diagnóstico?:",
+      "opciones": [
+        "Placenta previa.",
+        "Desprendimiento de placenta.",
+        "Corioamnionitis hemorrágica.",
+        "Rotura de vasos previos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sencilla, cuya respuesta correcta aparece en el manual. Se debe hacer el diagnóstico diferencial entre las metrorragias del tercer trimestre, y el punto clave es el aumento de tono uterino y claramente doloroso a la palpación característico del desprendimiento prematuro de la placenta normalmente inserta o abruptio placentae. En la rotura uterina, además de la metrorragia, cursa con dolor abdominal intenso, pero no se detecta aumento del tono uterino y se palpan las partes fetales."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Mujer de 27 años que consulta por amenorrea de 3 meses. Como antecedentes obstétricos un embarazo y parto normales hace 5 años. Ex usuaria de drogas por vía inhalatoria, negando el uso de la vía parenteral. Su pareja sexual es ADVP activo y VIH positivo en estadio C3. En la serología del primer trimestre se diagnostican anticuerpos anti-VIH positivos en la gestante. Debemos informarle de todo lo siguiente, EXCEPTO:",
+      "opciones": [
+        "No se debe suspender el TAR oral durante el parto.",
+        "Cuando la indicación de la cesárea electiva es la infección por el VIH se debe programar en la semana 38.",
+        "Deberá renunciar a la lactancia materna, puesto que esta duplica el riesgo de transmisión madre-hijo.",
+        "Está aceptada la cesárea electiva de forma sistemática como única vía del parto."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La mayoría de los casos de transmisión vertical del VIH se producen durante el parto y/o en las últimas semanas de gestación.\n\nEl factor materno más importante asociado al riesgo de transmisión vertical es la carga viral, por lo que el objetivo principal del TAR es mantener la carga viral indetectable durante la gestación.\n\nEs fundamental realizar tratamiento antirretroviral en todas las gestantes independientemente del número de linfocitos CD4 que tengan.\n\nZDV debe incluirse en el TAR, siempre que sea posible.\n\nEl tratamiento intraparto recomendado por haber demostrado mayor eficacia en la reducción de la tasa de transmisión vertical del virus es la ZDV IV., independientemente del tratamiento que llevara previamente la paciente.\n\n-No se debe suspender el TAR oral durante el parto.\n\nCuando la indicación de la cesárea electiva es la infección por el VIH se debe programar en la semana 38.\n\nEn aquellas pacientes infectadas por el VIH en las que se decida permitir un parto por vía vaginal debemos ser cuidadosos en el manejo, para no incrementar el riesgo de transmisión del virus.\n\nSe debe evitar la ruptura artificial de las membranas. Se ha observado un incremento en la transmisión materno-fetal del virus cuando la duración de la RPM es superior a 4-6h.\n\nSe deben evitar procedimientos invasivos para monitorizar el bienestar fetal como el electrodo interno o la determinación de pH de calota fetal .\n\nLa instrumentación del parto (fórceps o ventosa) y la episiotomía se deben realizar circunstancias muy seleccionadas .\n\nEn cuanto a la lactancia materna, es cierto que aumenta el riesgo de transmisión, y por ello se contraindica como recomendación general. No obstante, en los países subdesarrollados sí se acepta dar lactancia, porque la alternativa sería la malnutrición, con lo que el riesgo- beneficio aconseja darla."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "Paciente de 20 años primigestante, en expulsivo. Luego de de 100 minutos de pujo dirigido, se encuentra con un feto cefalico, en estación +2, variedad de posición occipito izquierdo anterior, frecuencia cardiaca fetal de 110 latidos por minuto. La conducta mas adecuada sería:",
+      "opciones": [
+        "Continuar el pujo dirigido por 30 minutos mas",
+        "Realizar cesárea de emergencia",
+        "Realizar maniobra de Kristeller",
+        "Instrumentación con espátulas de Velasco"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En este caso clínico estamos frente a un expulsivo prolongado, con en feto en variedad anterior y con estación +2; la instrumentación con espátulas de Velasco sería la conducta mas adecuada, teniendo en cuenta que este intrumento se utiliza para aplicaciones bajas en los planos de Hodge."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "Al hacer un estudio mediante una microtoma de sangre fetal se obtiene un valor de pH de 7,23. Con estos resultados, la actitud más correcta sería:",
+      "opciones": [
+        "Se trata de un valor normal y, por lo tanto, no hay que hacer nada.",
+        "Se trata de un valor de pH prepatológico, y es necesario repetir la prueba en unos 15-20 min.",
+        "Este valor de pH indica claramente un sufrimiento fetal, y es necesario hacer una amnioscopia en ese momento.",
+        "Se trata de un pH prepatológico, y debería repetirse la prueba en unos 40-60 minutos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Un valor en el pH fetal de 7,23 (7,21- 7,25) estaría en el rango prepatológico (respuesta 3 correcta). En caso de que el pH fuese de 7,20 o menor, habría que poner fin inmediato a la gestación. Ante un valor en este rango, lo que debemos hacer a continuación es dejar a la paciente en decúbito lateral izquierdo durante 15-30 minutos, repitiendo después la microtoma, para ver si mejora o no. Si el registro no mejora, estaría indicado finalizar la gestación."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "Respecto a las mastitis puerperales, ¿cuál de las siguientes afirmaciones es FALSA?",
+      "opciones": [
+        "El germen causal más frecuente es el Streptococcus agalactiae.",
+        "Se debe realizar el diagnóstico diferencial con carcinoma inflamatorio si no hay respuesta a los antibióticos.",
+        "El tratamiento de elección son los betalactámicos.",
+        "Son más frecuentes en primíparas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las mastitis son infecciones muy frecuentes durante la lactancia. La producen gérmenes que pasan de la piel a la glándula mamaria a través de grietas y heridas que se forman durante este período. Ante una mastitis, debes pensar en microorganismos grampositivos, siendo el más frecuente S. aureus (respuesta 1 falsa).\n\nEl tratamiento de la mastitis se realiza con antibióticos y analgésicos, evacuación periódica del pecho y aplicación de calor local. En el caso de que se forme un absceso, será necesario completar el tratamiento anterior con el drenaje quirúrgico. No es necesario inhibir la lactancia, salvo que sea una mastitis bilateral."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "Si al practicar una histerosalpingografía se constata que existe un síndrome de Asherman, ello significa que se trata de:",
+      "opciones": [
+        "Endometriosis de la trompa.",
+        "Sinequias uterinas.",
+        "Insuficiencia ístmico-cervical.",
+        "Útero doble."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debes recordar que el síndrome de Asherman es una causa de amenorrea secundaria de origen uterino, que está producida por sinequias uterinas ( generalmente tras legrado).\n\nEn el diagnóstico diferencial se presentaría como una mujer con amenorrea con prueba de embarazo negativa, TSH y PRL normales, que no menstrúa ni tras el test con progesterona ni tras el test con anovulatorios orales."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "A los diez días de iniciar por primera vez la toma de un anovulatorio de baja dosis, una paciente de 24 años comienza con metrorragia escasa (spotting). Se produce:",
+      "opciones": [
+        "En muchos casos; no es preocupante.",
+        "Por exceso de estrógenos.",
+        "Por exceso de progestágenos.",
+        "Por fallo en la administración."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los anticonceptivos orales más recientes contienen baja dosis de estrógenos para disminuir la incidencia de efectos adversos. Aunque esta dosis sea suficiente para mantener el efecto anovulatorio y anticonceptivo, en ocasiones no es suficiente para inducir un adecuado crecimiento del endometrio el cual se descama parcialmente por disrupción, apareciendo sangrado intermenstrual escaso (spotting). En otras ocasiones, la dosis de estrógenos no es capaz de estimular el endometrio quedando éste atrófico y la paciente en amenorrea. Ambos efectos adversos son relativamente frecuentes y no son preocupantes. Ambos se tratan aumentando la dosis de estrógenos que contiene el preparado."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "En el cáncer de mama, ¿cuándo se emplea la radioterapia?:",
+      "opciones": [
+        "Cuando el tamaño tumoral ( T) sea > 2 cm.",
+        "Si los receptores son negativos.",
+        "Como adyuvante de la cirugía conservadora.",
+        "Como adyuvante de la mastectomía en casos de carcinoma ductal in situ."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las indicaciones de la radioterapia en el tratamiento del cáncer de mama son fáciles de conocer. Así, serán subsidiarias de radioterapia siempre que se realice cirugía conservadora (tumorectomía) para el tratamiento del cáncer de mama( ya sea ductal in situ o infiltante).\n\nTambién se aplica la radioterapia tras una mastectomía en aquellas pacientes consideradas de alto riesgo de recaida:\n\n- T3( > 5cm)\n\n-T4( afectación cutánea)\n\n-Afectación axilar\n\n-Márgenes de resección próximos."
+    },
+    {
+      "paginaPdf": 85,
+      "enunciado": "Es un criterio de severidad de la preeclampsia:",
+      "opciones": [
+        "Creatinina mayor de 0,9 mg/dl",
+        "Recuento de plaquetas menor de 50.000",
+        "Acido úrico mayor de 7 mg/dl",
+        "Proteinuria mayor de 300 mg en 24 horas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "De las opciones mencionadas, el único criterio de severidad es la presencia de trombocitopenia con recuento plaquetario menor de 50.000. Los otros paraclínicos colaboran en el diagnóstico pero no definen severidad."
+    },
+    {
+      "paginaPdf": 85,
+      "enunciado": "Mujer de 60 años de edad diagnosticada de carcinoma infiltrante multicéntrico de mama subsidiaria de mastectomía con biopsia selectiva del ganglio centinela que resulta negativo y quimioterapia postoperatoria. ¿Cuándo estaría indicado realizar la reconstrucción de la mama?:",
+      "opciones": [
+        "Sistemáticamente diferida al cabo de 5 años libre de enfermedad postmastectomía.",
+        "La quimioterapia postoperatoria es una contraindicación para realizar la reconstrucción inmediata.",
+        "De forma inmediata, pues la reconstrucción de la mama no interfiere en la historia natural de la enfermedad.",
+        "A partir de los 60 años es mejor el uso de prótesis externa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el caso que nos comentan, se ha realizado una mastectomía, probablemente por el carácter multicéntrico del tumor. La reconstrucción mamaria podría realizarse, en principio, inmediatamente después del acto quirúrgico.\n\nRecuerda que NO está contraindicada la irradiación de la pared torácica en ningún caso de reconstrucción autóloga, heteróloga o de aumento."
+    },
+    {
+      "paginaPdf": 86,
+      "enunciado": "Ante los cambios que se producen en el embarazo, ¿cuál de los siguientes enunciados es el verdadero?:",
+      "opciones": [
+        "La dilatación de los uréteres y pelvis renales es patológica.",
+        "Se produce una disminución plasmática de las cifras de creatinina, urea y ácido úrico.",
+        "La actividad tiroidea está disminuida y se produce paso al feto de T3 y T4 de forma muy apreciable.",
+        "Durante el embarazo, hay un estado de hipocoagulabilidad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre las modificaciones gravídicas maternas que como puedes ver no entraña ninguna dificultad. Durante la gestación se produce un aumento del flujo plasmático renal y la filtración glomerular en un 40%, junto con un incremento de la reabsorción tubular; todo ello producido por el aumento del volumen plasmático y gasto cardiaco. Es por todo lo anteriormente expuesto el que nos encontremos un descenso de la creatinina, urea y ácido úrico (opción 3 correcta). El resto de opciones son falsas ya que se produce una dilatación de uréteres y pelvis renales de forma fisiológica, aumentan también de forma fisiológica la cifra de leucocitos y VSG, aumenta la síntesis de hormonas tiroideas y de los factores de coagulación apareciendo una hipercoagulabilidad."
+    },
+    {
+      "paginaPdf": 86,
+      "enunciado": "Mujer de 25 años de edad acude por referir desde hace 10 días: abundante flujo maloliente grisáceo, pH > 4,5, prueba de las aminas con olor a pescado y clue cells. El agente etiológico más común en este tipo de infecciones corresponde a:",
+      "opciones": [
+        "Gardnerella vaginalis.",
+        "Candida",
+        "Trichomona Vaginalis",
+        "Papiloma Virus"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Aproximadamente un 50-70% de las mujeres con una vaginosis están asintomáticas. El resto refiere un aumento del flujo, de color blanco-grisáceo, y, en ocasiones, maloliente. No se asocian signos inflamatorios de edema o eritema vulvar. No se trata de una infección de transmisión sexual. Son factores de riesgo la gestación previa y el uso de DIU. El pH vaginal es superior a 4,5, la prueba de aminas: positiva."
+    },
+    {
+      "paginaPdf": 86,
+      "enunciado": "En el manejo de la Eclampsia son correctas todas EXCEPTO:",
+      "opciones": [
+        "Administración de Sultato de Magnesio i.v.",
+        "Colocar a la paciente en decúbito lateral.",
+        "Establecer una vía aérea y administrar oxígeno.",
+        "Parto inmediato mediante cesárea."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las 4 primeras respuestas son todas ciertas y nos resumen aspectos importantes del manejo de la eclampsia.\n\nLa respuesta incorrecta es la 5 puesto que en general se acepta, incluso en la eclampsia, que es preferible la vía vaginal antes que la cesárea. Para la elección de la vía de parto habrá que considerar factores como la presentación, las condiciones cervicales y la edad gestacional, entre otros. Se puede inducir el parto en estas pacientes así como emplear prostaglandinas locales para la maduración cervical. La anestesia regional consigue un buen control de la hipertensión y mejora el flujo uteroplacentario, por lo que puede considerarse la técnica de elección en estas pacientes siempre que no existan contraindicaciones para la misma.\n\nSe practicará cesárea sólo si no progresa adecuadamente la dilatación, ante sospecha de sufrimiento fetal, empeoramiento del estado materno o mal control de la gestante.\n\nEs importante recordar que se terminará la gestación en todas aquellas pacientes a término con preeclampsia. En las gestaciones pretérmino se decidirá en función de la gravedad del cuadro clínico que presente la embarazada y del estado fetal."
+    },
+    {
+      "paginaPdf": 87,
+      "enunciado": "Una de las siguientes aseveraciones sobre el ganglio centinela en el cáncer de mama es cierta:",
+      "opciones": [
+        "El ganglio centinela es el primer ganglio que recibe el drenaje linfático del tumor primario.",
+        "Antecedentes de cirugía mamaria plástica de aumento o reducción suponen una contraindicaición.",
+        "La existencia de una adenopatía axilar palpable y móvil en una paciente con un tumor de 3 cm de diámetro se considera una contraindicación para la técnica de detección.",
+        "La administración de quimioterapia u hormonoterapia neoadyuvante suponen una contraindicación de la técnica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ganglio centinela se define como la primera estación ganglionar que recibe el drenaje tumoral. De ahí el interés de localizarlo, para realizar una biopsia de forma selectiva y, en caso de objetivar macrometástasis en el centinela, proceder a la linfadenectomía axilar.\n\nLa negatividad del ganglio centinela axilar en cáncer de mama invasor, permite evitar la linfadenectomía axilar.\n\nSiempre que se localice una adenopatía axilar sospechosa por ecografia, está indicado la realización de una PAAF o BAG, que si no es diagnóstica y la imagen es claramente sospechosa deberá repetirse. Si es negativa la segunda punción, se puede realizar ganglio centinela.\n\nSólo hay dos contraindicaciones absolutas para la BSGC en cáncer infiltrante de mama:\n\n-Cáncer de mama infiltrante con ganglios citohistológicamente metastásicos (N1-N2).\n\n-Carcinoma de mama inflamatorio (T4d)"
+    },
+    {
+      "paginaPdf": 88,
+      "enunciado": "Para medir la eficacia anticonceptiva utilizamos el indice de Pearl. Teniendo en cuenta el uso típico de los anticonceptivos, ¿Cuál es el Top 5 en cuanto a eficacia?",
+      "opciones": [
+        "1. Vasectomía, 2. Pomeroy, 3. Implante subdérmico, 4. Endoceptivo de Levonorgestrel, 5. DIU tipo T de cobre",
+        "1. Implante subdérmico, 2. Vasectomía, 3. Endoceptivo de levonorgestrel, 4.Pomeroy, 5. DIU tipo T de cobre",
+        "1. Pomeroy, 2. Endoceptivo de Levonorgestrel, 3. Implante subdérmico, 4. DIU tipo T de cobre, 5. Vasectomía",
+        "1. Endoceptivo de Levonorgestrel, 2. Implante subdérmico, 3. Pomeroy, 4. Vasectomía, 5. DIU tipo T de cobre"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El índice de Pearl se calcula de acuerdo al número de embarazos no planificados por 100 mujeres/año. El uso típico hace referencia al uso cotidiano, que puede ser susceptible de algunas variaciones inherentes a la utilización del método. Los estudios muestran que el método con menos porcentaje de embarazos no planificados es el implante subdermico, seguido de la esterilización masculina, el endoceptivo de levonorgestrel, la esterilización femenina y cerrando el top 5 se encuentra el diu tipo T de cobre."
+    },
+    {
+      "paginaPdf": 88,
+      "enunciado": "En los estudios iniciales de una amenorrea secundaria conviene comprobar la normalidad de los niveles sanguíneos de:",
+      "opciones": [
+        "TSH.",
+        "ACTH.",
+        "Dopamina.",
+        "Estriol."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Debes manejar con soltura el algoritmo diagnóstico de las amenorreas secundarias.\n\nAnte una amenorrea secundaria, lo primero que debemos descartar es una gestación, y para ello realizamos, en primer lugar un test de embarazo.\n\nSi el test es negativo, a continuación es necesario determinar los niveles de TSH (RC- 1) y PRL, que también pueden dar lugar a amenorrea. Si están alterados, haremos el tratamiento etiológico."
+    },
+    {
+      "paginaPdf": 89,
+      "enunciado": "¿Cuál de las siguientes situaciones NO produce disminución de la variabilidad en la monitorización fetal intraparto?:",
+      "opciones": [
+        "Administración de oxitócicos.",
+        "Meperidina.",
+        "Hipoxia fetal.",
+        "Tratamiento materno con betabloqueantes."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una pregunta de dificultad media sobre el registro cardiotocográfico.\n\nLa meperidina, al ser un opiáceo, es un depresor del sistema nervioso central, disminuyendo entonces la variabilidad. Lo mismo ocurre con los betabloqueantes, que reducen la variabilidad al oponerse a la acción de las catecolaminas sobre los receptores beta. La anestesia epidural también puede disminuirla, sobre todo cuando se administra en bolo a través del catéter epidural (a veces, incluso puede provocar alguna deceleración). Otra de las causas de variabilidad baja es la hipoxia fetal. En cambio, lo que hacen los oxitócicos es exactamente lo contrario. Al aumentar las contracciones uterinas, somete al feto a un mayor estrés, con lo que su reacción es un aumento de la frecuencia cardíaca y de la variabilidad."
+    },
+    {
+      "paginaPdf": 89,
+      "enunciado": "El tumor ovárico de células germinales más frecuente es el:",
+      "opciones": [
+        "Disgerminoma.",
+        "Carcinoma embrionario.",
+        "Teratoma maduro quístico.",
+        "Teratoma inmaduro."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los tumores ováricos germinales representan el 25% del total. Más de la mitad de ellos se producen en mujeres jóvenes. Por lo tanto, son los tumores ováricos más frecuentes en este grupo de edad. El síntoma más frecuente es el dolor y la distensión abdominal.\n\nEl tumor ovárico más frecuente, dentro de los de estirpe germinal, es el teratoma quístico maduro (quiste dermoide), con gran diferencia: 90% del total. El 10% restante son malignos. Está constituido por tejidos bien diferenciados y sólo es maligno de forma excepcional. En su arquitectura, existe un predominio de tejido ectodérmico: glándulas sebáceas, sudoríparas, pelo… En algunas ocasiones, este tumor es productor de alfafetoproteína, al igual que muchos tumores testiculares (excepto el seminoma)."
+    },
+    {
+      "paginaPdf": 89,
+      "enunciado": "Mujer de 74 años. Menopausia a los 50 años. Diagnosticada a los 46 de un cáncer de mama ductal infiltrante . Fue sometida a mastectomía con linfadenectomía axilar ( nivel I y II) , seguida de 6 ciclos de quimioterapia y tamoxifeno hasta completar 5 años. Controles anuales dentro de la normalidad, salvo el del último año, que no los realizó por motivos personales. Acude a urgencias, refiriendo varios episodios de metrorragia escasa, autolimitados en las últimas 2 semanas. Señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Puesto que los episodios de metrorragia han sido autolimitados, mantendremos actitud expectante sin realizar ninguna prueba complementaria.",
+        "El cuadro que presenta la paciente puede ser secundario a la medicación que tomó.",
+        "La ecografía puede mostrarnos un endometrio engrosado de aspecto multiquístico.",
+        "En la urgencia podemos realizar una aproximación diagnóstica con una cánula de Cornier."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta importante sobre el manejo de complicaciones del tratamiento coadyuvante del cáncer de mama.\n\nTenemos el caso clínico de una paciente con cáncer de mama en tratamiento con tamoxifeno y presenta metrorragia.\n\nRecordemos que uno de los efectos secundarios más importantes del tamoxifeno es la hiperplasia de endometrio, que puede debutar con metrorragia (opción 2).\n\nLo primero que debemos hacer es explorar a la paciente y realizar una ecografía, que nos dará muchas veces un patrón endometrial multi- microquístico (opción 3).\n\nUna manera sencilla de tomar una muestra histológica del endometrio es con una cánula de aspiració tipo Cornier, procedimiento que no precisa anestesia ni materiales especiales, y lo podemos realizar en la urgencia o en consulta.\n\nAsí pues, una cosa debemos tener claro, y es que ante una metrorragia en una paciente postmenopáusica, no podemos quedar indiferentes y no hacer nada, aunque sean episodios aislados, con lo que la respuesta incorrecta es la 1."
+    },
+    {
+      "paginaPdf": 90,
+      "enunciado": "Cuál de los siguientes NO es útil en el diagnóstico prenatal de las cromosomopatías:",
+      "opciones": [
+        "Amniocentesis.",
+        "Funiculocentesis.",
+        "Baja cifra de alfafetoproteina en sangre materna.",
+        "Test de Coombs indirecto."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta fácil sobre los métodos de diagnóstico prenatal. La biopsia corial es el método que podemos realizar de forma más precoz (a las 10 semanas de gestación), siendo útil para el diagnóstico de enfermedades metabólicas en el feto y cromosomopatías. La amniocentesis genética es la siguiente, realizándose a partir de la semana 15; es la más utilizada y la más sencilla con diferencia. La funiculocentesis o cordocentesis es la última prueba invasiva, realizándose a partir de la 18 semana de gestación, obteniendo el diagnóstico de forma bastante rápida. Hemos citado métodos invasivos, pero también disponemos de marcadores ecográficos y bioquímicos, entre los que destaca la alfafetoproteína, que en el síndrome de Down está muy descendida, y en los defectos del tubo neural está muy elevada. El test de Coombs indirecto no es un método de diagnóstico prenatal, por lo que la opción 5 es la que debemos escoger; es utilizado para el diagnóstico de Ac anti- D maternos, para así poder identificar gestaciones con riesgo de tener una isoinmunización Rh."
+    },
+    {
+      "paginaPdf": 91,
+      "enunciado": "¿Qué medida considera incorrecta para el manejo de una masa anexial sospechosa de malignidad? :",
+      "opciones": [
+        "La laparoscopia es útil para descartar posibles falsos positivos de la evaluación prequirúrgica, evitando abordajes laparotómicos más agresivos.",
+        "La laparoscopia nos permite realizar una biopsia diagnóstica y una evaluación de la susceptible resecabilidad quirúrgica del tumor",
+        "Es imprescindible que el abordaje diagnóstico y terapéutico se haga en un único acto quirúrgico, y así evitar intervenciones innecesarias.",
+        "El abordaje quirúrgico de los aparentes estadios iniciales del cáncer de ovario puede realizarse tanto por laparoscopia como por laparotomía"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Lo que debemos recordar es que ante una sospecha fundada de cáncer de ovario,el diagnóstico de certeza de malignidad es siempre histopatológico. Para ello se puede practicar: biopsia diferida o intraoperatoria.\n\nDurante la cirugía se debe evitar romper la tumoración y/o su cápsula quística. En este sentido, con el acceso laparoscópico se ha descrito un riesgo de rotura mayor que con el acceso laparotómico, por ello la opción preferente suele ser la laparotomía en la mayoría de casos.\n\nEl abordaje diagnóstico o terapéutico se puede hacer en un único acto quirúrgico aunque no es imprescindible( opción 3 incorrecta)"
+    },
+    {
+      "paginaPdf": 91,
+      "enunciado": "El carcinoma escamoso de cérvix uterino ocupa el 5º lugar de los cánceres que afectan a la mujer. Se ha demostrado que su origen está íntimamente ligado a:",
+      "opciones": [
+        "Infección por virus del papiloma humano (HVP).",
+        "Utilización de tratamiento hormonal sustitutivo en la menopausia.",
+        "Infecciones vaginales repetidas por Candida albicans.",
+        "Infección por herpes virus tipo II."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Sin duda el factor de riesgo más importante e indispensable del carcinoma invasor de cuello es la infección genital por el papovavirus. El HPV está muy relacionado con la génesis del cáncer de cuello uterino y con la aparición de SIL. Los tipos más oncogénicos de HPV son: 16 y 18.\n\nEl virus del herpes tipo II, reflejo de promiscuidad sexual, se considera promotor de este cáncer.\n\nRecuerda que el tabaco también se considera factor de riesgo para este cáncer, pero el HPV se considera más importante."
+    },
+    {
+      "paginaPdf": 92,
+      "enunciado": "De los factores de alto riesgo mencionados para el cáncer de mama, hay uno que NO es cierto:",
+      "opciones": [
+        "Multiparidad.",
+        "Patrón mamográfico denso",
+        "Irradiación mamaria",
+        "Carcinoma lobulillar in situ"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El embarazo a término es un factor protector frente al cáncer de mama disminuyendo el riesgo, especialmente cuando el embarazo sucede a edades jóvenes y aumentando el efecto protector con el número de embarazos"
+    },
+    {
+      "paginaPdf": 92,
+      "enunciado": "¿En cuál de las siguientes manifestaciones clínicas se requiere el acetato de ciproterona como tratamiento de elección?:",
+      "opciones": [
+        "Amenaza de aborto.",
+        "Hirsutismo manifiesto.",
+        "Endometriosis.",
+        "Cáncer de mama."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es una pregunta importante respecto al tratamiento de las manifestaciones clínicas del Síndrome de Ovario Poliquístico.\n\nEl tratamiento del Hirsutismo que aparece en el SOP se realiza con anticonceptivos orales, que disminuyen la producción de esteroides suprarrenales y ováricos, reduciendo el hirsutismo en 2/3 de los pacientes. A veces se añaden antiandrógenos (espironolactona, acetato de ciproterona, flutamida, cimetidina, finasteride...)."
+    },
+    {
+      "paginaPdf": 92,
+      "enunciado": "¿Cuál de estas características clínicas NO esperaría encontrar en una placenta previa sintomática?",
+      "opciones": [
+        "Dolor.",
+        "Hemorragia de sangre roja.",
+        "Con frecuencia hay rotura prematura de membranas.",
+        "Feto con presentación alta."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La placenta previa produce un sangrado indoloro (respuesta 1 falsa). El resto de las opciones que nos presentan son características de la placenta previa. La otra hemorragia del tercer trimestre que tampoco presenta dolor abdominal es la rotura de vasos previos.\n\nEl diagnóstico diferencial entre ambos cuadros puedes basarlo en la afectación fetal. Mientras en la placenta previa no aparece sufrimiento fetal, en la rotura de vasos previos se presenta inmediatamente, ya que la sangre procede del feto, y además suele ser grave."
+    },
+    {
+      "paginaPdf": 93,
+      "enunciado": "¿Qué progesterona tiene efecto antiandrogénico?:",
+      "opciones": [
+        "Levonorgestrel.",
+        "Desogestrel.",
+        "Gestodeno.",
+        "Acetato de ciproterona."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es importante que conozcas que el acetato de ciproterona es un antiandrógeno y que como tal se utiliza en ciertas patologías en las que este efecto nos es beneficioso, como en el hirsutismo del SOP en el que se da anticonceptivos orales, que disminuyen la producción de esteroides suprarrenales y ováricos. Hay otros fármacos también antiandrógenos como la espironolactona, acetato de ciproterona, flutamida, cimetidina y finasteride. El acetato de ciproterona también se utiliza en el tratamiento del acné, su mecanismo de acción parece ser por inhibición de la unión de los andrógenos a los receptores periféricos de la glándula sebácea, impidiendo el paso de testosterona a 5- alfa- dihidrotestosterona, con lo que disminuye de forma importante la producción de sebo. Por su acción feminizante sólo tiene indicación en la mujer, debe asociarse a un estrógeno como el etinilestradiol para conseguir una acción anticonceptiva, ya que el acetato de ciproterona es teratógeno."
+    },
+    {
+      "paginaPdf": 93,
+      "enunciado": "Tercípara de 41 semanas de amenorrea que acude al hospital por presentar dinámica de parto. Entre sus antecedentes obstétricos destacan dos partos eutócicos. El embarazo actual ha cursado con normalidad. En el registro cardiotocográfico la frecuencia cardíaca fetal es de 120 lpm, la variabilidad de 5-10 y existen deceleraciones variables. ¿Hacia qué tipo de patología nos orienta el registro?:",
+      "opciones": [
+        "Compresión de la cabeza fetal en el canal del parto.",
+        "Situación premortem.",
+        "Patología del cordón.",
+        "Rotura de vasa previa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico muy fácil en el que se nos presenta a una tercigesta a términoque está de parto. En el registro cardiotocográfico se muestran dos alteraciones como son la variabilidad baja (5- 10 latidos/minuto) y deceleraciones variables. Recuerda que cada tipo de deceleración está relacionada con un tipo de patología, así, las deceleraciones variables (o también llamadas umbilicales) son características de la patología del cordón (opción 3). En la compresión de la cabeza fetal (estimulación del parasimpático fetal) solemos encontrar deceleraciones precoces o dips de tipo I; en la situación premórtem (por ejemplo en la rotura de vasos previo) encontramos una sinusoidal. Los dips tipo II o deceleraciones tardías los encontramos en patología placentaria como puede ser el desprendimiento prematuro de placenta normalmente inserta. Bibliografía: Manual CTO 4ª Ed. Ginecología y Obstetricia: Capítulo 22.4, pág. 37."
+    },
+    {
+      "paginaPdf": 94,
+      "enunciado": "Los gemelos unidos se forman cuando:",
+      "opciones": [
+        "La división del óvulo fertilizado ocurre en la fase de mórula.",
+        "Entre el 4º y 8º día postfecundación antes de la diferenciación de las células del amnios.",
+        "La división ocurre después de la formación del disco embrionario.",
+        "Si la división ocurre cuando el amnios ya está establecido, 8 días después de la fertilización."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los gemelos siameses se forman cuando la división de un mismo óvulo fecundado tiene lugar pasados los 13 días tras la fecundación, después de la formación del disco embrionario."
+    },
+    {
+      "paginaPdf": 94,
+      "enunciado": "Para la aparición del cáncer de cérvix de células escamosas, existen múltiples factores de riesgo. Señale el que hoy en día se considera más importante e indispensable para su aparición:",
+      "opciones": [
+        "Infección por VPH.",
+        "Tabaquismo.",
+        "Déficit de alfa-1-antitripsina.",
+        "Infección por herpes virus tipo II."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Que la infección por HPV (sobre todo tipos 16 y 18) es el FR fundamental del cáncer de cérvix es lo más importante que debéis saber de esta patología. Sobre el resto de las opciones, recordad la promiscuidad sexual y el inicio precoz de las relaciones sexuales, y también el tabaquismo. El déficit de alfa 1 antitripsina también se ha demostrado factor predisponente, aunque su prevalencia es muy poco importante en comparación con la de los otros FR del cáncer de cérvix. La infección por herpes virus no predispone a esta patología."
+    }
+  ]
+}

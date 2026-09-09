@@ -1,0 +1,662 @@
+{
+  "materia": "oncologia",
+  "paginaInicio": 45,
+  "paginaFin": 66,
+  "anomalias": [
+    "p56: 'Resp. Correcta: 3' en la pregunta sobre obstrucción intestinal por carcinomatosis peritoneal en fase terminal, pero el comentario dice literalmente 'nos podemos quedar con la respuesta 1, pero dan como correcta la 4'; la clave (3) no coincide con ninguna de las dos opciones que discute el comentario",
+    "p57: dos preguntas consecutivas con el enunciado IDÉNTICO (varón de 75 años con adenocarcinoma de próstata y metástasis óseas) pero con opciones distintas y claves distintas (la primera Resp. Correcta 3, la segunda Resp. Correcta 1); no es un error de transcripción, están así en el original",
+    "p48: la explicación de 'Señale la localización más frecuente de las neoplasias de cavidad oral' es una tabla de distribución porcentual que en el PDF aparece como párrafos sueltos (labio 45%, lengua movil 16%, ...) y se ha linealizado uniendo cada línea con salto de párrafo; continúa en p49",
+    "p62: el PSA se expresa en ng/dL ('PSA 30 ng/dL (previo de 5 ng/dL)') cuando la unidad habitual es ng/mL; además el comentario contiene un paréntesis de cierre huérfano en 'Testosterona < 50 ng/dL ) o < 1,7 nmol/L'",
+    "p49: la pregunta del varón de 55 años fumador con adenocarcinoma de pulmón PDL-1 > 50% tratado con Pembrolizumab (colitis inmunomediada) está duplicada en el documento: aparece también antes, fuera de este rango (p43-44), con las mismas opciones y la misma clave"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 45,
+      "enunciado": "Con respecto al cáncer ginecológico, es INCORRECTO que:",
+      "opciones": [
+        "El cáncer de cérvix es frecuente en mujeres jóvenes.",
+        "Debe realizarse una citología para descartar la presencia de malignidad.",
+        "La obesidad se ha relacionado con un aumento del riesgo de cáncer de endometrio.",
+        "La menarquia precoz y la menopausia tardía se relacionan con un mayor riesgo de cáncer de endometrio."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Aunque las citologías comienzan a realizarse a partir de los 18 años (o del comienzo de las relaciones sexuales), el cáncer de cérvix aparece en mujeres de edad media (hacia los 40-50 años) (opción 1 incorrecta, por lo que la marcamos). Con respecto a algunos factores de riesgo de cánceres ginecológicos, debemos recordar que la obesidad, la menarquia precoz y la menopausia tardía se relacionan con mayor riesgo de cáncer de endometrio (más años en los que un tejido hormonodependiente está sometido a estímulo). También sucedería esto en el cáncer de ovario, mientras que las situaciones que favorecen anovulación (menarquia tardía, menopausia precoz, anticonceptivos hormonales, embarazos, lactancia, etc.) serían factores protectores."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Paciente de 30 años que acude a su consulta para valorar inicio de tratamiento, recién diagnosticado de melanoma con metástasis pulmonares múltiples bilaterales. En el análisis del tumor primario se objetiva que no presenta mutación en el gen BRAF. ¿Qué tratamiento le propondría?",
+      "opciones": [
+        "Nivolumab + Ipilimumab.",
+        "Interferón.",
+        "Dabrafenib + Trametenib.",
+        "Cisplatino."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento de elección en paciente con melanoma estadio IV sin mutación en BRAF consiste un inhibidor de PD-1 (nivolumab) en combinación con un inhibidor de CTLA4 (ipilimumab - respuesta 1 correcta -). En caso de presentar mutación V600-E en BRAF, podríamos considerar tratamiento con inhibidor de BRAF (dabrafenib) junto con un inhibidor de MEK (trametenib)."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Mujer de 46 años que consulta por disnea progresiva de días de evolución hasta ser de mínimos esfuerzos. Unos meses antes había sido tratada de carcinoma de mama metastásico con quimioterapia y radioterapia. Tiene ingurgitación yugular hasta el ángulo mandibular y pulso arterial paradójico. El electrocardiograma muestra taquicardia sinusal y alternancia en amplitud de las ondas P, QRS y T. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Fibrosis miocárdica post-radioterapia.",
+        "Miocardiopatía dilatada idiopática.",
+        "Miocardiopatía por adriamicina.",
+        "Taponamiento cardiaco post-radioterapia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los antecedentes de cáncer de mama junto con el tratamiento quimio y radioterápicos, nos ponen sobre la pista de que la etiología tiene que estar relacionado con ello. Si bien es cierto que las antraciclinas (adriamicina y doxorrubicina) tiene como efecto adverso grave la cardiotoxicidad, no sería esta la forma de presentación más típica, sino una miocardiopatía (con pérdida de miocitos por apoptosis y necrosis) que daría una reducción de la FEVI como resultado del remodelado del ventrículo izquierdo. Nos están presentando el caso típico de taponamiento cardiaco post-radioterapia (respuesta 4 correcta), cuyo diagnóstico es clínico (triada de Beck, pulso paradójico), radiológico (TAC más específico que Rx) y ECG (alternancia eléctrica, bajo voltaje, taquicardia sinusal)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "¿Cual sería el tratamiento de elección en un paciente con un adenoma hipofisario secretor de GH que presenta cefalea y hemianopsia bitempolar de reciente instauración?",
+      "opciones": [
+        "Resección quirúrgica",
+        "Radioterapia estereotáxica craneal",
+        "Bromocriptina",
+        "Observación y tratamiento ssintomático pues se trata de una neoplasia de naturaleza benigna"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento de elección en adenomas hipofisarios que comprimen quiasma óptico o provocan hipertensión craneal debe ser la descompresión quirúrgica. La radioterapia estereotáxica fraccionada ( RTE administrada en condiciones de estereotaxia) queda reservada a aquellos pacientes sin signos o sintomas compresivos que rechazan o en los que está contraindicada la cirugía"
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Mujer de 65 años afecta de una neoplasia de la cabeza del páncreas con 2 lesiones metastásicas hepáticas. Se ha iniciado una primera línea de tratamiento con Gemcitabina y Nab-Paclitaxel. Se ha realizado un TC tras 3 ciclos de tratamiento que muestra una disminución del 35% en total del diámetro de las lesiones (cabeza de páncreas y hepáticas). ¿Cuál es el resultado de la evaluación según RECIST?",
+      "opciones": [
+        "Respuesta completa.",
+        "Respuesta parcial.",
+        "Enfermedad estable.",
+        "Progresión de la enfermedad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El RECIST es un método objetivo que permite evaluar la evolución radiológica (habitualmente por TC) de la enfermedad oncológica. Se determinan un número de lesiones diana (deben ser medibles y fácilmente evaluables en el tiempo) cuyos diámteros se suman para tener un número global de la “magnitud” de la enfermedad oncológica. Con el tratamiento, se compara la suma de los diámetros para ver si hay respuesta o progresión al tratamiento. En el caso de la paciente hay una reducción de la suma global de los diámetros de las lesiones que supera una reducción del 30% considerado como el umbral de significación para establecer que se ha alcanzado una respuesta parcial."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Las células malignas de un tumor son consideradas \"especiales\" por las siguientes aseveraciones, EXCEPTO:",
+      "opciones": [
+        "No se inhiben por contacto.",
+        "Las células malignas poseen una relación núcleo-citoplasma a favor del citoplasma.",
+        "Sin angiogénesis no podrían crecer más allá de 2-3 mm en su desarrollo tumoral.",
+        "Poseen metaloproteasas que degradan integrinas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las células malignas presentan una relación núcleo-citoplasma a favor del núcleo (marcamos la opción de respuesta 2). Las metaloproteasas pueden degradar matriz extracelular, integrinas y otros elementos del estroma."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Respecto al radón, ¿cuál de las siguientes afirmaciones es FALSA?",
+      "opciones": [
+        "Constituye el segundo factor de riesgo responsable del cáncer de pulmón.",
+        "Es un gas derivado de la degradación del uranio.",
+        "Es fácilmente detectable debido a su coloración característica.",
+        "Se acumula en lugares cerrados, como sótanos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El radón es un gas radiactivo inodoro e incoloro que se forma a partir de la desintegración del uranio en el suelo y las rocas. Debido a que no tiene color ni olor, su presencia no puede detectarse sin equipo especializado, como detectores de radón. Es conocido por ser el segundo factor de riesgo más importante para el cáncer de pulmón después del tabaquismo. La acumulación de radón en espacios cerrados, como sótanos, puede aumentar el riesgo de cáncer de pulmón, y su detección precisa es crucial para la prevención (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Paciente de 62 años diagnosticado de cáncer de recto a nivel medio tras estudio por una rectorragia de larga evolución. En la RMN realizada para el estadiaje locorregional se observa infiltración de la grasa perirrectal, así como afectación ganglionar. No se observan otras alteraciones en TC ni en PET. ¿Qué actitud le parece MÁS correcta?",
+      "opciones": [
+        "Como tiene afectación ganglionar, la cirugía no es una opción.",
+        "Neoadyuvancia.",
+        "Tratamiento paliativo.",
+        "Como afecta al recto medio, la radioterapia no es una opción."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de dificultad media en la que podemos repasar el estadiaje del cáncer de recto y algunas novedades en cuanto a su tratamiento. Como el enunciado describe una masa con infiltración de la grasa perirrectal sería T3, además hay afectación de ganglios (N+) sin metástasis a distancia, luego estamos ante un tumor localmente avanzado. En los tumores de recto es imprescindible realizar una RMN para el estadiaje locorregional lo cual permite seleccionar los tumores localmente avanzados (T3, T4 o N+) candidatos a neoadyuvancia (respuesta 2 correcta) con radioterapia y Capecitabina concomitante si afectan a recto medio e inferior."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Paciente mujer diagnosticada de cáncer de mama septal infiltrante que presenta clínica de somnolencia, sed y poliuria. ¿Qué estamos obligados a descartar en primer lugar como médicos de esta paciente?",
+      "opciones": [
+        "Exceso de ingesta de líquido por metástasis cerebral y alteración del comportamiento asociada.",
+        "Hipercalcemia maligna.",
+        "Hiperparatiroidismo por producción de PTH.",
+        "SIADH secundario."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico de tumor infiltrante con triada clásica de hipercalcemia. La opción de respuesta número 1 no sería la primera opción a descartar y es más inverosímil que el hecho de probable existencia de una hipercalcemia maligna. En el caso de la respuesta número 3, la producción de PTH es rara en tumores distintos a los adenomas paratiroideos. Y el SIADH tendría una clínica distinta. Por tanto, opción correcta la 2."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Señale la localización más frecuente de las neoplasias de cavidad oral:",
+      "opciones": [
+        "Labio",
+        "Lengua",
+        "Suelo de boca",
+        "Paladar duro"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La distribución de las neoplasias de cavidad oral es la siguiente:\n\nlabio 45%\n\nlengua movil 16%\n\nsuelo de boca 12%\n\nreborde alveolar 12%\n\nmucosa oral 10%\n\npaladar duro 5%"
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Un paciente de 37 años ha sido sometido a una tiroidectomía total por un tumor maligno tiroideo multifocal, productor de calcitonina. ¿Qué investigación genética puede detectar la afección en sus familiares?:",
+      "opciones": [
+        "Mutación en el gen BRCA-1",
+        "Mutación en el protooncogén RET",
+        "Amplificación del protooncogén N-myc",
+        "Mutación en el gen p53"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta fácil ya que nos presentan el caso típico de un paciente con cáncer de tiroides. La palabra clave es calcitonina, que nos indica que estamos ante un carcinoma medular de tiroides, un 5-10% del total de los cánceres de tiroides. La mayoría de los carcinomas medulares son esporádicos, pero hay un 15-20% de los pacientes que asocian síndromes familiares: MEN 2A, MEN 2B, Carcinoma medular de tiroides familiar. Estos síndromes son causados por mutaciones en un gen llamado protooncogén RET (herencia AD)."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Mujer de 75 años afecta de un carcinoma seroso de alto grado de ovario con afectación peritoneal difusa. Acude a urgencias por náuseas con vómitos y estreñimiento de 4 días. A la exploración física se aprecia un abdomen distendido, timpánico a la percusión con ausencia de peristaltismo audible.Se completa el estudio con un TC abdominal que muestra asas de intestino delgado y colon dilatadas sin punto de oclusión. ¿Cuál de los siguientes no es un tratamiento empleado habitualmente en esta complicación?",
+      "opciones": [
+        "Dieta absoluta con sueroterapia y antieméticos.",
+        "Corticoterapia a dosis altas.",
+        "Peritonectomía quirúrgica.",
+        "Nutrición parenteral si ayuno prolongado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Varón de 55 años, fumador, con reciente diagnóstico de un adenocarcinoma de pulmón con una expresión de PDL-1 > 50% en células tumorales. Se decide iniciar una primera línea de tratamiento con Pembrolizumab. A las cuatro semanas de tratamiento el paciente ingresa por diarreas con sangre y moco junto con dolor abdominal. Se realiza le una colonoscopia que muestra signos de pancolitis con úlceras. La biopsia del colon muestra extensa infiltración por linfocitos. ¿Cuál es el tratamiento de elección para la sospecha diagnóstica?",
+      "opciones": [
+        "Antibioterapia con cobertura de Pseudomonas aeruginosa.",
+        "Metilprednisolona a dosis altas.",
+        "Terapia biológica con Infliximab.",
+        "Plantear una colectomía."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El espectro de efectos adversos de la inmunoterapia involucra los efectos adversos de tipo autoinmune. Tras el tiroides, uno de los órganos más afectados es el colon. El tratamiento de la mayoría de los efectos adversos inmunomediados (no endocrinos) derivados del uso de anticuerpos anti-CTLA4 o anti-PD-1/PD-L1 es el uso de corticoides en primer lugar. En el caso concreto de la colitis inmunomediada, en caso de refractariedad a corticoides podemos plantear el uso de fármacos biológicos como el Infliximab o, incluso, una colectomía."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "¿Cuál de las siguientes es la complicación metabólica MÁS frecuente en el cáncer?",
+      "opciones": [
+        "Hiponatremia.",
+        "Hiperuricemia.",
+        "Hiperfosfatemia.",
+        "Hipercalcemia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta teórica. La hipercalcemia es la urgencia metabólica más frecuente en oncología. Puede ser originada por diversas causas: destrucción ósea por M1 óseas, por producción de vitamina D o por secreción de PTH o una proteína relacionada con la PTH."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "¿Cuál de las siguientes relaciones entre factor de riesgo y neoplasia es FALSA?",
+      "opciones": [
+        "Tabaco – Carcinoma vesical.",
+        "Ahumados - Colangiocarcinoma.",
+        "Asbesto - Mesotelioma.",
+        "VEB - Carcinoma de cavum."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El consumo de productos ahumados, salazones o embutidos se ha relacionado con un aumento del riesgo del cáncer gástrico (opción 2 falsa, por lo que la marcamos). El resto de asociaciones son ciertas."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Hombre de 65 años con antecedente de neoplasia de páncreas en curso de quimioterapia. Consulta en Urgencias por dolor y edema de todo el miembro inferior desde la ingle. ¿Qué prueba diagnóstica es MÁS coste-efectiva para confirmar la sospecha diagnóstica?",
+      "opciones": [
+        "Ecografía doppler venosa.",
+        "Flebografía.",
+        "TC helicoidal.",
+        "Dímero-D."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se nos presenta un caso de trombosis venosa profunda (signos inflamatorios: dolor, rubor, puede haber un cordón venoso palpable). El método NO INVASIVO de elección para diagnosticar la trombosis venosa profunda es la ecografía doppler venosa (respuesta 1 correcta), y de los métodos INVASIVOS, la flebografía con contraste. La TC y el dímero-D serían para diagnosticar un TEP con alta y baja probabilidad clínica, respectivamente. Los adenocarcinomas son los cánceres que producen más hipercoagulabilidad y riesgo de trombosis; de hecho, el carcinoma de páncreas y algunos otros tumores digestivos producen un cuadro paraneoplásico llamado tromboflebitis migrans."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Mujer de 50 años, nunca fumadora, que, a raíz de hemoptisis, es diagnosticada de un carcinoma de célula no pequeña de pulmón tipo adenocarcinoma. Estadio TNM T3N2M1 (hepática y ósea). Acude a su primera visita con el oncólogo para proponer un tratamiento y resolver dudas. Con respecto a este caso, es FALSO que:",
+      "opciones": [
+        "Es preciso realizar un estudio molecular para ver si hay mutaciones en EGFR, ALK y BRAF o reordenamientos en ROS-1, RET y NTRK.",
+        "A pesar de que no disponemos de fármacos dirigidos, en mujeres no fumadoras hay una alta prevalencia de mutaciones de KRAS.",
+        "Típicamente encontraremos una baja expresión de PD-L1 en pacientes no fumadores.",
+        "En ausencia de inmunohistoquímica de PD-L1 podríamos iniciar tratamiento con Carboplatino + Nab-Paclitaxel + Atezolizumab."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las mutaciones de KRAS en cáncer de pulmón, son más frecuentes que las mutaciones de EGFR, pero se dan en pacientes fumadores (opción 2 falsa, por lo que la marcamos). Las demás opciones de respuesta son ciertas. Recuerda que en primera línea de tratamiento podemos utilizar Pembrolizumab (si la expresión de PD-L1 es ≥ 50%) o la combinación de quimioterapia + Pembrolizumab o Atezolizumab (independientemente de la expresión de PD-L1)."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Con respecto al tratamiento hormonal en mujeres con cáncer de mama hormonosensible (HER-2 negativas) metastásico, es FALSO que:",
+      "opciones": [
+        "En mujeres premenopáusicas son de utilidad los inhibidores de la aromatasa sin necesidad de suprimir la función ovárica.",
+        "En mujeres postmenopáusicas podemos utilizar inhibidores de la aromatasa (letrozol, anastrozol o exemestano) así como tamoxifeno.",
+        "Debemos tener en cuenta si la paciente ha recibido tratamiento adyuvante previamente para seleccionar el mejor tratamiento.",
+        "En la actualidad la combinación de inhibidores de la aromatasa o fulvestrant con inhibidores de CDK4/6 (como ribociclib, palbociclib o abemaciclib) es el mejor tratamiento disponible para este grupo de pacientes."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En mujeres premenopáusicas en un contexto metastásico se recomienda la supresión de la función ovárica (quirúrgica o farmacológica), independientemente del tratamiento que seleccionemos (incluido si optamos por tamoxifeno), pero especialmente en pacientes con inhibidores de la aromatasa (opción 1 falsa, por lo que la marcamos). Es importante la última opción de respuesta, pues los inhibidores de ciclinas CDK4/6 han surgido en los últimos años y se han posicionado en la primera línea de tratamiento en combinación con inhibidores de la aromatasa o fulvestrant (si ha recibido inhibidores de aromatasa previamente)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Con respecto a los tratamientos en Oncología, indique cuál de las siguientes relaciones entre tratamiento y neoplasia es FALSA:",
+      "opciones": [
+        "Pembrolizumab - Cáncer de pulmón con alta expresión de PD-L1.",
+        "Letrozol - Cáncer de cérvix.",
+        "Octreotide - Tumores neuroendocrinos.",
+        "Sunitinib – Carcinoma renal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Letrozol tiene indicaciones en tratamiento neoadyuvante y adyuvante en contexto localizado; así como en contexto metastásico. Fuera de indicación, hay datos de eficacia en pacientes con carcinomas de ovario de bajo grado y carcinomas de endometrio metastásicos. El cáncer de cérvix, relacionado con el VPH, no es hormonosensible (opción 2 falsa, por lo que la marcamos). Las demás asociaciones contenidas en las opciones de respuesta son ciertas."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "La tasa de transformación maligna del esófago de Barrett en adenocarcinoma es:",
+      "opciones": [
+        "0,5% anual",
+        "1,8% anual",
+        "3,2% anual",
+        "5% anual"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El esófago de Barrett es la metaplasia intestinal del revestimiento epitelial esofágico y su reemplazo por un epitelio columnar con una tasa de transformación maligna del 0,5%"
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "El síndrome confusional agudo (SCA) en el paciente oncológico se va a producir como consecuencia de la claudicación mental del paciente. ¿Cuál de las siguientes posibilidades de tratamiento es FALSA?",
+      "opciones": [
+        "Si aparecen alucinaciones o síntomas psicóticos, podemos emplear haloperidol.",
+        "La clorpromacina no es una buena alternativa al haloperidol en pacientes agitados o angustiados por su mayor poder de sedación.",
+        "Si la causa es farmacológica, suspenderemos o reduciremos la dosis del fármaco.",
+        "Si es por hipoxia o cianosis, podemos emplear la oxigenoterapia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante un SCA, en un paciente oncológico, el objetivo principal es controlar los síntomas para poder proporcionarle el mayor confort. En este caso, la medicación sedante cumple un papel puramente sintomático. Se puede administrar tanto haloperidol como clorpromacina y otro antipsicótico como la tioridacina. La clorpromacina se caracteriza por tener un perfil más sedante al haloperidol, siendo bastante útil en pacientes agitados y con importante angustia (opción 2 falsa, por lo que la marcamos): la clorpromacina sí es una buena alternativa al haloperidol en estos casos."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Varón de 72 años con consumo acumulado de tabaco de 45 paquetes/año. Procede de medio rural y no da importancia alguna a las revisiones médicas a pesar de que lleva un tiempo que se nota más cansado y en analítica previa se evidenció hipercalcemia. Visita a su hijo que vive en la ciudad, y estando previamente bien según el propio paciente, comienza con dolor persistente y localizado en la espalda, por lo que acude a Urgencias. Este dolor aumenta con la maniobra de Valsalva y va evolucionando con parestesias y pérdida de fuerza en miembros inferiores. Se decide la realización de RM, siendo diagnóstica del cuadro clínico. ¿Cuál sería el tratamiento INICIAL que instauraría en este paciente?",
+      "opciones": [
+        "Dexametasona a dosis bajas para no interferir en el proceso de recuperación neurológica.",
+        "Cirugía descompresiva del aneurisma abdominal.",
+        "Dexametasona a dosis altas + radioterapia o cirugía si es posible.",
+        "Prótesis intravascular en lugar de cirugía debido al alto riesgo quirúrgico del paciente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso cuyo cuadro clínico es sugerente de un síndrome de compresión medular por los antecedentes del paciente y los datos referidos en el enunciado (hipercalcemia como síndrome paraneoplásico o por las metástasis, el tipo de dolor, el aumento con la maniobra de Valsalva y el empleo de RM como prueba de imagen). En este caso el tratamiento es urgente con corticoides a dosis ALTAS y el tratamiento específico puede ser radioterapia (la mayoría) o cirugía cuando sea posible (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "BRAF es una proteína que forma parte de las MAP kinasas involucrada en la señalización intracelular de diversos factores de crecimiento. La mutación BRAF V600E constituye una variante que confiere a BRAF un estado de activación; lo que la hace independiente de la activación por parte de factores de crecimiento y mantiene activa la vía de las MAP kinasas. Se ha descrito esta alteración en multiples neoplasias. ¿En cuál de las siguientes no es una neoplasia en la que tengamos en cuenta mutaciones de BRAF?",
+      "opciones": [
+        "Linfoma de Hodgkin.",
+        "Melanoma cutáneo.",
+        "Adenocarcinoma de colon.",
+        "Tricoleucemia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La mutación de BRAF constituye una mutación clonal en algunos subtipos tumorales. Ello hace que la inhibición de BRAF (de forma aislada o en combinación con la inhibición de MEK, como en el Melanoma) da lugar a respuestas tumorales parciales o, incluso, completas. La tricoleucemia es una de las neoplasias con mayor porcentaje de mutaciones de BRAF (prácticamente el 100% de pacientes), mientras que en el carcinoma de colon es 10%. En pacientes con Linfomas de Hodgkin no hay alteraciones clonales descritas en BRAF."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Respecto a los tratamientos hormonales en Oncología, ¿Cuál de las siguienes afirmaciones es cierta?",
+      "opciones": [
+        "El Tamoxifeno es antagonista del receptor de estrógenos a nivel endometrial.",
+        "Letrozol y Anastrozol inhiben la 17-alfa-hideoxilasa.",
+        "Algunos de los tratamientos hormonales (antiestrigenicos, progentagenos) aumentan el riego hemorrágico.",
+        "La abiraterona es una opción de tratamiento para el cáncer de próstata metastásico sensible a la castración."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "La inmunoterapia es un tratamiento que ha cambiado el paradigma de la oncología en los últimos años, situándose en la primera línea de tratamiento de muchas neoplasias. ¿Cuál de las siguientes situaciones/neoplasias no tiene indicación de tratamiento con inmunoterapia – en monoterapia o combinación- en primera línea de tratamiento?",
+      "opciones": [
+        "Adenocarcinoma de páncreas metastásico.",
+        "Carcinoma escamoso de pulmón con expresión de PDL1 mayor del 50%.",
+        "Melanoma maligno metastásico BRAF wild-type.",
+        "Carcinoma de Merkel metastásico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "¿Cuál de los siguientes criterios NO consideraría para derivar al hospital a un paciente terminal?",
+      "opciones": [
+        "Causas clínicas (dolor o disnea no controlados, agitación, etc.).",
+        "Situación de agonía.",
+        "Claudicación familiar.",
+        "Claudicación del equipo asistencial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta con la que repasamos el concepto de agonía y las consecuencias que de ello se deriva para sus cuidados. Se define la agonía como “el estado que precede a la muerte, en las enfermedades en que la vida se extingue de manera gradual”. La situación general del enfermo es muy mala: encamado, estuporoso y habitualmente incapaz de ingerir líquidos y/o medicación, lo que nos obliga a redefinir nuestros objetivos terapéuticos, centrándonos en mantener al enfermo lo más confortable posible, lo que se logra con más facilidad en el propio domicilio que ingresando al paciente en un hospital (respuesta 2 correcta). Las crisis de claudicación son situaciones de descompensación del enfermo, sus familiares o su equipo médico, que suelen ser provocadas por la aparición de síntomas mal controlados que crean angustia (dolor, disnea y respiración estertorosa, hematemesis, etc.) o por la aparición de dudas sobre el tratamiento previo, temores, incertidumbres, etc. El ingreso hospitalario puede resolver alguna de estas situaciones."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "¿La distribución por edades del Linfoma Hodgkin es?",
+      "opciones": [
+        "Su incidencia aumenta con la edad",
+        "Su incidencia disminuye con la edad",
+        "Presenta una distribución bimodal",
+        "Presenta una distribución normal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Existe una distribución bimodal de los Linfomas Hodgkin sobre los 20 y los 65 años aunque puede variar según la localización geográfica, raza y grado de industrialización."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Respecto al mecanismo de acción de los quimioterápicos, ¿cuál de las siguientes relación entre grupo quimioterápico y mecanismo de acción es cierta?",
+      "opciones": [
+        "Alquilantes - Inhiben la timidilanto-sintasa.",
+        "Platinos - Inhibidores de la topoisomerasa II.",
+        "Analogos de pirimidinas - Se unen de forma covalente al ADN impidiendo su replicación.",
+        "Alcaloides de la Vinca - Inhiben la polimerización de los microtúbulos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Varón de 50 años recién diagnosticado de adenocarcinoma en colon descendente estadio II. ¿Cuál de los siguientes factores NO se corresponde con un factor de mal pronóstico en este paciente?",
+      "opciones": [
+        "CEA preoperatorio 10 ng/mL.",
+        "Inestabilidad de microsatélites.",
+        "Examen histológico de 10 ganglios linfáticos.",
+        "Tumor poco diferenciado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En los pacientes con cáncer colorrectal estadio II, la presencia de inestabilidad de microsatélites se considera factor de buen pronóstico (marcamos la opción de respuesta 2). Las demás opciones de respuesta suponen peor pronóstico en estos pacientes."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "¿Cuál es el tratamiento de la obstrucción intestinal por carcinomatosis peritoneal en la fase terminal de la enfermedad?",
+      "opciones": [
+        "Sonda nasogástrica, aspiración continua, sueroterapia intravenosa.",
+        "Cirugía desobstructiva.",
+        "Administración por vía subcutánea de morfina, buscapina, haloperidol y octeótrido.",
+        "Dieta absoluta y sueros por vía intravenosa o subcútanea."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se define obstrucción intestinal como la interrupción del tránsito intestinal secundaria a un causa mecánica o bien funcional. Entre un 3- 5 % de los pacientes con una neoplasia avanzada desarrollan esta complicación, presentándose con mayor frecuencia en los casos de cáncer de colon (10- 25%) y deovario (5- 40%).\n\nEl tratamiento se basa en dos pilares:\n\n- Cirugía. En general, se recomienda intervenir si la esperanza de vida del enfermo es superior a dos meses, y si ha existido cirugía desobstructiva previa y esta ha sido efectiva durante más de seis meses.\n\nEl tratamiento quirúrgico de la obstrucción intestinal en el paciente terminal presenta una alta mortalidad (15- 30%), alto riesgo de fístulas, malos resultados y supervivencia corta. Como el paciente que nos dan en la pregunta está en fase terminal de la enfermedad no consideramos la terapia quirúrgica (respuesta 2)\n\n- Tratamiento farmacológico. Basado en dieta absoluta, reposición hidroelectrolítica, SNG con aspiración (en función de la clínica del paciente), nutrición parenteral, analgésicos, antieméticos (de elección, los setrones), corticoides, antisecretores y espasmolíticos. Por lo tanto nos podemos quedar con la respuesta 1, pero dan como correcta la 4 por la situación terminal del paciente e incorporar en el tratamiento analgésicos sedantes (morfina), antieméticos (octeótrido), espasmolíticos (buscapina) y haloperidol.\n\nSi la causa es un fecaloma, es preciso intentar la extracción manual del mismo. Se debe tener precaución con el empleo de laxantes por vía rectal, debido al riesgo de complicaciones que presentan.\n\n- Espasmolíticos (hioscina).\n\n- Haloperidol.\n\n- Esteroides: dexametasona.\n\nSi no ceden los vómitos, se debería valorar el sondaje nasogástrico conectado a una bolsa para vaciamiento gástrico por gravedad, e indicar dieta absoluta (MIR 02- 03, 56). El tratamiento antiemético de elección en la obstrucción intestinal maligna completa refractaria es el octeótido (MIR 05- 06, 137)."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Varón de 75 años con diagnóstico de un adenocarcinoma de próstata con metástasis óseas. Acude a urgencias por dolor lumbar agudo con imposibilidad para caminar. A la exploración física se aprecia debilidad distal de miembros inferiores y una retención aguda de orina. Usted solicita una prueba de urgencia que confirma la sospecha clínica. ¿Cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "La prueba diagnóstica de elección es la RM urgente.",
+        "De confirmarse la sospecha, hay que administrar dosis altas de dexametasona.",
+        "El segmento medular más afectado es el lumbosacro.",
+        "La Radioterapia es una alternativa a la cirugía en pacientes no candidatos por grado de afectación o pronóstico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La compresión medular debe sospecharse en pacientes con metàstasis óseas que tienen aumento del dolor junto a alteraciones autonómicas, motoras o sensitivas en miembros inferiores. La prueba principal para el diagnóstico es una RM urgente para valorar el grado de compromiso del canal medular. El segmento medular más afectado es el torácico, seguido del lumbosacro. El tratamiento es multimodal e implica la Dexametasona en conjunto con el tratamiento de radioterapia y/o quirúrgico (en función del grado de afectación y pronóstico del paciente)."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Varón de 75 años con diagnóstico de un adenocarcinoma de próstata con metástasis óseas. Acude a urgencias por dolor lumbar agudo con imposibilidad para caminar. A la exploración física se aprecia debilidad distal de miembros inferiores y una retención aguda de orina. Usted solicita una prueba de urgencia que confirma la sospecha clínica. ¿Cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "La prueba diagnóstica es un TC con contraste.",
+        "De confirmarse la sospecha, hay que administrar dosis altas de dexametasona.",
+        "Será necesaria una valoración por Traumatología para ver si el paciente es candidato a cirugía.",
+        "La Radioterapia es una alternativa a la cirugía en pacientes no candidatos por grado de afectación o pronóstico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "El fármaco oncológico derivado del 5-FU que se usa como tratamiento en el cáncer de mama y colorrectal y que presenta la particularidad de poder administrarse por vía oral se denomina:",
+      "opciones": [
+        "Oxaliplatino.",
+        "Ciclofosfamida.",
+        "Irinotecán.",
+        "Capecitabina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La capecitabina es un profármaco de uso creciente, debido a la comodidad en su administración, ya que es de los pocos tratamientos quimioterápicos que pueden ser administrados oralmente. Se utiliza en el tratamiento neoadyuvante del cáncer de recto en combinación con la radioterapia, así como en el de mama, esófago y estómago (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Respecto a los tratamientos hormonales en Oncología, ¿cuál de las siguientes relaciones entre tratamiento hormonal y neoplasia es falsa?",
+      "opciones": [
+        "Tamoxifeno - Cáncer de mama.",
+        "Letrozol - Cáncer de Cérvix.",
+        "Octreótide - Tumores neuroendocrinos.",
+        "Abiraterona- Cáncer de Próststa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Varón de 52 años en tratamiento analgésico por dolor crónico canceroso. Comienza con un cuadro de irritabilidad, tristeza, alucinaciones y estimulación psicomotora. Señale cuál de los siguientes fármacos considera que es el causante del cuadro:",
+      "opciones": [
+        "Paracetamol.",
+        "Pentazocina.",
+        "Codeína.",
+        "Morfina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta algo complicada sobre los efectos neuropsiquiátricos de los analgésicos. No te preocupes si la has fallado. Descartamos el paracetamol rápidamente por su ausente de toxicidad en neuropsiquiátrica. Nos quedan tres opioides: dos agonistas puros (morfina y codeína) y un agonista/antagonista (pentazocina). La pentazocina es un opioide sintético con acción agonista kappa y antagonista mu; comparte muchos efectos secundarios con los agonistas mu puro, y presenta más efectos neuropsiquiátricos (delirios, alucinaciones, pesadillas) y cardiacos (hipertensión, taquicardia - respuesta 2 correcta -)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Con respecto a los subtipos moleculares del cáncer de mama, es INCORRECTO que:",
+      "opciones": [
+        "Adenocarcinoma con receptores estrogénicos positivos, negatividad para receptores de progesterona y HER-2, y Ki67 2% se corresponde al subtipo luminal A, con buena respuesta a la quimioterapia.",
+        "El subtipo luminal B tiene peor pronóstico que el luminal A.",
+        "La sobreexpresión de HER-2 conlleva mal pronóstico, mayor agresividad biológica y alta quimiosensibilidad.",
+        "Los tumores Basal-Like, caracterizados por tener receptores hormonales negativos y HER-2 negativos presentan más frecuentemente afectación ganglionar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La opción de respuesta sobre los tumores luminal A a la quimioterapia es bastante pobre (opción 1 incorrecta, por lo que la marcamos). Las demás opciones de respuesta son correctas."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "¿Cúal de las siguientes herrameintas resulta menos útil en la toma de decisiones sobre estrategias terapeúticas en oncología desde el enfoque de la gestión clínica?",
+      "opciones": [
+        "La medicina basada en la evidencia",
+        "Los informes de evaluación tecnológica",
+        "La experiencia profesional individual",
+        "Las búsquedas sistemáticas de información"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La experiencia profesional puede resultar de utilidad en el enfoque clínico de un paciente pero nunca debe tener peso a la hora de tomar decisiones terapéuticas en un contexto de coste-efectividad de los tratamientos"
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Paciente de 40 años, con exploración física normal, en el que se ha puesto en evidencia en la tomografía computarizada una masa mediastínica y un nódulo hepático, y en la analítica una elevación sérica de lactato deshidrogenasa (LDH), beta-gonadotropina coriónica humana (beta-HCG) y alfafetoproteína. ¿Cuál es su sospecha diagnóstica?",
+      "opciones": [
+        "Hepatocarcinoma metastásico.",
+        "Seminoma extragonadal metastásico.",
+        "Linfoma mediastínico.",
+        "Cáncer de células germinales no seminomatoso extragonadal metastásico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Una masa mediastínica en un varón joven con niveles elevados de beta-HCG y alfafetoproteína probablemente corresponda a un tumor germinal no seminomatoso (respuesta 4 correcta). Recuerda que los seminomas no suelen tener niveles elevados de alfafetoproteína."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Un varón de 50 años acude a urgencias por astenia. Está afecto de un Melanoma BRAF wild-type con afectación hepática. Está recibiendo tratamiento de 1 línea con Pembrolizumab con respuesta parcial como mejor respuesta. A su llegada a urgencias, TA 140/85 mmHg, FC 80 lpm y SaO2 98% sin otros hallazgos de interés en la exploración física. Analítica de sangre con TSH elevada y T3 por debajo del límite de la normalidad. ¿Cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "Sospecha de hipotiroidismo relacionado con la inmunoterapia.",
+        "Iniciamos tratamiento sustitutivo con Levotiroxina.",
+        "El tratamiento con corticoides (Metilprednisolona o Prednisona) resolverá el hipotiroidismo al estar relacionado con la inmunoterapia.",
+        "No es necesario parar el tratamiento con Pembrolizumab."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los trastornos del tiroides (hipotiroidismo y/o hipertiroidismo) relacionados con la inmunoterapia son la endocrinopatía más frecuente asociado al uso de estos fármacos. La destrucción de la glándula por parte de los linfocitos del paciente es la causa del mismo. A diferencia de los trastornos no-endocrinos, el tratamiento es puramente sustitutivo (sin necesidad de corticoides) y se puede continuar el tratamiento con inmunoterapia en la gran mayoría de ocasiones."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Respecto a los tratamientos biológicos en Oncología, ¿cuál de las siguientes asociaciones entre biológico y mecanismo de acción es cierta?",
+      "opciones": [
+        "Bevacizumab - Antcuerpo anti-EGFR.",
+        "Dafrafenib - Inhibidor tirosina kinasa de HER-2.",
+        "Nivolumab - Anticuerpo anti-PD-1.",
+        "Sunitinib - Inhibidor tirosina-kinasa BCR-ABL, c-Kit y PDGFR."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Mujer de 65 años que hace tres meses presentó un cuadro de erupción cutánea vesicante sobre el dermatoma D6 derecho, acompañado de un dolor muy intenso. Tras la formación de costras el cuadro se resolvió, pero persiste dolor moderado que se intensifica al roce y le impide el uso de ropa interior sobre el dermatoma afectado. En esta situación, ¿qué tratamiento NO sería recomendable?",
+      "opciones": [
+        "Gabapentina oral.",
+        "Ibuprofeno oral.",
+        "Capsaicina tópica.",
+        "Lidocaína tópica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico sobre neuralgia postherpética, tema que aparece recogido en el manual CTO de Geriatría. Los analgésicos no opioides (paracetamol, metamizol, antiinflamatorios no esteroideos e inhibidores selectivos de la ciclooxigenasa-2) NO son eficaces en pacientes con dolor neuropático, SOLO en aquellos con dolor nociceptivo de intensidad leve-moderada. Además, los AINEs, incluidos los inhibidores la COX-2, deberían ser utilizados lo menos posible en el anciano, estando contraindicados en aquellos con alto riesgo gastrointestinal, cardiovascular o renal (marcamos la opción de respuesta 2). En lo que respecta al dolor neuropático, es decir, el producido por el daño o alteración de estructuras del sistema nervioso, debe ser tratado con opioides (por ejemplo, tramadol, oxicodona, tapentadol y buprenorfina), antiepilépticos (por ejemplo, gabapentina, pregabalina y carbamacepina), antidepresivos (por ejemplo, venlafaxina y duloxetina) y agentes tópicos (por ejemplo, lidocaína y capsaicina)."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Dos meses después de finalizar un tratamiento por un linfoma difuso de células grandes, una paciente de 42 años comienza a presentar disnea de medianos esfuerzos y ortopnea. En la radiografía de tórax se aprecia una cardiomegalia global y la eco calcula una fracción de eyección del 40%. A este respecto, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Pensaría en primer lugar en una miocardiopatía dilatada por antraciclinas.",
+        "Es la forma de presentación habitual de las metástasis pericárdicas de un linfoma.",
+        "El paciente seguramente ha sido tratado con bendamustina en monoterapia.",
+        "Es muy probable que la presión del pulso o de la presión diferencial esté aumentada."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico sobre una miocardiopatía dilatada y, en este paciente, la principal sospecha será una toxicidad por adriamicina (respuesta 1 correcta), que forma parte de la pauta CHOP."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Una mujer de 89 años diagnosticada de un adenocarcinoma de colon con metástasis hepáticas. Acude a la consulta tres semanas después del diagnóstico con estreñimiento de tres tías de evolución sin nauseas ni vómitos. A la exploración clínica el abdomen es blando, depresible y con ruidos presentes. La paciente toma 20 mg día de cloruro mórfico desde el diagnóstico, con dolor abdominal controlado. ¿Cuál considera que es la actitud terapéutica más adecuada?",
+      "opciones": [
+        "Bajar dosis de opioides a la mitad.",
+        "Pautar un laxante osmótico y comprobar mediante un tacto rectal que no exista impactación fetal.",
+        "Pautar un procinético.",
+        "Realizar una TC urgente ante la sospecha de obstrucción intestinal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nuestra paciente presenta un cuadro de estreñimiento. Su abdomen es blando y presenta ruidos (opción 4 incorrecta). La paciente presenta adecuado control del dolor por lo que bajar la dosis no sería adecuado (opción 1 incorrecta). Entre los principales efectos adversos de los opiáceos uno de los más frecuentes es el estreñimiento por disminución de la motilidad intestinal. En primer lugar habría que descartar que nuestra paciente tiene un fecaloma, cuyo tratamiento sería en primer lugar la extracción manual. Posteriormente añadiremos un laxante al tratamiento (opción 2 correcta)."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Varón de 71 años, afecto de un adenocarcinoma de próstata Gleason score 4+5, T3bN1M1b (óseas) en tratamiento con análogos de la GnRH, que acude a la consulta de su urólogo habitual. El paciente refiere empeoramiento del dolor en la zona dorsal. En la analítica destacan PSA 30 ng/dL (previo de 5 ng/dL) junto a testosterona 0,87 nmol/L. Se amplía el estudio con gammagrafía ósea que muestra un aumento del número y la captación de las lesiones óseas. Con respecto a la situación de este paciente, es FALSO que:",
+      "opciones": [
+        "No es necesario estudiar si hay alteraciones moleculares en el receptor de andrógenos para determinar el mejor tratamiento.",
+        "El paciente cumple criterio de un cáncer de próstata resistente a la castración.",
+        "El aumento del dolor óseo condiciona un cambio del tratamiento.",
+        "El paciente se puede beneficiar de tratamiento con acetato de abiraterona."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los criterios de cáncer de próstata resistente a la castración son los siguientes: Testosterona < 50 ng/dL ) o < 1,7 nmol/L y uno de los siguientes:\n\n- Progresión bioquímica: 3 elevaciones consecutivas del PSA separadas al menos 1 semana que tienen como resultado dos incrementos del 50% sobre el PSA nadir y siempre con un PSA > 2 ng/mL.\n\n- Progresión radiológica: aparición de dos o más lesiones nuevas en la gammagrafía ósea o una nueva lesión de tejidos blandos según los criterios Response Evaluation Criteria.\n\nLa progresión sintomática no es un criterio suficiente para cumplir criterio de cáncer de próstata resistente a la castración y, por lo tanto, un cambio de tratamiento en el paciente (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Respecto a la epidemiología del cáncer, ¿cuál de las siguientes afirmaciones es cierta?",
+      "opciones": [
+        "El cancer es la segunda causa de mortalidad en España por debajo de las enfermedades cardiovasculares.",
+        "El tumor más diagnosticado en hombres en España es el de pulmón.",
+        "El tumor que acumula más muertes por cancer en España es el cancer de colon.",
+        "El tumor más diagnosticado en mujeres en España es el de origen colorectal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "¿Cuál de las siguientes relaciones entre factor de riesgo y neoplasia es falsa?",
+      "opciones": [
+        "Tabaco - Cáncer gástrico.",
+        "Asbesto - Cáncer de pulmón.",
+        "Ahumados - Cáncer de páncreas.",
+        "VEB - Carcinoma de cávum."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Comentada en vídeo"
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Respecto al RECIST (Response Evaluation Criteria In Solid Tumors), ¿Cuál de las siguientes afirmaciones es falsa?",
+      "opciones": [
+        "Es un método de medida de la respuesta al tratamiento basado en técnicas de imagen (fundamentalmente, TC).",
+        "Se basa en medir las diferencias entre los diámetros de lesiones \"diana\" previamente seleccionadas.",
+        "Un aumento de la suma de los diámetros del 15% se considera \"progresión de la enfermedad\".",
+        "El derrame pleural o la carcinomatosis peritoneal son consideradas lesiones no medibles."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los criterios RECIST son unos criterios objetivos que nos permiten evaluar mediante métodos radiológicos (fundamentalmente la TC) el efecto de un tratamiento anti-neoplasico a nivel sistémico. Se basa en la elección de unas lesiones fácilmente identificables que se pueden seguir en diferentes prubeas de imagen y comparar la suma de sus diámetros. Hay algunas lesiones (derrame pleural, derrame pericárdico, carcinomatosis peritoneal) que se consideran lesiones no medibles. Se considera progresión de la enfermedad un aumento del 20% en la suma de los diámetros o la aparición de lesiones nuevas (fundamentalmente)."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "En un paciente con cáncer de pulmón sin comorbilidad, la combinación de quimioterapia y radioterapia es el tratamiento de primera elección en:",
+      "opciones": [
+        "Cáncer de célula no pequeña estadio I.",
+        "Nódulo pulmonar solitario.",
+        "Cáncer de célula no pequeña estadio II.",
+        "Cáncer de célula pequeña."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los CPCNP estadios I y II suelen ser quirúrgicos la gran mayoría, por lo que solo quede plantearse si hay que hacer QT adyuvante. El nódulo pulmonar solitario no va a recibir tratamiento si no hay diagnóstico de malignidad. Por descarte queda la opción 4. Solo un 30% de los pacientes con SCLC debutan con enfermedad limitada al tórax. Muy pocos son candidatos a cirugías. Para el resto de pacientes, la QT-RT (si se puede abarcar el tratamiento dentro del campo) es una opción a valorar. La mayoría de pacientes con SCLC, a pesar de ello, debutan en estadio IV."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "¿Cuál de estos subtipos celulares presenta mayor sensibilidad a las radiaciones ionizantes?",
+      "opciones": [
+        "Eosinófilos",
+        "Hematies",
+        "Plaquetas",
+        "Linfocitos"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los linfocitos, por su vida media más corta y mayor número de mitosis es más sensible a las radiaciones ionizantes"
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Paciente de 67 años que acude a nuestra consulta por tos y pérdida de peso. Según refiere el paciente, lleva con esta sintomatología cerca de tres meses en los que ha perdido alrededor de 5 kg de peso. Su mujer está muy preocupada y le ha insistido en múltiples ocasiones que pidiera consulta con el médico, de hecho, fue ella quien solicitó la consulta actual. Viendo los antecedentes del paciente (fumador con un IPA de 25) y la sintomatología, solicitamos una radiografía de tórax donde apreciamos una atelectasia derecha. Ante la sospecha de posible neoplasia solicitamos consulta en Neumología, donde una semana después se le realiza una broncoscopia con resultado de carcinoma epidermoide de pulmón de localización hiliar en lóbulo medio del pulmón derecho. Atendiendo a la anatomía patológica, ¿cuál de los siguientes fármacos estaría completamente CONTRAINDICADO en este tipo de neoplasia?",
+      "opciones": [
+        "Cisplatino.",
+        "Gemcitabina.",
+        "Pembrolizumab.",
+        "Bevacizumab."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de oncología en la que nos presentan cuatro fármacos muy utilizados en el momento actual en la quimioterapia. Es importante conocerlos y saber cuándo se usan. Nos presentan a un paciente que tiene una neoplasia pulmonar de estirpe epidermoide, de hecho y según nos dice el enunciado: \"atendiendo a la anatomía patológica\" era lo único importante y necesario para obtener el punto. Teniendo conocimientos de neumología, sabríamos que el cáncer de pulmón epidermoide se trata con Cisplatino + Gemcitabina. Si bien es cierto, que esto no era necesario para obtener el punto aquí. Nos bastaba con saber que a los tumores epidermoides pulmonares nunca se les podría tratar con bevacizumab debido al elevado riesgo de hemorragia que presentan (respuesta 4 correcta). El bevacizumab se administra por vía i.v. cada dos a tres semanas y se tolera satisfactoriamente. Se ha detectado un aumento de la incidencia de HTA, pero solo en pocos casos fue necesario el uso de antihipertensivos. Algunos efectos graves, aunque poco comunes, son el mayor riesgo de fenómenos tromboembólicos y en personas con cáncer epidermoide de pulmón y en grandes tumores centrales cerca de los grandes vasos del mediastino hubo un mayor riesgo de hemorragia. Este efecto adverso podría ser letal."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Respecto a las de las células malignas del cáncer,, ¿cuál de las siguientes afirmaciones es cierta?",
+      "opciones": [
+        "La expresión de telomerasas impide la pérdida de tamaño de los telómeros.",
+        "Existe un aumento de la expresión de moleculas de adhesión que favorecen la invasión tisular.",
+        "Es necesaria la estimulación por factores de crecimiento externos para la proliferación.",
+        "Los niveles bajos de VEGF favorecen la neoangiogénesis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las células tumorales tienen unas características muy especiales. Son células que tinenen capacidad de proliferación independiente de factores de crecimiento (por ejemplo, las mutaciones de KRAS hacen a la célula independiente de EGFR) y con potención ilimitado (a lo que contribuye el aumento de telomerasa). Además tienen capacidad de invasión de tejidos locales (mediante la pérdida de moleculas de adhesión o la síntesis de metaloproteasas entre otras) así como a distancia. Finalmente, también son capaces de inducir la formación de vasos sanguineos (para asegurar una buena vascularización) mediante la sintesis de altos niveles de VEGF o PDGF entre otras."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Fernando tiene 57 años y está en tratamiento quimio-radioterápico debido a un cáncer de orofaringe. Acude a Urgencias por sequedad de boca e intensa odinofagia que ha ido complicando la deglución hasta impedir por completo la ingesta alimentaria, aunque aún tolera los líquidos. Al explorar la cavidad oral se observan eritema y úlceras múltiples. Respecto a su sospecha diagnóstica, indique la afirmación CORRECTA:",
+      "opciones": [
+        "Constituye una complicación frecuente del tratamiento del paciente cuyo diagnóstico es fundamentalmente clínico.",
+        "Lo más probable es que se trate de una progresión tumoral con infiltración del epitelio de la cavidad oral, por lo que deberíamos remitir al paciente a su oncólogo para valoración de las diferentes opciones de tratamiento.",
+        "El tratamiento principal de nuestro paciente es la colocación inmediata de una SNG para nutrición parenteral dada la imposibilidad de ingesta.",
+        "Deberemos evitar en todos los casos la utilización de opiáceos y nutrición parenteral ya que empeoran el pronóstico de esta entidad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico sugestivo de una mucositis, complicación que aparece en un 30-50% de los pacientes en tratamiento quimioterápico y en hasta un 90-100% de los pacientes en tratamiento con radioterapia sobre la cavidad oral (respuesta 1 correcta). Evoluciona desde el eritema hasta las vesículas o úlceras hemorrágicas, pudiendo llegar a complicarse e incluso ser la puerta de entrada de una septicemia. El diagnóstico es fundamentalmente clínico, requiriendo la toma de muestras en caso de sospechar sobreinfección y analítica si sospechamos su coexistencia con neutropenia. El tratamiento se basa en medidas higienicodietéticas (hidratación, higiene oral) y en enjuagues antisépticos combinados con anestésicos tópicos para el control del dolor. En casos graves de mala evolución pese al tratamiento debemos plantear la posibilidad de tratamiento con opiáceos parenterales, dieta absoluta y nutrición parenteral hasta la resolución del cuadro."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "Indique en que situación no se encuentra incrementado el riesgo de desarrollo de cáncer de tiroides:",
+      "opciones": [
+        "Exposición a radiación ionizante",
+        "Síndrome MEN-1",
+        "Síndrome de Cowden",
+        "Síndrome de Gardner"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Entre los factores de riesgo del cáncer de tiroides se encuentran:\n\nExposición a radiación ionizante\n\nContenido de iodo en la dieta\n\nHistoria familiar de cáncer tiroideo\n\nMEN-2 (Multiple Endocrine neoplasia Type 2) que asocia riesgo de carcinoma medular de tiroides\n\nSíndrome de Cowden que asocia riesgo de carcinoma papilar de tiroides\n\nSíndrome de Gardner que asocia riesgo de carcinoma papilar de tiroides"
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "Entre las características que presentan las células tumorales y que las diferencian de las células sanas NO encontramos:",
+      "opciones": [
+        "Relación núcleo-citoplasma desplazada a favor del núcleo.",
+        "Inhibición del envejecimiento celular mediante la inhibición de la enzima telomerasa.",
+        "Aumento de la vascularización mediante inducción de agentes angiogénicos.",
+        "Resurgimiento del fenotipo fetal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las células malignas presentan numerosas diferencias que les confieren, por lo general, una ventaja biológica frente a las células sanas, como son la inhibición del envejecimiento celular (gracias a la SOBREEXPRESIÓN de la telomerasa —marcamos la opción de respuesta 2—, que impide que se acorten los telómeros de los cromosomas), el aumento de la angiogénesis, o la desdiferenciación o resurgimiento del fenotipo fetal, que implica la expresión de moléculas típicas de células embrionarias que pueden ser utilizadas como marcadores tumorales."
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "materia": "anastesiologia",
+  "paginaInicio": 22,
+  "paginaFin": 41,
+  "anomalias": [
+    "p22: el enunciado usa subíndice y superíndice tipográficos (pCO₂, K⁺) que se transcriben en línea como 'pCO2' y 'K+'",
+    "p23: el comentario pierde las ligaduras 'ti'/'fi' en varias palabras ('úniceamente', 'estado sico' por 'estado físico', 'No ene en cuenta' por 'No tiene en cuenta', 'cualita va' por 'cualitativa'); se transcribe tal cual aparece",
+    "p23: el comentario linealiza dos listas con viñetas (categorías ASA y características de la escala); se transcriben como líneas con viñeta dentro de la explicación",
+    "p24: Resp. Correcta 2 en la pregunta de las guías ERAS, pero el comentario escribe '(Opción 3 falsa)'",
+    "p25/p26: la pregunta del paciente de 45 años con cefalea tras punción lumbar aparece duplicada, en p25 y otra vez en p26, con redacción casi idéntica, mismas opciones y misma clave (2); se emiten ambas por empezar cada enunciado en su página",
+    "p30: el comentario linealiza la regla mnemotécnica OBESE (una letra por párrafo)",
+    "p37: Resp. Correcta 2 (opción 2 = ASA III) pero el comentario cierra el párrafo del Grupo II con 'Opción 1 correcta'",
+    "p40-p41: el comentario de la pregunta de Mallampati remite a imágenes que no están en las páginas rasterizadas ('A continuación podéis observar las imágenes donde se clasifican ambos tests', 'Como se puede observar en la imagen'); en p41 queda un hueco en blanco donde debían ir. Además el texto termina en 'test de Cormack-Lehane.1.' por un marcador de nota al pie pegado al punto",
+    "p40-p41: el comentario de la pregunta de Mallampati numera dos párrafos distintos como '2.' y no llega a un punto 3"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 22,
+      "enunciado": "Como anestesista de guardia le avisan por un paciente obeso que padece una obstrucción intestinal con datos de sufrimiento de asas. Analíticamente presenta Hb de 10 g/dL con 130.000 plaquetas; coagulación con INR 1,22 APTT 32; gasometría arterial con pH de 7,36; pCO2 de 30 mmHg; láctico de 3,9 mmol/L; bicarbonato 17 mEq/L; K+ 6,3 mEq/L; calcio en rango normal. Se le realiza un ECG sin alteraciones en el momento actual. Se propone anestesia general con inducción de secuencia rápida (ISR). Enfermería de quirófano le informa de que dispone de sugammadex en el repertorio farmacológico. A este respecto, es FALSO que:",
+      "opciones": [
+        "Dada la situación clínica del paciente se debe realizar ISR con succinilcolina por su acción corta para evitar el riesgo de broncoaspiración.",
+        "La intubación orotraqueal es la única opción de manejo de la vía aérea que minimiza el riesgo de broncoaspiración.",
+        "A pesar de tratarse de una cirugía abdominal en paciente obeso con alto riesgo de desaturación por baja reserva, no se debe realizar ventilación previa con mascarilla facial.",
+        "Es necesario tener disponibles dosis mayores de 4 mg/kg de sugammadex para su uso en la ISR."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico sobre ISR con un dato a destacar especialmente: la cifra de potasio. Aunque el ECG sea normal, el uso de succinilcolina en la ISR incrementa en torno a 0,5 mEq/L la cifra de potasio, con lo que existiría riesgo de producir una mayor hiperpotasemia y la aparición de complicaciones (opción 1 falsa, por lo que la marcamos); por ello se podría realizar ISR con rocuronio a dosis alta siempre que se tenga disponibilidad de sugammadex, que antagoniza el efecto del rocuronio y se debe usar a dosis de 16 mg/kg en caso de intubación no exitosa y necesidad de despertar al paciente."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "En relación a la escala ASA (American Society of Anesthesiologists). Para la valoración del riesgo anestésico, es falso que:",
+      "opciones": [
+        "Un varón de 68 años fumador, hipertenso, EPOC con oxígeno domiciliario y diabetes mellitus tipo II con complicaciones vasculares se clasifica como ASA III.",
+        "No tiene en cuenta el tipo de cirugía a la que va a ser sometido el paciente.",
+        "Una mujer de 97 años con hipertensión arterial controlada con tratamiento con un antihipertensivo como único antecedente se considera ASA II.",
+        "Presenta una correlación estadísticamente significativa con la mortalidad perioperatoria."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es la escala más utilizada para la valoración del riesgo anestésico, úniceamente evalúa el estado sico del paciente previamente a la cirugía y presenta una correlación estadísticamente significativa con la mortalidad perioperatoria:\n\n• ASA I: Paciente sano, salvo por el motivo de la cirugía\n• ASAII: Enfermedad sistémica leve o moderada sin limitaciones funcionales\n• ASAIII: Enfermedad sistémica grave con limitación funcional\n• ASA IV: Enfermedad sistémica grave que constituye una amenaza constante para la vida del paciente\n• ASA V: Paciente moribundo que no se espera que sobreviva más de 24 h sin intervención quirúrgica\n• ASA VI: Donante de órganos\n• ASA E: Sufijo que indica cirugía urgente (Emergency) para cualquiera de las categorías anteriores\n\nLas características más importantes de esta escala son :\n\n• No tiene en cuenta la edad del paciente, sino las morbilidades que éste presenta.\n• No tiene en cuenta el tipo de cirugía a la que va a ser sometido el paciente.\n• No ene en cuenta ningún valor analítico ni de pruebas funcionales que puedan realizarse al paciente en la valoración preoperatoria. Aporta una valoración cualita va del riesgo anestésico, no una valoración cuantitativa del riesgo quirúrgico global.\n\nLa enfermedad de EPOC que requiere el uso de oxígeno crónico domiciliario se considera una condición que amenaza la vida del paciente, por lo tanto pertenecería a un grupo de riesgo ASA IV."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "De las siguientes intervenciones quirúrgicas, las que suponen un MAYOR riesgo anestésico son:",
+      "opciones": [
+        "Amputaciones de miembros.",
+        "Laparotomías infraumbilicales.",
+        "Lumbotomías",
+        "Intervenciones tóracoabdominales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El riesgo anestésico-quirúrgico se valora durante la visita preanestésica e informa sobre la posibilidad de que se produzcan complicaciones graves, especialmente la muerte, durante el período perioperatorio. Durante dicha valoración al paciente, a través de los hallazgos en la Historia Clínica y las pruebas complementarias, se le clasifica con un ASA (Escala de la Sociedad Americana de Anestesiología) según la existencia o no de patología de base, que le confiere un riesgo quirúrgico independiente de la intervención que se le vaya a realizar. A su vez, el riesgo quirúrgico está relacionado con otros factores propios de la cirugía, como el tipo de intervención (máximo nivel de riesgo en intervenciones tóracoabdominales, como nos indican en la pregunta, torácicas, abdominales superiores y craneales) (Opción 4 Correcta); también influyen la indicación de la intervención, la duración de la misma (cuanto más larga, más difícil será controlar los factores que alteran la homeostasis), y la urgencia, concretamente la ausencia de adecuada preparación prequirúrgica. Con respecto al paciente, la edad, ya sea avanzada por la mayor incidencia de enfermedades asociadas, o los recién nacidos y lactantes por su limitada tolerancia cardiopulmonar, son factores que aumentan el riesgo de una cirugía."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "En relación a las recomendaciones nutricionales en las guías ERAS, señale la falsa:",
+      "opciones": [
+        "Se pueden ingerir alimentos sólidos hasta 6h antes de la cirugía o inducción anestésica.",
+        "No deben administrarse carbohidratos en el preoperatorio de forma rutinaria.",
+        "A los pacientes se les debe permitir una dieta normal después de la cirugía, sin restricciones.",
+        "Los pacientes pueden ingerir líquidos claros hasta 2h antes de la cirugía o inducción anestésica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se recomienda la administración de bebidas carbohidratadas (200-300cc) con 12,5 % de maltodrextinas, dos horas antes de la intervención, de forma regular, puesto que esto reduce la ansiedad y la resistencia a la insulina (Opción 3 falsa). Así como, las pérdidas de nitrógeno y de masa muscular, permitiendo una recuperación más rápida con disminución de la estancia hospitalaria. Ante un paciente diabético tipo 2, sin complicaciones, puede contemplarse antes de la cirugía, ofrecerle la ingesta de una bebida carbohidratada. Esta puede administrarse junto con su medicación antidiabética.\n\nEl ayuno se limitará a 6 horas para sólidos y a 2 horas para líquidos, incluidos pacientes obesos y diabéticos puesto que está ampliamente demostrado que un ayuno mayor de ocho horas no aporta ningún beneficio.\n\nLos modelos de recuperación intensificada proponen el inicio de la alimentación oral temprana frente al concepto tradicional de dieta absoluta postoperatoria."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Varón de 43 años que acude para hemicolectomía izquierda por adenocarcinoma de colon descendente. En la valoración anestésica, usted advierte que el paciente había sido diagnosticado de trastorno bipolar hace 15 años. Debido a sus frecuentes recaídas ha requerido añadir al litio un segundo fármaco, el ácido valproico, para conseguir un adecuado control. ¿Qué estrategia de tratamiento debería pautar previa a la cirugía?:",
+      "opciones": [
+        "Suspender el litio una semana antes y el ácido valproico un día antes",
+        "Suspender el ácido valproico un día antes y el litio un día antes",
+        "Continuar terapia hasta la noche antes con ambos fármacos",
+        "Ninguna, la terapia podría administrarse incluida el día de la cirugía"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La mayoría de los tratamientos crónicos se mantienen hasta la noche de antes o hasta la misma mañana de la intervención. Algunas excepciones serían la metformina, los anticoagulantes, los antiagregantes o los fármacos antirreumáticos modificadores de la enfermedad, que se deberían suspender previamente teniendo en cuenta siempre el riesgo/beneficio (Opción 4 Correcta)."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Paciente de 45 años en estudio por posible meningitis, con fiebre, cefalea y vómitos de dos días de evolución. Le realizan una RM cerebral y una punción lumbar. Veinte horas después, al levantarse para ir al baño, se queja de cefalea intensa, muy marcada al incorporarse, pero que desaparece al tumbarse. Ya no presenta fiebre ni vómitos. No puede caminar. ¿Cuál es con MÁS probabilidad el origen de esta cefalea?",
+      "opciones": [
+        "La meningitis sigue siendo la causa fundamental de su cefalea, pues es el mismo tipo de cefalea que al inicio de los síntomas.",
+        "Es una cefalea postpunción lumbar.",
+        "Hay que buscar una causa diferente a esa cefalea, pues no es típica del síndrome postpunción lumbar ni de la meningitis.",
+        "Lo más probable es que no fuera una meningitis viral, sino una hemorragia subaracnoidea. Por este motivo, la cefalea inicial desaparece casi complemente al tumbarse."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El caso clínico de la pregunta muestra claramente una cefalea postpunción dural (Opción 2 Correcta). Recordemos que este tipo de cefalea es un dolor no pulsátil, generalmente frontooccipital, que aparece típicamente después de una punción dural por fuga de líquido cefalorraquídeo. Es muy característico de este dolor que mejora en decúbito y empeora en bipedestación. El tratamiento de este cuadro se hará con AINEs y corticoides. Si este tratamiento fracasa, se podría realizar un parche hemático."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Un paciente que se encuentra en la Reanimación tras tiroidectomía total por bocio multinodular gigante comienza con sensación disneica paulatina, desaturación progresiva hasta 85%. ¿Qué no sería lo más indicado en el manejo?:",
+      "opciones": [
+        "Administrar suplemento de O2 al 100%.",
+        "Quitar grapas/ puntos de sutura.",
+        "Inducción anestésica para intubación.",
+        "Revisión quirúrgica inmediata para drenaje y hemostasia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La causa principal de complicaciones respiratorias en un postoperatorio inmediato de cirugía de tiroides es el sangrado. El manejo fundamental de dicha situación urgente consiste en la descompresión inmediata del compartimento cervical, ya sea quitando las grapas o suturas existentes o realizando una nueva incisión para evacuar el hematoma que comprime el cuello. La administración de O2 al 100% estará indicada para la mejor oxigenación del paciente en la medida de lo posible. Sin embargo, debido a que el hematoma puede comprimir de forma crítica la vía aérea del paciente, y por lo tanto, puede modificar el Cormack previo, la inducción anestésica está contraindicada antes de la descompresión quirúrgica ya que supone la pérdida la ventilación espontánea del paciente sin tener asegurada la vía aérea. (Opción 3 Correcta)"
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Le llaman del servicio de Endocrinología y Nutrición para valorar la vía aérea de un paciente diagnosticado de síndrome de Cushing por un carcinoma suprarrenal que ha de ser intervenido. Debido a su obesidad, usted sospecha que el paciente tiene una vía aérea difícil. Para una adecuada valoración de la vía aérea, señale cuál NO se suele realizar en la consulta preanestésica:",
+      "opciones": [
+        "Test de la mordida",
+        "Distancia tiromentoniana",
+        "Test de Mallampati",
+        "Clasificación de Cormack-Lehane"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clasificación de Cormack-Lehane requiere de laringoscopia directa para visualizar la glotis, por lo cual se suele realizar en quirófano previa intubación (Opción 4). Las otras tres respuestas sí que se hacen en la consulta preanestésica para estimar si existe vía aérea difícil o no."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Paciente de 45 años en estudio por posible meningitis, con fiebre, cefalea y vómitos de 2 días de evolución. Le realizan una RM cerebral y una punción lumbar. Veinte horas después, al levantarse para ir al baño, se queja de cefalea intensa, muy marcada al incorporarse, pero desaparece al tumbarse. Ya no presenta fiebre ni vómitos. No puede caminar. ¿Cuál es con más probabilidad el origen de esta cefalea?",
+      "opciones": [
+        "La meningitis sigue siendo la causa fundamental de su cefalea, pues es el mismo tipo de cefalea que al inicio de síntomas.",
+        "Es una cefalea post-punción lumbar.",
+        "Hay que buscar una causa diferente a esa cefalea, pues no es típica del síndrome post-punción lumbar ni de la meningitis.",
+        "Lo más probable es que no fuera una meningitis viral, sino una hemorragia subaracnoidea. Por este motivo, la cefalea inicial desaparece casi complemente al tumbarse."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El caso clínico de la pregunta muestra claramente una cefalea postpunción dural (opción 2 correcta). Recordemos que este tipo cefalea es un dolor no pulsátil generalmente frontooccipital que aparece típicamente después de una punción dural por fuga de líquido cefaloraquídeo. Es muy característico de este dolor que mejora en decúbito y empeora en bipedestación. El tratamiento de este cuadro se hará con AINEs y corticoides. Si este tratamiento fracasa se podría realizar un parche hemático."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Al evaluar la vía aérea de un paciente durante la consulta preanestésica podemos encontrar diferentes hallazgos. Señale el que NO es un predictor de vía aérea difícil:",
+      "opciones": [
+        "Mallampati IV.",
+        "Apertura bucal < 3 cm (distancia interincisivos).",
+        "Distancia tiromentoniana > 6,5 cm.",
+        "Imposibilidad de morder el labio superior con los incisivos inferiores."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La valoración de la vía aérea difícil constituye un tema de moda y que puede volver a ser preguntado. Recordemos el acrónimo LEMON: L: Look externaly (retrognatia, macroglosia, bocio, etc.) / E: Evaluate, seguimos regla del 3-3-2: distancia entre incisivos MAYOR de tres dedos. Entre hueso hioides y mentón MAYOR tres dedos. Entre escotadura tiroidea y piso de la boca MAYOR de dos dedos / M: Mallampati / O: Obstruction (masas, infecciones ORL, traumatismos, etc.) / N: Neck mobility. La distancia tiromentoniana > 6,5 cm no es un predictor de vía aérea difícil (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Con respecto a los pacientes en tratamiento con Sintrom por fibrilación auricular crónica pendientes de cirugía de colecistectomía, señale la actitud que se ha de seguir:",
+      "opciones": [
+        "Suspender Sintrom 3 días antes y sustituirlo por heparina de bajo peso molecular (HBPM).",
+        "No es necesario suspender los anticoagulantes para esta cirugía.",
+        "Suspender Sintrom 1 día antes y sustituir por HBPM.",
+        "Suspender Sintrom 24 horas antes y sustituir por Adiro 100."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La suspensión de Sintrom 3 días antes de una cirugía en un paciente con función renal normal es suficiente para eliminar su efecto anticoagulante (respuesta 1 correcta). Veamos las demás opciones de respuesta:\n\n2.- Es necesario suspender la anticoagulación por el riesgo hemorrágico.\n\n3.- Suspender Sintrom con 1 día de antelación no sería suficiente para eliminar el efecto anticoagulante en la mayoría de los casos.\n\n4.- Adiro 100 es un antiagregante plaquetario no un anticoagulante."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Paciente varón de 20 años sin antecedentes de interés que refiere que hace 1 hora mientras estaba comiendo jamón serrano sufre un importante corte en la mano al intentar cortar más. El paciente no presenta hemorragia abundante ni compromiso vascular ni nervioso. El cirujano sospecha la sección de algún tendón y quiere realizar una exploración en el quirófano de urgencias bajo anestesia general. Señale lo correcto:",
+      "opciones": [
+        "Meter al paciente con urgencia al quirófano. Ventilarle con una mascarilla laríngea ya que no está en ayunas.",
+        "Meter al paciente en quirófano, y realizar una inducción inhalatoria intentando que mantenga la ventilación espontánea.",
+        "Esperar las 6 horas de ayunas y después entrar con el paciente a quirófano.",
+        "Realizar la intervención solo con relajantes musculares como el rocuronio para que el paciente no se mueva durante el procedimiento."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta relativamente sencilla. Nos hablan de un paciente que no esta en ayunas y que sufre una lesión en una mano. No hay compromiso vascular ni nervioso con lo cual lo más prudente será esperar a las ayunas de 6 horas para sólidos y después realizar la cirugía (opción 3 correcta). En caso de decidir no esperar las ayunas habría que hacer una inducción de secuencia rápida e intubación (opciones 1 y 2 falsas)"
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Usted atiende en la consulta preanestésica a una paciente de de 29 años, sin alergias ni enfermedades conocidas, embarazada de 32 semanas. Como antecedentes quirúrgicos, refiere una apendicectomía hace 3 años, en la que no presentó dificultades para el manejo de la vía aérea ni incidencias anestésicas. Cuál de las siguientes afirmaciones con respecto al manejo de la vía aérea le parece incorrecta en este caso:",
+      "opciones": [
+        "Es importante tener un plan de actuación en caso de dificultad de manejo de la vía aérea aérea.",
+        "Hay un riesgo aumentado de broncoaspiración.",
+        "No es esperable tener dificultades en el manejo de la vía aérea ya que la paciente ha sido intubada previamente sin incidencias.",
+        "En el manejo de la vía aérea aérea y ventilación de esta paciente es importante tener en cuenta si el embarazo es gemelar ó no."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En una paciente embarazada siempre debemos presuponer un riesgo aumentado de vía aérea difícil debido a los cambios anatómicos propios del embarazo a nivel de la vía aérea superior (edema, aumento de vascularización, precisando tubos endotraqueales mas estrechos que en condiciones normales). Este riesgo esta aumentado incluso en pacientes intervenidas previamente sin antecedentes de dificultad de manejo de vía aérea. Por ello siempre tenemos que disponer de un plan de manejo de la vía aérea bien establecido antes de la inducción anestésica. Opción correcta 3.\n\nHay un mayor riesgo de broncoaspiración debido al aumento de la presión intrabdominal, siendo esta presión lógicamente mayor en un embarazo gemelar. Asimismo, una embarazada tiene un mayor consumo de oxígeno que una paciente no embarazada y una reserva funcional menor, con lo cual las desaturaciones en este caso pueden ser muy rápidas y dramáticas."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Mujer de 48 años intervenida de cáncer de tiroides mediante tiroidectomía total y vaciamiento cervical central con intraoperatorio y postoperatorio inmediato sin complicaciones, con extubación satisfactoria y conservación de la funcionalidad de los nervios laríngeos recurrentes. Transcurridas cinco horas desde la cirugía, el cirujano de guardia le avisa de urgencia a usted como anestesiólogo por hematoma asfixiante con repercusión respiratoria. La paciente acude a quirófano para evacuación del hematoma. Señale cuál de las siguientes afirmaciones relacionadas con el manejo anestésico es CORRECTA:",
+      "opciones": [
+        "Se debe realizar una intubación mediante laringoscopia directa bajo inducción de secuencia rápida (ISR).",
+        "Se debe monitorizar la PVC mediante canalización de vía venosa central antes del drenaje para monitorizar la repercusión hemodinámica y asegurar una intubación sin complicaciones.",
+        "Se debe drenar directamente el hematoma sin actuar sobre la vía aérea.",
+        "Se debe drenar directamente el hematoma sin aislamiento de la vía aérea premedicando con opioide y niveles bajos de benzodiacepinas para minimizar el estímulo nociceptivo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante un hematoma asfíctico sangrante lo que se debe hacer sin demora es evacuarlo para evitar la compresión de la vía aérea (respuesta 3 correcta). Intentar una inducción anestésica y posterior intubación es muy arriesgado al tratarse de una vía área difícil conocida. De igual forma, suelen ser pacientes con compromiso respiratorio y no se debe poner nada de medicación que facilite la depresión respiratoria debido al riesgo de que pierda la ventilación espontánea."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Es bien conocido el uso de la técnica epidural en numerosos procedimientos anestésicos con finalidad quirúrgica o analgésica. Es una técnica que debe realizarse en estrictas condiciones de asepsia y para la que se requiere una curva de aprendizaje amplia. La disposición del espacio epidural se puede abordar a nivel cervical, torácico, lumbar y caudal, y para ello se necesita avanzar una aguja específica a través de un recorrido delimitado por una serie de estructuras. Con respecto a la aguja epidural, señale el orden CORRECTO de las estructuras que recorre:",
+      "opciones": [
+        "Ligamento vertebral común posterior, interespinoso, supraespinoso y amarillo.",
+        "Ligamento amarillo y ligamento vertebral común posterior.",
+        "Ligamento supraespinoso, interespinoso y amarillo.",
+        "Ligamento supraespinoso y ligamento intraespinoso."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre anatomía relacionada con la técnica epidural. Puede ser algo compleja. El orden correcto de los ligamentos atravesados por la aguja epidural es supraespinoso, interespinoso y amarillo (respuesta 3 correcta). Justo después del ligamento amarillo se encuentra el espacio epidural y nunca se alcanza el ligamento vertebral común posterior (longitudinal posterior)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "En cuanto a la vía aérea difícil en anestesiología SEÑALE LO FALSO:",
+      "opciones": [
+        "En caso de tener una vía aérea difícil prevista lo más seguro suele ser intubar al paciente despierto.",
+        "Los pacientes sin dientes suelen ser más fáciles de ventilar con mascarilla facial por entrar mejor el aire a través de la boca.",
+        "La retrognatia en general dificulta la intubación.",
+        "Si el paciente no se puede intubar ni ventilar estamos ante una emergencia médica y es fundamental pedir ayuda."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda las condiciones que dificulta la ventilación con mascarilla facial con la regla mnemotécnica OBESE:\n\nO: Obesidad\n\nB: Barba\n\nE: Edad de más de 55 años\n\nS: SAHOS\n\nE: Edentulous o ausencia de dientes (respuesta 2 falsa)"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Cuál de las siguientes NO es indicación aceptada de realización preoperatoria de un electrocardiograma?",
+      "opciones": [
+        "Paciente con FRCV (factores de riesgo cardiovascular).",
+        "Paciente con hipercolesterolemia e historia de cardiopatía isquémica.",
+        "Exploración física sugestiva de patología cardiovascular.",
+        "Paciente de edad superior a 40 años."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los factores de riesgo cardiovascular, así como los hallazgos clínicos o exploratorios sugestivos de patología cardiovascular, son indicación de realización preoperatoria de un electrocardiograma; por lo tanto, todas las opciones de respuesta, excepto la opción 4 que debemos marcar, son indicación clara de electrocardiograma. Sin embargo, en pacientes sanos, se indica esta prueba complementaria preoperatoria en pacientes mayores de 45 años, incluso ASA-I."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Qué riesgo según la ASA (American Society of Anesthesiologists) tendría un paciente de 40 años con HTA y con un IMC de 42:",
+      "opciones": [
+        "ASA I",
+        "ASA II",
+        "ASA III",
+        "ASA IV"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "ASA III (opción 3 correcta): Paciente con alguna alteración sistémica grave que produce limitación funcional definida (Angor, HTA no controlada, diabetes no controlada, EPOC, historia de IAM, obesidad mórbida.)"
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Mujer de 43 años que acude a consulta para la valoración de una tiroidectomía programada debido a un bocio simple que había crecido en los últimos años y que comenzaba a comprometer la vía aérea. Como antecedentes personales destacan sobrepeso (IMC 26) e hipercolesterolemia. Niega enfermedad cardíaca ni pulmonar. Vida sedentaria. Tratamiento habitual: Simvastatina 20 mg/24 horas. Exploración física: peso 69 kg; talla 162 cm; presión arterial 132/80 mmHg; frecuencia cardíaca 60 lpm. Auscultación cardiopulmonar normal. Con respecto al ayuno preoperatorio, ¿cuál de las siguientes informaciones que se le presentan a la paciente es CIERTA?",
+      "opciones": [
+        "Se recomienda el uso rutinario de fármacos para disminuir el riesgo de aspiración pulmonar (antieméticos, estimulantes gastrointestinales, anticolinérgicos, etc.) en todos los pacientes que se vayan a someter a una intervención quirúrgica.",
+        "En las 12 horas previas a la cirugía el paciente no puede ingerir ningún tipo de alimento.",
+        "Las medicaciones crónicas están permitidas hasta las 24:00 h de la noche anterior a la cirugía.",
+        "La ingesta de agua está permitida hasta 2 horas antes de la inducción anestésica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El ayuno preanestésico tiene como objetivo minimizar el riesgo de aspiración pulmonar asociado a la pérdida de factores protectores de la vía aérea. El tipo de alimento se relaciona con la rapidez del vaciamiento gástrico, y se distinguen diferentes tipos de recomendaciones según el alimento ingerido. Repasemos las opciones de respuesta:\n\n1.- El uso rutinario de fármacos para disminuir el riesgo de aspiración pulmonar (antieméticos, estimulantes gastrointestinales, anticolinérgicos, etc.) en pacientes sin riesgo aumentado aparente de aspiración pulmonar no está recomendado.\n\n2.- Depende del tipo de alimento.\n\n3.- Depende del tipo de medicación. Hay medicaciones que se dejan durante la intervención quirúrgica como, por ejemplo, la estatina, los betabloqueantes, etc.\n\n4.- La ingesta de agua está permitida hasta 2 horas antes de la inducción anestésica (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "En referencia a la escala de riesgo perioperatorio de la American Society of Anesthesiologists (ASA), señale la relación INCORRECTA:",
+      "opciones": [
+        "ASA II: episodio de insuficiencia cardíaca ya resuelto.",
+        "ASA II: hipertensión arterial controlada.",
+        "ASA III: EPOC grave con tratamiento optimizado.",
+        "ASA III: diabetes mellitus mal controlada."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: Un paciente que haya padecido un episodio de ICC, se califica como ASA III. En el caso de que lo estuviese padeciendo en el momento actual, sería ASA IV."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Paciente de 43 años que jugando a futbol percibe un chasquido, seguido de fuerte dolor, en la parte interior de la rodilla derecha mientras giraba a la izquierda. A su llegada a la urgencia, se le realiza una artrocentesis que muestra hemartros y la maniobra de Lachman fue positiva. Tres semanas después es sometido a una reconstrucción ligamentosa con plastia tendinosa del tendón rotuliano del propio paciente mediante artroscopia con anestesia raquídea. Al día siguiente de la intervención, el paciente se despierta con una cefalea occipital que se irradia a nivel cervical y empeora al incorporarse de la cama para comer. Además, ha vomitado en tres ocasiones y dice “ver doble” y borroso. Ante el cuadro descrito, señale cuál es su principal sospecha diagnóstica y las medidas que llevaría a cabo:",
+      "opciones": [
+        "Sospechar meningitis, hacer una punción de LCR y empezar tratamiento empírico con ceftazidima y vancomicina.",
+        "Sospechar cefalea postpunción dural, administración subaracnoidea de suero salino fisiológico si en 48 horas el dolor no ha remitido con el tratamiento de soporte.",
+        "Sospechar LOE cerebral, realizar un TAC de manera urgente.",
+        "Sospechar reacción adversa a los analgésicos, retirar toda la medicación y observar evolución."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La cefalea postpunción dural es la complicación más frecuente de la anestesia neuroaxial. Suele aparecer en las primeras 24 horas y se caracteriza por una cefalea que empeora con la bipedestación o sedestación, mejorando en decúbito supino. Puede acompañarse de un cuadro vegetativo con náuseas, vómitos o diplopía. Se debe a una pérdida de LCR a través del orificio de la duramadre para la punción. Generalmente, se resuelve con la administración de líquidos por vía oral o intravenosa, junto con corticoides, cafeína y analgesia; sin embargo, si la cefalea es muy intensa o no se resuelve en 48 horas, puede ser útil la administración subaracnoidea de suero salino fisiológico por lo que marcamos la opción 2 correcta. Otra alternativa sería la realización de un parche hemático epidural."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Teresa es una paciente de 78 años que acaba de ser diagnosticada de cáncer de colon derecho tras un test de sangre oculta en heces positivo y posterior estudio diagnóstico, acudiendo a su consulta de valoración anestésica antes de la cirugía. Está muy preocupada y se muestra interesada en saber detalles sobre todo el proceso, ya que de joven se sometió a anestesia general y refiere una reacción exantematosa ante un fármaco que denomina “paralizante”. Usted, como anestesista, le informa de que el proceso se realizará bajo anestesia general, proceso que sigue una serie de fases. Si hablamos de la inducción anestésica en Teresa, que cumplirá ayuno, ¿cuál de los siguientes sería el orden CORRECTO de administración de los fármacos necesarios?",
+      "opciones": [
+        "Administración únicamente de hipnótico tipo propofol, pues se ha demostrado que el uso de opioides en pacientes oncológicos empeora los resultados y en el caso de Teresa se debe evitar el uso de relajantes neuromusculares.",
+        "Administración de rocuronio como relajante muscular seguido de propofol como hipnótico, pudiendo añadir o no opioide tipo fentanilo.",
+        "Administración de propofol como hipnótico y atracurio como relajante muscular a la dosis mínima necesaria para conseguir una intubación satisfactoria, pudiendo añadir o no fentanilo como opioide.",
+        "Administración de fentanilo como opioide, propofol como hipnótico y rocuronio como relajante muscular."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que pone sobre la mesa la secuencia de inducción en paciente que cumple ayuno con un antecedente de exantema tras una anestesia general, probablemente atribuible a bloqueante neuromuscular (BNM) liberador de histamina, como es el caso del atracurio. Se debe usar un BNM no liberador de histamina como el rocuronio y el orden correcto sería opioide tipo fentanilo (necesita tiempo para ejercer su efecto), seguido de propofol como hipnótico y, una vez alcanzada la hipnosis con pérdida de reflejos, se procede a la administración del BNM (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Señale la secuencia más habitual al realizar una inducción anestésica:",
+      "opciones": [
+        "Primero un opiáceo (fentanilo), después un hipnótico (propofol) y por último un relajante muscular (rocuronio)",
+        "Primero un relajante muscular (succinilcolina), después un hipnótico (propofol) y por último un opiáceo (remifentanilo)",
+        "Primero un relajante muscular (succinilcolina), después un opiáceo (fentanilo) y por último un hipnótico (sevoflorano)",
+        "Primero un hipnótico (neostigmina), después un relajante muscular (rocuronio) y por último un opiáceo (etomidato)"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: Pregunta relativamente sencilla sobre la inducción anestésica. Recuerda que en general al realizar un inducción lo que hacemos es administrar el opiáceo (fentanilo) pues tarda unos segundos más en hacer efecto que el hipnótico y así nos vamos asegurando niveles analgésicos para una posible intubación. Posteriormente administramos el hipnótico y por último los relajante musculares. Recuerda que los relajantes musculares que usamos en anestesia causan parálisis y nunca pueden darse antes de los hipnóticos (el paciente estaría despierto pero sin poder moverse)"
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Mujer de 75 años, con antecedentes de HTA, dislipemia y FA anticoagulada con Dabigatrán, que va a ser intervenida de prótesis de rodilla mediante técnica neuroaxial. Señale la respuesta correcta:",
+      "opciones": [
+        "Deberá suspender el Dabigatrán 5 días antes y realizar terapia puente con heparina de bajo peso molecular (HBPM) a dosis anticoagulantes.",
+        "Deberá suspender 48h antes el Dabigatrán y no precisará terapia puente con HBPM.",
+        "Puede mantener el Dabigatrán hasta el día de la cirugía y si el INR está en rango, puede ser intervenida.",
+        "El INR es la prueba ideal para valorar los niveles de anticoagulación del Dabigatrán."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En Los nuevos anticoagulantes orales (ACO), a diferencia del Sintrom , el INR no sirve como prueba para ver el nivel de anticoagulación, de hecho no se altera. Se precisan pruebas de laboratorio más específicas. Con los nuevos ACO se recomienda esperar de 2 a 3 vidas medias antes de proceder a realiza la anestesia neuroaxial ( el Dabigatrán son 48h) por lo que marcamos la opción 2 correcta, teniendo en cuenta además la función renal. Por último, los nuevos ACO a diferencia del sintrom no precisan terapia puente."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Juan de 25 años es diagnosticado de un divertículo de Meckel, necesitando cirugía no urgente con abordaje de laparotomía media, para lo que se decide que la mejor opción anestésica es inducir anestesia general. Antes de entrar a quirófano se comprueba una clasificación de Mallampati de grado II con buena distancia tiromentoniana y apertura bucal > 3 cm. Se procede a la intubación del paciente por parte del médico residente mediante laringoscopia directa, visualizando solamente tejidos del suelo de la boca, sin ver epiglotis - escala Cormack-Lehane IV/IV - sin alcanzar intubación exitosa. Se realiza una segunda laringoscopia directa por médico adjunto sin mejorar el resultado. Siguiendo el algoritmo de vía aérea difícil no prevista, comprobando que el paciente sigue siendo ventilable, se decide uso de videolaringoscopio, con mejoría de la escala Cormack-Lehane a grado III, pero sin intubación exitosa. Ante esta situación se decide colocación de mascarilla laríngea de segunda generación, comprobando que el paciente sigue siendo ventilable. Es INCORRECTO que:",
+      "opciones": [
+        "Ante esta situación hay que valorar si la cirugía se puede realizar mediante el uso de la mascarilla laríngea o sería más conveniente despertar al paciente.",
+        "Ante una cirugía no urgente la vía aérea quirúrgica no se postula como el siguiente paso a seguir en el caso de Juan.",
+        "Una vez conseguida la ventilación correcta con el uso de la mascarilla laríngea, siempre y cuando el paciente sea ventilable, se podría retirar la mascarilla e intentar una nueva intubación, pero usando otro dispositivo.",
+        "Ante esta situación en el manejo de la vía aérea de Juan, el uso del fibroscopio podría ser útil para alcanzar la intubación a través de la mascarilla laríngea."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico sobre vía aérea difícil (VAD) no prevista. Una vez llegado al punto de paciente no intubable / sí ventilable, lo fundamental es mantener la ventilación del paciente y, si retiramos la mascarilla se corre el riesgo de que el paciente deje de serlo (opción 3 incorrecta, por lo que la marcamos). En este estadio del algoritmo, NO se puede retirar el dispositivo supraglótico, aunque sí se podría intentar la intubación guiada por fibroscopio a través de la mascarilla laríngea. Otra opción sería despertar al paciente para que recupere la ventilación espontánea, posponer la cirugía si no es urgente y realizar en otro tiempo una intubación con el paciente despierto."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "¿Qué característica es típica de la cefalea pospunción dural?",
+      "opciones": [
+        "Es una imposible que se produzca tras una técnica de anestesia epidural.",
+        "Depende de la pérdida de líquido cefalorraquídeo a través del orificio dural",
+        "No influye el ángulo de punción",
+        "Sólo aparece con agujas de grueso calibre"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es la complicación más frecuente de la anestesia espinal. Ha disminuido su incidencia por uso agujas menor calibre aunque sigue siendo frecuente principalmente en jóvenes y en punciones accidentales con aguja de Touhy. Carácter postural de la cefalea y depende de la cantidad de LCR que haya perdido (opción 2 correcta). Fisiopatología multifactorial. La cantidad de LCR que se pierde dependerá del diámetro del orificio dural que está en relación con el calibre de la aguja, el diseño de la punta, el ángulo de punción y la dirección del bisel (Menor pérdida en agujas pequeño calibre, punta atraumática, bisel paralelo a las fibras de la duramadre y punción paramedial). El uso de estas agujas no excluye por completo la aparición del cuadro."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Paciente de 78 años, con antecedentes de fibrilación auricular paroxística y accidente cerebro vascular isquémico, en tratamiento con sintrom. Está programado para cirugía de cataratas. Que indicaciones le daría para la cirugía:",
+      "opciones": [
+        "Mantener el sintrom, si INR menor de 3, se puede intervenir.",
+        "Suspender el simtron 3 días antes de intervención, y realizar terapia puente con heparinas de bajo peso molecular.",
+        "Suspender el Sintrom 3 días previos a la cirugía y sustituir por Ácido acetilsalicílico.",
+        "Suspender el simtron 3 días previos a la intervención, sin necesidad de terapia puente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La cornea es un tejido avascular, por lo tanto el riesgo hemorrágico de la cirugía es bajo. El riesgo trombótico del paciente es alto (CHADS de 3 puntos). Por lo tanto se puede intervenir sin necesidad de suspender el sintrom, controlando que esté en rango terapéutico y no sobredosificado. Opción 1 correcta."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "En relación al manejo de la medicación habitual del paciente en la visita preanestésica, es falso que:",
+      "opciones": [
+        "La HBPM (heparina de bajo peso molecular) a dosis anticoagulantes se debe suspender 24 horas antes de la realización una anestesia intradural.",
+        "Se debe continuar el tratamiento con metformina hasta el día de la cirugía, pero sin administrar la dosis de la mañana, en su lugar se administra insulina intravenosa si fuera necesario.",
+        "Se debe mantener el tratamiento con Ácido Valproico hasta la misma mañana de la cirugía.",
+        "No es necesaria la suspensión de la terapia con productos de herbolario previa a la cirugía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: Los productos de herbolario y/u homeopáticos pueden provocar interacciones con fármacos anestésicos. Asimismo , la automedicación con este tipo de productos puede hacer sospechar la presencia de enfermedades no diagnosticadas. Además muchos de estos productos aumentan el riesgo de hemorragia, hipoglucemia o sedación. Por estos motivos, en general se recomienda la suspensión de este tipo de productos al menos 2 semanas antes de la intervención quirúrgica."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "¿Cuál de estas parejas de fármacos debe suspenderse 7-10 días antes de una intervención quirúrgica?",
+      "opciones": [
+        "AAS (ácido acetilsalicílico) y Dipiridamol",
+        "Dipiridamol y HBPM (heparinas de bajo peso molecular)",
+        "Ticlopidina y Acenocumarol",
+        "AAS y Clopidogrel"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La decisión de retirar o no la medicación antiagregante debe tomarse tras valorar minuciosamente la indicación del tratamiento y los riesgos vitales derivados de su retirada o del potencial sangrado (si se mantiene el fármaco durante la cirugía), optando por la opción de menor riesgo para el paciente.\n\nNo obstante, en general se recomienda retirar AAS, Clopidogrel y Ticlopidina 7-10 días antes de la cirugía (opción 4 correcta). El Dipiridamol, en cambio, se debe suspender 2 días antes.\n\nRespecto a los anticoagulantes orales, es necesario retirarlos 5 días antes de la cirugía, momento en que se inicia tratamiento con HBPM a dosis anticoagulantes (ésta se suspende 24 horas antes de la cirugía, reiniciándose 24 horas después [junto con anticoagulación oral] si el riesgo de sangrado post-quirúrgico es bajo)."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Varón de 46 años, programado para colecistectomía por laparoscopia debido a colecistitis de repetición. Pruebas complementarias normales, excepto una elevación discreta de la bilirrubina y de las transaminasas. Historia anestésica: intervención en hombro derecho con bloqueo regional (bloqueo interescalénico) junto con anestesia general. Intubación fácil (Cormack-Lehane II). ASA II. Con respecto a la escala utilizada para la valoración del riesgo anestésico (ASA) es FALSO que:",
+      "opciones": [
+        "Consta de 6 categorías y no tiene en cuenta la edad del paciente, sino las morbilidades que presenta.",
+        "No tiene en cuenta el tipo de cirugía a la que va a ser sometido el paciente.",
+        "Se basa en pruebas funcionales y valores analíticos que se le realizan al paciente durante la valoración preoperatoria.",
+        "Aporta una valoración cualitativa del riesgo anestésico, pero no una valoración cuantitativa del riesgo quirúrgico global."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La escala más utilizada para la evaluación del riesgo anestésico es la del ASA, con seis categorías, que abarcan desde el paciente sano al donante de órganos. Este sistema de clasificación solo valora el estado físico del paciente previamente a la cirugía (opción 3 falsa, por lo que la marcamos), independientemente del tipo de cirugía y del resultado de las pruebas complementarias; por ello, constituye una valoración cualitativa aproximada del riesgo. Múltiples estudios han demostrado que la escala ASA presenta una correlación estadísticamente significativa con la mortalidad perioperatoria. También recuerda, muy importante, ante enunciados largos, lee primero la última frase y las opciones de respuesta, ya que, en muchas ocasiones, como en la pregunta que nos concierne, no hubiera sido necesario leer el resto de la pregunta."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Un paciente con antecedente de infarto agudo de miocardio hace 9 meses y diabetes mellitus bien controlada, ¿en qué grupo de la Asociación Americana de Anestesiología (Riesgo ASA) lo englobaría?:",
+      "opciones": [
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La clasificación ASA permite estimar el riesgo anestésico en función de la situación del paciente. Se establecen distintos niveles.\n\nGrupo I: paciente sano\n\nGrupo II: enfermedad sistémica leve o moderada sin limitaciones funcionales. Es decir, una enfermedad bien controlada y que no le impide realizar sus actividades diarias. Por ejemplo: la hipertensión o la diabetes bien controlada. Opción 1 correcta.\n\nGrupo III: enfermedad sistémica grave o moderada con limitaciones funcionales. Es decir, una enfermedad que no está bien controlada o que le impida realizar algunas actividades de su vida diaria. Por ejemplo: hipertensión o diabetes mal controlada, cardiopatía isquémica > 6 meses, EPOC grave.\n\nGrupo IV: enfermedad sistémica grave que constituye una amenaza constante para la vida del paciente. Por ejemplo: cardiopatía isquémica < 6 meses, cetoacidosis o coma hiperosmolar, crisis tirotóxica, EPOC con oxígeno crónico domiciliario.\n\nGrupo V: paciente moribundo que no se espera que sobreviva más allá de las 24 horas\n\nGrupo VI: donante de órganos."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Le avisan por parada cardiorrespiratoria en un varón de 54 años en la urgencia de su Hospital. Su compañero de guardia ha llegado antes que usted y ha intubado endotraquealmente al paciente, por lo que, usted comienza el masaje cardiaco externo. Señale la correcta:",
+      "opciones": [
+        "La secuencia de compresión/ventilación es de 3/2.",
+        "La secuencia de compresión/ventilación es de 15/2.",
+        "La secuencia de compresión/ventilación es variable.",
+        "No es necesario sincronizar las ventilaciones y las compresiones."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En un paciente inconsciente que NO respira o NO respira con normalidad y no tiene pulso se inician 30 compresiones torácicas externas seguidas de dos ventilaciones en adultos. Es prioritario comenzar las compresiones con MCE para reanudar el flujo sanguíneo (con sangre oxigenada) a los órganos diana. En un paciente intubado, no se precisa la sincronización de compresiones torácicas y ventilaciones (opción 4 correcta). Únicamente podemos dejar de sincronizar las compresiones torácicas con la ventilación cuando tenemos la vía aérea aislada. En este caso un reanimador se encarga de ventilar al paciente con la velocidad de 10-12 ventilaciones por minuto y de manera independiente otro reanimador se encargará de realizar las compresiones torácicas a una velocidad de al menos 100 por minutos. Los puestos deben alternarse para evitar el cansancio."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "¿Cuál de los siguientes fármacos no deben continuarse el día de la cirugía?:",
+      "opciones": [
+        "IMAOS irreversibles",
+        "Corticoides",
+        "Antianginosos",
+        "Anticonvulsivantes"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: Los IMAOS irreversibles deben suspenderse como mínimo 2 semanas antes de la cirugía, se pueden sustituir por IMAOS reversibles de corta duración, como moclobemida, que se puede administrar hasta la noche de antes de la intervención quirúrgica.\n\nLos antianginosos, los corticoides y los anticonvulsivantes no se pueden suspender por riesgo a producir o agravar los eventos que palian, y, provocar inestabilidad hemodinámica."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Varón de 74 años monorreno que acude a su consulta para valoración preanestésica para cirugía de fístula arteriovenosa. Como antecedentes médicos presenta angina crónica estable desde hace cuatro años con clase funcional reducida, pero sin cambios en el último año, EPOC moderado con buena adherencia al tratamiento, diabetes tipo II dependiente de insulina, hipertensión, deterioro cognitivo leve de aparente causa vascular y dislipemia. En la analítica de control, presenta Hb de 13 g/dL, plaquetas 130.000, INR de 1,15 con APTT prolongado, albúmina 2,1 g/dL (VN 3,4 – 5,4 g/dL), lactato de 1 mmol/L, iones en rango, creatinina según sus basales. La radiografía de tórax revela datos de hiperinsuflación, y su ECG se presenta en ritmo sinusal con extrasístoles auriculares sin alteraciones de la repolarización. De las siguientes opciones, señale cuál recibe MAYOR peso en la clasificación del riesgo anestésico de la Sociedad Americana de Anestesiólogos (ASA):",
+      "opciones": [
+        "APTT prolongado.",
+        "Albúmina de 2,1 g/dL.",
+        "Creatinina de 2,3 mg/dL en una analítica puntual.",
+        "Hipertensión."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La escala ASA de clasificación del riesgo anestésico se centra en las características del paciente, dejando a un lado el tipo de cirugía y los parámetros analíticos (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "¿Cuál de las siguientes NO forma parte de las maniobras para liberar la vía aérea?",
+      "opciones": [
+        "Extensión cervical.",
+        "Tracción mandibular.",
+        "Subluxación mandibular.",
+        "Compresión tiroidea (maniobra BURP)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La compresión tiroidea o maniobra BURP es de utilidad para mejorar la visión o grado de Cormack-Lehane en la laringoscopia directa, pero carece de utilidad como maniobra de liberación de la vía aérea en un paciente en ventilación espontánea. Las opciones 1, 2 y 3 son parte de la maniobra frente-mentón, y una cánula orofaríngea de Guedel puede ser de mucha utilidad especialmente en aquellos pacientes SAHOS o roncadores. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Acerca de la anestesia intradural, señale la respuesta FALSA:",
+      "opciones": [
+        "La punción puede realizarse en cualquier espacio interespinoso.",
+        "La aparición de líquido cefalorraquídeo claro a través de la aguja espinal es signo de normoposición de la misma.",
+        "La apófisis espinosa que se encuentra a la altura de la cresta iliaca suele corresponder con la vértebra L4.",
+        "Ante la aparición de bradicardia, debemos sospechar un nivel anestésico igual o superior a las raíces espinales T4."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Si realizamos la punción intradural por encima de L1-L2 podemos lesionar la médula espinal. Así pues, la punción deberá realizarse en L2-L3, o, preferiblemente, en L3-L4 o L4-L5. Opción 1 correcta."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Respecto a la clasificación de la ASA (American Society of Anesthesiologists) para la valoración del riesgo anestésico ¿Cuál de las siguientes afirmaciones es cierta?",
+      "opciones": [
+        "Contiene cinco categorías, que abarcan desde el paciente sano al donante de órganos",
+        "Tiene en cuenta el tipo de cirugía a la que va a ser sometido el paciente",
+        "Tiene en cuenta la edad y las morbilidades que presenta el paciente",
+        "Presenta una correlación estadísticamente significativa con la mortalidad perioperatoria"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clasificación de la ASA para la valoración del riesgo anestésico contiene seis categorías, que abarcan desde el paciente sano al donante de órganos.\n\nEsta clasificación no tiene en cuenta el tipo de cirugía a la que va a ser sometido el paciente, los resultados de pruebas complementarias ni la edad de éste: sólo valora cualitativamente sus morbilidades.\n\nMúltiples estudios han demostrado una correlación estadísticamente significativa entre la escala ASA y la mortalidad perioperatoria. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Acude a su consulta de preanestesia una mujer de 58 años de edad para valoración de una apendicectomía programada por laparoscopia. Como antecedentes personales presenta dos cesáreas, obesidad (IMC 31) y diabetes. Niega enfermedad cardíaca o pulmonar. No presenta dolor torácico. Vida sedentaria. Tratamiento habitual: metformina 850mg/12 horas y simvastatina 20mg/24 horas. Exploración física: peso 79 kg; talla 160 cm; presión arterial 135/80; frecuencia cardíaca 55 latidos/minuto. Auscultación cardiopulmonar normal. A la hora de explorar la dificultad de la vía aérea, se utiliza el método de evaluación que se conoce con las siglas de LEMON (Look externaly, Evaluate, Mallampati score, Obstruction of airway, Neck mobility). Respecto a la clasificación de Mallampati es falso que:",
+      "opciones": [
+        "Un Mallampati IV aumenta la probabilidad de dificultad de intubación.",
+        "Para determinar el grado de Mallampati se precisa la realización de una laringoscopia para visionar directamente la glotis.",
+        "En el grado II de Mallampati se ve paladar blando, istmo de las fauces y la úvula.",
+        "Un Mallampati I puede dar una dificultad de intubación."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "1. La clasificación de Mallampati tiene 4 grados. Cuanto más grado, más dificultad implica la intubación de la vía aérea.\n\n2. El test de Mallampati se realiza pidiendo al paciente que abra la boca, saque la lengua al máximo y diga AAA… para así visualizar las estructuras faríngeas (úvula, pilares, paladar blando y paladar duro). No se utiliza la laringoscopia directa, técnica que si que utilizaría si se hubiera hablado de test de Cormack-Lehane, donde se valora la glotis (opción 2 correcta). A continuación podéis observar las imágenes donde se clasifican ambos tests. El primero el Mallampati y el segundo el test de Cormack-Lehane.1.\n\nComo se puede observar en la imagen en el grado dos se ve el paladar blando, el istmo de las fauces, la úvula y lo que NO se ven son las amígdalas.\n\n2. La clasificación de Mallampati de manera aislada y en su grado I puede tener muchos falsos negativos (pacientes con dificultad de intubación), mientras que en el grado IV tiene un ligero porcentaje de falsos positivos. No dudes del poder del “puede”."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Varón de 82 años con aceptable vida basal, que es visto en el Servicio de Urgencias por cuadro de dolor abdominal de tipo cólico y deterioro del estado general. La primera sospecha diagnóstica fue un cólico renoureteral, pero ante la no mejoría de la clínica con las medidas terapéuticas iniciales y tras ciertos hallazgos no concordantes en la analítica realizada, se decide avisar a cirugía de guardia para valoración. El cirujano, tras su valoración clínica, sospecha un cuadro de obstrucción intestinal aguda, por lo que solicita la correspondiente prueba de imagen y traslada al paciente a su cargo. Tres horas más tarde avisan al anestesiólogo de guardia para valorar al paciente e intervenir quirúrgicamente de urgencia. Una vez en el quirófano, la primera monitorización de TA muestra valores tensionales de 90/44 (TAM 59 mmHg). Se decide inducción de anestesia general con 150 mcg de fentanilo, 220 mg de propofol y 50 mg de Rocuronio, alcanzando intubación exitosa. Tras varios minutos, el ECG muestra QRS irregulares y estrechos sin evidenciar ondas P y con cifras tensionales muy descendidas. Se intenta corregir la hipotensión sin éxito y con persistencia del hallazgo electrocardiográfico. Ante la inestabilidad que presenta este paciente, señale cuál sería la actitud MÁS correcta a continuación:",
+      "opciones": [
+        "La primera medida terapéutica ante esta situación sería la canalización de una vía venosa central para poder administrar fármacos vasoactivos y antiarrítmicos a la dosis necesaria.",
+        "El tratamiento más efectivo ante esta situación sería amiodarona en bolo seguido de perfusión continua.",
+        "Se debe realizar una descarga eléctrica para corregir el ritmo.",
+        "Se debe realizar un ecocardiograma para valoración del continente y contenido cardíacos y posterior descarga eléctrica correctora del ritmo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico en el que se muestra un paciente anciano con un cuadro de obstrucción intestinal evolucionado. En estas situaciones, gran parte del líquido intravascular se dispone en un tercer espacio y es importante reponer, aunque sea parcialmente, con sueroterapia antes de la inducción anestésica. Ya nos muestran unas cifras tensionales bajas antes de la inducción, y la inducción anestésica que se realiza presenta una dosis muy alta de propofol, dando lugar a una vasodilatación que, añadida a la situación de hipovolemia, conduce a una FA inestable. El tratamiento en este caso sería intentar corregir esa hipotensión, para intentar recuperar el ritmo sinusal. Ante el fracaso de esta medida, se debe sospechar que la hipotensión es mantenida por el ritmo cardíaco en FA, por lo que el tratamiento inicial en condiciones controladas sería la reversión eléctrica del ritmo (respuesta 3 correcta)."
+    }
+  ]
+}

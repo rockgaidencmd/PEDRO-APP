@@ -1,0 +1,458 @@
+{
+  "materia": "digestivo",
+  "paginaInicio": 1,
+  "paginaFin": 19,
+  "anomalias": [
+    "p5: en el enunciado del varón de 56 años consta 'actividad de protrombina 10%', valor incompatible con el resto de la analítica y con la actitud propuesta (probablemente 100%)",
+    "p7: el comentario describe el 'predominio de colestasis (aumento de bilirrubina, fosfatasa alcalina y bilirrubina)' repitiendo bilirrubina y omitiendo el tercer parámetro",
+    "p12: la alfa-fetoproteína se expresa como 'inferior a 50 nf/mL'; la unidad correcta es ng/mL",
+    "p13: el comentario justifica la respuesta citando la combinación elbasvir+grazoprevir, que no figura entre las opciones",
+    "p18: la opción 3 habla de contracciones prematuras en el 50% de las degluciones mientras el comentario sitúa el umbral en 'más del 20%'; además el paréntesis de esa explicación queda descompensado"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente con antecedentes de etilismo crónico que ingresa en el hospital por astenia y anemia intensas. En la exploración física se objetiva hepatoesplenomegalia y en los estudios sanguíneos, acantocitos e hiperlipemia. Este cuadro es CARACTERÍSTICO de:",
+      "opciones": [
+        "Hemólisis por hiperesplenismo.",
+        "Enfermedad de Wilson.",
+        "Síndrome de Zieve.",
+        "Deficiencia de folato."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome de Zieve (respuesta 3 correcta) es una complicación extremadamente infrecuente de la esteatosis hepática secundaria al alcohol (hígado graso alcohólico). Se define por la asociación de hipertrigliceridemia, anemia hemolítica e ictericia en un paciente con esteatosis hepática alcohólica. Los pacientes suelen tener además dolor abdominal. La plaquetopenia, cirrosis, hiperesplenismo e hipergammaglobulinemia también pueden manifestarse como parte de este síndrome, aunque no forman parte de la tríada que lo define."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Joven de 18 años de edad, con antecedentes de asma, alergia a pólenes, ácaros y pelo de gato, acude a urgencia refiriendo sensación de detención de alimentos a nivel retroesternal con práctica incapacidad para deglutir su propia saliva. Refiere episodios similares en otras ocasiones que han cedido de forma espontánea en pocos minutos. ¿Cuál de los siguientes es el diagnóstico más probable?",
+      "opciones": [
+        "Esófago de Barrett.",
+        "Anillo esofágico distal (Schaztki).",
+        "Esofagitis infecciosa.",
+        "Esofagitis eosinofílica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un caso clínico típico de esofagitis eosinofílica, en la que se describen tres características de esta entidad: joven, asociación con procesos alérgicos (asma, alergia a polen…) e impactaciones alimentarias de repetición. No hay datos que sugieran que el paciente pudiera tener un esófago de Barrett, dado que no describen que presente pirosis. Aunque el anillo esofágico distal pudiera justificar episodios de disfagia esofágica intermitente, no hay asociación del mismo con procesos alérgicos que describe la pregunta. Por último, no pude ser una esofagitis infecciosa porque el paciente no refiere odinofagia."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Mujer de 56 años que acude con sensación de dolor urente postprandial que ha ido empeorando en la ultimas semanas. La exploración física general fue normal. La paciente se niega a realizarse gastroscopia pero aporta de un centro privado un estudio de secreción áciga gástrica en la que se comprueba la existencia de hiperclorhidria. Con la información de la que dispone en este momento, ¿cuál sería el diagnóstico más probable si hubiere aceptado realizarse gastroscopia?:",
+      "opciones": [
+        "Gastritis crónica atrófica multifocal.",
+        "Gastritis crónica activa.",
+        "Gastritis autoinmune (tipo A).",
+        "Gastrinoma con síndrome de Zollinger-Ellison."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La Gastritis crónica atrófica multifocal y la corporal difusa (o tipo A), son gastritis que cursan con hipoclorhidria. La gastritis crónica activa y el gastrinoma cursan con hiperclorhidria. De esta 2, la más frecuente es la gastritis crónica activa y por ello sería la opción más correcta."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Varón de 56 años, con consumo excesivo de alcohol, que acude a su consulta por hipertransaminasemia en analítica de rutina. La exploración física únicamente reveló hepatomegalia leve. La analítica fue: Hb 13,1 g/dL, VCM 103.5 fL, leucocitos 7.600/mm³, plaquetas 158.000/mm³, actividad de protrombina 10%, glucosa 100 mg/dL, urea 30 mg/dL, creatinina 1 mg/dL, albúmina 4,2 g/dL, GOT 200 U/L, GPT 100 U/L, GGT 228 U/L, bilirrubina total 1,1 mg/dL, fosfatasa alcalina 70 U/L, LDH 136 U/L, sodio 139, potasio 4,2, antiHBs +, AgHBs -, AntiHBc -, AgHBe -, antiHBe -, DNA-VHB -, anti-VHC -, AgVHD -. Se le realiza una ecografía abdominal en la que se observa un hígado algo heterogéneo y una lesión nodular de 4 cm en segmento V. Se le realiza además un TC con contraste en el que se observa dicho nódulo con realce precoz y homogéneo con contraste y cicatriz estrellada central. ¿Cuál sería la actitud MÁS adecuada en este paciente?",
+      "opciones": [
+        "Trasplante hepático.",
+        "Quimioembolización.",
+        "Cirugía resectiva.",
+        "Seguimiento evolutivo del paciente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Caso clínico sobre un paciente con hepatopatía etílica que, independientemente de si fuere o no cirrótico, tiene una lesión focal hepática pero que no cumple criterios de hepatocarcinoma sino de hiperplasia nodular focal con su cicatriz estrellada central característica. Esta lesión no requiere tratamiento salvo si experimenta crecimiento o es sintomática (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Varón de 60 años, cirrótico VHC en tratamiento con espironolactona y furosemida a dosis máximas, sin otros antecedentes de interés, que acude a consulta por aumento de perímetro abdominal y dolor en ambos flancos y espalda. En la exploración física se observó abdomen distendido y oleada ascítica. En la analítica destacaban: Hb 11,0 g/dL, VCM 80.5 fL, leucocitos 10.000/mm³ con 50% neutrófilos, plaquetas 78.000/mm³, glucosa 89 mg/dL, urea 101 mg/dL, creatinina 2,5 mg/dL, proteínas totales 5,6 g/dL, albúmina 3,3 g/dL, GOT 88 U/L, GPT 101 U/L, GGT 178 U/L, bilirrubina total 1,8 mg/dL, fosfatasa alcalina 108 U/L, LDH 187 U/L, sodio 133, potasio 4,8. ¿Cuál sería la actitud para el control de este paciente?",
+      "opciones": [
+        "TIPS.",
+        "Paracentesis evacuadora de repetición.",
+        "Aumentar la dosis de diuréticos.",
+        "Tratamiento con PEG-IFN y ribavirina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico sobre un paciente que acude con ascitis importante no controlada a pesar de diurético a dosis máximas. Se trata, por tanto, de una ascitis refractaria. Para ello puede plantearse la realización de paracentesis evacuadoras o TIPS. En este caso nos decantaríamos por esta última (respuesta 1 correcta), ya que tiene insuficiencia renal y no se observa que sea un paciente con encefalopatía hepática previa ni un CHILD muy avanzado."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Un hombre de 25 años presenta de forma brusca astenia e ictericia, detectándose unas transaminasas (ALT y AST) > 2.000 UI/L. Los marcadores serológicos muestran el siguiente patrón: AntiVHA IgM negativo, HBsAg negativo, antiHBc IgM positivo y antiVHC negativo. ¿Cuál es su diagnóstico?",
+      "opciones": [
+        "Hepatitis crónica B.",
+        "Hepatitis aguda no viral.",
+        "Hepatitis aguda B.",
+        "Hepatitis aguda A y B."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta interesante sobre marcadores serológicos de las hepatitis víricas. En este caso clínico nos presentan a un paciente con una clínica y analítica típicas de una hepatitis viral (astenia, ictericia y transaminasas muy elevadas). En cuanto a los marcadores serológicos, que por otra parte es lo realmente importante de la pregunta, vemos que nos exponen un patrón compatible con una hepatitis aguda B. No te confundas con la opción 2. En este caso al decirnos que el HBsAg es negativo puede llevar a pensar que no es una infección por hepatitis B, ya que este marcador indica la presencia del VHB. Sin embargo, fíjate que la determinación de anticuerpos anti-HBc IgM es positiva, y este marcador es el que resulta imprescindible para definir una hepatitis B como aguda. Lo que probablemente suceda en el caso clínico de la pregunta es que el paciente se encuentre en período ventana, es decir, entre la desaparición del HBsAg y la aparición de su anticuerpo, momento en que el único marcador positivo puede ser la IgM anti- HBc."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Mujer de 30 años de edad, embarazada de 33 semanas, que consulta por prurito de una semana de evolución. Las pruebas hepáticas muestran un leve incremento de los valores de transaminasas (AST 77 UI/L y ALT 84 UI/L), así como de fosfatasa alcalina (155 UI/L) y gammaglutamil-traspeptidasa (125 UI/L), con una cifra de bilirrubina total de 2,3 mg/dL. El hemograma y el estudio de coagulación son normales, la ecografía abdominal no muestra alteraciones hepáticas ni biliares y la serología de virus de hepatitis, así como los autoanticuerpos son negativos. ¿Cuál de las siguientes actitudes es la CORRECTA?",
+      "opciones": [
+        "Realizar una biopsia hepática para establecer el diagnóstico de la enfermedad hepática.",
+        "Tratar a la paciente con ácido ursodesoxicólico, ya que probablemente se trata de una colestasis intrahepática benigna del embarazo.",
+        "Interrumpir el embarazo ya que el diagnóstico más probable es el hígado graso agudo del embarazo.",
+        "Realizar una resonancia magnética para descartar una colangitis esclerosante primaria."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos presentan un caso clínico de una mujer embarazada que en el tercer trimestre presenta un cuadro con hipertransaminasemia leve y colestasis. Las dudas más razonables sería dudar en si se trata de una colestasis intrahepática benigna del embarazo o un hígado graso agudo del embarazo. Una de las claves fundamentales es la presencia de prurito muy típica y frecuente en la colestasis intrahepática benigna del embarazo y mucho más rara en la segunda entidad. A esto se le suman los datos de transaminasas ligeramente elevadas y, sobre todo, predominio de colestasis (aumento de bilirrubina, fosfatasa alcalina y bilirrubina); ambos apoyan igualmente la primera entidad. La biopsia hepática en esta situación aporta poco y tampoco es el caso típico de una colangitis esclerosante. Por todo ello, la opción correcta sería la segunda. El tratamiento con ácido ursodesoxicólico, si bien no está ensayado en el embarazo, se puede utilizar, habiendo múltiples casos descritos en la literatura que muestran su utilidad"
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "La hepatitis A es una de las hepatitis más frecuentes en nuestro medio y debe conocerse en todo médico que se precie y trabaje en el Sistema de Salud. Con respecto a esta entidad, es INCORRECTO que:",
+      "opciones": [
+        "En la infección aguda los anticuerpos de tipo IgM suelen ser detectables durante unos 4 meses.",
+        "La infección aguda sobre una hepatopatía crónica virus B de base puede precipitar un fallo hepático.",
+        "La mayor parte de las veces cursa en la infancia como una hepatitis colestásica.",
+        "La determinación de RNA-VHA es muy poco utilizado en la práctica diaria."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La hepatitis aguda por VHA en la infancia cursa en la mayor parte de las ocasiones de forma asintomática (opción 3 incorrecta, por lo que la marcamos). La determinación del RNA es muy poco usado dada la alta utilidad de los anticuerpos de tipo IgM e IgG para precisar el diagnóstico."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de estas opciones es FALSA respecto al pseudoquiste pancreático?:",
+      "opciones": [
+        "La mayoría de los pseudoquistes se localizan en cabeza de páncreas.",
+        "Debe sospecharse su presencia ante la persistencia o aumento de la hiperamilasemia.",
+        "La rotura y la hemorragia son las principales causas de mortalidad.",
+        "La ecografía y la TC son los métodos diagnósticos de elección."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los pseudoquistes pancreáticos se localizan con mayor frecuencia en el cuerpo y cola del páncreas variando su frecuencia en estas localizaciones entre el 55 % y el 85 % de todos los pseudoquistes según diferentes series. Deben sospecharse por la persistencia del dolor abdominal con intolerancia a la dieta oral y la persistencia o aumento de las cifras de amilasa. El método diagnóstico de elección es el TAC Abdominal siendo también útil, sobre todo en el seguimiento la ECO Abdominal. En general el tratamiento es conservador, inicialmente porque con el tiempo una gran parte de ellos desaparecen o disminuyen de tamaño y posteriormente porque sólo requerirán una actitud quirúrgica aquellos que por su tamaño o complicación den clínica al paciente."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Mujer de 76 años que acude a su consulta por dificultad para la deglución; refiere que esto le viene pasando desde hace años, pero que en los últimos meses ha empeorado, por lo que solo tolera alimentación líquida. No presenta fiebre ni pérdida de peso. Mantiene tratamiento de forma habitual con furosemida y digoxina (\"por algo de corazón\") y ranitidina (para sus ardores). ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Acalasia.",
+        "Espasmo esofágico difuso.",
+        "Estenosis péptica.",
+        "Neoplasia esofágica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante una disfagia progresiva en un anciano, el cáncer sería una opción a tener en cuenta. Sin embargo, la larga duración (años) y la ausencia de pérdida de peso hacen más probables otros diagnósticos. La acalasia también puede producir un cuadro similar, pero entonces no tomaría ranitidina “para sus ardores”, ya que los pacientes con acalasia no tienen por qué tenerlos. Los “ardores” (pirosis) nos hacen pensar en reflujo gastroesofágico, que posiblemente se habrá complicado con una estenosis péptica (respuesta 3 correcta). La opción del espasmo esofágico difuso no es muy adecuada; ten en cuenta que, en esa enfermedad, la queja fundamental es el DOLOR, no la disfagia, y tampoco tendría relación con la pirosis."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Con respecto a los pólipos del colon, indique la afirmación VERDADERA:",
+      "opciones": [
+        "La mayoría de los cánceres colorrectales derivan de un pólipo adenomatoso.",
+        "El síndrome de Muir Torre asocia los pólipos del colon a neoplasias del sistema nervioso central.",
+        "La polipectomía con colonoscopia no es tratamiento suficiente de un pólipo con carcinoma in situ (no sobrepasa la membrana basal glandular).",
+        "Los pólipos adenomatosos tubulares son los que más tienden a malignizarse."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La mayoría de los cánceres colorrectales provienen de un pólipo previo (90% de los casos) (respuesta 1 correcta). Repasemos las demás opciones de respuesta:\n\n2.- El síndrome de Muir Torre es una variante del síndrome de Lynch con tumores cutáneos.\n\n3.- En caso de carcinoma in situ, como el tumor no sobrepasa la membrana basal, la polipectomía endoscópica es curativa ya que, al no haber llegado a la submucosa, las células tumorales no diseminan a través de los linfáticos situados en esta capa.\n\n4.- La probabilidad de malignización de un pólipo es < 1%, siendo los que más riesgo tienen los adenomatosos con componente velloso."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Paciente que acude por hipertransaminasemia en el que se objetiva en sangre la siguiente serología: Ac HBc IgG+, Ag HBs +, AgHBe- DNA +. Cuál es el diagnóstico?",
+      "opciones": [
+        "Hepatitis aguda",
+        "Hepatitis B crónica AgHBe positivo",
+        "Mutación precore",
+        "Portado inactivo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La cepa mutante precore se caracteriza porque los 2 marcadores habituales de realización no coinciden y, por tanto, el AgHBe es negativo y el DNA-VHB es positivo."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Varón de 35 años con antecedentes de dispepsia, motivo por el que ha sido estudiado recientemente, que acude a Urgencias con un cuadro de fiebre de 39 ºC, leucocitosis, dificultad respiratoria y dolor torácico. Presenta en la Rx de tórax una imagen compatible con neumomediastino. Con respecto al cuadro que usted sospecha que tiene el paciente, ¿cuál considera su origen MÁS probable?",
+      "opciones": [
+        "Vómitos.",
+        "Traumatismo.",
+        "Ingesta de algún tóxico químico.",
+        "Enfermedad iatrogénica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La dificultad de esta pregunta radica en que debemos identificar la patología que presenta el paciente para poder resolver la pregunta que se nos hace sobre su tratamiento. Nos hablan de un estudio reciente por dispepsia y una clínica aguda de dolor torácico y signos de sepsis acompañados de una imagen característica de neumomediastino. Todo ello es compatible con una perforación esofágica. Pese a que la rotura esofágica por vómitos, síndrome de Boerhaave, es la causa más grave de perforación, la etiología más frecuente de una perforación esofágica es la iatrogénica (respuesta 4 correcta), siendo la endoscopia la causa del 59% de las perforaciones esofágicas. Probablemente durante el estudio reciente por dispepsia se produjo una pequeña perforación al hacer la endoscopia, que ha pasado desapercibida hasta que se ha desarrollado una mediastinitis."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Con respecto a la prueba de imagen consistente en la realización de un esofagograma con bario, indique qué patología de las siguientes considera que tiene MENOR sensibilidad que la endoscopia para su diagnóstico:",
+      "opciones": [
+        "Hernia de Hiato.",
+        "Alteraciones motoras.",
+        "Divertículos esofágicos.",
+        "Esofagitis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pese a que la endoscopia digestiva alta aclara el origen de muchos trastornos esofágicos, fundamentalmente malignos, el estudio de imagen mediante papilla de bario tiene más sensibilidad que la endoscopia para el diagnóstico de la hernia de hiato como alteración anatómica, así como para mostrar estenosis ligeras, alteraciones motoras y divertículos esofágicos. En el caso de la esofagitis, el diagnóstico se lleva a cabo mediante endoscopia (el esofagograma de bario, además de no indicado para esta patología, tiene menor sensibilidad en el diagnóstico de esta que la endoscopia - respuesta 4 correcta -)."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Una de las siguientes sustancias NO produce o NO agrava el reflujo gastroesofágico:",
+      "opciones": [
+        "Nifedipino.",
+        "Sildenafilo.",
+        "Levosulpiride.",
+        "Nicotina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los calcioantagonistas y nitritos, o los fármacos con un comportamiento similar al de los nitritos, como es el caso del sildenafilo, relajan la musculatura del cuerpo esofágico, alivian el dolor de las contracturas o espasmos, y relajan el esfínter esofágico inferior, por lo que aumenta el reflujo. Las dietas ricas en grasas, chocolate, café, o el uso de nicotina también relajan el esfínter. El Levosulpiride es un potente procinético, que estimula la contractilidad del cuerpo esofágico y contrae el esfínter inferior. Por ello, no agravaría el reflujo, sino todo lo contrario: podría emplearse como tratamiento médico."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Paciente con pancreatitis aguda. En Tomografía Axial Computerizada (TAC) realizada a las 72 horas de ingreso se aprecia una necrosis del 50% del páncreas. A la tercera semana de ingreso, el paciente comienza con fiebre elevada y leucocitosis. Se solicita radiografía de tórax urgente y sedimento urinario, siendo ambos normales. Señale el siguiente paso a seguir:",
+      "opciones": [
+        "Punción aspiración con aguja fina de necrosis pancreática guiada por ecografía o TAC.",
+        "Aspirado broncoalveolar, cultivo de orina y hemocultivos.",
+        "Resonancia Magnética Nuclear abdominal.",
+        "Colecistectomía urgente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Paciente con necrosis pancreática y cuadro infeccioso asociado. El riesgo de infección de la necrosis aumenta en la primera semana teniendo su pico máximo en la tercera semana de evolución. Sospecha de infección de dicha necrosis. Es necesario confirmar la infección de la misma con una PAAF del material necrótico y cultivo microbiológico. Dicha PAAF clásicamente se ha realizado con control de TC o ecografía, no obstante, tras la aparición de la ecoendoscopia, esta última se considera el gold stándar dada su mayor rentabilidad y menor morbimortalidad."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Catalina es una paciente de 55 años que acaba de ser diagnosticada de enfermedad de reflujo gastroesofágico por la clínica de pirosis y va a comenzar un tratamiento empírico con omeprazol de 20 mg al día. Para el diagnóstico de ERGE, ¿en cuál de las siguientes situaciones NO sería necesario realizar una medición del pH de 24 horas para confirmarlo?",
+      "opciones": [
+        "Diagnosticar la ERGE en presencia de tos crónica sin otros síntomas.",
+        "Antes de una cirugía correctora (funduplicatura).",
+        "Confirmar el diagnóstico de ERGE en paciente con pirosis antes de comenzar el tratamiento con IBP.",
+        "Descartar la ERGE en paciente con erosión del esmalte."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La realización de una pHmetría 24 horas es la prueba más exacta y objetiva para el diagnóstico de RGE, sin embargo solo se indica en situaciones como:\n\n- Pacientes con síntomas atípicos para determinar si se relacionan con el RGE. Recuerda la regla mnemotécnica ¡vaya TELA con los otorrinos! Tos-Erosión del esmalte-Laringitis-Asma. Puede debutar sin síntomas digestivos y solo presentar alguno de estos.\n\n- Pacientes con ausencia de respuesta al tratamiento.\n\n- Pacientes para valorar la eficacia del tratamiento, sobre todo en pacientes con esófago de Barret en los que son necesarias ajustar las dosis.\n\n- Valoración pre y postquirúrgica de una cirugía antirreflujo.\n\nUn paciente con pirosis el diagnóstico es clínico y está confirmado, no hay que hacer pHmetría (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Un paciente diagnosticado de enfermedad celíaca no mejora clínicamente tras 5 meses de habérsele indicado una dieta carente de gluten. Los estudios analíticos muestran persistencia de títulos altos de anticuerpos antiendomisio tipo IgA. ¿Cuál es la causa más probable de esa falta de respuesta a la dieta sin gluten?:",
+      "opciones": [
+        "Que no sigue correctamente la dieta.",
+        "Que no es una enfermedad celíaca lo que padece ese enfermo.",
+        "Que la enfermedad celíaca se asocia con una inmunodeficiencia común variable.",
+        "Que ha desarrollado un linfoma."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La primera causa de remisión incompleta o persistencia de los síntomas y títulos elevados de anticuerpos es el incumplimiento dietético. Sólo excluyendo esta causa cabría plantearse, en segundo lugar, un linfoma."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Un hombre de 67 años con cirrosis alcohólica en seguimiento por el servicio de hepatología es diagnosticado de un hepatocarcinoma de 3 cm de diámetro localizado en el lóbulo izquierdo, segmento 3. Sometido a estudio para valoración del tratamiento a seguir se demuestra que el paciente no tiene hipertensión portal, presenta una función hepática normal, un MELD score de 7 y un Child-Pugh grado A. La alfa-fetoproteína es inferior a 50 nf/mL y no se han objetivado metástasis a distancia. ¿Cuál es el tratamiento MÁS indicado en este paciente?",
+      "opciones": [
+        "Aplicar inyección de etanol percutánea.",
+        "Resección hepática.",
+        "Trasplante hepático.",
+        "Quimioembolización transarterial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Decidimos el tratamiento del carcinoma hepatocelular según el Sistema de estadificación Barcelona-Clinic-Liver-Cancer (BCLC) que toma en cuenta tres parámetros (estadiaje de tumor, función hepática y presencia de síntomas) de acuerdo a 5 estadios. Los mejores candidatos a resección quirúrgica son aquellos con tumores únicos, que presentan una bilirrubina normal, ausencia de hipertensión portal clínicamente relevante (no ascitis, no várices esofágicas y/o gástricas) con Child Pugh A o B. Recuerda que en tumores únicos está indicada la resección quirúrgica independientemente del tamaño de la lesión si se cumplen los criterios antes mencionados. La pregunta nos comenta a un paciente en estadio inicial (A) de la BCLC(tumor único, sin hipertensión portal, función hepática conservada definido por Child A, sin metástasis a distancia) con todos los criterios para indicar la cirugía"
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Mujer de 35 años, diagnosticada de carcinoma de endometrio en estadio avanzado por el que recibe quimioterapia, que acude a Urgencias por presentar desde hace una semana odinofagia. Una radiografía de tórax resultó normal. Se le realizó una endoscopia donde, desde el tercio medio del esófago, la mucosa presentaba importante afectación con vesículas y ulceraciones, siendo informada como esofagitis necrotizante. ¿Cuál es su impresión diagnóstica?",
+      "opciones": [
+        "Esofagitis por Candida.",
+        "Esofagitis por virus varicela zoster.",
+        "Esofagitis por CMV.",
+        "Esofagitis por VHS."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de considerable dificultad. La causa más frecuente de esofagitis infecciosa es la candidiásica, pero en este caso no existen hallazgos sugerentes (no hay lesiones blanquecinas en la mucosa esofágica). La presencia de vesículas y ulceraciones orienta a etiología vírica. Estas esofagitis son más frecuentes en pacientes inmunocomprometidos, como es el caso de la paciente por la quimioterapia. El CMV no es una buena opción de respuesta, puesto que suele producir una úlcera única y de gran tamaño, y aquí son múltiples. Solo nos queda el VHS y el virus varicela zoster, siendo los dos capaces de producir vesículas y ulceraciones. La razón para decantarse por el VVZ es el carácter NECROTIZANTE de la esofagitis, que no sería típica por el virus (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Paciente de 47 años, en diálisis desde los 38 por insuficiencia renal terminal secundaria a poliquistosis renal del adulto, con infección crónica por el VHC genotipo 3 y carga viral de 4 millones UI/mL. ¿Cuál sería el tratamiento más adecuado?",
+      "opciones": [
+        "Daclatasvir + Ribavirina.",
+        "Glecaprevir + Pribrentasvir.",
+        "Sofosbuvir + Velpatasvir.",
+        "Sofosbuvir + Ledispasvir."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un paciente con infección crónica por el VHC genotipo 3 serían válidas tanto la opción 2 como la 3. Pero al tratarse de un paciente con insuficiencia renal severa no podemos usar el sofosbuvir por lo tanto, la única opción correcta sería la 2. La combinación elbasvir+grazoprevir se puede usar para los genotipos 1 y 4 pero no para el 3; la combinación daclatasvir + ribavirina no se usa."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Acude a consulta un hombre de 70 años refiriendo que hace una hora se ha pinchado de forma accidental en el parque con una aguja conectada a una jeringa abandonada con restos de sangre. El paciente no ha padecido hepatitis B ni ha recibido vacunación. ¿Cuál es la actitud MÁS correcta?",
+      "opciones": [
+        "Administrar una dosis de gammaglobulina frente a VHB y una dosis de vacuna.",
+        "Administrar una dosis de gammaglobulina frente a VHB y vacunación completa.",
+        "Administrar una dosis de gammaglobulina frente a VHB y realizar antisepsia de la zona.",
+        "Realizar antisepsia de la zona y vacunación completa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante una exposición del VHB en un individuo no vacunado que puede ocurrir de forma accidental, por pinchazo con material contaminado con antígeno de superficie del VHB (HBsAg), por vía sexual, tras el contacto sexual con una persona positiva al HBsAg o perinatal, en recién nacidos cuyas madres son portadoras del VHB se debe realizar inmunoprofilaxis tanto activa como pasiva. La inmunoprofilaxis pasiva se realiza con la administración intramuscular de inmunoglobulina específica anti-VHB y la activa con la vacunación completa con vacunas recombinantes que se administran en 3 dosis a los 0 (momento de la exposición), 1 y 6 meses por vía intramuscular en el deltoides. Tras ésta, se detectan niveles protectores de anticuerpos (anti-HBs > 10 mUI/ml) en más del 90% de los adultos y del 95% de niños y adolescentes."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Paciente colecistectomizada hace 6 años por colelitiasis. Desde hace 6 meses presenta dolor cólico en el flanco derecho a temporadas. En la analítica hay valores de colestasis moderada. La ecografía abdominal confirma coledocolitiasis. ¿Cuál, entre las siguientes, es la prueba indicada para realizar en PRIMER lugar, en este caso?",
+      "opciones": [
+        "Tomografía computarizada abdominal con contraste i.v.",
+        "Colangiografía retrógrada endoscópica.",
+        "Colangioresonancia magnética.",
+        "Colangiografía isotópica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante un cuadro de cólico biliar e imagen sugestiva de coledocolitiasis en un paciente colecistectomizado se debe pensar siempre en una coledocolitiasis residual. La ecografía confirma el diagnóstico. La prueba de elección para la extracción de las litiasis es la colangiografía retrógrada endoscópica (CPRE) (marcamos la opción de respuesta 2)."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Un paciente de 45 años de edad es diagnosticado de esófago de Barrett largo (segmento de 6 cm) y sigue tratamiento con inhibidores de la bomba de protones (IBP) en dosis estándar. ¿Cuál de las siguientes afirmaciones es cierta?:",
+      "opciones": [
+        "Mientras se mantenga el tratamiento continuo con IBP, se elimina el riesgo de cáncer.",
+        "Se debe asegurar un control adecuado de la secreción ácida con dosis altas de IBP o, preferiblemente, ajustando la dosis mediante pHmetría.",
+        "El seguimiento sólo es necesario si existe displasia de alto grado.",
+        "La inhibición adecuada de la secreción ácida logra la regresión del epitelio metaplásico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Paciente con Barrett en tratamiento con IBP. Debemos asegurar la eficacia de los mismos ya q si no el paciente sería candidato a cirugía anti reflujo"
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Qué proteína es codificada por la región preS2 + S del genoma del VHB?",
+      "opciones": [
+        "HBcAg.",
+        "HBeAg.",
+        "Proteína mediana.",
+        "Proteína grande."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las proteínas de VHB se codifican por:\n\n- HBcAg: gen C (si la transcripción se inicia a nivel de la región Core).\n- HBeAg: gen C (si la transcripción se inicia en la región precore).\n- Proteína principal: región S.\n- Proteína mediana: preS2 y región S (respuesta 3 correcta).\n- Proteína grande: preS1, preS2 y región S."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Señale la afirmación INCORRECTA en relación con el estudio del paciente con colelitiasis:",
+      "opciones": [
+        "La primera técnica de imagen que debemos realizar es la radiografía simple de abdomen.",
+        "La colangiorresonancia presenta una sensibilidad y una especificidad similares a la CPRE.",
+        "La ecografía endoscópica es altamente rentable para estudiar las zonas distales del colédoco.",
+        "La CPRE puede producir, como efecto secundario, un aumento leve y transitorio de la amilasa."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La primera técnica de imagen que debemos realizar en el estudio del paciente con colestasis es una ecografía para valorar si existe, o no, dilatación de la vía biliar y la presencia, o no, de colelitiasis (opción 1 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Una mujer de 49 años acude de Urgencias por presentar tiritona, fiebre de 39 ºC, dolor en hipocondrio derecho, ictericia y vómitos. La exploración revela TA 100/50 mmHg, FC 110 lpm. Postración y dolor a la palpación en cuadrante derecho, con Murphy positivo. La analítica muestra leucocitosis con desviación izquierda y la ecografía abdominal, colelitiasis, coledocolitiasis y dilatación de la vía biliar extrahepática. Se inicia tratamiento empírico con antibiótico y fluidoterapia. ¿Cuál es el procedimiento MÁS eficaz que podemos realizar a continuación?",
+      "opciones": [
+        "Mantener tratamiento antibiótico y medidas de soporte con colecistectomía reglada posterior.",
+        "Colecistectomía laparoscópica.",
+        "Colecistectomía urgente con canulación del colédoco.",
+        "Colangiopancreatografía retrógrada endoscópica con esfinterotomía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta paciente cumple los tres criterios clínicos de la Triada de Charcot para el diagnóstico de colangitis aguda: fiebre, dolor abdominal en hipocondrio derecho e ictericia. Además, presenta también datos de síndrome de respuesta inflamatoria sistémica por la existencia de fiebre, taquicardia y leucocitosis, presumiblemente de causa infecciosa; es decir, estamos ante un caso clínico de sepsis biliar secundaria a coledocolitiasis demostrada por ecografía abdominal. Para el manejo es necesario fluidoterapia, antibioterapia empírica y desobstrucción de vía biliar mediante colangiopancreatografía retrógrada endoscópica con esfinterotomía para extracción de la litiasis, que constituye la alternativa terapéutica más eficaz y de elección ante una obstrucción biliar."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "La manifestación clínica más frecuente en la hepatitis fulminante es:",
+      "opciones": [
+        "Coagulación intravascular diseminada.",
+        "Encefalopatía hepática.",
+        "Hipotensión arterial.",
+        "Ascitis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La manifestación clínica más frecuente de la hepatitis fulminante y síntoma \"princeps\" a partir del cual deberemos sospecharlo es la encefalopatía hepática. Otras manifestaciones que pueden orientarnos a este proceso es el deterioro de la coagulación y la hipoglucemia pero son menos frecuentes que el anterior."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuál de las siguientes manifestaciones NO es característica de una colestasis prolongada?:",
+      "opciones": [
+        "Hipercolesterolemia.",
+        "Osteopenia.",
+        "Degeneración neuromuscular.",
+        "Estreñimiento."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el síndrome colestático, parte de la sintomatología se debe al déficit de vitaminas liposolubles. Así, puede surgir osteopenia u osteomalacia por alteraciones en la absorción proteica y de la vitamina D; y alteraciones neuromusculares o ataxia si hay déficit de vitamina E, situación de baja frecuencia y que se observa básicamente en niños. Por otra parte, hay síntomas derivados de la retención de bilis como ictericia, hipercolesterolemia, prurito y en ocasiones puede encontrarse diarrea tipo esteatorrea por falta de absorción de las grasas al no aportarse sales biliares. No se ha descrito estreñimiento."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "La vitamina B12 es producida por microorganismos que viven en simbiosis en las raíces de las plantas. Las concentraciones de vitamina B12 que están presentes en los tejidos animales son demasiado bajas para su uso en la producción comercial. La síntesis química tampoco es práctica, ya que requiere 70 etapas de reacción. La producción comercial se lleva a cabo en la actualidad enteramente por fermentación. La producción industrial de vitamina B12 está destinada a la elaboración de suplementos y para enriquecer alimentos. Existen diferentes cantidades de vitamina B12 de manera natural en huevo, aves, carnes, marisco y lácteos. La vitamina B12 se absorbe:",
+      "opciones": [
+        "En el estómago, ayudado por el factor intrínseco.",
+        "En el duodeno cuando el pH es ácido.",
+        "En las últimas porciones del íleon.",
+        "En el ciego."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La vitamina B12, se encuentra en las proteínas animales, de donde es liberada por acción del ácido clorhídrico y la pepsina. La cobalamina se une inicialmente a una proteína ligadora de cobalamina (R-binder o cobalofilina), también secretada por el estómago. El complejo cobalofilina-cobalamina es degradado por las proteasas pancreáticas dentro de la luz duodenal con liberación de la cobalamina, que se une al FI gástrico. Este complejo alcanza los últimos 60 cm del íleon, donde se une a un receptor específico que absorbe la vitamina B12."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "¿Cuál de las siguientes sustancias NO disminuye la presión del esfínter esofágico inferior?:",
+      "opciones": [
+        "Atenolol.",
+        "Diacepam.",
+        "Teofilina.",
+        "Barbitúricos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El efecto del atenolol es justamente el contrario al que nos indican, es decir, lo que hace es incrementar la presión del esfínter. El resto de las opciones son conocidos estímulos que inducen su relajación y, por lo tanto, facilitan el reflujo gastroesofágico."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Comparados con la cimetidina, la ranitidina y famotidina en el tratamiento de la úlcera péptica:",
+      "opciones": [
+        "Producen efectos anticolinérgicos.",
+        "Neutralizan el ácido gástrico.",
+        "Producen menos efectos secundarios.",
+        "Eliminan la necesidad de prescribir antiácidos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los tres fármacos mencionados son antagonistas del receptor histamínico H2, al que bloquean, con lo que disminuyen la secreción ácida gástrica. La diferencia entre ellos no es la potencia, sino el perfil de efectos secundarios, que son menos frecuentes con la ranitidina y la famotidina. Recuerda que la cimetidina puede producir ginecomastia, aparte de arritmias cardíacas, por lo que hoy prácticamente ya no se emplea."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Mujer de 26 años con disfagia a líquidos y solidos desde hace un año. Ha presentado varios episodios de sensación de impactación esofágica y pérdida de 15 kg de peso. Asimismo refiere levantarse por la mañana con halitosis importante. La gastroscopia demostró la existencia de retención alimentaria esofágica que impedía continuar. En relación con la entidad que debería sospechar, señale la afirmación que considere INCORRECTA:",
+      "opciones": [
+        "La causa más frecuente en nuestro medio es la esclerosis múltiple.",
+        "El hallazgo de presurización panesofágica condiciona buena respuesta al tratamiento.",
+        "Contracciones prematuras de gran amplitud en el 50% de las degluciones condicionan peor respuesta al tratamiento.",
+        "La presión del esfínter esofágico inferior puede ser normal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La causa más frecuente en nuestro medio es la primaria y el adenocarcinoma gástrico. La Acalasia de tipo II caracterizada por ausencia de peristaltismo con presurización panesofágica es el subtipo que mejor responde a cualquier tipo de tratamiento), mientras que la espástica (con contracciones prematuras en más del 20% de las degluciones líquidas estudiadas, es el subtipo que peor responde a cualquier modalidad de tratamiento. En la Achalasia el esfínter esofágico inferior puede ser hiperpresivo o normopresivo."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Paciente con colitis ulcerosa desde hace 11 años que es sometido a colonoscopia de despistaje rutinaria, con toma de múltiples biopsias. El informe de anatomía patológica revela displasia de alto grado en una de las biopsias, confirmada por un segundo patólogo. Interrogando al paciente, este revela que se encuentra “fenomenal”, sin clínica digestiva ni alteraciones analíticas. Actualmente está en tratamiento de mantenimiento con mesalazina y azatioprina. ¿Cuál será la actitud correcta ante nuestro paciente?",
+      "opciones": [
+        "Aumentar la periodicidad del despistaje endoscópico, repitiendo la exploración cada 3 meses y actuar según hallazgos.",
+        "Resección quirúrgica limitada al segmento colónico cuya biopsia resultó positiva para displasia de alto grado.",
+        "Valorar la adición al tratamiento de mantenimiento de infliximab y realizar nueva colonoscopia de control en 6 meses.",
+        "Valoración quirúrgica para realización de panproctocolectomía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Todo paciente con colitis ulcerosa en cuyo despistaje de cáncer colorrectal se halle displasia de alto grado y esta sea confirmada por un segundo patólogo con experiencia, debe ser sometido a panproctocolectomía precoz."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Cuál es el mecanismo fundamental por el que los síndromes de hipercrecimiento bacteriano causan malabsorción intestinal?",
+      "opciones": [
+        "Efecto tóxico de las toxinas bacterianas sobre la mucosa.",
+        "Inhibición de las disacaridasas de la mucosa.",
+        "Hidrólisis de las sales biliares en el intestino.",
+        "Consumo bacteriano de las enzimas proteolíticas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Lo que se produce fundamentalmente en el sobrecrecimiento bacteriano es consumo de sustancias nutrientes (como vitaminas y azúcares) por parte de los microorganismos. Además, los productos metabolizados por las bacterias producen una desconjugación de las sales biliares. Esto provoca que las grasas ingeridas con la dieta no puedan ser absorbidas, dando lugar a malabsorción intestinal con esteatorrea."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "¿Qué papel tiene la CPRE en el diagnóstico de los pseudoquistes?:",
+      "opciones": [
+        "Es la primera prueba a realizar ante la sospecha de pseudoquiste.",
+        "Debe realizársele a la mayoría de los pacientes después de un TC.",
+        "Se debe realizar en la mayoría de los pseudoquistes que no se resuelven en dos semanas.",
+        "Es conveniente llevarla a cabo inmediatamente antes de la cirugía de un pseudoquiste."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La utilidad de la CPRE en el manejo clínico de los pseudoquistes de páncreas viene dada por ser una técnica de imagen que nos va a permitir demostrar o no la comunicación entre el pseudoquiste y los conductos pancreáticos lo cual es útil en el momento de decidir entre las opciones de tratamiento del pseudoquiste. Así pues en los casos en los que se demuestre la existencia de una comunicación entre el pseudoquiste y los conductos pancreáticos la opción de realizar una punción drenaje debe ser evitada pues el riesgo de originar una fístula pancreática después de la resolución del pseudoquiste es muy alta así como el de que este recurra. Sólo en los casos en los que no exista comunicación podremos optar por un drenaje percutáneo como opción de tratamiento del pseudoquiste con una garantía relativa de no crear fístula pancreática.."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Varón de 33 años que refiere sensación de presión en región hipofaríngea y tos de predominio matutino. Tras consultar con servicio de ORL y descartarse patología a ese nivel, se remite para continuar el estudio puesto que refiere desde hace meses regurgitaciones de comida postprandiales ocasionales y pirosis. Se realizó una gastroscopia en la que se observa únicamente una pequeña hernia de hiato. ¿Cuál sería su actitud a continuación?:",
+      "opciones": [
+        "Solicitaría una pHmetría de 24 horas de doble canal para descartar reflujo esofágico con síntomas faríngeos.",
+        "Iniciaría una prueba con Nifedipino y nitritos.",
+        "Repetiría la gastroscopia con toma de biopsias para descartar esofagitis eosinofílica.",
+        "Manometría esofágica para descartar una Achalasia cricofaríngea y poder realizar dilatación a continuación del esfínter superior esofágico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se nos presenta un típico caso de posible reflujo gastroesofágico con síntomas ORL. Ante la no existencia de lesiones en la gastroscopia, la siguiente exploración sería una pHmetría de 24 horas de doble canal (bajo y alto) para descartar un reflujo patológico y correlacionarlo con los síntomas que refiere el paciente. La hernia de hiato iría favor también de un posible reflujo gastroesofágico. Como el paciente no tiene síntomas alérgicos previos y no relata disfagia, no sospecharíamos una esofagitis Eosinofílica. Tampoco podríamos sospechar un trastorno motor, por lo que realizar una prueba con Nifedipino o pedir manometría no sería adecuado."
+    }
+  ]
+}

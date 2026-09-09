@@ -1,0 +1,579 @@
+{
+  "materia": "anatomia",
+  "paginaInicio": 37,
+  "paginaFin": 54,
+  "anomalias": [
+    "p40: el comentario de 'La adducción del pulgar es dependiente del nervio' cita 'opciones 1 y 5 incorrectas' y 'opción 2 incorrecta', pero la pregunta solo tiene 4 opciones",
+    "p45: el comentario de '¿Qué suturas se unen en el bregma?' es internamente incoherente: sitúa el bregma dentro de la sutura lambdoidea ('en dicha sutura podemos ver la intersección de suturas... el bregma') y a la vez dice que une las suturas sagital y coronal",
+    "p47: el comentario de la pregunta sobre anatomía esofágica etiqueta las opciones como R1, R2, R3 y R5 (no existe R4), aunque la pregunta solo tiene 4 opciones",
+    "p47: el comentario remite a 'la figura adjunta', que no se rasterizó; en la página 48 solo queda el pie suelto 'Nervios laríngeos recurrentes', que se ha conservado al final de la explicación",
+    "p48: el comentario de '¿Cuál de las siguientes NO es una función que realiza el gastrocnemio?' afirma que el gastrocnemio realiza 'flexión dorsal del pie', cuando es flexor plantar; la clave (opción 3) depende de esa afirmación",
+    "p51: el comentario de 'Con respecto a los músculos flexores comunes de los dedos' cita 'opción 5 incorrecta', pero la pregunta solo tiene 4 opciones"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 37,
+      "enunciado": "¿Qué estructura se relaciona con el punto pterion?",
+      "opciones": [
+        "Arteria meníngea media",
+        "Arteria carótida interna",
+        "Vena yugular",
+        "Lóbulo frontal"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El pterion es una zona del cráneo en la que confluyen los huesos frontal, parietal, esfenoides y temporal. En esta zona, el hueso es muy fino (2,5 mm) y además por ella pasa la arteria meníngea media. Por tanto, ante un traumatismo en dicho punto, la arteria puede ser seccionada por el hueso fracturado y dar lugar a un hematoma extradural."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Con respecto a los músculos escalenos del cuello señale la afirmación que considere INCORRECTA:",
+      "opciones": [
+        "Los escalenos anterior y medio se insertan inferiormente en la primera costilla.",
+        "Las ramas anteriores del plexo braquial y la vena subclavia entran en el triángulo posterior del cuello a través del triángulo de los escalenos.",
+        "El nervio frénico se relaciona con la cara anterior del escaleno anterior.",
+        "Los ganglios cervicales profundos inferiores guardan una estrecha relación anatómica con los escalenos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta complicada y poco rentable, no te agobies si la has fallado. Los músculos escalenos anterior y medio se insertan inferiormente en la primera costilla, formando entre los tres un ojal por el que discurren las ramas anteriores del plexo braquial y la ARTERIA subclavia, llamado triángulo de los escalenos. Por lo tanto la VENA subclavia no forma parte del mismo (opción 2 incorrecta). Recordad que el músculo escaleno anterior cuenta con otras tres relaciones importantes: el nervio frénico, la vena subclavia (se encuentra por delante del mismo) y los ganglios cervicales."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Con respecto a los movimientos de rotación de la articulación del hombro, señale la respuesta que considere correcta:",
+      "opciones": [
+        "El pectoral mayor es rotador lateral de la articulación glenohumeral.",
+        "El subescapular es rotador medial de la misma.",
+        "El deltoides no ejerce movimientos de rotación.",
+        "El infraespinoso también es rotador medial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "De la anatomía del hombro, lo más rentable es repasar el manguito de los rotadores. La acción fundamental del deltoides es la abducción del brazo, pero su porción clavicular tiene un componente de rotación interna, y la porción espinal produce rotación externa (opción 3 incorrecta). El pectoral mayor es un aproximador potente, sobre todo cuando el brazo está elevado, y también produce rotación interna del brazo (opción 1 incorrecta). El manguito de los rotadores está formado por 4 músculos: el supraespinoso, el infraespinoso, el redondo menor y el subescapular; todos ellos producen rotación externa o lateral del hombro salvo el subescapular, que produce rotación interna (opción 4 incorrecta, opción 2 correcta)."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Señale en cuál de las porciones duodenales se localiza la ampolla duodenal:",
+      "opciones": [
+        "Superior.",
+        "Descendente.",
+        "Inferior.",
+        "Ascendente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La ampolla duodenal se sitúa en la segunda porción, la descendente (RC:2)."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Respecto a la musculatura del dedo pulgar y más concretamente a los músculos pertenecientes a la eminencia tenar, ¿qué músculo de los siguientes NO forma parte de este grupo de músculos?",
+      "opciones": [
+        "Flexor largo del pulgar.",
+        "Oponente del pulgar.",
+        "Abductor corto del pulgar.",
+        "Aductor del pulgar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La eminencia tenar está formada por cuatro músculos destinados al dedo pulgar que ejercen sus acciones a nivel de la articulación metacarpofalángica y carpometacarpiana del pulgar. Dichos músculos son:\n- Flexor CORTO del pulgar (marcamos la opción de respuesta 1).\n- Oponente del pulgar.\n- Abductor corto del pulgar.\n- Aductor del pulgar."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "La localización anatómica habitual de un bazo en un adulto es:",
+      "opciones": [
+        "Entre las costillas IX y X.",
+        "Entre las costillas VIII y IX",
+        "Entre las costillas XII y XI",
+        "Entre las costillas IX y XII"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta Correcta 1: El bazo en un adulto se sitúa contra el diafragma, en la zona entre\n\nlas costillas IX y X."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la vascularización del riñón es CORRECTA?",
+      "opciones": [
+        "La arteria renal derecha pasa por delante de la vena cava inferior y emite sus ramas terminales antes de penetrar en el hilio renal.",
+        "La arteria renal izquierda es más larga que la derecha y se origina en la cara izquierda de la aorta.",
+        "Las arterias renales emiten colaterales para la glándula suprarrenal, la parte proximal del uréter y para la cápsula fibroadiposa del riñón.",
+        "La vena renal derecha es más larga que la izquierda y finaliza en la cara izquierda de la vena cava inferior."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La arteria renal derecha se origina en la cara anterior de la aorta, pasa por detrás de la vena cava inferior (opción 1 incorrecta) y emite sus ramas antes de penetrar en el hilio renal.\n\nLa arteria renal izquierda es más corta que la derecha (opción 2 incorrecta), se origina en la cara izquierda de la aorta y penetra en el hilio renal.\n\nLas arterias renales emiten colaterales para la glándula suprarrenal, para la parte proximal del uréter y para la cápsula fibroadiposa del riñón (opción 3 correcta).\n\nFinalmente, la vena renal derecha es más corta que la izquierda, se sitúa por delante de la arteria y finaliza en la cara derecha de la vena cava inferior (opción 4 incorrecta)."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Con respecto al conducto de los aproximadores, señale la opción que considere CORRECTA:",
+      "opciones": [
+        "Es anterior al músculo sartorio.",
+        "Es atravesado por la arteria femoral, la vena femoral y el nervio safeno.",
+        "Conduce a un hiato localizado en el espesor del aproximador largo.",
+        "Su límite lateral lo constituye el vasto lateral."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El conducto de los aproximadores, conducto femoral o de Hunter, es un canal que comunica la cara anterior del muslo con el hueco poplíteo, en el que desemboca. Este conducto de sección triangular está limitado medialmente por los aductores mayor y largo, anteriormente por el sartorio y lateralmente por el vasto interno. En su interior discurren los vasos femorales y el nervio safeno (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "¿Cuál es la primera rama intracraneal de la arteria carótida interna?",
+      "opciones": [
+        "Arteria oftálmica",
+        "Arteria coroidea posterior",
+        "Arteria palatina",
+        "Arteria coroidea anterior"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Que no te despisten las coroideas (son ramas más tardías). La primera rama intracraneal de la carótida interna es la oftálmica, que se ve muy bien en las angiografías. La palatina es rama de la carótida externa. (opción 1 correcta)"
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "La adducción del pulgar es dependiente del nervio:",
+      "opciones": [
+        "Radial.",
+        "Mediano.",
+        "Cubital.",
+        "Musculocutáneo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La inervación del brazo y la mano es un tema que se pregunta con cierta frecuencia. Los movimientos del pulgar vienen resumidos en la tabla 5 del Manual; lo más sencillo es aprenderse las excepciones. Los músculos de la eminencia tena están inervados en general por el mediano, excepto el abductor largo (nervio radial, opciones 1 y 5 incorrectas) y el aproximador del pulgar (nervio cubital, opción 2 incorrecta, opción 3 correcta). El musculocutáneo no da inervación para la mano (opción 4 incorrecta). La lesión del cubital produce el signo de Froment, que consiste en que el paciente no puede aproximar el primer dedo al segundo y, para compensar este déficit, lo flexiona. Si se le pide que sujete por ejemplo una hoja de papel lo hará de este modo, flexionando la falange distal del pulgar, pero así no podrá sujetarla con fuerza y será muy fácil quitársela. (Manual CTO 4ªEd. Anatomía y Anatomía Patológica, pag 13)"
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "El núcleo salivar superior, desde donde parte la neurona preganglionar parasimpática para la glándula submandibular ¿a qué par craneal pertenece en su origen real?:",
+      "opciones": [
+        "N. Hipogloso (XII).",
+        "N. Trigémino (V).",
+        "N. Facial (VII).",
+        "N. Glosofaringeo (IX)."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta complicada que puedes intentar deducir si conoces un poco la anatomía y fisiología del nervio facial. Las fibras eferentes viscerales del n.intermediario de Wrinsberg (rama sensitiva del VII par) se originan en el núcleo salivar superior ubicado en la formacion reticular dorsolateral. Son fibras parasimpáticas preganglionares y que se unen al ganglio pterigopalatino mediante el n.petroso superficial mayor y mediante la cuerda del tímpano alcanzan el ganglio submaxilar. Las fibras postganglionares del ganglio submaxilar pasan a las glándulas sublingual y submaxilar."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cuál de las siguientes estructuras del corazón se localiza en el interior del triángulo de Koch y retrasa la conducción a los ventrículos?",
+      "opciones": [
+        "Nodo sinusal o de Keith-Flack.",
+        "Nodo auriculoventricular o de Aschoff-Tawara.",
+        "Haz de His",
+        "Tendón de Todaro."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El nodo auriculoventricular o de Aschoff-Tawara está formado por células cardíacas especializadas en la formación y la conducción de impulsos eléctricos cardíacos retrasando la velocidad de conducción de las aurículas a los ventrículos y se encuentra situado en la porción inferior del surco interauricular próximo al septo membranoso interventricular, en el vértice superior del triángulo de Koch (espacio entre el seno coronario, la válvula septal tricuspídea y el tendón de Todaro). Para entender la función de dicho nódulo es importante conocer otro nódulo como es el sinusal o sinoauricular el cual inicia o forma el impulso eléctrico cardíaco siendo el marcapasos del corazón, se encuentra en la pared lateral superior de la aurícula derecha, en inmediata relación con la desembocadura de la vena cava superior.\n\nPor su parte, el haz de His es una formación intracardíaca que forma parte del sistema de conducción del corazón, por medio del cual la excitación de las aurículas se trasmite a los ventrículos. Se origina en el nódulo de Tawara situado en la aurícula derecha y recorre la cara inferior del tabique interauricular. Las últimas derivaciones del haz de His se extienden por el endocardio ventricular, formando la red de Purkinje."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "El Omento Menor es una lámina peritoneal situada en la cavidad abdominal que se extiende, principalmente, entre el estómago y el hígado ¿Cuál de las siguientes estructuras no forma parte del mismo?",
+      "opciones": [
+        "Ligamento Hepatogástrico",
+        "Vena Porta Hepática",
+        "Ligamento Redondo",
+        "Ligamento Hepatoesofágico"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El Omento Menor incluye el ligamento hepatogástrico (unión entre el hígado y la curvatura menor del estómago) y el ligamento hepatoduodenal (unión entre el hígado y el duodeno que además contiene la Triada Portal: arteria hepática propia, conducto colédoco y vena Porta Hepática). Además, se pueden incluir de manera inconstante otras porciones dentro del mismo: ligamento hepatofrénico, ligamento hepatoesofágico y el ligamento hepatocólico. El ligamento redondo, sin embargo, es el vestigio fibroso que queda de la vena umbilical fetal que trasportaba sangre desde la placenta a través del cordón umbilical hasta el feto pero sin formar parte de la estructura del Omento Menor"
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Señale cuál de las siguientes arterias discurre en la parte más caudal del triángulo cervical posterior:",
+      "opciones": [
+        "Arteria cervical transversa.",
+        "Arteria lingual.",
+        "Arteria occipital.",
+        "Primera arteria intercostal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El triángulo posterior está delimitado por el borde posterior del esternocleidomastoideo, el borde superior del trapecio y el tercio medio de la clavícula. El suelo es muscular y contiene los músculos esplenio del cuello, elevador de la escápula y los tres escalenos. Encontramos también la vena yugular externa, arteria subclavia, arteria cervical transversa (siendo esta la más caudal), arteria occipital; nervio accesorio, nervio occipital menor, ramos ventrales del plexo braquial, nervio auricular mayor, nervio cervical transverso, nervios supraclaviculares, nervio frénico, linfonodos de la cadena del espinal y supraclaviculares."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Respecto a los músculos del manguito de los rotadores, señale relación nervio-músculo correcta:",
+      "opciones": [
+        "Nervio axilar - músculo redondo menor.",
+        "Nervio subescapular inferior - músculo subescapular.",
+        "Nervio subescapular superior - músculo supraespinoso.",
+        "Nervio supraescapular - músculo subescapular."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "De la anatomía del hombro, lo más rentable es repasar el manguito de los rotadores, que se ha preguntado como concepto anatómico en 2004. Al ser cuatro músculos, es fácil construir a partir de ellos una pregunta de 4 opciones.\n\nEstos músculos son: supraespinoso, infraespinoso, redondo menor y subescapular. Aparte de su función motora, todos ellos son estabilizadores de la articulación del hombro. El supraespinoso y el infraespinoso están inervados por el nervio supraescapular. El nervio subescapular superior se encarga del músculo subescapular . El redondo menor está inervado por el nervio axilar o circunflejo, igual que el deltoides, que no forma parte del manguito."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "¿Cuál es el mecanismo de acción lesional que suele provocar una distensión del ligamento peroneo astragalino anterior?",
+      "opciones": [
+        "Flexión dorsal, supinación y aducción.",
+        "Flexión plantar, supinación y aducción.",
+        "Flexión dorsal, pronación y aducción.",
+        "Flexión plantar, pronación y abducción."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El mecanismo fisiopatológico básico es la inversión forzada del tobillo, lo que supone una acción combinada de flexión y supinación del pie; es entonces cuando el ligamento Peroneo Astragalino Anterior se encuentra verticalizado y cualquier fuerza que actúe obligando al tobillo a una mayor supinación puede producir un desgarro. Durante la carrera existe un mecanismo fisiológico de ligera aducción del medio pie; si en el momento de la flexión plantar se produce una inversión brusca (obstáculo en el camino, pisar a un contrario, desnivel en el terreno, terreno irregular, etc.) es posible que se produzca una supinación forzada capaz de lesionar el débil haz Peroneo Astragalino Anterior."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "La sutura sagital de los huesos del cráneo está formada por la unión de:",
+      "opciones": [
+        "Hueso frontal con los huesos parietales",
+        "Hueso parietal con el temporal",
+        "Los dos huesos parietales",
+        "Hueso occipital con los huesos parietales."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La sutura sagital o interparietal conecta los dos huesos parietales del cráneo. Su nombre se debe a que tiene forma de flecha (sagitta en latín), siendo la parte de atrás de la flecha la sutura lambdoidea.\n\nEn la sutura sagital se encuentran dos puntos: el bregma, y el vertex craneal. El bregma es la intersección de la sutura sagital y la sutura coronal. El vertex es el punto más alto de la cabeza ósea y suele estar en el punto medio de la sutura sagital.\n\nEn el momento de nacer, los huesos del cráneo no están unidos. Si ciertos huesos del cráneo crecen demasiado rápido puede ocurrir una craneosinostosis (cierre prematuro de las suturas). Esto puede dar lugar a deformidades en el cráneo. La deformación craneal causada por el cierre prematuro de la sutura sagital se denomina escafocefalia y da lugar a una cabeza larga y estrecha en forma de cuña."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Señale la respuesta falsa en relación con el nervio cubital:",
+      "opciones": [
+        "En el brazo, desciende por el lado posteromedial del húmero.",
+        "En el antebrazo, entra en el compartimento flexor.",
+        "Las ramas superficial y profunda se originan después de pasar por el canal cubital.",
+        "Se origina principalmente de las raíces C5 y C6."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El nervio cubital se origina principalmente de las raíces C8 y T1, con la contribución de C7."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "¿Cuál de las siguientes estructuras NO forma parte de los límites del llamado triángulo de Scarpa o triángulo femoral?",
+      "opciones": [
+        "Vasto medial.",
+        "Ligamento inguinal.",
+        "Músculo sartorio.",
+        "Músculo aductor largo del muslo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta correcta es la 1, ya que el vasto medial no se encuentra dentro de los límites del triángulo femoral o de Scarpa. Dicho triángulo es un punto de referencia anatómico que se encuentra localizado en el tercio superior del muslo. Sus límites son:\n\n- Borde lateral o externo: músculo sartorio.\n\n- Borde medial o Interno: Músculo aductor largo del muslo.\n\n- Borde superior (base del triángulo): ligamento inguinal."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Estando en la consulta de Urgencias le llega un paciente con dolor del hombro. Según un informe ha sido diagnosticado de una lesión del manguito de los rotadores, pero no se deja claro a cuál de sus componentes afecta. Como usted recuerda a la perfección la anatomía del manguito de los rotadores, en ese momento explora al paciente y se da cuenta de su problema. Señale la opción CORRECTA:",
+      "opciones": [
+        "El paciente presenta limitación a la ROTACIÓN EXTERNA del hombro, posiblemente el defecto se encontrará en el músculo supraespinoso.",
+        "El paciente presenta limitación a la ROTACIÓN INTERNA del hombro, posiblemente el defecto se encontrará en el músculo infraespinoso.",
+        "El paciente presenta limitación a la ROTACIÓN INTERNA del hombro, posiblemente el defecto se encontrará en el músculo subescapular.",
+        "El paciente presenta limitación a la ROTACIÓN EXTERNA del hombro, posiblemente el defecto se encontrará en el músculo subescapular."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El manguito de los rotadores es una compleja estructura de músculos que movilizan el hombro. Está compuesto por 4 músculos con distintas funciones:\n\n• El músculo supraespinoso: se encarga de la ABDUCCIÓN inicial del hombro (primero 15-20º).\n• El músculo infraespinoso: Se encarga de la ROTACIÓN EXTERNA del hombro.\n• El músculo redondo menor: se encarga de la ROTACIÓN EXTERNA del hombro.\n• El músculo subescapular: Se encarga de la ROTACIÓN INTERNA del hombro."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Varón de 56 años que es traído en ambulancia por un accidente de tráfico con latigazo cervical. A la exploración se observa incapacidad para encoger los hombros y debilidad de la musculatura del cuello debido a una lesión en el nervio accesorio (XI par craneal). ¿Cuál de los siguientes músculos del cuello está inervado por este nervio craneal?",
+      "opciones": [
+        "Escaleno anterior.",
+        "Esternocleidomastoideo.",
+        "Recto lateral de la cabeza.",
+        "Largo del cuello."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La inervación de los músculos del cuello procede de varios orígenes. La inervación motora cervical dependiente de los pares craneales procede de los nervios:\n\n- Glosofaríngeo (IX pc): músculo estilofaríngeo y el seno carotídeo.\n\n- Vago (X pc): musculatura de la faringe y laringe.\n\n- Accesorio (XI pc): músculos esternocleidomastoideo (respuesta 2 correcta) y trapecio.\n\n- Hipogloso (XII pc): músculos de la lengua, genihioideo y tirohioideo.\n\nLos músculos escaleno anterior, recto lateral de la cabeza y largo del cuello están inervados por nervios espinales cervicales."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Señale cuál de los siguientes pares craneales NO posee componente parasimpático:",
+      "opciones": [
+        "III par craneal (nervio oculomotor).",
+        "VII par craneal (nervio facial).",
+        "IX par craneal (nervio glosofaríngeo).",
+        "XI par craneal (nervio espinal)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que puede deducirse por lo que su dificultad disminuye. Debido a otras asignaturas, sabéis que tanto el III par (posee fibras parasimpáticas que regulan los movimientos pupilares) como VII (posee fibras vegetativas para la secreción de las glándulas lacrimal, submaxilar y subingual) y el X (tiene fibras vegetativas visceromotoras que regulan la motilidad y la actividad secretora del aparato digestivo) tienen un componente parasimpático. La duda surge entre el IX y el XI, pero recordad que el IX tiene fibras vegetativas que tienen su origen en el núcleo salivar inferior que se encargan de regular la secreción salival de la parótida. En cambio el XI par carece de componente vegetativo."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "¿Qué suturas se unen en el bregma?",
+      "opciones": [
+        "Sagital y coronal.",
+        "Coronal y frontal.",
+        "Lambdoidea y sagital.",
+        "Lambdoidea y temporal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La sutura lambdoidea está entre los huesos parietales y el occipital; en dicha sutura podemos ver la intersección de suturas que también llevará su nombre: el bregma, donde se unen las suturas sagital y coronal. El punto lambda es la unión de las suturas sagital y lambdoidea (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Con respecto al asa cervical o asa del hipogloso, señale la respuesta que considere INCORRECTA:",
+      "opciones": [
+        "Sus fibras proceden de los nervios cervicales C1, C2, C3, C4 y C5.",
+        "Las fibras procedentes de C1 llegan a formar parte del nervio hipogloso.",
+        "El origen de la raíz superior del asa del hipogloso suele encontrarse en la zona en la que el hipogloso cruza a la carótida interna.",
+        "La raíz inferior de este asa también se denomina nervio cervical descendente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta muy difícil, no te preocupes si la has fallado. El asa del hipogloso o asa cervical se localiza superficial a la vaina carotídea. Tiene una raíz superior que se anastomosa con el nervio hipogloso y contiene fibras de los nervios cervicales primero y segundo, y una raíz inferior que se anastomosa con el segundo y tercer nervios cervicales (opción 1 falsa ya que no participan ni C4 ni C5). Inerva a todos los músculos infrahioideos a excepción del músculo tirohioideo, es puramente motor y se descarga espontáneamente durante la inspiración normal y forzada"
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Respecto a la vascularización del colon, señale la respuesta FALSA:",
+      "opciones": [
+        "La arteria cólica media es rama de la arteria mesentérica superior e irriga la mayor parte del colon transverso",
+        "La arteria cólica derecha forma una anastomosis con la arteria cólica izquierda que se denomina arcada de Riolano",
+        "La arteria mesentérica inferior es la principal responsable de la vascularización del sigma",
+        "La arteria ileocólica es rama de la arteria mesentérica superior"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta que exige conocer con detalle la vascularización del colon, a cargo de las arterias mesentéricas superior e inferior. La respuesta INCORRECTA es la opción 2, ya que la arcada de Riolano es la anastomosis que forman la arteria cólica MEDIA (rama de la arteria mesentérica superior) con la arteria cólica IZQUIERDA (rama de la arteria mesentérica inferior).\n\nEl resto de opciones son correctas. La arteria mesentérica superior origina las arterias cólica media, cólica derecha e ilecólica, responsables de la vascularización de colon transverso, colon derecho y ciego e íleon, respectivamente. La arteria mesentérica inferior origina la arteria cólica izquierda (irriga el colon izquierdo) y las sigmoideas (irrigan el sigma)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "¿Cuál de estos nervios utilizará un cirujano para la realización de un autotransplante de nervio periférico?",
+      "opciones": [
+        "Nervio femoral cutáneo lateral",
+        "Nervio peroneo",
+        "Nervio safeno",
+        "Nervio femoral cutáneo posterior"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El nervio safeno es una rama sensitiva cutánea del nervio femoral que lleva la sensibilidad de la superficie interna de la pierna. Gracias a ésta propiedad únicamente sensitiva, es el nervio que suele utilizarse cuando hay una lesión grave de un nervio importante que no puede repararse por sí misma. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "¿Cuál de los siguientes huesos NO forma parte del carpo?",
+      "opciones": [
+        "Ganchoso.",
+        "Pisiforme.",
+        "Navicular.",
+        "Trapezoide."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El hueso Navicular NO forma parte del Carpo, sino del Tarso (respuesta correcta 3)."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Indique cual de los siguientes músculos está inervado por el nervio musculocutáneo:",
+      "opciones": [
+        "Flexor común profundo de los dedos de la mano.",
+        "Bíceps braquial.",
+        "Extensor radial largo del carpo.",
+        "Músculo aductor del pulgar."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El bíceps braquial está inervado por el nervio musculocutáneo. El flexor común profundo de los dedos de la mano y el aductor del pulgar están inervados por el nervio cubital. El extensor radial largo del carpo está inervado por el nervio radial."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "En la cirugía del cáncer de esófago es importante conocer bien la anatomía esofágica. ¿Cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        "El esófago tiene capa mucosa, capa muscular y capa serosa.",
+        "El esófago abdominal es más largo que el cervical.",
+        "El diámetro máximo del esófago normal es de 5 cm.",
+        "El esófago torácico pasa por detrás del cayado aórtico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Una pregunta de cierta dificultad, ya que nos exige conocer ciertos detalles anatómicos con bastante precisión.\n\n• R1: el esófago no está rodeado por ninguna serosa. Su única cubierta es el ligamento frenoesofágico, que cubre el 25% inferior del esófago.\n• R2: el esófago abdominal es considerablemente más corto que el cervical.\n• R3: el diámetro máximo del esófago, según Sabiston, alcanza los 2,5 cm, medidos en un esofagograma con bario.\n• R5: el epitelio esofágico normal es escamoso estratificado, no cilíndrico. Si fuese cilíndrico, obedecería a fenómenos de metaplasia (esófago de Barrett).\n\nLa única respuesta correcta es la 4. Efectivamente, el esófago torácico pasa por detrás del cayado aórtico, como puede verse en la figura adjunta.\n\nNervios laríngeos recurrentes"
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "¿Cuál de las siguientes NO es una función que realiza el gastrocnemio?",
+      "opciones": [
+        "Inversión del pie.",
+        "Flexión de rodilla.",
+        "Rotación externa de rodilla",
+        "Flexión dorsal del pie."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las funciones que realiza el músculo gastrocnemio, también llamado gemelos, son la flexión de rodilla y flexión dorsal del pie con tendencia a la inversión. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "La arteria ovárica en la mujer y la arteria testicular en el hombre se originan a nivel de la segunda vértebra lumbar, pero anatómicamente ¿cuál es la estructura vascular origen de las mismas?",
+      "opciones": [
+        "Arteria Ilíaca Común",
+        "Arteria Iliaca Externa",
+        "Arteria Aorta",
+        "Arteria Iliaca Interna"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Tal y como nos indica el enunciado la arteria ovárica y la arteria testicular se originan a nivel de la segunda vértebra lumbar y ambas son ramas arteriales de la Aorta Abdominal (opción 3 correcta). La arteria ovárica realiza su recorrido descendente a lo largo del ligamento suspensorio del ovario y la arteria testicular, tras cruzar por delante del uréter se extiende sobre el conducto deferente y pasa por el conducto inguinal hacia el testículo"
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Señale cual de las siguientes no es rama del nervio ciático:",
+      "opciones": [
+        "Nervio del bíceps femoral.",
+        "Nervio del semitendinoso.",
+        "Nervio del semimembranoso.",
+        "Nervio de aductor menor."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las principales ramas musculares del nervio ciático son la del bíceps femoral, semimembranoso, semitendinoso y aductor mayor. Las principales ramas articulares son para la articulación de la cadera y de la rodilla. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Con respecto al conducto de los aproximadores, señale la respuesta que considere correcta:",
+      "opciones": [
+        "Es atravesado por arteria femoral, vena femoral y nervio safeno.",
+        "Conduce a un hiato localizado en el espesor del aproximador largo.",
+        "Su límite lateral lo constituye el vasto lateral.",
+        "En el seno del conducto, la vena femoral se localiza anterior a la arteria femoral."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El conducto de los aproximadores, conducto femoral o de Hunter es un canal que comunica la cara anterior del muslo con el hueco poplíteo, en el que desemboca (opción 3 incorrecta). Este conducto de sección triangular está limitado medialmente por los abductores mayor y largo, anteriormente por el sartorio (opción 2 incorrecta) y lateralmente por el vasto interno (opción 4 incorrecta). En su interior, discurren los vasos femorales y el nervio safeno (opción 1 correcta). La vena va por fuera de la arteria en la parte inferior del conducto, y al ir ascendiendo se coloca primero por detrás y luego por dentro, pero no por delante de la arteria."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Hombre de 68 años que acude a su consulta por dificultad para la marcha de unos meses de evolución. A la exploración se observa un déficit de la flexión dorsal del pie derecho y una hipoestesia en la cara anterior y lateral de la misma pierna. Se solicita una RMN y en el informe se describe una hernia discal lumbar. ¿Qué raíz es la que estaría probablemente afectada según la exploración del paciente?",
+      "opciones": [
+        "L3.",
+        "L4.",
+        "L5.",
+        "S1."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El paciente tiene dificultad para la dorxiflexión del pie derecho e hipoestesia en la cara anterolateral de la pierna, el nivel de la hernia discal sería L4-L5 y la raíz habitualmente afectada en este tipo de hernias sería L5 (respuesta correcta 3). Esto es debido a que a nivel lumbar las hernias suelen ser posterolaterales afectando a la raíz que se prepara a salir (L5) y no a la que está saliendo (L4)."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Juan es un jugador de fútbol profesional que llega a Urgencias después de un fuerte impacto sobre la tibia derecha. A la exploración se observa una rodilla derecha tumefacta y con inestabilidad multidireccional. Según su sospecha diagnóstica, ¿qué estructura anatómica considera que tiene MAYOR importancia revisar ante la posibilidad de complicaciones graves?",
+      "opciones": [
+        "Nervio ciático poplíteo externo.",
+        "Arteria poplítea.",
+        "Nervio peroneo común.",
+        "Vena poplítea."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El enunciado describe una luxación de rodilla. La inestabilidad multidireccional es clave para el diagnóstico, así como el antecedente de traumatismo agudo. Será muy importante la exploración de la arteria poplítea, pues su lesión inmediata o diferida puede conllevar la necesidad de amputación del miembro (respuesta 2 correcta); incluso hay partidarios de realizar una arteriografía sistemática a todos los pacientes que hayan sufrido una luxación de rodilla para evitar las posibles complicaciones."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "¿Cuál de los siguientes elementos NO se sitúa inferiormente al ligamento inguinal?:",
+      "opciones": [
+        "Ganglio linfático lacunar.",
+        "Nervio cutáneo femoral lateral.",
+        "Rama genital del nervio iliohipogástrico.",
+        "Músculo pectíneo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es importante conocer la anatomía de la región inguinal, pero no es necesario conocer todos los detalles. Debes saber que el ligamento inguinal divide la región en una porción superior llamada región inginoabdominal donde se encuentra el conducto inguinal y una porción inferior que se conoce con el nombre de región inguinocrural. Si sabes que el nervio iliohipogástrico van dentro del conducto inguinal puedes razonar que ésta es la única opción que discurre por encima del ligamento inguinal. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Es FALSO acerca de la glándula tiroides que:",
+      "opciones": [
+        "La glándula tiroides es la mayor de las glándulas exclusivamente endocrinas del cuerpo.",
+        "La glándula es algo mayor y pesada en la mujer que en el varón y puede aumentar algo con el embarazo.",
+        "En algunas ocasiones existe un tercer lóbulo denominado lóbulo piramidal.",
+        "La zona media o istmo es el área más rica en anastomosis entre las arterias tiroideas izquierda y derecha."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta difícil pero que puede deducirse por eliminación. Recordad que normalmente su tamaño es discretamente mayor en las mujeres que en los hombres, tiene un crecimiento transitorio durante la pubertad, embarazo y lactancia. Las arterias proceden de las 2 arterias tiroideas superiores, ramas de carótida externa, de las tiroideas inferiores, ramas de la subclavia, a veces de la tiroidea media o de Neubauer, que nace de la aorta o del tronco braquiocefálico. Puede tener un tercer lóbulo denominado lóbulo piramidal. El nervio laríngeo recurrente está íntimamente relacionado con el tiroides (en concreto con la arteria tiroidea inferior) y por ello en su cirugía hay que tener especial cuidado para no lesionarlo. Por descarte la opción falsa es la 4."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Señale cuál de las siguientes NO es una rama de la arteria carótida externa:",
+      "opciones": [
+        "Arteria tiroidea superior.",
+        "Arteria facial.",
+        "Arteria oftálmica.",
+        "Arteria maxilar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: La arteria oftálmica es una rama colateral de la arteria carótida interna."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Con respecto a los músculos flexores comunes de los dedos, señale la respuesta que considere correcta:",
+      "opciones": [
+        "El músculo flexor común superficial de los dedos se inserta en las falanges medias.",
+        "El músculo flexor común profundo de los dedos es inervado por el interóseo posterior.",
+        "El músculo flexor común superficial de los dedos flexiona las articulaciones interfalángicas proximal, media y distal.",
+        "El músculo flexor común superficial de los dedos es profundo al nervio mediano."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La disposición de los flexores de la mano puede ayudar en algún caso clínico sobre lesiones de tendones; es un tema poco preguntado. El nervio responsable de estos músculos es el mediano (opción 2 incorrecta), que discurre hacia la mano por la fascia del flexor superficial de los dedos y cubierto por éste (opción 5 incorrecta). El músculo flexor superficial termina en las falanges medias (opción 1 correcta), de modo que sólo flexiona las articulaciones metacarpofalángicas e interfalángicas proximales (opción 3 incorrecta). Sin embargo en su inserción deja un ojal que atraviesa el tendón del flexor profundo, que va a insertarse a las falanges distales (opción 4 incorrecta). De este modo, el flexor profundo es el responsable de la flexión de las interfalángicas distales. (Manual CTO 4ªEd Anatomía y Anatomía Patológica, pag 13)"
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "La vena ácigos se origina tras la unión de dos venas, señálelas:",
+      "opciones": [
+        "Vena subcostal derecha y vena lumbar ascendente derecha.",
+        "Vena intercostal posterior común y vena intercostal anterior común.",
+        "Vena hemiácigos y vena hemiácigos accesoria.",
+        "Vena lumbar ascendente izquierda y vena intercostal superior izquierda."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: La vena ácigos surge de la unión entre la vena subcostal derecha y la vena lumbar ascendente derecha. La vena hemiácigos surge de la unión entre la vena lumbar ascendente izquierda y vena subcostal izquierda."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Indique cuál de las siguientes estructuras sirve de inserción para los músculos que componen el manguito de los rotadores (supraespinoso, infraespinoso y redondo menor) EXCEPTO el subescapular:",
+      "opciones": [
+        "Corredera bicipital.",
+        "Cuello anatómico del húmero.",
+        "Troquíter.",
+        "Cuello quirúrgico del húmero."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de detalle anatómico en la que solo puedes recurrir a la memoria. Recuerda que el troquíter o tubérculo mayor del húmero es una estructura anatómica que se encuentra entre el cuello quirúrgico del húmero y la corredera bicipital. En él se insertan los tendones de los músculos supraespinoso, infraespinoso y el redondo menor (marcamos la opción de respuesta 3). El tendón del músculo subescapular se inserta en el troquín."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Paciente de 24 años que acudió a Urgencias hace una semana por incapacidad para mover el brazo derecho después de una caída. En la exploración se observa deformidad del hombro derecho, que se encuentra fijo y en abducción y rotación externa. Después de recibir el tratamiento adecuado se le da el alta, pero acude de nuevo a Urgencias cinco días más tarde, refiriéndole dificultad para la elevación del brazo derecho. En su exploración constata dicha dificultad y, además, una zona de anestesia en la cara lateral de la porción proximal del brazo. ¿Cuál será su diagnóstico?",
+      "opciones": [
+        "Lesión del nervio cutáneo braquial superior aislada.",
+        "Lesión del nervio axilar.",
+        "Lesión del nervio cutáneo supraescapular.",
+        "Compresión del nervio musculocutáneo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El antecedente de caída hace una semana, con deformidad del hombro derecho, la posición fija de abducción y rotación externa nos debe hacer sospechar la posibilidad de una luxación anterior de la cabeza humeral. En dicha región se localiza el nervio axilar, cuya lesión cursa con incapacidad para la elevación del brazo (músculo deltoides) y anestesia en la cara lateral del brazo en su región proximal (respuesta 2 correcta). Es un nervio que se lesiona ante heridas penetrantes, traumatismos con elongación del brazo (motocicleta) o por el mal uso de las muletas."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "De estos músculos... ¿cuál se contrae durante la inspiración normal?",
+      "opciones": [
+        "Intercostales internos",
+        "Intercostales externos",
+        "Intercostales superiores",
+        "Todos los músculos intercostales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Durante la inspiración normal hay una expansión de la caja torácica. Esta expansión se consigue mediante la contracción de los músculos intercostales externos y del diafragma. Opción 2 correcta.\n\nEn el caso de la inspiración forzada entran en juego otros músculos accesorios como son: escalenos, esternocleidomastoideo, serratos mayores o pectorales."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Las nefronas del riñón post-natal derivan del:",
+      "opciones": [
+        "Pronefros.",
+        "Mesonefros.",
+        "Metanefros.",
+        "Conducto de Müller."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta compleja sobre embriología. El sistema excretor es un derivado del mesodermo. Durante el desarrollo intrauterino del ser humano van a formarse tres sistemas excretores, que según orden de aparición son: pronefros, mesonefros y metanefros. Los dos primeros son sistemas rudimentarios y casi no realizan ningún tipo de filtración. El metanefros es el último en aparecer, comienza a desarrollarse a partir de la 5ª semana, y deriva de la porción más caudal del mesodermo. A partir de él van a desarrollarse las distintas estructuras del riñón post- natal. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Indique cual de los siguientes músculos no está inervado por el nervio cubital:",
+      "opciones": [
+        "Aductor del pulgar (eminencia tenar).",
+        "Aductor del meñique (eminencia hipotenar).",
+        "Flexor común profundo de los dedos de la mano.",
+        "Flexor común superficial de los dedos de la mano."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El flexor común profundo de los dedos de la mano tiene inervación del nervio cubital y del nervio mediano. El flexor común superficla de los dedos está inervado por el nervio mediano. El aductor del pulgar es el único músculo de la eminencia tenar inervado por el nervio cubital. En la eminencia hipotenar, el nervio cubital inerva al abductor del meñique, flexor del meñique y oponente del meñique."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Varón de 51 años, con antecedentes de hipertensión arterial y hábito enólico de 40 g al día, trabajador manual de fuerza, que acude a Urgencias con cuadro de dolor en brazo derecho. Refiere que, al levantar un peso considerable, notó \"como un chasquido en el brazo\". El paciente nos comenta que ya llevaba una temporada notando molestias en ese brazo, especialmente cuando realizaba esfuerzos. En la exploración del paciente nos llama la atención la presencia de un hematoma importante en la cara anterior del brazo y del codo, que se extiende hacia la axila y el comienzo de la pared torácica. En la cara anterior del brazo se palpa una masa de localización central y de consistencia blanda (\"signo de la bola caída\"). La movilidad del brazo es normal en cuanto a la flexo-extensión, pero contra resistencia tiene limitación de la flexión del codo. El estudio radiográfico no muestra ninguna alteración ósea. Se le realiza una ecografía, y posteriormente una RMN, que confirman la existencia de una rotura de la porción larga del bíceps, con importante hematoma de partes blandas. Debemos saber que, en condiciones NORMALES, el tendón de la porción larga del bíceps se palpa:",
+      "opciones": [
+        "Por fuera del troquíter.",
+        "Por fuera del troquín.",
+        "Entre el troquíter y el troquín.",
+        "Encima del troquín."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La cabeza larga del bíceps se origina por un tendón muy delgado en la tuberosidad supraglenoidea, en la parte más alta del rodete glenoideo, y por dentro de la cápsula articular rodea a la cabeza humeral hasta llegar a la corredera bicipital, entre troquíter y troquín (respuesta 3 correcta), por donde discurre cubierto por el ligamento transversal del húmero y el tendón del pectoral mayor. En el troquíter, se insertan los músculos supraespinoso, infraespinoso y redondo menor. En el troquín, se inserta el músculo subescapular. Estos cuatro músculos componen el manguito de los rotadores."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Con respecto al nervio axilar, señale la respuesta que considere INCORRECTA:",
+      "opciones": [
+        "Procede de las raíces C5 y C6.",
+        "Atraviesa el espacio triangular del hombro.",
+        "Acompaña a los vasos circunflejos posteriores del húmero.",
+        "Inerva a los músculos deltoides y redondo menor."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El espacio omotricipital, espacio triangular o triángulo de Farabeuf, está delimitado superiormente por el redondo menor, lateralmente por la porción larga del tríceps e inferiormente por el redondo mayor. Es cruzado por la rama escapular de la arteria escapular inferior, no por el nervio axilar (respuesta 2 falsa). Este nervio pasa por el espacio cuadrangular del hombro o cuadrilátero de Velpeau, junto a los vasos circunflejos humerales posteriores."
+    }
+  ]
+}

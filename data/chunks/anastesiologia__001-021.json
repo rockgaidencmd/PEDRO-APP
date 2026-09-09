@@ -1,0 +1,462 @@
+{
+  "materia": "anastesiologia",
+  "paginaInicio": 1,
+  "paginaFin": 21,
+  "anomalias": [
+    "p4: en la primera pregunta el comentario dice que la neostigmina revierte 'la acción del rocuronio y de la neostigmina'; por contexto debería decir cisatracurio, ya que la neostigmina no se revierte a sí misma.",
+    "p4: la opción 4 de la primera pregunta ('Los bloqueos del rocuronio y el cisatracurio son más prolongados que los del sugammadex') compara bloqueos con el sugammadex, que es un agente reversor y no produce bloqueo; el comentario no la aclara.",
+    "p7: la opción 4 de la pregunta sobre manejo perioperatorio de la antiagregación aparece con un prefijo residual 'd)' antes del texto, rompiendo la numeración; se transcribe tal cual.",
+    "p7-p8: en la pregunta sobre reversión de opioides el comentario afirma 'Todas las opciones de respuesta son correctas' e inmediatamente marca la opción 2 como falsa; el enunciado pide la FALSA y la clave (2) es coherente con lo segundo.",
+    "p10: el comentario de la pregunta sobre extubación en vía aérea difícil se refiere a 'la opción D' aunque las opciones están numeradas del 1 al 4 (corresponde a la opción 4).",
+    "p12-p13: en la pregunta del síndrome de Mendelson el comentario razona sobre el embarazo y lo etiqueta '(opción 3 correcta)' y sobre la patología pulmonar y lo etiqueta '(respuesta 4 incorrecta)', invirtiendo las etiquetas respecto al contenido de las opciones; la clave 3 (EPOC) sí corresponde a lo que pide el enunciado.",
+    "p14 y p20: las dos preguntas sobre Mallampati describen la clase II de forma incompatible entre sí (p14: 'paladar blando, úvula y sólo parte de la pared posterior de la faringe'; p20: 'paladar blando y duro, punta de la úvula tapada por la base de la lengua').",
+    "p15: el comentario de la pregunta de hipertermia maligna contiene la frase incoherente/incompleta 'La taquicardia se asocia a presencia de dolor, no sin embargo la rigidez y el aumento importante del CO2 espirado'.",
+    "p21-p22: el comentario de la pregunta sobre NVPO incluye llamadas a notas al pie (superíndices 1 y 2) cuyas referencias no aparecen en el documento; se han omitido en la transcripción."
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "En cuanto a los relajantes musculares en anestesia señale la FALSA:",
+      "opciones": [
+        "El rocuronio y la succinilcolina son de elección en la intubación de secuencia rápida.",
+        "La neostigmina se puede usar para revertir la succinilcolina, rocuronio y cisatracurio.",
+        "EL sugammadex se puede usar para revertir el rocuronio.",
+        "Los bloqueos del rocuronio y el cisatracurio son más prolongados que los del sugammadex."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda que la neostigmina es un inhibidor de la acetilcolinesterasa que se puede usar para revertir la acción del rocuronio y de la neostigmina pero NUNCA de la succinilcolina.\n\nEl rocuronio y la succinilcolina tienen inicio de acción muy rápido siendo los indicados para ISR. Recuerda que la succinilcolina dura solo unos minutos."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Qué riesgo anestésico atribuirías a un paciente varón, de 50 años, con antecedentes de obesidad grado 1, HTA de difícil control a pesar de 2 fármacos antihipertensivos, fumador de 10 cigarrillos/día, que a los tres días de una amigdalectomía debe ser reintervenido por sangrado del lecho quirúrgico?",
+      "opciones": [
+        "ASA 1E",
+        "ASA 2E",
+        "ASA 3",
+        "ASA 3E"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Siguiendo la clasificación ASA y atendiendo las comorbilidades del paciente (obesidad y tabaquismo activo, que asocian complicaciones como la HTA y sdme. metabólico que reducen la calidad y esperanza de vida) le asignaríamos el grado 3. Teniendo en cuenta que la segunda cirugía a la que se le somete es por sangrado amigdalar (urgente), el riesgo ASA del paciente es 3E. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "El óxido nitroso es un gas inorgánico, incoloro e inoloro que se suele utilizar como coadyuvante a otros anestésicos. Una de las siguientes afirmaciones sobre dicho gas es VERDADERA, señale cuál:",
+      "opciones": [
+        "La hipoxia por difusión es una complicación característica",
+        "Es recomendable su uso en presencia de neumotórax ya que difunde muy poco a espacios cerrados con aire",
+        "Sus efectos analgésicos son escasos pero es muy buen hipnótico",
+        "Su uso prolongado produce anemia ferropénica"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El óxido nitroso es un gas poco hipnótico pero analgésico (respuesta 3 incorrecta). Se suele usar como coadyuvante y así se consigue reducir la CAM de ambos gases de manera muy significativa. Además, al ser analgésico permite que se pueda usar como anestésico único en cirugías menores.\n\nEntre sus complicaciones principales tendríamos:\n\nOxida de manera irreversible a la vitamina B12, haciendo que en la exposición crónica pueda aparecer anemia megaloblástica (respuesta 4 incorrecta)\n\nHipoxia por difusión: que se produce por acumulación de gas en el espacio alveolar, que desciende la presión parcial de oxígeno alveolar y arterial (respuesta 1 correcta)\n\nDifusión a espacios cerrados con aire, por lo que estaría contraindicado en presencia de neumotórax (respuesta 2 incorrecta)"
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿Cuál de las siguientes estructuras NO se atraviesa al realizar una punción epidural?",
+      "opciones": [
+        "Ligamento amarillo.",
+        "Ligamento supraespinoso.",
+        "Ligamento interespinoso.",
+        "Duramadre."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En anestesia intradural se atraviesan los ligamentos supraespinoso, interespinoso, ligamento amarillo, espacio epidural, duramadre y aracnoides. En anestesia epidural se atraviesan los ligamentos supraespinoso, interespinoso, ligamento amarillo, y nos quedaremos en el espacio epidural, no perforaremos ni la duramadre (marcamos la opción de respuesta 4), ni el aracnoides."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿En cuál de las siguientes situaciones NO es necesario reprogramar un marcapasos de forma previa a una intervención quirúrgica?",
+      "opciones": [
+        "Bloqueo AV de tercer grado con marcapasos en modo DDD.",
+        "Enfermedad sinusal con marcapasos en modo AAI.",
+        "Bloqueo AV de segundo grado tipo Mobitz II con marcapasos en modo V00.",
+        "Bloqueo AV de segundo grado tipo Mobitz I sintomático con marcapasos en modo VAT."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La indicación de reprogramación de marcapasos debe cumplir tres criterios:\n\n1) Paciente dependiente de marcapasos.\n\n2) Utilización de bisturí monopolar (el bipolar no interfiere con el marcapasos).\n\n3) Campo quirúrgico cercano al tórax, electrodos o generador.\n\nCuando se cumplan estas tres condiciones, se debe reprogramar un marcapasos. En el caso de la pregunta, estos datos no nos sirven para contestarla. Es necesario saber que la programación idónea intraoperatoria es V00, es decir, que el marcapasos va a estimular el ventrículo constantemente, independientemente de la actividad eléctrica que detecte. En la opción de respuesta 3 no es necesario reprogramar el marcapasos porque ya está en el modo de funcionamiento deseado (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Un paciente de 68 años fue intervenido hace dos días de artroplastia total de hombro. Su tratamiento analgésico postoperatorio consta de paracetamol, metamizol y perfusión continua de morfina. A pesar del tratamiento, refiere dolor de la articulación que no le ha impedido dormir, además de somnolencia diurna desde esta mañana. Señale qué actitud le parece la MÁS adecuada:",
+      "opciones": [
+        "Añadir dolantina al tratamiento.",
+        "Añadir tramadol al tratamiento.",
+        "Aumentar la dosis de morfina.",
+        "Disminuir la dosis de morfina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La somnolencia es el primer síntoma por sobredosificación de opiáceos mayores. La artroplastia de hombro se caracteriza por un postoperatorio doloroso, especialmente las primeras 48 horas. El dolor leve es aceptable si permite el descanso, debiendo garantizar la seguridad del paciente en primer lugar. Por tanto, ante la aparición de efectos secundarios dosisdependientes, es obligado disminuir la dosis de mórficos (respuesta 4 correcta). Los mórficos menores podrían ser una alternativa, siempre y cuando se suspendiese el mórfico mayor en primer lugar."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Un paciente acude a la consulta preanestésica requiriendo valoración previa a craniectomía para resección de meningioma frontal izquierdo. Es un varón de 72 años, con antecedentes de dislipemia, hipertensión arterial, cardiopatía isquémica revascularizada con stent recubierto en descendente anterior hace 11 meses, e hiperplasia benigna de próstata. Su tratamiento habitual consta de simvastatina, atenolol, furosemida, ácido acetil salicílico 150 mg/24 horas, clopidogrel y tamsulosina. ¿Cuál es la actitud a seguir?",
+      "opciones": [
+        "Suspender clopidogrel 7 días previos a la intervención y mantener el resto de la medicación hasta el día de la cirugía.",
+        "Sustituir clopidogrel y salicilato por HBPM a dosis profiláctica tromboembólica 7 días previos a la intervención y mantener el resto de la medicación hasta el día de la cirugía.",
+        "Suspender clopidogrel y atenolol, 7 y 2 días previos a la intervención respectivamente.",
+        "Suspender clopidogrel y ácido acetil salicílico 7 días previos a la intervención."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta acerca del manejo de medicación antiagregante y cardiovascular en el paciente con cardiopatía isquémica revascularizada. La doble antiagregación en paciente con stent recubierto está indicada durante un año. Si durante este primer año el paciente debe ser sometido a una intervención quirúrgica, especialmente en el caso de que sea de alto riesgo hemorrágico como lo es la neurocirugía, el clopidogrel y otros antiagregantes atípicos deberán ser suspendidos 7 días antes de la intervención, debido al ritmo de recambio plaquetario del organismo. El ácido acetil salicílico deberá mantenerse incluyendo el día de la cirugía, siempre y cuando la dosis no exceda los 150 mg diarios. Los betabloqueantes no deben suspenderse, ya que mejoran la morbimortalidad perioperatoria (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Paciente de 72 años que debe ser intervenido debido a hemorragias diverticulares recidivantes. Hace 7 meses sufrió un SCASEST con elevación de troponinas y cambios dinámicos en el ECG, por lo que se consideró de alto riesgo. En las primeras 24 horas, se realizó una coronariografía que mostró una estenosis del 87% de la arteria descendente anterior en el tercio medio. Se revascularizó con la colocación del stent fármaco. Desde entonces, el paciente se encuentra en tratamiento con: ácido acetilsacílico 75mg, ticagrelor 180mg, ramipril 5mg, atorvastatina 80mg y metoprolol 200mg. ¿Cuál de las siguientes opciones corresponde al manejo perioperatorio de la antiagregación más adecuado?",
+      "opciones": [
+        "Debe sustituir la doble antiagregación por HBPM 5 días antes de la cirugía, suspendiendo la HBPM 24 horas antes. Reiniciar HBPM y doble antiagregación a partir de las 24 horas tras la cirugía.",
+        "Debe suspenderse Ticagrerol y ácido acetilsalicílico 5-7 días antes de la intervención y reiniciarse con ácido acetilsalicílico durante 7 días, antes de comenzar la doble antiagregación de nuevo.",
+        "Debe suspenderse Ticagrerol y ácido acetilsalicílico 5-7 días antes de la intervención y reiniciarse con la doble antiagregación a partir de las 24 horas.",
+        "d) Debe suspenderse Ticagrerol entre 3-5 días previo a la intervención manteniendo el ácido acetilsalicílico, reiniciar la doble antiagregación a partir de las 24 horas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Recientemente, el intervalo de contraindicación para la realización de una cirugía electiva tras la colocación de un stent fármaco se ha reducido a 6 meses. A partir de entonces, si se requiere la intervención lo más recomendable es la suspensión del inhibidor del P2Y12 los días previos a la cirugía (clopidogrel 5–7 días, prasugel 7–10 días y ticagrelor 3–5 días), de forma que se recupere la función plaquetaria. Se mantiene la antiagregación con ácido acetil salicílico, excepto en los casos de una intervención neuroaxial o de cámara posterior ocular. Opción 4 correcta"
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "En algunas cirugías y procedimientos invasivos se sobredosifica el tratamiento con opioides y pueden aparecer efectos secundarios debido a su uso; por ello se dispone de fármacos para revertir su efecto. Con respecto a esto, es FALSO que:",
+      "opciones": [
+        "Gracias al efecto antagonista competitivo de la naloxona, con afinidad 'mu' mucho mayor se consigue revertir la depresión respiratoria sin eliminar el efecto analgésico.",
+        "Gracias a la vida media más corta de la naltrexona con respecto a la naloxona se puede utilizar la primera en otras indicaciones como en adictos a alcohol.",
+        "La reversión súbita de la analgesia puede ocasionar estimulación simpática debido al dolor intenso y agudo.",
+        "La reversión súbita de la analgesia puede ocasionar síndrome de abstinencia agudo; de ahí la importancia de la dilución correcta del preparado y la dosificación óptima."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta interesante y preguntable. Todas las opciones de respuesta son correctas (NALOXONA – antagonista COMPETITIVO), aunque la naltrexona tiene una vida media mucho más prolongada que la naloxona (opción 2 falsa, por lo que la marcamos), por lo que se puede administrar por vía oral en la adicción a opioides o en el abuso de alcohol."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Respecto a los anestésicos volátiles inhalatorios, señale la respuesta CORRECTA:",
+      "opciones": [
+        "La CAM (Concentración Alveolar Mínima) de un anestésico inhalatorio es aquella concentración del mismo en la que el 50% de la población no sufre un despertar intraoperatorio en respuesta a un estímulo quirúrgico.",
+        "La latencia del fármaco depende del gasto cardíaco, de tal forma que, al aumentar este último, el inicio de acción es más lento.",
+        "Los anestésicos volátiles son de gran utilidad en la anestesia obstétrica debido a su efecto útero-tónico.",
+        "Debido al desarrollo de los hipnóticos volátiles, la incidencia de náuseas y vómitos perioperatorios ha disminuido significativamente en los últimos años."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los anestésicos volátiles son fármacos hipnóticos que se administran por vía inhalatoria. Los más utilizados en la actualidad son sevoflurano y desflurano. La dosis a administrar viene determinada por una concentración de referencia, la CAM (concentración alveolar mínima) que es aquella en la que el 50% de la población no presenta movimiento ante un estímulo quirúrgico. La latencia de estos fármacos depende de su solubilidad en solventes gaseosos y líquidos y es proporcional al gasto cardiaco, a diferencia de la mayoría de fármacos de uso intravenoso (opción 2 correcta). El resto de las opciones hacen referencia a las características farmacológicas más importantes de estos fármacos, siendo proeméticos, broncodilatadores y uterolíticos."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Mujer de 38 años, embarazada de 38 semanas, que acude para analgesia epidural de parto. Ante un mal registro con riesgo de pérdida de bienestar fetal se indica cesárea urgente, por lo que se decide utilizar el catéter epidural para conseguir un adecuado nivel anestésico; sin embargo, comienza la cirugía y la paciente refiere dolor en la zona quirúrgica. Ante esta situación se decide inducción de anestesia general. ¿Cuál le parece la actitud MÁS correcta de entre las expuestas a continuación?",
+      "opciones": [
+        "Debido a que se trata de una mujer embarazada, no se puede realizar inducción de secuencia rápida (ISR) empleando succinilcolina por riesgo de atravesar la barrera fetoplacentaria.",
+        "Debido a que se trata de una mujer embarazada, se debe realizar inducción de secuencia rápida (ISR) usando únicamente succinilcolina debido al riesgo de que otros bloqueantes neuromusculares sí puedan atravesar la placenta.",
+        "Debido a que se trata de una mujer embarazada, se debe realizar inducción de secuencia rápida (ISR) apoyado en el uso de opioides debido a la mayor susceptibilidad de la vía aérea de la embarazada.",
+        "Debido a que se trata de una mujer embarazada, se debe realizar inducción de secuencia rápida (ISR) con succinilcolina o rocuronio."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los bloqueantes neuromusculares (BNM) son compuestos de amonio cuaternario y no atraviesan la placenta. En el caso de inducción de anestesia general en la embarazada, por considerarla vía aérea difícil y estómago lleno, se debe hacer inducción de secuencia rápida con succinilcolina o rocuronio según el contexto clínico (respuesta 4 correcta). No se deben usar opioides hasta la extracción fetal por riesgo de depresión respiratoria."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "La modalidad de analgesia postoperatoria en la que el paciente controla el dolor mediante la administración a demanda del fármaco analgésico, se denomina:",
+      "opciones": [
+        "Bolos.",
+        "Perfusión continúa.",
+        "PCA.",
+        "PCP."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La PCA o analgesia controlada por paciente es un tipo de administración de la analgesia donde el paciente ajusta la dosis en función de las características e intensidad del dolor. Generalmente se usa para la administración intravenosa de opioides (con o sin una infusión continua de base) tras la realización de una cirugía que implique un dolor severo (opción 3 Correcta). Como requisito imprescindible se encuentra que el paciente pueda colaborar."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Varón de 65 años diabético no insulinodependiente, hipertenso y dislipémico con historia previa de SCASEST hace nueve años, estable desde entonces, programado para resección transuretral de vejiga por hallazgo sospechoso en ecografía y con APTO en la consulta de preanestesia. Su tratamiento habitual incluye metformina, atorvastatina, bisoprolol, losartan, AAS y Amlodipino (no ha suspendido ningún fármaco). Se le realiza anestesia subaracnoidea con bupivacaina hiperbárica, alcanzando un bloqueo de fibras sensitivas correspondiente a C4, con bradicardia ligera resultante e hipotensión que no responde a la administración de cristaloide. Como dato añadido, el cirujano comenta que está sangrando un poco más de lo habitual. ¿Cuál de los siguientes medicamentos puede haber influido MÁS en la situación clínica actual del paciente y debería haber suspendido antes del día de la cirugía?",
+      "opciones": [
+        "Amlodipino.",
+        "Losartán.",
+        "AAS.",
+        "Bisoprolol."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre un paciente hipertenso polimedicado que se somete a anestesia raquídea con un bloqueo simpático alto. Está indicado, en caso de administrar varios fármacos antihipertensivos (especialmente si está con diuréticos también), suspender el ARA-II / IECA para evitar hipotensión refractaria en cirugías donde exista un sangrado importante o en actos anestésicos donde se prevean modificaciones de volumen considerables, influidas por posturas quirúrgicas antihemodinámicas (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Varón de 55 años, que es intervenido de manera programada de colecistectomía laparoscópica. Presenta predictores de VAD: mallampati IV, test mordida III, apertura de boca > 4cm, obesidad, SAOS y antecedentes de intubacion difícil en cirugías previas. Se realiza intubación reglada con fibrobroncoscipio. Para la extubación de este paciente, se recomienda:",
+      "opciones": [
+        "Extubar al paciente, tras revertir el bloqueo neuromuscular, estando despierto y colaborador.",
+        "Mantenerlo con sedación profunda para evitar aumentos de la presión arterial o frecuencia cardiaca.",
+        "No utilizar guía de intercambiador del tubo endotraqueal porque puede originar trauma laríngeo.",
+        "Dejarlo intubado hasta que llegue a Reanimación y realizar un destete progresivo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La extubación es igual de importante que la intubación y más siendo en una VAD. Al tratarse de una cirugía electiva, sin complicaciones, deberíamos extubar lo antes posible al paciente, por ello la opción D no es viable. Las guías recomiendan que la extubación en paciente con VAD, se realicen con el paciente completamente despierto para garantizar ventilación espontánea adecuada y tras revertir el bloqueo neuromuscular para restaurar los reflejos protectores de la vía aérea y la capacidad de aclarar las secreciones de la vía aérea superior. También se beneficiarían de una acceso continuo a la vía aérea los pacientes en los que es probable que sea difícil una reintubación, el cual puede conseguirse con un catéter de intercambiador de TET que suelen ser bien tolerados."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Paciente de 65 años, diabético no insulino dependiente, HTA, dislipémico. Tratamiento habitual: metformina, valsartan, atorvastatina. Está programado para prótesis de rodilla derecha. Considerando la intervención, sus antecedentes y tratamiento habitual, cuales son la indicaciones para cumplir el ayuno el preoperatorio:",
+      "opciones": [
+        "Debe cenar la noche anterior, y tomar ni comer más nada hasta la cirugía.",
+        "Puede comer lo que quieras hasta 4 horas antes de la cirugía.",
+        "Puede tomar sólidos hasta 6 horas previas a la intervención, y líquidos claros hasta 2 horas antes.",
+        "El ayuno debe de ser mínimo de 8 horas ya que en los diabético tienen un vaciamiento gástrico más lento."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se recomiendan beber líquidos claros hasta dos horas antes de la cirugía electiva, tanto en niños como en adultos, incluida la cesárea electiva. El ayuno de sólidos debe mantenerse seis horas. Estas recomendaciones son aplicables en pacientes obesos, con reflujo gastrointestinal, diabéticos y gestantes que no hayan iniciado trabajo de parto. (Opción Correcta 3)"
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Paciente masculino de 45 años, sin antecedentes de interés, programado para cirugía de fractura de tercio distal del húmero. Previa monitorización y premedicación con benzodiacepinas, se realiza bloqueo del plexo braquial via axilar, con 20 ml de Bupivacaína y lidocaína. A los 20 minutos refiere sensación de angustia, mareos, tinitus, parestesias en los labios, sabor metálico y presenta mioclonias. Cual es su principal sospecha:",
+      "opciones": [
+        "Ansiedad por la cirugía y anestesia regional despierto.",
+        "Reacción paradójica a la benzodiacepinas de la premediación",
+        "Intoxicación por anestésicos locales",
+        "Ninguna de las anteriores"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las manifestaciones de toxicidad severa por AL, se dan principalmente con la administración intravascular más que por la absorción tisular; siendo así la bupivacaína el AL con mayor riesgo. Inicialmente veremos afectación de SNC con: agitación, mareo, mioclonías, nistagmos, disartria, contracturas musculares, parestesias periorales, alteración de la percepción de sabores (sabor metálico), tinnitus, falta de respuesta a órdenes verbales, trastornos del habla y convulsiones tónico-clónicas (Opción 3 Correcta). Seguido de compromiso cardiovascular, dado por bloqueos de la conducción y colapso cardiovascular de difícil manejo."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Varón de 31 años, sin enfermedades de interés, que es sometido a una apendicectomía laparoscópica de forma urgente. El médico anestesista que le atiende realiza una anestesia general con inducción de secuencia rápida para minimizar el riesgo de aspiración pulmonar. Con respecto a la técnica empleada, es INCORRECTO que:",
+      "opciones": [
+        "Esta técnica está especialmente indicada en mujeres embarazadas.",
+        "Es necesaria la ventilación previa del paciente con mascarilla facial para asegurar un adecuado control de la vía aérea.",
+        "El rocuronio utilizado en la inducción, junto con propofol, es una alternativa a la succinilcolina en la inducción de secuencia rápida.",
+        "La maniobra de Sellick se utiliza de forma rutinaria durante esta técnica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La inducción de secuencia rápida (ISR) es el procedimiento de elección para el acceso y control de la vía aérea en la mayoría de las situaciones de emergencia o en situaciones no emergentes, donde el riesgo de aspiración sea alto (pacientes diabéticos con gastroparesia o mujeres embarazadas). La técnica de ISR consiste en preoxigenar, administración de un hipnótico y relajante muscular de acción rápida y breve, junto con la aplicación de presión cricoidea (la denominada maniobra de Sellick), para proceder lo antes posible y en las mejores condiciones a la laringoscopia e intubación orotraqueal. El hipnótico más frecuentemente utilizado es el propofol junto con un relajante muscular de acción corta (succinilcolina o rocuronio). Durante la técnica se debe intentar no realizar ventilación manual (mediante mascarilla facial) para evitar la insuflación gástrica y reducir así el riesgo de regurgitación o vómito y aspiración (opción 2 incorrecta, por lo que la marcamos). Se evitará siempre que la SpO2, sea > 90% y no esté descendiendo rápidamente."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Llaman al residente de anestesiología a las 4:00 de la mañana para pinchar una epidural a una embarazada. La paciente está muy nerviosa y no para de moverse y gritar. El residente elige pinchar por la técnica de pérdida de resistencia por aire cuando de pronto observa que la jeringa se le empieza a llenar con un líquido claro. SEÑALE LO FALSO:",
+      "opciones": [
+        "El residente ha realizado la técnica correctamente y la salida de líquido cefalorraquídeo es una señal de ello.",
+        "Es una complicación de la técnica que puede generar morbilidad importante en la paciente.",
+        "Es posible que en los siguientes días la paciente experimente una fuerte cefalea que empeora mucho con la bipedestación y mejora con el decúbito.",
+        "Sería recomendable añadir al tratamiento de la paciente otros analgésicos. Puede ser necesario realizar un parche hemático"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El residente está intentando hacer una epidural pero ha avanzado la aguja más de lo necesario provocando una punción húmeda o punción intradural. Se confirma el fallo de la técnica al salir abundante líquido cefalorraquídeo. La aguja epidural es mucho más gruesa que la intradural generando una abundante pérdida de líquido cefalorraquídeo que puede acabar en una cefalea postpunción. Recordemos que esta cefalea mejora mucho con el decúbito y empeora con la bipedestación. Su tratamiento será analgésicos, corticoides, cafeína y si es necesario el parche hemático"
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Son factores de riesgo para que se produzca un síndrome de Mendelson todos los siguientes MENOS uno. Señálelo:",
+      "opciones": [
+        "Tener el estómago lleno",
+        "Padecer hernia de hiato",
+        "Enfermedad pulmonar obstructiva crónica",
+        "Estar embarazada"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome de Mendelson es consecuencia de una broncoaspiración por el paso del contenido ácido del estómago a la cavidad respiratoria que se puede dar en el proceso perioperatoria.\n\nTener el estómago lleno o alguna patología intraabdominal importante parece aumentar la predisposición a la aspiración pulmonar, por lo que la opción 1 y la 2 son correctas.\n\nLa duda estaría entre la opción 3 y la opción 4. Sin embargo, durante el embarazo el vaciamiento gástrico se enlentece aumentando el riesgo de aspiración (opción 3 correcta). La presencia de patología pulmonar no aumentaría a priori el riesgo de aspiración. (respuesta 4 incorrecta)."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuánto tiempo debe transcurrir para poder colocar un catéter epidural después de la administración de enoxaparina sódica a dosis profiláctica de tromboembolismo?",
+      "opciones": [
+        "7 días.",
+        "24 horas.",
+        "12 horas.",
+        "4 horas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Hagamos un breve repaso del tiempo de suspensión necesario de algunos fármacos anticoagulantes y antiagregantes previamente a la realización de una técnica neuroaxial:\n\n- La mayoría de antiagregantes: 7 días.\n\n- Acenocumarol: 5 días.\n\n- HBPM a dosis terapéuticas: 24 horas.\n\n- HBPM a dosis profilácticas: 12 horas (respuesta 3 correcta).\n\n- Heparina sódica: 4 horas."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Mujer de 70 años que está siendo intervenida de prótesis total de rodilla. Todo el procedimiento quirúrgico y anestésico regional cursa con normalidad hasta que, después de la cementación de la prótesis, se suelta el manguito de isquemia colocado para evitar el sangrado excesivo y la paciente comienza con desaturación, obnubilación y sin responder a órdenes, hasta que usted comprueba que sigue teniendo actividad eléctrica registrada electrocardiográficamente, pero sin pulso a nivel central. Ante esta situación, ¿qué opción considera CORRECTA como siguiente paso a seguir?",
+      "opciones": [
+        "Lo prioritario es realizar una descarga con energía programada para desfibrilación.",
+        "Se debe iniciar reanimación cardiopulmonar junto con perfusión de amiodarona.",
+        "Se debe iniciar reanimación cardiopulmonar junto con adrenalina.",
+        "Se debe iniciar reanimación cardiopulmonar junto con descarga con energía programada para desfibrilación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre parada cardiorrespiratoria en adulto con ritmo no desfibrilable (actividad eléctrica sin pulso). No se puede realizar descarga eléctrica sobre un ritmo que no es desfibrilable. Se debe iniciar maniobras de reanimación con adrenalina cada 3-5 minutos y monitorizar el ritmo hasta que sea desfibrilable y entonces administrar la descarga y seguir con la reanimación (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "En relación a la valoración de la vía aérea, indique cuál de las siguientes afirmaciones es falsa:",
+      "opciones": [
+        "Son características asociadas a la dificultad de ventilación con mascarilla facial la presencia de barba, obesidad, edad >55 años, SAOS y ausencia de dientes.",
+        "El grado III de Cormack-Lehane indica visión únicamente de la epiglotis.",
+        "El test de Mallampati se explora con el paciente en sedestación, apertura bucal máxima y sin fonación.",
+        "El grado II de Mallampati indica visión del paladar blando y base de la lengua."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El test de Mallampati se emplea para valorar el grado de visualización de las estructuras faríngeas, en sedestación, con la cabeza en posición neutra, apertura bucal máxima, sacando la lengua y sin fonación.\n\nGrado I: visión de paladar blando, úvula, pilares amig- dalinos y pared posterior de la faringe.\n\nGrado II: visión de paladar blando, úvula y sólo parte de la pared posterior de la faringe.\n\nGrado III: visión de paladar blando y base de la úvula.\n\nGrado IV: visión sólo de paladar duro."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Cuál de las siguientes opciones es FALSA respecto al ayuno preanestésico?",
+      "opciones": [
+        "Tiene como objetivo minimizar el riesgo de aspiración pulmonar asociado a la pérdida de reflejos protectores de la vía aérea.",
+        "El síndrome de Mendelson es la aspiración pulmonar de contenido gástrico relacionada con cualquier acto anestésico.",
+        "El tipo de alimento (líquido claro, leche materna, fórmulas para lactantes, leche no humana y sólido) se relaciona con la rapidez de vaciamiento gástrico.",
+        "Varias características individuales, patologías y/o alimentos pueden retardar el vaciamiento gástrico e incrementar el riesgo de broncoaspiración, como la obesidad y el café."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Algunas de las características que retardan el vaciamiento gástrico y, consecuentemente, incrementan el riesgo de broncoaspiración son: obesidad, embarazo, diabetes, hernia de hiato, reflujo gastroesofágico, íleo u obstrucción intestinal, alimentación enteral o cirugía de urgencia.\n\nEl café, en cambio, incrementa la motilidad gastrointestinal y acelera el vaciamiento gástrico."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Con respecto a la clasificación del riesgo anestésico de la Sociedad Americana de Anestesiólogos (ASA), señale la afirmación FALSA:",
+      "opciones": [
+        "Es la escala más utilizada para la valoración del riesgo anestésico.",
+        "Valora el estado físico del paciente.",
+        "La clasificación del paciente dependerá del tipo de cirugía a la que va a ser sometido.",
+        "Tiene en cuenta la patología concomitante que presenta el paciente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta asequible sobre la escala ASA de valoración de riesgo prequirúrgico. Recordemos las dos características principales de esta escala: - Solo usa datos cualitativos. - No tiene en cuanta la cirugía a la que va a ser sometido el paciente. Teniendo claro estos dos conceptos es una pregunta de fácil resolución."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Varón de 6 años que va a ser sometido a biopsia muscular abierta bajo anestesia general por sospecha de distrofia muscular. Es asmático en tratamiento crónico con combinación de corticoides y B2 agonistas inhalados, con buen control y sin agudizaciones recientes. Tras la inducción anestésica con propofol y fentanilo, se coloca mascarilla laríngea sin incidencias. Se realiza mantenimiento anestésico con sevoflurano al 2%. A los 10 minutos del inicio de la intervención se objetiva un aumento importante de los niveles de CO2 espirado y taquicardia. A la exploración el paciente presenta sudoración y rigidez generalizada. La primera medida que llevaría a cabo sería:",
+      "opciones": [
+        "Pedir ayuda. Interrumpir la administración de sevoflurano administrar oxígeno al 100%, subir el flujo de gas fresco e intubar al paciente ante la sospecha de cuadro de hipertermia maligna.",
+        "Pedir ayuda. Administración de Adrenalia iv ante sospecha de reacción alérgica como primera medida y posteriormente Dantroleno iv por el alto riesgo de hipertermia maligna que presenta este paciente.",
+        "Administrar fentanillo iv ante la sospecha de analgesia insuficiente.",
+        "Pedir ayuda. Administrar salbutamol inhalado y dexametasona iv por sospecha de broncoesasmo severo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La distrofia muscular es un factor de riesgo para el desarrollo de hipertermia maligna. En pacientes con sospecha o diagnóstico de distrofia muscular se deben evitar los fármacos desencadenantes de hipertermia maligna (halogenados y succinilcolina). El aumento importante del CO2 espirado puede hacer sospechar un cuadro de broncoespasmo, sin embargo, la presencia de rigidez muscular generalizada es patognómonico dela hipertemia maligna. La taquicardia se asocia a presencia de dolor, no sin embargo la rigidez y el aumento importante del CO2 espirado. Otro dato que nos lleva al diagnóstico de hipertermia maligna es el uso de un agente halogenado (sevoflurano) durante el mantenimiento, el cual es un fármaco desencadenante. La anafilaxia cursa con manifestaciones cutáneas, broncoespasmo y estridor, hipotensión, taquicardia y paro cardiaco. Ante la sospecha clínica de un episodio de hipertermia maligna se debe actuar con rapidez. Los pasos serán los siguientes:\n\nInterrumpir la administración de agentes halogenados.\n\nAsegurar la vía aérea y una correcta ventilación: Intubación endotraqueal, si el paciente no lo estuviera, O2 al 100%, aumento del flujo de gases frescos, aumento de la ventilación por minuto para aumentar la eliminación de CO2.\n\nAdministración de dantroleno. Único antídoto conocido para la hipertermia maligna.\n\nTratamiento sintomático y de soporte.\n\nControles analíticos seriados y control de diuresis.\n\nvalorar el traslado del paciente a una unidad de cuidados críticos\n\npostoperatorios."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Señale cuál de los siguientes fármacos bloqueantes neuromusculares produce fasciculaciones musculares:",
+      "opciones": [
+        "Rocuronio.",
+        "Pancuronio.",
+        "Cisatracurio.",
+        "Succinilcolina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La succinilcolina es el único bloqueante neuromuscular despolarizante. Esto significa que posee actividad intrínseca al unirse a los receptores de acetilcolina de la placa motora, provocando contracción muscular (fasciculaciones) mediante despolarización de la membrana plasmática. Posteriormente queda unido de forma reversible al receptor, impidiendo la unión de acetilcolina al receptor durante unos minutos y, por tanto, la contracción muscular (respuesta 4 correcta). El resto de los relajantes musculares enumerados en las opciones de respuesta no poseen actividad intrínseca, uniéndose también de forma reversible, aunque más duradera al receptor, e impidiendo la despolarización de la membrana."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Paciente de 48 años que acude a Urgencias por disnea. Antecedentes personales: HTA, DM y obesidad. A la exploración presenta taquipnea de 38 respiraciones minuto, auscultación cardiaca rítmica a 115 lpm, TA 85/50 mmHg, Sat O2: 96% basal. Abdomen blando globuloso. Miembros inferiores: signos de insuficiencia venosa. Presenta úlcera a nivel de anal. El paciente refiere haber estado casi sin comer ni beber en los últimos dos días. Analítica: Hb 13 g/dL, leucocitos 3.500, INR 2,20; Cr: 2,3; gasometría pH 7,30; PO2 80; pCO2 29. ¿Cuál es la PRIMERA sospecha diagnóstica?",
+      "opciones": [
+        "Neumotórax.",
+        "Tromboembolismo pulmonar.",
+        "Shock séptico.",
+        "Cólico renal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nuestra primera sospecha diagnóstica será shock séptico (respuesta 3 correcta). En la analítica destaca la alteración de parámetros producidos por la sepsis: coagulopatía, fallo renal de probable origen prerrenal. FC > 90 lpm, pCO2 < 32, leucocitos < 4.000, FR > 20 rpm. Las demás opciones de respuesta no cursan con todas estas alteraciones."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Un paciente de 49 años es sometido a una cirugía programada de colecistectomía. Exploración física: peso 90 kg; talla 172 cm; presión arterial 145/83 mmHg; frecuencia cardiaca 58 lpm. Auscultación cardiopulmonar normal. En el postoperatorio inmediato refiere dolores. NO es cierto sobre el dolor agudo postoperatorio (DAPO) que:",
+      "opciones": [
+        "La “analgesia multimodal”, es decir, la combinación de fármacos con diferentes mecanismos de acción sobre el dolor, y el empleo de vías de administración distintas, no ha demostrado facilitar el abordaje del DAPO con mayor eficacia clínica ni reducir los efectos adversos de los fármacos seleccionados.",
+        "La anticipación analgésica (“analgesia preventiva”) durante el período pre e intraoperatorio, permite abordar el DAPO con mayor éxito.",
+        "La base del tratamiento del dolor es el farmacológico. No obstante, a diferencia del dolor crónico (por ejemplo, el oncológico), en el DAPO la vía de administración de los fármacos es la intravenosa y la epidural.",
+        "La analgesia controlada por el paciente (PCA), tanto intravenosa como epidural, es la modalidad de analgesia postoperatoria más adecuada en el DAPO moderado y grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El objetivo principal del tratamiento del dolor postoperatorio es conseguir una adecuada analgesia con las mínimas dosis de fármacos posibles, minimizando la aparición de efectos adversos. Para ello, es habitual la combinación de varios tipos de fármacos e, incluso, la combinación de distintas vías de administración (opción 1 incorrecta, por lo que la marcamos). Las demás opciones de respuesta son correctas."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Qué fármaco se caracteriza por: acidosis metabólica, hiperlipidemia, rabdomiolisis y hepatomegalia:",
+      "opciones": [
+        "Etomidato",
+        "Tiopental",
+        "Propofol",
+        "Ketamina"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome por infusión de propofol (SIP) es un cuadro infrecuente pero extremadamente grave secundario a la administración de propofol, fármaco ampliamente utilizado en las unidades de cuidados intensivos. La inestabilidad hemodinámica con acidosis láctica, rabdomiólisis y disfunción multiorgánica son las manifestaciones preponderantes, determinando en muchos casos la muerte del paciente. Si bien el principal factor de riesgo para su desarrollo consiste en la administración prolongada de dosis elevadas de propofol."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Paciente varón de 75 años, obeso y fumador de 12 cigarrillos al día, es programado para una intervención de prótesis de rodilla. Presenta antecedentes de diabetes mellitus tipo II con retinopatía y nefropatía, HTA, EPOC con oxigenoterapia crónica domiciliaria, insuficiencia cardiaca crónica grave y epilepsia tratado con valproato. Tras valorar y explorar al paciente en su consulta preanestésica, usted clasifica su riesgo anestésico en:",
+      "opciones": [
+        "Grupo de riesgo ASA II",
+        "Grupo de riesgo ASA III",
+        "Grupo de riesgo ASA IV",
+        "Grupo de riesgo ASA V"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La clasificación ASA de la American Society of Anesthesiologists es la escala más utilizada para la valoración del riesgo anestésico de un paciente. Este sistema clasifica, de forma cualitativa a los pacientes en 6 grupos, en función de su estado físico previo a la cirugía:\n\nASA I: pacientes sano normal.\n\nASA II: paciente con enfermedad sistémica leve bien controlada.\n\nASA III: paciente con enfermedad sistémica severa con limitación funcional.\n\nASA IV: paciente con enfermedad sistémica grave con amenaza constante para la vida.\n\nASA V: paciente moribundo que no se espera que sobreviva sin intervención quirúrgica.\n\nASA VI: paciente con muerte cerebral declarada y donante de órganos.\n\nEn este caso el paciente presenta varias enfermedades severas mal controladas y sintomáticas (diabetes mal controlada, EPOC sintomático e insuficiencia cardiaca severa) por lo que se incluiría en el grupo de riesgo ASA IV (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Cuál de los siguientes hipnóticos tiene efecto broncodilatador?",
+      "opciones": [
+        "Propofol",
+        "Ketamina",
+        "Óxido nitroso",
+        "Etomidato"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La Ketamina es el único hipnótico intravenoso con efecto broncodilatador. Es un fármaco de gran utilidad en el paciente con asma o broncopatía activa (Opción 2 Correcta).\n\nEl Propofol deprime la respiración hasta la apnea, disminuye la frecuencia respiratoria y el volumen corriente. Deprime los reflejos de la vía aérea superior.\n\nLa Ketamina en general no deprime la respiración, permite mantener la ventilación espontánea y preservar los reflejos de la vía aérea. Es broncodilatador por sus efectos simpacomiméticos.\n\nEl Óxido Nitroso aumenta la frecuencia respiratoria. Deprime significavamente la respuesta ventilatoria a la hipoxia cerebral. Puede produier hipoxia por difusión con FiO2 insuficiente tras suspender su administración.\n\nEl Etomidato deprime la respiración, pero en menor medida que el propofol. Puede producir laringoespasmo, bronocespasmo e hipo."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Con respecto a la técnica de anestesia general, es FALSO que:",
+      "opciones": [
+        "En la anestesia general se pierden los reflejos de protección de la vía aérea, siendo imprescindible controlar la vía aérea con un tubo endotraqueal.",
+        "El hipnótico más utilizado en la inducción es el propofol.",
+        "Durante el mantenimiento se debe ajustar la FiO2 para mantener SpO2 > 95%.",
+        "El despertar constituye una circunstancia de riesgo, estando indicada la retirada del tubo endotraqueal, por lo general, cuando el paciente ha recuperado la ventilación espontánea y la consciencia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El mejor control de la vía aérea se realiza con un tubo endotraqueal; sin embargo, existen otros dispositivos utilizados con ese fin como, por ejemplo, las mascarillas laríngeas. Habrá circunstancias en las que se prefiera el uso de estos dispositivos por ser menos invasivos como, por ejemplo, cirugías cortas, poco dolorosas, pacientes con riesgo aumentado de bronco o laringoespasmo, etc. (respuesta 1 falsa, por lo que la marcamos). Las demás opciones de respuesta son verdaderas."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Un paciente exfumador de 58 años va a ser sometido a esofagectomía debido a una neoplasia maligna. Entre sus antecedentes destaca tratamiento radioterápico sobre un carcinoma de laringe hace tres años. Durante la inducción anestésica, se utiliza un introductor de Frova para guiar el tubo endotraqueal debido a que la laringoscopia directa muestra un grado III de Cormack-Lehane. Con el inicio de la ventilación mecánica, a pesar de obtener una capnografía adecuada, observamos dificultad en la ventilación con aumento progresivo de presiones en la vía aérea, taquicardia, hipotensión arterial y aparición de enfisema subcutáneo cervical. ¿Cuál es el diagnóstico de sospecha?",
+      "opciones": [
+        "Intubación esofágica.",
+        "Despertar intraoperatorio.",
+        "Neumotórax secundario a barotrauma.",
+        "Perforación traqueal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Caso clínico que nos plantea un diagnóstico diferencial. La opción de respuesta 1 se puede descartar debido a la presencia de capnografía. El despertar intraoperatorio cursa típicamente con hipertensión arterial. Las demás opciones de respuesta podrían ser compatibles con el cuadro descrito, especialmente el neumotórax a tensión, pero el enfisema subcutáneo, tras manipulación de la vía aérea previamente radiada, con un dispositivo semirrígido como es la guía de Frova nos orienta claramente a la 4. La perforación traqueal cursa típicamente con neumomediastino, enfisema subcutáneo y neumotórax. Al establecer la ventilación mecánica con presión positiva, es más probable que el neumotórax sea a tensión, causando aumento de presión intratorácica y disminución del gasto cardiaco secundario a un deficiente retorno venoso."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "En relación a la medición de la presión venosa central, indica la opción correcta:",
+      "opciones": [
+        "La morfología de la curva no se modificaría en caso de fibrilación ó flutter auricular.",
+        "La punta del catéter de medición de PVC debe colocarse en la entrada de la aurícula izquierda.",
+        "Da una idea aproximada de la precarga y por tanto de la volemia.",
+        "En la curva de PVC se distinguen 3 ondas positivas y 3 depresiones negativas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La PVC es la presión hidrostática generada por la sangre dentro de la aurícula derecha (AD). La medición se realiza mediante la colocación de un catéter en la vena cava superior, justo por encima de la aurícula derecha. Se utiliza para valorar la precarga y por tanto el estado de la volemia, sin embargo se ha demostrado que no se debe usar como único marcador del estado de volemia ni para guiar la fluidoterapia (Opción 3 Correcta).\n\nEn la morfología de la curva presenta 3 ondas positivas y 2 depresiones.\n\nOnda a: en telediástole ventricular, debido a la presión generada por la contracción auricular. Faltaría en arritmias auriculares.\n\nOnda c: en protosístole ventricular, por el desplazamiento del velo de la válvula tricúspide hacia la aurícula derecha durante la contracción isovolumétrica ventricular.\n\nSeno x: en protosístole ventricular, debido a la caída de presión por relajación del la aurícula derecha y por el desarrollo de la sístole ventricular.\n\nOnda v: en telesístole ventricular, por llenado de la AD con la válvula tricúspide cerrada.\n\nSeno y: en protodiástole ventricular, por apertura de la válvula tricúspide y llenado rápido ventricular.\n\nOnda h: puede aparecer antes de la siguiente onda a, por llenado ventricular lento en diástoles prolongadas."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Con respecto a la valoración de la vía aérea, uno de los test predictivos es la visualización de la cavidad oral y su clasificación de Mallampati, señale la respuesta falsa:",
+      "opciones": [
+        "En la clase II se ve paladar blando y duro, punta de la úvula tapada por la base de la lengua.",
+        "En la clase III se ve únicamente el paladar duro.",
+        "En la clase I se ve la pared posterior de la faringe, úvula, paladar duro y blando.",
+        "En la clase IV solo se ve el paladar duro."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 falsa: La clase III se ve paladar blando y base de la úvula."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Paciente de 29 años, al que traen a Urgencias en una UVI móvil, intubado, tras haber perdido el conocimiento en una calle cercana al hospital. Presenta inestabilidad hemodinámica que no remonta, está arreactivo y presenta un aumento progresivo del perímetro abdominal. Se le realiza un eco Fast donde se objetiva hemoperitoneo. Se decide intervención quirúrgica urgente bajo sospecha de rotura de aneurisma de aorta. Con respecto a la mortalidad esperable en este paciente, en relación a la valoración del riesgo anestésico, la afirmación MÁS correcta sería:",
+      "opciones": [
+        "Se trata de un ASA IV, con una mortalidad < al 10%.",
+        "Se trata de un ASA VI.",
+        "Se trata de un ASA V-E.",
+        "Se trata de un ASA VI- E."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La clasificación ASA de la Sociedad Americana de Anestesiología, aporta una valoración del riesgo anestésico en función de las características del paciente, no de la intervención quirúrgica. En ella, este paciente, que está moribundo, y que debe ser intervenido de urgencia (Emergency = E), presenta la categoría ASA V-E, donde la probabilidad de muerte supera el 50%."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿Cuál de ellos es el que tiene más posibilidad de presentar náuseas y vómitos postoperatorios?:",
+      "opciones": [
+        "Mujer obesa de 41 años que es intervenida de fractura de radio con bloqueo regional más sedación con propofol y midazolam en dosis tituladas.",
+        "Varón de 60 años, tras cirugía de colesteatoma de 5h de duración, con anestesia balanceada y uso de opiáceos intra y postoperatorios de larga duración.",
+        "Mujer de 65 años, fumadora, tras apendicectomía abierta, realizada con TIVA, de 35 min de duración",
+        "Mujer de 85 años sometida a reparación de fractura pertrocantérea, tras anestesia raquídea con sangrado moderado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El riesgo de sufrir NVPO se relaciona con tres grupos de factores dependientes de: paciente, técnica anestésica y tipo de cirugía.\n\na. Relacionados con el paciente.\n\nSexo femenino.\n\nNo fumador.\n\nAntecedentes de NVPO o cinetosis.\n\nOtros posibles factores de riesgo de menor entidad son: bajo riesgo ASA, historia de migraña y ansiedad preoperatoria.\n\nb. Relacionados con la anestesia.\n\nUso de anestésicos volátiles.\n\nEmpleo de óxido nitroso.Anestesia balanceada frente a anestesia total intravenosa.\n\nDosis de neostigmina mayor de 2,5mg.\n\nUtilización de opiáceos intra y postoperatorios.\n\nOtros posibles factores de riesgo de menor consideración son: anestesia general frente a regional y opiáceos de larga duración frente a corta duración.\n\nc.Relacionados con la cirugía.\n\nDuración del procedimiento. Se considera que cada 30min de incremento del tiempo quirúrgico aumentará el riesgo en un 60%, sobre el valor basal estimado.\n\nOtros posibles factores de riesgo menos determinantes son: cirugía intraabdominal, laparoscopia, ortopédica, tiroidea, neurocirugía, cirugía de mama, maxilofacial, otorrinológica y ginecológica. También se pueden considerar como riesgo la restricción de fluidos perioperatoria y la administración de cristaloides frente a coloides."
+    }
+  ]
+}

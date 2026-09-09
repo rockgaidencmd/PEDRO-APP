@@ -1,0 +1,445 @@
+{
+  "materia": "genetica",
+  "paginaInicio": 18,
+  "paginaFin": 33,
+  "anomalias": [
+    "p20: aparecen caracteres 'à' donde el original tenía una flecha (fuente Wingdings mal rasterizada): 'mitosis descontrolada à Cáncer' y 'el ejemplo más típico NOD2à EII'",
+    "p22: la bibliografía del comentario del síndrome de Prader Willi tiene un segundo punto de viñeta vacío antes de la referencia de Pierce; se linealizó",
+    "p24: el comentario de la pregunta sobre variabilidad genética lista las opciones falsas ('1.- Es falsa...', '2.- Es falsa...', '3.- Los SNP...') como saltos de línea dentro del mismo párrafo, no como párrafos separados; se conservan con saltos de línea simples",
+    "p26-p27: en la pregunta del síndrome de Turner (Resp. Correcta: 2) el comentario describe el síndrome pero no justifica en ningún momento cuál es la afirmación falsa"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Cuando se completa la segunda división meiótica del ovocito?",
+      "opciones": [
+        "Durante el desarrollo fetal",
+        "Al momento del nacimiento",
+        "Tras la fecundación",
+        "En la primera menstruacion"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad moderada, pero que nos permite repasar los aspectos mas importantes de la ovogénesis.\n\nLa ovogenia es la secuencia de episodios por los que las ovogonias se transforman en ovocitos maduros. Este proceso comienza antes del nacimiento y termina después de la pubertad.\n\nLas ovogonias crecen para formar los ovocitos primarios antes de nacer, luego estos inician la primera división meiotica antes del nacimiento pero la profase no termina hasta la adolescencia; parece que las células foliculares que rodean el ovocito primario secretan el inhibidor de la maduracion ovocitica, que mantiene suspendido el proceso meiotico.\n\nDespués del nacimiento las niñas no forman ningún ovocito primario y permanecen latentes en los folículos ováricos hasta la pubertad. Cuando madura un folículo, el ovocito primario aumenta de tamaño y antes de la ovulacion termina la primera división meiótica para dar el ovocito secundario y el primer corpúsculo polar.\n\nEn la ovulacion el ovocito secundario inicia la segunda división meiotica, pero solo llega hasta la metafase y luego se detiene la división. Solo si el espermatozoide penetra el ovocito secundario (fecundación) se termina la segunda división meiotica."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "La acondroplasia es un trastorno genético que afecta al crecimiento óseo y causa el tipo más común de enanismo. Tiene un patrón de herencia autosómica dominante. Si dos progenitores heterocigotos tuvieran 4 hijos, ¿cuál sería la probabilidad de que todos sus hijos estuvieran sanos (fenotipo recesivo)?",
+      "opciones": [
+        "1/4.",
+        "3/4.",
+        "1/ 64.",
+        "1/256."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Si ambos progenitores son heterocigotos (Aa) entonces la descendencia esperada sería: 1/4 AA, 2/4 Aa y 1/4 aa, por lo que habría 3/4 con el fenotipo dominante y consiguientemente enfermos (1/4 AA+ 2/4 Aa) y 1/4 con el fenotipo recesivo. El ejercicio plantea que los 4 hijos estén sanos, es decir, tengan el fenotipo recesivo y como se trata de 4 sucesos independientes, habría que multiplicar 1/4 × 1/4 × 1/4 × 1/4, siendo la probabilidad de la pareja de tener todos sus hijos sanos del 1/256 (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "¿Cuál de las siguientes enfermedades no tiene una herencia autosómica dominante?",
+      "opciones": [
+        "Esclerosis tuberosa",
+        "Enfermedad de Wilson",
+        "Otosclerosis",
+        "Poliquistosis renal del adulto"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La esclerosis tuberosa, la otoesclerosis y la poliquistosis renal del adulto (entre otras muchas enfermedades) siguen un patrón de herencia autosómica dominante, con las siguientes características:\n\n- Transmisión vertical: todo individuo afectado tiene un progenitor afectado. No hay portadores sanos.\n\n- Afecta a ambos sexos por igual.\n\n- Un enfermo tendrá un 50% de hijos afectados y un 50% de hijos sanos.\n\n- Los hijos sanos de un afectado solo tendrán hijos sanos.\n\nLa enfermedad de Wilson sigue un patrón de herencia autosómica recesiva."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Acude a nuestra consulta una paciente de 38 años que desde la adolescencia ha padecido múltiples tumores malignos en diversos órganos: colon, mama, sarcoma y actualmente, presenta cinco tumores cutáneos también malignos en diferentes localizaciones. Otros familiares también han presentado diversos tumores malignos. Nos planteamos que presente algún tipo de síndrome de base genética.. ¿Qué gen tendría más interés para nosotros?",
+      "opciones": [
+        "MSH2",
+        "p53",
+        "APC",
+        "BRCA1"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Lo que nos describen en la pregunta es un Síndrome de Li Fraumeni. Se trata de un Sd. de cáncer familiar de herencia Autosómica Dominante, encontramos muy frecuentemente mutado el gen p53, apareciendo varios cánceres en un mismo individuo a edades muy tempranas (Opción Correcta 2).\n\nLos cánceres más frecuentes en este síndrome son justo los que aparecen en el enunciado de la pregunta: Colon, mama y piel, aunque el rango de tumores es muy amplio.\n\nSi bien es cierto:\n\n- La Opción 1: MSH2(yMLH1) Se relaciona con el Cáncer Hereditario de Colon No Polipósico (Te hablarían de un paciente joven que tiene cáncer de colon y en la colono encuentran ''solo un par de pólipos''..)\n\n- La Opción 3: APC Mutado en Cáncer Hereditario de Colon Polipósico (Te hablarían de cientos de pólipos en el colon..)\n\n- La Opción 4: BRCA1 Mutado en Cáncer Hereditario de Mama (Te hablarían de mujer joven con cáncer de mama y ovario..)\n\nLa más correcta sería p53-SdLiFraumeni en este caso.\n\nP53 es un proto-oncogen muy importante que controla la salida de la mitosis celular cuando esta ''sano''. Cuando muta se transforma en Oncogen, la célula no sale del ciclo cuando se le ordena y se traduce en mitosis descontrolada à Cáncer.\n\nP53 no solo aparece mutado en el Sd.Li Fraumeni sino que lo encontramos alterado en la mayoría de tumores malignos. Esto es porque hay muchas formas de dañarlo (radiaciones, virus..) y convertirlo en oncogen, no solo la hereditaria."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Respecto a los siguientes conceptos de genética, ¿cuál es FALSO? -",
+      "opciones": [
+        "un polimorfismo de un solo nucleótido (SNP) es una variación en la secuencia del ADN que afecta a una sola base nitrogenada. Esta variación debe darse al menos en un 1% de la población para ser considerada como un SNP",
+        "Cada 3 nucleotidos de RNAm da lugar a un aminoacido (codón)",
+        "Un aminoácido puede ser traducido a partir de diferentes tripletes pero un triplete solo da lugar a un aminoácido concreto",
+        "El RNAm solo contiene intrones, no exones"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "la respuesta 1 es correcta ya que si no llega al 1% no se considera un SON y si una mutación puntual, recuerda que se han descrito SNP en algunos genes que aparecen con más frecuencia en individuos afectos de una determinada enfermedad que en población sana ( el ejemplo más típico NOD2à EII)\n\nla respuesta 2 y 3 son correctas, la traducción ( paso de RNAm a proteína) se lleva a cabo en los ribosomas, cada 3 nucleótidos da lugar a un aminoácido, como hay 4 tipos de base nos encontramos con que hay 64 posibilidades y solo 20 aminoácidos, de ahí que se diga que el código genético esta degenerado ya que distintos tripletes pueden dar lugar a un mismo aminoácido"
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿Cuándo se considera que finaliza la meiosis de los gametos femeninos en la especie humana?",
+      "opciones": [
+        "Tras la ovulación.",
+        "Inmediatamente antes de que se produzca la ovulación.",
+        "En el transcurso de un ciclo ovárico completo.",
+        "Inmediatamente tras la fecundación."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La meiosis femenina en la especie humana se paraliza durante años en la profase I, reiniciándose en el momento de la ovulación y no considerándose finalizada hasta que sucede la fecundación."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Acude a su consulta un niño de 8 años, acompañado por sus padres, derivado desde su pediatra de área por obesidad. A la exploración encontramos a un niño de baja estatura, con manos y pies pequeños, con hipotonía muscular e hipogonadismo. Entre sus antecedentes obstétricos cabe mencionar una disminución de la actividad fetal. Respecto a la enfermedad que Vd sospecha, ¿Qué enunciado considera incorrecto?",
+      "opciones": [
+        "Se trata de una enfermedad por impronta genómica del 15q11-q13.",
+        "Están implicados procesos de metilación que difieren entre sexos durante la gametogénesis.",
+        "La expresión del gen es indiferente si el gen se hereda del padre o de la madre.",
+        "Se debe a la falta de expresión de los genes específicos del cromosoma paterno en 15q11-q13."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La enfermedad que se sospecha en este caso es un Síndrome de Prader Willi, que se caracteriza por un fenotipo marcado por la baja actividad fetal, obesidad, baja estatura, hipogondaismo hipogonadotrófico, manos y pies pequeños, hipotonía muscular, retraso mental...\n\nLo importante de esta enfermedad es que se produce por una impronta genómica o imprinting (Respuesta 1 correcta), que es una situación en que la expresión de un gen es diferente si se hereda el gen del padre o de la madre (Respuesta 3 incorrecta), ya que están implicados procesos de metilación que difieren entre sexos durante la gametogénesis (Respuesta 2 correcta). El Síndrome de Prader Willi, el imprinting se produce por la delección de un gen específico del cromosoma paterno en 15q11-q13 (Respuesta 4 correcta); mientras que si la impronta genómica en 15q11-q13 es de origen materno, da lugar al Síndrome de Angelman, caracterizado por: retraso mental, temblor, ataxia, alteraciones de la marcha, tendencia a la risa, convulsiones...\n\n¡Ojo con las técnicas de exámen! Podrías acercarte a la respuesta por la técnica de afirmaciones opuestas, ya que si te das cuenta las respuestas 3 y 4 se contradicen: la número 3 habla de que el origen paterno o materno de la alteración genética no influye en la enfermedad, mientras que la respuesta número 4 habla de que la enfermedad se produce por una alteración genética de origen exclusivamente paterno. Por eso, sólo una de las dos será la respuesta que buscas.\n\nBibliografía:\n\nNovo, FJ. Genética humana: conceptos, mecanismo y aplicaciones de la genética en el campo de la biomedicina. Pearson. 2007. Capítulo 16. Página 217-221.\n\nPierce, BA. Fundamentos de genética: conceptos y relaciones. Panamericana. 2011. Capítulo 4. Páginas 95-96."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Cuál de las siguientes NO es una enfermedad con imprinting:",
+      "opciones": [
+        "Corea de Huntington",
+        "Neurofibromatosis",
+        "Distrofia miotónica",
+        "Síndrome de Ehlers-Danlos"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta muy teórica. El término imprinting se refiere a la diferencia de expresión de un gen dependiendo de si se hereda de la madre o del padre. Es importante conocer este concepto.\n\nHay enfermedades con imprinting paterno (corea de Huntington, neurofibromatosis-1) y con imprinting materno (distrofia miotónica, neurofibromatosis-2). Asimismo, mutaciones en un mismo gen originan dos cuadros clínicos totalmente distintos si se heredan del padre o de la madre, como es el síndrome de Prader-Willi y el síndrome de Angelman, respectivamente."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿En qué fase de la meiosis se originan las aneuploidías?",
+      "opciones": [
+        "En la primera anafase.",
+        "En la segunda anafase.",
+        "En la primera metafase.",
+        "En la segunda metafase."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La división celular tiene cuatro fases consecutivas que se realizan 1 vez en la mitosis y 2 en la meiosis. Dichas fases son: profase, metafase, anafase y telofase. En la anafase (separación de los cromosomas) los errores dan lugar a aneuploidías, pues a cada célula hija van un número distinto de cromosomas (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuál de los siguientes componentes forma parte de una PCR?",
+      "opciones": [
+        "NaCl2.",
+        "Nitrocelulosa",
+        "Extracto proteico del plasma.",
+        "Taq polimerasa."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La reacción en cadena de la polimerasa (PCR) requiere de todos los componentes necesarios para copiar una secuencia de ADN a partir de un molde. Necesitamos las señales (primers) de comienzo y final de la zona a copiar, el molde (ADN), las máquinas (Taq polimerasa) y un cofactor (MgCl2) además de los \"ladrillos\" o nucleótidos para hacer las copias."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿En qué gen están presentes las alteraciones en el síndrome de Li-Fraumeni?",
+      "opciones": [
+        "P53.",
+        "RAS.",
+        "BCL2.",
+        "BRCA1."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta directa, de las más simples que nos pueden realizar sobre cáncer y herencia. “Apúntate” este dato puramente memorístico."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "La acondroplasia es la causa más frecuente de enanismo. Se trata de una enfermedad genética causada por mutaciones en un único gen (gen FGFR3). Dos pacientes acondroplásicos tienen dos hijos: uno de ellos también tiene acondroplasia, pero el otro no. Con estos datos se puede afirmar que:",
+      "opciones": [
+        "Ambos progenitores son heterocigotos para el gen FGFR3.",
+        "El hijo que no padece acondroplasia es heterocigoto para el gen FGFR3.",
+        "La probabilidad de que el siguiente hijo de la pareja tenga también acondroplasia es del 50%.",
+        "La acondroplasia se hereda con carácter autosómico recesivo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La acondroplasia se transmite de forma autosómica dominante. No es necesario conocer el patrón de herencia, se puede deducir a partir de la información del enunciado.\n\nSi dos progenitores enfermos tienen un hijo sano y otro enfermo (independientemente de su sexo), el modo de transmitir la enfermedad será autosómico dominante. La única forma de que esto ocurra es que los padres sean ambos heterocigotos para el alelo causante de enfermedad (la respuesta 1 es la correcta).\n\nDos progenitores heterocigotos para el alelo afecto pueden tener hijos sanos, que serán homocigotos para el alelo normal (la respuesta 2 es incorrecta), con un 25% de probabilidad. Pero lo más probable, con un 75% de probabilidad, es que el siguiente hijo de la pareja tenga también acondroplasia (la respuesta 3 es incorrecta).\n\nSi el patrón de herencia fuera recesivo, dos progenitores enfermos serían homocigotos para el alelo afecto y nunca podrían tener un hijo sano (por lo que la respuesta 4 es incorrecta)."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "La variabilidad genética es una realidad que está siendo demostrada por los estudios del genoma humano. Con respecto a la misma, señale la afirmación CORRECTA:",
+      "opciones": [
+        "La variabilidad genética es superior en la raza humana que en los gorilas.",
+        "La principal causa de variabilidad genética está en el aumento de variantes en cadenas largas de DNA.",
+        "Las variaciones genéticas debidas a la modificación de un solo nucleótido (Single-Nucleotide Polymorphism o SNP) son exclusivas de zonas geográficas específicas.",
+        "Los estudios del genoma humano utilizan frecuentemente el análisis de SNP."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Una pregunta compleja, no te preocupes si la has fallado. La variabilidad genética se refiere a la variación en el material genético de una población o especie, y constituye la base de la evolución. Los SNP influyen mucho en la variabilidad genética, por lo que gran parte de las diferencias observadas en el genoma humano se deben a este tipo de mutación. Además, en ocasiones se asocian a enfermedades genéticas, por lo que tienen un interés diagnóstico (respuesta 4 correcta). Repasemos las demás opciones de respuesta:\n1.- Es falsa, ya que la variabilidad genética es menor en el ser humano que en los gorilas.\n2.- Es falsa, ya que existen otras causas más importantes de variabilidad genética, como la recombinación génica que tiene lugar durante la meiosis.\n3.- Los SNP pueden distribuirse con diferente frecuencia alélica en diversas poblaciones, aunque no presentan un carácter de exclusividad de una determinada área geográfica."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "La mutación en el gen FBN1 ocasiona una alteración en la proteína fibrilina-1, fundamental para la correcta funcionalidad del tejido conectivo. Los individuos portadores de esta mutación padecen síndrome de Marfan, caracterizados por su gran altura y delgadez, sus tendones y ligamentos hiperlaxos, y la posibilidad de padecer otros trastornos como aneurismas de aorta, coloboma iridiano o subluxación del cristalino. ¿Cómo se llama este fenómeno?",
+      "opciones": [
+        "Expresividad.",
+        "Penetrancia.",
+        "Pleiotropía.",
+        "Imprinting."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los individuos con Marfan son portadores de una mutación en el gen de la fibrilina, lo que provoca anomalías en huesos, ligamentos, tendones, vasos, estructuras oculares, etc. El fenómeno por el que una mutación afecta en un mismo individuo a diferentes caracteres se denomina pleiotropía, con lo cual, la respuesta correcta es la 3.\n\nLas respuestas 1, 2 y 4 no son correctas.\n\nLa expresividad es el grado en que se expresa un fenotipo para un genotipo determinado. Por ejemplo, la expresividad es variable si en dos individuos con una misma mutación, la gravedad de la enfermedad derivada es mayor en uno que en el otro.\n\nLa penetrancia es la proporción de individuos que, teniendo un determinado genotipo, lo expresan. La penetrancia será del 75% si de cada cuatro individuos con una mutación, tres padecen la enfermedad y uno no.\n\nEl imprinting es la situación en la que un gen se expresa de diferente manera en función de si se ha heredado del padre o de la madre. El ejemplo más característico es el de los síndromes de Prader-Willi y Angelman: mutaciones en un mismo gen generan síndromes totalmente distintos en función de si se ha heredado del padre o de la madre respectivamente."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Respecto a la herencia ligada al cromosoma X dominante, ¿cuál de las siguientes enfermedades presenta este tipo de herencia?",
+      "opciones": [
+        "Síndrome de X frágil.",
+        "Distrofia de Duchenne.",
+        "Agammaglobulinemia de Bruton.",
+        "Inmunodeficiencia combinada severa ligada al X."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La herencia ligada al cromosoma X dominante, puede dar enfermos en ambos sexos. De entre todas las opciones posibles solo para la uno se ha descrito este tipo de herencia."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Señale la correcta respecto a la tecnología FISH.",
+      "opciones": [
+        "Es una técnica para el estudio de las proteínas, que se encuadra en el ámbito de la proteómica.",
+        "Es una técnica que permite el estudio a nivel de nucleótido de la secuencia de un gen.",
+        "Es una técnica análoga a la reacción en cadena de la polimerasa, pero para el estudio de los cromosomas.",
+        "Es una técnica de citogenética que utiliza la hibridación de sondas marcadas con fluorescencia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La citogenética es la ciencia que se encarga del estudio de los cromosomas. La técnica básica es el cariotipo, que permite contar cromosomas y ordenarlos, así como observar grandes deleciones o traslocaciones. Sin embargo, la resolución de esta técnica ha sido implementada mediante la tecnología con hibridación de sondas fluorescentes (FISH) que permite marcar regiones cromosómicas más precisas."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Existen diferentes mecanismos de mutaciones causantes de enfermedades; uno de ellos es la mutación por expansión de tripletes en la que algunos genes contienen una zona de repetición de un triplete de nucleótidos. Asociado a esta mutación, suele existir el fenómeno llamado de anticipación; según dicho fenómeno en generaciones sucesivas la enfermedad aparece a edades cada vez más tempranas. ¿Cuál de las siguientes enfermedades NO relacionaría con una mutación por expansión de tripletes?",
+      "opciones": [
+        "Corea de Huntington.",
+        "Ataxia de Friedrich.",
+        "Anemia drepanocítica.",
+        "Distrofia miotónica de Steinert."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las enfermedades cuyo mecanismo mutacional es la expansión de tripletes más conocidas y que se deben recordar son: Corea de Huntington (CAG), distrofia miotónica de Steinert (CTG), ataxia de Friedrich (GAA) y síndrome del X frágil (CGG). Las dos primeras se heredan con carácter autosómico dominante, la ataxia de Friedrich es autosómica recesiva y el síndrome del X frágil es ligado al sexo. La anemia drepanocítica es la enfermedad monogénica autosómica recesiva más frecuente (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Cuál es la parte de la genética que se encarga del estudio de la expresión de los genes?",
+      "opciones": [
+        "Citogenética.",
+        "Genética molecular.",
+        "Epigenética.",
+        "Metagenómica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La epigenética es la parte de las ciencias de la genética que se encarga del estudio de la expresión de los genes. La citogenética se encarga del estudio de los cromosomas. La genética molecular estudia la secuencia nucleotídica de los genes. La metagenómica hace referencia al estudio del material genético obtenido de muestras ambientales."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "El ARNt interviene de forma fundamental en el proceso de:",
+      "opciones": [
+        "Transcripción.",
+        "Traducción.",
+        "Duplicación del ADN en la mitosis.",
+        "Duplicación del ADN en la meiosis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El ARNt es capaz de transferir amino-ácidos a la cadena peptídica en formación durante el proceso de traducción."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Todas las afirmaciones siguientes sobre el síndrome de Turner son ciertas, EXCEPTO:",
+      "opciones": [
+        "Se debe más frecuentemente a monosomía del cromosoma X (o sea, el cariotipo 45,X).",
+        "Se asocia a edad avanzada de la madre.",
+        "Su riesgo de aparición NO aumenta en el segundo hijo, ni siquiera si el primero está afectado.",
+        "El mosaicismo es un hallazgo frecuente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de dificultad media. El síndrome de Turner es la causa más frecuente de amenorrea primaria. Presentan talla corta y anomalías somáticas: linfedema de manos y pies, talla baja, pliegues cutáneos, inserción baja del cuello, pterigium colli, tórax en coraza, separación exagerada de los pezones, micrognatia, epicantus, orejas prominentes de inserción baja. Pueden presentar coartación de aorta, acortamiento del 4º metacarpiano, malformaciones renales, nevus pigmentados, hipoplasia ungueal, HTA, alteraciones autoinmunes y 20% hipotiroidismo. Presentan estrías gonadales que carecen de folículos y útero infantil. Los genitales externos son inequívocamente femeninos, pero permanecen inmaduros. Tienen escasez de vello pubiano y axilar, no hay desarrollo mamario, se trata de una mujer inmadura. Aproximadamente la mitad de los casos son 45 X0; el 25% son mosaico 45 X0/ 46 XX y el resto presentan un cromosoma X con anomalías estructurales."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "El ADN mitocondrial experimenta una alta tasa de mutaciones, motivo por el cual es posible que en un mismo individuo y célula coexistan diferentes ADN mitocondiales. Este curioso fenómeno se conoce con el nombre de:",
+      "opciones": [
+        "Homoplasmia",
+        "Poliploidía",
+        "Isocromosomas",
+        "Heteroplasmia"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una pregunta de dificultad moderada, ya que requiere conocer un término preciso no demasiado preguntado. No obstante, si nos fijamos bien no es difícil descartar algunas opciones:\n\nOpción 2: la poliploidía es el fenómeno por el cual una célula presenta un número de cromosomas distinto de 46, pero múltiplo de 23.\n\nOpción 3: los isocromosomas no son un fenómeno sino un concepto. Son cromosomas en los que se produce la delección de un brazo y la duplicación de otro, dando lugar a cromosomas con 2 brazos idénticos.\n\nLas opciones 1 y 4 son antagónicas, por lo que es fácil deducir que una de ellas será correcta y la otra no. En este caso, la opción correcta es la heteroplasmia (4), ya que hetero significa \"desiguales\". Por otro lado, la homoplasmia (opción 1) hace referencia al concepto opuesto, en el que todas las mitocondrias contienen el mismo genoma."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "La madre de Juan, niño de 3 años, es portadora de una patología con herencia mitocondrial que ha heredado de su madre y esta a su vez de su madre. Con respecto a este grupo de patologías, es INCORRECTO que:",
+      "opciones": [
+        "Juan tiene la posibilidad de padecer la enfermedad.",
+        "Este tipo de patrón de herencia se asocia a miopatías y neuropatías.",
+        "Las mitocondrias de una persona se heredan de su progenitora en su totalidad.",
+        "El estudio metabólico inicial se orientará a la demostración de alteraciones en el estado de oxidorreducción plasmática."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que sirve para dar una pincelada sobre un concepto de reciente descubrimiento: existen casos en los que las mitocondrias de una persona tienen doble origen, no únicamente de la madre, sino un origen biparental, también paterno; se cree que es debido a una mutación nuclear que impide la destrucción de las mitocondrias paternas posteriormente a la fecundación. En la mayoría de las fecundaciones se activan mecanismos moleculares de destrucción de todas las mitocondrias del espermatozoide y por ello normalmente un embrión solo crece con mitocondrias maternas, pero no en el 100% de los casos es así. Veamos las opciones de respuesta:\n\n1.- Aunque la teoría aceptada hasta hace poco era que solamente las mujeres pueden transmitir mitocondrias a su descendencia, esto no tiene nada que ver con el hecho de que los hijos, sean varones o mujeres, puedan padecer las enfermedades heredadas con este patrón de herencia mitocondrial; tanto hombres como mujeres pueden estar afectos de estas patologías.\n\n2.- Como ejemplo de ello tenemos la Neuropatía óptica Hereditaria de Leber o la Poliodistrofia de Alpers que asocia crisis convulsivas.\n\n3.- Esta afirmación era correcta HASTA HACE POCO y en ella se cimientan todos los estudios de genealogía humana, pero se han descubierto algunos casos que no cumplen este dogma y actualmente se encuentra en estudio. “Todo dogma en la ciencia es susceptible de ser derribado” (opción 3 incorrecta, por lo que la marcamos).\n\n4.- Al sospechar estas patologías se debe demostrar esta alteración de oxidorreducción plasmática con determinaciones de ácido láctico y pirúvico en sangre y, si predomina la afectación del SNC, en el LCR. Además de cocientes hidroxibutirato/acetoacetato, concentración plasmática de carnitina, cuantificación de aminoácidos en sangre, ácidos orgánicos en orina, etc."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Un examen rutinario en un neonato revela aniridia y malformaciones genitales. ¿Cuál de las siguientes opciones debería sospecharse en PRIMER lugar?",
+      "opciones": [
+        "Hipercalcemia.",
+        "Hipocalcemia.",
+        "Enfermedad de Tay-Sachs.",
+        "Tumor de Wilms."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Sospechamos que se trate del complejo WAGR: tumor de Wilms (respuesta 4 correcta), Aniridia, malformaciones Genitales y Retraso mental. Se le conoce como AGR si el tumor de Wilms no está presente, pero en más de un 30% de los pacientes con AGR acaban desarrollando el tumor de Wilms. La hipocalcemia es una característica de los síndromes con afectación del 22q11 tales como el Síndrome de Di George, que causa específicamente malformaciones del tercer y cuarto arcos branquiales, lo cual desemboca en un hipoparatiroidismo y en hipocalcemia. La hipercalcemia es una característica del síndrome de Williams, el cual está caracterizado por una cara élfica, una personalidad muy abierta, y otras peculiaridades. Se trata de una deleción del cromosoma 7. La enfermedad de Tay-Sachs es un defecto en la hexosaminidasa A, lo cual conlleva a la acumulación del gangliósido GM2. Los pacientes normalmente presentan un retraso progresivo por la degeneración del sistema nervioso central."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "La fibrosis quística (FQ) es una enfermedad de herencia autosómica recesiva causada por mutaciones en el gen CFTR. Se han descrito más de 1.500 mutaciones en dicho gen causantes de la enfermedad. Este es un claro ejemplo de:",
+      "opciones": [
+        "Genocopia.",
+        "Heterogeneidad genética de alelo.",
+        "Heterogeneidad genética de locus.",
+        "Heterogeneidad clínica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cuando una misma enfermedad genética puede originarse por diferentes mutaciones se dice que tiene heterogeneidad genética; si esas mutaciones pueden originarse en diferentes genes es heterogeneidad genética de locus, mientras que, si son mutaciones diferentes en un mismo gen, se denomina heterogeneidad genética de alelo, como en el caso de la fibrosis quística (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "¿Cuál es el diagnóstico MÁS probable de un recién nacido con microcefalia, retraso del crecimiento intrauterino, cardiopatía congénita, pie astrágalo vertical y una facies peculiar (microftalmia, hendiduras palpebrales pequeñas, micrognatia y orejas displásicas), las manos con el dedo índice y meñique sobre el medio y anular?",
+      "opciones": [
+        "Trisomía 18 (Síndrome de Edwards).",
+        "Trisomía 13 (Síndrome de Patau).",
+        "Trisomía 21 (Síndrome de Down).",
+        "Trisomía 9."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta cuyo enunciado describe claramente las características de un recién nacido con trisomía 18 (Síndrome de Edwards) (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "¿Qué nombre recibe la ciencia que se encarga del estudio de la metilación y expresión de los genes?",
+      "opciones": [
+        "Epigenética.",
+        "Pirogenética.",
+        "Metagenómica.",
+        "Citogenética."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Dentro del campo de la genética ha cobrado gran importancia el estudio de los mecanismos de expresión de los genes; entre ellos, uno de los principales es la metilación de estos. La ciencia que se encarga de su estudio recibe el nombre de epigenética, e intenta ir más allá de la mera identificación de secuencias genéticas."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Señale cuál de las siguientes enfermedades presenta heterogeneidad genética (de locus) y puede deberse a afectación de varios loci en distintos cromosomas, tanto autosómicos como sexuales:",
+      "opciones": [
+        "Síndrome de Down.",
+        "Enfermedad granulomatosa crónica.",
+        "Fibrosis quística.",
+        "Corea de Huntington."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La enfermedad granulomatosa crónica (EGC) es una inmunodeficiencia primaria poco frecuente que afecta a los fagocitos. Es un desorden intracelular donde los fagocitos son incapaces de eliminar los microorganismos fagocitados. Existe una gran heterogeneidad genética y clínica entre los pacientes afectados por EGC. Se caracteriza por una elevada susceptibilidad a infecciones bacterianas y micóticas severas y recurrentes en varios órganos."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Un tipo de mutaciones causantes de enfermedades genéticas en humanos, son las denominadas mutaciones de splicing. Señale la verdadera sobre este tipo de mutaciones.",
+      "opciones": [
+        "Son mutaciones que afectan a las regiones flanqueantes entre los exones e intrones.",
+        "Son mutaciones que afectan a la región promotora de los genes.",
+        "Son mutaciones que se transmiten en el ADN mitocondrial.",
+        "Son alteraciones en el número par de una pareja de cromosomas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las mutaciones de splicing son aquellas que se producen en la secuencia de los genes que se encuentran localizadas en las regiones flanqueantes entre exones e intrones."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "El fenómeno de expansión de secuencias consiste en que se repiten, en número excesivo, ciertas secuencias de DNA, denominadas tripletes expansivos. De las siguientes enfermedades, en una de ellas NO se produce este fenómeno. Señálela:",
+      "opciones": [
+        "Corea de Huntington.",
+        "Enfermedad de Alzheimer.",
+        "Distrofia miotónica de Steinert.",
+        "Síndrome del cromosoma X frágil."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta fácil de genética. La mayoría de los casos de Alzheimer responden a causas poligénicas y ambientales, y solo unos pocos se deben a mutaciones puntuales (no expansión de tripletes)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Pareja que se presenta en la consulta de Genética porque están interesados en tener un hijo y querrían saber más sobre los riesgos de las enfermedades genéticas; más concretamente, están preocupados por el posible riesgo de la fibrosis quística. El hombre es descendiente judío y presenta un riesgo de 1 sobre 30. La mujer es descendiente asiática y presentaría por su raza un riesgo de 1 sobre 80. Usted les explica que el riesgo de tener un hijo con fibrosis quística sería muy bajo, aunque les recomendaría hacerse un test genético para que se quedasen tranquilos. Si la pareja decidiera seguir adelante y hacerse dicho estudio, ¿cuál sería el riesgo de tener fibrosis quística?",
+      "opciones": [
+        "1/1.200.",
+        "1/2.400.",
+        "1/4.800.",
+        "1/9.600."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Cada persona presenta un 50% de posibilidades de pasar el alelo afecto, dadas las diferencias étnicas de la pareja, que presenta cada una diferentes riesgos (probabilidades) de ser portadores de la fibrosis quística. Para determinar el riesgo del futuro hijo, necesitamos multiplicar el riesgo de tener ambos genes afectos, uno de cada padre, lo que sería 1/4, por lo que al final nos quedaría: 1/30 (probabilidad de que el hombre sea portador siendo judío) × 1/80 (probabilidad de que la mujer sea portadora siendo asiática) × 1/4 (probabilidad de que se le pase al hijo ambos alelos mutados, ya que es una enfermedad de carácter recesivo) = 1/9.600 (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "En el óvulo humano, la anafase de la segunda división meiótica tiene lugar INMEDIATAMENTE después de la:",
+      "opciones": [
+        "Fecundación.",
+        "Recombinación genética.",
+        "Diacinesis de la segunda división meiótica.",
+        "Ovulación."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Recuerda que el ovocito queda estancado en metafase de la segunda división meiótica tras la ovulación, y no termina totalmente la división hasta que no es fecundado (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Con respecto a las secuencias de tripletes, señale la asociación INCORRECTA:",
+      "opciones": [
+        "Síndrome de X frágil - Triplete CGG.",
+        "Corea de Huntington - Triplete CAG.",
+        "Ataxia de Friedrich - Triplete GAA.",
+        "Distrofia miotónica de Steinert - Triplete GTC."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Existen diferentes mecanismos mutacionales causantes de enfermedades, entre ellas la mutación por expansión de tripletes. Enfermedades con este tipo mutacional son el síndrome de X frágil (triplete CGG), la corea de Huntington (triplete CAG), la ataxia de Friedrich (triplete GAA) y la distrofia miotónica de Steinert (triplete CTG - opción 4 incorrecta, por lo que la marcamos -)."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Varón de 13 años con retraso mental moderado, lenguaje pobre y repetitivo, hiperactivo, rasgos faciales peculiares (facies alargada, frente estrecha, sinofridia, orejas grandes y despegadas), talla alta y testículos de gran tamaño para su estado de desarrollo puberal. En su familia existen otros varones con retraso mental y características faciales semejantes. Respecto a esta patología, ¿cuál es la FALSA?:",
+      "opciones": [
+        "Es la causa más frecuente de retraso mental familiar.",
+        "Es frecuente el prolapso de la válvula mitral.",
+        "Es una enfermedad por expansión de un trinucleótido, al igual que la distrofia miotónica de Steinert, la enfermedad de Huntington y la enfermedad de Kennedy.",
+        "El macroorquidismo es un signo constante, aunque puede no aparecer hasta la pubertad."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad muy alta. El caso clínico hace referencia al síndrome de X frágil o síndrome de Martin- Bell. Se trata de un síndrome recesivo ligado al X, y es debido a una expansión de tripletes con más de 150 repeticiones del triplete CGG en el cromosoma X (cuando lo normal es de 2 a 50 repeticiones). Aparece en 1/1000 varones y es, en frecuencia, la segunda causa de retraso mental tras el síndrome de Down y la primera ligada al sexo. Se trata de un síndrome ligado a la fragilidad del telómero del brazo largo del cromosoma X y el mecanismo de la enfermedad es, como en la corea de Huntington, la expansión de secuencias. El síndrome se denomina así porque el telómero presenta un aspecto deshilachado, como si se hubiese roto por mínimas manipulaciones (frágil). En su sintomatología predomina el retraso mental junto con genitales, orejas y nariz de mayor tamaño del normal. Recordad que los signos constantes no son la norma en las enfermedades. El 30% de las mujeres portadoras tienen retraso mental moderado."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Cuál de las siguientes opciones es un claro ejemplo de imprinting genético?",
+      "opciones": [
+        "Hemocromatosis hereditaria.",
+        "Síndrome de Down.",
+        "Síndrome de Prader-Willi/Síndrome de Angelman.",
+        "Fibrosis quística."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El concepto de \"imprinting\" hace referencia a que la transmisión de una determinada enfermedad, de herencia autosómica, varía en función de si el progenitor afecto es el padre o la madre. Tras este fenómeno subyace realmente el hecho de que la expresión de un gen viene condicionada por los fenómenos de metilación y estos son diferentes en hombres y mujeres en línea germinal."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "La terapia génica es un campo creciente de estudio para su aplicabilidad en el tratamiento de enfermedades humanas. Respecto a este tipo de terapias señale la correcta.",
+      "opciones": [
+        "Actualmente es una terapia de uso restringido a ensayos clínicos.",
+        "Se ha aprobado su uso en ficha técnica en la Inmunodeficiencia Combinada Grave por déficit de ADA.",
+        "Su utilización se asocia siempre al desarrollo de oncogenicidad.",
+        "Consiste en la administración vía intramuscular de factores de transcripción genéticos, asociados a enzimas que son capaces de integrarlos en el genoma del paciente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La terapia génica consiste en el tratamiento de la enfermedad genética mediante la transferencia de material genético en las células del paciente. En la actualidad se han aprobado algunas terapias génicas para su uso en humanos, destacando la del tratamiento de la inmunodeficiencia primaria por déficit de ADA.\n\nPara la transferencia del material genético y su inserción en el genoma de las células del paciente se utilizan generalmente vectores virales."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Varón de 27 años, VIH diagnosticado desde los 24 años de edad, que acude a su Centro de Salud por dolor torácico que aumenta con la tos y la inspiración profunda, disnea de esfuerzo, tos seca y fiebre de 39 ºC. Tras la exploración física se solicita una radiografía de tórax, que pone de manifiesto la existencia de derrame pleural. Se le realiza prueba de Mantoux, toma de esputo para BAAR y drenaje del derrame pleural para su análisis, aunque el paciente niega cualquier contacto con pacientes tuberculosos bacilíferos. La presencia de una PCR positiva para tuberculosis en el exudado pleural de un paciente VIH(+) tuberculín(-) significa que:",
+      "opciones": [
+        "Existe inflamación inespecífica.",
+        "Está infectado por el Mycobacterium tuberculosis.",
+        "Existe afectación articular (TBC articular).",
+        "Es patognomónico de Mal de Pott."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La PCR es una técnica que permite duplicar un número ilimitado de veces un fragmento de ADN en un tubo de ensayo. Mediante esta técnica pueden generarse millones de moléculas idénticas a partir de una molécula de ADN. La reacción es muy sencilla, necesita cantidades de ADN muy pequeñas, y solo se precisa un tubo de ensayo, algunos reactivos, una fuente de calor y unas pequeñas cadenas de nucleótidos que actúan como cebadores. La reacción es un proceso cíclico:\n- La molécula de ADN que va a copiarse se calienta para que se desnaturalice y se separe las dos hebras.\n- Cada una de las hebras es copiada por la ADN-polimerasa (se utiliza la ADN-polimerasa de una bacteria que vive en aguas termales, Thermus aquaticus, así la enzima puede trabajar a altas temperaturas).\n- Las cadenas recién formadas son separadas de nuevo por el calor, y comienza otro nuevo ciclo de copias.\nEstos ciclos se repiten hasta que se obtiene el número de copias deseado. La PCR es una de las pruebas más sensibles y específicas que hay en microbiología; por ello, si obtenemos un positivo para tuberculosis en un paciente aplicando la PCR a una muestra orgánica, debemos pensar que ese paciente está infectado por Micobacterium tuberculosis, además, en el caso de la pregunta, en la que el paciente es un inmunodeprimido por VIH, se puede arrojar un resultado de Mantoux falso negativo, más en una infección aguda. Como conclusión importante a esta pregunta, puedes observar que la PCR es aplicable no solo al diagnóstico de enfermedades genéticas en humanos, sino también al diagnóstico microbiológico."
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "materia": "inmuno",
+  "paginaInicio": 1,
+  "paginaFin": 19,
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Todos los siguientes son antígenos de histocompatibilidad de clase I, EXCEPTO uno. Indíquelo:",
+      "opciones": [
+        "HLA-A2.",
+        "HLA-Bw4.",
+        "HLA-DQ2.",
+        "HLA-Cw3."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy sencilla que no deberías haber fallado, pues es importante tener claro las implicaciones de cada uno de los HLA y cómo reconocer si es de tipo I o II. La nomenclatura de los complejos mayores de histocompatibilidad es sencilla: aquellos que pertenecen al HLA- I son los que se nombran con una sola letra, y esta suele ser A, B o C; por el contrario, los que pertenecen al HLA- II se nombran con dos letras, en este caso DR, DP y DQ. El número que viene detrás no indica a qué HLA pertenece, sino el orden de tipificación dentro de cada grupo. Por último recuerda que el encontrar una w entre la letra mayúscula y el número indica que es una nomenclatura provisional. Con estos datos no habrás tenido ningún problema en reconocer que el único tipo que no pertenece al HLA I es la opción 3 (posee dos letras, DQ, por lo que es HLA- II)."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "El conjunto de determinantes antigénicos presentes en las regiones variables (VH-VL) de una inmunoglobulina se conoce con el nombre de:",
+      "opciones": [
+        "Isotipo.",
+        "Alotipo.",
+        "Paratopo.",
+        "Idiotipo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El idiotipo es el conjunto de determinantes antigénicos situados en las regiones variables de las cadenas pesada y ligera de una inmunoglobulina (la que se une al epítopo). Dicho de un modo más simple, es la zona que determina su actividad anticuerpo. No olvides que el idiotipo es una región de la inmunoglobulina, complementaria al epítopo del antígeno."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cuál de los siguientes es un anticuerpo monoclonal quimérico de ratón-humano?",
+      "opciones": [
+        "Infliximab (a-TNF)",
+        "Alemtuzumab (a-CD52)",
+        "Belatacep (CTLA4-r)",
+        "Pembrolizumab (anti-PD1)"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La denominación de los anticuerpos terapéuticos sigue una nomenclatura sistemática donde la partícula –xi significa que son quiméricos, -zu humanizados y –mu humanos."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "La célula efectora más importante de la reacción alérgica de fase tardía es:",
+      "opciones": [
+        "Eosinófilo.",
+        "Basófilo.",
+        "Mastocito.",
+        "Neutrófilo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta dificil y con trampa, pues nos pide la célula más importante de la fase tardía, no de la temprana en la reacción alérgica, por lo que la respuesta no es ni basófilo ni mastocito, que sería la más intuitiva. Recordemos el mecanismo de la reacción alérgica. Un linfocito B se convertirá en productor de IgE, si los linfocitos TH2 le aportan IL4 y le estimulan el receptor CD40. Los Ac IgE tienen la propiedad de unirse a la membrana de basófilos y mastocitos a través de receptores de alta afinidad para el Fc de la IgE. Si un individuo sensibilizado entra de nuevo en contacto con el mismo alergeno, éste interaccionará con las IgE fijadas en la membrana de los mastocitos y basófilos. Esta interacción induce en las células un estado de activación que determina la rápida y brusca liberación de mediadores inflamatorios preformados que contienen en sus gránulos (histamina y otros) y la síntesis de ?novo? de otros mediadores (prostaglandinas y leucotrienos). La sintomatología aparece de forma brusca en cuestión de 2 a 20 minutos tras la exposición al alergeno. Las manifestaciones de esta fase temprana pueden quedar circunscritas a un órgano o territorio (por ej. rinitis) o bien dar lugar a una reacción sistémica (shock anafiláctico). En una fase tardía la unión de la IgE con su receptor en el eosinofilo lleva a una forma especial de citotoxicidad mediada por anticuerpos, mediada por la proteína catiónica del eosinófilo, que puede provocar daño a los diversos tejidos del organismo."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Las inmunodeficiencias primarias más frecuentes son los déficits de:",
+      "opciones": [
+        "Anticuerpos.",
+        "Inmunidad combinada.",
+        "Función fagocítica.",
+        "Complemento."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Tras los déficits de anticuerpos, las inmunodeficiencias congénitas más frecuentes son los déficits que afectan la función fagocítica como la enfermedad granulomatosa crónica o el síndrome de Chédiak- Higashi."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿El tratamiento con ustekinumab, produciría un bloqueo de las vías efectoras del LT?",
+      "opciones": [
+        "TH1 y TH2.",
+        "TH1 y TH3.",
+        "TH1 y TH17.",
+        "TH2 y TH17."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ustekinumab es un anticuerpomonolconal que se dirige frente a una subunidad común a las IL12 y la IL23, de esta forma su bloqueo interfiere en las vías efectoras TH1 y TH17 de los linfocitos T."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Con respecto al receptor de la célula T (RCT), señale la afirmación CORRECTA:",
+      "opciones": [
+        "Es una inmunoglobulina de membrana.",
+        "Aparece en la membrana de los linfocitos T y de las células NK.",
+        "Está compuesto por tres cadenas denominadas respectivamente alfa, beta y gamma.",
+        "Estructuralmente pertenece a la superfamilia de las inmunoglobulinas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El receptor de la célula T (RCT) es una proteína formada por dos cadenas: alfa y beta, o gamma y delta. Aparece en la membrana de los linfocitos T, donde ejerce la función de receptor específico de antígeno. Por su homología estructural con dominios globulares, se la ha incluido en la superfamilia proteica de las inmunoglobulinas (respuesta 4 correcta), aunque esta familia contiene proteínas de gran heterogeneidad en cuanto a su localización y funciones."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Jaime tiene 2 años y presenta un cuadro de rinitis unilateral con secreción abundante y maloliente. La primera suposición diagnóstica sera",
+      "opciones": [
+        "Rinitis eosinofilica no alérgica",
+        "Cuerpo extraño",
+        "Tumoración nasal",
+        "Hipertrofia adenoidea"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los datos de corta edad, unilateralidad y rinorrea maloliente inclinan claramente el diagnóstico a la posibilidad de un cuerpo extraño intranasal"
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál de los siguientes cambios NO tiene lugar durante la activación de los linfocitos B?:",
+      "opciones": [
+        "Aumento de volumen celular.",
+        "Disminución de la síntesis de RNA.",
+        "Pérdida de la expresión de IgD.",
+        "Aumento de adhesión leucocitaria."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta compleja pero que debes saber responder simplemente aplicando un poco la lógica.\n\nLa activación de los linfocitos B se produce debido al reconocimiento del antígeno específico por parte de la IgD de superficie que conforma el receptor de membrana de los linfocitos B. Además hace falta la coestimulación por parte de las moléculas CD40 y CD40L expresadas en los linfocitos T. Una vez activada la célula B sufre una serie de cambios, dentro de los que destacan: aumento del volumen celular que traduce un aumento de la actividad metabólica celular, aumento de la expresión de los HLA- II para presentar el nuevo antígeno, expresión de moléculas de adhesión leucocitaria (LFA- 1) e inicio del cambio de isotipo de Ig (deja de expresar IgD y se inicia la secreción de IgG, IgM e IgE). Lo que no ocurre es la disminución de la síntesis de RNA, sino todo lo contrario ya que el linfocito sufre un proceso de explosión metabólica que requiere un aumento de la capacidad sintética de la misma."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Mujer de 45 años, con antecedente de déficit de Ig A, acude por hematuria y astenia. A la exploración presenta petequias en MMII, y en el hemograma destacan trombopenia grave (5000 plaquetas/mm3) y anemia (Hb 9). Se realiza el diagnóstico de PTI con hematuria anemizante. Se inicia corticoterapia. ¿Debería el médico indicar además transfusión de gammaglobulinas?",
+      "opciones": [
+        "Sí, porque así está indicado en las guías de práctica clínica.",
+        "Sí, porque la paciente presenta un sangrado de riesgo vital.",
+        "No, ya que la paciente tiene un déficit de Ig A que contraindica la transfusión de gammaglobulinas.",
+        "No, ya que no se ha demostrado su eficacia en el tratamiento de la PTI."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El déficit de IgA contraindica la transfusion de gammaglobulinas ya que puede hacer una reacción adversa post-transfusional. Aunque se trate de una PTI, intentamos tratar solo con corticoterapia."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Señala cuál de las siguientes asociaciones entre periodo postrasplante y patógeno característico en receptores de trasplante de órgano sólido es INCORRECTA:",
+      "opciones": [
+        "Primer mes postrasplante: infección de lecho quirúrgico por Pseudomonas aeruginosa.",
+        "Segundo mes postrasplante: nefropatía por poliomavirus BK.",
+        "Noveno mes postrasplante: neumonía neumocócica.",
+        "Duodécimo mes postrasplante: meningitis criptocócica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Recuerda que en el receptor de trasplante de órgano sólido se distinguen tres períodos claramente diferenciados en el riesgo de infección:\n\n· Primer mes postrasplante: Se trata de pacientes hospitalizados en los que predominan las infecciones nosocomiales por bacilos gramnegativos (incluida P. aeruginosa) y S. aureus. Además, es característica la reactivación de la infección por virus del herpes simple.\n\n· Segundo a sexo mes postrasplante: En esta etapa predominan las infecciones oportunistas, ya que la intensidad del tratamiento inmunosupresor es mayor. Cabe citar la enfermedad por CMV y las infecciones por micobacterias, Nocardia, Listeria, Cryptococcus, Toxoplasma o Pneumocystis jirovecii. El poliomavirus BK puede producir cuadros de nefropatía del injerto en receptores de trasplante renal.\n\n· A partir del sexto mes postrasplante: Predominan las infecciones adquiridas en la comunidad como, por ejemplo, las causadas por neumococo. Debido a que la intensidad del tratamiento inmunosupresor va disminuyendo progresivamente (al disminuir igualmente el riesgo de rechazo), son poco frecuentes las infecciones oportunistas en esta fase (respuesta 4 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de los siguientes cambios genéticos es capaz de modificar la región variable del alelo que codifica para la cadena ligera de una inmunoglobulina después de que el linfocito B que la expresa reconozca un antígeno en un ganglio linfático?",
+      "opciones": [
+        "Recombinación somática.",
+        "Diversidad de unión por adición de nucleótidos N (No codificados).",
+        "Hipermutación somática.",
+        "Diversidad de unión por adición de nucleótidos P (Palindrómicos)."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es compleja, ya que nos piden un dato muy concreto sobre los mecanismos genéticos de las inmunoglobulinas (Igs). El dato clave es que nos preguntan por un mecanismo que se produce tras el reconocimiento del antígeno y por lo tanto, no tiene que ver con la generación del repertorio de especificidades de Igs (reordenamientos por recombinación somática), sino con la maduración de la afinidad (hipermutación somática)."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Se va a proceder a realizar un trasplante renal a un paciente. Entre los estudios previos pre-trasplante, se realiza la prueba cruzada donante-receptor, la cual da un resultado de: POSITIVA. ¿Cómo debemos actuar?:",
+      "opciones": [
+        "La prueba cruzada positiva invalida la posibilidad de trasplante, por lo que hay que buscar otro receptor para ese órgano",
+        "Administrar fuertes dosis de glucocorticoides inmediatamente después de la reperfusión del órgano, y trasplantar.",
+        "Efectuar un trasplante combinado renal y de médula ósea para inducir tolerancia en el receptor.",
+        "Tratar al receptor con timoglobulina 24 horas antes de proceder al trasplante."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La prueba cruzada positiva indica que hay anticuerpos donante-específicos preformados en el receptor, por lo que si realizamos el trasplante provocaríamos un rechazo hiperagudo."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "En los déficit de la inmunidad celular, señale el agente más probablemente implicado como infección oportunista:",
+      "opciones": [
+        "Haemophilus influenzae.",
+        "Streptococcus pneumoniae.",
+        "Mycobacterium tuberculosis.",
+        "Anisakis simplex."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Para recordar los déficits de inmunidad celular, acuérdate de las infecciones oportunistas del VIH: tuberculosis, CMV, toxoplasmosis, pneumocistis, herpes 1 y 2, etc. Neumococo, Moraxella y Haemophilus son más frecuentes en inmunodeprimidos humorales, mientras que el Anisakis no se relaciona con la inmunodepresión, sino que se adquiere debido a ciertos factores de riesgo (pescado crudo, boquerones en vinagre, etc)."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "El linfocito B puede actuar como célula presentadora de antígeno. Señale la afirmación FALSA:",
+      "opciones": [
+        "Tras el reconocimiento del antígeno por la inmunoglobulina de membrana y su procesamiento, lo presenta en su forma nativa en las moléculas de HLA-II.",
+        "Tras el reconocimiento del antígeno por la inmunoglobulina de membrana y su procesamiento, lo presenta fragmentado en péptidos en las moléculas de HLA-II.",
+        "Es capaz de interactuar con los linfocitos T CD4+.",
+        "Tras su interacción con los linfocitos T es capaz de cambiar el isotipo de inmunoglobulina que sintetiza."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los linfocitos B son células con capacidad para reconocer de manera específica antígenos en su forma nativa, mediante la inmunoglobulina de membrana. Posteriormente los antígenos proteicos son internalizados y procesados para presentarse en fragmentos sobre las moléculas HLA-II a los linfocitos CD4+. Además, de la misma forma que cualquier célula nucleada y con síntesis proteica, puede presentar péptidos endógenos en HLA-I a los linfocitos T CD8+."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "La ingesta de zumos de alguna de las siguientes frutas puede interferir con el metabolismo de ciertos antihistamínicos. Señale cual",
+      "opciones": [
+        "Uva",
+        "Pera",
+        "Pomelo",
+        "1 y 3 son ciertas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El pomelo y la uva están entre las frutas con mas interferencias medicamentosas."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿Cuál de las siguientes moléculas está implicada en la apoptosis del linfocito T?",
+      "opciones": [
+        "FAS/FASL.",
+        "CD20.",
+        "CD25.",
+        "CD11c."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las moléculas FAS (CD95) son un receptor de membrana con un dominio de muerte celular. A través de su ligando, FASL (CD95L) es capaz de inducir la apoptosis o muerte celular programada."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Los linfocitos T cooperadores se pueden cuantificar en sangre periférica mediante técnicas que emplean anticuerpos monoclonales marcados con sustancias fluorescentes dirigidos contra antígenos de su superficie. ¿Cuál de los siguientes fenotipos corresponde a esta subpoblación de linfocitos?",
+      "opciones": [
+        "CD3+, CD4+, CD8+.",
+        "CD3-, CD4+, CD8-.",
+        "CD3+, CD4+, CD8-.",
+        "CD3+, CD4-, CD8+."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla sobre las células del sistema inmune, uno de los temas más preguntados de Inmunología. Los linfocitos T (LT) se caracterizan por expresar en su membrana una molécula para reconocer antígenos: el TCR (receptor antigénico de la célula T). Asociado a esta molécula se encuentra CD3, por lo que se puede afirmar que todos los LT son CD3 +.\n\nLos LT se pueden dividir en 2 grupos básicos:\n\n1) LT cooperadores o Helper: la mayoría son CD4 +. Reconocen antígenos presentados junto con el CPH- II. La mayor parte de los CD4 + desarrollan funciones colaboradoras, tanto para la respuesta de Ac como para la inmunidad celular (respuesta 3 correcta).\n\n2) LT citotóxicos: la mayoría son CD8 +. Reconocen antígenos presentados por CPH- I.\n\nLos linfocitos CD4 y CD8 +, se llaman dobles positivos y son linfocitos inmaduros que se encuentran en el timo, y en muy escaso porcentaje en sangre periférica en comparación con los ya mencionados."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿Cuál de las siguientes definiciones se corresponde con el epitopo?:",
+      "opciones": [
+        "Conjunto de determinantes antigénicos situados en las regiones variables de las cadenas pesada y ligera de una inmunoglobulina.",
+        "Son los determinantes antigénicos del idiotipo.",
+        "Son las variantes genéticas de un mismo isotipo.",
+        "Es la región de un antígeno donde se une el anticuerpo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos encontramos ante una pregunta sencilla pero liosa, por lo que lo más importante es tener claro cada uno de los términos similares y relacionados que existen ya que con frecuencia los confundimos.\n\nUn antígeno es una molécula que al ser introducida en un individuo desencadena una respuesta inmune frente a ella, es decir, es inmunógena per se.\n\nEpitopo es la región concreta de un antígeno donde se une el anticuerpo, también se les denomina determinantes antigénicos; un antígeno puede tener varios epitopos.\n\nHapteno son sustancias no inmunógenas per se, pero que pueden comportarse como tal si se unen a una molécula más grande o carrier.\n\nIdiotipo es el conjunto de determinantes antigénicos situados en las regiones variables de las cadenas pesadas y ligeras de una Ig; es en otras palabras, la zona donde reside su actividad de anticuerpo y también se puede denominar paratopo.\n\nLos isotipos son los distintos tipos de inmunoglobulinas frente a los que se pueden formar por combinación de las diferentes cadenas pesadas y ligeras (IgG, IgA, IgM, IgD, IgE).\n\nAlotipo es el producto proteico de un alelo que puede ser detectado como antigénico por otro miembro de la misma especie (reflejan pequeñas diferencias, constantes entre individuos de la misma especie, en la secuencia de aminoácidos de inmunoglobulinas)."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Mujer de 48 años, sometida a una intervención de trasplante renal hace seis horas, que comienza con un cuadro brusco de anuria y shock, y entre sus antecedentes destaca que, años antes, había recibido un primer trasplante renal no HLA idéntico. El tipaje HLA de la paciente es: HLA-A1, A2, HLA-B44, B27, HLA-DR4, DR15, el tipaje HLA de su primer donante fue: HLA-A1, A2, HLA-B44, B35, HLA-DR4, DR15 y el de su actual donante es: HLA-A1, A2, HLA-B44, B35, HLA-DR4, DR15. ¿Qué situación clínica cree que se está produciendo?",
+      "opciones": [
+        "Rechazo agudo debido a la sensibilización en su primer trasplante.",
+        "Rechazo hiperagudo debido a la sensibilización en su primer trasplante.",
+        "Rechazo agudo acelerado debido a la sensibilización en su segundo trasplante frente a antígenos del primer donante.",
+        "Rechazo hiperagudo debido a la existencia de anticuerpos frente a HLA-B35 en su segundo donante."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debemos sospechar un cuadro de rechazo hiperagudo por el tiempo transcurrido desde la intervención quirúrgica y el antecedente de un trasplante previo. Además, nos facilitan el tipaje HLA de la paciente y de su dos donantes, viendo que los donantes son iguales a la paciente en todo excepto en HLA-B35. La paciente pudo sensibilizarse frente a HLA-B35 en su primer trasplante, generando anticuerpos anti- HLA-B35 que en un segundo trasplante B35, pueden desarrollar un rechazo hiperagudo (respuesta 2 correcta). La opción de respuesta 4 es falsa, ya que los anticuerpos no están en la sangre del donante, sino en la de la paciente."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "La activación policlonal de linfocitos TH en el síndrome de shock tóxico por Staphylococcus aureus, es inducida por:",
+      "opciones": [
+        "Un superantígeno.",
+        "Una toxina.",
+        "Una enzima estafilocócica.",
+        "Estimulación antígeno específica de los TCR linfocitarios."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La inmensa mayoría de los antígenos se sitúan, al ser presentados, en el surco creado entre los extremos de las cadenas alfa y beta del HLA de clase II. Estas son reconocidas, asimismo, por los extremos de las cadenas alfa y beta del receptor de la célula T (TCR). Se trata, pues, de una interacción similar a la del antígeno con el idiotipo de las inmunoglobulinas.\n\nLos superantígenos se unen directamente a una zona lateral de la cadena beta del TCR que es muy poco polimórfica, sin tomar contacto con la zona polimórfica (donde se sitúan los antígenos ordinarios). Al no ser capaces de discriminar selectivamente los TCR específicos, los superantígenos son capaces de estimular de modo totalmente inespecífico, hasta el 20% de la totalidad de los linfocitos T periféricos que, al activarse, secretan citoquinas e interleuquinas masivamente. La enorme cantidad de citoquinas actuando sobre sus correspondientes receptores, es la responsable del cuadro clínico. Un ejemplo de enfermedad inducida por superantígenos es el shock tóxico estafilocócico."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Ante una sospecha de anafilaxia reciente que pediría en analítica para confirmar este diagnóstico",
+      "opciones": [
+        "IgE total",
+        "IgE específica a alimentos",
+        "Triptasa sérica",
+        "IgE específica a veneno de himenópteros"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La triptasa permanece elevada al menos 2 horas tras la anafilaxia"
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cuál de las siguientes entidades NO debería estar incluida en el diagnóstico diferencial de una niña de 10 meses de edad con infecciones recurrentes de vías respiratorias y niveles disminuidos de inmunoglobulinas?",
+      "opciones": [
+        "Síndrome de Bruton.",
+        "Hipogammaglobulinemia transitoria de la infancia.",
+        "Síndrome de Di George.",
+        "Síndrome de ataxia telangiectasia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La clave de esta pregunta es el sexo del paciente; en este caso al ser femenino, debemos eliminar aquella entidad cuya herencia esté ligada al cromosoma X (herencia ligada al X recesiva), el síndrome de Bruton es también conocido como la agammaglobulinemia ligada al cromosoma X (marcamos la opción de respuesta 1). Las demás opciones de respuesta son posibles, aunque nos faltan muchos datos en la pregunta para definir un diagnóstico, el objetivo que persigue esta pregunta es la eliminación directa de una opción de respuesta."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿En cuál de los siguientes cromosomas localizaría usted los genes relacionados con el sistema HLA?",
+      "opciones": [
+        "Cromosoma 3.",
+        "Cromosoma 16.",
+        "Cromosoma 13.",
+        "Cromosoma 6."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta importantísima de Inmunología. El HLA cae siempre y debes conocer qué es, que se codifica en el cromosoma 6 y recordar el cuadro con las asociaciones HLA/enfermedad más frecuentes."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "En referencia a la alergia a alimentos, señale la correcta:",
+      "opciones": [
+        "La tolerancia completa al alimento tras haber sido alérgico indica siempre una prueba cutánea negativa al mismo.",
+        "La ausencia de Ige específica positiva al alimento en un paciente con historia previa de alergia al alimento indica la completa resolución del cuadro de alergia alimentaria.",
+        "La prevalencia de alergia a alimentos es mayor en niños que en adultos.",
+        "Se ha conseguido la diminución en la última década de la incidencia de alergia a alimentos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En general la alergia alimentaria es más frecuente en niños y adolescentes que en adultos. En adultos la prevalencia de alergia alimentaria es del 1-3% y en niños del 4-6%. Sin embargo, determinar su prevalencia exacta es complicado porque en los distintos estudios se han utilizado melodías diferentes y su ocurrencia cambia con la edad así como de cada región geográfica. Además en los últimos años, existen datos que sugieren un aumento claro de la prevalencia de la alergia a alimentos.\n\nLa prevalencia a lo largo de la vida y la prevalencia puntual de alergia a alimentos está estimada en 17.3% y 5.9% respectivamente. La prevalencia de sensibilización a uno o más alimentos por medio de determinaciones de IgE específica sérica o pruebas cutáneas del 4-6% y del 7-17% respectivamente y mediante prueba de exposición controlada del 1-10%. Esto significa que no todos los pacientes que toleran un alimento (a los que se ha sido o no alérgico) tienen pruebas cutáneas o IgE específica negativa.\n\nPor ejemplo, en pacientes sensibilizados a gramíneas, es frecuente encontrar presencia de IgE específica o pruebas cutáneas positivas con cereales como el trigo, esto se debe a fenómenos de reactividad cruzada y es lo que se denomina sensibilización subclínica. Otro ejemplo sería pacientes diagnosticados de alergia a un alimento (por ejemplo frutos secos) y que durante el seguimiento se realizan pruebas de exposición controlada en el que se objetiva tolerancia a uno o más frutos secos. En ocasiones estos pacientes persisten con presencia de IgE positiva o pruebas cutáneas positivas y sin embargo, toleran el alimento en cuestión."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "La tolerancia central se establece a nivel de:",
+      "opciones": [
+        "Bazo.",
+        "Saco vitelino.",
+        "Timo.",
+        "Hígado fetal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad media que no debes tener problema en resolver. El concepto de tolerancia hace referencia a un estado de ausencia de reactividad específica para antígenos concretos que se adquiere de forma activa. Los mecanismos de tolerancia pueden establecerse a nivel central, durante la génesis y diferenciación de las células (timo para las células T y médula ósea para los B) y a nivel periférico, sobre células adultas. La tolerancia establecida a nivel central sobre los linfocitos B en la médula ósea es menos efectiva que la realizada sobre los linfocitos T en timo, por ello se considera que la presencia de un pequeño número de linfocitos B levemente autorreactivos es normal, no obstante, éstos permanecen inactivos por la falta de colaboración de los linfocitos TH2."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Cuál de los siguientes isotipos de inmunoglobulinas está principalmente implicado en la defensa frente a bacterias encapsuladas?",
+      "opciones": [
+        "IgG4.",
+        "IgG2.",
+        "IgG3.",
+        "IgG1."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En esta pregunta mezclamos conocimientos básicos sobre el de las inmunoglobulinas, con conocimientos aplicados a la respuesta inmune específica frente a un grupo de microorganismos. La subclase IgG2 contiene principalmente especificidades frente a organismos encapsulados, como Haemophilus influenzae y Pneumococo. Su deficiencia aumenta la susceptibilidad a infecciones por estas bacterias."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "En las reacciones de hipersensibilidad mediada por IgE, es CIERTO que:",
+      "opciones": [
+        "Juegan un papel importante los eosinófilos y los mastocitos.",
+        "No intervienen elementos celulares.",
+        "Juegan un papel fundamental las reacciones de citotoxicidad mediadas por anticuerpos.",
+        "No interviene el receptor de la inmunoglobulina IgE."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta es una pregunta de dificultad baja. Hace referencia a conceptos directos de las respuestas de hipersensibilidad tipo I (opción 3 incorrecta), mediadas por IgE y conocidas de forma conceptual como atopia. Su única complicación puede venir de la redacción en negativa de la mayoría de sus opciones.\n\nLa opción 1 es claramente correcta, ya que son eosinófilos y mastocitos dos de las células principalmente implicadas en estos procesos (opción 2 incorrecta), ya que poseen en su membrana receptores para el Fc de la IgE, a través de los cuales la IgE las activa (opción 4 incorrecta)."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Niño de 6 años que a la hora de tomar una dosis de Ibuprofeno en jarabe, ha sufrido picadura de insecto desconocido, y a los 5 minutos ha desarrollado urticaria generalizada. La prueba cutánea intradérmica con veneno de véspula ha sido positiva a 0,1g/ml. Se retiró el Ibuprofeno y se inició un tratamiento de inmunoterapia con veneno de avispa y ha recibido ya dosis de mantenimiento durante 2 meses, Los padres de niño desean una 2ª opinión por que no saben si pueden usar de nuevo el Ibuprofeno. Que les aconsejaría:",
+      "opciones": [
+        "Continuar con la inmunoterapia.",
+        "Suspender la inmunoterapia",
+        "Repetir las pruebas cutáneas con veneno de avispa antes de decidir",
+        "Determinar el nivel de anticuerpos IgE específicos a veneno de avispa"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es la 2. Los niños pueden desarrollar reacciones sistémicas a las picaduras que sólo afecten a la piel. Estas reacciones es poco probable que progresen y se conviertan en reacciones potencialmente fatales. La inmunoterapia no es necesaria. Además es mas posible que la urticaria fuera debida al Ibuprofeno, por lo que se deben realizar pruebas con AINES.\n\nValentine MD, Schubert KC, Kagey-Sobotka A, Grafo DF, Kwiterovich KA, Szklo M. The value of immunotherapy with venom in children with allergy to insect stings. N Engl J Med 1990;323:161-3"
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Se ha establecido mediante medidas estadísticas de asociación la relación entre múltiples polimorfismos HLA y enfermedades en humanos. Respecto a la asociación HLA y enfermedad, señale la CORRECTA:",
+      "opciones": [
+        "HLA-DQ6 y enfermedad celíaca.",
+        "HLA-A29 y síndrome de Bechet.",
+        "HLA-DR4 y artritis reumatoide.",
+        "No existen herramientas estadísticas con la capacidad suficiente como para establecer dichas asociaciones."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La asociación entre HLA y enfermedad suele establecerse mediante métodos estadísticos que básicamente se basan en observar que la prevalencia de una determinada variante HLA es mayor de forma estadísticamente significativa en pacientes afectos de una determinada enfermedad que la que cabría esperar por ser individuos de la población a la que pertenecen.\nLas asociaciones correctas para las otras opciones:\n\n• Enfermedad Celiaca: HLA-DQ2/DQ8\n• Sindrome de Bechet: HLA-B51"
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuál es la característica que define el proceso de citotoxicidad natural mediado por las células NK?:",
+      "opciones": [
+        "Requerir del complejo mayor de histocompatibilidad.",
+        "No necesitar de células presentadoras de Antígeno.",
+        "Presentar memoria inmunológica.",
+        "Atacar fundamentalmente a la población bacteriana."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sencilla que no debería haberte planteado mucho problema resolver. Como pone en el enunciado la citotoxicidad de los linfocitos NK pertenece a la inmunidad innata o natural, por lo que debe reunir las características propias de ésta: actúa como primera medida en fases tempranas y carece de especificidad y memoria inmunológica. La falta de especificidad hace que los elementos típicos de la respuesta específica estén ausentes, típicamente las CPA y el HLA II. Como hemos dicho los NK son muy importantes en los primeros momentos de una infección vírica, cuando todavía no se ha desarrollado la respuesta de linfocitos T. Entre las moléculas que son capaces de reconocer sobre las células alteradas están polisacáridos anormales y anticuerpos fijados sobre las mismas. Una de las principales funciones biológicas de las células NK es la de destruir células que carecen de HLA clase I.\nDado que el bloqueo de la expresión del HLA en la célula infectada es una estrategia viral para burlar al sistema inmune, eso les convierte en un mecanismo alternativo de defensa antivírica y, en determinadas ocasiones, de defensa antitumoral, ya que algunas células tumorales también pierden la expresión de HLA clase I y se convierten en dianas de los NK . La capacidad de reconocer anticuerpos viene mediada por la presencia de un receptor para la Fc, que es CD16 desarrollando la denominada citotoxicidad mediada por anticuerpos. Las células NK no tienen receptor de célula B ni de célula T."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuál de las siguientes citocinas inhibe la síntesis de IgE mediada por IL-4?",
+      "opciones": [
+        "IFN.",
+        "IL-5.",
+        "IL-10.",
+        "IL-6."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta difícil que te pide una comprensión avanzada de los primeros momentos de la respuesta inmune en el organismo, tema clave para el funcionamiento de todos los aspectos reflejados en el bloque de inmunología. Una vez activado el proceso de respuesta inmune, según el patrón de citoquinas que secrete la célula presentadora de antígenos el linfocito T enfocará la fase efectora hacia una inmunidad celular o humoral. Si encontramos IL- 12 se produce una respuesta TH1 o celular, secretando IL- 2, IF- gamma y TNF que estimularán células citotóxicas. Si por el contrario se produce IL- 4 la respuesta será TH2 o humoral, secretando IL- 4, IL- 5 e IL- 13 que estimularán a los linfocitos B a la producción de anticuerpos. Además ocurre que cuando la respuesta se ha polarizado en un sentido, las citoquinas producidas en esa vía inhibirán las citoquinas propias de la otra vía. Así como la IL- 4 pertenece a la vía TH2, será inhibida por las citoquinas de la vía TH1: IL- 2, IF- gamma y TNF."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Señale cuál de las siguientes enfermedades no suele cursar con IgE elevada:",
+      "opciones": [
+        "Fibrosis quística.",
+        "Aspergilosis broncopulmonar alérgica.",
+        "Bagazosis.",
+        "Infestación por Necator americanus."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El Necator no provoca un aumento de IgE, al contrario de las neumonitis por hipersensibilidad"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "El HLA DR2 es de clase:",
+      "opciones": [
+        "I.",
+        "II.",
+        "IV.",
+        "V."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta muy sencilla que no deberías haber fallado, pues es importante tener claro las implicaciones de cada uno de los HLA y cómo reconocer si es de tipo I o II. La nomenclatura de los complejos mayores de histocompatibilidad es sencilla: aquellos que pertenecen al HLA- I son los que se nombran con una sola letra, y esta suele ser A, B o C; por el contrario, los que pertenecen al HLA- II se nombran con dos letras, en este caso DR, DP y DQ. El número que viene detrás no indica a qué HLA pertenece, sino el orden de tipificación dentro de cada grupo. Por último recuerda que el encontrar una ?w? entre la letra mayúscula y el número indica que es una nomenclatura provisional. Con esta explicación no habrás dudado que el HLA-DR2 pertenece al tipo HLA II ya que posee dos letras."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Una de las siguientes pruebas cutáneas no esta indicada en el estudio de pacientes con urticaria: Señalela",
+      "opciones": [
+        "Prueba del cubito de hielo",
+        "Prueba de frotamiento o rubbing test",
+        "Fototest",
+        "Prueba del manguito de presión"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La prueba de cubito de hielo se utiliza en la urticaria a frigore\n\nEl fototest se emplea en el diagnostico de la urticaria solar o lumínica\n\nLa prueba del manguito de presión en la urticaria por presión\n\nEl rubbing test se emplea sin embargo para estudio de alergia alimentaria"
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "En todas EXCEPTO en una de estas entidades se encuentra elevada la IgE:",
+      "opciones": [
+        "Síndrome de Wiskott-Aldrich.",
+        "Asma bronquial extrínseco.",
+        "Síndrome anafilactoide.",
+        "Hidatidosis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta difícil acerca de las implicaciones clínicas de las distintas Ig, tema de cierta importancia dentro del bloque de inmunología. Es importante recordar aquellas enfermedades donde hay un aumento de alguna Ig, ya que serán datos que nos apoyarán en la resolución de preguntas. Realmente no debes dudar del aumento de IgE presente en el asma extrínseco, en las infecciones por parásitos (hidatidosis) y en la dermatitis atópica.\nMás problemas puede darte el síndrome de Wiskott- Aldrich en el que se encuentra característicamente elevada, igual que lo está la IgA. Recuerda que el síndrome anafilactoide también se conoce como púrpura anafilactoide o púrpura de Scholein- Henoch, enfermedad englobada dentro de las vasculitis y en la que la Ig alterada suele ser sobre todo al IgA y no la IgE. Aunque el nombre se parezca a la anafilaxia, no tiene nada que ver con las reacciones de hipersensibilidad."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "En Inmunología existen numerosos conceptos que son fácilmente confundibles. Conociendo los conceptos de antígeno, epítopo, idiotipo, isotipo y determinante antigénico señale cuál de las siguientes afirmaciones está correctamente formulada:",
+      "opciones": [
+        "El epítopo de la inmunoglobulina se une específicamente al idiotipo del antígeno.",
+        "El determinante antigénico es capaz de unirse al epítopo con gran afinidad.",
+        "El idiotipo de la inmunoglobulina se une al determinante antigénico.",
+        "El isotipo de la inmunoglobulina interacciona con el epítopo del antígeno."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Debe recordar los conceptos:\n\n- Antígeno: Es cualquier molécula capaz de unirse de manera específica a una inmunoglobulina o a un TCR. A su vez puede contener 1 o más epítopos.\n\n- Epítopo: Cada una de las zonas por las que el antígeno se une específicamente a las inmunoglobulinas. Un mismo antígeno puede tener diferentes epítopos, generando así distintas respuestas de anticuerpos. Este concepto equivale al de determinante antigénico.\n\n- Idiotipo: Es la zona del anticuerpo que se une específicamente así epítopo correspondiente.\n\n- Isotipo: Hace referencia a la clase de la inmunoglobulina (IgA, IgM, IgG, etc)."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Noelia ha recibido una picadura en un pie, de donde extrajo un aguijón . Presenta al cabo de unos minutos prurito intenso generalizado con aparición de lesiones habonosas diseminadas, edema labial y malestar general. Se traslada a un Servicio de Urgencias donde se objetiva hipotensión (TA: 80/40 ) y se trata con Adrenalina , Metilprednisolona y Clorfeniramina im. Con el diagnóstico de anafilaxia por picadura de himenóptero se remite al alergólogo. Al realizar la anamnesis y obtener los datos anteriormente expuestos el alergólogo sabe que la picadura ha sido producida concretamente por:",
+      "opciones": [
+        "Polistes dominula",
+        "Vespula germánica",
+        "Vespa cabro",
+        "Apis mellifera"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Solo la abeja (Apis mellifera) deja clavado el aguijón. Los véspidos (polistes, vespula, vespa) no lo hacen"
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Niño de 15 meses que es traído por sus padres de urgencia al Centro de Salud ya que, durante la cena y tras ingerir un bocado de tortilla, presenta de forma súbita enrojecimiento facial de predominio perioral, lesiones habonosas en tronco y extremidades, y tos. A su llegada al centro se encuentra consciente y se objetiva, además de lo descrito, tiraje supraesternal, rinorrea acuosa abundante, hipoventilación bilateral sin sibilancias, y relleno capilar inferior a dos segundos. De entre las siguientes afirmaciones, señale la CORRECTA:",
+      "opciones": [
+        "Lo prioritario es canalizar una vía venosa.",
+        "La metilprednisolona por vía intramuscular es el tratamiento de elección.",
+        "Se debe recomendar a los padres su traslado a un Servicio de Urgencias hospitalario.",
+        "Se debe administrar sin más dilación adrenalina por vía intramuscular."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "No hay duda de que se trata de una reacción alérgica, probablemente producida por huevo. Es una reacción grave con afectación sistémica, una anafilaxia, definida por los síntomas orales (enrojecimiento facial perioral), síntomas cutáneos (lesiones habonosas en extremidades y tronco), respiratorios (tos, tiraje supraesternal, hipoventilación bilateral en ausencia de sibilancias, que orienta a gravedad), ótico-nasales (rinorrea acuosa abundante), y cardiovasculares (relleno capilar inferior a 2 segundos, lo que nos dice que aún no está en shock, aunque su situación es grave y evolucionará a ello sin ninguna medida terapéutica). Así pues, y recordando el tratamiento de las reacciones alérgicas, está claro que las tres primeras opciones de respuesta tendrán su lugar en algún momento del tratamiento de este cuadro, pero la PRIMERA MEDIDA debe ser la administración de adrenalina intramuscular para evitar el shock (respuesta 4 correcta). Después se debería asegurar vía aérea, administrar oxígeno, canalizar una vía venosa para administrar fluidos y considerar vasopresores, antihistamínicos, corticoides, betaagonistas, etc."
+    }
+  ]
+}

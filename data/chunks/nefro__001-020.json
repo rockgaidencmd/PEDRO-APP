@@ -1,0 +1,491 @@
+{
+  "materia": "nefro",
+  "paginaInicio": 1,
+  "paginaFin": 20,
+  "anomalias": [
+    "p7: en el comentario de la pregunta sobre tratamiento del síndrome nefrótico hay dos caracteres que no se rasterizaron y aparecen como '?': 'hipercoagulabilidad? Para el tratamiento' y '0,6g/kg/día ?entonces la respuesta incorrecta ha de ser la 1- .'",
+    "p9: en la pregunta '¿Cuál de las siguientes opciones, NO elegiría para el tratamiento del síndrome nefrítico?' la Resp. Correcta es 4, pero el comentario afirma 'la respuesta 3 es correcta'; se refiere a que la medida 3 es una actuación adecuada (no a la clave), y concluye que la digoxina no está indicada"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente de 50 años que acude a urgencias remitido por su MAP por presentar en analitica creatinina de 4 mg/dl, urea 110 mg/dl, sodio 135 meq/L y potasio de 5 meq/l. Refiere que hace una semana ha presentado una amigdalitis y ha estado tomando amoxicilina-clavulanico 750 mg/12 horas durante 7 dias. Además refiere febricula, leve erupción cutanea en mmii, y astenia. En el hemograma presenta anemia leve y eosinofilia ¿cual sería su diagnostico más probable?",
+      "opciones": [
+        "glomerulonefritis postestreptococica",
+        "fracaso renal agudo prerrenal",
+        "glomerulonefritis IgA",
+        "nefritis intersticial inmunoalérgica"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "el antecedente de toma de un fármaco, el rash cutáneo y la eosinofilia hablan a favor de una nefritis inmunoalérgica secundaria a la toma de amoxicilina-clavulánico"
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente trasplantado renal de 48 horas de evolución que presenta hematuria macroscópica seguida por anuria y dolor intenso en el injerto. Está afebril y hemodinámicamente estable ¿Qué se debe sospechar y qué prueba haría en primer lugar?",
+      "opciones": [
+        "Trombosis de vena renal - Renograma isotópico.",
+        "Rechazo agudo - Renograma isotópico.",
+        "Trombosis de la vena renal - Eco doppler renal.",
+        "Infección del injerto - TAC con contraste."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las complicaciones vasculares del trasplante renal son más frecuentes en los primeros días postrasplante. Se deben sospechar antes hematuria macroscópica -> anuria y dolor importante a nivel del injerto renal, y ante la sospecha se debe realizar como primera prueba de sospecha un eco doppler renal. Ante los datos que aporta esta pregunta es quizá más posible que se trate de una trombosis de la vena renal que de una infección del injerto o un rechazo, pero estas posibilidades siempre han de estar presentes y no están descartadas sólo por la clínica, porque también se podría manifestar con dolor y anuria. En cualquier caso, la primera prueba a llevar a cabo es el eco doppler del injerto renal (R3 correcta, R1, 2 y 4 incorrectas)."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Ante un paciente que acude a urgencias por dolores óseos y que en la analítica de sangre presenta Hb 8,1 g/dL; Cr 2,8 mg/dL y Ca 11 mg/dL debemos sospechar:",
+      "opciones": [
+        "Amiloidosis.",
+        "Mieloma múltiple.",
+        "Enfermedad renal crónica.",
+        "FRA de tipo prerrenal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Este enunciado nos describe el perfil típico de un paciente con mieloma múltiple, caracterizado clínicamente por la presencia de dolores óseos y analíticamente por deterioro de función renal, habitualmente multifactorial, con anemia desproporcionada al grado de deterioro de función renal y la presencia de hipercalcemia (respuesta 2 correcta). Recuerda que, exceptuando el mieloma múltiple, lo más frecuente en el contexto de la insuficiencia renal sería encontrar hipo y no hipercalcemia."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Paciente de 20 años, diagnosticado de síndrome nefrítico agudo hace 3 meses. Presenta en la actualidad: proteinuria de 5 g/día, microhematuria, C3 persistentemente bajo, HTA y una Cr sérica de 3 mg/dl. Los anticuerpos anti-DNA son negativos y no tiene clínica sistémica. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Lupus eritematoso diseminado.",
+        "GN membranoproliferativa.",
+        "GN membranosa.",
+        "Hialinosis focal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos plantean un SN con complemento bajo y AntiDNA negativo.\n\nPor descarte llegamos enseguida a la respuesta correcta, la NMB y la GEFS no bajan el complemento y la ausencia de AntiDNA descarta el LES.\n\nAdemás la clínica es típica de una GNMC con SN impuro e hipocomplementemia (sería por la vía clásica, C4 también habría bajado)"
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Paciente de 56 años, con adicción alcohólica y desnutrición importante, que acude a Urgencias por malestar. Se realiza una analítica, que muestra: Hb 13g/dL, leucocitos 5.500 (fórmula normal), Cr 0,6mg/dL, urea 25mg/dL, Na 135 mEq/L, K 3 mmol/L, calcio 7mg/dL, magnesio 0,6mg/dL, albúmina 3g/dL, fosfato 2mg/dL. ¿Cuál de las siguientes sería la opción más adecuada?",
+      "opciones": [
+        "Iniciar reposición inmediata con magnesio, ya que hasta que no se corrija este ion, no se verán mejorías en el resto de alteraciones iónicas.",
+        "Iniciar reposición inmediata para la hipocalcemia en primer lugar, ya que es sintomática.",
+        "Iniciar reposición inmediata de los niveles de potasio, ya que es una hipopotasemia grave.",
+        "Iniciar reposición inmediata de suero salino hipertónico, ya que presenta hiponatremia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hipomagnesemia se observa en situaciones de alcoholismo y de desnutrición, como es el caso clínico que nos presentan. Se suele asociar a otras alteraciones iónicas (hipocalcemia, hipopotasemia…). Cuando hay hipomagnesemia y se asocia a otras alteraciones iónicas, el magnesio es el primer ion que hay que reponer. Por este motivo la respuesta correcta es la opción1."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Mujer de 30 años, con hipertensión refractaria a tratamiento con diurético y betabloqueante y alcalosis hipopotasémica en la analítica. Lo MÁS probable es que la causa de su hipertensión sea:",
+      "opciones": [
+        "Feocromocitoma.",
+        "Displasia fibromuscular.",
+        "Estenosis de arteria renal por placa de ateroma.",
+        "Panarteritis nodosa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Dentro de las causas de hipertensión arterial secundaria, la estenosis de la arteria renal se asocia típicamente a alcalosis hipopotasémica (por activación del eje renina-angiotensina-aldosterona) y las causas más importantes de estenosis de arteria renal son la displasia fibromuscular en mujeres de menos de 35 años (respuesta 2 correcta), la presencia de placas de ateroma en varones mayores de 65 años (opción de respuesta 3 falsa, ya que el perfil de la paciente no es compatible) y las vasculitis de mediano y gran vaso (PAN, Takayasu). Aunque el feocromocitoma también podría ser causa de HTA, no asociaría alcalosis hipopotasémica."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Paciente de 20 años, diagnosticado de síndrome nefrítico hace tres meses. Presenta en la actualidad: proteinuria de 5 g/día, microhematuria, C3 persistentemente bajo, HTA y una Cr sérica de 3 mg/dL. Los anticuerpos anti-DNA son negativos. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Persistencia de la GN aguda.",
+        "Lupus eritematoso diseminado.",
+        "GN membranoproliferativa.",
+        "GN membranosa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico de dificultad moderada que se puede resolver siendo sistemático en el análisis de los datos. El nivel de complemento es un buen dato para empezar a descartar opciones de respuesta, puesto que es muy discriminativo en las glomerulonefritis (GN). Como recordarás, las patologías renales hipocomplementémicas son: GN aguda postinfecciosa (en este caso, transitoria y con activación por la vía alternativa), GNMP o mesangiocapilar (en su tipo I, la activación es por la vía clásica; en el II, por la alternativa), GNRP tipo II, LES, shunt, sepsis, endocarditis y crioglobulinemia mixta esencial (activación por la vía clásica); además, la enfermedad por émbolos de colesterol también cursa con complemento disminuido. La postinfecciosa quedaría descartada porque el complemento típicamente se recupera a las 8 semanas y el paciente suele recuperar función renal, siendo incompatible un nefrótico tres meses después de la GN. Ya que nos cuentan un síndrome nefrítico y en el enunciado nos dicen explícitamente que “los anticuerpos anti-DNA son negativos”, descartamos el LES y nos quedamos con la opción de respuesta 3, la GNMP (el 20% pueden debutar con nefrítico y luego mantener proteinuria nefrótica, por lo que la clínica sería compatible) (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de los siguientes tratamientos NO se ha demostrado sea eficaz en el manejo de un paciente con síndrome nefrótico?:",
+      "opciones": [
+        "Dieta hiperproteica.",
+        "Restricción de sal.",
+        "Diuréticos de forma cuidadosa evitando el descenso brusco de la volemia.",
+        "Esteroides en la nefropatía de cambios mínimos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Te recomendamos que domines los síndromes de la patología renal (principalmente el síndrome nefrítico y el nefrótico), pues te ayudará a contestar preguntas. Recuerda que es esencial para definir el síndrome nefrótico que exista una proteinuria masiva (entre 3- 3,5 g/día), también suele haber hipoproteinemia, hipoalbuminemia, hipercolesterolemia e hipertrigliceridemia, lipiduria, cilindruria, con o sin microhematuria, edemas, hipercoagulabilidad? Para el tratamiento en general indicamos reposo, restricción de líquidos y sal. La dieta es normoproteica (1g/kg/día), aunque cuando hay hiperazoemia, lo reducimos a 0,6g/kg/día ?entonces la respuesta incorrecta ha de ser la 1- . El uso de diuréticos ha de hacerse con cuidado porque aunque hay edemas, se trata de un estado de deplección relativa de volumen y el uso de diuréticos puede llevar a una IRA prerrenal e incluso NTA. También se controla la HTA con IECAs, se dan estatinas y se prohibe el tabaco. Se usan HBPM para prevenir enfermedad tromboembólica. Sabemos que específicamente la glomerulonefritis de cambios mínimos mejora con corticoides."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Las principales manifestaciones respiratorias del síndrome de Goodpasture son:",
+      "opciones": [
+        "Disnea de esfuerzo y hemoptisis.",
+        "Disnea de esfuerzo y tos seca.",
+        "Hemoptisis y dolor torácico.",
+        "Disnea y dolor torácico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de Goodpasture o síndrome hemorrágico reno- pulmonar entraña un diagnóstico diferencial. Una de sus causas es la ENFERMEDAD de Goodpasture que se produce por la presencia de anticuerpos antimembrana basal glomerular dirigidos contra el colágeno IV. La afectación pulmonar en su contexto aparece en un 60- 70% casos y suele preceder a la renal en forma de disnea progresiva, hipoxemia e infiltrados alveolares generalizados por presencia de una hemorragia alveolar difusa que se exterioriza en forma de hemoptisis. La clínica renal presenta hematuria aunque lo característico es la insuficiencia renal rápidamente progresiva."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuándo estará indicada la realización de biopsia renal?",
+      "opciones": [
+        "Síndrome nefrótico en el adulto de etiología no filiada",
+        "Alta sospecha de Nefropatía IgA con brotes de hematuria macroscópica recidivante en brotes",
+        "FRA prerenal",
+        "Proteinuria nefrótica en el contexto de Amiloidosis que fue diagnosticada hace 3 meses a través de una biopsia de mucosa rectal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta que podríamos haber contestado sólo recordando que la causa más frecuente de SN en el adulto es la Nefropatía membranosa y la forma de realizar su diagnóstico es a través de la biopsia renal. De forma general debemos biopsiar todo síndrome nefrótico de etiología incierta en el paciente adulto. La Nefropatía IgA de presentación clásica no precisa de biopsia renal, sólo biopsiaremos si el paciente presenta mala evolución (Deterioro de FG, HTA, proteinuria…)\n\nEl FRA prerenal no precisa biopsia en ningún caso salvo que haya sospecha de patología parenquimatosa añadida.\n\nPor último la amiloidosis no precisa de realización de biopsia renal si hemos diagnosticado ya la patología de base a través de la biopsia de grasa subcutánea o de mucosa recta."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Varón de 40 años, con antecedentes de episodios de hematuria macroscópica; el estudio de litiasis no aporta datos positivos. En los exámenes complementarios se evidencia creatinina: 3 mg/dl, y en la ecografía se observan riñones aumentados de tamaño con múltiples quistes y quistes hepáticos. Menciona que su padre había fallecido por una enfermedad renal. ¿Cuál sería el diagnóstico más probable?:",
+      "opciones": [
+        "Enfermedad quística medular.",
+        "Enfermedad poliquística.",
+        "Quiste renal simple.",
+        "Neoplasia renal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La enfermedad poliquística del adulto se caracteriza por la presencia de quistes tubulares renales, que van creciendo progresivamente, hasta comprimir el resto de estructuras del órgano. A largo plazo, se produce HTA en un 75% de los pacientes adultos adultos. Esta HTA es secundaria a la isquemia intrarrenal, por distorsión de la arquitectura y la consecuente activación del sistema renina- angiotensina.\n\nPor otra parte, esta enfermedad asocia aneurismas en el polígono de Willis con cierta frecuencia, produciendo a veces hemorragias subaracnoideas por su rotura. Otra importante asociación son los quistes hepáticos, que pueden hallarse mediante ecografía en la mayor parte de estos pacientes. Por último, es muy característica la ausencia de anemia, e incluso la policitemia, en este tipo de enfermos.\n\nComo sabes, cuando se produce insuficiencia renal crónica por otra causa, es muy frecuente la asociación con anemia. Esta circunstancia puede no producirse en esta enfermedad, ya que los quistes son productores de eritropoyetina."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Paciente de 58 años, diagnosticado de diabetes mellitus tipo 2 hace tres años, que mantiene buen control glucémico hasta la fecha, sin afectación renal, ni retinopatía diabética. Acude a Urgencias por edemas en miembros inferiores. Se realiza determinación de la proteinuria de 24 horas y se observa proteinuria en rango nefrótico. Una de las siguientes afirmaciones es CORRECTA. Señálela:",
+      "opciones": [
+        "El diagnóstico más probable es el de GN Membranosa, por lo que estaría indicado iniciar tratamiento empírico con antiproteinúricos y esperar evolución.",
+        "El diagnóstico más probable es el de nefropatía diabética, por lo que estaría indicado iniciar tratamiento con antiproteinúricos y esperar evolución.",
+        "El diagnóstico más probable es el de GN Membranosa, por lo que estaría indicado realizar una biopsia renal.",
+        "El diagnóstico más probable es el de nefropatía diabética, aunque es obligado realizar una biopsia renal para hacer el diagnóstico diferencial con la GN Membranosa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla sobre el síndrome nefrótico en el paciente diabético. Generalmente el síndrome nefrótico en un paciente diabético no precisa biopsia para ser atribuido a su nefropatía diabética, siempre y cuando el contexto clínico sea el adecuado. Solo realizaremos biopsia cuando no tengamos datos suficientes para tener una alta sospecha de nefropatía diabética. Es decir, que si el desarrollo del síndrome nefrótico es progresivo (ha pasado por microalbuminuria intermitente, persistente, macroalbuminuria), tardío (han pasado más de ocho años desde el diagnóstico), y el paciente presenta afectación a nivel de otros órganos diana (retinopatía, gastropatía, neuropatía diabética), pensaremos que es una nefropatía diabética y no está indicado biopsiar; sin embargo, en este caso ha sido diagnosticado hace poco tiempo y no tiene retinopatía, por lo que lo más probable es que NO sea una nefropatía diabética, sino una GN membranosa, y está indicado realizar una biopsia renal (respuesta 3 correcta). Recuerda que la causa más frecuente de síndrome nefrótico en el adulto diabético es la nefropatía diabética. En segundo lugar, habría que pensar en la GN membranosa (la más frecuente como causa de síndrome nefrótico dentro de las GN primarias)."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "En una ateroembolia renal nos extrañaría encontrar:",
+      "opciones": [
+        "Hipocomplementemia.",
+        "Cr 3,5 mg/dl",
+        "Poliuria.",
+        "Placas de Hollenhorst en el fondo de ojo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La ateroembolia de colesterol ocluye habitualmente las arterias arcuatas e interlobares dando lugar a un fracaso renal agudo o subagudo que puede cursar con oliguria o volumen de diuresis conservado pero sería excepcional observar poliuria en este contexto."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Cuál de las siguientes opciones, NO elegiría para el tratamiento del síndrome nefrítico?:",
+      "opciones": [
+        "Reposo en cama hasta la desaparición de los signos de inflamación glomerular y de congestión circulatoria.",
+        "Vasodilatadores como el nitroprusiato o la nifedipina en casos de hipertensión arterial grave.",
+        "Resolver la sobrecarga circulatoria y la hipertensión para tratar la encefalopatía y la congestión pulmonar.",
+        "Digoxina cuando se produce edema agudo de pulmón."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Has de saber manejar los síndromes, y si sabes la enfermedad que lo ha causado entonces podrás hacer un tratamiento específico. El tratamiento ha de incluir actuaciones sobre la sobrecarga salina y sobre la insuficiencia renal grave (a veces es necesario diálisis), la respuesta 3 es correcta. En cuanto al manejo de la HTA a veces son necesarios fármacos potentes, como el nitroprusiato o el nifedipino, diuréticos. Recuerda que el tratamiento básico del EAP (y más en este caso que es por retención hidrosalina) es morfina, O2, vasodilatadores y diuréticos, la digoxina no está indicada. Si sabemos que hay infeccion estreptocócica es pertinente pautar antibioterapia."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Paciente de 31 años que acude a Urgencias por malestar general y dolor difuso en ambas fosas renales. Refiere que, tras un partido de fútbol hace tres días, ha estado tomando pastillas porque le dolían las rodillas, pero no recuerda cuáles. Comenta que ha estado orinando más de lo habitual, incluso se ha levantado tres o cuatro veces por la noche. En la analítica, destacan: Cr 3,1 mg/dL, Urea 120 mg/dL, Na 139 mEq/L, K 4,9 mEq/L. Leucocitos 10.000 (N 75%, L 20%, E 5%). En la orina presenta Na+ 80 y en el sedimento leucocitos 30-40/campo, sin bacteriuria. ¿Cuál sería la PRIMERA medida que tiene que adoptar?",
+      "opciones": [
+        "Rehidratar y esperar para ver la evolución.",
+        "Forzar diuresis para intentar transformar el FRA en poliúrico.",
+        "Prednisona 1 mg/kg/día.",
+        "Suspender el fármaco."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que nos describe un FRA tras la toma de un fármaco (con toda probabilidad un AINE), potencial causante de una nefritis inmunoalérgica. Recuerda que este cuadro cursa característicamente con fracaso renal agudo o subagudo, fiebre (artralgias y eosinofilia) y, habitualmente, se acompaña de dolor sordo en ambas fosas renales. La diuresis puede ser variable, desde poliuria (como el paciente del enunciado) hasta cuadros más graves con oliguria. En el tratamiento de la nefritis intersticial aguda inmunoalérgica por fármacos, la primera medida debe ser retirar el fármaco, pues es la causa del cuadro. El tratamiento con corticoides ha demostrado mejorar el pronóstico del fracaso renal, siempre y cuando el inicio del tratamiento sea precoz (si se administran pasadas unas semanas del inicio del cuadro, lo más probable es que la nefritis esté en fase evolucionada con fibrosis intersticial, no reversible, y la probabilidad de recuperar la función renal es mucho menor). Pero siempre hay que asegurarnos de que se ha suspendido el fármaco causante de la patología."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Sospecharemos una estenosis de arteria renal ante un paciente con:",
+      "opciones": [
+        "HTA de diez años de evolución bien controlada con restricción de sal e hidroclorotiazida.",
+        "Mujer de 44 años que debuta con HTA de comienzo brusco, sin historia familiar de HTA.",
+        "Paciente varón con HTA refractaria a tratamiento con dosis altas de IECA y función renal conservada.",
+        "Paciente con HTA que se acompaña de acidosis e hiperpotasemia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La HTA vasculorenal en relación a estenosis de arteria renal, ya sea uni o bilateral, debe ser sospechada ante una HTA de inicio brusco que tiene lugar en una mujer menor de 50 años de edad (Sospecha de displasia fibromuscular. RC 2) o en un varón mayor de 60 años con numerosos FRCV, especialmente en pacientes sin historia familiar de HTA. Habitualmente se acompaña de alcalosis hipopotasémica (por activación del eje RAA. R 4 falsa), tiene mala respuesta a los hipotensores habituales (R 1 falsa) y suele mejorar con la administración de IECAs/ARAII pero deteriorando al mismo tiempo el FG (R3 falsa)."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Mujer de 72 años que está en estudio en nefrología por edemas con fóvea, microhematuria y proteinuria en rango nefrótico. Se solicita estudio inmunológico en el que presenta: ANA -, antiDNA -, ANCA -, AMBG -, crioglobulinas -, ac antiPLA2R -, inmunoglobulinas en rango. C3 45 mg/dL, C4 8 mg/dL. ¿Cuál de las siguientes entidades es más probable?",
+      "opciones": [
+        "GN membranoproliferativa",
+        "GN focal y segmentaria",
+        "GN membranosa",
+        "GN lúpica"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La pregunta es fácil de deducir si sabemos que las cifras de complemento que nos dan en el enunciado son bajas, es decir, que nos hablan de una hipocomplementemia por la vía clásica. De las respuestas posibles, descartamos la 2 y la 3 porque ninguna nos altera el complemento. La respuesta 4 también es falsa (en el caso de una GN lúpica encontraríamos ANA + y antiDNA + si la glomerulonefritis se encuentra activa). La respuesta correcta es por tanto la 1, GN membranoproliferativa (que además es compatible con el cuadro que nos describe, síndrome nefrótico impuro, con hematuria, y con descenso de C3 y C4)."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Varón de 30 años, que acude a la consulta por hallazgo en un control analítico de Cr 1,6 mg/dL con MDRD 54 mL/min/1,73 m². Entre sus antecedentes familiares comenta que su madre está en diálisis, aunque no recuerda por qué. La ecografía abdominal muestra unos riñones grandes con tres quistes en el riñón izquierdo y cuatro en el derecho. Señale la afirmación CORRECTA respecto a la enfermedad de este paciente:",
+      "opciones": [
+        "No suele presentar HTA.",
+        "Se produce por mutaciones del NPHP2.",
+        "Se deben utilizar inhibidores mTOR para el tratamiento.",
+        "El sexo masculino y los episodios de hematuria macroscópica se relacionan con un peor pronóstico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Caso clínico en el que se describe a un paciente con enfermedad poliquística autosómica dominante, fácil de reconocer al ser la enfermedad renal hereditaria más frecuente (y el paciente nos habla de antecedentes familiares de ERC) y de las pocas causas con riñones grandes y quísticos. A nivel clínico es frecuente la presencia de HTA, dolor lumbar con episodios de hematuria macroscópica, y tienen con mayor frecuencia nefrolitiasis e infecciones urinarias. La enfermedad se debe a la mutación del gen PKD, que codifica para la proteína poliquistina (PKD1 en el Cr 16 y PKD2 en el Cr 4). La dificultad de la pregunta está en reconocer los factores de mal pronóstico de la enfermedad: además del sexo masculino y los episodios de hematuria macroscópica, la edad temprana de presentación, el aumento anual del volumen renal, hipertensión, e infecciones del tracto urinario en varones, son factores relacionados con un peor pronóstico (respuesta 4 correcta). Desde el año 2017 se ha aprobado el uso del tolvaptán para disminuir el crecimiento de los quistes en pacientes con esta EPQA y ERC estadios I-III y criterios de rápida progresión."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Señale cuál de las siguientes es una indicación de revascularización de una estenosis de arteria renal:",
+      "opciones": [
+        "Estenosis no significativa con riñón atrófico",
+        "Estenosis no significativa con insuficiencia renal",
+        "Estenosis significativa relacionada con episodios de edema agudo de pulmón",
+        "Estenosis significativa con riñones atróficos e insuficiencia renal avanzada"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Sólo se deben revascularizar las estenosis significativas. Dentro de estos casos está indicado sin duda aquellas relacionadas con episodios de edema agudo de pulmón. Por su parte, si los riñones ya están atróficos no se indica la revascularización por riesgo y escaso beneficio."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Una biopsia renal muestra con el microscopio óptico numerosos glomérulos con semilunas. La inmunofluorescencia presenta un patrón lineal con la IgG. ¿Cuál es el diagnóstico?:",
+      "opciones": [
+        "Granulomatosis de Wegener.",
+        "Enfermedad de Goodpasture.",
+        "Púrpura de Schonlein Henoch.",
+        "Poliarteritis microscópica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La enfermedad de Goodpasture, o enfermedad antimembrana basal glomerular, hace referencia a la asociación de hemorragia alveolar difusa y glomerulonefritis, que se acompaña de anticuerpos antimembrana basal en el suero, de causa desconocida. Clínicamente, lo característico es la insuficiencia renal rápidamente progresiva, que puede aparecer de forma simultanea o secuencial con la afectación pulmonar.\n\nEl diagnóstico se confirma con la biopsia renal percutánea, en la que se observa proliferación difusa y semilunas. Mediante inmunofluorescencia, se demuestran depósitos lineales de inmunoglobulinas (IgG) y C3 a lo largo de la membrana basal glomerular, como en este caso clínico."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Mujer de 65 años obesa, hipertensa y con nefropatía diabética (filtrado glomerular estimado de 38 mL/min/1,73 m² y albuminuria de 420 mg en orina de 24 horas). ¿Cuál de los siguientes NO es un factor de progresión de la nefropatía?",
+      "opciones": [
+        "Hipertensión arterial mal controlada.",
+        "Proteinuria.",
+        "Hipocalcemia.",
+        "Mal control glucémico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Tanto la hipertensión arterial como el mal control glucémico y la proteinuria son factores de progresión de la enfermedad renal crónica asociada a la diabetes mellitus. De hecho, el control de los tres ha demostrado mejorar la progresión de la enfermedad renal. El principal de ellos es la proteinuria. Sin embargo, la hipocalcemia no se ha asociado con la progresión de la nefropatía diabética (respuesta 3 correcta, respuestas 1, 2 y 4 incorrectas)."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál de los siguientes datos es el MÁS característico de una nefritis intersticial aguda?",
+      "opciones": [
+        "Eosinofilia en sedimento urinario.",
+        "Eosinofilia periférica y aumento de los niveles de IgG en suero.",
+        "Fiebre asociada a I.R.A.",
+        "Eritema Malar"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad moderada sobre la nefritis por hipersensibilidad. Debes conocer el concepto, etiología y clínica. La nefritis intersticial aguda es la forma más frecuente de nefropatía por hipersensibilidad. Los fármacos que se asocian con más frecuencia son antibióticos (ampicilina, cefalosporinas, rifampicina), quinolonas y AINEs. Es frecuente la asociación de exantema cutáneo, fiebre y eosinofilia, pero no hay elevación de IgG. Se puede ver proteinuria subnefrótica y leucocituria. La eosinofilia en el sedimento urinario (eosinofiluria) es el dato más característico. Los glucocorticoides han demostrado eficacia en el tratamiento de estos procesos, por lo que la primera medida sería la retirada del fármaco e iniciar tratamiento con corticoides."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "En un paciente con artritis reumatoide en tratamiento con metotrexate, prednisona e indometacina, que presenta de forma aguda edemas y aumento de la creatinina plasmática con un sedimento de orina poco expresivo y proteinuria inferior a 100mg/24h, la causa más probable es:",
+      "opciones": [
+        "Amiloidosis renal.",
+        "Glomerulonefritis secundaria a la artritis reumatoide.",
+        "Insuficiencia renal por antiinflamatorios no esteroideos.",
+        "Nefritis intersticial por metotrexato."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre nefrotoxicidad por AINES en un paciente con artritis reumatoide. El paciente desarrolla un FRA sobre el que nos dan una serie de datos muy poco específicos, ya que apenas tiene proteinuria y el sedimento es muy poco específico, lo que nos debe hacer pensar en una afectación de predominio túbulo intersticial (Creemos que los edemas son un dato para despistar porque no se verían con una proteinuria de 100 mg/día). Las afectaciones glomerulares típicamente asociadas a artritis reumatoide, Amiloidosis y GN Membranosa, quedarían descartadas porque se asociarían a síndrome nefrótico (R1 y R2 incorrectas). La nefritis intersticial por metotrexate es extremadamente infrecuente, ya que el metotrexate puede dar deterioro de función renal por NTA a dosis altas pero no se asocia de forma típica al desarrollo de inmunoalérgica, además el paciente está en tratamiento con corticoides, lo que le protegería de una nefritis intersticial aguda (R4 incorrecta). La única respuesta razonable por tanto sería la respuesta 3, ya que los AINES pueden dar FRA por NTA, compatible con el cuadro descrito."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Señale la gasometría que se corresponde con una alcalosis respiratoria",
+      "opciones": [
+        "pH 7,50, Bicarbonato 19 meq/l, PCO2 21 mmHg.",
+        "pH 7,32, Bicarbonato 19 meq/l, PCO2 35 mmHg.",
+        "pH 7,48, Bicarbonato 33 meq/l, PCO2 45 mmHg.",
+        "pH 7,38, Bicarbonato 23 meq/l, PCO2 41 mmHg."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En una alcalosis respiratoria esperaríamos encontrar un pH elevado, con una PCO2 baja (hiperventilación) y un bicarbonato bajo a modo de respuesta compensadora. La gasometría compatible es la de la respuesta 1."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "En un enfermo adicto a drogas por vía parenteral, con serología de hepatitis B, C y VIH positivas, ¿cuál es la nefropatía MENOS probable?",
+      "opciones": [
+        "Glomerulonefritis mesangiocapilar.",
+        "Nefropatía membranosa.",
+        "Glomerulonefritis aguda postinfecciosa.",
+        "Glomeruloesclerosis focal y segmentaria."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta de cierta complejidad sobre la etiología de las glomerulonefritis. La condición de ADVP (heroína) y el VIH predispondrían a este paciente a padecer una glomeruloesclerosis focal y segmentaria. Por otra parte, la GN mesangiocapilar podría producirse debido al VHC. Además la nefropatía membranosa se relaciona con la infección por VHB.\n\nLa adicción a drogas por vía parenteral podría favorece la aparición de una GN relacionada con la infección (ej. Endocarditis por staph aureus) pero este paciente no presentaría riesgo aumentado de una GN aguda postestreptocócica/postinfecciosa."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Niño de 4 años de edad que consulta por edemas palpebrales. En la analítica presenta función renal conservada, con marcada hipoalbuminemia. Se recoge orina en la que presenta microhematuria de 5-10 hematíes/campo y proteinuria de 10 g/m2/día. Señale la correcta:",
+      "opciones": [
+        "El diagnóstico más probable es GN focal y segmentaria.",
+        "Puede ocurrir en relación con fármacos como los AINEs.",
+        "No existen casos familiares.",
+        "En la biopsia renal existe aumento de la matriz mesangial y depósito de IgG y C3."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre la Nefropatía de cambios mínimos. Caso clínico típico de niño que consulta por edemas. En los datos nos muestran proteinuria importante (en niños la proteinuria es en rango nefrótico por encima de 1 g/m2/día o >40 mg/m2/hora), de forma que estamos ante un claro síndrome nefrótico (con marcada hipoalbuminemia secundaria); y en este caso será un síndrome nefrótico impuro, porque nos dan microhematuria (Aunque no es lo más típico puede encontrarse en aproximadamente el 25% de los SN en niños). Nos piden que señalemos la respuesta correcta por lo que marcaremos la 2, puede ocurrir en relación con fármacos como los AINEs. El resto de respuestas son falsas: el diagnóstico más probable es un cambios mínimos (es la causa más frecuente de síndrome nefrótico en el niño, independientemente de que tenga hematuria microscópica, aunque la presencia de hematuria hace más probable la futura evolución a GEFS). Si existen casos familiares, por lo que la 3 es falsa. Y la 4 también es falsa porque la anatomía patológica típica de esta entidad es una microscopía óptica prácticamente normal, sin depósitos de inmunoglobulinas en la inmunofluorescencia, y con fusión de pedicelos en la microscopía electrónica."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "La siguiente gasometría: pH 7,14, PCO2 27 mmHg, Bicarbonato 11 meq/l, le hará pensar como primera opción en una:",
+      "opciones": [
+        "Acidosis respiratoria",
+        "Alcalosis respiratoria",
+        "Acidosis metabólica",
+        "Alcalosis metabólica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La gasometría nos presenta un pH bajo (pH < 7,35) por lo que estamos ante una acidosis, que se acompaña de un bicarbonato bajo y por tanto pensaremos en una acidosis metabólica (RC 3)\n\nEn este caso la respuesta compensadora es adecuada ya que por cada meq/l que ha caído el bicarbonato (ha pasado de su valor normal de 24 meq/l a 11 meq/l, ha caído 13 puntos), la PCO2 ha bajado también 1 mmHg (De su valor de referencia que es 40 mmHg ha bajado hasta 27 mmHg)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Todas las siguientes circunstancias, EXCEPTO una, se han asociado a la trombosis venosa renal:",
+      "opciones": [
+        "Traumatismos.",
+        "Síndrome nefrótico.",
+        "Fibrilación auricular.",
+        "Embarazo y anticonceptivos orales."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es muy sencilla y NO DEBES FALLARLA. La fibrilación auricular se relaciona con embolismos mientras que el resto de las opciones tienen que ver con situaciones de hipercoagulabilidad (embarazo y anticonceptivos orales), hiperviscosidad sanguínea (deshidratación, Síndrome nefrótico) o situaciones que afecten directamente la vena renal (es típico en caso del TRAUMATISMO DEL CINTURON DE SEGURIDAD)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "La glomerulonefritis post-estreptocócica sigue a infecciones faríngeas o cutáneas. Señale aquella característica MENOS relacionada con la glomerulonefritis aguda asociada a infecciones cutáneas:",
+      "opciones": [
+        "Higiene personal cutánea.",
+        "Hacinacimiento.",
+        "Está más influída por variaciones geográficas y estacionales que la glomerulonefritis aguda asociada a infección faríngea.",
+        "Período de latencia entre infección y aparición de glomerulonefritis entre 3 y 6 semanas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta difícil pero a la vez deducible.\n\nEs cierto que las infecciones cutáneas por estreptococos se relacionan con los factores expuestos en las respuestas 1, 2 y 4. La opción 3 es falsa, puesto que las infecciones faríngeas tienen un predominio en los meses fríos que no se constata en las infecciones cutáneas."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Mujer de 40 años de edad que es remitida a nuestra consulta por hipertensión arterial mal controlada con tres fármacos antihipertensivos. Función renal normal. Se realiza un eco-doppler y presenta un índice de resistencias elevado en origen de arteria renal izquierda. ¿Cuál es la causa más probable de hipertensión arterial?",
+      "opciones": [
+        "Hiperaldosteronismo primario",
+        "Feocromocitoma",
+        "Hipertensión arterial maligna",
+        "Hipertensión vasculorrenal"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La HTA vasculorrenal se diagnostica a través de eco-doppler por un aumento de indice de resistencias, aunque el gold estandar diagnostico es la arteriografia renal"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Señale cual de las siguientes opciones acerca de la alteración de la función renal es FALSA:",
+      "opciones": [
+        "El riñón tiene una gran capacidad de recuperación de su función tras las lesiones agudas.",
+        "La lesión renal mantenida suele ser no reversible, conduciendo a un deterioro progresivo de la función renal.",
+        "La reducción de la masa renal provoca sobre las nefronas restantes un aumento de las presiones y flujos capilares glomerulares, con hiperfiltración adaptativa y mayor riesgo de desarrollar lesiones de esclerosis focal y segmentaria.",
+        "La presentación y gravedad de los signos y síntomas de la uremia son relativamente constantes en todos los pacientes independientemente de la rapidez y el grado de deterioro de la función renal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clínica de la uremia es muy variable dependiendo de la etiología y de la velocidad de instauración. En una ERC el paciente presentará habitualmente mejor tolerancia a las alteraciones analíticas (acidosis, anemia) que en un FRA.\n\nEl resto de opciones son correctas."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "En el tratamiento de la glomerulonefritis aguda postinfecciosa suele ser necesario",
+      "opciones": [
+        "Administrar inmunosupresores",
+        "Administrar esteroides y controlar la presión arterial",
+        "Controlar la hipertensión",
+        "Dar ciclofosfamida"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "no esta indicado el tratamiento inmunosupresor en la glomerulonefritis postinfecciosa, el manejo es sintomático"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Chica de 18 años que acude al hospital por edemas en miembros inferiores de una semana de evolución, destacando en la analítica una proteinuria en rango nefrótico con hipoproteinemia e hipoalbuminemia. En la anamnesis refiere aftas orales recidivantes, artritis de pequeñas articulaciones de las manos, rash malar y fotosensibilidad. En el estudio etiológico destaca la presencia de ANA y anti-DNA con hipocomplementemia. La determinación de ANCA es negativa. Se realiza una biopsia renal en la que predominan los depósitos subepiteliales, ¿Cuál sería probablemente la afectación glomerular de nuestra paciente?",
+      "opciones": [
+        "GN Membranosa.",
+        "GN proliferativa difusa lúpica.",
+        "GN proliferativa focal lúpica.",
+        "GN Membranosa lúpica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre las clases de nefropatía lúpica. Se trata de una chica joven con criterios de lupus (aftas orales, artritis, rash malar, fotosensibilidad, ANA, antiDNA) y nos piden saber cuál es la nefropatía de sospecha teniendo en cuenta que tiene depósitos de predominio en subepitelio y proteinuria en rango nefrótico.\n\nAunque la clase IV de LES (GN proliferativa difusa lúpica) es la más frecuente en el brote, en este caso concreto la descartamos ya que la clase IV presenta depósito de todo tipo de Ig en todas partes, es decir, mesangial, subepitelial y subendotelial. Sin embargo en este caso la clínica es similar a una GN Membranosa, con depósito como en una GN Membranosa (subepitelial) y al tener la paciente el complemento bajo y criterios de LES será una GN Membranosa lúpica (Clase V), que tiene mejor pronóstico que la clase IV."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Una mujer de 24 años acude a urgencias remitida por su médico de Atención Primaria porque, al realizarle una analítica por astenia, artralgias febrícula y aparición de edemas maleolares, se objetiva anemia normocítica normocrómica (hemoglobina de 9 gs/dl), creatinina sérica de 2 mg/dl, sedimento con microhematuria y proteinuria en tira reactiva de 500 mg/dl. ¿Cuál o cuáles serían las exploraciones complementarias que usted solicitaría en primer lugar, dado el diagnóstico de presunción?:",
+      "opciones": [
+        "Cuantificación de proteinuria en orina de 24 horas y aclaramiento de creatinina.",
+        "Tomografía axial computarizada renal.",
+        "C3, C4, ANA, AntiDNA.",
+        "Biopsia renal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una mujer joven con insuficiencia renal, anemia, artralgias, astenia y febrícula debería hacernos considerar un posible lupus eritematoso sistémico. Por ello, tendría sentido solicitar cuantificación de los factores del complemento C3 y C4, así como la determinación de anticuerpos antinucleares. El descenso del complemento y la positividad de estos autoanticuerpos respaldarían el diagnóstico de lupus, por lo que la respuesta correcta es la 3. Aunque es muy probable que esta mujer acabase precisando una biopsia renal, no sería la prueba que pediríamos “en primer lugar” (respuesta 4 falsa)."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "En un paciente que presente Síndrome Nefrótico por Lesiones Mínimas (Cambios Mínimos), la inmunofluorescencia glomerular revela:",
+      "opciones": [
+        "Depósito mesangial de IgA IgG.",
+        "Depósito lineal de IgG.",
+        "Es negativa.",
+        "Depósitos subepiteliales de inmunoglobulinas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy sencilla sobre el CM. En ella nos preguntan de forma directa por la anatomía patológica de la glomerulonefritis de cambios mínimos, en concreto por la inmunofluorescencia. Esta entidad se caracteriza por no presentar hallazgos con el microscopio óptico, con el electrónico se observa una fusión pedicelar, y en la inmunofluorescencia no se observan depósitos (es negativa), aunque a veces, cuando se relaciona con la atopia, pueden aparecer depósitos de IgE (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Entre las complicaciones del fracaso renal agudo ¿cuál de estas es la menos frecuente?",
+      "opciones": [
+        "Hemorragia gastrointestinal",
+        "Edema agudo de pulmón",
+        "Pericarditis",
+        "Hiperpotasemia y arritimias"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aunque la uremia puede producir pericarditis, es mucho más frecuente en la ERC, en la aguda puede haber hemorragia, edema agudo de pulmón e hiperpotasemia"
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Señale la afirmación falsa referente a la nefropatía membranosa:",
+      "opciones": [
+        "Es la causa más frecuente de síndrome nefrótico en adultos no diabéticos",
+        "Se ha relacionado con cuadros neoplásicos",
+        "Los valores de complemento se encuentran disminuidos en más de la mitad de los pacientes",
+        "Se han descrito remisiones espontáneas en aproximadamente un tercio de los pacientes"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los valores de complemento son normales de forma característica"
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "La presencia de patrón p-ANCA en un paciente con enfermedad de Goodpasture puede indicar:",
+      "opciones": [
+        "Buen pronóstico.",
+        "Evolución a neoplasia pulmonar.",
+        "Asociación con vasculitis.",
+        "No modifica el pronóstico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta puede resultarte complicada porque puedes no relacionar inicialmente la enfermedad de Goodpasture con la positividad de los p- ANCA. Los p- ANCA o anticuerpos anticitoplasma de neutrófilos de patrón perinuclear están dirigidos contra la mieloperoxidasa y la elastasa y los relacionamos más frecuente con vasculitis tipo Churg- Strauss o la poliangeitis microscópica. Por este razonamiento podríamos pensar que la aparición de p- ANCA en un paciente con Enfermedad de Goodpasture puede estar relacionada con manifestaciones vasculíticas. Recuerda que también se pueden ver p- ANCA en el contexto de una colangitis esclerosante primaria."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "La granulomatosis de Wegener:",
+      "opciones": [
+        "Muestra un patrón específico en la inmunofluorescencia renal",
+        "Cursa inexorablemente hacia la uremia en 1-2 años",
+        "Puede producir glomerulonefritis proliferativa extracapilar",
+        "Se asocia frecuentemente a p-ANCA positivos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La granulomatosis de Wegener es una GN pauciinmune, no hay depositos en la inmunofluorescencia, se suele asociar a c-ANCA y habitualmente desarrolla en el brote semilunas (GNRP tipo III). Con tratamiento adecuado no tiene por qué precisar tratamiento sustitutivo renal. El uso de corticoides CF y PF ha mejorado mucho el pronóstico de estos pacientes."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Señale la respuesta FALSA sobre la siguiente analítica: pH 7,23, HCO3 18 mmol/L, pCO2 29 mmHg, Na 140 mEq/L, Cl 98 mEq/L:",
+      "opciones": [
+        "El anión gap está elevado.",
+        "No está adecuadamente compensada.",
+        "Es un trastorno mixto.",
+        "Es un trastorno simple."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad media/alta sobre equilibrio ácido base. Nos piden la opción falsa. Se trata de una acidosis (pH bajo) metabólica (bicarbonato bajo de forma primaria). ¿Está compensada? Solo podremos decir que está compensada si cumple la regla: “Por cada descenso de 1 punto de bicarbonato desde 24, la pCO2 desciende un punto desde 40”. En este caso, para considerarla compensada, debería tener una pCO2 de 34 mmHg. Sin embargo, tiene mucho menos. Por ello, podemos asegurar que también hay una alcalosis respiratoria asociada. Es importante recordar que cuando una respuesta compensadora no es adecuada, se está ante un trastorno mixto (opción 4 falsa, por lo que la marcamos)."
+    }
+  ]
+}

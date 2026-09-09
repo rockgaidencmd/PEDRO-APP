@@ -1,0 +1,540 @@
+{
+  "materia": "farmacologia",
+  "paginaInicio": 1,
+  "paginaFin": 21,
+  "anomalias": [
+    "p12: en el comentario sobre tolerancia antibiótica aparece '(CMB/CMI ? 32)': el signo original (probablemente '≥') no se rasterizó y quedó como interrogante",
+    "p14: la explicación del cotrimoxazol queda truncada a mitad de frase al final de la p15 ('También es activo frente a S. aureus,') y el separador cierra la pregunta sin completarla",
+    "p17: el enunciado pregunta por el mecanismo antianginoso de los 'nitritos', pero todo el comentario habla de 'nitratos'"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Respecto al ácido acetilsalicílico señale la FALSA:",
+      "opciones": [
+        "La acción antiagregante se debe a la acetilación irreversible de la COX-1 plaquetaria, que impide la formación de TXA2.",
+        "Debe evitarse durante el embarazo, pues está catalogada dentro de la categoría X, de la clasificación de riesgo de malformación fetales por medicamentos.",
+        "Se metaboliza en el hígado y se excreta por la orina, siendo la excreción mayor cuanto más básico sea el pH urinario.",
+        "El efecto antipirético se debe a la inhibición de la formación de prostaglandinas a nivel hipotalámico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El ácido acetilsalicílico (AAS) se ha preguntado en varias ocasiones y debes conocerlo bien. No debes fallar preguntas tan sencillas. Los fármacos catalogados en la categoría X están prohibidos durante el embarazo, entre los cuales no se encuentra el AAS. Al contrario, es un fármaco seguro durante la gestación (la única precaución recomendada es suspenderlo cuatro semanas antes del parto). Opción 2 correcta. La acción antiagregante se fundamenta en la inhibición irreversible de la COX- 1 plaquetaria, lo que impide la producción de TXA2, que es proagregante. Al ser de carácter ácido, tiene mayor facilidad para atravesar membranas cuando el pH es también ácido, ya que se encontraría en forma no ionizada, por lo que se absorbe mejor a nivel gástrico cuanto más bajo sea el pH. A través de la orina, se elimina más cuando ésta está alcalinizada, porque un ácido débil tiende a estar en forma ionizada en un medio alcalino y, al tratarse de una molécula cargada eléctricamente, le resulta más dificil ser reabsorbida por los túbulos, con lo que habrá más en orina. El efecto antipirético tiene su base en su acción antiprostaglandínica a nivel hipotalámico."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "De las siguientes cefalosporinas parenterales, ¿cuál de ellas es de 2ª generación?:",
+      "opciones": [
+        "Cefazolina.",
+        "Ceftizoxima.",
+        "Cefoxitina.",
+        "Cefotaxima."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es útil para repasar las diferentes generaciones de cefalosporinas, sobre las que debes tener una idea de su espectro y conocer sus componentes más importantes. Las de primera generación (cefazolina, cefalexina) son activas frente grampositivos y E. coli. Las de segunda (cefoxitina, cefuroxima, cefixima, cefonicid, cefaclor) amplían el espectro a más gramnegativos(opción 3 correcta). Recuerda la cefoxitina porque es la cefalosporina activa frente anaerobios. Las de tercera generación (ceftriaxona, cefotaxima - que son las importantes- y ceftizoxima) tienen buena actividad frente gramnegativos, haemophilus, neumococo y Neisseria. Dentro de este grupo recuerda también la ceftazidima, que es la cefalosporina con mayor actividad antipseudomonas. Finalmente, las de cuarta generación (cefepime) cubren mucho mejor que las anteriores grampositivos, enterobacterias y Pseudomonas."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cuál de los siguientes antibióticos NO actúa inhibiendo la síntesis proteica del microorganismo?:",
+      "opciones": [
+        "Macrólidos.",
+        "Aminoglucósidos.",
+        "Tetraciclinas.",
+        "Polimixinas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta. De los antibióticos propuestos, todos inhiben la síntesis proteica excepto las polimixinas, que actúan formando poros en la membrana celular, ya que actúan como detergentes catiónicos, y así producen la lisis celular. Recuerda que la inhibición de la síntesis proteica la realizan los aminoglucósidos y las tetraciclinas a través de su unión a la subunidad 30S ribosomal y que, a su vez, los macrólidos y las lincosaminas (clindamicina) lo hacen uniéndose a la subunidad 50S."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Uno de los siguientes fármacos para el tratamiento de la neumonía por Pneumocystis carinii está CONTRAINDICADO en los enfermos con deficiencia de glucosa-6-fosfato deshidrogenasa por producir hemólisis:",
+      "opciones": [
+        "Pentamidina.",
+        "Dapsona.",
+        "Eflornitina.",
+        "Clindamicina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "No te preocupes si has fallado esta pregunta, ya que se trata de una pregunta difícil sobre un fármaco poco corriente. Sin embargo, te puede ser útil recordar este efecto adverso tanto para farmacología como para hematología. La dapsona es la sulfona más eficaz y menos tóxica. Actúa inhibiendo la síntesis de folatos y es tratamiento de segunda elección para M. leprae y P. carinii. Produce hemólisis dosis-dependiente, aunque a dosis habituales sólo la ocasiona en pacientes con déficit de G- 6- PD opción 2 correcta. Otros efectos adversos son metahemoglobinemia, agranulocitosis, intolerancia digestiva o cefalea. En el tratamiento de la lepra puede aparecer una reacción de hipersensibilidad denominada síndrome dapsona, que se puede presentar con neuritis, lesiones cutáneas, edema, eritema nodoso, proteinuria y/o adenopatías."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "El espectro de acción de las quinolonas NO cubre a:",
+      "opciones": [
+        "Gonococos productores de betalactamasas.",
+        "Legionella.",
+        "Pseudomonas aeruginosa.",
+        "Bacteroides fragilis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La importancia de esta pregunta radica en que repasa el espectro de acción de las quinolonas y que este mismo concepto ya fue preguntado hace unos años. De cara al examen deberías tener una idea general de los gérmenes frente a los que son activos los principales grupos de antibióticos. Recuerda que las quinolonas tienen excelente actividad contra la mayoría de gramnegativos (gonococo, Brucella, Legionella) incluida la Pseudomonas aeruginosa y frente a gérmenes intracelulares (Brucella, Legionella, etc.). Como concepto general, quédate con que no son activas contra los anaerobios (B. fragilis) opción 4 correcta, aunque las nuevas quinolonas de 4ª generación (moxifloxacino) sí lo son. Finalmente, tanto las de 3ª (levofloxacino) como las de 4ª generación amplían su espectro frente a grampositivos."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Paciente de 36 años, en proceso de duelo tras el fallecimiento de su marido, que con fines autolíticos ingiere una caja entera de doxepina. El ECG muestra un aumento del PR y del QRS, con depresión de la onda T. Las arritmias de esta paciente pueden ser tratadas con:",
+      "opciones": [
+        "Digital.",
+        "Procainamida",
+        "Bicarbonato.",
+        "Disopiramida."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta de Farmacología disfrazada de caso clínico. Sólo necesitabas saber que la doxepina es un antidepresivo tricíclico, de ahí su cardiotoxicidad y que el tratamiento consista en administrar bicarbonato, como suele realizarse ante este tipo de intoxicación, por lo que marcamos la opción 3 que es correcta.\n\nDentro de los antidepresivos tricíclicos, merece la pena recordar un detalle sobre la doxepina, aunque nada tiene que ver con la esencia de esta pregunta. Es uno de los que más se utiliza para el prurito psicógeno, entre otras razones por sus fuertes propiedades antihistamínicas."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Hombre de 59 años con antecedentes de adenocarcinoma de colón, que está siendo valorado por la Unidad de Cuidados Paliativos. Está diagnósticado de depresión desde hace años, por lo que sigue tratamiento con paroxetina. Además tiene antecedentes de epilepsia. De entre los siguientes fármacos para el tratamiento del dolor ¿ Cúal evitaría en este paciente?",
+      "opciones": [
+        "Morfina.",
+        "Tramadol.",
+        "Paracetamol.",
+        "Fentanilo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Estamos ante un paciente que sigue tratamiento con ISRS (paroxetina) por depresión y que además está diagnosticado de epilepsia. En este caso el fármaco que deberíamos evitar sería el tramadol, puesto que se a visto que puede aumentar el riesgo de convulsiones, y éste riesgo sería aun mayor en este caso, puesto que los ISRS disminuyen el umbral en el que los pacientes convulsionan. Por esta razón sería mejor en este caso administrar paracetamol para el dolor, y si no fuera suficiente utilizar otros opioides distintos al tramadol, como morfina o fentanilo. También se han registrado convulsiones con otros opioides, pero en menor medida que con el tramadol. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "En cuanto al volumen aparente de distribución señale lo FALSO:",
+      "opciones": [
+        "Cuanto mayor sea el volumen de distribución menos posibilidades habrá de que el fármaco esté en el plasma.",
+        "Es el volumen que ocuparía el fármaco en el organismo si en todos los órganos estuviera con misma concentración que en sangre.",
+        "Cuanto menor sea el volumen de distribución menor será su concentración en plasma.",
+        "Se calcula dividiendo la dosis administrada de fármaco entre la concentración plasmática del mismo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Como dicen las opciones 2 y 4 el volumen aparente de distribución no es más que el volumen que ocuparía el fármaco en el organismo si en todos los órganos estuviera en la misma concentración que en la sangre. Se calcula dividiendo la dosis del fármaco entre la concentración plasmática. Así que si la concentración plasmática es alta el volumen de distribución será pequeño mientras que si la concentración plasmática es baja el volumen de distribución será alto. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Indique cuál de los siguientes anestésicos generales puede producir MÁS fácilmente una hipoxia por difusión postoperatoria:",
+      "opciones": [
+        "Metoxifluorano.",
+        "Ciclopropano.",
+        "Óxido nitroso.",
+        "Halotano."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "No debes preocuparte si has fallado esta pregunta. La anestesiología no es una asignatura frecuente en absoluto, aunque durante las últimas convocatorias ha aparecido alguna pregunta. La salida de grandes volúmenes de óxido nitroso durante los 5 a 10 primeros minutos de la recuperación de la anestesia puede desplazar al oxígeno alveolar, produciendo la llamada hipoxia por difusión. Opción 3 correcta. Esto puede evitarse parando la administración de óxido nitroso aproximadamente de 4 a 5 minutos antes de la salida de la anestesia y mediante la aplicación de oxígeno al 100% durante este tiempo."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Todos los siguientes son factores que modifican la respuesta farmacológica en el anciano, EXCEPTO:",
+      "opciones": [
+        "Factores socioculturales y psicosociales.",
+        "Pluripatología.",
+        "Cambios biológicos.",
+        "Enlentecimiento del vaciamiento gástrico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El enlentecimiento del vaciamiento gástrico es un factor determinante de las alteraciones farmacocinéticas de la embarazada, no del anciano (marcamos la opción de respuesta 4)."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál es el mecanismo de acción del metotrexato?",
+      "opciones": [
+        "Inhibe la enzima dihidrofolato-reductasa.",
+        "Inhibe la enzima ribonucleótido-reductasa.",
+        "Inhibe la dihidropteroato-sintetasa.",
+        "Inhibe la DNA-polimerasa."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta sencilla de farmacología que no deberías haber fallado. El metotrexate es un análogo del ácido fólico que inhibe la dihidrofolato-reductasa (respuesta 1 correcta). Está indicado en LLA, linfomas, profilaxis y tratamiento de la afectación meníngea por leucemias o carcinomatosis, tumores de cabeza y cuello y coriocarcinoma. También se usa en la artritis reumatoide deformante y en la psoriasis. Los efectos secundarios más importantes son la mielosupresión (se previene con ácido fólico) y la fibrosis hepática crónica."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de éstos no pertenece al grupo de los antibióticos antitumorales?:",
+      "opciones": [
+        "Bleomicina.",
+        "Mitomicina C.",
+        "Dactinomicina.",
+        "Etopósido."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta puramente teórica. Los antibióticos tumorales son un grupo de fármacos que incluye a la mitoxantrona, dactinomicina, bleomicina, mitomicina C, y mitramicina. El etopósido es un inhibidos de la topoisomerasa II y está dentro del grupo de la epipodofilotoxinas. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Respecto al metronidazol es FALSO:",
+      "opciones": [
+        "Está contraindicado en caso de insuficiencia hepatocelular.",
+        "Cubre protozoos anaerobios o microaerófilos.",
+        "Atraviesa muy bien la barrera hematoencefálica.",
+        "Es útil y seguro durante el embarazo y la lactancia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta es interesante porque repasa aspectos destacados del metronidazol que han sido preguntado en varias ocasiones. En primer lugar, el metronidazol es activo frente a microorganismos anaerobios y microaerófilos, ya sean bacterias o protozoos, por lo que se utiliza en las infecciones en que participan estos gérmenes. Es importante que tengas en cuenta que atraviesa muy bien la barrera hematoencefálica, por lo que se usa en el tratamiento del abseso cerebral con cefalosporinas de 3ª. En cuanto a sus efectos adversos, los más frecuentes son los gastrointestinales. Puede producir neuropatía periférica y, en caso de insuficiencia hepática, convulsiones y encefalopatía. Por eso está contraindicado en insuficiencia hepatocelular grave, así como en el primer trimestre del embarazo y durante la lactancia (opción 4 correcta). Recuerda también que, al inhibir la aldehído- deshidrogenasa, si se administra junto a alcohol produce efecto antabús o disulfiram, que consiste en un síndrome caracterizado por vasodilatación cutánea, sudoración, cefalea pulsátil intensa, disnea, náuseas y vómitos, vértigo, visión borrosa, etc."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Si la biodisponibilidad de un fármaco es del 60%. ¿Cuál de las siguientes respuestas es CIERTA?",
+      "opciones": [
+        "El 40% del fármaco se ha metabolizado en el hígado.",
+        "El paciente ha tomado únicamente el 60% de la dosis",
+        "El 40% del fármaco no va ser eliminado",
+        "El 60% del fármaco administrado alcanza la circulación sistémica"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta. La biodisponibilidad es la cantidad y velocidad con la que un fármaco alcanza la circulación sistémica sin sufrir cambios. Se expresa en porcentaje y depende de la vía de administración; siendo 100% por vía IV y la menor por vía oral."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Cuál de estos fármacos está CONTRAINDICADO en embarazadas por el riesgo de malformaciones congénitas?",
+      "opciones": [
+        "Gentamicina.",
+        "Dexametasona.",
+        "Isotretinoína.",
+        "Alfa-metildopa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta básica y más que repetida en el manual de Dermatología (en la el que aparece hasta en dos ocasiones). La isotretinoína como retinoide que es, esta contraindicado en mujeres embarazadas por el riesgo de malformaciones congénitas (opción 3 correcta). Recuerda que incluso en el caso de las mujeres en edad fértil con acné (su principal indicación) el tratamiento se suele realizar tras la firma de un consentimiento por parte de la paciente en el que se le explican y asume los riesgos o incluso de forma concomitante con anticonceptivos orales."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Cuál es la alteración del ritmo más característica de la intoxicación digitálica?:",
+      "opciones": [
+        "Bigeminismo.",
+        "Bloqueo sinoauricular.",
+        "Taquicardia multifocal ventricular.",
+        "Taquicardia auricular no paroxística con bloqueo A-V variable."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los signos electrocardiográficos de intoxicación por digoxina son: prolongación del P- R, acortamiento del Q- T, aplanamiento o inversión de T, depresión del ST. Pueden existir bloqueos auriculoventriculares de distinto grado, arritmia sinusal, bloqueo sinoauricular, parada sinusal, taquicardia auriculoventricular de la unión, así como taquicardia ventricular multifocal. Las arritmias más frecuentes son las extrasístoles ventriculares y el bigeminismo. La arritmia más característica es la taquicardia auricular no paroxística con bloqueo AV variable. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Hombre de 65 años con cardiopatía isquémica y estenosis aórtica reumática, por lo que recibe betabloqueantes, antiagregantes y estatinas, que comienza con un cuadro de fiebre y modificación de las cualidades del soplo aórtico, por lo que se sospecha endocarditis. Se extraen hemocultivos en los que crece Staphylococcus aureus meticilin resistente, por lo que recibe tratamiento antibiótico. En una analítica de control se constata importante elevación de CPK. ¿Cuál cree que es el antibiótico con el que se le ha tratado?",
+      "opciones": [
+        "Daptomicina.",
+        "Dalfopristina.",
+        "Linezolid.",
+        "Cloxacilina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En esta pregunta, directa y sencilla, se nos interroga acerca del único efecto adverso reseñable que presenta la daptomicina (un antibiótico lipopéptido con actividad frente a Staphylococcus aureus oxacilín-resistente), que es la elevación de la CPK procedente del músculo esquelético (opción 1 correcta). Dicha toxicidad en muchas ocasiones es asintomática, si bien puede llegar a evolucionar a una rabdomiolisis franca, particularmente en pacientes que reciban de forma concomitante fármacos como son las estatinas."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "El mecanismo de acción PRINCIPAL de los antiinflamatorios no esteroideos (AINE) es:",
+      "opciones": [
+        "La inhibición de la ciclooxigenasa y, en consecuencia, de la biosíntesis de prostaglandinas a nivel tisular.",
+        "El aumento de la síntesis de prostaglandinas.",
+        "La inhibición de la transmisión periférica (fibras A-delta) del estímulo nervioso.",
+        "El aumento del umbral de percepción de estímulos dolorosos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Recuerda que el mecanismo de acción básico de los AINE es la inhibición, reversible o irreversible, e inespecífica de la ciclooxigenasa (respuesta 1 correcta). Esto impide la producción de ciertos mediadores de la inflamación (prostaglandinas y tromboxanos), pero también de sustancias necesarias (la inhibición de la COX-1 es responsable de la mayor parte de efectos adversos de estos fármacos)."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Señale la FALSA acerca del volumen aparente de distribución de un fármaco:",
+      "opciones": [
+        "El volumen aparente de distribución es mayor cuanto mayor es la presencia del fármaco en sangre.",
+        "Se calcula mediante una fórmula en la que se divide la dosis administrada del fármaco dividido por la concentración plasmática del mismo.",
+        "Es uno de los parámetros medidos en la fase de distribución de la farmacocinética de un fármaco.",
+        "La probabilidad de que el fármaco se halle en sangre disminuye cuanto mayor es el volumen aparente de distribución calculado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta sirve para repasar el volumen aparente de distribución. Es uno de los parámetros medidos en la fase de distribución de la farmacocinética de un fármaco. Mide el volumen en el que estaría el fármaco si todos los órganos tuvieran una concentración del mismo igual a la plasmática. Sobre todo se usa en situaciones en las que se considere que la distribución se encuentra alterada, como ocurre en el embarazo o en las intoxicaciones. Como refiere la respuesta 2, se calcula mediante una fórmula en la que se divide la dosis administrada del fármaco entre la concentración plasmática del mismo. Por tanto, razonando esta opción podemos sacar cuál de las otras dos respuestas es la falsa. Si el denominador de la fórmula es la concentración plasmática del fármaco, cuanto menor sea esta, mayor será el volumen aparente de distribución y, por tanto, menor la probabilidad de que el fármaco se encuentre en la sangre. Por ello, la Respuesta 1 es la falsa, ya que dice lo contrario a la realidad."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "¿Cuál de los siguientes antibióticos NO requiere modificar la dosis en caso de insuficiencia renal?:",
+      "opciones": [
+        "Gentamicina.",
+        "Ciprofloxacino.",
+        "Trimetoprim-sulfametoxazol.",
+        "Metronidazol."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los antibióticos que requieren ajuste de dosis en insuficiencia renal han sido preguntados, por lo que debes conocer el tema. El impacto de la insuficiencia renal sobre la eliminación de los antibióticos depende del grado en que éstos son excretados por el riñón, sea por filtración, por secreción o por ambos mecanismos. Por tanto, habrá que ajustar la dosis de antibióticos con excreción fundamentalmente renal en pacientes con IR. Es importante, pues, conocer las vías de eliminación de los principales antibióticos para contestar preguntas similares. Recuerda que los aminoglucósidos (gentamicina), los betalactámicos (ceftazidima) y las sulfamidas (cotrimoxazol) tienen eliminación fundamentalmente renal, por lo que se debe ajustar la dosis en caso de IR. En cuanto a las quinolonas, existen diferencias notables en el grado de metabolismo hepático que sufren, aunque la mayoría y las más comunes, como el ciprofloxacino, se eliminan mayoritariamente por la orina y requieren ajuste de dosis. El metronidazol (así como macrólidos, cloranfenicol, clindamicina, rifampicina e isoniacida), en cambio, se elimina principalmente por vía biliar y no requiere ajuste de dosis en IR, sino en insuficiencia hepática. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "¿Cuál de los siguientes grupos de antibióticos actúa preferentemente sobre la pared bacteriana?:",
+      "opciones": [
+        "Betalactámicos.",
+        "Aminoglucósidos.",
+        "Tetraciclinas.",
+        "Macrólidos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El mecanismo de acción de los principales antibióticos ha sido preguntado varias veces en los últimos años, por lo que es importante conocerlos. Los betalactámicos (penicilinas, cefalosporinas, carbapenems y monobactámicos) actúan inhibiendo la síntesis del peptidoglucano, que es el principal componente de la pared celular bacteriana (opción 1 correcta). En cambio, el resto de los antibióticos propuestos inhiben la síntesis proteica bacteriana; uniéndose a la subunidad 30S los aminoglucósidos y las tetraciclinas, y a la 50S los macrólidos y el cloranfenicol."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "El fenómeno de tolerancia antibiótica es:",
+      "opciones": [
+        "Inoculo-dependiente.",
+        "Característico de los antibióticos que inhiben la sintesis de pared.",
+        "Debido a fracaso de los sistemas de acoplamiento-elongación de proteínas.",
+        "Una característica de las bacterias esporuladas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "No te preocupes si has fallado esta pregunta, pues es difícil. Aunque alguna vez se ha preguntado sobre los mecanismos de resistencia bacteriana a los antibióticos, nunca se ha preguntado este tema. Sin embargo, vale la pena retener el concepto. La tolerancia es un cambio en la respuesta bacteriana a un antimicrobiano que, siendo inicialmente bactericida, pasa después a comportarse como bacteriostático. Este fenómeno se ha descrito principalmente en cocos grampositivos (S. pneumoniae, S. aureus) con antimicrobianos que actúan sobre la pared bacteriana, como betalactámicos y vancomicina. Esta característica no es constante para una especie, sino que la presentan algunas cepas y no con todos los antimicrobianos del grupo, sino con alguno de ellos. Estas variantes mantienen una CMI baja pero su CMB aumenta considerablemente (CMB/CMI ? 32).El peptidoglucano (o mureína) que constituye la pared bacteriana está sometido a un equilibrio fisiológico de biosíntesis- degradación, siendo las autolisinas (murein- hidrolasas) las que producen la degradación fisiológica. Para que los betalactámicos tengan actividad bactericida, es necesario que las bacterias estén creciendo activamente. En estas condiciones, la falta de síntesis producida por el betalactámico y la actividad normal de las mureín- hidrolasas (autolisinas), hace que la mureína se debilite y en consecuencia la bacteria se destruye por lisis osmótica. Parece ser que las bacterias tolerantes son capaces de inactivar la autolisina, por lo que el betalactámico no actúa como bactericida sino como bacteriostático. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Señale la INCORRECTA respecto del síndrome del hombre rojo:",
+      "opciones": [
+        "Está producido por la vancomicina.",
+        "Disminuye su incidencia según se repiten las infusiones.",
+        "Se debe a la liberación de histamina.",
+        "Está mediada inmunoalérgicamente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es importante que conozcas los efectos adversos más frecuentes de los antibióticos más comunes, ya que prácticamente cada año cae una pregunta. Además, esta reacción adversa de la vancomicina ha sido preguntado más de una vez en los últimos años. El síndrome del hombre rojo, que es el efecto adverso más frecuente de la vancomicina, consiste en prurito, enrojecimiento, hormigueo, taquicardia y un exantema macular eritematoso que afecta fundamentalmente la cara, el cuello y el tercio superior del tronco. Aparece en relación con la dosis y la rapidez de infusión y es el resultado de la liberación de histamina. No interviene, pues, ningún mecanismo inmunoalérgico (opción 4 correcta). Se evita con la infusión iv lenta y disminuye su incidencia a medida que se repiten las administraciones. No ocurre con otros glucopéptidos como la teicoplanina. Otras reacciones adversas que debes recordar de los glucopéptidos son la ototoxicidad y la nefrotoxicidad, que se potencia con el uso concomitante de aminoglucósidos."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Respecto a las indicaciones de los antagonistas del calcio señale la FALSA:",
+      "opciones": [
+        "El verapamilo y el diltiacem pueden usarse en el tratamiento de la taquicardia supraventricular paroxística o la fibrilación auricular.",
+        "Son de elección en la angina vasoespástica.",
+        "Son muy beneficiosos en la insuficiencia cardíaca, sobre todo el nifedipino y el diltiacem, pues reducen las necesidades metabólicas y mejoran el estado funcional..",
+        "Pueden utilizarse como profilaxis en la cefalea en racimos (verapamilo), así como en la prevención del espasmo arterial cerebral en el seno de una HSA."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los antagonistas del calcio son fármacos que bloquean selectivamente la entrada de calcio en la célula por los canales dependientes de voltaje tipo lentos. A efecos prácticos se dividen en dos grupos, las dihidropiridinas (nifedipino, amlodipino, felodipino...), que son taquicardizantes, y el verapamilo y el diltiazem, que son bradicardizantes y tienen propiedades antiarrítmicas. En las opciones podemos ver las distintas indicaciones clínicas de estos fármacos. En la insuficiencia cardíaca sólo son beneficiosos las dihidropiridinas de segunda generación (amlodipino, felodipino), pero asociados a IECA; el resto no producen beneficios e incluso aumenta la morbimortalidad (opción 3 correcta). El diltiazem y el verapamilo producen efectos adversos cardiodepresores, pudiendo producir bradicardia, bloqueo auriculoventricular e insuficiencia cardíaca congestiva."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "EXCEPTO uno, los demás antibióticos exigen corrección importante de la dosis en enfermos con insuficiencia renal crónica:",
+      "opciones": [
+        "Amikacina.",
+        "Vancomicina.",
+        "Ceftacidima.",
+        "Ceftriaxona."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El impacto de la insuficiencia renal sobre la eliminación de los antibióticos depende del grado en que éstos son excretados por el riñón, sea por filtración, por secreción o por ambos mecanismos. Por tanto, habrá que ajustar la dosis de antibióticos con excreción fundamentalmente renal en pacientes con IR. Es importante conocer las vías de eliminación de los principales antibióticos para contestar preguntas similares.\n\n- Los aminoglucósidos (amikacina) y los glucopéptidos (vancomicina) se eliminan fundamentalmente por vía renal, por lo que requieren ajuste.\n\n- Ten en cuenta también que, aunque la mayoría de betalactámicos (penicilinas, cefalosporinas, carbapenems y monobactámicos) tienen excreción principalmente renal, la eliminación biliar es muy importante para la ceftriaxona (40 %) y la cefoperazona (75%). Esto explica que no requieran modificación de la dosis en la insuficiencia renal y, además, un efecto adverso típico de la ceftriaxona: el sídrome de la bilis espesa. Este se puede manifestar en forma de colelitiasis o colecistitis por concentración del fármaco en la bilis. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Cuál de las siguientes relaciones Antibiótico- - Efecto adverso es INCORRECTA?",
+      "opciones": [
+        "Amikacina - Toxicidad neuromuscular.",
+        "Levofloxacino - Prolongación del intervalo QT.",
+        "Vancomicina - Nefrotoxicidad.",
+        "Eritromicina - Inducción del CYP3A4."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La eritromicina es un inhibidor del CYP3A4, no un inductor, siendo capaz de disminuir el metabolismo de fármacos que se metabolizan por esta vía y elevar sus niveles séricos (opción 4 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Cómo se conoce a la fracción de fármaco NO modificado que alcanza la circulación sistémica?",
+      "opciones": [
+        "Volumen de distribución.",
+        "Biodisponibilidad.",
+        "Vida media.",
+        "Índice terapéutico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La biodisponibilidad es un concepto fundamental en Farmacología. Hace referencia a la cantidad de fármaco que alcanza inalterada la circulación sistémica (respuesta 2 correcta). Existe una vía donde la biodisponibilidad, por definición, será del 100%: la vía intravenosa. Esto es bastante lógico, puesto que introducimos directamente el fármaco en sangre. Sin embargo, la vía oral tiene una biodisponibilidad más limitada porque parte del fármaco puede no absorberse, y por el fenómeno de primer paso hepático, que afecta a algunos de ellos."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "El tratamiento con cotrimoxazol se considera de elección en:",
+      "opciones": [
+        "Enfermedad de Whipple.",
+        "Neuroborreliosis.",
+        "Campylobacter.",
+        "Síndrome de Weil."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es importante porque debes conocer los antibióticos que se utilizan en las enfermedades que tienen un tratamiento de elección muy específico, ya que son altamente preguntables. La enfermedad de Whipple, que nos la pintarán como una malabsorción crónica y con macrófagos con inclusiones PAS positivas en la biopsia, está producida por un actinomiceto grampositivo denominado Tropheryma whippelii. Su tratamiento de elección es el cotrimoxazol. Opción 1 correcta. Recuerda que las principales indicaciones del cotrimoxazol son las infecciones urinarias no complicadas, otitis medias, la profilaxis y el tratamiento del Pneumocystis carinii dentro del contexto del VIH y las infecciones respiratorias altas. También es activo frente a S. aureus,"
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Paciente politraumatizado ingresado en UCI. En un absceso cutáneo y en tres muestas de hemocultivo se aisla una cepa de Staphylococcus aureus resistente a meticilina. Señale el tratamiento antimicrobiano de elección:",
+      "opciones": [
+        "Cefotaxima.",
+        "Ceftazidima.",
+        "Vancomicina.",
+        "Aztreonam."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta básica que debes saber responder sin conocer las opciones. El staphylococcus aureus resistente a meticilina se trata con vancomicina. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "La sedación por los antihistamínicos, ¿qué tipo de reacción adversa medicamentosa es?",
+      "opciones": [
+        "Intolerancia",
+        "Efecto secundario",
+        "Efecto colateral",
+        "Reacción alérgica"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La somnolencia por antihistamínicos es un efecto adverso derivado directamente de una de sus múltiples acciones, en este caso no deseada. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Un varón de 45 años que encuentra una medida aislada de TA de 160/90 que es confirmada en medidas posteriores, comienza tratamiento con clortalidona. Respecto a este fármaco señala la FALSA:",
+      "opciones": [
+        "Actúa en el túbulo contorneado distal.",
+        "Está indicado en la litiasis cálcica recidivante.",
+        "Es efectivo siempre que el filtrado glomerular sea > 50mL/min.",
+        "Produce acidosis metabólica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos presentan el caso de un paciente en el que se hace un diagnóstico de HTA. Uno de los tratamientos empleados en la HTA son los diuréticos. En este caso, se instaura tratamiento con clortalidona, que es un diurético tiazídico. Entre las indicaciones de las tiazidas, además de la HTA y la insuficiencia cardíaca congestiva leve, se encuentran la diabetes insípida, la hipercalciuria y la litiasis cálcica recidivante (porque aumentan la reabsorción tubular de calcio). Como efectos adversos producen alteraciones hidroelectrolíticas, como alcalosis hipopotasémica, hiperuricemia, etc. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Varón de 74 años que es ingresado en la planta de traumatología debido a la reciente colocación de una prótesis de rodilla. A las 48 horas de la operación, el paciente presenta fiebre y escalofríos y al explorarlo observamos que la herida quirúrgica supura material purulento y la zona circundante se encuentra eritematosa y con un aumento de la temperatura a la palpación. Tomamos cultivos que dan positivos para SAMR por lo que instauramos tratamiento antibiótico i.v. Al poco tiempo nos llaman del control de enfermería para avisarnos de que el paciente presenta prurito, rubor y eritema en cabeza y parte superior del tronco. De entre los siguientes fármacos, ¿cuál es MÁS probable que hayamos utilizado?",
+      "opciones": [
+        "Amoxicilina.",
+        "Eritromicina.",
+        "Doxiciclina.",
+        "Vancomicina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta a la que podemos responder de dos maneras con éxito:\n\n1) De entre los fármacos que aparecen en las opciones de respuesta solo la vancomicina sería de elección ante un SAMR (respuesta 4 correcta).\n\n2) Nos hablan de un efecto adverso muy típico de la vancomicina como es el síndrome del hombre rojo cuya sintomatología viene recogida en el enunciado."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuál de estos fármacos favorece la intoxicación digitálica?",
+      "opciones": [
+        "Verapamilo.",
+        "Lidocaína.",
+        "Propranolol.",
+        "Potasio."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La intoxicación por digoxina es una complicación del tratamiento, debido a su estrecho cociente tóxico/terapéutico. La causa desencadenante más frecuente es la hipopotasemia (por lo que el potasio no favorece la intoxicación digitálica, sino que puede revertirla si la hipopotasemia es la causa). Hay algunos fármacos que aumentan la concentración sérica de la digoxina, pudiendo favorecer las intoxicaciones: verapamilo, amiodarona, eritromicina, diltiazem, quinidina y propafenona. Opción 1 correcta.\n\nLa lidocaína se emplea para el tratamiento de la ectopia ventricular o arritmias ventriculares inducidas por digital, pudiendo usarse también procainamida o difenilhidantoína (fenitoína)."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Todos, EXCEPTO uno de los siguientes antibióticos tienen efecto anaerobicida:",
+      "opciones": [
+        "Penicilina.",
+        "Norfloxacino.",
+        "Cloranfenicol.",
+        "Imipenem."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La mayoría de anaerobios siguen siendo sensibles a las penicilinas, siendo la penicilina G la de mayor actividad, y más aún a las asociaciones con inhibidores de las betalactamasas (amoxicilina- clavulánico). El cloranfenicol también posee actividad frente a anaerobios, aunque por sus efectos secundarios apenas se emplea. Entre el amplio espectro del imipenem se encuentran asimismo los anaerobios. En cambio, las quinolonas tienen una excelente actividad frente a gramnegativos y gérmenes intracelulares, pero son inactivas contra anaerobios. Opción 2 correcta. Como otros anaerobicidas, recuerda el metronidazol, la clindamicina y la cefoxitina, que es la cefalosporina activa frente a anaerobios."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Un paciente ingresado por una neumonía comunitaria presenta aumento de su disnea, fiebre, hipotensión, palidez mucoso-cutánea y oliguria. En la analítica presenta 25.000 leucocitos y una creatinina de 2,7 mg/dl. Usted decide aumentar su cobertura antibiótica y sabe que deberá ajustar la dosis de todos los siguientes antibióticos, EXCEPTO uno, debido a la insuficiencia renal del paciente:",
+      "opciones": [
+        "Ceftazidima.",
+        "Vancomicina.",
+        "Eritromicina.",
+        "Imipenem."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los antibióticos que requieren ajuste de dosis en insuficiencia renal han sido preguntados, por lo que debes conocer el tema. El impacto de la insuficiencia renal sobre la eliminación de los antibióticos depende del grado en que éstos son excretados por el riñón, sea por filtración, por secreción o por ambos mecanismos. Por tanto, habrá que ajustar la dosis de antibióticos con excreción fundamentalmente renal en pacientes con IR como el del caso. Como concepto general, recuerda que los betalactámicos (ceftazidima, imipenem), los aminoglucósidos (tobramicina) y los glucopéptidos (vancomicina) precisan ajuste de dosis en IR. En cambio, los macrólidos (eritromicina), así como metronidazol, cloranfenicol, clindamicina, rifampicina e isoniacida; se eliminan principalmente por vía biliar y no requieren ajuste de dosis en IR, sino en insuficiencia hepática. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "El mecanismo de acción antianginoso de los nitritos en la angina típica se caracteriza por:",
+      "opciones": [
+        "Aumentar el aporte de O2 al miocardio.",
+        "Disminuir el tono simpático por acción central.",
+        "Vasodilatar las coronarias aumentando la síntesis de adenosina.",
+        "Disminuir la precarga y la postcarga."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La actividad antianginosa de los nitratos en la angina típica o de esfuerzo depende en gran medida de su capacidad para reducir la demanda de oxígeno por el miocardio, mediante sus efectos sobre la circulación sistémica, que disminuyen precarga y postcarga. La intensa dilatación venosa que producen origina una reducción del retorno venoso y de la presión y volumen telediastólicos ventriculares, con la consiguiente disminución de la precarga. La dilatación arterial que producen (en menor medida que venosa), justifican un descenso de la postcarga. Por ello, la respuesta correcta es la 4.\n\nTen cuidado con la acción vasodilatadora de los nitratos. Sería el mecanismo más importante en la angina inducida por vasoespasmo coronario, pero en esta pregunta nos hablan de la angina típica. Por otra parte, la vasodilatación inducida por nitratos es DIRECTA (no depende de la mayor o menor producción de adenosina)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "De las siguientes parejas antibiótico-efecto secundario, señale la incorrecta:",
+      "opciones": [
+        "Quinolonas – daño en tendones y cartilagos de crecimiento",
+        "Tetraciclinas – daño dental en niños",
+        "Macrólidos – síndrome del niño gris",
+        "Aminoglucósidos – oto y nefrotoxicidad"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta puramente memorística, pero que no debes fallar. Todas las asociaciones mencionadas son muy características y, por lo tanto, preguntables. El fármaco que produce síndrome del niño gris es el cloranfenicol. El resto de asociaciones son correctas. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Con respecto al tratamiento de la insuficiencia cardíaca con FEVI deprimida, es INCORRECTO:",
+      "opciones": [
+        "Añadir espironolactona a un paciente que sigue sintomático en clase funcional NYHA III en tratamiento con IECA + betabloqueante.",
+        "Añadir ivabradina a un paciente que sigue sintomático en ritmo sinusal a 80 lpm con FEVI de 30% y en clase funcional NYHA III en tratamiento con IECA + betabloqueante + espironolactona.",
+        "Añadir sacubitril-valsartán a un paciente que sigue sintomático con FEVI de 30% y en clase funcional NYHA III en tratamiento con IECA + betabloqueante + espironolactona.",
+        "Implantar un DAI en un paciente que sigue sintomático a pesar de tratamiento correcto con FEVI de 30% y NYHA III."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que requiere más atención que conocimientos teóricos ya que, aunque aparentemente todas las opciones de respuesta son correctas, hay una que no lo es. Cuando nos encontremos ante una pregunta como esta donde no vemos ninguna errónea, normalmente la que habrá que marcar será por un detalle que hemos pasado por alto. Si el paciente está tomando IECA no podemos AÑADIR un ARA-II (opción 3 incorrecta, por lo que la marcamos). Lo correcto sería SUSTITUIR el IECA por el sacubitril-valsartán."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Con respecto a la adrenalina, señale la afirmación INCORRECTA:",
+      "opciones": [
+        "Produce relajación de la musculatura bronquial.",
+        "Es metabolizada con la COMT y por la MAO.",
+        "Se debe administrar por vía oral.",
+        "Como efecto secundario puede producir IAM."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La adrenalina es un agonista alfa y betaadrenérgico. Se emplea en el shock anafiláctico, la parada cardiaca, el bloqueo cardiaco completo, en la crisis de broncoespasmo, etc. Produce broncodilatación, aumento de la tensión arterial y de la frecuencia cardiaca. Como efecto secundario, de forma dosisdependiente puede producir vasoconstricción intensa generalizada, con precipitación de angina, IAM, infarto mesentérico, etc. Se puede administrar de forma intravenosa, intramuscular o subcutánea (opción 3 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Varón de 35 años es intervenido para colocación de una prótesis total de cadera derecha. A los 14 días acude a urgencias con dolor en la herida quirúrgica. Por los bordes refluye un exudado achocolatado que resultó S.Aureus positivo. De acuerdo con el antibiograma se prescribe vancomicina en perfusión intravenosa a razón de 500mg cada 12 horas. Durante la primera dosis se produce exantema maculopapular no pruriginoso a nivel de la flexura de ambos miembros superiores y abdomen que obligó a interrumpir la perfusión. ¿Qué actitud tomaría ante tal situación?",
+      "opciones": [
+        "Continuar la perfusión, pues es una reacción normal del organismo.",
+        "Interrumpirla definitivamente y sustituir tratamiento por uno más adecuado como es la ceftriaxona y la gentamicina.",
+        "Cambiar tratamiento según un nuevo antibiograma y dejar constancia en la historia clínica sobre su hasta el momento desconocida alergia a la vancomicina.",
+        "Disminuir la velocidad de perfusión para evitar la aparición del \"síndrome del hombre rojo\"."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En primer lugar, ante cualquier incidente siempre debemos dejar constancia de lo ocurrido en la historia clínica del paciente. La respuesta correcta es la 4 ya que tenemos lo que se conoce como \"Síndrome del Hombre Rojo\". La administración i.v. rápida de vancomicina está relacionada con la aparición de un conjunto de signos y síntomas conocidos genéricamente como tal. Esta reacción se caracteriza por un descenso rápido de la presión arterial, acaloramiento y/o rash maculopapular o eritematoso de la cara, cuello, pecho y extremidades superiores; estas manifestaciones pueden ocurrir en ausencia de hipotensión. La hipotensión parece ser debida a la acción inotrópica negativa y vasodilatadora de la histamina liberada. Esta también es responsable de la clínica de sofoco, acaloramiento y rash, lo que ha conducido a la utilización de antihistamínicos y corticoides en su prevención y tratamiento. La reacción comienza pocos minutos después de iniciada la infusión y no suele ocurrir finalizada la misma. Se ha relacionado el SHR con la velocidad de administración de vancomicina, llegándose a afirmar que una reducción de la velocidad, incluso en pacientes que lo han presentado, podría permitir la administración segura del fármaco."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Cuál de los siguientes antibióticos NO actúa inhibiendo la síntesis de la pared celular bacteriana?:",
+      "opciones": [
+        "Clindamicina.",
+        "Cloxacilina.",
+        "Imipenem",
+        "Bacitracina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El mecanismo de acción de los principales antibióticos ha sido preguntado varias veces en los últimos años, por lo que es importante conocerlos. La inhibición de la síntesis de la pared bacteriana es un mecanismo que comparten varios grupos de antimicrobianos como los betalactámicos (cloxacilina, imipenem), glucopéptidos (vancomicina) o algunos antibióticos locales como la bacitracina. La clindamicina, en cambio, actúa mediante el otro gran mecanismo de acción antibacteriana: la inhibición de la síntesis proteica. Concretamente a nivel de la subunidad ribosomal 50S por que marcamos la opción 1 correcta."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Acude a su consulta un paciente por cuadro consistente en tos de larga evolución. Se encuentra afebril, sin sintomatología general. La anamnesis por órganos y aparatos es anodina. Refiere no expulsar mucosidad con la tos. Además, la ha tratado con jarabes de codeína con buena respuesta, pero al suspenderlos reaparece la tos. ¿Cuál de los siguientes tratamientos actuales del paciente podría justificar el cuadro?",
+      "opciones": [
+        "Está en tratamiento con clorpromazina.",
+        "Está en tratamiento con enalapril.",
+        "Está en tratamiento con labetalol.",
+        "Está en tratamiento con fluoxetina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debes recordar que un efecto adverso frecuente de los IECA es la tos. Opción 2 es correcta. Esta tos suele ser irritativa y no acompañarse de expectoración. La alternativa para estos pacientes es utilizar en su lugar un Antagonista de los receptores de Angiotensina 2 (ARA-2)."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Cuál de los siguientes agentes quimioterápicos, usados en el tratamiento del cáncer, puede ocasionar neumonitis intersticial y fibrosis pulmonar progresiva?",
+      "opciones": [
+        "Busulfán.",
+        "Ifosfamida.",
+        "Cisplatino.",
+        "Carboplatino."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El busulfán es un agente alquilante que se usa principalmente para síndromes mieloproliferativos crónicos y acondicionamiento para el transplante medular en leucemia y linfoma. En su toxicidad destaca aplasia medular por daño a la célula madre y entre los efectos pulmonares fibrosis pulmonar progresiva y daño intersticial. Opción 1 correcta. El efecto secundario más típico y frecuente de la ciclofosfamida es la cistitis hemorrágica que se da en un 5- 10% y que se previene con hidratación y administración de MESNA. La ifosfamida es neurotóxico y más urotóxico que la ciclofosfamida. Los dos compuestos de platino son nefrotóxicos principalmente (más el cisplatino)."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Con respecto al efecto farmacológico, es INCORRECTO que:",
+      "opciones": [
+        "La Emax es un indicador de la eficacia del fármaco.",
+        "Cuanto menor es la DE 50, mayor es la potencia del fármaco.",
+        "La DE 50 es un indicador de la potencia del fármaco.",
+        "Cuanto más se desplace hacia la izquierda la curva dosis-respuesta de un fármaco, menor será la potencia de dicho fármaco."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta interesante sobre el efecto farmacológico que nos sirve para repasar este concepto y otros relacionados y que también nos permite aplicar técnica de examen. El efecto terapéutico se engloba dentro de la farmacodinamia. La farmacodinamia es la rama de la farmacología que estudia la acción y efecto de los medicamentos en el organismo. El conocimiento del mecanismo de acción de los fármacos aporta información sobre la diana del fármaco en el organismo, las interacciones físicas y/o químicas entre los fármacos y el organismo, así como los efectos producidos, tanto bioquímicos como fisiológicos. La respuesta que se obtiene como consecuencia de la interacción del fármaco con su receptor es la acción farmacológica (por ejemplo, el enalaprilo es un inhibidor de la enzima convertidora de angiotensina, o el carvedilol es un bloqueante de receptores betaadrenérgicos), mientras que el efecto farmacológico es lo que el observador puede medir o cuantificar como consecuencia de la acción farmacológica (por ejemplo, reducción de la presión arterial o disminución de frecuencia y amplitud de los movimientos respiratorios). Acciones farmacológicas diferentes pueden dar lugar al mismo efecto farmacológico. El efecto farmacológico se mide con las curvas dosis/respuesta (CDR). Mediante estas curvas se puede obtener información sobre la eficacia y la potencia de los fármacos. Se realizan tras bioensayos. La eficacia de un fármaco es la máxima respuesta producida por un fármaco (Emax) y se expresan en el eje Y de las CDR. El fármaco más eficaz es aquel cuya curva dosis respuesta sea más alta, pues posee mayor Emax. La potencia de un fármaco es la mínima dosis necesaria de fármaco para que se produzca la mitad de la respuesta máxima o Emax. Se expresa en el eje X de las CDR mediante la dosis/efectiva 50 (DE 50). El fármaco más potente es aquel cuya curva dosis/respuesta se encuentre más hacia la izquierda o cuya DE 50 sea menor. Una vez explicados y adquiridos estos conocimientos, se puede observar como por técnica de examen se podría haber aumentado la probabilidad de acertar la pregunta de un 25% a un 50% sin conocer los términos explicados y teniendo únicamente en la cabeza la imagen de las CDR. En este caso vemos claramente que las opciones de respuesta 2 y 4 dicen cosas totalmente opuestas, de manera que una de ellas debe ser la respuesta incorrecta que nos piden en el enunciado, ya que cuando dos opciones se antagonizan, una de ellas suele ser la correcta (opción 4 incorrecta, por lo que la marcamos)."
+    }
+  ]
+}

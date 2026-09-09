@@ -1,0 +1,600 @@
+{
+  "materia": "oftalmo",
+  "paginaInicio": 21,
+  "paginaFin": 40,
+  "anomalias": [
+    "p22: las opciones aparecen con el número duplicado en el original ('1. 1. Acanthamoeba', '2. 2. Fusarium', ...); se transcribe solo el texto de la opción",
+    "p27: parte del comentario de la pregunta sobre la miopía ('– 6D, es decir, en la miopía denominada magna o degenerativa') se rasterizó con una fuente monoespaciada distinta al resto del párrafo",
+    "p36: el comentario escribe 'bloqueantes alfa-l adrenérgicos' con letra ele en lugar del número 1 (aparece dos veces)"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 21,
+      "enunciado": "Un paciente de 5 años consulta por pérdida de visión en un ojo, asociado a dolor periorbitario y edema palpebral. Presenta inyección y quemosis conjuntival, limitación de la motilidad ocular y proptosis. La temperatura es de 38ºC y en la analítica destaca una leucocitosis con desviación izquierda. ¿Cuál es la etiología más frecuente de este cuadro en la infancia?:",
+      "opciones": [
+        "Traumatismo periorbitario.",
+        "Bacteriemia.",
+        "Extensión de una sinusitis etmoidal.",
+        "Extensión de una dacriocistitis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cuadro clínico descrito en la pregunta no ofrece muchas dudas: se trata de una celulitis orbitaria. La etiología infecciosa de la misma suele proceder desde los senos paranasales, que en el caso de la infancia suele originarse en una sinusitis etmoidal. Los gérmenes más frecuentes son el S. aureus, el estreptococo y el Haemophilus influenzae. Requiere en su tratamiento el ingreso hospitalario y antibioterapia intravenosa."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "El astigmatismo regular en el que sus dos focos se forman detrás de la retina se denomina:",
+      "opciones": [
+        "Astigmatismo miópico simple.",
+        "Astigmatismo mixto.",
+        "Astigmatismo hipermetrópico compuesto.",
+        "Astigmatismo hipermetrópico simple."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta dificil en cuanto a la terminología, pero que por analogía con los términos más usados se puede aproximar la respuesta. El astigmatismo es la ametropía en la que el poder de refracción del ojo no es el mismo en todos los meridianos, formándose dos focos. Según la situación de estos focos respecto a la retina podemos clasificarlo. El término mixto sería un foco delante y otro detrás. El término miópico se referiría si ambos focos son anteriores a la retina (igual que en la miopía). En nuestro caso al ser ambos focos detrás, corresponde al término hipermetrópico. El término simple hace referencia a que uno de los focos está en la retina y compuesto si ninguno de ellos está sobre la misma. Por ello es un astigmatismo hipermetrópico compuesto."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Paciente de 32 años de edad, miope de 4 dioptrías y practicante de triatlón. Habitualmente usa gafas, pero cuando entrena y participa en las competiciones, usa lentes de contacto blandas. Acude por dolor y fotofobia de tres días de evolución. En la exploración de su ojo derecho se aprecia un área infiltrada de unos 3 mm de diámetro, y Tyndall muy intenso. En esta situación es importante descartar uno de los siguientes agentes etiológicos.",
+      "opciones": [
+        "Acanthamoeba",
+        "Fusarium",
+        "Pseudomonas",
+        "Toxoplasma gondi"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "De cara a identificar el agente etiológico responsable de una queratitis, es importante tener en cuenta el perfil epidemiológico del sujeto que la sufre. Un traumatismo vegetal sería el antecedente típico de una queratitis fúngica. El absceso corneal bacteriano es una entidad frecuente en diabéticos. El uso de lentes de contacto aumenta el riesgo de sufrir una ulcera bacteriana. Sin embargo la combinación de uso de lentillas (sobre todo lentillas blandas) y contacto del ojo con agua dulce no clorada aumenta de forma muy significativa el riesgo de infección corneal por amebas. En el caso clínico no se nos dice explícitamente que se haya bañado, pero se nos da a entender porque se nos cuenta que practica triatlón. Se trata de queratitis que tienen muy mal pronóstico."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuál de los siguientes defectos del campo visual nos orientaría a pensar en un glaucoma crónico de ángulo abierto?",
+      "opciones": [
+        "Escotoma arciforme",
+        "Escotoma centro-cecal",
+        "Escotoma altitudinal superior",
+        "Escotoma altitudinal inferior"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los defectos en el campo visual en el glaucoma crónico de ángulo abierto suelen comenzar en la zona nasal, posteriormente suelen progresar con alta frecuencia a defectos arqueados o arciformes. Recuerda que la visión central se conserva hasta el final.\n\nEscotoma centro-cecal tienes que relacionarlo con las neuritis ópticas. Y los defectos altitudinales con la neuropatía isquémica, siendo más frecuente el altidudinal inferior."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Una lesión a nivel del ganglio geniculado lateral dará lugar a:",
+      "opciones": [
+        "Hemianopsia homónima contralateral y abolición del reflejo fotomotor en el ojo ipsilateral al ganglio dañado.",
+        "Hemianopsia homónima poco congruente con abolición del reflejo fotomotor en el ojo ipsilateral al ganglio dañado.",
+        "Cuadrantanopsia homónima superior.",
+        "Hemianopsia homónima contralateral."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Puesto que la lesión se sitúa por detrás del quiasma, el defecto tiene que ser necesariamente bilateral y homónimo. Las cuadrantanopsias se producen como consecuencia de la lesión de las radiaciones ópticas contralaterales al lado lesionado, respuesta 3 incorrecta. La exploración de los reflejos pupilares también tiene valor a la hora de situar la lesión. Las fibras pupilares se separan del resto de la vía óptica a nivel de la cintilla, y por ello una lesión que afecte al ganglio geniculado no interrumpe este arco reflejo. Por eso el reflejo pupilar no estará abolido en ninguno de los ojos (respuestas 1 y 2 incorrectas)."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Señale la respuesta INCORRECTA, de entre las siguientes, sobre las inflamaciones de los párpados:",
+      "opciones": [
+        "La blefaritis crónica suele manifestarse con escozor y picor palpebral, junto con sensación de cuerpo extraño y discreta fotofobia.",
+        "En la blefaritis anterior podemos ver collaretes escamosos en la raíz de las pestañas.",
+        "En la forma crónica de la disfunción de glándulas de meibomio (DGM) el borde palpebral suele estar engrosado y con vasos telangectásicos.",
+        "El tratamiento en las formas crónicas de blefaritis incluye la aplicación de paños fríos y drenaje quirúrgico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La blefaritis crónica habitualmente se maneja con masajes con calor, higiene palpebral, lágrimas artificiales o geles lubricantes para aliviar el ojo seco secundarios, y en los casos más severos, se pueden utilizar antiinflamatorios tópicos (corticoides), y/o antibióticos locales o sistémicos (tetraciclinas). El frío local no suele ser efectivo en el tratamiento, y la cirugía se reserva para los chalaziones que no desaparecen de forma espontanea o generan síntomas, o para orzuelos abscesificados en los que se drena el contenido purulento si estos no fistulizan a piel de forma espontanea (cosa que con tratamiento local con calor y antibioterapia sistémica suele suceder)."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Cual de las siguientes afirmaciones sobre el agujero macular le parece incorrecta:",
+      "opciones": [
+        "La realización de un fondo de ojo es útil en su diagnóstico.",
+        "La realización de una tomografía de coherencia óptica también.",
+        "Genera un escotoma temporal a la mancha ciega.",
+        "Produce una importante pérdida de agudeza visual."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El escotoma producido estará en el centro del campo visual, y por lo tanto nasal a la mancha ciega (representación de la imagen proyectada sobre el nervio óptico). Tras diagnosticarlo por la clínica (perdida de AV y escotoma central) y la funduscopia y confirmarlo mediante TCO (ver imagen en el manual), puede estar indicada su corrección mediante vitrectomia, no teniendo papel aquí el uso de antiangiogénicos."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Paciente de 33 años de edad que acude a consulta por molestias en el ojo izquierdo. La paciente refiere febrícula desde el día anterior que se mantiene hoy. A la exploración destacan lesiones vesiculadas en el párpado y se aprecia una úlcera geográfica en el ojo derecho que se tiñe con fluoresceína. ¿Cuál de las siguientes afirmaciones es FALSA?",
+      "opciones": [
+        "Para el tratamiento se deben utilizar ciclopléjicos.",
+        "Para el tratamiento se debe utilizar aciclovir tópico.",
+        "Para el tratamiento se deben utilizar corticoides tópicos.",
+        "Para el tratamiento se deben asociar antibióticos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El caso clínico se corresponde con una úlcera herpética (imagen dendrítica o geográfica) habitualmente producida por el VHS-1. Para el tratamiento se deben utilizar ciclopléjicos (midriáticos para relajar el esfínter y el músculo ciliar), antivirales tópicos (aciclovir) y antibióticos profilácticos para prevenir una sobreiinfección bacteriana. Sin embargo, los corticoides están contraindicados (no confundir con la úlcera intersticial disciforme donde sí se pueden usar los corticoides)."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Señale la relación INCORRECTA:",
+      "opciones": [
+        "Absceso bacteriano corneal – portador de lentes de contacto.",
+        "Queratitis por lagoftalmos - parálisis del trigémino.",
+        "Queratitis disciforme – queratitis herpética de repetición.",
+        "Queratitis punteada – soldador."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos están relacionando cada patología con su agente etiológico. Los portadores de lentes de contacto tienen más riesgo de abscesos corneales por erosionar la córnea y mantener un cuerpo extraño sobre la misma. La queratitis por lagoftalmos se produce en parálisis del facial, no del trigémino (opción 2 incorrecta). La afectación del trigémino produce queratitis neuroparalítica o neurotrófica al perderse la sensibilidad corneal, y se ve en ocasiones en pacientes con queratitis herpéticas de repetición durante un período prolongado de tiempo. La queratitis disciforme es una afectación estromal que se produce tras varios episodios de dendritas epiteliales y se trata con corticoides y midriáticos."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Un paciente de 5 años padece una enfermedad rara. Presenta abundantes pecas en las mejillas y en los brazos, telangiectasias en el borde de los párpados y verrugas en el pecho y la espalda. La enfermedad que padece este paciente:",
+      "opciones": [
+        "Se hereda de forma autosómica recesiva.",
+        "Se hereda de forma autosómica dominante.",
+        "Está ligada al cromosoma X.",
+        "No es hereditaria."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "RC:1. El paciente presenta un xerodorma pigmentoso, un raro trastorno hereditario autosómico recesivo que se caracteriza por lesiones cutáneas que predisponen a cáncer de piel. Se estudia más a fondo en dermatología."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Entre las aperturas u orificios de la órbita, figuran todas las siguientes, EXCEPTO:",
+      "opciones": [
+        "Hendidura esfenoidal.",
+        "Escotadura supraorbitaria.",
+        "Agujero redondo mayor.",
+        "Hendidura esfenomaxilar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad media alta, pero que se puede intuir sabiendo los huesos que conforman la órbita y que dan nombre a sus distintos orificios. El agujero redondo mayor esta localizado en la base del cráneo y es atravesado por la segunda rama del trigémino en su camino al exterior del cráneo."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "¿Cuál de las siguientes parejas de síntomas o signos es típica de una hemorragia orbitaria?",
+      "opciones": [
+        "Exoftalmos bilateral y simétrico subagudo",
+        "Exoftalmos unilateral súbito",
+        "Exoftalmos unilateral pulsatil con vasos episclerales ingurgitados",
+        "Exoftalmos unilateral en paciente febril"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Hay que sospechar hemorragia orbitaria ante un exoftalmos progresivo y brusco de inicio agudo, habitualmente en un paciente con alguno de los siguientes antecedentes: traumatismo, cirugía orbitaria reciente, cirugía ocular bajo anestesia retrobulbar o discrasia sanguínea severa (por ejemplo plaquetopenia severa). El diagnóstico es clínico, y el manejo debe ser urgente dados sus graves consecuencias, y consiste en realizar una cantotomía y cantolisis quirúrgica (liberar el tendón cantal lateral) para disminuir el efecto de síndrome compartimental orbitario por la sangre, que puede inducir una oclusión de arteria oftálmica o neuropatía óptica."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Una de las siguientes afirmaciones sobre el tratamiento de la orbitopatía tiroidea es FALSA. Señálela:",
+      "opciones": [
+        "La administración intravenosa de corticoides se ha mostrado más eficaz y más segura que la oral.",
+        "El tratamiento quirúrgico rehabilitador (si es preciso) debe hacerse de forma secuencial, primero descompresión orbitaria, después cirugía palpebral y por último cirugía de estrabismo.",
+        "La radioterapia es una alternativa en la fase inflamatoria.",
+        "Es importante el cese del hábito tabáquico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El orden correcto en la cirugía rehabilitadora es: primero la descompresión si fuera precisa, en segundo lugar la cirugía de estrabismo si es necesaria y, por último, la cirugía de corrección de la posición palpebral si hace falta. La explicación es que la descompresión puede afectar al estrabismo y al párpado, y la cirugía del estrabismo a la posición palpebral, por lo que la cirugía de esta debe realizarse en último lugar."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Acuden unos padres con un niño de 9 meses a la consulta de oftalmología porque le han visto torcer hacia adentro el ojo derecho desde hace unos tres o cuatro meses. Señale la opción FALSA:",
+      "opciones": [
+        "El epicanto es la causa más frecuente de pseudoestrabismo convergente.",
+        "Si descubrimos una elevada hipermetropía y un test de cover alterado deberemos esperar hasta que el niño colabore para la graduación subjetiva antes de prescribirle corrección para que sea lo más exacta posible.",
+        "Cuando un niño tiene estrabismo, la etiología más frecuente son las alteraciones neuromusculares idiopáticas.",
+        "El test de Hirschberg nos ayuda a descartar falsos estrabismos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para explorar el estrabismo en niños utilizamos el test de Hirschberg, que consiste en ver si los reflejos corneales producidos por iluminación están o no centrados en ambas córneas, en el centro de las pupilas. Para el test de la oclusión o cover test se necesita cierta cooperación por parte del paciente. Si al tapar un ojo, el otro no se mueve y viceversa, el niño no es estrábico (ortoforia). Si al tapar un ojo, el otro se mueve, tomando la fijación, el niño es estrábico (tropía). Si al tapar un ojo, éste pierde el paralelismo con el que está fijando (movimiento de refijación al desocluirlo), se trata de una heteroforia o estrabismo latente. Si la exploración oftalmológica anterior es normal se dice que es un pseudoestrabismo convergente si presenta epicanto y divergente si tiene hipertelorismo. La causa más frecuente del estrabismo del niño son las alteraciones neuromusculares idiopáticas, que suponen el 60- 65%. Son alteraciones en los sistemas supranucleares que supuestamente controlan el paralelismo de los ojos. En segundo lugar están las causas acomodativas basadas en la sincinesia acomodación-convergencia. La hipermetropía es habitual en la la infancia, sin embargo cuando la cifra de hipermetropía es elevada, se produce una excesiva acomodación, provocando una convergencia excesiva. Existen métodos como el autorrefractor o la esquiascopia para conocer aproximadamente la refracción en niños que no colaboran para graduación subjetiva. El tratamiento debe iniciarse lo antes posible. El principal objetivo es una buena agudeza visual, previniendo o corrigiendo la ambliopía, si ésta existiese (oclusión). Por eso aunque sean bebés les pautamos la corrección para que su visión se desarrolle lo mejor posible. La segunda prioridad será un buen aspecto estético y una adecuada visión binocular. Es preciso corregir el defecto de refracción, pero si a pesar de esto persiste la desviación, hay que recurrir a la cirugía, una vez tratada la posible ambliopía."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA respecto a la miopía?",
+      "opciones": [
+        "El ojo miope suele ser más largo (aumento de longitud axial) que el ojo emétrope.",
+        "Existen miopías con longitud axial ocular normal.",
+        "El ojo miope siempre presenta alteraciones en el fondo de ojo.",
+        "En el ojo miope el punto focal de la imagen en el infinito cae por delante de la fóvea."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El ojo miope con una miopía baja no siempre tiene alteraciones en la retina (opción 3 incorrecta, por lo que la marcamos). Cuando la longitud del ojo es muy grande se asocia a mayor grado de miopía y puede producirse un adelgazamiento de las distintas capas del ojo, que visualizaremos como cambios en el fondo de ojo. Esto suele ocurrir en miopías por encima de – 6D, es decir, en la miopía denominada magna o degenerativa."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "¿Cuál de los siguientes fármacos puede inducir aumento de tensión ocular?",
+      "opciones": [
+        "Agonistas alfa adrenérgicos.",
+        "Corticoides.",
+        "Ácido acetilsalicílico.",
+        "Betabloqueantes selectivos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los betabloqueantes, selectivos o no, actúan disminuyendo la producción de humor acuoso. Hay que tener especial cautela con los no selectivos al utilizarlos en pacientes con insuficiencia cardíaca y bloqueo A- V, y sobre todo en broncópatas y asmáticos; en algunos casos también pueden causar impotencia y depresión. Los agonistas alfa 2 adrenérgicos (como la brimonidina o apraclonidina) son hipotensores oculares muy eficaces. Sin embargo son frecuentes las alergias. Actúan disminuyendo la producción de acuoso en los procesos ciliares. Los corticoides, tanto con uso tópico, como oral o en inhalaciones, pueden producir elevación de la presión intraocular y catarata subcapsular posterior."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Una paciente de 68 años, diabética tipo 2 en tratamiento con insulina desde hace 4 años, consulta por una pérdida repentina de visión en el ojo derecho. La agudeza visual es de un 20%, cuando el mes pasado (última revisión) era de casi un 100%. No tiene dolor. El segmento anterior del ojo es normal. Teniendo en cuenta la causa más probable de su pérdida visual, señale la actitud inicial:",
+      "opciones": [
+        "Colirios mióticos e hipotensores oculares.",
+        "Observación.",
+        "Vitrectomía.",
+        "Triamcinolona intravítrea."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es una pregunta sencilla sobre un tema muy preguntado. Ante un diabético que presenta una pérdida de visión brusca e indolora, lo que debemos sospechar es una hemorragia vítrea (hemovítreo). El tratamiento de esta será en primer lugar la observación, ingesta de abundantes líquidos y posición semisentada para dormir (a 45º). Y si se resuelve el cuadro, iniciaremos una panfotocoagulación con laser argón. Si el cuadro no se resuelve con la mera observación, nos vemos obligados a realizar la vitrectomía, pero no de entrada."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "¿Cuál de las siguientes patologías considera MÁS IMPROBABLE en una paciente que refiere pérdida visual en su OD, y presenta un defecto pupilar aferente relativo en dicho ojo?",
+      "opciones": [
+        "Obstrucción de arteria central de la retina.",
+        "Neuropatía óptica isquémica.",
+        "Neuritis retrobulbar.",
+        "Catarata."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La presencia de un defecto pupilar aferente relativo (DPAR, o pupila de Marcus Gunn), es propia de una patología de la vía visual anterior (nervio óptico y retina). El defecto pupilar aferente relativo se explora iluminando las pupilas de forma alterna. Al pasar a iluminar el lado enfermo, las pupilas experimentarán una dilatación paradójica. El DPAR es propio de las neuropatías, pero también la patología retiniana cuando es severa puede producirlo. Sin embargo una catarata por densa que sea, no es capaz de producir un DPAR significativo. Por ello la opción incorrecta es la 4, y es la que marcamos."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Mujer de 56 años, que acude a Urgencias refiriendo pérdida de visión repentina. Tanto el fondo de ojo como la exploración con la lámpara de hendidura son normales. La evaluación campimétrica revela un defecto de los campos visuales nasal izquierdo y temporal derecho de poca congruencia. Pupilas anisocóricas, con un reflejo fotomotor ausente al iluminar las retinas temporal izquierda y nasal derecha. ¿Cuál es la localización MÁS probable de la lesión?",
+      "opciones": [
+        "Cintilla óptica izquierda, probablemente por un ACV.",
+        "Radiaciones ópticas izquierdas, probablemente por un ACV.",
+        "Quiasma óptico inferior, probablemente por un adenoma hipofisario.",
+        "Nervio óptico, probablemente por un primer brote de esclerosis múltiple."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La descripción de la alteración campimétrica es la de un defecto homónimo de origen izquierdo. Si a esto le sumas la poca congruencia, que nos dice que el defecto es más central o anterior que posterior, y sobre todo la alteración pupilar, nos queda una única opción de respuesta posible que es la cintilla óptica izquierda (respuesta 1 correcta). La alteración pupilar se explica por el hecho de que el reflejo fotomotor simpático pasa por el nervio óptico y la cintilla en su camino a los núcleos de Edinger-Westphal del mesencéfalo. Posteriormente en los núcleos pretectales del mesencéfalo la vía se hace bilateral, y se encamina hacia la musculatura ciliar; esta alteración pupilar se denomina “pupila hemianópsica de Wernicke”. Recuerda también que un defecto campimétrico es más congruente, es decir, más parecido entre ambos ojos, cuanto más posterior es. El defecto menos congruente es la neuritis óptica, y el defecto más congruente es la afectación de la corteza occipital."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Uno de los siguientes signos NO es típico de las uveítis anteriores agudas:",
+      "opciones": [
+        "Células inflamatorias en cámara anterior",
+        "Proteínas en cámara anterior",
+        "Midriasis media",
+        "Hipopion"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cuadro de la uveítis anterior aguda es un ojo rojo doloroso acompañado de fotofobia y miosis (no midriasis, que sería típico del glaucoma agudo). A la exploración veremos hiperemia ciliar o mixta, depósitos retrocorneales (sobre el endotelio), células en cámara anterior (Tyndall), puede haber proteínas en cámara anterior (flare), y si las células acabasen precipitando, formarían un nivel de hipopion. Podemos encontrarnos con sinequias anteriores (iris-córnea) o posteriores (iris-cristalino, más frecuentes)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Paciente que refiere desde hace tres días sensación de cuerpo extraño, legañas y secreciones en ambos ojos. Ha notado además la aparición de un bulto justo delante de su oreja derecha. Desde el punto de vista exploratorio, la AV es 1 en ambos ojos y presenta una inyección mixta intensa, así como folículos en la conjuntiva tarsal inferior. Señale cuál es el diagnóstico MÁS probable:",
+      "opciones": [
+        "Conjuntivitis alérgica.",
+        "Conjuntivitis vírica.",
+        "Uveítis incipiente.",
+        "Queratitis herpética."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La ausencia de dolor descarta de entrada un ojo rojo grave. Desde el punto de vista exploratorio la AV conservada y la presencia de una inyección mixta, con secreciones y folículos confirman el diagnóstico de conjuntivitis. De cara al diagnóstico diferencial de las conjuntivitis, debes recordar que la sensación de cuerpo extraño, y la presencia de folículos y de una adenopatía preauricular es muy típica de las conjuntivitis víricas. En caso de presentar el paciente una conjuntivitis alérgica, la adenopatía preauricular estaría ausente, el paciente presentaría papilas y el síntoma predominante sería el picor. La opción 4 es incorrecta ya que, si presentara queratitis herpética, el caso clínico sería ojo rojo, doloroso, con úlcera corneal lineal con prolongaciones dendríticas o pseudodendriticas +- vesículas en los parpados (si tuviera asociado blefaroconjuntivitis). La opción 3 también es incorrecta, ya que una uveítis daría ojo rojo, doloroso, y Tyndall en cámara anterior."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Uno de los siguientes signos oftalmológicos no nos hace pensar que en un paciente postoperado de catarata se está produciendo una endoftalmitis infecciosa.",
+      "opciones": [
+        "Ojo rojo",
+        "Hipopion",
+        "Exoftalmos",
+        "Edema corneal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La endoftalmitis infecciosa es la complicación más grave tras la cirugía de catarata, afortunadamente poco frecuente.\n\nLos síntomas son la disminución de visión de instauración brusca y dolor ocular creciente en un paciente que ha sido sometido a una cirugía intraocular.\n\nLos signos característicos incluyen: congestion conjuntival y quemosis, edema palpebral, edema corneal, hipopion, fibrina y reacción intensa en cámara anterior, células y turbidez vítrea asi como disminución del reflejo rojo.\n\nEl exoftalmos no lo relacionamos con la endoftalmitis infecciosa tras una cirugía intraocular, sino sobretodo con la celulitis orbitaria en el niño y la oftalmopatia tiroidea en el adulto."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Cuál de las siguientes lesiones funduscópicas NO aparece en la trombosis de la vena central de la retina?:",
+      "opciones": [
+        "Edema retiniano.",
+        "Venas ingurgitadas y tortuosas.",
+        "Mancha rojo cereza.",
+        "Exudados algodonosos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La mancha rojo cereza es un signo TÍPICO que aparece en el fondo de ojo en el curso de una obstrucción de la arteria central de la retina. La mácula aparece roja, al estar irrigada por la coriocapilar, mientras que el resto de la retina aparece blanquecina por la ausencia de irrigación. El resto de opciones sí que se corresponde con los signos oftalmoscópicos asociados a la trombosis de la vena central de la retina."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Cuál de los siguientes es un signo de mal pronóstico después de una cirugía de la catarata?",
+      "opciones": [
+        "El paciente no es capaz de ver de cerca",
+        "El paciente describe sensación de flashes y luces cuando apaga la luz",
+        "El paciente cuenta que tiene sensación de brillos por los lados",
+        "Sensación de roce, sequedad y cuerpo extraño"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La presbicia, los brillos y la sensación de sequedad son habituales. Los fosfenos pueden suponer el inicio de un desprendimiento de retina."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Señale el orden correcto de los pasos de la cirugía de la catarata:",
+      "opciones": [
+        "Incisión corneal, capsulorrexis, aspiración del córtex, facoemulsificación del núcleo y el epinúcleo, implante de lente intraocular (LIO).",
+        "Incisión corneal, aspiración del córtex, capsulorrexis, facoemulsificación del núcleo y el epinúcleo, implante de lente intraocular (LIO).",
+        "Capsulorrexis, incision corneal, aspiración del cortex, facoemulsificación del nucleo y el epinucleo, implante de lente intraocular (LIO).",
+        "Incision corneal, capsulorrexis, facoemulsificación del nucleo y el epinucleo, aspiración del cortex, implante de lente intraocular (LIO)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El orden correcto de los pasos de la cirugía de la catarata es el de la respuesta 4."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Paciente de 65 años con miodesopsias que evolucionan al cabo de 24 horas a pérdida visual en el hemicampo superior en el ojo derecho. ¿Cual es el diagnóstico más probable?:",
+      "opciones": [
+        "Trombosis de rama venosa temporal superior de ojo derecho.",
+        "Embolia de arteria temporal inferior de ojo derecho.",
+        "Desprendimiento de vitreo posterior seguido de desgarro y desprendimiento retiniano.",
+        "Hemorragia macular hipertensiva"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las miodesopsias son la clínica típica del desprendimiento de vítreo posterior. Aunque suele ser benigno, en un 10- 15% de los casos pueden producirse tracciones vitreo- retinianas periféricas que pueden provocar hemorragias y desgarros periféricos en la retina que pueden predisponer al desprendimiento de la misma. El mecanismo de dicho desprendimiento es regmatógeno y su clínica es compatible con la evolución de nuestro paciente."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "¿Cuál de los siguientes tumores palpebrales malignos tiene mejor pronóstico evolutivo?:",
+      "opciones": [
+        "Carcinoma basocelular.",
+        "Carcinoma espinocelular.",
+        "Adenocarcinoma.",
+        "Melanoma."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los tumores palpebrales es un tema poco preguntado, del cual debes recordar que el carcinoma basocelular representa el 90% de los tumores malignos del párpado y que a pesar de su comportamiento agresivo local tiene un crecimiento muy lento y no da metástasis. En cuanto al espinocelular es mucho menos frecuente (5%) y aunque su aspecto puede ser parecido puede dar metástasis y es más radiorresistente, por lo que tiene peor pronóstico. Frente a éstos el tumor palpebral maligno de peor pronóstico es el melanoma, como en cualquier otra localización pues son tumores muy metastizantes y de pronóstico grave."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Cual de las siguientes afirmaciones sobre la catarata senil es falsa:",
+      "opciones": [
+        "La catarata senil produce una pérdida visual o visión borrosa lentamente progresiva, habitualmente a lo largo de meses o años.",
+        "Puede afectar a uno o ambos ojos.",
+        "Pueden producirse deslumbramientos, particularmente con las luces de los faros de los coches que se aproximan al conducir por la noche.",
+        "Nunca producen una disminución de la percepción del color."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La catarata senil al ser una opacificación progresiva del núcleo del cristalino produce una perdida progresiva lenta de agudeza visual, que puede afectar a uno o ambos ojos, es frecuente que el paciente manifieste deslumbramientos sobretodo con las luces y de predominio por la noche, y también puede producirse una disminución de la percepción de los colores, aunque no con la misma intensidad que en las neuropatías ópticas."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Un paciente miope de -6 dioptrías, delineante y con cuarenta y seis años de edad, se queja de astenopía creciente durante las horas de trabajo. Descartada otra causa, se valora su presbicia en +1,25 dioptrías. La prescripción más correcta será:",
+      "opciones": [
+        "Visión lejana -6 dioptrías. Visión próxima +1,25 dioptrías.",
+        "Visión lejana -7,25 dioptrías. Visión próxima +1,25 dioptrías.",
+        "Visión lejana -7,25 dioptrías. Visión próxima -4,75 dioptrías.",
+        "Visión lejana -6 dioptrías. Visión próxima -4,75 dioptrías."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sencilla si analizamos el problema de nuestro paciente. Nuestro paciente para la visión lejana tiene un problema de -6 D al ser miope por lo que la corrección se debe realizar con -6 D.\n\nSin embargo al hacer uso de la visión cercana, el paciente a parte de sus -6 D de miope, tiene un defecto de acomodación de +1.25 D que le viene dada por la pérdida de la capacidad para acomodar de su cristalino (que sí se usa en la visión cercana y no en la lejana).\n\nPor lo que la corrección la visión cercana debe ser de -4.75 D (suma de ambas potencias ópticas). Date cuenta de que corrigiendo algo menos la miopía en sus gafas de cerca, el paciente queda levemente miope y tiene que acomodar menos, y por ello verá mejor de cerca."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Paciente varón de 67 años que hace 4 meses fue diagnosticado de glaucoma crónico simple y se instauro el tratamiento correspondiente. Actualmente se queja de que sus pestañas han aumentado de tamaño siéndole muy molesto. ¿Cuál de los siguientes fármacos está tomando con mayor probabilidad?",
+      "opciones": [
+        "Latanoprost.",
+        "Timolol.",
+        "Brimonidina.",
+        "Dorzolamida."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El latanoprost, bimatoprost y travoprost son análogos de las prostaglandinas F2 empleado en el tratamiento del glaucoma crónico simple. Son fármacos de primera línea por su alta eficacia y buena tolerancia sistémica. A nivel ocular, producen hiperpigmentación del iris, hiperemia y aumento del tamaño de las pestañas (CORRECTA 1).\n\nEl timolol es un b-bloqueante, la brimonidina es un agonista α-2 adrenérgico y la dorzolamida un inhibidor de la anhidrasa carbónica. Todos estos son fármacos empleados en el tratamiento del glaucoma crónico simple, ninguno de ellos produce un aumento de tamaño de las pestañas."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Ante un único episodio de uveítis anterior aguda secundaria a un traumatismo (iritis traumática), señale la respuesta falsa:",
+      "opciones": [
+        "Puede producirse fotofobia temporalmente",
+        "Puede aparecer cierto grado de hipema por sangrado uveal anterior leve postraumático",
+        "La agudeza visual suele recuperarse tras el tratamiento",
+        "Se produce una catarata postraumática en el 95% de los casos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las iritis traumáticas o uveítis anteriores agudas postraumáticas son inflamaciones intraoculares secundarias a traumatismos oculares cerrados. Son muy típicas de los deportes de raqueta por traumatismos con la pelota. Aunque la catarata es una potencial complicación en un traumatismo contuso, su frecuencia es baja. El resto de las repuestas son correctas."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Acude a urgencias de Oftalmología un varón de 78 años con retinopatía diabética conocida por pérdida total y súbita de la agudeza visual en su ojo izquierdo. A la exploración, se objetiva una pérdida de fulgor pupilar al iluminar el ojo izquierdo. El paciente está muy angustiado, y nos pregunta en qué consiste el tratamiento de lo que él presenta. Intentamos explorar el fondo de ojo, sin éxito alguno, pues no somos capaces de ver el tejido retiniano. Realizamos una ecografía ocular, que nos descarta desprendimiento de retina. ¿Qué le explicaremos al paciente?",
+      "opciones": [
+        "Se ha de intervenir quirúrgicamente lo antes posible.",
+        "Inicialmente, realizar seguimiento con actitud terapéutica conservadora.",
+        "Realizar inyección de antiVEGF intravítreo de forma urgente.",
+        "Realizar panfotocoagulación el mismo día o en los próximos días."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El paciente ha presentado una hemorragia vítrea, o hemovítreo, debido a una muy probable retinopatía diabética proliferativa. Han aparecido neovasos retinianos anómalos, que al ser más fragiles, han sangrado en la cavidad vítrea. No está indicada la vitrectomía urgente, ya que la sangre en muchos casos, la sangre se reabsorbe de forma espontánea y progresiva. Le explicaremos, además, que el descanso nocturno a 45º facilita su reabsorción.\n\nLa panfotocoagulación se realizará cuando la hemorragia vítrea se haya resuelto, ya que antes es técnicamente imposible realizar la técnica, puesto que la sangre impide la visualización de la retina y el paso de la luz del láser.\n\nLos antiVEGF se utilizan en el edema macular diabético, no en la hemorragia vítrea."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Una pérdida de visión indolora unilateral de menos de un día de evolución puede ser producida por todas, EXCEPTO una de las siguientes:",
+      "opciones": [
+        "Una neuritis óptica posterior.",
+        "Una oclusión de arteria central de la retina.",
+        "Un hemovítreo.",
+        "Un desprendimiento de retina regmatógeno."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Todas las patologías previas cursan con pérdida de visión indolora en el ojo afecto; sin embargo tanto la OACR, como el hemovitreo o en DR regmatógeno son indoloras, mientras que en la neuritis óptica posterior o retrobulbar esta inflamado el nervio óptico, por lo que el paciente refiere dolor que aumenta con los movimientos oculares."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Con respecto a la DMAE, señale la FALSA:",
+      "opciones": [
+        "Cuando hay desprendimientos drusenoides del epitelio pigmentario, hay que descartar una membrana neovascular.",
+        "Hay que hacer diagnóstico diferencial con algunas distrofias retinianas.",
+        "Hay que hacer diagnóstico diferencial con los estadios iniciales de la retinosis pigmentaria.",
+        "En las fases mas precoces de la enfermedad no hay que hacer tratamiento."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La retinosis pigmentaria es un tipo de distrofia periférica, con lo cual es difícil confundirla con una DMAE , cuya afectación en central. Cualquier afectación central o macular , como algunas distrofias retinianas, puede aparecer en el diagnóstico diferencial.\n\nEn las fases precoces de la enfermedad, así como en la DMAE seca , no hay tratamiento. Recordad que es útil una dieta rica en Vitaminas B, luteína y zeaxantina."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Paciente diabético de 10 años de evolución que presenta visión borrosa en ojo izquierdo de 3 meses de evolución, indolora y que apareció de forma gradual. En el fondo de ojo presenta microaneurismas en polo posterior con exudación lipídica asociada. Sobre el tratamiento de este paciente es cierto que puede ser útil todo lo siguiente excepto:",
+      "opciones": [
+        "Los antiangiogénicos intravítreos.",
+        "El láser focal argón.",
+        "La panfotocoagulación argón.",
+        "Los corticoides intravítreos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El edema macular es la causa más frecuente de perdida de visión en la retinopatía diabética. En casos de edema focal esta indicada la fotocoagulación selectiva (láser focal) de los puntos de fuga, mientras que en el edema difuso pueden ser útiles tanto los corticoides como los antiangiogénicos por vía intravitrea. En determinados pacientes la combinación de cualquiera de eso fármacos intravítreos seguido de fotocoagulación focal mejora los resultados. La panfotocoagulación retiniana en cambio, no es tratamiento del edema macular, sino de la retinopatía diabética proliferativa (definida por la presencia de neovasos)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Entre las medidas más habitualmente empleadas para el tratamiento del ojo seco NO se encuentra:",
+      "opciones": [
+        "Lágrimas artificiales con ácido hialurónico",
+        "Dacriocistorrinostomía",
+        "Oclusión quirúrgica de los puntos lagrimales",
+        "Inmunosupresores tópicos (corticoides o ciclosporina)"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La primera línea de tratamiento en el ojo seco es el uso de lágrimas artificiales. Según la etiología del ojo seco pueden emplearse colirios inmunosupresores o inmunomoduladores tópicos como los corticoides o la ciclosporina de forma asociados. La “cirugía” del ojo seco en caso de realizarse sería la oclusión (cauterización, o parche conjuntival) de los puntos lagrimales (o más raramente escisión parcial de la glándula lagrimal principal), pero no la dacriocistorrinostomía, que se reserva para los casos de obstrucción de la vía lagrimal inferior o dacriocistitis crónicas."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "¿Cuál de las siguientes alteraciones NO es frecuente encontrar en un paciente con papiledema?",
+      "opciones": [
+        "Cefalea.",
+        "Deterioro del nivel de conciencia.",
+        "Parálisis del VI par.",
+        "Pupila de Marcus Gunn."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El papiledema se debe a una elevación de la presión intracraneal y afecta poco a la función visual en fases iniciales, por lo que de forma típica no se suele producir afectación del reflejo pupilar. Además, como la afectación es bilateral sería muy improbable que el paciente presentara un defecto pupilar aferente relativo (pupila de Marcus Gunn) (marcamos la opción de respuesta 4). La parálisis del VI par se debe, entre otras causas, a un efecto de compresión del nervio secundario a la elevación de la presión intracraneal. Es frecuente encontrar cefalea, deterioro del nivel de conciencia y diplopía."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Una Unidad de UCI neonatal pone una interconsulta al servicio de oftalmología para examinar a un recién nacido a la semana 31 de edad gestacional, con bajo peso y que presentó graves problemas respiratorios durante el parto. ¿Qué patología deberá descartar el oftalmólogo?",
+      "opciones": [
+        "Retinoblastoma.",
+        "Persistencia primaria de vítreo hiperplásico.",
+        "Fibroplasia retrolental.",
+        "Catarata congénita."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante la descripción dada del paciente en la pregunta, la principal patología que se debe sospechar en este paciente es una retinopatía del prematuro o, lo que es lo mismo, una fibroplasia retrolental. Este trastorno consiste en una proliferación fibrovascular de la retina periférica debido al uso de oxigenoterapia en recién nacidos de bajo peso."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Ante una cirugía de catarata en la que la pupila dilata mal y el iris tiende a prolapsarse en las incisiones, hemos de sospechar que el paciente ha estado en tratamiento con:",
+      "opciones": [
+        "Corticoides.",
+        "Tratamiento para la hiperplasia prostática benigna.",
+        "Tratamiento de asma bronquial.",
+        "Amiodarona."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los bloqueantes alfa-l adrenérgicos (tamsulosina, alfuzosina, doxazosina, prazosina) tienen como indicación principal el tratamiento de los síntomas asociados a la hiperplasia benigna de próstata, y doxazosina, además está indicado para el tratamiento de la hipertensión arterial. Durante la cirugía de cataratas, en algunos pacientes que están en tratamiento o han sido tratados previamente con bloqueantes alfa-l adrenérgicos, se ha observado un síndrome quirúrgico denominado “Síndrome del Iris Flácido Intraoperatorio”. Las consecuencias principales son complicaciones de la cirugía. Este síndrome consiste en miosis intraoperatoria progresiva, a pesar de la dilatación preoperatoria con fármacos midriáticos de uso común, y potencial prolapso del iris hacia las incisiones de la facoemulsificación. Aunque el síndrome de iris flácido intraoperatorio se ha relacionado con todos estos fármacos y también con fármacos de otros grupos, la asociación es especialmente intensa con la tamsulosina. La tamsulosina es el fármaco que produce esta complicación con más frecuencia y que da lugar a las formas más severas."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Una hemianopsia altitudinal unilateral en el campo visual es MUY característica de:",
+      "opciones": [
+        "Neuropatía óptica isquémica.",
+        "Glaucoma crónico simple muy evolucionado.",
+        "Glaucoma agudo de ángulo estrecho.",
+        "Desprendimiento de retina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los defectos altitudinales son muy sugestivos de las neuropatías ópticas isquémicas. En este caso, el defecto campimétrico se debe al infarto de una parte del nervio óptico. En el glaucoma crónico, en fases muy avanzadas, se produce una pérdida casi total del campo visual, quedando solo conservados un islote central y uno temporal. En el glaucoma agudo también se van a producir defectos, pero que no guardan una topografía tan clara como en el glaucoma crónico. En el caso del desprendimiento de retina, podría producirse una hemianopsia altitudinal si se desprendiese la mitad inferior de la retina, pero el enunciado nos pide que señalemos la enfermedad de la que esto es muy característico, por lo que es preferible la opción de respuesta 1, ya que el desprendimiento de retina podría afectar a cualquier otra parte de esta, por lo que ya no sería el “defecto típico”, al haber otras muchas posibilidades (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Cual de las siguientes afirmaciones acerca de la catarata es incorrecta",
+      "opciones": [
+        "Para visualizar correctamente la catarata es preciso explorar el ojo dilatado con lámpara de hendidura con técnicas de iluminación directa y de retroiluminación.",
+        "Para la planificación de la cirugía es importante tener en cuenta el grado de dilatación de la pupila, la densidad de la catarata y la presencia o ausencia de síndrome de pseudoexfoliacion, facodonesis o de cornea guttata.",
+        "La ecografía es una prueba complementaria que puede emplearse si el cristalino esta muy opacificado para descartar patología del segmento posterior.",
+        "No es necesario realizar la anamnesis al paciente sobre los fármacos que toma ya que no influyen en el desarrollo de la cirugía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La anamnesis acerca de los fármacos que toma el paciente es relevante antes de la cirugia de catarata, sobretodo conocer la medicacion empleada para la retencion urinaria ya que guarda una relacion estrecha con el sindrome del iris flacido intraoperatorio."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Señale cuál de los siguientes signos NO es característico de DMAE exudativa:",
+      "opciones": [
+        "Hemorragia subretiniana.",
+        "Membrana neovascular.",
+        "Exudados duros.",
+        "Escotoma central."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de una pregunta acerca de la forma menos frecuente pero más severa de la degeneración macular asociada a la edad, es decir, la forma húmeda. Lo típico de esta forma es la aparición de membranas neovasculares que consistes en formaciones de neovasos procedentes de la coroides. Se pueden ver como lesiones en la mácula con aspecto de mancha grisácea, hemorragia subretiniana que produce desprendimiento a nivel foveal, o desprendimiento seroso macular. Lo que no es típico de la DMAE exudativa son los exudados duros que sugieren una forma seca. El paciente con DMAE húmeda refiere importante pérdida de visión central con o sin metamorfopsias."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Con respecto a la fístula carotido-cavernosa una de las siguientes afirmaciones es correcta:",
+      "opciones": [
+        "Es típica la presencia de inyección ciliar.",
+        "La PIO suele estar disminuida en el ojo afecto porque la fístula roba sangre de ese ojo.",
+        "Es típica la paresia de VI nervio craneal. Ello se debe a que este nervio circula muy próximo a la arteria carótida externa.",
+        "Esta es una de las pocas ocasiones en las que el oftalmólogo “desempolva” su fonendo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La fístula carotido-cavernosa es una entidad rara, pero por su rica semiología muy preguntable. Recuerda que produce una inyección en cabeza de medusa (opción 1 incorrecta), que el aumento de presión episcleral produce en estos pacientes un aumento de PIO (opción 2 incorrecta) y que el nervio más frecuentemente afectado es el VI, pero por su proximidad a la arteria carótida interna y no externa (opción 3 incorrecta). La opción 4 es la correcta porque en ocasiones es posible auscultar un soplo en la cabeza del paciente."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Con respecto a la retinopatía de la prematuridad. Señale la respuesta FALSA:",
+      "opciones": [
+        "Los factores mas importantes para su desarrollo son el peso al nacer, la inmadurez vascular y la exposición a altas concentraciones de oxígeno.",
+        "Es una patología más común en países pobres que en países ricos.",
+        "Todos los recien nacidos menores a 34 semanas o 1500 gr deben realizar screening.",
+        "Para el screening habrá que realizar dilatación ocular con cicloplejico diluido."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El máximo riesgo se produce en los nacidos antes de la semana 34 y menores a 1500 gr de peso. Estos pacientes, en países subdesarrollados no suelen sobrevivir por lo que se trata de una patología muy poco frecuente en estos países. El peso al nacer, la madurez vascular y la exposición a concentraciones altas de oxigeno son los factores de riesgo mas importantes."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Respecto a la miopía en la infancia señale la afirmación falsa",
+      "opciones": [
+        "Un niño con miopía debe llevar corrección óptica (gafas o lentes de contacto) para poder realizar un buen desarrollo visual",
+        "La atropina tópica a bajas concentraciones ha demostrado ser eficaz como tratamiento para frenar la progresión de la miopía en niños",
+        "La preocupación por el incremento en la prevalencia de la miopía en niños, en especial la miopía magna, se basa en los riesgos y costes derivados de las complicaciones asociadas que pueden ser causa de baja visión, ya que los pacientes miopes tienen más riesgo de desarrollar cataratas, glaucoma, estrabismo y patología retiniana",
+        "La miopía no necesita corrección óptica en niños hasta que no han cumplido la mayoría de edad"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La miopía es un defecto refractivo en el que se perciben las imágenes lejanas desenfocadas. Requiere corrección óptica con lentes divergentes (-). Los niños deben llevar los defectos de refracción corregidos en gafa o lente de contacto ya que en menores de 10 años se encuentran en el periodo de desarrollo visual"
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Una de las siguientes relaciones acerca de la irrigación ocular es INCORRECTA, señálela:",
+      "opciones": [
+        "Arteria central de la retina-capas internas de la retina.",
+        "Arteria ciliar anterior-Iris.",
+        "Arteria ciliar posterior larga-Papila.",
+        "Arteria ciliar posterior corta-Coroides."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las arterias de las opciones 1 a 4 son ramas de la oftálmica, primera rama de la carótida interna. El territorio orbitario depende de ella. El segmento anterior del globo (iris, cuerpo ciliar…) depende de las arterias ciliares anteriores y posteriores largas. El nervio óptico y la coroides dependen de las arterias ciliares posteriores cortas, mientras que las capas más internas de la retina dependen de la arteria central de la retina. Las dos capas más externas de la retina en cambio dependen de la difusión desde la coroides, y por lo tanto de las ciliares posteriores cortas."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "¿Cuál de los siguientes síntomas NO suele aparecer en la catarata senil?",
+      "opciones": [
+        "Miopía.",
+        "Fotofobia.",
+        "Hipermetropía.",
+        "Leucocoria."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La catarata senil puede debutar con todos los siguiente síntomas excepto la hipermetropía (marcamos la opción de respuesta 3), ya que la catarata senil conlleva en todo caso miopía porque aumenta el índice de refracción del cristalino (el paciente ve mejor de cerca)."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Varón de 75 años que acude a Urgencias con ojo rojo doloroso de 3 días de evolución, con visión borrosa, secreciones, inyección periquerática y una mancha blanquecina en el espesor de la córnea paracentral, redondeada, que tiñe con fluoresceína. Tiene cierto grado de miosis reactiva y células en cámara anterior. ¿De qué proceso se trata?",
+      "opciones": [
+        "Conjuntivitis bacteriana aguda.",
+        "Queratitis herpética.",
+        "Absceso corneal bacteriano.",
+        "Leucoma corneal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un caso de ojo rojo doloroso. Las conjuntivitis no duelen. Los leucomas son cicatrices blanquecinas en la córnea pero no se asocian a ojo rojo. Las queratitis herpéticas cursan con ojo rojo doloroso y la córnea tiñe con forma de dendrita o de úlcera geográfica pero no como mancha blanquecina. Así que sólo queda el absceso bacteriano, que se asocia a la presencia de células en cámara anterior, es decir Tyndall, cuando el absceso es severo."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "¿Cuál de las siguientes patologías cursa con leucocoria?:",
+      "opciones": [
+        "Queratocono.",
+        "Retinopatía de la prematuridad.",
+        "Glaucoma congénito.",
+        "Coloboma de iris."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta no debes fallarla. El diagnóstico diferencial de la leucocoria en edad infantil es un tema muy preguntado y por lo tanto muy rentable. Se define como leucocoria la presencia de un reflejo pupilar blanco. Otras causas de leucocoria son la catarata congénita (la más frecuente), retinoblastoma, persistencia del vitreo primario hiperplásico, Toxocariasis ocular y la Enfermedad de Coats."
+    }
+  ]
+}

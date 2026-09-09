@@ -1,0 +1,624 @@
+{
+  "materia": "urologia",
+  "paginaInicio": 23,
+  "paginaFin": 43,
+  "anomalias": [
+    "p32: Resp. Correcta 2 en la pregunta del renograma isotópico, pero el comentario concluye 'Por ello, la opción correcta es la 3'",
+    "p30: la pregunta 'Tras las pruebas pertinentes, la paciente del caso anterior evidencia una ureterohidronefrosis grado III... compatible con CRU complicado' y su comentario remiten a un caso previo de litiasis/CRU, pero la pregunta inmediatamente anterior del documento trata de un angiomiolipoma renal; el caso al que se refiere no aparece en el texto",
+    "p41-p42: la opción 1 del caso del teste no descendido dice 'casi el 45% de todos los varones nacidos a término', mientras que el comentario da 'casi el 1%'; la opción es la marcada como incorrecta, pero la cifra del 45% es imposible"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 23,
+      "enunciado": "En un paciente con evidencia en la vejiga de varias lesiones papilares de base de implantación estrecha, cuya anatomía patológica revela un estadio superficial, es falso que:",
+      "opciones": [
+        "Por tener múltiples implantes, tiene mayor riesgo de recidiva.",
+        "Sin tratamiento adyuvante, tiene una probabilidad de recidiva entre un 50-75%.",
+        "La quimioterapia intravesical prácticamente anulará la posibilidad de recidiva.",
+        "Su probabilidad de desarrollar un tumor infiltrante o metastásico es de cerca del 15%."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Paciente mujer de 25 años que acude a urgencias por presentar desde ayer piuria y polaquiuria y desde esta mañana dolor lumbar derecho y fiebre de 38,5. Se realiza analítica de sangre con 12000 leucos con desviación izquierda, creatinina 0.8, sistemático de orina con 50 leucos por campo y radiografia de abdomen anodina. Se inicia tratamiento con ceftriaxona intravenosa a las 12 horas continua con fiebre de 39, malestar general, AS 15000 leucos, cr 0.9 INR 1.5. Que deberíamos realizar a continuación?",
+      "opciones": [
+        "Solicitar TAC abdominal con contraste ante la sospecha de absceso renal",
+        "Solicitar ecografía urinaria ante la sospecha de CRU complicado",
+        "Es una evolución normal de la pielonefritis daría el alta con cefuroxima oral",
+        "Solicitar ingreso en UCI para soporte vital"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "1)Se trata de una pielonefritis aguda que no esta evolucionando bien ya que persiste la fiebre, nos cuentan el caso de una cistitis que ha evolucionado a PNA por lo que debemos descartar que haya una absceso renal que sea subsidiario de drenaje.\n\n2)No nos cuentan datos clinicos típico del CRU\n\n3) este sería el manejo de una PNA no complicada con mejoría de los síntomas y de la analítica\n\n4) En este momento no nos cuenta inestabilidad hemodinámica por lo que por ahora no lo precisaría"
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En un paciente de 65 años con síndrome prostático moderado y tacto rectal adenomatoso, comenzamos tratamiento con finasteride. El PSA previo al tratamiento es de 3,3. Al repetir el PSA, el nuevo valor es de 4,2. La actitud más correcta entre las siguientes es:",
+      "opciones": [
+        "Realizar una ecografía transrectal y biopsias randomizadas prostáticas.",
+        "Comenzar tratamiento con flutamida.",
+        "Plantear una RTU desobstructiva.",
+        "Repetir de nuevo el PSA."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El finasteride es un inhibidor de la 5- alfa- reductasa. Impide la conversión de testosterona a dihidrotestosterona, con lo que privaría a la próstata de la acción trófica de esta última hormona, que está implicada en la hiperplasia de esta glándula. En este paciente, está indicada la realización de una biopsia, porque el PSA ha aumentado, cuando el efecto habitual del finasteride sería una disminución. En consecuencia, habría que descartar la existencia de un cáncer prostático que pudiera ser responsable de este aumento del PSA."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Paciente de 68 años, al que se realizó hace un año una biopsia transrectal (BTR) de próstata por PSA elevado (4.1ng/ml con fracción libre del 13%), negativa para malignidad. Durante el seguimiento, se detecta ascenso de PSA (7.2ng/ml con fracción libre del 9%) sin clínica miccional asociada ni síntomas compatibles con ITU. El tacto rectal es negativo. Señale la opción correcta.",
+      "opciones": [
+        "Control en un año con PSA dada la baja probabilidad de diagnosticar un cáncer de próstata",
+        "Solicitaría RMN multiparametrica de próstata",
+        "Realizaría una segunda biopsia de próstata ecodirigida directamente",
+        "Solicitaría una TC abdominopelvica para estudio prostático"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "CONCEPTO NUEVO (Puede caer!) Uno de los cambios más importantes en la detección del Cancer de próstata en los últimos años, se debe a la incorporación de la RMN Multiparametrica de próstata en el diagnóstico de esta neoplasia.\n\nActualmente se recomienda en pacientes que ya tienen una BTR previa negativa, en los que persiste la sospecha de Cáncer de Próstata (por PSA o tacto rectal), antes de repetir la biopsia."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Con respecto al tratamiento del cáncer de próstata, señale la respuesta correcta:",
+      "opciones": [
+        "En el estadio T3b, la prostatectomía radical suele ser curativa.",
+        "La braquiterapia tiene, hasta el momento, unos resultados pobres en tumores organoconfinados.",
+        "La prostatectomía radical se asocia con impotencia en un porcentaje considerable de enfermos.",
+        "En las piezas de prostatectomía radical, el Gleason suele ser mayor de 8."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Una mujer embarazada de 20 semanas presenta cultivo de orina positivo para E. coli tras la revisión rutinaria realizada por su ginecólogo. La paciente niega tener sintomatología urinaria en el momento actual. No ha referido episodios similares durante el período gestacional. La actitud CORRECTA sería:",
+      "opciones": [
+        "Repetir el cultivo de orina y, si fuera positivo, tratar con fosfomicina durante 7 días.",
+        "Tratamiento con fosfomicina durante 7 días.",
+        "Tratamiento con fosfomicina durante 5 días.",
+        "No se debe tratar una bacteriuria asintomática en embarazadas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Recuerda que la bacteriuria asintomática se trata en embarazadas, infección por Proteus, inmunodeprimidos, y previamente a cirugía urológica. En este caso debemos recordar que las embarazadas y en el caso de los hombres no es necesario realizar un segundo cultivo para confirmar la bacteriuria; por otra parte, no debemos olvidar que las ITUS en embarazadas son infecciones complicadas pero que en un primer episodio (también de bacteriuria) se tratará con una pauta corta (máximo 6 días)."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Un paciente de 56 años refiere que cada vez orina con menos fuerza, con dificultad de inicio miccional. Se realiza una evaluación inicial del paciente evidenciándose: STUI obstructivos moderados (IPSS 13). Tacto Rectal adenomoatoso y PSA de 3 ng/ml. Se realiza una ECO vesical que pone de manifiesto una próstata de 40 cc de volumen sin áreas aparentemente sospechosas de malignidad. RPM 10 cc. Cual es la actitud correcta a seguir:",
+      "opciones": [
+        "Plantear la realización de RTU prostática.",
+        "Iniciar tratamiento con alfa-bloqueantes e Inhibidores de la 5alfa reductasa",
+        "Iniciar tratamiento con fitoterapia y tamsulosin simultáneamente.",
+        "Iniciar tratamiento con Dutasteride"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debemos fijarnos que el paciente cumple criterios de inicio con tratamiento combinado (COMBAT) por PSA, Vol prostático y severidad de los síntomas, por lo que la correcta será la 2."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Paciente de 75 años con antecedente de Diabetes mal controlada, que presenta disfunción eréctil de años de evolución. No refiere antecedentes cardiológicos de interés. La causa mas probable de su disfunción es:",
+      "opciones": [
+        "Diabetes Mellitus.",
+        "Patología Vascular.",
+        "Edad.",
+        "Déficit androgénico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Paciente de 86 años, institucionalizado y diagnosticado de Alzheimer, con antecedentes de hipertensión arterial, una fibrilación auricular en tratamiento anticoagulante y síntomas del tracto urinario inferior (STUI) que trata con tamsulosina. Es llevado al Servicio de Urgencias debido a oligoanuria de dos días de evolución y fiebre de hasta 38,5 ºC. Previamente orinaba en pañal, aunque sus cuidadores refieren que lleva dos días que prácticamente no los moja. Le realizamos una analítica y presenta: creatinina 3,8 mg/dL, urea 150 mg/dL, potasio 6 mEq/L, 16.550 leucocitos/mm³ y 89% neutrófilos, resto de analítica anodina. Se le realiza una ecografía en Urgencias que informa de una vejiga muy replecionada con hasta 700 cc de orina y una ureterohidronefrosis bilateral grado III/IV sin evidenciarse causa obstructiva hasta vejiga. Respecto a este caso, la actitud MÁS adecuada es:",
+      "opciones": [
+        "Solicitar un TAC con contraste intravenoso para esclarecer la causa de la hidronefrosis bilateral.",
+        "Avisar al urólogo de guardia para que le realice una derivación urinaria bilateral con nefrostomías.",
+        "Entre los diagnósticos diferenciales de este paciente encontramos hiperplasia benigna de próstata, vejiga hipoactiva y litiasis ureteral bilateral no vista en ecografía (solicitaría un TAC sin contraste para confirmarlo).",
+        "Realizar un sondaje vesical."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Caso clínico sobre un paciente que presenta una obstrucción infravesical, ya que presenta un globo vesical que además parece ser crónico porque no le ocasiona clínica de dolor suprapúbico ni ganas urgentes de orinar. Dicha obstrucción genera de forma retrógrada una dilatación de la vía urinaria superior, y ello explicaría la posible infección urinaria febril que presenta. La actitud más adecuada en este caso es realizar un sondaje vesical (respuesta 4 correcta) o, si no fuera posible, colocar una talla suprapúbica y comenzar medidas de soporte para tratar la insuficiencia renal, la hiperpotasemia y la infección. Lo habitual es que el paciente, una vez sondado, comience a orinar a ritmo poliúrico (postobstructivo). Entre las posibles causas pueden estar una HBP evolucionada, una vejiga hipoactiva, una estenosis de uretra, etc., pero no parece probable la presencia de litiasis ureterales bilaterales, ya que explicarían la hidronefrosis, pero no el globo vesical. Tampoco realizaría un TAC con contraste por la insuficiencia renal del paciente porque no parece que de momento deba descartar una causa supravesical de la uropatía obstructiva; por esto mismo tampoco estaría indicado colocar dos nefrostomías, ya que el sondaje puede aliviar la obstrucción urinaria."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Varón de 70 que años presenta una masa abdominal palpable en flanco izquierdo. Refiere hematuria de cuatro semanas de evolución. En el TAC se detecta una masa de 10 cm en el riñón izquierdo. La RM no muestra invasión de la vena renal. Antecedentes médicos: HTA, fumador de dos paquetes de tabaco diarios. Glucosa: 120 mg/dL; Na: 140 mEq/L; K: 5 mEq/L; creatinina: 2.5 mg/dL; urea: 35 mg/dL. Señale cuál de las siguientes esperaría encontrar con una MENOR probabilidad:",
+      "opciones": [
+        "Dolor.",
+        "Anemia.",
+        "Eritrocitosis.",
+        "Hipercalcemia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de internista, larga en forma de caso clínico, para realmente preguntarnos: ¿cuál de las siguientes características es MENOS probable encontrar en un tumor renal? La anomalía más frecuente es la hematuria macroscópica o microscópica. Otros hallazgos frecuentes son dolor (40%), anemia (40%), hipercalcemia (6%), eritrocitosis (3%); por lo tanto, la eritrocitosis es la manifestación menos frecuente de las anteriormente enumeradas (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Paciente mujer, de 60 años, con antecedentes de nefropatía crónica (creatinina de 2,3 mg/dl), presenta desde hace varios días dolor en zona lumbar derecha que se irradia a genitales, aparece en forma de crisis, acompañándose de náuseas y vómitos. No febril. Aparentemente buen estado general. PPRD positiva. Rx simple de abdomen: dentro de la normalidad. Analítica de sangre: 6.500 leucocitos con fórmula normal, creatinina de 2,5 mg/dl. Ecografía: riñón y uréter proximal derecho levemente dilatado, sin apreciarse causa de la obstrucción, observándose vejiga de características normales. Ante la sospecha de cólico renal por litiasis radiotransparente, ¿qué prueba diagnóstica realizaría a continuación para filiar la causa de la dilatación?",
+      "opciones": [
+        "No se trata de un cólico por litiasis radiotransparente, pues lo hemos descartado con la eco. Pido renograma diurético para descartar estenosis de la unión pieloureteral.",
+        "Pediría una UIV, buscando la causa de la obstrucción.",
+        "Pediría una TC helicoidal sin contraste.",
+        "Sospecharía un tumor vesical que obstruye el meato derecho y realizaría una cistoscopia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Paciente de 22 años, con testículo derecho duro aumentado de tamaño e indoloro. La ecografía testicular confirma la presencia de una masa heterogénea. Qué conducta adoptaría a continuación:",
+      "opciones": [
+        "Solicitud de marcadores tumorales antes de la cirugía y orquiectomía radical vía inguinal",
+        "Solicitud de marcadores tumorales antes de la cirugía y orquiectomía radical vía transescrotal",
+        "Biopsia transescrotal con eventual exploración testicular",
+        "Indicar tratamiento con ATB, reposo, hielo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Hasta la fecha no existe un protocolo único de tratamiento en el cáncer de testículo pero siempre se intentara realizar una orquiectomía radical vía inguinal. Es importante recordar que la vía transescrotal en el cáncer de testículo debe evitarse porqué que existe mayor riesgo de diseminación por esta vía."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Unos padres acuden muy ansiosos a su consulta porque su hijo mediano, de 4 años, todavía se orina de noche en la cama. Refieren que su hija mayor mostró control completo de los esfínteres desde los 2 años y medio y les preocupa que el niño se esté retrasando así. Durante el día no presenta fugas y realiza un ciclo miccional normal. Controla perfectamente las heces. A pesar de que no refiere disuria, su pediatra le ha realizado varios cultivos de orina que han resultado negativos. Usted deberá explicar a los padres del niño que:",
+      "opciones": [
+        "Se trata de una situación fisiológica, y se deberá tranquilizar a los padres.",
+        "Se trata de una enuresis nocturna, y se deberá iniciar tratamiento con anticolinérgicos nocturnos.",
+        "Se trata de una enuresis nocturna, y se deberá iniciar tratamiento con hormona antidiurética por la noche.",
+        "Se trata de un síndrome enurético, y se deberá remitir al paciente y a su familia al completo a psiquiatría para iniciar una terapia conductual."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El caso clínico describe lo que podría ser una enuresis nocturna pero en este caso, al estar por debajo de la edad límite, 6 años, se considera todavía una situación fisiológica (respuesta 1 correcta). El síndrome enurético completo incluye enuresis nocturna acompañada de inestabilidad vesical diurna que provoca fugas."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Un enfermo de 63 años consulta por hematuria y dolor lumbar derecho. Las citologías son positivas para carcinoma urotelial, y en la TAC con contraste se observa una lesión exofítica ocupante de espacio en la pelvis renal, siendo la vejiga normal. Se le realiza una cistoscopia sin apreciarse ningún tipo de lesiones. ¿Qué tratamiento recomendaría para este paciente?",
+      "opciones": [
+        "Nefrectomía.",
+        "Nefroureterectomía con rodete vesical.",
+        "Litotricia extracorpórea.",
+        "Repetir las citologías en orina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Uno de los siguientes fármacos debe su eficacia en el control de los síntomas de la HBP al bloqueo de los receptores a-adrenérgicos. Indique cuál:",
+      "opciones": [
+        "Etinilestradiol.",
+        "Finasteride.",
+        "Alfuzosina.",
+        "Danazol."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El único antagonista de los receptores a- adrenérgicos de la lista es la alfuzosina."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Varón de 78 años sexualmente activo que acude a nuestra consulta por impotencia de reciente comienzo. Sus erecciones han sido progresivamente menos intensas hasta impedir la penetración. Tiene antecedentes de cardiopatía isquémica e hipertensión y ha estado tomando aspirina y atenolol desde hace años. No es diabético. ¿Cuáles de las siguientes es la causa MÁS probable de la disfunción eréctil de este paciente?",
+      "opciones": [
+        "Atenolol.",
+        "Descenso de los niveles de testosterona.",
+        "Enfermedad vascular.",
+        "Neuropatía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las causas de disfunción eréctil orgánica son múltiples, contándose entre las más frecuentes las de causa vascular (70%), farmacológicas (10%), iatrogénicas (10%), neurológicas (5%), endocrinológicas (3%) y traumáticas (2%).\nLas de etiología vascular (curso larvado) incluyen la diabetes, la hipertensión, la hipercolesterolemia, la cardiopatía isquémica, el tabaquismo y las enfermedades vasculares periféricas (respuesta 3 correcta). El listado de fármacos que producen disfunción eréctil (inicio súbito coincidente con la toma de la medicación) es interminable, pero los más citados son la digoxina, los antiandrógenos, el alcohol y otras drogas, los betabloqueantes y otros antihipertensivos y los psicotrópicos."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Paciente de 34 años que acude al Servicio de Urgencias por dolor en FID y flanco derecho de 7 horas de evolución. Refiere un dolor iniciado de repente, irradiado levemente a los genitales. Además, ha presentado: sudoración, náuseas, vómitos y escalofríos. A su llegada, tiene una temperatura de 36,8 ºC y una TA de 120/75 mmHg. Es CIERTO que:",
+      "opciones": [
+        "La primera prueba que hay que realizar será una TC helicoidal con contraste.",
+        "El tratamiento inicial será con alcalinizadores de la orina.",
+        "Será necesaria la realización de una derivación urinaria urgente.",
+        "El primer paso del tratamiento en esta paciente será la administración de analgésicos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El manejo agudo del cólico renal se basa en el control del dolor que, en ausencia de complicaciones, será el único necesario (respuesta 4 correcta). Si apareciesen datos de complicación, principalmente fiebre, datos de sepsis o dolor no controlado y evidencia de uropatía, deberemos derivar la orina."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Un varón de 68 años presenta un PSA de 2 ng/ml, a los 36 meses de habérsele practicado una prostatectomía radical por un adenocarcinoma prostático T2bN0M0, Gleason 8 y con márgenes quirúrgicos libres de tumor. Señale la verdadera:",
+      "opciones": [
+        "Hay otros puntos de secreción de PSA aparte de la próstata, y éste es un rango normal tras una prostatectomía radical.",
+        "Se trata de una recidiva bioquímica que podría ser debida a la presencia de una recidiva local o bien de una metástasis a distancia.",
+        "Se puede tratar con radioterapia, si se demuestra que se debe a metástasis óseas.",
+        "La quimioterapia con metotrexato tiene buenos resultados a largo plazo en este tipo de pacientes."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Paciente mujer de 62 años en seguimiento en consulta de urología por ITUs recurrentes. En una ecografía de control, se informa de lesión de 1 cm en polo superior del riñón derecho con contenido graso y vascular que impresiona de angiomiolipoma. Qué realizaría a continuación?",
+      "opciones": [
+        "Ecografías periódicas para valorar crecimiento",
+        "Embolización",
+        "Nefrectomía del polo superior renal derecho",
+        "Alta. No precisa más seguimiento"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El angimiolipoma renal es un tumor benigno cuya principal complicación puede ser el sangrado espontáneo. Por ello cuando son mayores de 4 cm se tratan con embolización y si no funcionara con cirugía.\n\nEn este caso se trata de un tumor de 1 cm por lo que vigilaremos si crece con ecografía"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Tras las pruebas pertinentes, la paciente del caso anterior evidencia una ureterohidronefrosis grado III en vía urinaria derecha, compatible con CRU complicado. La actitud correcta seria:",
+      "opciones": [
+        "Realizar LEOC urgente.",
+        "Realizar URS urgente con litofragmentación láser de la litiasis ureteral.",
+        "Iniciar alfabloqueantes para facilitar la expulsión de la litiasis.",
+        "Realizar derivación urinaria urgente mediante catéter doble J ureteral."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Continuando con el caso de la pregunta anterior, y dado que se confirma el CRU complicado con la ECO (uropatía), debemos siempre comenzar por realizar una derivación urinaria urgente mediante catéter ureteral doble J o bien nefrostomía percutánea. Nunca debemos realizaer tratamiento activo de la litiasis mediante LEOC o URS sin derivación previa."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Paciente monorreno de 45 años de edad en el que se pone de manifiesto en un TAC abdominal una lesión de 8 cm en su riñón derecho, de aspecto exofítico, cortical que no parece invadir el seno renal. El siguiente paso sería:",
+      "opciones": [
+        "Realizar nefrectomía parcial.",
+        "Realizar Nefrectomía Total dado que el tamaño de la lesión supera los 7 cm.",
+        "Comenzar con Quimioterapia sistémica y valorar posteriormente cirugía renal .",
+        "Realizar RMN Abdominal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Una mujer embarazada de 11 semanas, alérgica a la penicilina, presenta bacteriuria asintomática. Señale la correcta:",
+      "opciones": [
+        "La causa más frecuente es S.aureus.",
+        "El tratamiento podría ser ciprofloxacino durante 5 días.",
+        "Se podría tratar con fosfomicina 500 mg/8 horas durante 5-7 días.",
+        "No estaría indicado ningún tratamiento, al estar asintomática."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Paciente mujer de 70 años de edad que en estudio por cuadros de ITUs recurrentes con mala respuesta a antibióticos ha presentado una citología de micción espontánea positiva para malignidad con ecografía urinaria, UROTC y cistosocopia sin hallazgos relevantes. Ante esta situación se realizaron biopsias vesicales múltiples y toma de citologías urinarias selectivas de ambos uréteres bajo anestesia. Las citologías selectivas fueron negativas, la AP de la biopsias informa de CIS urotelial. Cual sería el tratamiento y el seguimiento de esta patología?",
+      "opciones": [
+        "Quimioterapia sistémica con cisplatino + radioterapia vesical",
+        "Instilación de MMC vesical única + cistoscopias y citologías de orina periódicas",
+        "Instilaciones vesicales de mitomicina C + cistoscopias y citologías de orina periódicas",
+        "Instilaciones vesicales de BCG + cistoscopias y citologías de orina periódicas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tratamiento del CIS aislado vesical es la BCG endovesical periódica y los controles con cistoscopia y citologías\n\nLa respuesta 3 corresponde al tratamiento de los tumores superficiales de riesgo intermedio.\n\nLa respuesta 2 corresponde al tratamiento de los tumores superficiales de riesgo bajo\n\nLa respuesta 1 sería el tratamiento de los tumores infiltrantes no candidatos a cirugía radical."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Un paciente de 63 años acude a la consulta tras detectársele un PSA de 5,3 en una analítica realizada para una revisión en la empresa en la que trabaja. Al interrogatorio refiere orinar sin dificultad, con chorro potente. No se levanta de noche. Niega hematuria, incontinencia e impotencia sexual. A la exploración se palpa una próstata adenomatosa grado II/IV al tacto rectal. En cuanto al PSA, NO es cierto que:",
+      "opciones": [
+        "El tacto rectal es uno de los factores que más pueden alterar los niveles del PSA.",
+        "Los niveles de PSA oscilan de forma aleatoria en torno a un 15% en un mismo individuo.",
+        "Con estos niveles de PSA la probabilidad de tener un cáncer de próstata es del 25%.",
+        "El PSA es la prueba más sensible para detectar precozmente el cáncer de próstata, ya que se eleva en el 65% de los casos aproximadamente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Al contrario de lo que se ha creído durante años, el tacto rectal no altera de manera tan significativa los niveles del PSA. Sí lo hacen otros factores como la HBP, la irritación prostática por infección u otras causas (la eyaculación, etc.)."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "En el renograma isotópico de una niña de 14 años con hidronefrosis congénita unilateral por síndrome de la unión pieloureteral, es característico que:",
+      "opciones": [
+        "No existe captación del radiofármaco en el riñón alterado.",
+        "El tiempo de excreción prolongado, no se modifica significativamente al suministrar un diurético.",
+        "El tiempo de tránsito parenquimatoso y el tiempo de excreción, ambos prolongados, se modifica significativamente al suministrar un diurético.",
+        "Al ser una alteración unilateral, no se producen alteraciones en los registros de estudios isotópicos renales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Aparentemente difícil, pero esta pregunta puede resolverse por sentido común. De entrada, habría que dudar entre las opciones 3 y 4, porque son opuestas entre sí. ¿Se modifica el tiempo de excreción con un diurético, o no? Dado que nos hablan de una alteración estructural (síndrome de la unión pieloureteral), lógicamente no se modificará por dar diuréticos (intentar solucionar un problema estructural con una pastilla sería bastante optimista). Por ello, la opción correcta es la 3."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Varón de 57 años de edad presenta un TR II/IV adenomatosa y un PSA = 22 ng/ml. Se realiza una ETR+bx en la que se visualiza un nódulo hipoecoico en lóbulo derecho, que parece no afectar a la cápsula. Se toman 5 biopsias de cada lóbulo prostático (incluyendo el nódulo), y el patólogo informa de adenocarcinoma de próstata Gleason 8 (4+4) que afecta a ambos lóbulos. La actitud más correcta será:",
+      "opciones": [
+        "Dado que el estadio patológico es un T2, está indicada la realización de tratamiento con intención curativa.",
+        "Dado el PSA tan alto del enfermo, asumo la diseminación del tumor y establezco un bloqueo hormonal.",
+        "Quedan dudas de si se trata de un T2 o de un T3, por lo que plantearé radioterapia externa.",
+        "Está indicado estudio de extensión con TC abdominopélvica y gammagrafía ósea."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Una mujer de 63 años acude muy preocupada por escapes de orina a lo largo del día. Al interrogatorio refiere que presenta escapes importantes con la tos, la risa y los estornudos, pero que también los presenta a veces porque no le da tiempo de ir al baño. En este caso:",
+      "opciones": [
+        "Estamos ante una incontinencia urinaria de esfuerzo y deberá ser tratada con anticolinérgicos.",
+        "Estamos ante una incontinencia de urgencia y la paciente deberá ser tratada con ejercicios de suelo pélvico, y si estos no funcionan, se le colocará una malla suburetral.",
+        "Estamos ante una probable incontinencia mixta que se beneficiaría de la combinación de los tratamientos independientes para ambos tipos de incontinencia.",
+        "Bajo ningún concepto podrían usarse anticolinérgicos en esta paciente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Existe un evidente componente de incontinencia urinaria de esfuerzo (respuesta 1 parcialmente correcta) que podríamos tratar con ejercicios de suelo pélvico (falsa la 1). Además presenta lo que parece una incontinencia urinaria de urgenciaprobablemente candidata a tratamiento con anticolinérgicos (respuesta 2 y 4 falsas) pero en este caso estamos ante una incontinencia urinaria mixta que requerirá tratamiento independiente de sus dos componentes para un buen resultado (respuesta 3 verdadera)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Una mujer de 19 años presenta clínica compatible con crisis renoureteral izquierda. La radiografía de abdomen no muestra imágenes sugerentes de litiasis en la vía urinaria. En el sedimento de orina aparecen aglomerados de cálculos informes y el pH de la orina es ácido. Respecto a esta entidad, señale la VERDADERA:",
+      "opciones": [
+        "Suelen deberse a defectos congénitos.",
+        "La acidificación de la orina es el tratamiento de base.",
+        "La alcalinización de la orina se incluye entre las medidas para prevenir este tipo de litiasis.",
+        "La presentación más habitual suele ser como formaciones coraliformes renales."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Varón de 31 años, con antecedentes personales de fumador de un paquete/día, diabetes mellitus insulinodependiente mal controlada, que acude a Urgencias relatando cuadro de infección urinaria hace 15 días, que no mejora tras tratamiento antibiótico y que actualmente se acompaña de náuseas y vómitos con escalofríos y disuria. La exploración clínica es normal salvo la presencia de dolor sordo en fosa lumbar izquierda. Los datos analíticos muestran los siguientes resultados: Hemograma: hematocrito 47%, leucocitos 22.000/mm³, plaquetas 183.000. Coagulación: TP 17,10 s. Bioquímica: urea 125 mg/dL, creatinina 3,5 mg/dL, k+ 7,6 mEq/L, Na2+ 108 mEq/L, glucosa 1430 mg/dL. Gasometría venosa: pH 6,95, HCO3-4,3. En la orina se aprecia: sedimento: 6-8 hematíes/ campo, 20-25 leucos/campo, algunos gérmenes. Na2+ en orina 108 mEq/L y K+ de 14 mEq/L. Glucosuria y cetonuria: +. Ante el cuadro que presenta el paciente, indique la afirmación FALSA:",
+      "opciones": [
+        "Deberíamos tratar el cuadro de cetoacidosis diabética con infección urinaria complicada.",
+        "Debería descartarse la presencia de pielonefritis enfisematosa mediante Rx abdomen y TAC.",
+        "Si se confirmase la presencia de pielonefritis enfisematosa, el tratamiento de elección sería antibioterapia de amplio espectro.",
+        "Aunque la patogenia este poco definida, se relaciona la presencia de concentraciones altas de glucosa en sangre que se asocian a áreas de microinfartos secundarias a microangiopatía diabética."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La pielonefritis enfisematosa es una entidad poco conocida pero importante de detectar porque puede conllevar a la muerte del paciente por sepsis. Veamos las opciones de respuesta:\n1 y 2.- El paciente está totalmente descompensado de su diabetes, y además deberíamos descartar siempre la presencia de dicha entidad ante este caso clínico.\n3.- El tratamiento de elección, aparte de la antibioterapia, es la extracción del riñón afectado (opción 3 falsa, por lo que la marcamos).\n4.- Aunque la patogenia esté poco definida se ha relacionado con el crecimiento de bacterias anaerobias en zonas dañadas por microangiopatía diabética."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Un paciente de 56 años diangosticado de HBP, con mala respuesta a tratamiento médico oral, presenta episodios reiterados de Incontinencia Urinaria. La causa más frecuente es:",
+      "opciones": [
+        "Incontinencia urinaria de esfuerzo miccional.",
+        "Hiperactividad del detrusor.",
+        "Incontinencia paradójica por rebosamiento.",
+        "Vejiga Neurógena."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Un paciente de 78 años acude a la consulta tras detectársele un PSA de 5,3 en una analítica realizada para control del colesterol por su MAP. Al interrogatorio refiere orinar con cierta dificultad, con chorro entrecortado. Se suele levantar una única vez durante la noche. Niega hematuria, incontinencia e impotencia sexual. A la exploración se palpa una próstata adenomatosa grado III/IV al tacto rectal. Se realiza una biopsia de próstata ecodirigida, que es informada como adenocarcinoma de próstata Gleason 6 (3+3) con afectación de un cilindro derecho. Señale la opción CORRECTA:",
+      "opciones": [
+        "Se trata de un T2a y puede tratarse con cirugía.",
+        "Se trata de un T1c y su tratamiento podría ser vigilancia.",
+        "Se trata de un T2b y su tratamiento de elección es la radioterapia.",
+        "Se trata de un T1c y puede tratarse con quimioterapia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un cáncer de próstata en pacientes añosos debemos tener en cuenta qué paciente es el que nos presentan. En este caso no sabemos nada de su estado basal y comorbilidades, por lo que podría está indicada la vigilancia expectante si es un tumor de bajo grado y el paciente está de acuerdo, o tratamiento curativo si es subsidiario del mismo, siempre teniendo en cuenta que estos pacientes presentan una esperanza de vida inferior a 10 años."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Varón de 28 años que ha sufrido un accidente de tráfico. A la exploración se aprecia hematoma escrotal y perineal en “alas de mariposa”. Este signo se asocia a rotura:",
+      "opciones": [
+        "Rotura testicular.",
+        "Rotura de uretra anterior.",
+        "Rotura de uretra posterior.",
+        "Rotura vesical extraperitoneal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La rotura de uretra anterior cursa con uretrorragia al producirse la lesión por debajo del esfínter externo. Si la uretra se aplasta sobre el pubis y se rompe la fascia de Buck, se formará un hematoma en “alas de mariposa” en periné (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Un varón de 50 años presenta dolor pélvico además de molestias miccionales inespecíficas. Se mantiene afebril. Refiere antecedentes de ITU tratada hace un mes. El tacto rectal no muestra hallazgos significativos. Los cultivos de orina y semen son positivos para E.Coli. El cuadro es compatible con:",
+      "opciones": [
+        "Prostatitis aguda.",
+        "Cistitis complicada.",
+        "Prostatitis crónica.",
+        "Prostatitis crónica abacteriana."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Señale cuáles serían los estudios diagnósticos iniciales en un paciente que sufre disfunción eréctil:",
+      "opciones": [
+        "Historia clínica y sexual, exploración física e inyección intracavernosa.",
+        "Historia clínica y sexual, exploración física y eco- Doppler color peneano.",
+        "Historia clínica y sexual, y análisis de laboratorio (bioquímica, función renal, testosterona total y prolactina).",
+        "Historia clínica y sexual, cavernosometría y cavernosografía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Paciente de 28 años diagnosticado de seminoma testicular que presenta en TAC adenopatías retroperitoneales de 2 cm. Tras orquiectomía radical por vía inguinal, cual sería el paso siguiente?",
+      "opciones": [
+        "Quimioterapia BEP x 3.",
+        "Linfadenectomía retroperitoneal.",
+        "Quimioterapia con Mitomicina C.",
+        "Vigilancia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Varón de 70 años que fue diagnosticado de tumores superficiales de vejiga ha recibido dos ciclos de BCG intravesical de seis semanas de duración cada uno. No refiere ninguna molestia, sin embargo, en el tacto rectal durante el seguimiento se detecta una masa firme en la superficie prostática. El valor de PSA es 3,1 ng/mL. La biopsia transrectal confirma que se trata de un granuloma caseoso. ¿Cuál es el tratamiento MÁS adecuado?",
+      "opciones": [
+        "Isoniacida y rifampicina durante 6 meses junto a etambutol y pirazinamida los primeros dos meses, ya que se ha producido enfermedad tuberculosa.",
+        "La observación mediante seguimientos periódicos.",
+        "Se trata de una enfermedad tuberculosa latente causada por las instilaciones de BCG, trataremos con isoniacida 6 meses.",
+        "Realizaremos una prostatectomía parcial porque la biopsia transrectal no descarta que se trate de un carcinoma."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico sobre un paciente que ha desarrollado una prostatitis granulomatosa. Es una consecuencia frecuente del tratamiento con BCG intravesical y no requiere tratamiento. La biopsia transrectal es suficiente para confirmar el diagnóstico en este caso, ya que la histología y el contexto no dejan lugar a dudas; sin embargo, es recomendable hacer un seguimiento durante y después del tratamiento con BCG por si apareciesen otros efectos secundarios o una recidiva del carcinoma (respuesta 2 correcta). Otro efecto secundario típico del tratamiento citado es la irritabilidad de vejiga, que produce disuria, aumento de la frecuencia urinaria, hematuria, fiebre y malestar general."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "¿Cuál de los siguientes patógenos es el más frecuentemente implicado en las ITUs en pacientes ancianos?",
+      "opciones": [
+        "Klebsiella.",
+        "Pseudomona.",
+        "E.Coli.",
+        "Proteus."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Señale la afirmación CORRECTA en relación con el cáncer de testículo:",
+      "opciones": [
+        "Por encima de los 50 años, el tipo histológico más frecuente es el coriocarcinoma.",
+        "Supone la neoplasia maligna sólida más frecuente en los varones de 20 a 30 años.",
+        "Cuando existe criptorquidia unitesticular, el riesgo de cáncer testicular sólo afecta al testículo afecto.",
+        "Alcanzada la pubertad, un testículo no descendido debe descenderse, puesto que su extirpación condicionaría hipogonadismo en la mayor parte de los casos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El cáncer de testículo es la neoplasia sólida más frecuente entre varones entre los 20 y los 35 años, presentando una tasa de curación superior al 90%. La criptorquidia aumenta el riesgo de cáncer testicular en el teste no descendido y en el contralateral, y una vez llegada la pubertad el teste no descendido debe extirparse pero no descenderse a la bolsa escrotal."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Paciente de 82 años de edad, diagnosticado de adenocarcinoma de próstata Gleason 7, con metástasis en L5 y esternón dolorosas. El tratamiento de elección es:",
+      "opciones": [
+        "Antiandrógenos, y dentro de 21 días, análogos de la LHRH.",
+        "Análogos de la LHRH, y dentro de 21 días, antiandrógenos.",
+        "Prostatectomía radical.",
+        "Abstención terapéutica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Hombre de 46 años que consulta de urgencia por dolor tipo cólico localizado en fosa ilíaca izquierda, con cierta irradiación hacia escroto. No ha tenido episodios similares. En la analítica, la creatinina sérica es de 0,9 mg/dL, leucocitosis 6.700/mm³ y la fórmula leucocitaria es normal. En el sedimento urinario hay 12-15 hematíes/campo y el pH de la orina es 6. No tiene fiebre y su índice de masa corporal (IMC) es de 25,5 kg/m². ¿Qué prueba de imagen es la MÁS sensible para realizar el diagnóstico?",
+      "opciones": [
+        "Radiografía simple de abdomen.",
+        "Ecografía abdominal.",
+        "TC sin contraste.",
+        "Urografía intravenosa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El paciente presenta un posible cólico renal izquierdo sin criterios de complicación. A la pregunta de cuál es la prueba de imagen más sensible para el diagnóstico, el TAC sin contraste es la modalidad de elección debido a su alta sensibilidad (92%) y especificidad (96%) para evaluar la vía urinaria, el parénquima renal, el retroperitoneo y sobre todo las litiasis que son la principal causa de los cólicos renales. Con el TAC sin contraste se diagnostican todas las litiasis, incluso las radiotransparentes; además de informar de su tamaño y localización exacta, da una idea de la dureza de las litiasis mediante la unidades Hounsfield (UH) que ayudarán a orientar su tratamiento."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Una mujer de 79 años refiere urgencia-incontinencia urinaria, pero no se le escapa la orina cuando tose o estornuda. No sigue actualmente ningún tratamiento. En el examen físico no hay nada destacable. El residuo postmiccional es de 40 mililitros. El sistemático de orina y el urocultivo son normales. ¿Cuál de los siguientes es el tratamiento MÁS apropiado?",
+      "opciones": [
+        "Betanecol.",
+        "Oxibutinina.",
+        "Fenilpropanolamina.",
+        "Prazosin."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El cuadro que nos plantean corresponde con una incontinencia por inestabilidad vesical. Observa que no tiene relación con la tos, la risa o el estornudo, por lo que no es de esfuerzo. En casos como éste, el mejor tratamiento consiste en la administración de sustancias anticolinérgicas, como la oxibutinina, ya que el sistema nervioso parasimpático es el que normalmente activa la motilidad de la vejiga y uréteres."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "El tratamiento de elección en un paciente que refiere dificultad de inicio de la micción, micción entrecortada y chorro miccional débil (IPSS 15. Síntomas Moderados) es:",
+      "opciones": [
+        "Fitoterapia con Serenoa Repens.",
+        "Dutasteride.",
+        "Tamsulosina.",
+        "RTU próstata."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "A un paciente de 73 años se le realiza una ecografía urológica anual como parte su seguimiento por HBP. En esta última ocasión se le ha detectado en el riñón izquierdo una masa de 3 cm que no parece cumplir las características de quiste simple. NO es cierto que:",
+      "opciones": [
+        "El adenocarcinoma renal es la lesión sólida más frecuente en el riñón y representa aproximadamente el 90% de todos los tumores renales malignos.",
+        "Entre los factores etiológicos figuran factores relacionados con los hábitos de vida como tabaquismo, obesidad e hipertensión arterial.",
+        "La mayoría de los tumores renales se diagnostican mediante ecografía abdominal o TAC realizada por diversas razones.",
+        "La tríada clásica de dolor en la fosa renal, hematuria macroscópica y masa abdominal palpable sigue siendo bastante frecuente en la actualidad (30-40%)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Afortunadamente, la tríada clásica de dolor en la fosa renal, hematuria macroscópica y masa abdominal palpable es poco frecuente en la actualidad (6-10% - opción 4 incorrecta, por lo que la marcamos -). Las demás opciones de respuesta otorgan información fundamental para el estudio."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Respecto a la litiasis oxalocálcica, señale la respuesta correcta:",
+      "opciones": [
+        "El 80-90% del oxalato procede de la dieta.",
+        "La unión del calcio entérico en la luz intestinal a los ácidos grasos es la responsable del aumento de la absorción intestinal de oxalato.",
+        "Los diuréticos tiacídicos producen un aumento en la excreción de calcio en orina.",
+        "La hiperuricosuria sólo produce litiasis de ácido úrico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Varón de 58 años con miastenia gravis que consulta por clínica miccional de predominio en fase de llenado vesical con urgencia sensorial y polaquiuria. No tiene hematuria. Su urocultivo es negativo. Señale la afirmación CIERTA:",
+      "opciones": [
+        "La miastenia gravis asocia arreflexia del detrusor.",
+        "En caso de confirmarse una hiperactividad vesical estaría contraindicado el tratamiento con anticolinérgicos.",
+        "Por su patología neurológica es mucho más probable que presente retención urinaria.",
+        "Por su patología neurológica tiene más probabilidad de presentar incontinencia urinaria por rebosamiento."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La miastenia gravis, afecta al músculo esquelético, ni la musculatura cardiaca ni lisa se ven afectadas por lo que no afectaría directamente al detrusor. El esfínter uretral externo se afecta en muy pocas ocasiones. Unicamente tienen más probabilidad de incontinencia urinaria de esfuerzo si por HBP requieren una resección transuretral prostática donde se perdería el esfínter interno por su mayor vulnerabilidad del esfínter externo. Los anticolinérgicos no deben utilizarse en paciente con miastenia gravis, ya que pueden enmascarar una crisis colinérgica (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Acude a urgencias una mujer de 35 años de edad refiriendo dolor en fosa renal izquierda de 3 dias de evolución, acomapaña de náuseas y vómitos. Presenta fiebre de 39ºC. Analíticamente destaca la presencia de 14.000 leucocitos, con 85.000 plaquetas. Hemoglobina de 14 gr/dl. Cuál de las siguientes sería la actitud correcta a continuación?",
+      "opciones": [
+        "Iniciar antibioterapia empírica con Ciprofloxacino 500 cada 12 horas.",
+        "Solicitar una ECO Renal de manera urgente.",
+        "Mántener analgesia e hidratación a la espera de evolución",
+        "Derivación urinaria urgente mediante nefrostomía percutánea."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debemos recordar que los cuadros de dolor en fosa renal, cortejo vegetativo y fiebre plantea el diagnóstico diferencial de CRU complicado o PNA. Por tanto es esencial la prueba de elección para diferenciarlos, que será la ECO renal."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "La manifestación inicial MÁS frecuente del adenocarcinoma renal es:",
+      "opciones": [
+        "Hematuria.",
+        "Dolor en flanco.",
+        "Masa abdominal.",
+        "Síndrome constitucional."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La manifestación inicial más frecuente del hipernefroma es la hematuria, igual que ocurre en el cáncer vesical. Recuerda que el tabaco aumenta el riesgo de padecer este tipo de cáncer. La tríada clásica de hematuria, dolor y masa en el flanco ocurre solo en el 10% de los casos y, cuando se presenta así, generalmente se trata de una enfermedad avanzada. El 30% tiene metástasis a distancia en el momento del diagnóstico, aunque cada vez son más los hallazgos incidentales, al realizar ecografias abdominales por otra causa. La anomalía más frecuente es la hematuria macro o microscópica (60%). Otros hallazgos frecuentes son dolor (40%), pérdida de peso (30%), anemia (40%), masa en flanco (24%), HTA (20%), hipercalcemia (6%), eritrocitosis (excepcional). El 20% de los pacientes presenta como cuadro paraneoplásico alteración de las enzimas hepáticas, sin evidencia de metástasis (síndrome de Stauffer). Ocasionalmente el adenocarcinoma renal produce hormonas, responsables de síndromes paraneoplásicos endocrinológicos. Entre estas se encuentran PTH, prostaglandinas, prolactina, renina, gonadotropinas o corticoides. La invasión de la vena renal principal en el lado izquierdo puede ocasionar la aparición de un varicocele de forma repentina, que no disminuye en decúbito."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Varón de 72 años que acude a su consulta porque ha estado en tratamiento desde hace dos años con alfuzosina y finasteride por HBP. Ahora sigue refiriendo cierta urgencia miccional que se acompaña de incontinencia ocasional, y se levanta a orinar tres veces todas las noches. Ha necesitado acudir a Urgencias dos veces en los últimos tres meses por infecciones en el tracto urinario (ITU), habiendo precisado en la última ocasión ingreso hospitalario para tratamiento antibiótico i.v. por esta causa. En una ecografía abdominal se objetiva un volumen prostático en torno a 85 cc. Usted le propondrá como tratamiento:",
+      "opciones": [
+        "Resección transuretral de próstata.",
+        "Cambiar terapia combinada por otro alfabloqueante, pero manteniendo finasteride.",
+        "Adenomectomía abierta.",
+        "Conducta expectante."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico sobre un paciente que presenta al menos dos de las complicaciones de la HBP que indican tratamiento quirúrgico: resistencia al tratamiento farmacológico e infecciones de repetición. La decisión de la técnica quirúrgica, a falta de otros datos, se realiza según el volumen prostático; al ser tan grande (85 cc), el paciente será candidato a una adenomectomía abierta (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "En la exploración de un niño con 6 meses de vida se objetiva ausencia de un teste en bolsa escrotal. Ante este cuadro clínico, NO es cierto que:",
+      "opciones": [
+        "A la edad de 1 año, casi el 45% de todos los varones nacidos a término se ven afectados por esta anomalía congénita.",
+        "Se trata de la anomalía congénita más frecuente asociada a los genitales de los varones recién nacidos.",
+        "Los testículos retráctiles no necesitan ninguna forma de tratamiento, salvo observación.",
+        "Cuando un testículo no ha descendido al cumplir un año, el hecho de esperar un descenso espontáneo carece de ventajas. El tratamiento ha de realizarse y finalizarse antes de los 12-18 meses de edad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "A la edad de 1 año, casi el 1% de todos los varones nacidos a término se ven afectados por esta anomalía congénita, la más frecuente, asociada a los genitales de los varones recién nacidos (opción 1 incorrecta, por lo que la marcamos). Las demás opciones de respuesta son ciertas y otorgan información muy importante."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Acuden a su consulta unos padres con una niña de 2 años de edad, refiriendo que desde que nació ha presentado 5 episodios de pielonefritis aguda derechas, diagnosticadas y tratadas en urgencias, la última hace un mes. Analíticamente no presenta ninguna alteración en el hemograma ni la bioquímica, y tiene un sistemático de orina rigurosamente normal, con un urocultivo de control que se le realizó tras completar el último ciclo de antibióticos que es negativo. En urgencias se le realizó una ecografía que informa de una ureterohidronefrosis grado II/IV sin evidenciar causa obstructiva hasta vejiga. Nosotros solicitamos una cistouretrografía miccional seriada (CUMS), que muestra un reflujo vésico-ureteral derecho grado III/IV. Respecto a este caso, es falso que:",
+      "opciones": [
+        "La probabilidad de que este reflujo se corrija por sí solo antes de los 4-5 años de edad es del 30-50%.",
+        "No está indicado realizar una gammagrafía renal con dimercaptosuccínico porque ya conozco el diagnóstico.",
+        "Iniciaría tratamiento profiláctico con antibióticos diarios a dosis baja.",
+        "Si no se corrige a largo plazo, puede ser causa de insuficiencia renal e hipertensión arterial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El reflujo vésico-ureteral se puede corregir por sí solo en un 80% de los grado I y II, y en un 30-50% de los grados mayores. Por ello, la tendencia actual es la de manejar las infecciones con antibioterapia, y en los periodos entre infecciones con medidas profilácticas como antibióticos a dosis bajas. Si el reflujo persiste a partir de esa edad, provocando infecciones o deteriorando la función renal, se plantearía tratamiento quirúrgico con un reimplante ureteral o mediante la inyección perimeática de ácido hialurónico. Estas medidas quirúrgicas sólo se consideran en menores de 5 años en casos muy graves de reflujos de grado muy alto. En este caso, estaría indicado haber solicitado una gammagrafía renal con ácido dimercaptosuccínico para conocer la funcionalidad renal y ver la presencia de cicatrices parenquimatosas. Es además una buena herramienta en el seguimiento de esta patología."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "El tratamiento de elección en un paciente de 67 años diagnosticado de Adenocarcinoma Renal izquierdo con metástasis mútiples en pulmón, hígado y colon es:",
+      "opciones": [
+        "Nefrectomía radical izquierda y posterior tratamiento con Sunitinib.",
+        "Dada la diseminación tumoral, tratar con Sunitinib exclusivamente.",
+        "Quimioterapia sistémica con CisPlatino tras la Nefrectomía radical.",
+        "Cirugía de las metástasis y posterior tratamiento con Sunitinib."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": ""
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "materia": "neurologia",
+  "paginaInicio": 19,
+  "paginaFin": 35,
+  "anomalias": [
+    "p35: 'Resp. Correcta: 3' en la pregunta sobre poliomielitis, pero el comentario (que continúa en la p36) abre con 'Respuesta d' y su contenido señala como incorrecta la opción 4 ('En la fase aguda de la poliomielitis el análisis del LCR es habitualmente normal'), ya que afirma que en el LCR hay pleocitosis; se respeta la clave 3 del original",
+    "p26: la opción 4 de la pregunta sobre el oligodendroglioma está cortada en el original: 'El tratamiento de elección es la radioterapia, dejando la cirugía para casos' (la frase queda sin terminar)",
+    "p30: la pregunta sobre la cefalea migrañosa no tiene explicación propia; el comentario solo remite a otro material ('Comentario en pregunta 18 de vídeo adjunto (sesión 2 de neurología)')",
+    "p21: el enunciado del caso de la paciente de 63 años remite a una figura de resonancia magnética ('que se muestra en la figura') que no aparece rasterizada en las páginas 21-22 ni hay enlace 'Imagen'; se marca igualmente con el campo imagen",
+    "p27: la pregunta del varón de 32 años (siringomielia) está duplicada en el documento; es la misma que empieza en la p20, con mínimas diferencias de puntuación en el enunciado y de párrafos en el comentario",
+    "p33: la pregunta del hombre de 60 años con demencia rápidamente progresiva (Creutzfeldt-Jakob) está duplicada en el documento; es la misma que empieza en la p27, con mínimas diferencias de redacción en el enunciado y el comentario"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 19,
+      "enunciado": "La epilepsias idiopáticas de la infancia son patologías que, según el tipo, pueden tener una evolución favorable. Señale la INCORRECTA",
+      "opciones": [
+        "El la epilepsia benigna de la infancia con puntas centrotemporales (epilepsia rolándica) son típicas las crisis al despertar, con semiología de alteración del lenguaje y en el EEG hay punta-onda centrotemporal bifásica.",
+        "La ausencias infantiles tienen unas características EEG muy típicas, la punta-onda a tres ciclos por segundo que se desencadena con la hiperventilación",
+        "Las crisis neonatales son indicativas de epilepsias de mal pronóstico, aunque se acompañen de un desarrollo psicomotor inicialmente normal y una actividad basal EEG normal.",
+        "En la epilepsia occipital benigna de la infancia, las crisis pueden acompañarse, además de los síntomas visuales, de síntomas autonómicos y son típicos los complejos punta-onda occipitales."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta c\n\nLas variantes descritas como la epilepsia rolándica o la epilepsia occipital benigna, son epilepsias focales benignas de las infancia y que tienen buen pronóstico con desaparición frecuente tras la adolescencia. Las ausencia son crisis generalizadas, también de buen pronóstico y, en todas ellas, el desarrollo psicomotor es normal y asi como la actividad basal del EEG, dato que las diferencia de epilepsias de peor pronóstico. En concreto, las crisis neonatales pueden darse en el contexto de síndromes graves como el de West o de Lenno-Gastaut pero también hay crisis neonatales benignas autosómicas dominantes que afectan al canal de potasio y que son de buen pronóstico"
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Un paciente de 60 años, con antecedentes de cáncer de pulmón, presenta una crisis epiléptica. Se realiza RM cerebral que muestra una lesión única sugerente de metástasis. No hay evidencia de metástasis extracerebrales. ¿Cuál de las siguientes afirmaciones es FALSA respecto al tratamiento del paciente?",
+      "opciones": [
+        "Debe administrarse medicación antiepiléptica.",
+        "Los corticoides son útiles para disminuir el edema vasogénico.",
+        "Si la lesión es accesible, puede estar indicada la cirugía.",
+        "La radioterapia craneal no está indicada."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Ante una crisis epiléptica por una metástasis cerebral, estaría indicado establecer tratamiento antiepiléptico, ya que lo más probable es que vuelva a tener nuevas crisis (sea por la metástasis o por la eventual cirugía sobre ella, o tratamiento radioterápico). En principio, un paciente con cáncer y metástasis cerebrales no se trataría con cirugía, pero si nos hablan de una lesión única, es accesible y el estado general es bueno, podría plantearse la intervención. También podría ser útil el tratamiento esteroideo, puesto que disminuiría el efecto masa de la metástasis, ya que reduce el edema vasogénico de alrededor. La quimioterapia podría tener un papel, por cuanto se trata de un cáncer diseminado, aunque en el caso del carcinoma epidermoide de pulmón no es excesivamente eficaz. La respuesta falsa es la relacionada con la radioterapia, ya que puede ser útil en estos casos. De hecho, las metástasis cerebrales múltiples se tratan con radioterapia holocraneal. Si son únicas y accesibles, como en este caso, se irradiaría la zona después de la cirugía."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Qué entidad de las siguientes consideraría usted como primera posibilidad ante un paciente con un temblor de acción de 10 Hz, que aparece en extremidades superiores, preferentemente cuando coge una taza o escribe?",
+      "opciones": [
+        "Temblor parkinsoniano",
+        "Temblor distónico ocupacional",
+        "Temblor de acción puro",
+        "Temblor esencial"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Quizá la mayor dificultad de la pregunta venga por la inclusión en el enunciado, de la frecuencia. Si tenemos en cuenta el enunciado, dicho cuadro es compatible con un temblor esencial, el cual, efectivamente suele ser entre 4 y 12 Hz. No suele presentarse en reposo, aunque a veces sí que está presente. No asocia ningún tipo de contracción sostenida e involuntaria (distonía), ni bradicinesia, con lo cual no se incluye en temblor parkinsoniano."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Cuál de los siguientes es uno de los criterios diagnósticos de la enfermedad de Parkinson?",
+      "opciones": [
+        "Pérdida del braceo",
+        "Hipomimia facial",
+        "Inestabilidad postural",
+        "Temblor postural"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los criterios diagnósticos del Parkinson son bradicinesia, rigidez, temblor de reposo (no postural) e inestabilidad de la marcha. Cuidado con el tipo de temblor pues el que es criterio diagnóstico es el de reposo."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Varón de 32 años que acude a nuestra consulta por falta de fuerza en las manos. Hace un mes sufrió fractura de la cabeza humeral derecha que prácticamente pasó desapercibida. A la exploración se descubre un déficit sensitivo para el dolor y la temperatura desde los hombros hasta las manos; asimismo existe leve atrofia muscular en miembros superiores junto a disminución generalizada de los reflejos osteotendinosos. En las yemas de los dedos se encuentran lesiones que parecen quemaduras antiguas; el paciente no sabe decirnos a qué se deben dichas lesiones. El diagnóstico de sospecha es:",
+      "opciones": [
+        "Siringomielia.",
+        "Síndrome de Brown-Séquard.",
+        "Malformación de Chiari.",
+        "Estenosis del canal cervical."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una pregunta difícil, pero merece la pena que recuerdes el caso clínico, porque representa muy bien lo más típico de esta enfermedad: la siringomielia. La siringomielia se caracteriza por la aparición de malformaciones quísticas en el interior de la médula espinal, con mayor frecuencia a nivel cervical o dorsal. Clínicamente, produce un síndrome centromedular, con un déficit suspendido y disociado de la sensibilidad (abolición de la sensibilidad termoalgésica, pero conserva la de los cordones posteriores). Por eso, el paciente suele referir heridas o quemaduras indoloras, sin percatarse de cuándo se produjeron (o una fractura que pasa desapercibida, como en este caso, aunque es menos frecuente). Es posible que se acompañe de debilidad, trastornos tróficos, arreflexia y fasciculaciones en extremidad superior, cuando las lesiones centromedulares son extensas y llegan a afectar a la segunda motoneurona. El diagnóstico de elección es mediante resonancia magnética, que pone de manifiesto las cavidades centromedulares."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "En el síndrome de West es FALSO:",
+      "opciones": [
+        "Pico de incidencia a los 4-8 meses.",
+        "Espasmos flexores y extensores en salvas.",
+        "Predominio de los espasmos tras despertar.",
+        "Hipsarritmia durante las crisis en el EEG."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El síndrome de West aparece en el primer años de vida y se caracteriza por espasmos en salvas, patología cerebral subyacente en la mayoría de los niños con afectación del desarrollo psicomotor e hipsarritmia INTERICTAL en el EEG. La hipsarritmia es un patrón del EEG que se encuentra en estos niños entre las crisis y consiste en una base con ondas lentas entre las que se intercalan ondas agudas. La presencia de hipsarritmia es un criterio imprescindible para el diagnóstico de síndromede West."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Paciente de 63 años con hipertensión arterial en tratamiento farmacológico. Remitida por cuadro de un año de evolución consistente en inestabilidad para la marcha, pasos cortos y caídas frecuentes. Sus familiares le han notado cierta apatía, ánimo decaído y pérdida de interés por sus tareas cotidianas. Desde hace unos meses presenta urgencia miccional, con ocasional incontinencia. Se le prescribió antidepresivo, sin mejoría clínica tras 6 meses. A la exploración se observa bradipsiquia. Déficit atencionales en miniexamen cognoscitivo con una puntuación de 20/30 (memoria reciente, orientación temporal, cálculo). Articulación, expresión y comprensión del lenguaje conservados. Pares craneales normales. Ausencia de alteraciones motoras o sensitivas. ROTs +/++++ simétricos, RCP flexor bilateral. Ligero aumento del tono en miembros inferiores. Marcha a pequeños pasos, con aumento de secuencias en giros. Romberg negativo. No temblor, no dismetrías ni disdiadococinesias. Hemograma, bioquímica, serología de lúes, vitamina B12 y ácido fólico, hormonas tiroideas normales. En la resonancia magnética cerebral que se muestra en la figura, se observa un aumento del tamaño de los ventrículos laterales, así como forma redondeada de las astas frontales. Ante la historia clínica y los resultados de las pruebas complementarias, ¿qué diagnóstico más probable tiene nuestro paciente?",
+      "opciones": [
+        "Enfemerdad de Parkinson",
+        "Demencia fronto-temporal",
+        "Hidrocefalia normotensiva del adulto",
+        "Demencia tipo Alzheimer"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La tríada clínica clásica de la hidrocefalia normotensiva del adulto (enfermedad de Hakim-Adams) consta de deterioro cognitivo, apraxia de la marcha e incontinencia urinaria, pudiendo estar ausente alguno de ellos. El diagnóstico clínico se complementa con los estudios de imagen en los que se evidencia la hidrocefalia sin una causa obstructiva y sin atrofia cortical significativa.",
+      "imagen": "neurologia/p021-1.png"
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Cómo conocemos a la malformación de que se asocia a un descenso de las amígdalas cerebelosas a través del agujero magno?",
+      "opciones": [
+        "Malformación de Klippel Feil",
+        "Malformación de Chiari",
+        "Malformación de Dandy Walker",
+        "Malformación de Lhermitte Duclos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La Malformación de Chiari es una anomalía congénita del desarrollo de la charnela occipitocervical que en su variedad más frecuente (Tipo 1) se caracteriza por el descenso de las amígdalas cerebelosas a través del agujero magno. A veces puede crear una siringomielia cervical por alterar el gradiente de presión del LCR en ese compartimento anatómico."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuál de las siguientes no se corresponde a una afectación de función superior?",
+      "opciones": [
+        "Disdiadococinesias",
+        "Afasia motora",
+        "Apraxia de la marcha",
+        "Anosognosia"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las alteraciones de las funciones superiores implican necesariamente la afectación de la sustancia gris cortical. Estas funciones cuando se afectan producen amnesia, afasia, apraxia y agnosia. La disdiadococinesia (imposibilidad para realizar movimientos alternanes rápidos) implica una afectación cerebelosa y no implica afectación cortical."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Un paciente de 73 años sufrió un accidente de tráfico con traumatismo craneal del que se recuperó. A los tres meses inicia de forma progresiva alteración de funciones superiores, incontinencia urinaria ocasional y su caminar es torpe. Probablemente presenta:",
+      "opciones": [
+        "Hematoma intraparenquimatoso cerebral tardío.",
+        "Hemorragia subaracnoidea.",
+        "Hidrocefalia arreabsortiva.",
+        "Atrofia cerebral postraumática."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La hidrocefalia postraumática es una de las complicaciones tardías de un traumatismo craneoencefálico. Un 4% de los traumatismos craneoencefálicos severos presenta este trastorno. No es más que uno de los tipos secundarios de hidrocefalia crónica del adulto con su clínica típica conocida como la tríada de Hakim-Adams. En la pregunta se hace referencia a la hidrocefalia arreabsortiva, ya que en el test de infusión se evidencia una disminución de la reabsorción o un aumento de la resistencia a la salida de líquido cefalorraquídeo."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En cuanto a la Leucoencefalopatía multifocal progresiva señale la respuesta falsa:",
+      "opciones": [
+        "Es más frecuente en inmunodeprimidos.",
+        "Está causada por el virus varicela-zóster.",
+        "NO disponemos de un tratamiento curativo.",
+        "En el TC se objetivan lesiones hipodensas en la sustancia blanca."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "OPCIÓN CORRECTA 2. La leucoencefalopatía multifocal progresiva está causada por un papovirus, el virus JC. Es más frecuente en pacientes con patología tumoral y/o inmunodeprimidos, sobre todo en pacientes VIH +. En el TC craneal se objetivan lesiones hipodensas en sustancia blanca de forma multifocal. Clínicamente puede cursar con diferentes déficits: paresias, alteración de funciones superiores, clínica visual… Actualmente no hay tratamiento curativo y su pronóstico es infausto."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Qué raiz se afecta en una hernia de disco paramedial derecha L4L5?",
+      "opciones": [
+        "L5 derecha",
+        "L4 derecha",
+        "Ambas",
+        "Ninguna de las dos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una hernia de localización L4L5 para medial derecha afectará a la raíz L5 de ese lado; si fuera una hernia más lateral (foraminal), la raíz afectada sería la L4."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Los ictus isquémicos pueden ser clasificados en cuatro grandes grupos. Señale la respuesta FALSA:",
+      "opciones": [
+        "Los ictus aterotrombóticos se producen por placas de ateroma que suelen localizarse en la bifurcación carotídea.",
+        "Los ictus cardioembólicos son frecuentemente producidos por tumores cardíacos",
+        "Los ictus lacunares se producen por afectación de pequeño vaso",
+        "Los ictus de origen indeterminado son aproximadamente el 25 % del total de los ictus."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La clasificación más sencilla del ictus engloba a estos en 4 grandes grupos: aterotrombóticos, cardioembólicos, lacunares y de origen indeterminado. ES necesario conocer sus causas más frecuentes. En el caso de ictus cardioembólicos, la causa más frecuente es la fibrilación auricular no valvular. A pesar de un estudio completo, el 25 % de os pacientes con ictus siguen siendo de origen indeterminado"
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "La causa más frecuente de accidente cerebrovascular isquémico de causa embólica es:",
+      "opciones": [
+        "Embolismo cardíaco.",
+        "Embolismo arterio-arterial carotídeo.",
+        "Embolismo arterio-arterial vertebrobasilar.",
+        "Embolismo graso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad moderada. La mayor parte de las enfermedades vasculares isquémicas son originadas por la ateroesclerosis y sus complicaciones trombóticas y tromboembolicas. Sin embargo, no olvidar que el corazón es la fuente mas común de embolismo cerebral siendo algo menos frecuente el embolismo arterio- arterial desde lesiones carótidas, vertebrobasilares o aorta ascendente."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Varón de 96 años, hipertenso, con historia previa de fibrilación auricular tratada con apixaban, isquemia arterial crónica en miembros inferiores y policitemia vera tratada con hidroxiurea durante mucho tiempo, si bien había sido retirado en el último mes. Acude a urgencias por cuadro brusco de 4 días de evolución de movimientos involuntarios que afectan a la cara y brazo izquierdos, junto con cambios de comportamiento que la familia refiere como deshinibición y lenguaje inapropiado. En la exploración neurológica se objetivan contracciones irregulares y repetitivas, no rítmicas, localizadas en zona orofacial y en músculos braquiales, con paso de un músculo a otro. ¿Qué tipo de movimiento se describe en dicho caso con más probabilidad?",
+      "opciones": [
+        "Temblor.",
+        "Balismo.",
+        "Corea.",
+        "Tic."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un movimiento repetitivo pero no rítmico, que cambia de localización y que parece fluir a lo largo de los músculos, lo que sugiere la existencia de una corea. No se describe un temblor (que es un trastorno rítmico del movimiento), ni un balismo (que sería un movimiento explosivo de tipo lanzamiento) y tampoco un describiría un tic (no se realiza voluntariamente el movimiento). La presencia de corea en la policitemia vera es una complicación infrecuente, pero posible."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Entre las enfermedades desmielinizantes del sistema nervioso central, destaca la esclerosis múltiple (EM) por su frecuencia, pero la forma aguda denominada encefalomielitis aguda diseminada (EAD) pude plantear problemas de diagnóstico diferencial con la anterior. Indique la respuesta INCORRECTA respecto al diagnóstico diferencial entre ambas entidades:",
+      "opciones": [
+        "La presencia de un proceso infeccioso previo es frecuente en la EAD e infrecuente en la EM",
+        "En la EAD la sintomatología inicial es, con frecuencia, polisintomática.",
+        "Los hallazgos de inflamación son más importantes en la EAD que en la EM en la que predominan las lesiones desmielinizantes con escasa inflamación",
+        "La presencia de bandas oligoclonales en LCR es casi constante en la EAD mientras que sólo las encontramos en la EM en el 50% de los casos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta d\n\nLa EAD en una enfermedad desmielinizante, inflamatoria y grave que suele producirse tras procesos infecciosos víricos o vacunaciones. Suele cursar con una encefalopatía y síntomas focales múltiples y la mayoría son monofásicas, por este motivo, la detección de bandas oligoclonales en LCR que indica respuesta inflamatoria recurrente y crónica es menos frecuente que en la EM. En la resonancia suele haber, junto con las lesiones desemilinizantes, un componente inflamatorio marcado que no suele apreciarse en la esclerosis múltiple."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Un paciente varón de 35 años sufre su primera crisis epiléptica tónico-clónica generalizada. En el estudio de la misma se detecta una neoplasia cerebral de localización paramediana en el lóbulo frontal derecho que, tras la biopsia resulta ser un oligodendroglioma. Señale la respuesta CORRECTA respecto a este tipo de tumor:",
+      "opciones": [
+        "Es un tumor de crecimiento lento que procede de células de estirpe neural, al igual que los meduloblastomas",
+        "Tiene características morfológicas típicas como la presencia de calcificaciones y las células en “huevo frito”.",
+        "Su naturaleza es siempre benigna, carecen de riesgo de malignización",
+        "El tratamiento de elección es la radioterapia, dejando la cirugía para casos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta b\n\nEl oligodendroglioma es un tumos que suele aparecer en adultos jóvenes , de estirpe glial y que suele localizarse en el lóbulo frontal con mayor frecuencia, tiene tendencia a ser paramediano. Son típicas las calcificaciones micro y macroscópicas y está formado por células de núcleo redondeado y citoplasma amplio y claro denominadas en “huevo frito”. Existen variedades anaplásicas con mayor grado de malignidad y el tratamiento de elección es la cirugía. La clinica más frecuente de presentación son las crisis epiléticas, aunque puede cursar con síntomas focales o hipertensión intracraneal."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Mujer de 20 años que consulta por pérdida de visión y dolor ocular derecho que aumenta con los movimientos oculares, de 24 horas de evolución. El examen del fondo del ojo es normal y la agudeza visual está disminuida en el ojo derecho. Con respecto a esta paciente, es FALSO que:",
+      "opciones": [
+        "La paciente padece una neuritis óptica retrobulbar.",
+        "Se practicó una RM cerebral que fue normal.",
+        "El pronóstico en cuanto a la recuperación de la agudeza visual es bueno.",
+        "El tratamiento indicado es prednisona vía oral."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta muy interesante, donde nos describen un cuadro de neuritis retrobulbar. Como sabes, en un 25% de los casos, se asocia a esclerosis múltiple, por lo que la opción de respuesta 2 probablemente será correcta (la RMN es normal en la mayor parte de estos casos, ya que un 75% no se relacionan con esta enfermedad). Lo que sí podemos decir es que esta paciente puede desarrollar una esclerosis múltiple. El tratamiento de la neuritis retrobulbar son los esteroides por vía sistémica, no por vía oral (opción 4 falsa, por lo que la marcamos). Recuerda que este tratamiento acelera la recuperación, pero no influye sobre el pronóstico visual."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Cuál de las siguientes no es cierta respecto al tratamiento de los aneurismas cerebrales?",
+      "opciones": [
+        "El tratamiento es multimodal (bien microquirúrgico o endovascular)",
+        "Según el estudio ISAT (International Subarchnoid Aneurysm Trial, 2002) el tratamiento endovascular es más seguro que el microquirúrgico ya que tiene un 7% menos de resultados no favorables.",
+        "El tratamiento microquirúrgico es más eficaz que el tratamiento endovascular porque obtiene un porcentaje de cierre total del cuello del aneurisma mayor (alrededor del 90%, mientras que el endovascular es de alrededor del 70%)",
+        "Las técnicas de cierre del vaso aferente (\"trapping\") se pueden realizar independientemente de si existe circulación colateral o no."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El trapping o cierre del vaso parental o aferente sólo estará indicada cuando tengamos asegurada la buena perfusión en el territorio vascular distal al vaso que ocluímos"
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Un hombre de 60 años presenta un cuadro de demencia rápidamente progresiva, rigidez, ataxia, mioclonías, que persisten durante el sueño y descargas de alto voltaje en el EEG. ¿Qué alteración, de entre las siguientes, es la que podremos encontrar en el LCR?",
+      "opciones": [
+        "Hipoglucorraquia.",
+        "Bandas oligoclonales positivas.",
+        "Aumento del índice de IgG.",
+        "Proteína 14-3-3 positiva."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Dentro de las demencias rápidamente progresivas, la más famosa de todas es la enfermedad de Creutzfeldt Jacob; es un cuadro en el que se aúnan síntomas de afectación cognitiva (alteración de memoria, alteración del lenguaje, síntomas disejecutivos), alteración del comportamiento o conducta y afectación de otros sistemas, como el cerebeloso, el extrapiramidal, o el piramidal. Las mioclonías suelen ser de aparición tardía pero muy características. En las pruebas complementarias, los datos que apoyan el diagnóstico son complejos periódicos de punta-onda sobre una actividad basal enlentecida; bien los marcadores de muerte neuronal en LCR como la proteína 14-3-3 (que no es específica de esta entidad y puede verse en otros cuadros) y en la neuroimagen, datos de realce cortical o de ganglios basales en secuencias de difusión o Flair. El 85% de los pacientes fallece en un año y carece de tratamiento eficaz (respuesta 4 correcta). Las demás opciones de respuesta hacen referencia a otras entidades: las bandas oligoclonales y el aumento del índice IgG estarían en relación con cuadros en los que existan síntesis intratecal de inmunoglobulinas, enfermedades del grupo de las autoinmunes o disinmunes, inflamatorias o granulomatosas. La hipoglucorraquia implicaría que algo está consumiendo la glucosa, siendo los causantes más habituales los gérmenes, especialmente bacterias, micobacterias o parásitos; o bien las células tumorales que estén infiltrando el SNC."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Varón de 32 años que acude a nuestra consulta por falta de fuerza en las manos. Hace un mes sufrió fractura de la cabeza humeral derecha que prácticamente pasó desapercibida. A la exploración se descubre un déficit sensitivo para el dolor y la temperatura desde los hombros hasta las manos; asimismo existe leve atrofia muscular en miembros superiores, junto a disminución generalizada de los reflejos osteotendinosos. En las yemas de los dedos se encuentran lesiones que parecen quemaduras antiguas; el paciente no sabe decirnos a qué se deben dichas lesiones. El diagnóstico de sospecha es:",
+      "opciones": [
+        "Siringomielia.",
+        "Síndrome de Brown-Séquard.",
+        "Malformación de Chiari.",
+        "Estenosis del canal cervical."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una pregunta difícil, pero merece la pena que recuerdes el caso clínico, porque representa muy bien lo más típico de esta enfermedad.\n\nLa siringomielia se caracteriza por la aparición de malformaciones quísticas en el interior de la médula espinal, con mayor frecuencia a nivel cervical o dorsal. Clínicamente, produce un síndrome centromedular, con un déficit suspendido y disociado de la sensibilidad (abolición de la sensibilidad termoalgésica, pero conserva la de los cordones posteriores). Por eso, el paciente suele referir heridas o quemaduras indoloras, sin percatarse de cuándo se produjeron (o una fractura que pasa desapercibida, como en este caso, aunque es menos frecuente). Es posible que se acompañe de debilidad, trastornos tróficos, arreflexia y fasciculaciones en extremidad superior, cuando las lesiones centromedulares son extensas y llegan a afectar segunda motoneurona. El diagnóstico de elección es mediante resonancia magnética, que pone de manifiesto las cavidades centromedulares."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Con respecto a la enfermedad de Alzheimer, es CIERTO que:",
+      "opciones": [
+        "En la anatomía patológica pueden encontrarse madejas neurofibrilares y placas de amiloide.",
+        "Se considera que la presencia del alelo APOE-4 es un factor protector de la misma.",
+        "Las mujeres premenopáusicas tienen un mayor riesgo de desarrollarla, ya que los estrógenos producen un menor flujo cerebral por vasoconstricción cortical.",
+        "La capacidad para hacer dibujos, como la prueba del reloj, se encuentra intacta hasta fases muy tardías de la enfermedad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta que requiere un conocimiento general y básico de la enfermedad de Alzheimer. Puede haber confusión si no se presta atención a que la APOE-4 es factor de riesgo y la APOE-2 es protector. La opción de respuesta 3 es fácilmente descartada por la coletilla de la vasoconstricción cerebral. Con respecto a la clínica, es conocido que los problemas iniciales son de memoria a corto plazo y no de memoria remota. La prueba del reloj es muy útil, pues es una de las primeras en alterarse. En la anatomía patológica pueden encontrarse madejas neurofibrilares y placas de amiloide (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Un paciente que presenta un cuadro de apraxia de la marcha, incontinencia urinaria y apatía/abulia, señala la etiologia menos probable:",
+      "opciones": [
+        "Lesión parietal bilateral.",
+        "Infarto de ambas arterias cerebrales anteriores.",
+        "Glioblastoma que se extiende por el cuerpo calloso en su porción anterior a ambos hemisferios cerebrales.",
+        "Hidrocefalia crónica del adulto."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La triada Hakim Adams que describe el enunciado implica una lesión bifrontal, la opción incorrecta es la que refiere una lesión parietal bilateral.\n\nLa arteria cerebral anterior a través de la comunicante anterior puede sufrir un ictus bilateral. El glioblastoma es un tumor de grado IV que tiene la característica de extenderse por el cuerpo calloso, en \"alas de mariposa\", lo que podría provocar lesión bifrontal. La hidrocefalia crónica del adulto es la causa que habitualmente se asocia a la triada Hakim Adams, pero no es la única, recuerda."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Los nuevos criterios de esclerosis múltiple (EM) permiten el diagnóstico de la enfermedad con 1 solo brote debido a que la RM cerebral puede demostrar la diseminación en tiempo y en espacio. ¿En cuál de los siguientes casos podría realizarse el diagnóstico de EM?",
+      "opciones": [
+        "Mujer de 25 años con oftalmoplejia internuclear. La RM cerebral muestra varias lesiones hiperintensas localizadas a nivel periventicular (3), yuxtacortical (2) e infratentorial (2). Ninguna de ellas capta contraste",
+        "Mujer de 25 años con oftalmoplejia internuclear. La RM cerebral 1 lesión infratentorial que capta contraste",
+        "Mujer de 25 años con oftalmoplejia internuclear. La RM cerebral muestra 2 lesiones desmielinizantes, ambas periventiculares; una lesión presenta captación de contraste y la otra no.",
+        "Mujer de 25 años con oftalmoplejia internuclear. La RM cerebral muestra varias lesiones hiperintensas localizadas a nivel periventicular (3), yuxtacortical (2) e infratentorial (2). 1 lesión infratentorial y 2 periventriculares captan contraste, el resto no."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Con los nuevos criterios, ante 1 único brote típico de enfermedad desmielinizante (neuritis óptica, afectación de tronco, cerebelo o médula) podemos demostrar diseminación en tiempo y espacio mediante un estudio con RM cerebral con contraste. La diseminación en espacio se pone de manifiesto por la presencia de al menos 1 lesión en 2 o más de estas localizaciones: periventricular, yuxtacortical, infratentorial y medular. La diseminación en tiempo se puede demostrar mediante la presencia simultánea de lesiones que captan contraste (agudas) y que no captan contraste (no agudas). Otra forma de probar diseminación en tiempo es realizar una nueva RM cerebral en cualquier momento tras la RM inicial y que aparezcan 1 o más lesiones no presentes previamente. En nuestro caso la respuesta 1 muestra solo diseminación en espacio (incorrecta). La respuesta 2 no muestra ni diseminación en tiempo ni en espacio (incorrecta). La respuesta 3 solo muestra diseminación en tiempo. La respuesta 4 muestra tanto diseminación en tiempo como en espacio (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Un paciente acude a su consulta por parálisis facial periférica, hipoacusia, entumecimiento de la cara y debilidad para la masticación. Ante este cuadro usted sospecha una lesión localizada en:",
+      "opciones": [
+        "Seno cavernoso, pared lateral.",
+        "Espacio laterocondileo posterior.",
+        "Vértice del peñasco.",
+        "Angulo pontocerebeloso."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta es una pregunta muy difícil que nos presenta un caso del síndrome del ángulo ponto-cerebeloso. Este es un síndrome atribuido habitualmente a un tumor situado entre el cerebelo y la protuberancia. El cuadro clínico viene caracterizado por ataxia, hipotonia muscular ipsilateral con nistagmus, tinnitus, sordera, trastornos del laberinto y de los nervios craneanos V, VI, VII, VIII, IX y X. El tumor más frecuente del ángulo ponto- cerebeloso es el neurinoma del acústico (90%)"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "El tumor cerebral más frecuente en el adulto es:",
+      "opciones": [
+        "Gliomas, concretamente glioblastoma o glioma grado IV",
+        "Metástasis",
+        "Neurinoma del acústico",
+        "Meningioma"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tumor cerebral más frecuente en el adulto son las metástasis, sin embargo en el niño son infrecuentes. Si lo que te piden es el primario más frecuente, entonces habría que pensar en el glioblastoma."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "El tumor cerebral primario más frecuente en niños es",
+      "opciones": [
+        "Astrocitoma de cerebelo",
+        "Meduloblastoma",
+        "Glioma del nervio Óptico",
+        "Neuroblastoma"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ai bien las estadísticas andan parejas entre el meduloblastoma y el astrocitoma de cerebelo es por muy poco este ultimo el más frecuente"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "De las siguientes manifestaciones clínicas, ¿cuál no es típica de la cefalea migrañosa?",
+      "opciones": [
+        "Sonofobia y fotofobia",
+        "Unilateral",
+        "Síndrome de Horner ipsilateral a la cefalea",
+        "Visión borrosa y escotomas centelleantes"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Comentario en pregunta 18 de vídeo adjunto (sesión 2 de neurología)"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Cuál es el fármaco de primera elección en el tratamiento de las ausencias de pequeño mal?:",
+      "opciones": [
+        "Clonazepam.",
+        "Fenitoína.",
+        "Primidona.",
+        "Ácido valproico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta directa que se insiste mucho en clase y que no deberías haber fallado. El pequeño mal o crisis de ausencia son crisis generalizadas que aparecen en la infancia y que se caracterizan por desconexiones bruscas del nivel de conciencia que ocurren de modo brusco, muchas veces al día y que son de corta duración. Su respuesta al tratamiento suele ser muy buena. Uno de los tratamientos de primera línea es el ácido valproico y el otro es la etosuximida (que sólo se puede administrar en las crisis de ausencia)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Niño de 12 años que acude a consulta por un cuadro de cefalea bifrontal de cuatro meses de evolución, de intensidad progresiva, y especialmente dolorosa por las mañanas al levantarse. En el momento actual se acompaña de vómitos. La exploración física evidencia obesidad y un retraso del crecimiento, además de una cuadrantanopsia bitemporal inferior. Mediante técnicas de imagen se llega al diagnóstico de craneofaringioma. Con respecto a este tumor, es FALSO que:",
+      "opciones": [
+        "Es un tumor originado a partir de los restos de la bolsa de Rathke.",
+        "Son típicas las calcificaciones en paréntesis en la radiografía lateral de cráneo.",
+        "El tratamiento de elección es la terapia intracavitaria con radioisótopos como el itrio y el fósforo.",
+        "En su tratamiento se han utilizado INF-alfa, bleomicina intralesional y radiocirugía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El craneofaringioma es un tumor originado a partir de los restos de la bolsa de Rathke, de localización supraselar, que afecta principalmente a niños y adolescentes. Produce clínica de disfunción neuroendocrina (talla baja y obesidad) así como hemianopsia bitemporal o cuadrantanopsia inferior por compresión del quiasma. Suele tener una pared parcialmente calcificada, dando la imagen de calcificaciones en paréntesis en la radiografía lateral de cráneo. El tratamiento de elección es la resección quirúrgica, aunque también se han utilizado otros como la evacuación estereotáctica, terapia intracavitaria con radioisótopos como el itrio y el fósforo (se puede utilizar, pero NO es el tratamiento de elección) (opción 3 falsa, por lo que la marcamos), bleomicina intralesional, INF-alfa, radioterapia convencional y radiocirugía."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Cuál de éstas no es la formar de debutar un tumor de fosa posterior?",
+      "opciones": [
+        "Crisis epilépticas",
+        "Ataxia apendicular",
+        "Ataxia troncular",
+        "Nistagmus vertical inferior"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los tumores de fosa posterior pueden debutar con síntomas de compresión de tronco o de cerebelo y obstrucción de la circulación del LCR pero nunca con crisis epilépticas que es sinónimo de irritación cortical cerebral"
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Cuál de las siguientes no es una cefalea trigeminoautonómica?",
+      "opciones": [
+        "Cefalea tipo SUNCT.",
+        "Hemicránea paroxística.",
+        "Hemicránea continua.",
+        "Neuralgia del trigémino."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de concepto, sobre qué es y qué no una cefalea trigeminoautonómica. Son un grupo de cefaleas en las cuales el paciente tiene dolor unilateral acompañado de síntomas autonómicos ipsilaterales al dolor, tales como ojo rojo, lagrimeo, rinorrea, congestión nasal o plenitud ótica. También se incluiría la intranquilidad durante el episodio de dolor, a diferencia de la migraña en la cual los pacientes tienen clinofilia, apetencia por estar tumbados y tranquilos. Las cefaleas de este grupo son, en orden de menor duración a mayor, la cefalea tipo SUNCT, la hemicránea paroxística, la cefalea en racimos o acúmulos y la hemicránea continua."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Paciente de 50 años con antecedentes de adenocarcinoma de pulmón operado hace 8 meses y sin lesiones metastásicas conocidas hasta entonces, comienza con cuadro de tres días de evolución de cefalea, náuseas y vómitos sin clara focalidad neurológica en la exploración. Hoy ha presentado una crisis motora parcial secundariamente generalizada. En la TC con contraste aparece una lesión frontal derecha de 2 cm de diámetro que capta contraste en anillo y con bastante edema alrededor. La RM no muestra más lesiones que la vista en la TC. ¿Cuál de las siguientes medidas sería la MENOS indicada en este paciente?:",
+      "opciones": [
+        "Iniciar tratamiento con anticomiciales.",
+        "Radioterapia preoperatoria.",
+        "Cirugía.",
+        "Radioterapia postoperatoria."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es importante para el examen porque cada año han salido preguntas acerca del subtema de tumores cerebrales. Recuerda que el tumor encefálico más frecuente en el adulto son las metástasis (sobretodo del carcinoma pulmonar de células pequeñas) y que la clínica que producen los tumores cerebrales es fundamentalmente cefalea, También pueden producir nauseas y vómitos si hay HTIC, focalidad neurológica, crisis convulsivas y alteraciones de la conducta. Junto con el abceso cerebral, el glioblastoma multiforme y el linfoma cerebral primario, las metástasis captan contraste en anillo, y éstas habitualmente están rodeadas de un importante edema perilesional. En lo que respeta al tratamiento, el de elección es la radioterapia holocraneal. Si la lesión es única y accesible, cuando el tumor primario está controlado, deben tratarse con cirugía y radioterapia postoperatoria (no preoperatorio). En lesiones de pequeño tamaño puede ser útil la radiocirugia estereotáxica."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Señale qué afirmación es la FALSA con respecto a la cefalea en racimos:",
+      "opciones": [
+        "Tiene una duración entre 30 y 180 minutos.",
+        "Se acompaña de lagrimeo, rinorrea y signo de Horner homolaterales al dolor.",
+        "Es más frecuente en mujeres.",
+        "El tratamiento sintomático puede hacerse con oxígeno al 100% por mascarilla."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La cefalea en racimos o acúmulos es la cefalea trigeminoautonómica más frecuente. Como el resto de entidades de su grupo se caracteriza por episodios de dolor intenso en los que durante el episodio el paciente presenta síntomas autonómicos en el territorio facial (trigeminal) ipsilateral al dolor, tales como hiperemia ocular, lagrimeo, ptosis, miosis, rinorrea, congestión nasal, plenitud ótica o intranquilidad. Los episodios característicamente duran entre 30 y 180 minutos. El tratamiento de los episodios se realiza con oxígeno a alto flujo o triptanes y el tratamiento preventivo de primera línea es el verapamilo. A diferencia de la cefalea tipo tensión o la migraña, es más frecuente en el género masculino."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Un hombre de 60 años de edad presenta un cuadro de demencia rápidamente progresiva, rigidez, ataxia, mioclonias, que persisten durante el sueño y descargas de alto voltaje en el EEG. ¿Qué alteración, entre las siguientes, es la que podremos encontrar en el LCR?",
+      "opciones": [
+        "Hipoglucorraquia.",
+        "Bandas oligoclonales positivas.",
+        "Aumento del índice de IgG.",
+        "Proteína 14-3-3 positiva."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Dentro de las demencias rápidamente progresivas, la más famosa de todas es la enfermedad de Creutzfeldt Jacob. Es un cuadro en el que se aunan síntomas de afectación cognitiva (alteración de memoria, alteración del lenguaje, síntomas disejecutivos), alteración del comportamiento o conducta y afectación de otros sistemas, como el cerebeloso, el extrapiramidal, el piramidal. Las mioclonías suelen ser de aparición tardía pero muy características. En las pruebas complementarias los datos que apoyan el diagnóstico son complejos periódicos de punta-onda sobre una actividad basal enlentecida; bien los marcadores de muerte neuronal en LCR como la proteína 14-3-3 (la cual no es específica de esta entidad y puede verse en otros cuadros) y en la neuroimagen, datos de realce cortical o de ganglios basales en secuencias de difusión o flair. El 85% de los pacientes fallece en un año y carece de tratamiento eficaz.\n\nEl resto de respuestas hace referencia a otras entidades: las bandas oligoclonales y el aumento del índice IgG estarían en relación con cuadros en los que exista síntesis intratecal de inmunoglobulinas, enfermedades del grupo de las autoinmunes o disinmunes, inflamatorias o granulomatosas. La hipoglucorraquia implicaría que algo está consumiendo la glucosa, siendo los causantes más habituales los gérmenes, especialmente bacterias, micobacterias o parásitos; o bien las células tumorales que estén infiltrando el SNC."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Mujer de 27 años que sufrió hace diez días un traumatismo craneoencefálico leve. Acude a la Urgencia por cefaleas inespecíficas acompañadas de mareos, dificultad para conciliar el sueño, irritabilidad y falta de concentración en sus estudios. La exploración neurológica es rigurosamente normal. Usted le diagnosticará de:",
+      "opciones": [
+        "Hematoma subdural crónico.",
+        "Hematoma cerebral en lóbulo frontal.",
+        "Hematoma epidural.",
+        "Síndrome postraumático."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad moderada sobre el síndrome postraumático. Esta entidad consiste en un cuadro inespecífico que produce dificultad de concentración, irritabilidad, cefaleas, etc. Pese a ello, la exploración neurológica característicamente es normal, y aparece después de un tiempo variable en relación con un TCE (días o semanas, a veces incluso meses)."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Entre las entidades siguientes hay una que NO se ha relacionado a la aparición de Mielitis transversa aguda. Señálela:",
+      "opciones": [
+        "Traumatismo vertebral.",
+        "Viriasis.",
+        "Vasculitis.",
+        "Idiopática."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "No te preguntes si no has acertado esta pregunta, pues la etiologia de esta entidad nunca ha sido preguntada.Se desconocen a ciencia cierta las causas exactas de la mielitis transversa. Ésta consiste en una inflamación que causa daños graves a las fibras nerviosas de la médula espinal, y puede ser el resultado de infecciones virales, reacciones inmunes anormales, esclerosis múltiple, malformaciones arteriovenosas e isquemia medular espinal. También puede ocurrir como complicación de la sífilis, el sarampión, la enfermedad de Lyme y de algunas vacunas, incluyendo las de la varicela y la rabia."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Qué núcleo de la base se atrofia característicamente en una enfermedad de Huntington?",
+      "opciones": [
+        "El núcleo accumbens",
+        "El globo pálido",
+        "El núcleo rojo mesencefálico",
+        "El núcleo caudado"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la enfermedad de Huntington se puede apreciar, en muchas ocasiones, una atrofia bilateral de los núcleos caudados, dando un aspecto esférico a los ventrículos laterales."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Acude un paciente diagnosticado de esclerosis múltiple a Urgencias por un episodio de ataxia brusca limitante desde hace 4 días. ¿Cuál debe ser la actitud MÁS apropiada desde la urgencia?",
+      "opciones": [
+        "Iniciar tratamiento con inmunoglobulinas intravenosas.",
+        "Iniciar tratamiento con corticoides intravenosos.",
+        "Iniciar tratamiento con Fingolimod.",
+        "Iniciar tratamiento con interferón beta."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En esta pregunta nos presentan un paciente ya diagnosticado de esclerosis múltiple (EM) que acude por una clínica típica de enfermedad desmielinizante (ataxia) de inicio agudo y de duración > 24h. Se trata de un brote. El tratamiento del brote es la administración de metilprednisolona oral o intravenosa a dosis altas, normalmente 1g/24h durante 3-5 días. Si este tratamiento fracasa puede realizar tratamiento con plasmaféresis. Las inmunoglobulinas no están indicadas en el tratamiento del brote de EM. Tanto el interferón beta como el fingolimod no se utilizan como tratamientos en el brote sino como fármacos para evitar brotes o tratamiento modificador de la enfermedad."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Señale cual de estas cifras se corresponde con una presión intracraneal normal",
+      "opciones": [
+        "12 mm Hg",
+        "22 mm Hg",
+        "25 cm de agua",
+        "29 cm de agua"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La presión intracraneal se mide en mm Hg las cifras consideradas normales oscilan entre 12 y 15 mm de Hg. Existen situaciones en las que se puede ver medida con cm de agua. En este caso la presión normal sería en torno a 20-21 cm de agua."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Respecto a las enfermedades de la motoneurona inferior, en concreto la poliomielitis, señale la respuesta INCORRECTA",
+      "opciones": [
+        "El virus de la poliomielitis ocasiona todavía muchos casos de debilidad muscular aguda en los países en vías de desarrollo por lo que se recomienda la vacunación con una dosis de vacuna trivalente Sabin cuando se viaja a lugares endémicos.",
+        "Otros enterovirus, como el virus del Nilo, pueden dar afectación de la motoneurona inferior",
+        "Los pacientes que han sufrido poliomielitis pueden tener un agravamiento muy tardío de sus síntomas que se denomina síndrome postpolio",
+        "En la fase aguda de la poliomielitis el análisis del LCR es habitualmente normal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta d\n\nEl síndrome de Guillain –Barré es la causa más frecuent de parálisis flacida en los países desarrollados, pero en los paises en vías de desarrollo, la poliomielitis sigue siendo un problema de salud importante. Es una infección del SNC por un enterovirus que se diagnostica por análisis del LCR en el que hay pleocitosis y en el que se puede detectar el material genético viral mendiante PCR.\n\nEl virus West Nile, puede dar una encefalitis con afectación de motoneurona inferior en países occidentales.\n\nEl síndrome postpolio es una entidad que afecta a pacientes adultos que han sufrido polio infantil y en cuya fisiopatología se ha implicado la menor supervivencia de unas motoneuronas sobrecargadas por haber compensado la denervación precoz por la enfermedad"
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "materia": "bioetica",
+  "paginaInicio": 41,
+  "paginaFin": 61,
+  "anomalias": [
+    "p52: el comentario contiene los caracteres '&&&' delante de 'a)' y 'b)' (resto de una lista de dos apartados que quedó linealizada en el rasterizado)",
+    "p53: el comentario de la pregunta '¿Cuál de las siguientes afirmaciones es correcta con respecto a los principios básicos de la Bioética?' aparece en un bloque de texto con saltos de línea duros a media frase; se ha reconstruido en tres párrafos",
+    "p56: en la cita bibliográfica del comentario aparece 'EndofLife Communication in the Intensive Care Unit'; los guiones de 'End-of-Life' no se rasterizaron"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 41,
+      "enunciado": "Todas las siguientes afirmaciones en relación al tratamiento del dolor oncológico son adecuadas, EXCEPTO:",
+      "opciones": [
+        "El manejo de los analgésicos se basa en una administración regular pautada y dosis de rescate a demanda.",
+        "Habitualmente se utilizan fármacos coadyuvantes (antidepresivos, esteroides, ansiolíticos, antiepilépticos, etc.) para optimizar el control del dolor.",
+        "Ocasionalmente se utiliza un placebo para poder determinar el predominio del componente psicológico en la etiología del dolor.",
+        "La vía de elección es la oral y en la mayoría de los pacientes puede ser utilizada hasta la fase terminal de la enfermedad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nunca se utiliza placebo en el tratamiento del dolor en pacientes paliativos."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cuál de las siguientes situaciones corresponde a la fase final de la enfermedad?",
+      "opciones": [
+        "Paciente con cáncer de próstata con metástasis óseas en tratamiento con acetato de abiraterona.",
+        "Paciente con cáncer de mama con metástasis hepáticas que únicamente ha recibido tratamiento con letrozol.",
+        "Paciente con cáncer de pulmón tratado con radioterapia hace 15 meses, con recaída local y metástasis ganglionares y hepáticas, sin respuesta a tercera línea de tratamiento con quimioterapia.",
+        "Paciente con glioblastoma multiforme intervenido hace una semana, pendiente de iniciar tratamiento adyuvante con radioterapia y quimioterapia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción de respuesta 3 es la única que cumple con las características de enfermedad terminal: enfermedad avanzada, falta de respuesta a tratamiento específico, sintomatología intensa y múltiple, gran impacto emocional en el paciente y su familia relacionado con la presencia de la muerte, y pronóstico de vida inferior a seis meses (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "En la información al paciente con cáncer hay que tener en cuenta:",
+      "opciones": [
+        "Rigor científico y terminológico.",
+        "En caso de tumores de diagnóstico en situación avanzada, no es conveniente decir la verdad acerca del diagnóstico o pronóstico que se estima para el paciente.",
+        "El objetivo de que el médico dé información es evitar que los pacientes le denuncien.",
+        "Evitar la palabra “cáncer”."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Hablar del cáncer con rigor, usar de manera correcta los términos científicos sin ofrecer datos incorrectos o interpretaciones erróneas sobre un tipo de patología, así como sobre sus posibilidades de tratamiento (quimioterápico, radioterápico, quirúrgico, etc.), facilita el establecimiento de una correcta relación clínica y establecer un plan de tratamiento acorde a la voluntad del paciente."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Un paciente de 17 años afecto de un déficit de factor VIII de la coagulación, sufre un accidente con su bicicleta. A su llegada al hospital se encuentra consciente y orientado, pero presenta unos niveles de hemoglobina de 4,3 g/dl. El médico de guardia que valora la analítica indica que la paciente debe recibir una transfusión sanguínea de forma urgente, pero las convicciones religiosas del paciente y de su familia le impiden aceptar dicho tratamiento, con lo que ejerce un vehemente rechazo al mismo. El médico debe:",
+      "opciones": [
+        "Contactar con el juez de guardia para ponerle en conocimiento de la situación y esperar a que ordene la realización del tratamiento.",
+        "Abstenerse de realizar la trasfusión e iniciar una sedación paliativa para que el paciente no sufra.",
+        "Proceder a realizar la trasfusión a pesar de la negativa del paciente y de sus padres, y además ponerlo en conocimiento del juez.",
+        "Solicitar valoración de la competencia del paciente por parte del psiquiatra de guardia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El paciente se encuentra en situación de riesgo vital."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Pepe es traumatólogo en el hospital en el que usted trabaja. Es un magnífico médico y docente, con gran trayectoria en sus 35 años de profesión. La relación con sus pacientes y compañeros de trabajo es excelente. Antonio, otro compañero del hospital, le comenta que últimamente Pepe se muestra más despistado de lo habitual, aunque él no le da mucha importancia, y continúa con su trabajo asistencial sin ningún problema. Sin embargo, los despistes son cada vez más frecuentes, hasta el punto de que Antonio y usted han detectado algunos errores en sus técnicas, hasta entonces muy perfeccionadas, aunque por suerte sin repercusión importante para los pacientes. No obstante, Pepe continúa su trabajo y no parece darse cuenta de sus pequeños fallos. ¿Cómo actuarían Antonio y usted?",
+      "opciones": [
+        "Hablando con la Gerencia del hospital, para que conozcan el caso de Pepe y decida cómo actuar.",
+        "Hablando con el jefe de servicio de traumatología, para que conozca el caso de Pepe y decida cómo actuar.",
+        "Hablando con Pepe y explicándole la situación, y acudiendo al Colegio de Médicos si se negara a razonar.",
+        "Hablando con otros compañeros del hospital, para que conozcan el caso de Pepe y así tomar una decisión entre todos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Si un médico advierte un deterioro en las habilidades de un compañero (siendo este inconsciente de tales fallos), está obligado a comunicárselo a dicho compañero e incluso, si es necesario, deberá comunicarlo al Colegio de Médicos con la correspondiente discreción. Esto no supone una falta al deber de confraternidad, ya que la prioridad es el beneficio del paciente.\n\nSe establece así en el “Apartado 3 del Artículo 22 del Código de Deontología Médica”, exponiendo: “Si el médico no fuera consciente de tales deficiencias y estas fueran advertidas por otro compañero, este está obligado a comunicárselo y, en caso necesario, lo pondrá en conocimiento del Colegio de Médicos, de forma objetiva y con la debida discreción. Esta actuación no supone faltar al deber de confraternidad, porque el bien de los pacientes es siempre prioritario”."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Los recursos específicos de los cuidados paliativos son imprescindibles debido al incremento de las necesidades y de la complejidad de las demandas. Todas las siguientes son características fundamentales de los cuidados paliativos, EXCEPTO:",
+      "opciones": [
+        "Realizar atención integral y puntual de enfermos y familia.",
+        "Utilizar regularmente protocolos y documentación específicos.",
+        "Iniciar tratamiento sintomático lo antes posible y realizar un seguimiento estrecho de la respuesta al mismo.",
+        "Elegir los tratamientos con una posología fácil de cumplir y adecuar la vía de administración a la situación del paciente, manteniendo la vía oral siempre que sea posible."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La atención debe ser integral y continuada a pacientes y familiares. Las demás opciones de respuesta son correctas."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "El consentimiento informado es un formulario ad hoc que pretende respetar el principio de autonomía del paciente. Una de las siguientes afirmaciones es FALSA, señálela:",
+      "opciones": [
+        "Se realiza fundamentalmente de forma verbal y por escrito.",
+        "Se requiere la firma explícita del paciente cuando este va a ser sometido a procedimientos diagnósticos o terapéuticos invasivos que pueden generar secuelas graves o riesgo vital.",
+        "En casos de emergencia vital será imprescindible que la familia del paciente proceda a la firma del consentimiento si este no se encuentra capacitado.",
+        "El consentimiento informado siempre debe constar en la Historia Clínica del paciente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En casos de emergencia vital se procederá a realizar todos los procedimientos necesarios para preservar la vida del paciente sin que sea necesario obtener el consentimiento informado explícito por parte del paciente o de su familia (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "En la situación de enfermedad terminal concurren una serie de características que son importantes no solo para definirla, sino también para establecer adecuadamente la terapéutica. Todas las siguientes son características fundamentales de la enfermedad terminal, EXCEPTO:",
+      "opciones": [
+        "Presencia de una enfermedad avanzada, progresiva e incurable.",
+        "Falta de posibilidades razonables de respuesta al tratamiento específico.",
+        "Presencia de sintomatología intensa multifactorial y variable.",
+        "Pronóstico de vida inferior a nueve meses."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se considera enfermedad terminal aquella con un pronóstico vital inferior a seis meses. El resto de las opciones son correctas."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Podemos definir la agonía como el estado que precede a la muerte en aquellas situaciones en las que la vida se extingue gradualmente. Con respecto a los cuidados en las últimas horas de la vida, es FALSO que:",
+      "opciones": [
+        "No parece que la sueroterapia o la nutrición parenteral aporten beneficio en esta última fase.",
+        "En caso de padecer agitación, se suele preferir el empleo de sedantes tipo benzodiacepinas de acción ultracorta como el midazolam por su efecto sedante, miorrelajante y ansiolítico.",
+        "El paciente, al perder el reflejo nauseoso y mostrar disfagia, también presenta acumulación de secreciones orales, lo que produce unos ruidos característicos llamados estertores, que podemos disminuir mediante el uso de fármacos como la pilocarpina.",
+        "La limpieza en el interior de la boca, la aplicación de lubricantes en los labios y el uso de lágrimas artificiales son medidas que sustituyen los intentos de alimentación en esta fase."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Para disminuir los estertores debemos utilizar fármacos anticolinérgicos como la escopolamina o la buscapina. La pilocarpina es un fármaco agonista no selectivo de los receptores muscarínicos del sistema nervioso parasimpático que actúa a nivel del receptor muscarínico M3, en especial debido a su aplicación tópica, como en casos de glaucoma y xerostomía (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Antonio, Residente de primer año de Medicina se encuentra realizando una guardia de Urgencias. Está un poco nervioso porque aún no se acostumbra a llevar el ritmo de la guardia, y porque la tarde y parte de la noche ha sido ajetreada. A las 2 AM, Paco, su adjunto, le dice a Antonio que tiene un asunto que atender, pero que no tardará mucho, y que deja a su cargo a los pacientes que vengan. A la media hora Paco no ha vuelto, los pacientes se acumulan y Antonio tiene varias altas pendientes. ¿Qué haría usted a continuación si fuese Antonio?",
+      "opciones": [
+        "Firmaría las altas de los pacientes para despejar el sistema, disminuir la espera y no colapsar las Urgencias.",
+        "Correría a pedir ayuda a un Residente mayor.",
+        "Pediría consejo a mi co-Residente.",
+        "Buscaría a Paco para que revise los informes y firme las altas de los pacientes."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los Residentes no pueden firmar altas sin la supervisión de un adjunto que firme con ellos. La ley establece que la formación del Residente debe realizarse de forma progresiva y tutelada. Así se recoge en el Apartado 3.d del Artículo 20 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, de la siguiente manera: “Los Residentes deberán desarrollar, de forma programada y tutelada, las actividades previstas en el programa, asumiendo de forma progresiva, según avancen en su formación, las actividades y responsabilidades propias del ejercicio autónomo de la especialidad” (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "¿Cuál de las siguientes afirmaciones le parece MENOS apropiada para atender de forma óptima las necesidades de los enfermos terminales?",
+      "opciones": [
+        "Fomentar la comunicación entre el enfermo, su familia y los profesionales sanitarios.",
+        "Fijar un día concreto a la semana para acudir al especialista correspondiente y revisar el tratamiento pautado.",
+        "Formar un equipo interdisciplinario para optimizar el tratamiento del paciente.",
+        "Atender las necesidades del entorno familiar del paciente en relación con la enfermedad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "No debemos establecer fechas concretas en el tratamiento de los enfermos terminales, puesto que tanto el tratamiento como el seguimiento, debe realizarse a demanda, primando en todo momento la confortabilidad y la calidad de vida del paciente."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Con respecto a la utilización de AINEs en el tratamiento del dolor en cuidados paliativos, una de las siguientes afirmaciones NO es correcta. Señálela:",
+      "opciones": [
+        "Son especialmente útiles en procesos dolorosos secundarios a tumores con aumento de producción de prostaglandinas (mama, próstata y tiroides).",
+        "Se pueden usar como antipiréticos en procesos febriles de etiología tumoral.",
+        "Tienen efecto antiagregante plaquetario.",
+        "No tienen techo analgésico; al aumentar la dosis aumentamos el efecto analgésico sin aumentar la tasa de efectos secundarios a partir de un umbral determinado."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los AINEs tienen techo analgésico, si aumentamos la dosis no aumentamos la analgesia a partir de un umbral, pero sí los efectos secundarios (opción 4 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "En el ámbito de los cuidados paliativos es frecuente el uso de fármacos opioides. Señale cuál es el efecto secundario MÁS frecuente de estos fármacos y su posible tratamiento:",
+      "opciones": [
+        "Euforia: Haloperidol.",
+        "Depresión respiratoria: Oxigenoterapia.",
+        "Tos: Dextrometorfano.",
+        "Estreñimiento: Naloxona."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El estreñimiento es el efecto secundario más frecuente y no disminuye durante el curso del tratamiento. Suele responder al uso de laxantes, pero en los casos refractarios su puede utilizar naloxona por vía oral 0,4-0,8 mg, ya que actúa selectivamente sobre los receptores intestinales."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Con respecto a la objeción de conciencia en el supuesto de la solicitud de aborto por parte de una paciente que solicite tal intervención, señale lo incorrecto:",
+      "opciones": [
+        "Los objetores están obligados a suministrar información para la toma de decisiones.",
+        "Pueden ser objetores todos los profesionales implicados en el proceso.",
+        "Es un derecho no fundamental que es personal y que debe ser manifestado previamente y por escrito.",
+        "Es un derecho que se halla sometido al derecho a una atención sanitaria óptima."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Sólo pueden ser objetores de conciencia aquellos profesionales implicados de manera directa en la realización del aborto. Esta decisión ha de ser personal, no puede ser sobrevenida (es decir hay que manifestarla previamente y por escrito para que quede registrada en le expediente del profesional)"
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "La creación de los Comités de Ética como principio de la Bioética, se contempla en:",
+      "opciones": [
+        "El Código de Nüremberg.",
+        "El Convenio de Oviedo.",
+        "Los principios de Tavistock.",
+        "La Declaración Universal sobre Bioética y Derechos Humanos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "DECLARACIÓN UNIVERSAL SOBRE BIOÉTICA Y DERECHOS HUMANOS:\n\n\"a) Se deberían crear, promover y apoyar, al nivel que corresponda, comités de ética independientes, pluridisciplinarios y pluralistas con miras a:\n\na) evaluar los problemas éticos, jurídicos, científicos y sociales suscitados por los proyectos de investigación relativos a los seres humanos;\n\nb) prestar asesoramiento sobre problemas éticos en contextos clínicos;\n\nc) evaluar los adelantos de la ciencia y la tecnología, formular recomendaciones y contribuir a la preparación de orientaciones sobre las cuestiones que entren en el ámbito de la presente Declaración;\n\nd) fomentar el debate, la educación y la sensibilización del público sobre la bioética, así como su participación al respecto\"."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Pablo es un neonato con un síndrome malformativo cuya esperanza de vida es muy limitada y que lleva desde el nacimiento ingresado en una Unidad de Cuidados Intensivos con ventilación mecánica, entre otras medidas de soporte vital, sin experimentar ninguna mejoría. Tras ser minuciosamente valorada su situación clínica y su pronóstico de vida con sus padres y un Comité de Ética, se determina que las medidas que se están aplicadas son “desproporcionadas” y se decide limitar el esfuerzo terapéutico. Respecto a esta medida, es cierto que:",
+      "opciones": [
+        "Si se decide limitar el esfuerzo terapéutico, debe retirarse cualquier tipo de soporte médico, tanto fútil como no fútil, para evitar prolongar el sufrimiento del mismo.",
+        "A pesar de limitar el esfuerzo terapéutico, deben siempre llevarse a cabo medidas positivas que proporcionen al paciente una muerte digna.",
+        "El concepto de limitación del esfuerzo terapéutico incluye no iniciar una medida nueva (como la reanimación cardiovascular), sin embargo, no incluye retirar una medida previamente instaurada (como la ventilación mecánica, en este caso).",
+        "La limitación del esfuerzo terapéutico es el eufemismo de eutanasia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En UCI de pediatría y neonatología, la LET es especialmente compleja, al tratarse de niños o de recién nacidos. Los tipos de LET más habituales en pediatría y neonatología son la limitación de la ventilación mecánica, de fármacos vasoactivos y la no reanimación cardiopulmonar.\n\nExisten dos posibilidades ante una decisión de LET: no iniciar una medida (withholding) o retirar una medida previamente instaurada (withdrawing). En general, se tiende a ver las dos posibilidades como moralmente equivalentes, aunque psicológicamente resulta más difícil retirar una medida que decidir no instaurarla.\n\nFinalmente, si el paciente es candidato a LET, proceder a realizarla. Para ello, se deben evitar las medidas desproporcionadas, inútiles y fútiles; y, además, se debe decidir qué patologías sí se tratan (p. ej., si se administran antibióticos, transfusiones…), son las medidas “intermedias” (Positivas). No se deben olvidar establecer las medidas/tratamientos paliativos que sean necesarios."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Varón de 76 años con diagnóstico de cáncer gástrico avanzado que recibe tratamiento con morfina oral, manteniendo el dolor controlado. Presenta caquexia avanzada. En las últimas 24 horas comienza con un cuadro de taquicardia, hipotensión, oliguria y signo del pliegue positivo, con lo que su médico de familia decide traslado al hospital. Ante esta situación, señale su impresión diagnóstica y el tratamiento PRIORITARIO:",
+      "opciones": [
+        "Respuesta simpática al dolor: betabloqueantes y opioides mayores administrados por vía subcutánea.",
+        "Deshidratación por ingesta insuficiente: reposición de líquidos, potasio y heparina de bajo peso molecular.",
+        "Hiponatremia por SIADH: restricción hídrica y suero salino hipertónico.",
+        "Alteración hemodinámica por secuestro de líquidos en tercer espacio: suero, corticoides, diuréticos y paracentesis evacuadora."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La deshidratación es un proceso frecuente en pacientes oncológicos terminales, sobre todo en los que sufren tumores gastrointestinales. Se manifiesta por sequedad de mucosas, astenia, obnubilación, agitación, cefalea, signo del pliegue, disminución de volemia, taquicardia, hipotensión, oliguria y azoemia. El tratamiento se basa en reposición de líquidos, potasio y heparina de bajo peso molecular para prevenir fenómenos trombóticos (respuesta 2 correcta). En función de la evolución y de los que se hable con el paciente, se valorará si es preciso optimizar el tratamiento sintomático."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Con respecto a la existencia de equipos de cuidados paliativos hospitalarios y a domicilio, señale la afirmación FALSA:",
+      "opciones": [
+        "Existen estudios que demuestran una menor mortalidad de los pacientes en programa de cuidados paliativos respecto a los que continúan con tratamiento médico (quimioterápico) activo en fases avanzadas de su enfermedad oncológica.",
+        "Permite la inversión de la tendencia del lugar de fallecimiento, facilitando que un alto porcentaje de estos ocurra en el domicilio de los pacientes.",
+        "Ayuda a facilitar la identificación y comprensión por parte del paciente y de sus cuidadores principales del diagnóstico y pronóstico, y así permiten una mejor planificación de los cuidados.",
+        "Permite suplir la labor del médico de Atención Primaria en un grupo de pacientes de atención compleja."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La colaboración entre el equipo de Cuidados Paliativos y los equipos de Atención Primaria es esencial, siendo esta uno de los factores que determina de manera más clara las posibilidades del paciente de fallecer en domicilio (opción 4 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Una paciente de 54 años es diagnosticada de carcinoma de colon con carcinomatosis peritoneal. Presenta un cuadro de vómitos, estreñimiento y dolor intestinal tipo cólico de 48 horas de evolución, que en las últimas tres horas se acompaña de hipotensión, hipoventilación y obnubilación que finalmente desemboca en el fallecimiento de la paciente. De las siguientes posibles causas, indique cuál le parece la MÁS probable como causa del cuadro clínico de la paciente:",
+      "opciones": [
+        "Íleo paralítico farmacológico.",
+        "Fallo hepático fulminante por metástasis hepáticas.",
+        "Anorexia por ascitis abdominal a tensión.",
+        "Oclusión intestinal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La oclusión intestinal es un cuadro muy frecuente en el cáncer de colon y ovario. Se manifiesta con dolor abdominal, distensión abdominal, náuseas y vómitos, ausencia de peristaltismo (si es de causa mecánica), o disminución (si es de causa funcional). Localmente se produce estasis circulatorio, liberación de sustancias hipotensoras, acumulación de líquido en asas, y finalmente shock y aumento de la presión abdominal con hipotensión."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Respecto a la sedación terminal, señale la opción INCORRECTA:",
+      "opciones": [
+        "Está indicada en pacientes que se encuentran cerca de su fallecimiento.",
+        "Debe emplearse para aliviar síntomas refractarios a los tratamientos convencionales.",
+        "No está indicada cuando lo solicita el paciente en situación terminal aduciendo motivos existenciales.",
+        "Debe emplearse aunque se sospeche que va a ser la responsable de acortar la vida del paciente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El objetivo del tratamiento paliativo no es otro que el de aliviar los síntomas del paciente, asegurando su confort, siendo prioritario en pacientes en situación terminal. Por ello, se debe administrar en este tipo de pacientes tanto si presenta síntomas físicos como si lo solicita por motivos existenciales (opción 3 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "El tratamiento del dolor en enfermos terminales es complejo y requiere conocer en profundidad todas sus características. Todas las siguientes opciones son válidas en el tratamiento del dolor en enfermos terminales, EXCEPTO:",
+      "opciones": [
+        "Los analgésicos deben suministrarse a demanda del paciente, nunca con horarios establecidos.",
+        "Jamás se debe usar un placebo.",
+        "Siempre que sea posible se debe utilizar la vía oral, incluso al final de la vida.",
+        "No utilizar habitualmente preparados analgésicos compuestos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En enfermos terminales los analgésicos deben suministrarse a horas fijas, con dosis extra de rescate en caso de que sea necesario. Es importante identificar muy bien el tipo de dolor en estos pacientes, y prescribir el analgésico apropiado específico; los preparados compuestos no son apropiados. El uso de placebo es clínica y éticamente inaceptable. La vía oral es de elección."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "En el control de síntomas de los pacientes paliativos, una de las siguientes actuaciones NO es adecuada. Señálela:",
+      "opciones": [
+        "Realizar una evaluación etiológica que nos permita determinar si un síntoma es atribuible a la enfermedad neoplásica, secundario a los tratamientos recibidos o sin relación con ninguno de ellos.",
+        "Iniciar un tratamiento lo antes posible y determinar la respuesta al mismo.",
+        "Tratar siempre los síntomas que pueda presentar el paciente con todos los medios disponibles.",
+        "Monitorizar los síntomas mediante el uso de instrumentos de medida estandarizados."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es muy importante valorar la relación riesgo/beneficio y ser conscientes de que no siempre es necesario tratar todos los síntomas, como administrar antibióticos a un paciente en fase agónica con fiebre de etiología infecciosa."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Señale cuál de las siguientes situaciones se corresponde con la fase terminal de la enfermedad:",
+      "opciones": [
+        "Paciente de 45 años con hepatocarcinoma locorregionalmente avanzado que no es candidato a trasplante y ha progresado a dos tratamientos con quimioterapia intraarterial y etanol.",
+        "Paciente de 75 años con diagnóstico de carcinoma ductal infiltrante de mama con metástasis en columna dorsal que está en tratamiento con hormonoterapia.",
+        "Paciente de 67 años con diagnóstico de carcinoma microcítico de pulmón en tratamiento de primera línea con quimioterapia.",
+        "Paciente de 58 años con glioblastoma multiforme intervenido hace un año con recidiva local, pendiente de iniciar tratamiento con Temozolamida."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El paciente expuesto en la opción de respuesta 1 tiene una esperanza de vida menor de seis meses y ha fracasado a los mejores tratamientos disponibles para su enfermedad, con lo que cumple los requisitos necesarios para decir que se encuentra en situación terminal (respuesta 1 correcta). Los pacientes de las demás opciones de respuesta no cumplen dichos requisitos."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Usted es médico de familia del hospital de Motril. Estando de guardia, llega a Urgencias un paciente con crisis asmática e insuficiencia respiratoria grave que no responde a tratamiento habitual y precisa de ventilación mecánica invasiva. El residente de cuarto año de neumología comienza a realizar la intubación, pero se trata de una intubación difícil y no lo consigue. Los adjuntos de guardia de intensivos, neumología y de anestesiología han sido alertados, pero todavía no han llegado. El paciente está empeorando, adquiriendo un color azulado. Usted conoce las distintas técnicas de intubación complicada, debido a un curso que realizó el mes pasado. El residente y el enfermero le solicitan ayuda, ¿qué haría en este caso?",
+      "opciones": [
+        "Esperar a que lleguen los adjuntos y se encarguen del caso, ya que no es de su competencia.",
+        "Intentar realizar la intubación, puesto que posee los conocimientos para ello.",
+        "Pedirle al residente que lo intente de nuevo.",
+        "Llamar a otro residente con más experiencia en intubaciones difíciles."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las técnicas específicas deben realizarse por los facultativos con el título correspondiente a dichas áreas, sin embargo, cualquier titulado en medicina puede realizarlas para el beneficio del paciente si precisa de los conocimientos adecuados. Se recoge en el Artículo 24 del Código de Deontología Médica de la siguiente forma: \"los actos médicos especializados deben quedar reservados a los facultativos que posean el título correspondiente, sin perjuicio de que cualquier titulado en medicina pueda, ocasionalmente, realizarlos. A ningún médico, si posee la destreza y los conocimientos necesarios adecuados al nivel de uso que precise, se le puede impedir que los aplique en beneficio de sus pacientes. En ningún caso se podrá atribuir la condición de médico especialista en esa técnica o materia\" (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Los elementos fundamentales que definen la enfermedad terminal son todos los siguientes excepto uno, señálelo:",
+      "opciones": [
+        "Pronóstico de vida muchas veces inferior a seis meses.",
+        "Falta de posibilidades razonables de respuesta al tratamiento específico.",
+        "Ausencia de otros problemas o sintomatología multifactorial justificante.",
+        "Gran impacto emocional en el paciente y su familia, así como en el equipo terapéutico, muy relacionado con la presencia, explícita o no, de la muerte."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Suelen existir otros problemas y sintomatología multifactorial."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Un joven de 23 años, presenta de forma brusca un dolor punzante en el hemitórax izquierdo que se acompaña de disnea progresiva. Decide acudir al Servicio de Urgencias del Hospital más próximo. El médico que lo atiende constata obnubilación, cianosis, taquipnea y una exploración física compatible con neumotórax que se confirma en la radiografía de tórax. La saturación de oxígeno es del 70%. El médico cree que debe colocarse un drenaje torácico. ¿Cuál es la actitud CORRECTA?",
+      "opciones": [
+        "Solicitar el consentimiento informado antes de practicarlo.",
+        "Practicar directamente el drenaje ya que en las situaciones de urgencia puede prescindirse del consentimiento informado.",
+        "Intentar localizar a un familiar para que decida por el paciente.",
+        "No debe solicitarse dado que el drenaje no es necesario."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es la 2, ya que los facultativos podrán llevar a cabo las intervenciones clínicas indispensables en favor de la salud del paciente, sin necesidad de contar con su consentimiento: &&&a) Cuando existe riesgo para la salud pública a causa de razones sanitarias. &&&b) Cuando hay riesgo inmediato grave para la integridad física o psíquica del enfermo y no es posible conseguir su autorización."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Indique cuál de las siguientes NO ES una condición necesaria para aceptar una decisión de rechazo por parte del paciente:",
+      "opciones": [
+        "Ausencia de coacciones externas",
+        "Capacidad de entender la información recibida.",
+        "Capacidad de procesar y reflexionar sobre su situación, valorando las consecuencias de su decisión.",
+        "Tener más de 18 años"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el momento actual, la mayoría de edad para tomar decisiones sanitarias, siempre que el paciente no esté incapacitado judicialmente o presente alguna alteración en su capacidad, son los 16 años cumplidos."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "La bioética se ha definido como el estudio sistemático de las dimensiones, conductas y políticas de las ciencias de la vida y de la salud. Señale cual de los siguientes no está incluido en los 4 principios básicos de la bioética:",
+      "opciones": [
+        "Autonomía.",
+        "Benevolencia.",
+        "No maleficencia.",
+        "Justicia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El principio en beneficencia, no benevolencia."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "¿Qué principio ético requiere la solicitud de consentimiento informado del paciente para su participación en un ensayo clínico?",
+      "opciones": [
+        "Autonomía.",
+        "No maleficencia.",
+        "Equidad.",
+        "Justicia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El consentimiento informado se basa en el derecho de autonomía, ya que el paciente tiene derecho a decidir si quiere o no quiere realizarse cierta intervención, o asumir ciertos riesgos y decidir él mismo sobre su salud."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Señale cuál de las siguientes definiciones se corresponde con los objetivos de los cuidados paliativos:",
+      "opciones": [
+        "Lograr el confort físico, emocional y espiritual del paciente.",
+        "Mantener al paciente aislado de la situación mediante la sedación.",
+        "Mantener al paciente con vida el tiempo que sea necesario.",
+        "No abandonar y controlar todos los síntomas del enfermo y su familia, acompañando en el proceso de duelo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La opción 4 corresponde a los objetivos de los cuidados paliativos, entre los cuales también se menciona aliviar el dolor y otros síntomas, y mejorar la calidad de vida."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es correcta con respecto a los principios básicos de la Bioética?",
+      "opciones": [
+        "\"Son las fuentes fundamentales a partir de las cuales justificamos las pautas para la acción, los deberes y las reglas. \"",
+        "La capacidad de comprensión y la falta de coerción externa no son aplicables a la hora del ejercicio de la autonomía.",
+        "El principio de beneficencia y el de autonomía no están relacionados y, por tanto, no deben entrar en conflicto.",
+        "El principio de justicia se refiere a la compensación debida a los pacientes por las posibles malas prácticas médicas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta 1 es correcta. La capacidad de comprensión y la falta de coerción externa son fundamentales a la hora del ejercicio de la autonomía.\n\nEl principio de beneficencia y el de autonomía están relacionados y en ocasiones pueden entrar en conflicto.\n\nEl principio de justicia está en relación con la distribución equitativa de los recursos."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "¿De qué información tiene obligación de guardar secreto el profesional sanitario?",
+      "opciones": [
+        "De aquella que pueda vulnerar el honor o intimidad del paciente.",
+        "De la relativa a la enfermedad que el paciente padece.",
+        "De la relativa a las intervenciones que se le realicen al paciente.",
+        "De toda información que llegue a conocer de un paciente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Forma parte del código deontológico la obligación de guardar secreto por el profesional sanitario de toda la información que llegue a conocer de un paciente."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Una de las siguientes NO es una característica de la sedación paliativa:",
+      "opciones": [
+        "No debe acelerar la muerte",
+        "La finalidad es disminuir el nivel de consciencia para evitar sufrimiento",
+        "Puede incluir un tratamiento intensivo del dolor",
+        "Un tipo de sedación paliativa es la sedación en la agonía"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "(Aunque no se pretenda causar directamente la muerte, es aceptable ético y legalmente que las acciones llevadas a cabo para evitar sufrimiento puedan acortarla.)"
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "La exigencia que obliga a que las determinaciones diagnósticas y terapéuticas que se tomen con los pacientes respeten escrupulosamente el balance riesgo-beneficio y estén avaladas por la evidencia clínica, responde al principio bioético de:",
+      "opciones": [
+        "Autonomía.",
+        "No maleficencia.",
+        "Beneficencia.",
+        "Justicia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El enunciado corresponde a la definición del principio bioético de no maleficencia. Con la acción descrita en el enunciado se busca evitar daños innecesarios y que las medidas que se tomen globalmente produzcan mayor beneficio que daño."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "En el transcurso de la evolución de la enfermedad terminal pueden aparecer crisis de claudicación familiar. Señale la respuesta FALSA en relación a la respuesta terapéutica:",
+      "opciones": [
+        "Dar sugerencias sobre cómo comunicarse y relacionarse con el enfermo.",
+        "Revisar los últimos acontecimientos, esclarecer dudas sobre la evolución y el tratamiento.",
+        "Dejar a un lado los objetivos terapéuticos establecidos al inicio de la enfermedad terminal.",
+        "Instaurar medidas de control sintomático."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es imprescindible volver a recordar a la familia los objetivos terapéuticos establecidos con el enfermo. El resto de opciones son correctas."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "La bioética se ha definido como el estudio sistemático de las dimensiones, conductas y políticas de las ciencias de la vida y de la salud. Señale cuál de los siguientes NO está incluido en los cuatro principios básicos de la bioética:",
+      "opciones": [
+        "Autonomía.",
+        "Benevolencia.",
+        "No maleficencia.",
+        "Justicia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los cuatro principios básicos de la bioética son: autonomía, beneficencia, no maleficencia y justicia."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Mujer de 41 años que acude a la consulta de su médico de familia debido a un catarro de vías altas. En la exploración el médico aprecia hematoma periorbitario derecho y equimosis en los brazos, tronco y abdomen. La paciente se pone a llorar y explica que hace unos días sufrió una caída desde un metro de altura cuando estaba buscando algo de la parte alta de un armario. El médico debería:",
+      "opciones": [
+        "Ponerse en contacto con la asistenta social para que le acompañe a la comisaría más cercana a poner una denuncia por malos tratos.",
+        "Solicitar asistencia al psiquiatra para que ayude a obtener el testimonio de la paciente.",
+        "Tramitar el parte de lesiones por vía judicial.",
+        "Prescribir la medicación necesaria para su proceso actual y citar para una nueva revisión al cabo de una semana."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Sin un testimonio de haber sufrido malos tratos no se puede tramitar un parte de lesiones por vía judicial. En este caso el médico deberá prescribir la medicación necesaria para su proceso actual y citar para una nueva revisión al cabo de una semana (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Son excepciones al consentimiento informado por parte del paciente todas las siguientes situaciones, excepto una, señálela:",
+      "opciones": [
+        "Imperativo legal por riesgo para la salud pública.",
+        "Paciente incapacitado legalmente.",
+        "Situaciones de máxima urgencia.",
+        "Convicciones religiosas del paciente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se pregunta cuándo el paciente no tiene que realizar el CI"
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Un obstáculo ético que encuentran los clínicos frecuentemente en UCI es que el paciente intubado no puede expresar verbalmente sus deseos. Esta situación afecta al principio de:",
+      "opciones": [
+        "Beneficencia.",
+        "Justicia.",
+        "Autonomía.",
+        "Equivalencia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las dificultades de comunicación en el ámbito de los cuidados intensivos han sido desarrolladas extensamente por Levin TT et al, en siguiente trabajo: EndofLife Communication in the Intensive Care Unit. General Hospital Psychiatry 2010;32:433."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Respecto a la toma de decisiones al final de la vida en un paciente en situación de últimos días, señale la afirmación INCORRECTA:",
+      "opciones": [
+        "La negativa a intervenciones para conservar la vida del paciente puede considerarse suicidio o incluso asesinato.",
+        "La administración de antibióticos o la infusión de suero debe evitarse en estas situaciones.",
+        "Deben suspenderse aquellas actividades que se demuestren no ser útiles para el paciente.",
+        "Los médicos son los responsables de firmar la orden de no reanimación explicando los motivos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta sobre ética que puede responderse con sentido común. En la etapa final deben realizarse aquellas medidas que garanticen el confort del paciente, evitando aquellas acciones que prolonguen su sufrimiento (opción 1 incorrecta, por lo que la marcamos). Las demás opciones de respuesta son correctas."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "El secreto médico consiste en el compromiso que adquiere el médico ante el paciente y la sociedad de guardar secreto de todo lo que hubiera sido confiado por el enfermo o por las exploraciones llevadas a cabo en el transcurso de una actuación médica. En todas las siguientes situaciones es obligatorio revelar el secreto médico, EXCEPTO en la:",
+      "opciones": [
+        "Denuncia de delitos.",
+        "Declaración de enfermedades infectocontagiosas.",
+        "Declaración como testigo o perito.",
+        "Reclamación de honorarios médicos por vía judicial."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En caso de una reclamación por vía judicial de un cliente que no abona los honorarios, será suficiente con declarar el número de visitas y consultas realizadas, sin señalar nada acerca de la patología que sufría el paciente."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "La autopsia médica, se diferencia de la médico-legal en:",
+      "opciones": [
+        "No la ordena un juez",
+        "Requiere la autorización de la familia",
+        "La lleva a cabo un anatomopatólogo",
+        "Todas las anteriores son correctas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "a diferencia de la médica, la médico-legal la ordena un juez, es llevada a cabo por 1 o 2 médicos forenses y es independiente de la autorización de la familia."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Las bases de la terapéutica en pacientes terminales son todas las siguientes, EXCEPTO:",
+      "opciones": [
+        "Atención individual.",
+        "Promoción de la autonomía y de la dignidad.",
+        "Concepción terapéutica activa.",
+        "Importancia del ambiente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La familia es el núcleo fundamental de apoyo al enfermo, adquiriendo una relevancia fundamental en la atención domiciliaria. La familia requiere medidas específicas de ayuda y educación, por lo que el enfermo y la familia son el objetivo del tratamiento, no solo el enfermo de forma individual (marcamos la opción de respuesta 1)."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "En el tratamiento del dolor oncológico se utiliza habitualmente la escala analgésica de la OMS para realizar un ajuste óptimo y racional de la analgesia. De las siguientes afirmaciones, señale la FALSA:",
+      "opciones": [
+        "Si se prescriben simultáneamente dexketoprofeno, dexametasona y gabapentina, se considera que se está utilizando el primer escalón de la escala analgésica de la OMS.",
+        "No se permite la utilización de fármacos coadyuvantes en el tercer escalón analgésico.",
+        "El etoricoxib pertenece al primer escalón analgésico.",
+        "En general, no permite la utilización conjunta de opiáceos débiles (tramadol) y potentes (fentanilo) en dolores de intensidad severa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se permite la utilización de fármacos coadyuvantes en cualquier escalón analgésico. Las demás opciones de respuesta son son correctas."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Respecto a las necesidades de un paciente en situación terminal:",
+      "opciones": [
+        "Se podrían clasificar en control de síntomas, cuidados de comodidad y atención a la calidad del paciente.",
+        "La calidad de vida se puede estimar de manera precisa según la situación funcional del paciente.",
+        "El plan de cuidados en un paciente terminal debe ser elegido por los familiares del paciente, pese a que pueda colisionar con la evidencia científica disponible.",
+        "El control de síntomas es prioritario respecto a los otros dos grupos de cuidados."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La prioridad en los cuidados debe establecerse de acuerdo con las preferencias del paciente, por lo que, en ocasiones, la atención a los síntomas no tiene por qué ocupar un lugar prioritario . La calidad de vida incluye una valoración multidimensional del paciente, por lo que debe ser definida por el propio paciente."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "¿Qué es el principio del doble efecto?",
+      "opciones": [
+        "El efecto secundario de un fármaco.",
+        "Es el principio que lleva a los médicos a tratar a los pacientes en situación terminal.",
+        "Es uno de los cuatro principios de la bioética.",
+        "Es un principio aplicado en la sedación paliativa o en la agonía: pese a que de la aplicación de un/os fármaco/s se siga un acortamiento de la vida como efecto no buscado, no debe haber inconveniente en administrarlo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El principio del doble efecto justifica éticamente la sedación paliativa o en la agonía, de la cual se puede derivar un acortamiento de la vida. Sin embargo, este principio no es ni el único ni el fundamental en que se basa la atención a los pacientes en situación terminal (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "El manejo de los pacientes al final de la vida es una situación compleja que requiere un protocolo estructurado de decisiones clínicas. Señale cuál de las siguientes opciones NO es correcta:",
+      "opciones": [
+        "Apoyo psicológico al paciente y sus familiares.",
+        "Mantener sueroterapia y nutrición parenteral para garantizar la alimentación adecuada.",
+        "Proporcionar apoyo espiritual en caso necesario.",
+        "Acompañamiento físico del paciente y de sus familiares."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "No parece que la sueroterapia o la nutrición parenteral aporten ningún beneficio en esta última fase."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "No discriminar a un paciente por motivos sensibles como la raza, la religión, el género o el origen socioeconómico es un ejemplo en la práctica clínica de uno de los principios de la bioética. Selecciónelo:",
+      "opciones": [
+        "Beneficencia.",
+        "No maleficencia.",
+        "Autonomía.",
+        "Justicia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El principio de la bioética de Justicia es el principio que asegura que, independientemente de los factores relacionados con aspectos personales del paciente, este accede a los medios necesarios en su proceso diagnóstico y terapéutico (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Con respecto a la atención a pacientes en situación terminal, es CIERTO que:",
+      "opciones": [
+        "Las prioridades respecto al plan de cuidados deben establecerse exclusivamente por indicación del equipo médico-enfermero.",
+        "Los cuidados al final de la vida se dirigen únicamente al confort físico del paciente.",
+        "La asistencia médica debe ir centrada a la atención física, y la asistencia enfermera, a la atención emocional del paciente.",
+        "Los cuidados no solo deben dirigirse al paciente, sino también a sus familiares."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los cuidados al final de la vida deben dirigirse a las áreas física, mental, social y emocional del paciente, y deben integrar también a sus allegados (respuesta 4 correcta). Esta atención debe hacerse de manera conjunta, por todo el equipo sanitario, según un plan de cuidados acordado con el paciente conforme a su sistema de valores."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "En la evaluación inicial del paciente terminal, todas las actitudes y valoraciones siguientes son adecuadas, EXCEPTO:",
+      "opciones": [
+        "Valorar necesidades existenciales o espirituales.",
+        "Interrogar sobre necesidades sociales que incluyan relaciones interpersonales, cuidados y aspectos económicos.",
+        "Realizar una exploración física rigurosa, a pesar de que sea incómoda.",
+        "Evaluar síntomas psicológicos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Al final de la vida se deben evitar todas las medidas desagradables para el paciente, incluso las exploraciones físicas que le pudieran resultar incómodas."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "La comunicación de malas noticias es un proceso clínico diario en la práctica habitual. Las malas noticias son aquellas que alteran las expectativas de futuro de la persona. En relación a la comunicación de malas noticias, una de las siguientes afirmaciones NO es correcta. Señálela:",
+      "opciones": [
+        "Es importante mantener una esperanza real.",
+        "Se debe averiguar primero qué es lo que sabe el paciente.",
+        "El bloqueo postinformación ocurre tras pronunciar palabras como cáncer o muerte, la persona no puede recordar nada de lo que se le diga después.",
+        "Se debe dar toda la información al paciente y a su familia inicialmente para poder resolver sus dudas con rapidez."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la comunicación de malas noticias es necesario averiguar cuánto quiere saber el paciente y/o su familia antes de ser informados. Las demás opciones de respuesta son correctas."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Señale cuál de los siguientes criterios puede ser utilizado para considerar a un paciente con enfermedad pulmonar obstructiva crónica (EPOC) en situación de terminalidad:",
+      "opciones": [
+        "El desarrollo de hipertensión pulmonar severa y fracaso de ventrículo derecho.",
+        "Una fracción espiratoria en el primer segundo (FEV1) menor del 45%.",
+        "La presencia concomitante de una neoplasia de pulmón, cualquiera que sea su estadio.",
+        "La taquicardia durante el tratamiento con broncodilatadores en el seno de una exacerbación de EPOC."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La aparición de insuficiencia cardiaca de predominio derecho (cor pulmonale) es un criterio de enfermedad avanzada en el seno de la EPOC (respuesta 1 correcta). Por otro lado, el empeoramiento de síntomas (disnea) o signos (taquicardia) durante las exacerbaciones agudas NO deben usarse como criterios para valorar la terminalidad; para ello siempre son más útiles las valoraciones en la situación basal del paciente."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "A la hora de atender a pacientes en situaciones graves y complejas, ¿cuáles son las dos actitudes ESENCIALES para una buena relación médico-paciente?",
+      "opciones": [
+        "Demostrar buenos conocimientos y asertividad.",
+        "Tenacidad y constancia.",
+        "Empatía y compasión.",
+        "Seguridad y destreza."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta extraña sobre la relación médico-paciente, en la que nos piden que indiquemos las dos actitudes esenciales para una buena relación médico-paciente. Todas las opciones de respuesta, excepto la 3, hacen referencia a habilidades cognitivas y laborales, mientras que la 3 hace referencia a habilidades emocionales (respuesta 3 correcta). Debes recordar que para una adecuada relación médico-paciente es necesario ser capaz de ponerse en el lugar del paciente."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "El consentimiento informado es un formulario “ad hoc” que pretende respetar el principio de autonomía del paciente. Una de las siguientes afirmaciones es falsa:",
+      "opciones": [
+        "Se realiza fundamentalmente de forma escrita.",
+        "Se requiere la firma explícita del paciente cuando éste va a ser sometido a procedimientos diagnósticos o terapéuticos invasivos que pueden generar secuelas graves o riesgo vital.",
+        "En casos de emergencia vital se puede obviar la obtención del consentimiento informado escrito por parte del paciente.",
+        "El consentimiento informado siempre debe constar en la historia clínica del paciente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El consentimiento informado es un acto verbal, aunque se debe redactar por escrito cuando el tratamiento o prueba comporte, en definitiva, riesgos notorios para la salud del paciente."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Según el Código Deontológico de Medicina, el médico no abandonará a ningún paciente que necesite sus cuidados, EXCEPTO:",
+      "opciones": [
+        "Situaciones de catástrofe.",
+        "Situaciones de epidemia.",
+        "Exista riesgo vital inminente e inevitable para su persona.",
+        "Todas son ciertas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El médico no abandonará a ningún paciente que necesite sus cuidados, ni siquiera en situaciones de catástrofe o epidemia, salvo que fuese obligado a hacerlo por la autoridad competente o exista un riesgo vital inminente e inevitable para su persona."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Una paciente de 16 años, bien informada y competente, sin alteraciones cognitivas, se opone a recibir el tratamiento que su médico le prescribe, a pesar de que éste le informa de que está poniendo en peligro su vida con su decisión. El médico debe:",
+      "opciones": [
+        "Ponerse en contacto con el juez de guardia y solicitar su amparo para que la paciente reciba el tratamiento.",
+        "Solicitar autorización a sus padres o tutores legales para proceder al tratamiento.",
+        "Declarar a la paciente no apta desde el punto de vista cognitivo y proceder al tratamiento.",
+        "Abstenerse de tratar a la paciente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Con 16 años si hay peligro para la vida deben decidir los padres/tutores."
+    }
+  ]
+}

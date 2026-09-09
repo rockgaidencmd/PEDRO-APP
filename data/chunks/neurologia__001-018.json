@@ -1,0 +1,407 @@
+{
+  "materia": "neurologia",
+  "paginaInicio": 1,
+  "paginaFin": 18,
+  "anomalias": [
+    "p9: Resp. Correcta 3, pero el comentario cierra con 'Como dice la respuesta 4, el hallazgo del genoma del virus JC no implica necesariamente que se vaya a padecer la enfermedad', contenido que corresponde a la opción 3",
+    "p8: el comentario afirma 'En la esclerosis múltiple tenemos signos de la segunda motoneurona', dato incorrecto (la EM cursa con signos de primera motoneurona); no afecta a la clave marcada (opción 4)"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente de 68 años, diabético e hipertenso, que acude por presentar diplopía A la exploración presenta ptosis del ojo izquierdo, junto con localización del mismo hacia lateral. Las pupilas son isocóricas y normorrectivas. ¿Cuál es la causa más probable de dicho cuadro?",
+      "opciones": [
+        "Isquemia microvacular (diabética)",
+        "Sífilis",
+        "Infarto troncoencefálico",
+        "Aneurisma arteria comunicante posterior"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cuadro que tiene nuestro paciente es claramente una parálisis del III PC. Semiológicamente cuando nos encontremos un III PC el dato clínico que nos va a dar más pistas para clarificar la etiología es la función pupilar: si es normal deberemos pensar en un problema microvascular (DM) y si está dilatada desde el principio deberemos pensar en un problema compresivo (si el nivel de conciencia es bueno, por anatomía debemos pensar en un aneurisma de arteria comunicante posterior)"
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente con HSA espontánea que en al exploración presenta una conversación apropiada y orientada, obedeciendo órdenes verbales y apertura ocular espontánea. Presenta una ptosis palpebral derecha. Qué puntuación de la escala de la WFNS le asignarías?",
+      "opciones": [
+        "WFNS de 2",
+        "WFNS de 1",
+        "WFNS de 3",
+        "WFNS de 4"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "WFNS de 1. GCS de 15 (M=6, V=5, O=4). El déficit de par craneal no se aplica en esta escala"
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Qué entiendes por Neurocitoma del SNC?",
+      "opciones": [
+        "Es un tumor de origen glial de localización intraventricular",
+        "Es un tumor de origen neuronal de localización intraventricular",
+        "Es un tumor formado por células de aspecto epitelioide y que suele nacer del cuerpo del fórnix",
+        "Es un tumor vascular de localización intraventricular"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El neurocitoma central (Grado I de la OMS) es un tumor de estirpe neuronal que nace en la zona del agujero de Monro y cursa con hidrocefalia. Histológicamente se puede confundir con el oligodendroglioma por estar formado por células pequeñas redondeadas envueltas en un estroma de aspecto reticular y vasos finos"
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "En un paciente con sospecha de encefalopatía de Wernicke-Korsakoff, ¿cuál de las siguientes medidas sería la primera que tomaría?",
+      "opciones": [
+        "TC craneal",
+        "Punción lumbar",
+        "Administración de suero glucosado y posteriormente tiamina.",
+        "Administración inmediata de tiamina"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La tiamina (vitamina B1) es un cofactor para enzimas claves involucradas el ciclo de Krebs y en los ciclos de la pentosa fosfato y la transacetolasa. Diversas causas alteran su absorción: el alcoholismo crónico y el estado malnutricional aosciado, cirugía gastrointestinal, vómitos prolongados, quimioterapia o infecciones sistémicas. En la enfermedad de Wernicke-Korsakoff, el tratamiento radica en la reposicion inmediata de tiamina. Es importante tener en cuenta, que si se administra suero glucosado a un paciente alcohólico, se debe administrar tiamina antes o concomitantemente."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿Cuál de los items de la Escala de Coma de Glasgow tiene por sí mismo mayor valor pronóstico?",
+      "opciones": [
+        "Respuesta Ocular",
+        "Respuesta Motora",
+        "Respuesta Verbal",
+        "Puntuación Global"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La escala de coma de Glasgow sirve para clasificar la gravedad de un TCE, valorando de forma separada y objetiva 3 items: respuesta verbal, motora y ocular. Su puntuación varía desde 3 a 15. De forma aislada es la respuesta motora la que tiene mayor valor pronóstico en el paciente con TCE"
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "El nistagmo vertical es un signo que puede observarse en:",
+      "opciones": [
+        "Esclerosis múltiple.",
+        "Vértigo de Ménière.",
+        "Neuronitis vestibular.",
+        "Vértigo posicional."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "A primera vista esta es una pregunta que parece muy difícil, pero en realidad no lo es tanto. Podemos dividir las respuestas que tenemos en dos grupos claros: aquellas que pueden producir un nistagmo de origen periférico (Meniere, neurinoma del acústico, neuronitis vestibular y vértigo posicional) y la que produce un nistagmo de origen central (la esclerosis múltiple). Y es esta enfermedad en la que puede observarse un nistagmo vertical, que traduce una afectación del SNC."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Paciente de 46 años que sufre accidente de tráfico a gran velocidad. De forma espontánea el paciente no realiza movimientos ni emite sonido y permanece con los ojos cerrados. Cuando aplicamos estímulo doloroso, el paciente abre los ojos, sigue sin emitir sonido y además realiza un movimiento de extensión de ambas piernas a la vez que hace lo mismo en los antebrazos. La puntuación estimada en la escala de Glasgow sería:",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El paciente presenta el siguiente puntaje: respuesta ocular 2 (apertura ocular al estímulo doloroso), respuesta motora 2 (decerebración o extensión patológica) y respuesta verbal 1(no emite sonidos). Por ello la puntuación es de 5."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Con respecto al ácido valproico, es FALSO que:",
+      "opciones": [
+        "Es un antiepiléptico de amplio especto, siendo útil para el tratamiento de diversos tipos de crisis (parciales y/o generalizadas).",
+        "Es uno de los antiepilépticos con mayor riesgo teratogénico.",
+        "Tiene múltiples mecanismos de acción y es utilizado como antiepiléptico, estabilizador del ánimo en pacientes con trastorno bipolar y como tratamiento preventivo de migrañas.",
+        "Entre sus efectos secundarios se encuentran las alteraciones gastrointestinales, temblor y pérdida de peso."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El ácido valproico es un antiepiléptico muy eficaz y de amplio espectro. Sus principales inconvenientes son sus efectos secundarios, siendo el más relevante la teratogenicidad. También hay otros efectos secundarios menos graves, pero relativamente frecuentes: alteraciones gastrointestinales, temblor y AUMENTO de peso (opción 4 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Mujer de 55 años, en seguimiento por Neurología, que acude a su consulta de especialista en enfermedades musculares. Como datos característicos, presenta anticuerpos con la enzima que sintetiza el GABA; la glutamato descarboxilasa, en suero y LCR según muestra en su informe. El EMG muestra una descarga continua a baja frecuencia de potenciales de la unión motora que persiste en reposo. La paciente presenta una rigidez axial intensa, con dolor lumbar asociado. Presenta además como antecedentes diabetes mellitus con autoinmunidad positiva. Está siendo tratada con ácido valproico (VPA), baclofeno y diazepam. Recientemente tomó antidepresivos tricíclicos pautados por el médico de Atención Primaria - sin leer la nota de Neurología sobre esta medicación - para el dolor, con empeoramiento de la clínica. Con respecto a este cuadro, es INCORRECTO que:",
+      "opciones": [
+        "Puede asociarse a enfermedad de Hodgkin, carcinoma microcítico de pulmón, y cáncer de mama.",
+        "Se trata con bastante probabilidad de una enfermedad de Parkinson atípica sin clínica tremórica.",
+        "La reacción adversa a los tricíclicos es algo característico de la patología.",
+        "Se trata una patología que asocia en ocasiones disautonomía en su clínica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta muy difícil sobre el síndrome de la persona rígida, una enfermedad de origen poco claro, pero que con relativa frecuencia se vincula a enfermedades autoinmunes o a determinado tipo de autoanticuerpo. El verdadero valor de esta pregunta no está en su contenido, sino en desarrollar la habilidad de \"lucharla\" aun cuando no se disponga de todos los conocimientos teóricos que en apariencia son necesarios. El paciente del caso clínico tiene un síndrome de la persona rígida, enfermedad muy rara (opción 2 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "En relación con la Distrofia miotónica de Steinert, señale la verdadera:",
+      "opciones": [
+        "Tiene herencia autosómica dominante y está producida por la repetición del triplete (CTG)",
+        "Al igual que en la esclerosis múltiple los síntomas empeoran con el frío, lo que se conoce como fenómeno de Uhthoff",
+        "En las pruebas neurofisiológicas encontramos una alteración en la estimulación repetitiva",
+        "Se trata de una enfermedad con afectación muscular aislada"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La Distrofia miotónica de Steinert es una miopatía con herencia autosómica dominante y producida por la repetición del triplete (CTG). Se presenta con debilidad de la musculatura facial y distal de extremidades, y como dato característico se asocia a una dificultad para la relajación muscular (fenómeno miotónico) que empeora con el frio. No hay que olvidar que se trata de una enfermedad multisistémica (Alteración de conducción cardiaca, resistencia a la insulina, cataratas, alopecia…). Por último, el fenómeno de Uhthoff característico de la Esclerosis Múltiple consiste en el empeoramiento clínico en relación AUMENTOS de la temperatura corporal (fiebre, ejercicio físico, temperatura ambiente elevada)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de los siguientes no es un criterio diagnóstico de la Enfermedad de Parkinson?",
+      "opciones": [
+        "Bradicinesia",
+        "Rigidez",
+        "Temblor postural",
+        "Inestabilidad postural"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los criterios diagnósticos del Parkinson son bradicinesia, rigidez, temblor de reposo (no postural) e inestabilidad de la marcha. Cuidado con el tipo de temblor pues el que es criterio diagnóstico es el de reposo."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Mujer de 53 años que refiere dificultad para la deambulación desde hace 4 meses, que ha ido empeorando de forma progresiva, y, actualmente, camina con ayuda de bastones. En la exploración física, se observa debilidad muscular bilateral en los miembros inferiores (MMII), de predominio distal, más marcada en el miembro derecho (MRC 3). Sin alteraciones en la sensibilidad epicrítica ni protopática. Se observa Babinski en MID, reflejo patelar disminuido en ambos MMII. La RMN craneal no muestra LOE ni otras anomalías. La punción lumbar muestra una leve hiperproteinorraquia, con celularidad normal. El EMG muestra unos potenciales evocados de buena amplitud. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Esclerosis múltiple.",
+        "Miastenia gravis.",
+        "Guillain-Barré.",
+        "Esclerosis lateral amiotrófica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos encontramos ante una paciente que presenta debilidad muscular progresiva, de inicio asimétrico, sin que nos den datos de la afectación de la musculatura ocular, con sensibilidad conservada. Podemos observar signos de primera y segunda motoneuronas. Por lo tanto, la opción más probable sería que estamos ante un caso de esclerosis lateral amiotrófica (ELA).\n\nVeamos el resto de las opciones de respuesta:\n\n- En la esclerosis múltiple tenemos signos de la segunda motoneurona.\n\n- En la miastenia gravis el estudio de potenciales descartaría dicha enfermedad.\n\n- Si fuera un síndrome de Guillain-Barré la exploración sería diferente."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "La presencia en un paciente de trastorno en el lenguaje y cuadrantanopsia homónima superior localiza la lesión en:",
+      "opciones": [
+        "Lóbulo temporal.",
+        "Lóbulo frontal.",
+        "Lóbulo parietal.",
+        "Lóbulo occipital."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para resolver esta pregunta puede ser suficiente saber que las afasias se producen por una lesión del lóbulo temporal. La cuadrantanopsia homónima superior se produce por una lesión de las radiaciones ópticas. Recuerda que hay dos tipos de radiaciones ópticas: las superiores, que transcurren por el lóbulo parietal y que una lesión de las mismas va a producir una cuadrantanopsia homónima inferior; y las inferiores, que transcurren por el lóbulo temporal y que como hemos dicho producen una cuadrantanopsia homónima superior (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Paciente de veinticinco años de edad con antecedentes de adicción a drogas por vía parenteral presenta un cuadro de déficit motor, alteraciones del campo visual y deterioro de las funciones cognitivas superiores. El TC presenta la imagen de lesiones hipodensas en sustancia blanca que no captan contraste ni presentan edema asociado ni signos de efecto masa. Ante la patología que probablemente presenta el paciente, usted diría que es cierto:",
+      "opciones": [
+        "Una vez hecho el diagnóstico de leucoencefalopatía multifocal progresiva (LMP), si se aplica el tratamiento adecuado de forma inmediata, el pronóstico es excelente.",
+        "Sólo un pequeño porcentaje de enfermos con LMP son enfermos de SIDA.",
+        "El hallazgo de material genómico del virus JC en el sistema nervioso central de una persona sana no indica que vaya a padecer necesariamente una LMP.",
+        "Si el tratamiento de la LMP no es efectivo, la evolución del proceso será funesta, causando con toda probabilidad la muerte a partir de los dos años de enfermedad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El paciente presenta un cuadro de leucoencefalopatía multifocal progresiva, que se ha relacionado con el virus JC. Este virus pertenece al grupo de los papovavirus, y produce este cuadro en pacientes con SIDA en fases muy avanzadas (menos de 50 CD4s), con muy mal pronóstico.\n\nLa leucoencefalopatía multifocal progresiva produce lesiones múltiples que afectan a la sustancia blanca, con lo que la clínica neurológica produce focalidad de carácter muy variable (depende de la región que afecte). La imagen característica se obtiene mediante RMN, con lesiones múltiples, redondeadas, en sustancia blanca periventricular. Recuerda que, a diferencia de los abscesos de la toxoplasmosis, no existe efecto masa, es decir, no captarán contraste ni existirá edema alrededor. Para esta enfermedad, no existe tratamiento específico; la única medida eficaz es el tratamiento antirretroviral.\n\nComo dice la respuesta 4, el hallazgo del genoma del virus JC no implica necesariamente que se vaya a padecer la enfermedad. El desarrollo de este cuadro precisa una intensa inmunodepresión, por lo que un sano no tendría por qué padecerla."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Varón de 45 años con antecedentes personales de tabaquismo, diabetes mellitus tipo II, insuficiencia mitral leve, colelitiasis, úlcera gastroduodenal, intervenido quirúrgicamente de apendicitis y en tratamiento con metformina, bisoprolol y omeprazol. Desde hace año viene notando temblor de la mano derecha, el cual ha ido progresando en los últimos meses. A la exploración se objetiva temblor de brazo derecho de unos 6 Hz, postural, con leve componente en reposo y sin componente cinético. Además, se objetiva rigidez en rueda dentada del brazo derecho evocado con la maniobras de Froment. No se objetivan otros déficits neurológicos a la exploración. ¿Cuál crees que es el diagnóstico más probable?",
+      "opciones": [
+        "Parkinsonismo iatrogénico",
+        "Enfermedad de Parkinson idiopática",
+        "Temblor esencial",
+        "Temblor fisiológico"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nos presentan el caso de un varón adulto con temblor de predominio postural y leve componente en reposo, asociando signo de rueda dentada. Lo primero que debemos hacer es descartar el temblor fisiológico, ya que éste no suele tener componente en reposo y mucho menos asociar rigidez. Además, la frecuencia del temblor fisiológico es mayor, entre 8-12 Hz. Por otro lado, el parkinsonismo iatrogénico también podemos descartarlo ya que ninguno de los fármacos que toma el paciente producen parkinsonismo. Por tanto, la duda queda entre temblor esencial y enfermedad de Parkinson idiopática: lo más probable es que se trate de un temblor esencial, ya que es de predominio postural y, aunque tiene temblor en reposo, éste es leve y también puede estar presente en el temblor esencial (mientras que en el Parkinson predomina el temblor en reposo). Por otro lado, aunque pretendan despistarnos con el comienzo unilateral y la rigidez en rueda dentada, recuerda que el temblor esencial puede comenzar unilateralmente y la rueda dentada no descarta el temblor esencial. Además, en la enfermedad de Parkinson podrían aparecer otros signos como bradicinesia (criterio fundamental de síndrome parkinsoniano), rigidez más evidente e inestabilidad. Otro dato a favor del temblor esencial es que es el trastorno del movimiento más frecuente (más por tanto que la enfermedad de Parkinson)."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Señale la respuesta correcta respecto a los hematomas traumáticos intracraneales:",
+      "opciones": [
+        "La clínica más frecuente del hematoma epidural comienza con un período de inconsciencia breve, se sigue de un intervalo lúcido y finalmente aparece un estado de coma.",
+        "Ante la sospecha de un hematoma traumático cerebral, la actitud diagnóstica de elección es realizar radiografía de cráneo pues existe una fractura de cráneo asociada en un porcentaje importante de casos.",
+        "La atrofia cerebral, típica de alcohólicos crónicos y de algunos ancianos, predispone al hematoma subdural crónico.",
+        "El hematoma subdural agudo se muestra en la TC como una masa hiperdensa con forma de lenta biconvexa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta fácil sobre hematoma subdural crónico. El hematoma subdural crónico aparece sobretodo en pacientes de edad avanzada y alcohólicos crónicos, que suelen presentar cierto grado de atrofia cerebral con el consecuente aumento del espacio subdural, y en pacientes anticoagulados. El traumatismo desencadenante es a menudo tan trivial que el paciente y la familia no lo recuerdan. La clínica es muy inespecífica, puede simular una demencia. Predominan la cefalea crónica y la hipersensibilidad a la percusión sobre la lesión, que suelen variar en intensidad a lo largo del tiempo. En TC tiene forma de semiluna, pero a diferencia del hematoma subdural agudo que es hiperdenso, el crónico es hipodenso (densidad líquido). Si son sintomáticos requieren evacuación quirúrgica. Es una de las pocas causas de demencia reversible con tratamiento.\n\nRecuerda que la clínica típica del hematoma epidural es la que especifica la opción 1,pero su presentación típica no es la más frecuente.\n\nLa presencia de fractura craneal no se presenta en un elevado porcentaje de los casos, por lo que la RX simple no aporta ningún dato relevante."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Señale el enunciado FALSO en relación a los espasmos infantiles con hipsarritmia:",
+      "opciones": [
+        "El tratamiento de elección es el fenobarbital.",
+        "Con frecuencia hay trastorno neurológico subyacente.",
+        "El retraso mental es la regla.",
+        "El EEG es característico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de West es un síndrome que se caracteriza por la triada típica de:\n\n- Alteración del desarrollo psicomotor (la mayoría de los niños afectados por este síndrome presentan patología cerebral subyacente, aunque existe un pequeño porcentaje de casos idiopáticos).\n\n- La presencia de espasmos (flexores, extensores o ambos).\n\n- Hipsarritmia en el electroencefalograma interictal, que consiste en un patrón de ondas lentas de gran amplitud entre las que se intercalan puntas de modo variable.\n\nEl tratamiento de inicio se realiza con ACTH (no con fenobarbital). El ácido valproico es también una alternativa válida. Su respuesta al tratamiento suele ser muy mala."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Una paciente de 22 años consulta por disminución de agudeza visual dolorosa en ojo izquierdo. Se diagnostica de neuritis óptica. Indique qué hallazgo de los siguientes permitiría hacer un diagnóstico de esclerosis múltiple definitiva en esta paciente:",
+      "opciones": [
+        "Bandas oligoclonales en líquido cefalorraquídeo.",
+        "Alteración de potenciales evocados visuales (aumento de latencia de onda P100 en ambos ojos).",
+        "Segunda ataque 3 meses después con afectación del cerebelo.",
+        "RM inicial con múltiples (>8) lesiones periventriculares bilaterales en secuencias T2."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta básica sobre el diagnóstico de esclerosis múltiple. Tenéis que saber los criterios diagnósticos son clínicos, implicando son diseminación en tiempo y espacio. Clínicamente se establece por: a) Diseminación en espacio: varios sistemas funcionales afectados, en este caso neuritis óptica y cerebelo. b) Diseminación en tiempo: 2 o más brotes separados al menos por un mes, en este caso nos dicen que 3 meses. Por ambas cosas la única opción correcta sería la 3. Las bandas oligoclonales apoyan el diagnóstico, pero no lo establecen, y ante un primer brote que no cumple criterios de esclerosis múltiple (por ejemplo, primer episodio de neuritis óptica), se puede iniciar tratamiento modificador de la enfermedad, así como con múltiples lesiones periventriculares en T2 de RM (respuesta 4), pues son datos que indican alto riesgo de progresión a esclerosis múltiple, pero no diagnósticos per se. Respecto la respuesta 2, a todos los pacientes con sospecha de esclerosis múltiple se les realizan potenciales evocados, pues hay pacientes que pueden tener afectación y estar asintomáticos, pero esto no es un criterio diagnóstico."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Un paciente refiere episodios de dolor periocular izquierdo durante los cuales tiene una gran sensación de nerviosismo y se le enrojece dicho ojo, llorándole mucho. Suelen ocurrirle siempre a las 2 a.m. y tienen una duración de 60-120 min. ¿Cuál sería el tratamiento preventivo de primera elección?",
+      "opciones": [
+        "Indometacina.",
+        "Lamotrigina.",
+        "Verapamilo.",
+        "Litio."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nuestro paciente refiere claramente dentro de las cefaleas trigemino autonómicas un cuadro que se denomina cefalea en racimos, en cluster o de Horton. El tratamiento de elección para prevenir los epissodios son los calcioantanonistas selectivos de la circulación cerebral, en este caso verapamilo"
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Un paciente de 65 años acude a consulta por hormigueos y sensación de acorchamiento en pies en los últimos 12 meses. Tiene antecedentes de consumo de de alcohol moderado y diabetes tipo 2, diagnosticada hace 4 años y con mala adherencia al tratamiento. En la exploración física evidencias una hipoestesia leve a nivel de las manos y moderada en ambos pies. No presenta alteraciones relevantes a nivel motor ni cerebeloso. Los nervios craneales son también normales. Asimismo, presenta una marcada hiporreflexia generalizada con arreflexia aquílea. ¿Cuál de los siguientes exámenes complementarios te parece más útil en el diagnóstico?",
+      "opciones": [
+        "Estudio neurofisiológico de conducción nerviosa.",
+        "RMN medular ante la sospecha de patología discal L5-S1 bilateral.",
+        "RMN cerebral ante la sospecha de lesiones vasculares difusas en relación con su diabetes.",
+        "La clínica es inconsistente. Por el momento no creo indicada la realización de ninguna prueba complementaria."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos presenta un paciente que presenta una clínica simétrica y difusa de predominio distal, en guante y calcetín. Éste es el patrón típico de presentación de las polineuropatías. En un paciente en el que sospechemos una polineuropatía la prueba complementaria que nos ayuda a orientar el diagnóstico es el estudio neurofisiológico de conducción nerviosa ya que nos va a permitir evaluar la conducción de los nervios y si ésta está alterada, evaluar si el patrón de afectación es desmielinizante (afectación predominante de las velocidades de conducción) o axonal (afectación predominante de la amplitud de los potenciales). Debes fijarte que en este caso el enunciado nos indica que se trata de un paciente diabético y que consume alcohol, las dos causas más frecuentes de polineuropatía axonal."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Varón de 38 años sin antecedentes de interés que acude a Urgencias con cefalea de inicio brusco junto y rigidez de nuca. A la exploración la paciente permanece obnubilada. Ante la sospecha de hemorragia subaracnoidea el proceso diagnóstico OPORTUNO sería:",
+      "opciones": [
+        "Realizaría TAC craneal y en caso de ser normal, mandaría al paciente a domicilio con medicación analgésica y antiemética, porque sin duda se trata de una migraña con aura visual.",
+        "Realizaría TAC craneal y en el caso de ser normal, determinaría factor natriurético en sangre ya que si está aumentado puedo realizar el diagnóstico de hemorragia subaracnoidea.",
+        "Realizaría TAC craneal y en el caso de ser normal, llevaría a cabo punción lumbar, con centrifugación del LCR obtenido, y en caso de aparición de xantocromía realizaría RM craneal con gadolinio para localizar el aneurisma roto.",
+        "Realizaría TAC craneal y en el caso de ser normal, llevaría a cabo punción lumbar, con centrifugación del LCR obtenido, y en caso de aparición de xantocromía realizaría angiografía cerebral de 4 vasos para localizar el aneurisma roto."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el proceso diagnóstico de la HSA siempre se realizará una angiografía cerebral de 4 vasos en busca del aneurisma roto. Sin embargo, esta prueba se puede llevar a cabo si el TAC craneal revela de entrada sangre en el espacio subaracnoideo, pero si es normal se debe realizar punción lumbar para buscar la presencia de xantocromía (respuesta 4 correcta). Es frecuente la aparición de hiponatremia por secreción de factor natriurético, pero no tiene valor en el diagnóstico."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "El signo de Gowers aparece típicamente en una de las siguientes patologías de la infancia. Señálela:",
+      "opciones": [
+        "Síndrome de Guillain-Barré.",
+        "Miastenia gravis.",
+        "Miositis viral.",
+        "Distrofia muscular de Duchenne."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La distrofia muscular de Duchenne es una distrofinopatía, con herencia ligada al cromosoma X. Aparece entre los 3- 5 años, y suelen fallecer en la segunda década de la vida. La debilidad muscular progresiva, afecta predominantemente a la musculatura proximal de los miembros. Por eso, al intentar levantarse del suelo, si no tienen nada cerca donde poder apoyarse, \"trepan\" sobre si mismos para levantarse. Esta es la denominada maniobra de Gowers. La biopsia muscular y el estudio genético ayudan al diagnóstico."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Un adolescente de 15 años acude a una fiesta escolar. Esa noche se acuesta más tarde de lo habitual y se despierta en varias ocasiones, no llegando a dormir más de cuatro horas. A la mañana siguiente, mientras está preparando el desayuno, presenta una brusca sacudida en los brazos, cayéndosele el vaso de la mano. No da importancia al cuadro, continuando con su actividad habitual. Unos meses más tarde, coincidiendo con la fiesta de fin de curso, presenta a la mañana siguiente un cuadro similar, pero inmediatamente después sufre una caída al suelo, rigidez de mandíbula, convulsiones tónico-clónicas en los cuatro miembros, relajación de esfínteres y mordedura de la boca. Tras varios minutos, comienza a recuperarse lentamente, no recordando el episodio. En relación al cuadro clínico que presenta este paciente, señale la respuesta correcta:",
+      "opciones": [
+        "Es improbable que se repitan estos cuadros en el futuro, aunque no se instaure tratamiento específico.",
+        "Si se decide tratamiento específico, elegirá la carbamazepina como tratamiento de elección.",
+        "El tipo de epilepsia que presenta este paciente corresponde a una forma parcial de epilepsia.",
+        "Si se instaura tratamiento con ácido valproico, y se recomienda evitar la privación de sueño evitar el alcohol, probablemente los síntomas tendrán un buen control."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El caso del enunciado nos presenta una paciente joven que tiene episodios de sacudidas musculares involuntarias (mioclonías) junto con crisis tonicoclónicas generalizadas, probablemente desencadenadas por la privación de sueño, lo cual sugiere que se trata de una epilepsia mioclónica juvenil, una epilepsia generalizada considerada de buen pronóstico, ya que la respuesta a ácido valproico o levetiracetam es en general buena. La carbamacepina sería un fármaco preferido para crisis focales(parciales). La privación de sueño y el alcohol son factores predisponentes para presentar mioclonias. Con tratamiento apropiado la respuesta clínica suele ser satisfactoria."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Una de las siguientes características no es propia de la crisis parcial compleja:",
+      "opciones": [
+        "Presencia de aura",
+        "Presencia de automatismos",
+        "Presencia de post-crisis",
+        "Buena respuesta a etosuximida"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Todas las caractertísticas reflejadas son típicas de la crisis parcial compleja y nos permiten hacer el diagnóstico diferencial con la ausencia, salvo la buena respuesta a etosuximida que sí que es propia de la ausencia. Inicialmente el tratamiento de elección para la CPC es la carbamacepina."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "De entre los siguientes tumores metastásicos cerebrales, ¿cuál sangra RARA vez?",
+      "opciones": [
+        "Coriocarcinoma.",
+        "Carcinoma de mama.",
+        "Hipernefroma.",
+        "Melanoma."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Aunque cualquier metástasis cerebral puede producir un sangrado, debes saber que este fenómeno se produce con mayor frecuencia en unas que en otras. La más frecuente, a este respecto, es la metástasis del melanoma. Éstas son las que tienen mayor tendencia a sangrar. Sin embargo, de las que nos ofrecen, las del cáncer de mama producen este problema con bastante menor frecuencia. Otras, como el coriocarcinoma, tiroides, hipernefroma o cáncer de pulmón, tienden a sangrar con bastante mayor frecuencia que las del cáncer de mama."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Paciente 21 años, acude a consulta por empeoramiento de sus migrañas que viene padeciendo desde los 12 años, siempre son iguales, sólo que ahora han aumentado de frecuencia a 2-3 episodios por semana. Revisando los antecedentes con ella, nos refiere que presenta cólicos renales de repetición. ¿Qué fármaco evitaría utilizar como preventivo?",
+      "opciones": [
+        "Amitriptilina, puesto que se utiliza para cefaleas tensionales y la paciente lo que tiene son migrañas.",
+        "Flunarizina, puesto que el efecto en migraña es muy débil y la paciente no va a mejorar.",
+        "Topiramato, puesto que entre sus efectos adversos está el precipitar litiasis renales.",
+        "Metoprolol, puesto que al ser una mujer joven podría quedar embarazada y los betabloqueantes están altamente contraindicados en este tipo de pacientes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El topiramato es un fármaco preventivo usado ampliamente en migrañas, que como efecto adverso frecuente puede provocar urolitiasis, por lo que es una opción terapéutica a evitar cuando la paciente refiere entre sus antecedentes cólicos renales de repetición."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Las principales tipos de ataxia se incluyen entre todas las siguientes menos una, señálela",
+      "opciones": [
+        "Ataxia cerebelosa",
+        "Ataxia cortical",
+        "Ataxia sensitiva",
+        "Ataxia vestibular"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La ataxia implica un trastorno de la coordinación y desde un punto de vista localizador dicho trastorno sólo puede venir dado por un problema de no notar bien lo que me rodea (ataxia sensitiva), un problema en el órgano que me dice cómo me desplazo respecto a mi entorno (vestibular) o un problema en el órgano en sí encargado de coordinar (cerebelosa). La afectación de la corteza no produce ningún tipo de ataxia."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "El fenómeno de Cushing en algunos pacientes con hipertensión intracraneal comprende:",
+      "opciones": [
+        "Hipertensión arterial, bradicardia y alteraciones respiratorias.",
+        "Hipotensión arterial, bradicardia y depresión respiratoria.",
+        "Hipertensión arterial, taquicardia y taquipnea.",
+        "Hipotensión arterial, taquicardia y alcalosis respiratoria."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta teórica sobre la clínica de hipertensión intracraneal. La dificultad reside en la similitud de las diferentes opciones.\n\nEn fases iniciales, la hipertensión intracraneal se manifiesta por cefalea, náuseas y vómitos, visión borrosa, papiledema y diplopia (por compresión del VI par a nivel del clivus, considerándose por ello un falso signo localizador). En fases avanzadas, se manifiesta por hipertensión arterial, bradicardia y alteraciones respiratorias, constituyendo la triada de Cushing. No obstante, aunque es típica, no tomes esta tríada por algo recuente, porque sólo se observa en un tercio de los casos.\n\nRecuerda que, en los pacientes con hipertensión intracraneal, pueden aparecer úlceras de estrés a nivel gastroduodenal, que se conocen como úlceras de Cushing. Estas úlceras se deben a una hipersecreción ácida gástrica, a diferencia de las otras úlceras de estrés, que obedecen a isquemia en la mucosa."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Acude a consulta de neurología un hombre de 67 años acompañado con su mujer. Entre sus antecedentes destacada HTA, DM tipo II y cólicos renoureterales de repetición. En el último año su mujer le nota despistes cada vez más frecuentes, como por ejemplo mandarle a comprar a la carnicería y volver sin nada, así como episodios frecuentes de desorientación (por ejemplo, van a la farmacia y lo encuentra extrañado, preguntando muchas veces por qué están en ciertos lugares). Estos episodios cada vez son más frecuentes y además también presenta dificultades para tareas que antes desempeñaba sin problema: llevar las cuentas del hogar o hacer tareas de bricolaje. Considerando todo lo anterior, ¿cuál sería el manejo más adecuado en este paciente?",
+      "opciones": [
+        "Solicitar un estudio analítico, evaluación neuropsicológica y punción lumbar con biomarcadores",
+        "Solicitar un estudio analítico, evaluación neuropsicológica y TC de cráneo",
+        "Solicitar un estudio analítico, evaluación neuropsicológica, TC de cráneo y punción lumbar con biomarcadores",
+        "Solicitar un estudio analítico, evaluación neuropsicológica y PET de amiloide cerebral"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos cuentan el típico caso de un paciente con un posible deterioro cognitivo que además interfiere con actividades instrumentales de la vida diaria, lo cual es compatible con un cuadro de demencia. Además, lo más probable es que se trate de una enfermedad de Alzheimer en estadio inicial, ya que el deterioro cognitivo principalmente afecta a la orientación y a la memoria. En los pacientes con sospecha de deterioro cognitivo, el manejo diagnóstico inicial se centra en una evaluación neuropsicológica (que evalué diferentes funciones cognitivas: atención, orientación, memoria, lenguaje, funciones ejecutivas) y en estudios complementarios centrados en descartar causas secundarias de deterioro cognitivo: estudio analítico (vitaminas B12 y fólico, hormonas tiroides, serología de VIH y LUES) y un TC o RM craneal (descartar hidrocefalia crónica del adulto, hematomas subdurales…). De este modo, la respuesta correcta es la 2, ya que el resto de pruebas comentadas se piden sólo si son necesarias. La punción lumbar se reserva para casos dudosos en los que la historia y la evaluación neuropsicológica no esclarecen el diagnóstico: DC leve de curso progresivo, DC con curso atípico o demencia progresiva en menores de 65 años. Por otro lado, el PET de amiloide cerebral (PET con florbetaben) se realizaría en caso de que la punción lumbar sea rechazada por el paciente, sea no diagnóstica o esté contraindicada (trombopenia o coagulopatía). IMPORTANTE: recuerda que el diagnóstico de la enfermedad de Alzheimer es clínico y se basará fundamentalmente en la anamnesis, exploración y evaluación neuropsicológica. Los biomarcadores de LCR y el PET de amiloide son estudios complementarios que apoyan el diagnóstico cuando no es suficiente con la clínica y la evaluación neuropsicológica."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Una mujer de 28 años, con ceguera postraumática del ojo izquierdo, refiere un cuadro de 2 días de evolución de visión borrosa por el ojo derecho. Las exploraciones general y neurológica fueron normales, a excepción de la amaurosis referida del ojo izquierdo y una disminución de la agudeza visual 20/200 en el ojo derecho, con hiporreactividad del reflejo fotomotor correspondiente. Una RM craneal demostró la presencia de múltiples lesiones de sustancia blanca con distribución periventricular. El análisis del LCR mostró una glucorraquia, una proteinorraquia y un recuento celular dentro de límites normales. ¿Qué tratamiento recomendaría en estos momentos?",
+      "opciones": [
+        "Azatioprina oral.",
+        "Beta-interferón intramuscular.",
+        "Metilprednisolona intravenosa.",
+        "Prednisona oral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante un cuadro de pérdida visual monocular con fondo de ojo normal, debe sospecharse que el paciente sufre una neuritis retrobulbar. Dado que la afectación se encuentra en el nervio óptico, y no en la retina, el fondo de ojo no tendrá alteraciones. La sospecha se confirmaría explorando las pupilas, demostrando de este modo un defecto pupilar aferente relativo. La neuritis retrobulbar afecta sobre todo a mujeres jóvenes, como la que protagoniza este caso clínico. De las opciones que nos presentan, en una paciente de esta edad habría que pensar, en primer lugar, en una esclerosis múltiple (desmielinización del nervio óptico), sobre todo si existen alteraciones en la RMN como las que nos describen, que son las típicas. Dado que se trataría de un brote agudo, el tratamiento de elección serían los corticoides intravenosos. No te confundas con la respuesta 4, que sería útil en un brote leve. Se define como brote leve el que sólo tiene manifestaciones sensitivas… Pero en este caso son SENSORIALES (visión borrosa), así que no es un brote leve."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "¿Cuál de los siguientes factores es el que globalmente se relaciona con un MAYOR riesgo de ictus isquémico?",
+      "opciones": [
+        "Tabaquismo.",
+        "Hipertensión arterial.",
+        "Diabetes mellitus.",
+        "Dislipemia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Todas las opciones de respuesta son factores de riesgo para ictus isquémico; de entre ellas, la hipertensión es el factor de riesgo que más incrementa la probabilidad de padecer un ictus y también es el más prevalente (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Un hombre de 70 años presenta desde hace unos meses, sin traumatismo previo, dolor lumbar, dificultad para la marcha, pérdida de fuerza y parestesias en miembros inferiores, teniendo que pararse a los pocos metros de iniciar la misma. El paciente cada vez más va inclinando el tronco hacia adelante. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Fractura vertebral lumbar osteoporótica.",
+        "Hernia discal central L5-S1.",
+        "Estenosis del canal lumbar.",
+        "Escoliosis lumbar degenerativa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cuadro que presenta el paciente es típico de la claudicación neurógena. La causa más frecuente de la misma es una estenosis de canal secundaria a espondiloartrosis lumbar (nivel más frecuentemente afectado L4-L5 - respuesta 3 correcta -). Repasemos las demás opciones de respuesta:\n1.- En caso de fractura vertebral osteoporótica, el paciente podría tener una clínica parecida siempre y cuando haya un desplazamiento del muro posterior hacia el canal, pero esta situación es excepcional y suele cursar solo con dolor.\n2.- Una hernia discal central L5-S1 puede cursar de forma sintomática o con episodios de ciática alternante entre una pierna y la otra, no cursando con claudicación.\n4.- En caso de escoliosis, lo más común es el dolor lumbar y la ciática por estenosis foraminal."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Paciente de 22 años de edad que debuta el los meses previos con un dolor lumbociático en pierna izquierda asociado a parestesias en el territorio glúteo y parte posterior de la pierna; el radiólogo habla de que se trata un tumor del área del \"filum terminale\". Cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Astrocitoma",
+        "Cavernoma",
+        "Ependimoma",
+        "Schwannoma"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ependimoma de filum terminale. Los endimomas son tumores que en el cordón medular pueden aparecer en el interior del conducto ependimario o al final de la médula (en la zona del filum). Hay dos variedades histológicas, la de células \"claras\" y la \"mixopapilar\", esta última suele ser la más frecuente en la zona. Aunque un schwannoma también puede aparecer en la zona, nunca hablamos de schwannoma de filum, el schwannoma se asocia con el término de tumor en \"reloj de arena\""
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "materia": "endocrino",
+  "paginaInicio": 53,
+  "paginaFin": 69,
+  "anomalias": [
+    "p55: \"T4 libre 3,5 g/ml\" — falta el prefijo de la unidad (probablemente µg/ml o ng/dl); tal como está rasterizado el valor no es interpretable",
+    "p60: los electrólitos mezclan unidades: \"Sodio 124 mEq/L. Cloro 88 mEq/dL y Potasio 6,8 mEq/L\"; el cloro en mEq/dL es imposible, debería ser mEq/L",
+    "p69: en la pregunta de la diuresis abundante, la cuarta opción aparece con el numeral duplicado en el original (\"4. 4. Debemos realizar pruebas de imagen si la causa es central\"); se transcribe el texto tal cual, incluido el \"4.\" sobrante"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 53,
+      "enunciado": "Varón de 60 años, con diabetes mellitus tipo 2 de 10 años de evolución, hipertenso, con dislipemia y un IMC de 36 kg/m², en tratamiento con metformina y un agonista del receptor de GLP-1 y sin presentar complicaciones crónicas, que acude a revisión presentando un HbA1c de 8%. Aporta controles tensionales de 150/70 mmHg y de glucemia capilar de antes de desayuno de 220 mg/dL. Con respecto a los objetivos de control y modificaciones de tratamiento en este paciente, señale la afirmación CORRECTA:",
+      "opciones": [
+        "El paciente presenta una elevación de la tensión arterial. Sería suficiente con añadir un IECA o ARA II al tratamiento.",
+        "Dada la edad, tiempo de evolución de la diabetes y comorbilidades, nuestro objetivo de HbA1c sería < 7% y la glucemia preprandial debería estar entre 80 y 130 mg/dL, por lo que se podría asociar un nuevo hipoglucemiante al tratamiento. La tensión arterial debería ser < 140/90 mmHg. Añadir un IECA o ARA II.",
+        "Dada la edad, tiempo de evolución de la diabetes y comorbilidades, nuestro objetivo de HbA1c sería < 7,5% y la glucemia preprandial debería estar entre 80 y 130 mg/dL. Es posible que si le damos otra revisión en tres meses el paciente mejore insistiendo en dieta y actividad física.",
+        "No necesita ninguna modificación en el tratamiento."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los objetivos de control de glucemia preprandial serían de entre 80 y 130 mg/dL. Glucemia posprandial < 180 mg/dL. HbA1c < 7%. TA < 140/90 mmHg (respuesta 2 correcta). Los objetivos deben individualizarse atendiendo a edad del paciente, comorbilidades asociadas y tiempo de evolución."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "¿Cuál de las siguientes pruebas de laboratorio suele ser MÁS útil en clínica para distinguir la hipoglucemia del insulinoma de la ingesta de sulfonilureas?",
+      "opciones": [
+        "Medición de insulina.",
+        "Medición de proinsulina.",
+        "Medición del péptido C.",
+        "Medición de sulfonilureas en orina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Tanto el insulinoma como las sulfonilureas aumentarían la insulina y el péptido C pancreático, ya que estos fármacos tienen acción secretagoga sobre el páncreas. Aunque la elevación en general sería mayor en un insulinoma, existe un rango de solapamiento. Sin embargo, lo que está claro es que en un insulinoma no tendríamos por qué detectar sulfonilureas en orina, por lo que la opción correcta es la 4."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Señale el metabolito de la esteroidogénesis suprarrenal de MAYOR utilidad en el diagnóstico de déficit tardío de 21-hidroxilasa:",
+      "opciones": [
+        "Pregnenolona.",
+        "17-OH-pregnenolona.",
+        "17-OH-progesterona.",
+        "Dehidroepiandrosterona (DHEA)."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta fácil de respuesta directa sobre la hiperplasia suprarrenal congénita por déficit de 21-hidroxilasa. Se trata de una alteración enzimática en la esteroidogénesis suprarrenal con herencia autosómica recesiva, siendo concretamente el déficit de 21-hidroxilasa la más frecuente. En función del grado de afectación enzimática se manifiesta la forma clásica desde la etapa fetal (con pérdida salina y virilizante simple) y la no clásica o tardía en la etapa adolescente o adulta joven (sintomática y no sintomática o críptica). La clínica deriva de esta incapacidad de transformar 17-OHP en 11-desoxicortisol (déficit de cortisol) y progesterona en deoxicorticosterona (déficit de aldosterona) con el consiguiente acúmulo de 17-OHP, androstenediona, testosterona y de sus metabolitos respectivos. El diagnóstico hormonal se realiza mediante la elevación de los niveles plasmáticos de 17-OH-progesterona y posterior confirmación con la prueba de estímulo con ACTH."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Mujer de 35 años, sin antecedentes médicos de interés, que acude al servicio de Urgencias por un episodio de mareo, cefalea y palpitaciones, acompañado de sudoración. Estos mismos episodios los había presentado en alguna otra ocasión. Durante el episodio se objetiva una TA de 210/120 mmHg, con un ECG en ritmo sinusal, taquicárdico y con ondas T negativas en la cara lateral. ¿Qué patología presenta la paciente?",
+      "opciones": [
+        "Angor hemodinámico debido a una crisis hipertensiva.",
+        "Tromboembolismo pulmonar.",
+        "Síndrome carcinoide.",
+        "Feocromocitoma."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El cuadro que nos mencionan es bastante sugestivo de feocromocitoma, como puedes haberte imaginado por la HTA en forma de crisis, acompañadas de sudoración y signos de sobrecarga ventricular izquierda. Ante un caso así, debemos solicitar catecolaminas en orina de 24 horas y, si la determinación es positiva, dirigiremos el proceso diagnóstico a localizar el tumor (la zona más frecuente son las suprarrenales)."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Mujer de 35 años que presenta un cuadro nerviosismo, palpitaciones y pérdida de peso, con intolerancia al calor, se objetiva un bocio de consistencia blanda, no doloroso, así como anticuerpos antimicrosomales +, T4 libre 3,5 g/ml. TSH 0,05 mU/ml. Gammagrafía nuestra un aumento de captación global del tiroides. Se inicia tratamiento con metimazol presentando al mes un cuadro de hipotiroidismo profundo. Señale el tratamiento correcto:",
+      "opciones": [
+        "Betabloqueantes y esperar a que normalice la función tiroidea.",
+        "Disminuir la dosis de metimazol y mantener dosis durante 1-2 años.",
+        "Administrar yodo 131dada la inestabilidad de la enfermedad.",
+        "Suspender antitiroideos y añadir levotiroxina dado que lo más probable es que se trate de una Hashitoxicosis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta compleja en relación con el hipertiroidismo. Nos presentan a una paciente con un cuadro clínico y analítico compatible con hipertiroidismo primario. Los anticuerpos son positivos, existe un bocio difuso y la gammagrafía es hipercaptante, por lo que la primera sospecha diagnóstica es la enfermedad de Graves. Ante esta sospecha se inicia tratamiento con antitiroideos. La aparición de un hipotiroidismo profundo tras iniciar tratamiento con estos fármacos nos debe hacer replantearnos el diagnóstico. Este curso clínico nos orienta hacia la existencia de una Hashitoxicosis. En este cuadro pueden producirse de forma inicial anticuerpos estimulantes del tiroides y aparentar una enfermedad de Graves, pero posteriormente, por los anticuerpos antitiroideos, se produce un hipotiroidismo primario permanente. Así, la opción correcta es la 4, y se deben suspender los antitiroideos y añadir levotiroxina en dosis sustitutivas."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "La manifestación clínica más frecuente del MEN I es:",
+      "opciones": [
+        "Tumor carcinoide timico",
+        "Tumor pancreático",
+        "Adenoma hipofisario",
+        "Hiperparatiroidismo"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Recuerda que al MEN I se la conoce como a la enfermedad de las 3 p: tumores en páncreas, pituita y paratiroides. De ellas, la manifestación más frecuente, que aparece en más 90% de los pacientes, es el hiperparatiroidismo, generalmente por una hiperplasia de para tiroides."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "El 90% de las causas de hipercalcemia se deben a dos causas principalmente:",
+      "opciones": [
+        "Hiperparatiroidismo primario y tumores",
+        "Tumores y encamamiento",
+        "Enfermedades granulomatosas y tumores",
+        "Intoxicación por vitamina D junto con hiperparatiroidismo primario"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las causas más comunes son el hiperparatiroidismo primario (causa más frecuente en el medio ambulatorio) y las enfermedades malignas (causa más frecuente en el medio hospitalario), que explican el 90% de los casos. Respuesta 1 correcta."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Varón de 48 años diagnosticado de hiperparatiroidismo primario normocalcémico. El paciente se encuentra asintomático, no presenta historia de cólicos renales y presenta una densitometría ósea normal. Calciuria en orina de 24 horas 200 mg/día. Se realiza gammagrafía de paratiroides, no objetivándose la presencia de adenoma. Su actitud será:",
+      "opciones": [
+        "Derivar a cirugía para exploración quirúrgica de paratiroides.",
+        "Pedir ecografía cervical, y si no se objetiva adenoma vigilar.",
+        "Solicitar un estudio genético para descartar hipercalcemia hipocalciúrica familiar.",
+        "Recomendar disminuir la ingesta de agua."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Dado que se trata de un paciente menor de 50 años con un HPP con criterio de cirugía, y la prueba de detección no ha objetivado adenoma, se procede a una cirugía exploradora que intente localizar el adenoma."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Mujer de 19 años que consulta por oligomenorrea. Refiere pubarquia a los 8 años, menarquia a los 10 años y oligomenorrea con baches amenorreicos desde la menarquia, con empeoramiento de la clínica referida en los últimos tres años que relaciona con aumento ponderal (IMC actual 35 kg/m²). Su hermana está diagnosticada de un síndrome de ovario poliquístico. Entre las pruebas analíticas a solicitar, ¿cuál de las siguientes será de MENOR utilidad?",
+      "opciones": [
+        "17-hidroxiprogesterona.",
+        "SHBG.",
+        "Cociente LH/FSH.",
+        "Prolactina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico sobre una paciente con sospecha de síndrome de ovario poliquístico (SOP). El diagnóstico del síndrome requiere de la presencia de hiperandrogenismo clínico o bioquímico (elevación de testosterona, androstenediona o DHEA-S) y disfunción ovulatoria (en forma de oligomenorrea o imagen ecográfica con criterios de SOP). Hay que descartar otras endocrinopatías, como la hiperprolactinemia, el síndrome de Cushing (obesidad), la forma no clásica de hiperplasia suprarrenal congénita, o la presencia de tumores productores de andrógenos. La SHBG es de utilidad, ya que se emplea para calcular la testosterona libre en estas pacientes, que puede estar aumentada (siendo este el marcador más sensible de hiperandrogenemia en estas pacientes). El cociente LH/FSH, que se empleaba hace años, no es criterio diagnóstico (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Una de las siguientes pruebas NO se utiliza para el diagnóstico diferencial del síndrome de Cushing dependiente de ACTH:",
+      "opciones": [
+        "Supresión con dosis bajas de dexametasona (2 mg/día durante 2 días).",
+        "Supresión con dosis altas de dexametasona (8 mg/día durante 2 días).",
+        "Test de metopirona.",
+        "Estimulación con CRH."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta básica para realizar correctamente el diagnóstico diferencial del Síndrome de Cushing. Ante un paciente con sospecha de Cushing y tras realizarle un test de screening, la prueba de elección para confirmar el diagnóstico es la supresión débil con DXT (2mg), aunque esta prueba no es de utilidad para el diagnóstico diferencial (respuesta correcta 1). Tras esta prueba, se debe determinar el valor de la ACTH para conocer si el exceso de cortisol depende de esta hormona (ACTH suprimida orienta a origen adrenal) La supresión fuerte con DXT (8 mg) sirve para distinguir entre microadenoma hipofisario (en el que existe supresión del cortisol) de otras causas. Por útlimo recordad que el test de metopirona y el de CRH se emplean para valorar al eje hipotálamo- hipofisario- adrenal, encontrando una respuesta normal en los tumores hipofisarios y abolida en los ectópicos."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "¿Cuál de las siguientes variables NO es característica del síndrome metabólico?",
+      "opciones": [
+        "Triglicéridos mayor de 150 mg/dL.",
+        "Aumento del colesterol-LDL.",
+        "Descenso del colesterol-HDL.",
+        "Metabolismo de la glucosa alterado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El aumento de LDL-c no forma parte de los criterios utilizados para el diagnóstico de sídrome metabólico."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Un varón de 57 años, alcohólico crónico e indigente que es traído por el SAMUR al servicio de urgencias por haberle encontrado tirado en la calle inconsciente. El paciente está desconectado del medio, sin ningún tipo de respuesta a estímulos, hemodinamicamente estable. Al realizarle un control de glucemia capilar se encuentra un valor de 25 mg/dl. ¿Cuál es la causa de la hipoglucemia?:",
+      "opciones": [
+        "Estimulación de la célula beta inducida por el alcohol.",
+        "Inhibición de la gluconeogénesis por el alcohol en un paciente sin reservas hepáticas de glucógeno por el ayuno prolongado.",
+        "Hipoglucemia cetósica inducida por el alcohol.",
+        "La hepatopatía es la causa fundamental, pero el alcohol no juega ningún papel directamente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los pacientes alcohólicos crónicos tienen mayor riesgo de hipoglucemia por dos motivos: el etanol bloquea la gluconeogénesis pero no la glucogenolisis y además suelen ser pacientes que llevan varios días consumiendo alcohol sin otro tipo de alimento, por lo que su reserva de glucógeno hepático están agotadas. Las hipoglucemias en estos pacientes pueden ser severas y mortales. Recordad que los pacientes alcohólicos pueden presentar cuadros de acidosis metabólica anión gap positivo con cetonuria como consecuencia del ayuno (diagnóstico diferencial con la cetoacidosis diabética por los niveles de glucosa)."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "¿Cuál de las siguientes características anatomopatológicas es MÁS propia del carcinoma folicular de tiroides que del papilar?",
+      "opciones": [
+        "Cuerpos de psamoma.",
+        "Estructuras papilares con tallo fibrovascular.",
+        "Invasión vascular precoz.",
+        "Crecimiento lento."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El carcinoma folicular tiene tendencia a presentarse en sujetos de edad avanzada. Anatomopatológicamente se asemeja al epitelio tiroideo normal y solo se diferencia del adenoma folicular benigno si hay invasión de la cápsula o invasión vascular (respuesta 3 correcta). El carcinoma folicular se propaga rápidamente por vía hemática y el paciente puede presentar metástasis en pulmón, hueso (osteolíticas) o sistema nervioso central. Recuerda que los cuerpos de psamoma o calcificaciones en grano de arena son típicos del carcinoma papilar."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Acude a la consulta una mujer de 30 años de edad refiriendo en los tres últimos meses ansiedad, pérdida de unos 6 Kg de peso y sensación de \"nerviosismo\". En la exploración física destaca taquicardia, hiperreflexia y ausencia de bocio. En la analítica realizada los valores de la TSH son menores de 0.01 microUI/ml, la T4L está elevada y los niveles de tiroglobulina descendidos. Al realizarle una gammagrafía, se detecta una ausencia de captación en la región tiroidea. ¿Cuál le parece el diagnóstico más probable?.",
+      "opciones": [
+        "Tirotoxicosis facticia",
+        "Hipertiriodismo por enfermedad de Graves",
+        "Teratoma de ovario (estruma ovárico)",
+        "Tiroiditis subaguda"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos describen una paciente joven con síntomas y signos claramente compatibles con un hipertiroidismo que se confirma en las pruebas de laboratorio realizadas. A diferencia del hipotiroidismo, en el caso del hipertiroidismo necesitamos saber cuál es la causa del hipertiroidismo para poder elegir el tratamiento adecuado. En este caso, la paciente presenta una ausencia de captación en la gammagrafía lo que descarta el exceso de función a nivel tiroideo. Entre las distintas opciones de hipertiroidismo sin exceso de función tiroideo destacarían que la paciente presente una tiroiditis (rotura del tejido tiroideo con salida a la sangre de las hormonas preformadas) o que pueda estar tomando hormonas tiroidea. La determinación de tiroglobulina baja nos indica que se trata de una tirotoxicosis facticia."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Los pacientes hipoglucémicos con nivel de insulina excesivamente elevado, pero con una concentración de péptido C baja o inapreciable, sufren probablemente:",
+      "opciones": [
+        "Insulinoma.",
+        "Hipoglucemia artificial por administración de insulina.",
+        "Hipoglucemia artificial por administración de sulfonilureas.",
+        "Hipoglucemia reactiva."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cuando nos encontramos ante un caso de hipoglucemia con niveles altos de insulina y niveles de péptido C disminuidos tenemos que pensar en una hipoglucemia facticia por insulina exógena, puesto que ésta suprime la secreción de la insulina endógena. En la hipoglucemia inducida por la ingesta de sulfonilureas habrá hiperinsulinismo con péptido C elevado porque las sulfonilureas estimulan la secreción de insulina endógena y la única forma de diagnosticarlo será con la determinación de sulfonilureas en sangre y orina ante la sospecha clínica."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Mujer de 30 años acude a nuestra consulta por nerviosismo, palpitaciones, sudoración, pérdida de peso e intolerancia al calor e hiperdefecación. Parto sin complicaciones hace 6 semanas. En la exploración destaca un aumento del tamaño tiroideo. El estudio hormonal muestra: TSH inferior a 0,03 (0,5-5), T4L 3,5 ng/dl (1,2-2,2). La gammagrafía tiroidea presenta ausencia de captación. Señale la respuesta FALSA:",
+      "opciones": [
+        "Puede tener una recidiva posterior.",
+        "El tratamiento será antitiroideos y betabloqueantes.",
+        "Los anticuerpos antimicrosomales y antitiroglobulina pueden ser positivos.",
+        "La histología será un infiltrado linfocitario."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos presentan a una paciente con sintomatología de hipertiroidismo que además se confirma en la determinación hormonal. Otros datos de interés son el antecedente de un parto reciente y la ausencia de captación en la gammagrafía. Con estos datos el diagnóstico probable será el de tiroiditis postparto. La tiroiditis postparto se caracteriza por un cuadro de hipertiroidismo inicial seguido de hipotiroidismo con normofunción posterior. En la exploración física encontraremos un bocio de consistencia nodular pero indoloro. Estas pacientes pueden tener recidiva del cuadro especialmente en sucesivos embarazos. Los anticuerpos antitiroideos suelen ser negativos aunque en ocasiones son positivos a títulos bajos. En la histología, que no aporta nada para el diagnóstico podremos observar un infiltrado linfocitario. Dado que el hipertiroidismo se produce por una destrucción inflamatoria de la glándula con liberación de hormonas de los folículos al plasma, el tratamiento será sintomático. Administraremos betabloqueantes para el temblor, nerviosismo y taquicardia, pero los antitiroideos no se encuentran indicados (opción falsa 2)"
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Paciente de 15 años sin AP de interés y sin tratamientos crónicos consulta por talla baja y retraso del desarrollo. A la exploración presenta un peso: 46,5 kg (p15) Talla: 158 cm(p11), IMC: 18,6 kg/m2. Testes 6 cc derecho y 6-8 cc en izq. Como antecedentes familiares, su padre tuvo un retraso del desarrollo puberal. Señale la prueba diagnóstica que no estaría indicada en un primer momento:",
+      "opciones": [
+        "Edad ósea",
+        "Determinación de testosterona, FSH y LH",
+        "Determinación de IGF1",
+        "RMN hipofisaria"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El caso clínico nos está orientando a un posible retraso constitucional del crecimiento y desarrollo (antecedentes familiares, niño con escaso desarrollo puberal). En estos casos es fundamental saber cómo está su perfil hormonal (testosterona, gonadotropinas) cómo está la IGF1 (descartar que no sea un déficit de GH) y muy importante: ver la edad ósea )en el caso de ser un RCC estará retrasada).\n\nEn principio, no solicitaremos un RMN hipofisaria si sospecháramos un RCC, a no ser que tuviera persistentemente un hipogonadismo hipogonadotropo que no mejora (que es lo que se suele observar transitoriamente en pacientes con RCC)."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Llega a la sala de urgencias un lactante con vómitos, letargia y crecimiento inadecuado. Se inicia la administración de líquidos intravenosos. Los electrólitos séricos son: Sodio 124 mEq/L. Cloro 88 mEq/dL y Potasio 6,8 mEq/L. La glucosa sérica es de 35 mg/dL. El niño tiene hipotensión y áreas despigmentadas. El diagnóstico más probable es:",
+      "opciones": [
+        "Déficit de 21-hidroxilasa.",
+        "Déficit de 17-hidroxilasa.",
+        "Síndrome de Cushing.",
+        "Adrenoleucodistrofia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En esta pregunta aparece un lactante con un cuadro de vómitos, hipotensión, que además en la analítica presenta hiponatremia, hiperpotasemia e hipoglucemia. En estos casos el diagnóstico más probable es la hiperplasia suprarrenal congénita por déficit de 21 hidroxilasa. Recordad que esta patología tiene distintas formas de presentación. La más grave es la que se presenta en este caso clínico, y es la llamada forma pierde sal, en el que coexiste un déficit de aldosterona y cortisol. Es una enfermedad potencialmente grave que se corrige con la administración de hidrocortisona y fludrocortisona. Las otras 2 formas de presentación son la forma virilizante simple y la forma no clásica que se caracteriza por una pubertad precoz en los varones y la aparición de hirsutismo y oligomenorrea en las mujeres. El diagnóstico se realiza con la determinación de 17 OH progesterona, que presenta una elevación de sus concentraciones."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Señale la respuesta incorrecta sobre las incretinas en el metabolismo hidrocarbonado:",
+      "opciones": [
+        "Las incretinas estimulan la secreción de insulina por la célula beta del páncreas e inhiben la de glucagón por la célula alfa.",
+        "La incretinas retrasan el vaciamiento gástrico, reduce la ingesta de alimentos y favorece la pérdida de peso corporal.",
+        "Las incretinas son sintetizadas por las células L del íleon y colon y secretadas de 3-4 horas después de la ingesta del alimento.",
+        "Dado que la vida media es muy corta por inactivación por parte de la DPP-IV, se han desarrollado fármacos análogos a GLP-1 resistentes a dicha inactivación para el tratamiento de la DM."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las incretinas son sintetizadas por las células L del íleon y colon y secretadas inmediatamente después de la ingesta del alimento."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "El tratamiento de inicio en la DM tipo 2 suele ser:",
+      "opciones": [
+        "Dieta y ejercicio exclusivamente",
+        "Dieta ejercicio y Metformina a dosis crecientes.",
+        "Dieta, ejercicio y Metformina de entrada a dosis plenas",
+        "Dieta, ejercicio e insulina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tratamiento de base de la DM tipo 2 consiste en dieta, ejercicio y Metformina. Dado que este fármaco puede producir molestias gastrointestinales en un inicio, lo más recomendado es iniciar con dosis bajas e ir aumentando progresivamente para que el paciente tenga buena tolerancia al mismo."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Un enfermo con diabetes mellitus de tipo I (insulindependiente) de reciente comienzo NO presentará:",
+      "opciones": [
+        "Polidipsia.",
+        "Poliuria.",
+        "Aumento de peso.",
+        "Polifagia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los pacientes con DM tipo 1 suelen estar delgados, por lo que la respuesta 3 es falsa. Es en la DM tipo 2 donde suelen tener sobrepeso u obesidad, ya que tales circunstancias se relacionan con la resistencia insulínica."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Señale la afirmación FALSA respecto a la hipoglucemia y los mecanismos de defensa frente a ella:",
+      "opciones": [
+        "La hipoglucemia a corto plazo es más grave que la hiperglucemia, pudiendo llegar a provocar la muerte.",
+        "La cetogénesis es un mecanismo protector contra la hipoglucemia aguda, pues el cerebro es capaz de oxidar los cuerpos cetónicos.",
+        "El mantenimiento de la función del SNC en las primeras fases del ayuno o la hipoglucemia depende de la producción hepática de glucosa.",
+        "Se produce un descenso de la insulina y un aumento de la secreción de hormonas contrarreguladoras, de la que la más imporatnte es para mantener la glucosa plasmática es el glucagón."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La glucosa es la fuente de energía fundamental del encéfalo pero éste no puede sintetizarla por lo que precisa de un aporte continuo mediante la sangre arterial. Entre las comidas o el ayuno los niveles de glucosa se mantienen por la descomposición del glucógeno hepático y mediante la gluconeogénesis. Cuando los niveles de glucosa se aproximan a la hipoglucemia se activan dos mecanismos fisiológicos para remontarla: la disminución de la liberación de insulina y el aumento de las hormonas contrarreguladoras. Los niveles bajos de insulina reducen la captación de glucosa por los tejidos periféricos y facilitan la lipolisis y proteolisis para favorecer la gluconeogénesis. Dentro de las hormonas contrarreguladoras, el glucagón es la más importante (favorece glucogenolisis y gluconeogénesis). Las catecolaminas (adrenalina y noradrenalina) actúan como apoyo y cuando se prolonga la hipoglucemia, tanto la GH y el cortisol contribuyen a la disminución de la utilización de glucosa y a favorecer su producción. La clínica de la hipoglucemia puede dividirse en dos grupos: los síntomas adrenérgicos (temblor, nerviosismo, palpitaciones, hambre...) y los síntomas neuroglucopénicos, mareo, confusión, pérdida de conocimiento o coma, que pueden conducir a la muerte si la hipoglucemia es prolongada o por un accidente.\n\nLa cetogénesis es un mecanismo que se activa a largo plazo y no con la hipoglucemia aguda (respuesta correcta 2)"
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Acude a su consulta una paciente en tratamiento con metimazol desde hace 4 meses por una enfermedad de Graves a la que se le ha diagnosticado un embarazo. Aporta analítica con T3 y T4 altas y TSH suprimidas. ¿Cuál sería la actitud más correcta?:",
+      "opciones": [
+        "Suspender antitiroideos e iniciar propanolol.",
+        "Radioyodo urgente.",
+        "Sustituir metimazol por propiltiouracilo y mantener la dosis más baja posible que permita mantener las hormonas tiroideas en el límite alto de la normalidad.",
+        "Aconsejar interrupción del embarazo por el alto riesgo de malformaciones congénitas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nos presentan el caso clínico de una paciente diagnosticada de enfermedad de Graves, tratada con metimazol, que se encuentra embarazada. El tratamiento de esta enfermedad en el embarazo presenta una peculiaridad, y es que el fármaco de elección es el propiltiouracilo. Aunque la paciente se encuentre sintomática y presente una elevación de las hormonas tiroideas con metimazol, se debe pautar propiltiouracilo en dosis bajas para mantener la T4 en los límites superiores de la normalidad. Recordad que es fundamental evitar el hipotiroidismo materno durante el embarazo, para coseguir un desarrollo cerebral correcto del feto, mientras que el hipertiroidismo es mejor tolerado por éste."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "En el síndrome de Klinefelter la alteración cromosómica más fecuente es:",
+      "opciones": [
+        "46XX",
+        "45X0",
+        "46XY",
+        "47XXY"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La alteración cromosómica más frecuente en el síndrome de Klinefleter es 47XXY."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "En un paciente varón de 75 años, con deterioro del nivel de conciencia, hemiparesia izquierda y facial central izquierda, y cuya analítica refleja glucemia de 1.200 mg/dl. Creatinina: 3,4 mg/dl. Urea: 150 mg/dl. Na+: 145 mEq/L y orina elemental con bacteriuria, piuria, proteinuria y cetonuria leve. ¿Cuál es la media terapéutica más importante?:",
+      "opciones": [
+        "Antibioterapia empírica.",
+        "Sueroterapia agresiva.",
+        "Insulina NPH subcutánea más rápida subcutánea.",
+        "Bicarbonato iv."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Este paciente presenta una descompensación hiperglucémica hiperosmolar. En este paciente, que no nos dicen que sea diabético conocido, la causa de la descompensación probablemente sea una infección de orina (bacteriuria y piuria). Estos pacientes presentan niveles muy altos de glucosa, (generalmente > 600 mg/dl), deshidratación importante con aumento de los productos nitrogenados y sodio sérico normal o bajo por el efecto de la hiperglucemia. No suele aparecer acidosis y la cetonuria, si aparece, es leve (por el ayuno). Para el tratamiento lo fundamental es la hidratación del paciente, ya que lo que predomina es el déficit de líquidos. Se inicia aporte de líquidos con suero salino, a no ser que el Na sérico sea > 150 mEq/l, que entonces se utilizarán líquidos hipotónicos. En algunos casos el déficit de agua llega a ser de 9- 10 litros que debe corregirse lentamente para evitar empeoramiento del estado neurológico. A pesar que que la hiperglucemia suele ser severa, la insulina no es el tratamiento fundamental aunque ayuda a corregir el cuadro. Es importante también tratar la causa desencadenante, si existe."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Con respecto al síndrome de insensibilidad a andrógenos, es FALSO que:",
+      "opciones": [
+        "Es la causa más frecuente de trastorno del desarrollo sexual con cariotipo 46XY.",
+        "Existe una forma parcial (síndrome de Reifenstein) y otra completa (síndrome de Morris).",
+        "El fenotipo es característicamente masculino.",
+        "A nivel bioquímico esperaríamos encontrar niveles de testosterona normales o elevados."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el síndrome de insensibilidad a andrógenos existe un cariotipo 46XY con fenotipo femenino. Se trata de la causa más frecuente de TDS con cariotipo 46 XY (varón subvirilizado). Lo que sucede en esta patología es una insensibilidad a los andrógenos a nivel de tejido periféricos. Puede ser parcial (síndrome de Reifenstein) o completa (síndrome de Morris) con fenotipo completamente femenino (opción 3 falsa, por lo que la marcamos), siendo característica la ausencia de pelo terminal en zonas andrógeno-dependientes."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "¿Cuál de los siguientes es un marcador MÁS fiable de malnutrición en el paciente mayor?",
+      "opciones": [
+        "Pérdida de peso de 1 kg en el último mes.",
+        "Índice de masa corporal mayor de 24.",
+        "Dificultad para tragar, masticar y/o falta de apetito.",
+        "Mini Nutritional Assessment menor de 17."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El “Mini Nutritional Assessment” (MNA) es un test de cribado nutricional que está específicamente diseñado y validado para valorar el estado nutricional de la población anciana. Consta de 18 ítems que se dividen en cuatro grupos: antropometría, valoración geriátrica global, hábitos dietéticos y percepción de salud. Su puntuación máxima es de 30 puntos. En función de la puntuación global, el paciente se puede dividir en tres categorías: estado nutricional normal (de 24 a 30 puntos), riesgo de malnutrición (de 17 a 23,5 puntos) y malnutrición (menos de 17 puntos), tal y como indica la opción 4."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Dermatología deriva a un paciente que ha estado en tratamiento corticoideo durante 3 años por una dermatitis atópica severa. Las dosis de prednisona han oscilado entre los 15 mg/día y los 5 mg/día, que toma actualmente. Ante la mejoría del cuadro con ciclosporina A, su dermatólogo quiere retirar el tratamiento con cortisona. La actitud más correcta es:",
+      "opciones": [
+        "Retirar el tratamiento con prednisona directamente ya que las dosis que ha llevado son bajas.",
+        "Retirar el tratamiento con prednisona y realizar un test de ACTH al cabo de un mes para comprobar el estado del eje suprarrenal.",
+        "Cambiar prednisona por hidrocortisona en dosis fisiológicas y mantener este tratamiento hasta que el eje suprarrenal se haya recuperado, comprobando con un test de ACTH su normofunción previo retirada de hidrocortisona.",
+        "Solicitar cortisol en orina de 24 horas , y si es normal, retirar el tratamiento con prednisona."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cuando se ha tenido un tratamiento con corticoides sintéticos durante largo tiempo, el eje suprarrenal se verá inhibido. Antes de retirar el tratamiento con Prednisona, se debe reevaluar el eje. La mejor forma de hacerlo es como dice la respuesta 3, poner un corticoide más fisiológico a dosis sustitutiva, y antes de retirarlo realizar un test de ACTH para comprobar la integridad del eje."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "El coma hiperglicémico hiperosmolar no cetósico:",
+      "opciones": [
+        "Cursa con una osmolaridad plasmática eficaz >320 mOsm/kg.",
+        "Implica siempre la necesidad de tratamiento con insulina tras su curación.",
+        "Precisa un importante aporte de bicarbonato para su tratamiento.",
+        "Es una forma habitual de presentación de la diabetes juvenil."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome hiperglucémico hiperosmolar queda definido bioquímicamente por la presencia de: glucemia > 600 mg/dl, cuerpos cetónicos negativos o levemente positivos en orina o suero (en la cetoacidosis diabética son francamente positivos), pH arterial > 7,30, osmolaridad sérica efectiva > 320 mOsm/Kg y bicarbonato plasmático > 18 mEq/L."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Un varón de 48 años, sin antecedentes de interés salvo fumador de una cajetilla al día, acude a la consulta por presentar una astenia intensa, acompañándose de debilidad y atrofia de extremidades inferiores. Destaca la presencia de hiperpigmentación, hiperglucemia e hipopotasemia. ¿Qué prueba diagnóstica solicitaría en PRIMER lugar?",
+      "opciones": [
+        "Cortisol libre urinario.",
+        "Supresión con 8 mg de dexametasona.",
+        "ACTH en plasma.",
+        "Supresión con 2 mg de dexametasona."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos presentan a un paciente con antecedentes de tabaquismo importante y un síndrome constitucional, por lo que se debe sospechar la existencia de una neoplasia pulmonar. La asociación de atrofia muscular con hiperpigmentación, hiperglucemia e hipopotasemia nos debe hacer sospechar la asociación de un Cushing ectópico por secreción de ACTH (con mayor frecuencia, correspondería a un carcinoma microcítico de pulmón). Por estos motivos, se debe realizar una prueba de screening de Cushing. Dentro de las opciones de respuesta que nos ofrecen, la única prueba de screening es la determinación del cortisol libre urinario (respuesta 1 correcta). También se podría haber realizado la supresión con 1 mg de DXM nocturna. En el algoritmo diagnóstico del síndrome de Cushing, la ACTH se pediría en un segundo paso tras la confirmación previa mediante dos pruebas de screening."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "La neoplasia endocrina múltiple tipo 1 (MEN 1) se caracteriza por todo los siguiente, EXCEPTO:",
+      "opciones": [
+        "Se debe a la mutación del protooncogen RET",
+        "Prolactinoma",
+        "Hipercalcemia",
+        "Tumores de los islotes pancreáticos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La mutación del gen RET se produce en el MEN 2.\n\nPor otro lado, el MEN 1:\n\n• Se debe a una mutación en un gen supresor de tumores (gen menin en cromosoma 11). AD\n\n• La presencia de esta mutación condiciona un riesgo aumentado de desarrollar ciertos tumores endocrinos y no endocrinos:\n\n• Hiperparatiroidismo primario (90%).\n\n• Tumores gastroenteropancreáticos (70%). Destacan el gastrinoma, insulinoma y el PPP.\n\n• Tumores hipofisarios (40%). Destaca el prolactinoma."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "Varón de 73 años, exfumador. Antecedentes personales: HTA, cardiopatía isquémica con FEVI residual del 35%, diabetes mellitus tipo II en tratamiento con antidiabéticos orales. Tratamiento habitual: enalapril 20 mg/día, bisoprolol 10 mg/día, atorvastatina 40 mg/día, ácido acetilsalicílico 100 mg/día, metformina 850 mg en desayuno, comida y cena. Acude a consulta para control de su diabetes. Exploración: TA 135/85 mmHg, resto sin alteraciones. En la analítica destacan: glucemia en ayunas de 140 mg/dL, HbA1c 8%. Hemograma y resto de bioquímica en rangos normales. No refiere pérdida de peso, deterioro de clase funcional u otra sintomatología desde la última consulta. En base a los datos expuestos, ¿cuál de las siguientes sería la pauta de tratamiento MÁS adecuada para este paciente?",
+      "opciones": [
+        "Añadiría pioglitazona, manteniendo la misma pauta de metformina.",
+        "Añadiría dapagliflozina, manteniendo la misma pauta de metformina.",
+        "Sustituiría metformina por liraglutida, al ser esta más efectiva en monoterapia.",
+        "Introduciría pauta de insulina basal para alcanzar con mayor rapidez los objetivos de control glucémico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico sobre un paciente diabético tipo II con datos de mal control glucémico (HbA1c > 7%), en tratamiento farmacológico con metformina. Además, nos cuentan antecedentes de enfermedad cardiovascular, con HTA e insuficiencia cardiaca secundaria a cardiopatía isquémica (FEVI: 35%). Veamos las opciones de respuesta:\n\n1.- Recuerda que las tiazolidinadionas (pioglitazona) se han asociado a una mayor incidencia de insuficiencia cardiaca, y que los inhibidores del SGLT-2 presentan como principal efecto adverso el aumento de infecciones del tracto genitourinario.\n\n2.- A la hora de elegir el segundo antidiabético, nos basaremos en las características individuales del paciente; en este caso, al tratarse de un paciente cardiópata, la opción más adecuada de las que nos presentan sería añadir a su metformina de base dapagliflozina, un inhibidor selectivo del cotransportador sodio-glucosa SGLT-2, que aumenta la excreción renal de glucosa y ha demostrado beneficio cardiovascular en pacientes de alto riesgo (respuesta 2 correcta).\n\n3.- Ante un diabético tipo II mal controlado con un solo fármaco (generalmente metformina), la actitud actualmente recomendada es la adición de un segundo fármaco, sin modificar la pauta previa de metformina, salvo en los casos de glucemias muy descompensadas (HbA1c > 8,5%) y/o clínica cardinal florida, en los que sí estaría indicado iniciar tratamiento con insulina basal.\n\n4.- El paciente de la pregunta no refiere ni pérdida de peso ni otros síntomas de descompensación grave, por lo que en este caso la insulinoterapia no estaría indicada."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "En una paciente operada por un nódulo tiroideo, se realiza lobectomía más istmectomía. El estudio de la pieza en anatomía patológica demuestra la presencia de un carcinoma papilar de tiroides que mide 1,5 cm de diámetro. La actitud adecuada sería:",
+      "opciones": [
+        "Iniciar tratamiento supresor con tiroxina.",
+        "Dar dosis ablativa de I-131.",
+        "Se debe completar la cirugía, realizando una tiroidectomía total en un tiempo breve.",
+        "Se inicia tratamiento supresor y se completa cirugía a los 6 meses."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El carcinoma diferenciado de tiroides (papilar y folicular) tiene una supervivencia a los 20 años de casi un 95% en el papilar y 85% en el folicular, aunque por otro lado, están descritas las recidivas tumorales y metástasis incluso tras este período, lo que obliga a un seguimiento de por vida de estos pacientes. El tratamiento de elección hoy en día es la tiroidectomía total con linfadenectomía en caso de afectación ganglionar. Sólo se considera la cirugía conservadora en los casos de papilar menor de un centímetro de diámetro en pacientes de bajo riesgo, unifocales y sin metástasis. Posteriormente se procede a la ablación de restos tiroideos con I- 131, incluso si se evidencian metástasis estaría indicado dicho tratamiento a dosis altas. Los pacientes reciben tratamiento supresor con tiroxina de por vida y en caso de elevación de tiroglobulina se someten a un rastreo con yodo radiactivo para posterior ablación de los restos o metástasis captantes. Puede ocurrir que la tiroglobulina esté elevada y el rastreo sea negativo, indicando que el tumor se ha indiferenciado, estando obligados a realizar otras pruebas de imagen para descartar metástasis."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Para estudio de la patología estructural tiroidea utilizamos las siguientes pruebas excepto:",
+      "opciones": [
+        "Gammagrafía tiroidea",
+        "Radiografía de tórax",
+        "TAC cervical",
+        "Ecografia tiroidea"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cuando un paciente refiere nódulos, bocio o clínica compresiva tiroidea, las pruebas más útiles a la hora de valorar el parénquima tiroideo, sus dimensiones y afectación de estructuras vecinas son el TAC, RMN, la ecografía y la Rx tórax. En cambio, la gammagrafía sólo la vamos a solicitar si existe hipertiroidismo; por lo tanto es una prueba que se utiliza para valoración de una disfunción, y no de una alteración estructural."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Los síntomas diarreicos conducen a alteraciones electrolíticas múltiples. Señale cuáles son:",
+      "opciones": [
+        "Hipercalcemia, hipofosforemia, hiponatremia e hipopotasemia.",
+        "Hipocalcemia, hipofosforemia, hipernatremia e hiperpotasemia.",
+        "Hipocalcemia, hipofosforemia, hiponatremia e hipopotasemia.",
+        "Hipercalcemia, hipofosforemia, hiponatremia e hiperpotasemia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el intestino delgado normalmente se absorbe el 99% del agua e iones contenidos en los alimentos ingeridos. Si consideramos que bebemos alrededor de 2 L de agua diarios, las secreciones gastrointestinales aportan alrededor de 6- 7 L, y en las heces fecales solo se eliminan unos 50- 150 ml de agua, lo que significa que el intestino absorbe 8 a 9 L diarios. Esto cambia si existe diarrea, pues se alteran los mecanismos normales de absorción, produciendose una eliminación excesiva por heces de todo tipo de iones: Na, K, Ca, fósforo, Mg, bicarbonato. Por tanto la opción correcta es la 3."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "¿Cuál de estas pruebas NO se utiliza en el estudio del déficit de la hormona de crecimiento?",
+      "opciones": [
+        "Sobrecarga oral de glucosa.",
+        "Hipoglucemia insulínica.",
+        "Test de arginina.",
+        "Ejercicio físico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La sobrecarga oral de glucosa se utiliza en la ACROMEGALIA, no en el déficit de hormona de crecimiento (respuesta falsa 1).\n\nCuando sospechamos un déficit, lo que debemos realizar son pruebas de estimulación. Dado que la hipoglucemia constituye un estímulo para la liberación de GH, la prueba diagnóstica de elección es la hipoglucemia insulínica, considerándose como normal la elevación de las cifras de GH por encima de 10 microgramos/L en niños, y por encima de 3mcg/L en el adulto. Esta prueba está contraindicada en pacientes con enfermedad cardiaca y cerebrovascular, pacientes ancianos o con trastornos convulsivos.\n\nLos niveles de IGF- 1, considerados según edad y sexo, también pueden ayudar a establecer el diagnóstico.\n\nUna vez confirmado el diagnóstico bioquímico de déficit de GH, SIEMPRE se debe realizar una prueba de imagen hipofisaria (RM)."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "La neoplasia endocrina múltiple tipo 1 (MEN-1) se debe a:",
+      "opciones": [
+        "Una mutación activadora en el gen de la menin",
+        "Una mutación activadora en el gen RET",
+        "Una mutación inactivadora en el gen menin",
+        "Una mutación inactivadora en el gen RET"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El MEN-1 se debe a una mutación inactivadora en el gen menin localizado en el cromosoma 11 (sin una función claramente establecida)."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "Paciente que acude remitido por hipertensión arterial de difícil control a pesar de utilizar 4 fármacos (uno de ellos diurético). En su analítica destaca la presencia de hipopotasemia marcada en varias analíticas previas. Ante la sospecha de hiperaldosteronismo decides realizar una prueba de cribado calculando el índice Aldosterona/Actividad de renina plasmática. ¿Cuál de las siguientes recomendaciones no es necesario seguir para realizar esta prueba de cribado?.",
+      "opciones": [
+        "Replecionar adecuadamente los niveles de potasio",
+        "No restringir los aportes de sodio para evitar depleción de volumen",
+        "Suspender fármacos como los alfa-bloqueantes",
+        "Suspender fármacos como la espironolactona"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cuando realizamos una prueba de cribado de hiperaldosteronismo, habitualmente las características clínicas del paciente suelen ser llamativas por lo que debemos evitar en la medida de lo posible un resultado falso negativo (nos llevaría a decirle al paciente que no tiene ningún problema cuando en realidad sí lo tiene). Los falsos negativos en este caso se pueden producir cuando la renina aumenta por lo que debemos evitar: depleción de potasio, depleción de volumen; uso de diuréticos y especialmente de espironolactona y eplerenona."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "Valoramos a una paciente remitida por la presencia de diuresis muy abundante (mayor de 6 litros al día) que se acompaña de osmolaridad urinaria menor de 300 mOsm/Kg. La paciente aporta una analítica realizada a primera hora de la mañana tras estar 4-5 horas sin ingerir líquidos en la que destaca la presencia de un valor de sodio de 151 mEq/L. ¿Cuál de las siguientes afirmaciones considera INCORRECTA?",
+      "opciones": [
+        "Es necesario realizar un test de deshidratación para confirmar el diagnóstico",
+        "Debemos administrar desmopresina para continuar el estudio",
+        "Si la osmolaridad urinaria aumenta claramente tras desmopresina orienta a una causa central",
+        "4. Debemos realizar pruebas de imagen si la causa es central"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se presenta una paciente clínica de poliuria y osmolaridad urinaria baja en la que debemos descartar la presencia de diabetes insípida. En el diagnóstico diferencial debemos descartar que la causa sea una ingesta excesiva de líquidos, sin embargo la paciente presenta datos claros de deshidratación y, por lo tanto, la ingesta excesiva de líquidos quedaría descartada."
+    }
+  ]
+}

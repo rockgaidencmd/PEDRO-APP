@@ -1,0 +1,593 @@
+{
+  "materia": "anatomia",
+  "paginaInicio": 19,
+  "paginaFin": 36,
+  "anomalias": [
+    "p32: el enunciado de la pregunta de Inés aparece precedido por un carácter '·' suelto (resto de viñeta del original); se transcribe sin él",
+    "p32: el bloque 'Comentario' de la pregunta de Inés está maquetado en negrita, a diferencia del resto de comentarios del documento",
+    "p35: en la pregunta 'Señala cuál de las siguientes estructuras no forma parte del tronco celiaco' las opciones llevan la numeración duplicada en el original ('1. 1. Arteria esplénica.'); se transcribe el texto tal cual, incluido el número interno",
+    "p35: la explicación de '¿Qué articulación permite la rotación de la cabeza?' no menciona la opción 1 'Atlaidoaxoidea', que en el original está escrita con las letras transpuestas"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 19,
+      "enunciado": "¿Cuáles son las raíces encargadas de la inervación del diafragma?",
+      "opciones": ["C1-C2-C3", "C-3-C4-C5", "C5-C6-C7", "C7-C8-T1"],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las raíces encargadas de la inervación del diafragma son C3-C4-C5. Es importante conocerlas ya que en las lesiones medulares que ocurren por encima de C5 suelen provocar la parálisis parcial o completa del diafragma, impidiendo la inspiración. Estos pacientes con dicha parálisis necesitan soporte ventilatorio. (Respuesta 2 correcta)"
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Señale la respuesta correcta entre la asociación de cada par craneal y su origen en el tronco del encéfalo",
+      "opciones": [
+        "Troclear - mesencéfalo.",
+        "Glosofaríngeo – protuberancia.",
+        "Facial – entre mesencéfalo y protuberancia.",
+        "Olfatorio – mesencéfalo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "No se originan en el tronco: I, II. Mesencéfalo: III y IV.\n\nProtuberancia: V. Protuberancia – bulbo: VI, VII, VIII. Bulbo: IX, X, XI, XII."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "La función MÁS importante de las isoformas FGF-1 y FGF-2 de los factores de crecimiento fibroblásticos (FGFs) es:",
+      "opciones": [
+        "Estimular la síntesis de colágeno y la proliferación de los fibroblastos.",
+        "Estimular la síntesis de colágeno y la proliferación de los queratinocitos.",
+        "Estimular la síntesis de colágeno y la migración de los queratinocitos.",
+        "Estimular la angiogénesis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los factores de crecimiento fibroblásticos (FGFs) incrementan el índice de actividad mitótica y la síntesis del ADN. Esto facilita la proliferación de varias células precursoras que forman el tejido conectivo. También tiene relación con la angiogénesis tumoral. Las funciones que se mencionan entre las todas las opciones de respuesta son todas atribuibles a los FGFs; sin embargo, el enunciado nos especifica las isoformas FGF-1 y FGF-2, especialmente implicadas en la angiogénesis y en el estímulo del tejido de granulación, incluso más que otros factores de crecimiento endotelial, como VEGF o PDGF (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "En el denominado triángulo de Farabeuf se localiza una de las siguientes estructuras nerviosas:",
+      "opciones": [
+        "Nervio hipogloso.",
+        "Ganglio estrellado del simpático.",
+        "Primera rama del trigémino.",
+        "Ganglio de Gasser."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta muy difícil, poco importante y nada rentable, no te preocupes por haberla fallado. El triángulo de Farabeuf es una pequeña región del cuello formada por la yugular interna, el tronco venoso tirolinguofacial y el nervio hipogloso (opción 1 correcta)."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Con respecto a los movimientos de rotación de la articulación del hombro, señale la afirmación que considere CORRECTA:",
+      "opciones": [
+        "El pectoral mayor es rotador lateral de la articulación glenohumeral.",
+        "El subescapular es rotador medial de la misma.",
+        "El deltoides no ejerce movimientos de rotación.",
+        "El redondo menor es rotador medial de esta articulación."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "De la anatomía del hombro lo más rentable es repasar el manguito de los rotadores. La acción fundamental del deltoides es la abducción del brazo, pero su porción clavicular tiene un componente de rotación interna y la porción espinal produce rotación externa. El pectoral mayor es un aproximador potente, sobre todo cuando el brazo está elevado, y también produce rotación interna del brazo. El manguito de los rotadores está formado por cuatro músculos: el supraespinoso, el infraespinoso, el redondo menor y el subescapular; todos ellos producen rotación externa o lateral del hombro, excepto el subescapular, que produce rotación interna (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "El fondo de Saco de Douglas es una membrana de retroperitoneo que recubre la cavidad abodominal situada entre:",
+      "opciones": [
+        "Recto y vejiga en mujeres.",
+        "Útero y vejiga en las mujeres.",
+        "Recto y vejiga en hombres.",
+        "Recto y próstata en hombres."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El fondo de Saco de Douglas se sitúa entre recto y útero en mujeres y entre recto y vejiga en varones."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿En qué zona de la mama se presentan más frecuentemente los carcinomas?",
+      "opciones": [
+        "Cuadrante superior y externo",
+        "Cuadrante inferior y externo",
+        "Cuadrante superior e interno",
+        "Cuadrante inferior e interno"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glándula mamaria se divide, a la hora de su exploración, en cuatro cuadrantes (superior y externo, superior e interno, inferior y externo, inferior e interno). El cuadrante con mayor cantidad de tejido glandular es el cuadrante superior y externo y, debido a este mayor tamaño, es por lo que la patología maligna asienta de forma más frecuente en él."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿Cuál de las siguientes estructuras no forma parte del polígono de Willis?",
+      "opciones": [
+        "Arteria comunicante anterior",
+        "Arteria comunicante posterior",
+        "Arteria cerebral media",
+        "Arteria cerebelosa posteroinferior"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta muy sencilla sobre la anatomía vascular del encéfalo. El polígono de Willis está formado por la cerebral anterior, media y posterior; y por las comunicantes anterior y posterior."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "La vena porta se forma tras la unión de dos venas, señale la opción verdadera",
+      "opciones": [
+        "Vena mesentérica superior y vena esplénica.",
+        "Vena mesentérica inferior y vena mesentérica superior",
+        "Vena mesentérica inferior y vena gástrica derecha.",
+        "Vena mesentérica inferior y vena gástrica izquierda"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: VENA PORTA = VENA ESPLÉNICA + MESENTÉRICA SUPERIOR"
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "La flexión dorsal del primer dedo del pie es dependiente de:",
+      "opciones": ["L2.", "L4.", "L5.", "S1."],
+      "respuestaCorrecta": 3,
+      "explicacion": "Conocer los dermatomas y las acciones correspondientes a cada raíz nerviosa es muy útil para orientar los casos clínicos sobre lumbociáticas; en este caso la pregunta es directa. L2 controla la flexión de la cadera por su acción sobre el músculo psoas iliaco (opción 1 incorrecta). L4 produce extensión de la rodilla (opción 2 incorrecta). L5 se encarga de la dorsiflexión del pie y la extensión del primer dedo al encargarse del tibial anterior y el extensor del primer dedo, así que es la raíz que nos hace \"andar con los talones\" (opción 3 correcta). S1 se encarga de la flexión plantar del pie por medio de los gemelos y el sóleo, y por tanto es la raíz que permite \"andar de puntillas\" (opción 4 incorrecta). (Manual CTO 4ªEd, Neurología y Neurocirugía, pag 72)"
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Se encuentra un carcinoma cerca del borde anal en un paciente. ¿A qué grupo de ganglios linfáticos va a propagarse primero?",
+      "opciones": [
+        "Ilíacos internos",
+        "Ilíacos externos",
+        "Inguinales superficiales",
+        "Inguinales profundos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los carcinomas anales ubicados por debajo de la línea pectínea drenan principalmente a los ganglios inguinales superficiales, los que se ubican por encima de la línea pectínea drenan en los ganglios ilíacos internos. Como en este caso está ubicado cerca del borde anal, consideramos que se encuentran por debajo de la línea pectínea, siendo la respuesta 3 la correcta."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuál de los siguientes músculos NO forma parte de cuádriceps crural?",
+      "opciones": [
+        "Vasto interno.",
+        "Vasto externo.",
+        "Recto anterior.",
+        "Sartorio."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El músculo sartorio es el músculo más superficial del compartimento anterior del muslo y el más largo del organismo. No forma parte del cuádriceps, siendo un músculo independiente. El nombre de “sartorio” se debe a que nos permite cruzar las piernas “como los sastres”, al realizar movimientos de flexión, abducción y rotación lateral sobre la articulación de la cadera. Junto a los músculos grácil (o recto interno) y semitendinoso, forma la pata de ganso superficial. Bajo el músculo sartorio, se encuentra el conducto de los abductores o de Hunter, que comunica la cara anterior del muslo con el hueco poplíteo."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Una de las siguientes afirmaciones sobre la parálisis faringo-laríngeas NO es cierta:",
+      "opciones": [
+        "La afectación unilateral del laríngeo superior produce una incapacidad para alcanzar tonos agudos con la voz por falta de tensión de las cuerdas vocales.",
+        "La afectación por encima del nervio faríngeo produce una parálisis con las cuerdas en posición paramediana.",
+        "La parálisis bilateral del laríngeo superior y de los nervios recurrentes deja a las cuerdas en posición intermedia.",
+        "La afectación del laríngeo superior puede producir aspiraciones."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta que puede sacarse por los conocimientos de otorrino, por ello su dificultad es media. La lesión por encima del nervio faríngeo provoca que se lesionen tanto el n.laríngeo superior como el inferior, por lo que la cuerda vocal paralizada se sitúa en posición intermedia y no paramediana (opción 2 falsa). Clínicamente si es unilateral cursa con aspiraciones y disfonía, si es bilateral ocasiona mayor riesgo de aspiraciones y de disfonía."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Uno de los siguientes músculos de la cara NO está inervado por el VII PC:",
+      "opciones": [
+        "Elevador del labio superior.",
+        "Orbicular de los ojos.",
+        "Elevador del párpado superior.",
+        "Risorio."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El músculo elevador del párpado superior es un músculo estriado que nace en la cima de la órbita y termina sobre la cara anterior del tarso. Su función es elevar el párpado superior hasta una altura de un cm aproximadamente. Está inervado por el III par craneal y no por el VII, que inerva en general los músculos de la mímica facial. El VII par es un nervio mixto y recordad que tiene un recurrido por el conducto auditivo interno en el que se distinguen en él tres segmentos: el laberíntico, el timpánico y el mastoideo."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Cuál de las siguientes estructuras NO atraviesa el seno cavernoso?",
+      "opciones": [
+        "Arteria carótida interna",
+        "Rama V3 del trigémino",
+        "Nervio maxilar",
+        "Nervio abducens"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las ramas del trigémino que atraviesan el seno cavernoso son V1(oftálmica) y V2 (maxilar)"
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "La lesión del nervio facial inmediatamente antes de la salida de la cuerda del tímpano produce:",
+      "opciones": [
+        "Pérdida de la secreción salivar de la glándula mandibular.",
+        "Pérdida de la sensibilidad gustativa de los dos tercios posteriores de la lengua.",
+        "Ninguna afectación de la motilidad de la musculatura de la cara.",
+        "Ausencia de la sensibilidad gustativa de la epiglotis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta fácil y muy importante que no deberías fallar, además se ve tanto en anatomía como en otorrino. Recordad que la porción intratemporal del VII par se divide en tres segmentos:1. Segmento laberíntico: no da ninguna rama hasta llegar al primer codo, que es el ganglio geniculado, donde sale el nervio petroso superficial mayor. Su lesión produce alteración en la secreción lacrimal.2. Segmento timpánico: discurre en el interior del conducto de Falopio hasta llegar al segundo codo, donde sale el nervio del músculo estribo. Su lesión produce algiacusia (audición dolorosa) por ausencia del reflejo estapedial.3. Segmento mastoideo: discurre también en el interior del conducto de Falopio, atraviesa la mastoides junto a la pared posterior del CAE y sale el nervio cuerda del tímpano. Su lesión produce disgeusia de los 2/3 ANTERIORES de la hemilengua ipsilateral e hiposialia (opción 1 correcta)."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "¿Qué elemento(s) anatómico(s) atraviesa(n) el foramen redondo mayor?:",
+      "opciones": [
+        "3 nervios motores del ojo, nervio oftálmico de Willis y la vena oftálmica.",
+        "Nervio maxilar.",
+        "Arteria meníngea mayor.",
+        "Nervio trigémino"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta complicada que exige un conocimiento profundo del cráneo y sus orificios ya que deja poco lugar para la deducción, por ello no te desanimes si la has fallado. La estructura anatómica que atraviesa el foramen redondo mayor es la segunda rama del trigémino o nervio maxilar (opción 2 correcta). Otro orificios importantes son el oval (lo atraviesa el nervio mandibular), el estilomastoideo (el facial), el rasgado posterior (el glosofaríngeo) y el redondo menor (la arteria meníngea media)."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Señale cuál de las siguientes afirmaciones es FALSA con respecto a la llamada \"tabaquera anatómica de la mano\":",
+      "opciones": [
+        "Su límite cubital lo marca el tendón del extensor largo del pulgar.",
+        "Su límite radial lo marcan los tendones del extensor corto del pulgar y el separador largo del pulgar.",
+        "La arteria radial cruza el fondo de la tabaquera anatómica.",
+        "El extensor corto del pulgar se inserta en la falange distal y el largo lo hace en la falange proximal del primer dedo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta compleja sobre la anatomía de la mano y la muñeca. No te preocupes demasiado si la has fallado. Recuerda que el extensor corto del pulgar se inserta sobre la falange proximal, y el largo lo hace sobre la falange distal del pulgar (por ello lo de corto y largo) (opción 4 correcta)"
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Sobre el menisco externo o lateral de la articulación de la rodilla, indique:",
+      "opciones": [
+        "Sus inserciones tibiales están muy separadas y, por ello, tiene forma de C abierta.",
+        "Se mueve menos que el menisco interno o medial.",
+        "Su cuerno anterior se inserta por delante del ligamento cruzado anterior.",
+        "Sus inserciones laterales están muy próximas y tienen forma de C muy cerrada o de O."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los meniscos de la rodilla son cuñas de fibrocartílago con forma de C, interpuestas entre los cóndilos del fémur y la tibia. El borde periférico de cada menisco es grueso, convexo y está unido a la parte interna de la cápsula articular, el borde libre por el contrario s delgado. Las superficies proximales de los meniscos son cóncavas y están en contacto con los cóndilos del fémur, las superficies distales son planas y descansan sobre la cabeza de la tibia. El menisco interno es de forma algo semicircular y es considerablemente más ancho en su parte posterior que en su parte anterior. El menisco externo es de forma más circular y cubre un mayor porcentaje de superficie articular (opción 4 correcta).\nManual CTO 6 º Ed Anatomía página 14."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Señale cuál de las siguientes ramas NO se origina del plexo intraparotídeo del VII par craneal:",
+      "opciones": ["Temporal.", "Bucales.", "Maxilar.", "Zigomáticos."],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las ramas que se originan del plexo intraparotídeo son: temporal, zigomáticas, bucales, la rama cervical (para el músculo platisma) y la marginal de la mandíbula (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Con respecto al nervio radial, señale la respuesta que considere correcta:",
+      "opciones": [
+        "Procede de C5, C6, C7, C8 y T1.",
+        "Es rama del fascículo lateral de plexo braquial.",
+        "No recoge sensibilidad distal a la muñeca.",
+        "Es muy raro que se lesione en fracturas de la diáfisis del húmero."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La inervación del brazo y la mano es un tema que se pregunta con cierta frecuencia. El nervio radial es la rama terminal de mayor diámetro del plexo braquial. Recibe fibras de todas las raíces nerviosas (opción 1 correcta)."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Existen anomalías anatómicas, pero habitualmente la arteria gastroepiploica izquierda es una rama directa de una de las siguientes arterias:",
+      "opciones": [
+        "Mesentérica inferior.",
+        "Esplénica.",
+        "Gástrica derecha.",
+        "Gástrica izquierda."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta difícil, ya que el tronco celíaco y sus ramas no son habitualmente motivo de pregunta, aparte de la complejidad anatómica de esta región.\n\nLa arteria gastroepiploica izquierda habitualmente es rama de la arteria esplénica (opción 2 correcta). Recorre la curvatura mayor del estómago, irrigando esta zona y emitiendo ramas para la porción superior del duodeno y para el epiplón mayor. Después, se anastomosa con la arteria gastroepiploica derecha, que es rama de la arteria hepática común."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Qué arteria NO recibe sangre de la arteria braquial?",
+      "opciones": [
+        "Arteria radial",
+        "Arteria cubital",
+        "Arteria axilar",
+        "Arteria interósea anterior"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La arteria braquial es la continuación de la arteria axilar, así que la arteria axilar NO RECIBE sangre de la arteria braquial sino a la inversa (opción 3 correcta).\n\nLa arteria braquial da dos grandes ramas: arteria radial (opción 1) y arteria cubital opción 2), que se anastomosan formando el arco palmar. La arteria interósea anterior (opción 4) es una rama de la arteria cubital."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Señale cuál de los siguientes músculos o grupos musculares NO interviene en los movimientos de la mandíbula:",
+      "opciones": [
+        "Pterigoideo medial",
+        "Elevador del ángulo de la boca",
+        "Masetero",
+        "Temporal"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Del movimiento de la mandíbula, tenemos que saber que hay básicamente 4 grupos de músculos que se ocupan de su elevación, es decir, cierran la boca. Estos son el masetero, el temporal y los dos pterigoideos (medial y lateral). Por otro lado, tenemos los músculos del cuello que se ocuparían del descenso de la mandíbula (abren la boca). Serían los milohioideos, digástricos, entre otros.\n\nEn la pregunta nos aparecen típicamente 3 músculos que cierran la boca (opciones 1, 3 y 4) y uno que nada tiene que ver con la mandíbula, la opción 2. La opción 2 corresponde al músculo elevador del ángulo de la boca. Este músculo forma parte del complejo de musculatura FACIAL, y se ocupa de elevar la comisura bucal."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "¿Cómo se conoce también el nódulo de de Keith y Flack?",
+      "opciones": [
+        "Nódulo Sinusal",
+        "Nódulo Auriculoventricular",
+        "Nódulo de Purkinje",
+        "Nodulo cervical"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El nódulo de Keith y Flack es más comúnmente conocido como el nódulo sinusal, (opción 1 correcta)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Cuál de los siguientes enunciados NO corresponde al músculo dorsal ancho?",
+      "opciones": [
+        "Se inserta en las apófisis espinosas vertebrales",
+        "Las fibras se dirigen y se insertan en la corredera bicipital",
+        "Se inserta en el borde lateral de la escápula",
+        "Dirige el brazo hacia atrás, hacia dentro y lo rota internamente"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El músculo dorsal ancho es el músculo más grande, ancho y fuerte del tronco; localizado posterior al brazo tiene su origen en las apófisis espinosas de vértebras T7-T12, fascia toracolumbar, cresta ilíaca y costillas 10-12. Son sus fibras inferiores en un trayecto casi horizontal las que convergen en un grueso fascículo, que atraviesa el ángulo inferior de la escápula (opción 3 incorrecta). Termina en un tendón de 7cm que pasa en frente del redondo mayor y se inserta en la corredera bicipital del húmero, por su cara posterior.\n\nEs un músculo aductor y rotador interno. Cuando toma su punto fijo en el brazo eleva el tronco y al mismo tiempo las cuatro últimas costillas."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "¿Cuál de los siguientes elementos pasa por el surco intertubercular del húmero?",
+      "opciones": [
+        "Tendón del músculo pectoral menor",
+        "Tendón del músculo coracobraquial",
+        "Tendón del músculo bíceps braquial (porción larga)",
+        "Tendón del músculo tríceps braquial (porción larga)"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Troquíter y troquín forman los dos tubérculos que podemos encontrar en el húmero, donde se insertan los músculos del manguito de los rotadores, muy importantes en la movilidad y patología de hombro. El tendón largo del músculo bíceps braquial discurre entre ambos tubérculos (surco intertubercular o corredera bicipital) (opción 3 correcta) y es la zona que debe palparse para explorar la patología de dicho tendón (tendinitis, roturas, etc)."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Respecto a las capas protectoras del riñón, señale el orden correcto de fuera hacia dentro:",
+      "opciones": [
+        "Cápsula fibrosa – cápsula adiposa – fascia de Gerota – cuerpo adiposo pararrenal.",
+        "Cápsula adiposa – cápsula fibrosa– cuerpo adiposo pararrenal – fascia de Gerota.",
+        "Cuerpo adiposo pararrenal – fascia de Gerota – cápsula adiposa – cápsula fibrosa.",
+        "Fascia de Gerota – cuerpo adiposo pararrenal – cápsula fibrosa – cápsula adiposa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cuerpo adiposo pararrenal (entre fascia renal y fascia transversalis) – fascia de Gerota (se abre medial e inferiormente para el acceso del hilio renal) – cápsula adiposa o espacio perirrenal (engloba al riñón y la glándula suprarrenal) – cápsula fibrosa (adherida a superficie renal). (Respuesta 3 correcta)"
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Una de las principales ramas de la aorta abdominal es el llamado tronco celiaco. Este, a su vez, se divide dando lugar a importantes ramas arteriales del abdomen aproximadamente a la altura de la vértebra T12. Señale cuáles son las ramas directas del tronco celiaco:",
+      "opciones": [
+        "Arteria gástrica izquierda, arteria hepática propia y arteria esplénica.",
+        "Arteria gástrica izquierda, arteria hepática común y arteria esplénica.",
+        "Arteria gástrica derecha, arteria hepática común y arteria esplénica.",
+        "Arteria gástrica derecha, arteria hepática propia y arteria esplénica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tronco celiaco se divide en tres ramas principales:\n\n- Arteria esplénica: La más gruesa.\n\n- Arteria gástrica izquierda.\n\n- Arteria hepática común: A su vez se dividirá en arteria hepática propia y en arteria gastroduodenal."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "¿Cuál de los siguientes pares craneales no tiene su origen en la protuberancia?",
+      "opciones": [
+        "Motor ocular común.",
+        "Motor ocular externo.",
+        "Facial.",
+        "Trigemino."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El motor ocular común o tercer par craneal tiene su origen en el mesencéfalo. El resto de opciones si tienen su origen en la protuberancia. Respuesta correcta 1."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Uno de los siguientes hiatos NO se encuentra en el diafragma:",
+      "opciones": [
+        "Hiato de Bochdalek.",
+        "Hiato esofágico.",
+        "Hiato de Winslow.",
+        "Hiato de Morgagni."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta poco destacada de anatomía, pero que podías haber acertado por lógica. El hiato de Winslow no forma parte del diafragma, sino que es la puerta de entrada a la transcavidad de los epiplones, encontrándose junto al pedículo hepático. Del resto de opciones, recordar por su importancia como posibles orificios herniarios el hiato de Bochdalek (que da lugar a la hernia del mismo nombre situada posterolateralmente, generalmente a la izquierda) y el de Morgagni (menos frecuente y localizado paraesternalmente). (Respuesta correcta 3)"
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Una mujer de 46 años, con artritis reumatoide, consulta por parestesias en el primero, segundo, tercero y mitad radial del cuarto dedo de la mano derecha. La aparición de esta sintomatología ha coincidido con un brote de poliartritis que es más acentuada en las articulaciones del carpo y metacarpo. ¿Cuál sería el tratamiento más adecuado para abordar las alteraciones sensitivas de la paciente?:",
+      "opciones": [
+        "Lo más importante es tratar la artritis, cuya remisión probablemente conlleve la desaparición de estas molestias.",
+        "AINE y ferulización de la muñeca durante dos semanas.",
+        "Medidas posturales y ejercicios para fortalecer la musculatura cervical.",
+        "Reposo y antiinflamatorios, y si no remite el cuadro en dos semanas, RM para investigar la posible presencia de una hernia discal cervical."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cuadro descrito es un síndrome del túnel del carpo (opción 4 incorrecta), que es la neuropatía por compresión más frecuente del organismo, y cursa con parestesias de predominio nocturno en 1º, 2º, 3º y mitad radial del 4º dedo. Nuestra paciente está diagnosticada de artritis reumatoide, que es una etiología frecuente del síndrome del túnel del carpo; además la clínica ha aparecido coincidiendo con un brote. Por tanto, lo más correcto será tratar su enfermedad de base (opción 1 correcta), que se acompañará de una mejoría del cuadro neuropático."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "El triángulo carotídeo es un área vascular situada en la región cervical anterior a través del cual asciende la arteria carótida común. Señale los límites que forman dicho triángulo anatómico:",
+      "opciones": [
+        "Vientres del músculo digástrico y la mandíbula.",
+        "Músculo esternocleidomastoideo, vientre posterior del músculo digástrico y vientre superior del músculo omohioideo.",
+        "Hueso hioides y vientres anteriores de los dos músculos digástricos.",
+        "Línea media, borde anterior del músculo esternocleidomastoideo y músculo omohioideo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los límites del triángulo carotídeo están formados por distintos músculos: el esternocleidomastoideo, el vientre posterior del músculo digástrico y el vientre superior del omohioideo (respuesta 2 correcta). Con respecto a las demás opciones de respuesta, podemos decir que:\n\n1.- Los vientres del músculo digástrico y la mandíbula limitan el triángulo submandibular, situado superiormente al triángulo carotídeo.\n\n3.- El hueso hioides y los vientres anteriores de los dos músculos digástricos limitan el triángulo submentoniano, situado bajo el mentón.\n\n4.- La línea media del cuello, el borde anterior del músculo esternocleidomastoideo y el músculo omohioideo, limitan el triángulo omotraqueal, situado bajo el triángulo submentoniano y anterior al triángulo carotídeo."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Con respecto a la aorta torácica señale la afirmación falsa:",
+      "opciones": [
+        "En la rama ascendente de la aorta torácica nacen las arterias coronarias.",
+        "De la rama descendente de la aorta torácica surgen las arterias intercostales posteriores.",
+        "La aorta torácica da ramas viscerales para el esófago, los bronquios, la pleura y el pericardio.",
+        "A nivel del cayado de la aorta surgen las siguientes ramas: el tronco braquiocefálico, la subclavia derecha y la carótida común izquierda."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La aorta torácica a nivel del cayado da las siguientes ramas: el tronco braquiocefálico (que se dividirá posteriormente en arteria carótida común derecha y subclavia derecha), la arteria carótida común izquierda y la arteria subclavia izquierda (respuesta correcta la 4). La rama ascendente da las arterias coronarias y la descendente las arterias intercostales posteriores. La aorta torácica es la encargada de irrigar el esófago, los bronquios, la pleura y el pericardio."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Todas las siguientes venas cardíacas drenan en el seno coronario EXCEPTUANDO:",
+      "opciones": [
+        "La vena oblicua de la aurícula izquierda.",
+        "La vena cardiaca media.",
+        "La vena cardiaca menor.",
+        "Las venas cardiacas anteriores."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "No te preocupes si has fallado esta pregunta. La vascularización arterial del corazón es importante, pero el drenaje venoso no ha sido todavía preguntado. Sin embargo, es bueno saber que el drenaje venoso cardíaco se divide en un sistema principal que desemboca en el seno coronario y desde allí en la aurícula derecha y en otro sistema de pequeñas venas que drena directamente a la cavidades cardíacas. Las venas menores de Galeno, las venas mínimas de Tebesio y las venas cardíacas anteriores son las que desembocan directamente a las cavidades cardíacas sin pasar por el seno coronario (opción 4 correcta)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Señale la respuesta falsa en relación con el nervio tibial:",
+      "opciones": [
+        "Una de sus ramas formará el nervio sural.",
+        "Se divide en nervio plantar medial y nervio plantar lateral.",
+        "Pasa al pie por posterior al maléolo lateral.",
+        "Pasa por debajo del retináculo flexor acompañado de la arteria tibial posterior."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El nervio tibial se origina del nervio ciático y se divide, a nivel del pie, en nervio plantar medial y plantar lateral. Llega al pie por posterior al maléolo medial, acompañado de la arteria tibial posterior. (Respuesta 3 Correcta)"
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Uno de los siguientes músculos del cuello es inervado por el séptimo par craneal; señale cuál:",
+      "opciones": [
+        "Milohioideo.",
+        "Vientre anterior del digástrico.",
+        "Estilohioideo.",
+        "Omohioideo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy difícil y poco rentable que requiere haberse estudiado en profundidad los pares craneales. Los músculos del cuello que inerva el nervio facial son el estilohioideo (opción 3 correcta) y el vientre posterior del músculo digástrico. Lo realmente importante del nervio facial es conocer su anatomía y sobre todo su relación con el conducto auditivo interno y la clínica de sus diferentes lesiones."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Inés es estudiante de medicina de quinto curso que se está preparando el examen de Traumatología. Estudiando los músculos y nervios de la extremidad superior le surgen dudas acerca del nervio mediano, por lo que decide consultar con su hermana Carolina quien estudia primero de medicina y casualmente está preparando el examen de anatomía de la mano. De las siguientes explicaciones que da Carolina a su hermana sobre el nervio mediano, ¿Cuál es FALSA?",
+      "opciones": [
+        "El nervio mediano se encarga de la pronación del antebrazo.",
+        "El nervio mediano no inerva los músculos interóseos.",
+        "El nervio mediano discurre por la región anterior del antebrazo situado entre el flexor común superficial y el flexor común de los dedos.",
+        "El nervio mediano inerva al músculo oponente del pulgar, flexor corto del pulgar y adductor del pulgar."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El nervio mediano discurre por la cara anterior del brazo y sus funciones son flexión y pronación del antebrazo. A nivel de la eminencia tenar inerva el oponente del pulgar, flexor corto del pulgar y el abductor corto del pulgar. Asimismo, el nervio mediano también inerva los dos primeros músculos lumbricales y lleva la sensibilidad de los tres primeros dedos.\n\nEl adductor del pulgar y los interóseos son inervados por el nervio cubital.\n\nLa compresión del nervio mediano es la causa del síndrome del tunel carpiano."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Indique a qué nivel de los cartílagos traqueales es el óptimo para realizar una traqueotomía:",
+      "opciones": [
+        "En el primero y segundo cartílago traqueal.",
+        "En el segundo y tercero cartílago traqueal.",
+        "En el tercero y cuarto cartílago traqueal.",
+        "En el cuarto y quinto cartílago traqueal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es la 3 debido a que acontecen menos complicaciones a este procedimiento si se lleva a cabo a nivel de los cartílagos traqueales tercero y cuarto. A este nivel la tráquea es más ancha y el borde inferior del istmo de la glándula tiroides, que generalmente se encuentra al nivel del segundo cartílago, no obstruye el campo quirúrgico."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "¿Cuál de los siguientes pares craneales tiene su origen aparente en la cara lateral del puente?:",
+      "opciones": [
+        "Trigémino (V).",
+        "Oculomotor externo (VI).",
+        "Facial (VII).",
+        "Patético (IV)."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta que exige conocer el origen en el tronco encefálico de los pares craneales, por ello no os preocupéis si la habéis fallado. El trigémino nace en la cara antero superior de la protuberancia. Recordad que las fibras del IV par cruzan la línea media para emerger en el lado opuesto. Al poco de salir el trigémino de la protuberancia se encuentra con el ganglio de Gasser a partir del cual se divide en tres ramas; V1 (n.oftálmico), V2 (n.maxilar) y V3 (n.mandibular)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Respecto a los músculos de la pared anterior del abdomen, señale la respuesta falsa:",
+      "opciones": [
+        "El músculo cuadrado lumbar se origina en la cresta iliaca y se inserta en la vaina del recto del abdomen.",
+        "El músculo transverso del abdomen se inserta en la vaina del recto del abdomen.",
+        "El músculo oblicuo interno se inserta en la vaina del recto del abdomen y las costillas 10 – 12.",
+        "El músculo oblicuo externo se inserta en la cresta iliaca, el ligamento inguinal y la vaina del recto del abdomen."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los músculos que se insertan en la vaina del recto del abdomen son el oblicuo externo, oblicuo interno y transverso del abdomen."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Los músculos masticadores están inervados por el:",
+      "opciones": [
+        "Nervio facial.",
+        "Nervio patético.",
+        "Nervio maxilar superior.",
+        "Nervio mandibular"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que puede parecer muy difícil en un primer vistazo pero que puede intentar razonarse y deducirse. La duda razonable estaría entre el nervio maxilar superior y el mandibular, ya que el general los músculos masticatorios se encuentran entre ambos maxilares, pero recordad que la segunda rama del trigémino o n.maxilar superior es únicamente sensitivo, por lo que por exclusión nos queda el n.mandibular o tercera rama del trigémino, que es un nervio sensitivo- motor, que recoge la sensibilidad de la mandíbula y la lengua e inerva los músculos de la masticación. Sale del cráneo por el agujero oval."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Si en un paciente observamos una parálisis bilateral de la lengua con el sentido del gusto y la sensibilidad táctil de su mucosa conservadas, deberíamos inclinar nuestro diagnóstico hacia una parálisis de:",
+      "opciones": [
+        "Nervio hipogloso",
+        "Nervio glosofaríngeo",
+        "Nervio facial",
+        "Nervio maxilar inferior"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta complicada. El concepto clave para marcar la respuesta correcta es conocer que el nervio hipogloso posee únicamente fibras motoras, por lo que nunca afectará ni al sentido del gusto ni a la sensibilidad de la mucosa. Sin embargo, el resto de opciones sí que tienen fibras sensitivas."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Con respecto al plexo timpánico, señale la respuesta que considere INCORRECTA:",
+      "opciones": [
+        "Este plexo se localiza sobre el promontorio del oido medio.",
+        "Está formado por fibras tanto del VII como del IX par craneal.",
+        "El nervio petroso superficial mayor se origina en este plexo.",
+        "Parte de sus fibras proporcionan inervación parasimpática a la parótida."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El plexo timpánico se halla en el promontorio y está formado principalmente por el nervio timpánico rama del IX (da la inervación sensitiva del oido medio), aunque también participa el VII. El nervio petroso superficial mayor se origina en el ganglio geniculado (opción 3 falsa), es una rama colateral intratemporal del VII par y al unirse con el n.petroso profundo mayor (rama del IX) forman el n.vidiano cuyas fibras se incorporan a ramas del n.maxilar, dando inervación a la mucosa nasofaríngea y la glándula lagrimal."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Cuál de los siguientes músculos NO forma parte del manguito de los rotadores?",
+      "opciones": [
+        "Redondo mayor",
+        "supraespinoso",
+        "Redondo menor",
+        "Infraespinoso"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El manguito de los rotadores está compuesto por Subescapular, Infaespinoso, Redondo menor, Supraespinoso (REGLA: mi hermano el menor tiene SIRS)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Señala cuál de las siguientes estructuras no forma parte del tronco celiaco:",
+      "opciones": [
+        "1. Arteria esplénica.",
+        "2. Arteria hepática.",
+        "3. Arteria gástrica izquierda.",
+        "4. Arteria gastroduodenal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tronco celiaco está formado por tres estructuras que son importantes conocer: la a. esplénica, la a. hepática y la a. gástrica izquierda. La a. gastroduodenal (respuesta falsa) proviene de la a. hepática y no del tronco celiaco directamente."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "¿Qué articulación permite la rotación de la cabeza?",
+      "opciones": [
+        "Atlaidoaxoidea.",
+        "Atloidoodontoidea.",
+        "Occipitohioidea.",
+        "Occipitoaxoidea."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Constituye la articulación de la vertebra C1 con la apófisis odontoides, que constituye una articulación trocoide. Está formada por dos partes: La parte anterior entre el arco anterior del atlas y la apófisis odontoides o articulación atloidoodontoidea propiamente dicha. La parte posterior entre la apófisis odontoides y el ligamento transverso o articulación sindesmoodontoidea.\n\nProduce movimientos de rotación del atlas al rededor del eje de la apófisis odontoides del axis, y por tanto de la cabeza sobre el cuello."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Uno de los siguientes huesos NO forma parte de la hilera proximal del carpo:",
+      "opciones": ["Escafoides.", "Piramidal.", "Grande.", "Pisiforme."],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta de dificultad media sobre los huesos del carpo. Éstos se disponen en dos filas, que debes conocer. De lateral a medial:\n\n- Primera fila: Escafoides, semilular, piramidal, pisiforme.\n\n- Segunda fila: Trapecio, trapezoide, grande y ganchoso."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "El llamado triángulo de Hesselbach es una estructura anatómica importante ya que corresponde a la zona en la que las hernias inguinales directas aparecen. Teniendo en cuenta esto, defina cuáles son los límites anatómicos del mismo:",
+      "opciones": [
+        "Borde inferior: ligamento inguinal. Borde medial: vasos epigástricos inferiores. Borde lateral: borde lateral de los músculos rectos del abdomen.",
+        "Borde inferior: ligamento inguinal. Borde medial: borde lateral de los músculos rectos del abdomen. Borde lateral: vasos epigástricos inferiores.",
+        "Borde inferior: vasos epigástricos inferiores. Borde medial: borde lateral de los músculos rectos del abdomen. Borde lateral: ligamento inguinal.",
+        "Borde inferior: vasos epigástricos inferiores. Borde medial: ligamento inguinal. Borde lateral: borde lateral de los músculos rectos del abdomen."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los límites anatómicos del triángulo de Hesselbach son los que aparecen reflejados en la respuesta número 2:\n\n- Borde inferior: Ligamento inguinal.\n\n- Borde medial: Borde lateral de los músculos rectos del abdomen.\n\n- Borde lateral: Vasos epigástricos inferiores."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "En el foramen yugular la sangre forma un remanso -golfo de la vena yugular- y de aquí salen:",
+      "opciones": [
+        "Los nervios glosofaríngeo, trigémino y espinal.",
+        "Los nervios mandibular, facial y motor ocular común.",
+        "Los nervios patético, estatoacústico y trigémino.",
+        "Los nervios glosofaríngeo, vago y accesorio del vago"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta complicada que exige un conocimiento profundo del cráneo y sus orificios ya que deja poco lugar para la deducción, por ello no te desanimes si la has fallado. Por el foramen yugular salen los nervios glosofaríngeo, vago y accesorio del vago (opción 4 correcta). Otro orificios importantes son el oval (lo atraviesa el n.mandibular), el redondo mayor (n.maxilar), el rasgado posterior (el glosofaríngeo) y el redondo menor (la arteria meníngea media) y el estilomastoideo (nervio facial)."
+    }
+  ]
+}

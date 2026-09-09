@@ -1,0 +1,436 @@
+{
+  "materia": "ginecologia",
+  "paginaInicio": 1,
+  "paginaFin": 19,
+  "anomalias": [
+    "p5: Resp. Correcta 3 pero el comentario (en p6) afirma 'La menopausia tardía aumenta el riesgo en todas las mujeres (respuesta 4 correcta)'",
+    "p6: en la pregunta de la mujer de 59 años la Resp. Correcta es 3 (Histeroscopia con biopsia dirigida) pero el comentario escribe 'histeroscopia con biopsia dirigida (RC- 4)'",
+    "p6: '¿Cuál NO es factor de riesgo del cáncer de mama?' tiene 4 opciones y Resp. Correcta 4, pero el comentario dice 'accedemos directamente a la opción 5 como la correcta' y 'Las otras cuatro opciones son factores de riesgo'; la numeración del comentario está desfasada respecto a las opciones",
+    "p8: '¿Cuál de los siguientes NO es factor de riesgo de osteoporosis?' solo tiene 4 opciones, pero el comentario cita 'raza blanca (opción 5)', 'tabaco (opción 4)', 'esteroides orales (opción 2)' -que no figura entre las opciones- y 'multíparas (opción 3)': la numeración del comentario no corresponde con la de las opciones",
+    "p9: la pregunta de la primigesta de 29 años (Resp. Correcta 3) tiene por comentario un bloque general titulado 'TRATAMIENTO de la PREECLAMPSIA' que no justifica de forma explícita cuál de las cuatro premisas es la incorrecta",
+    "p12: en la opción 4 y en el comentario los signos ≥ aparecen acompañados de puntos sueltos ('TA sistólica ≥. 160 mmHg y/o TA diastólica .≥ 110 mmHg'); se transcribe tal cual",
+    "p17: en la pregunta del registro cardiotocográfico la Resp. Correcta es 3 pero el comentario dice 'por lo que la opción correcta es la 4' y cita 'La amnioscopia (opción 5)' cuando solo hay 4 opciones"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "El término cloasma se refiere a:",
+      "opciones": [
+        "Desarrollo de telangiectasias vasculares.",
+        "Palidez debida a anemia.",
+        "Fatiga injustificada.",
+        "Cambios en la pigmentación de la piel."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta fácil sobre los cambios dermatológicos gestacionales, que simplemente con los conocimientos de la carrera podemos contestar. La actividad melanocítica está aumentada mediado por un aumento de la MSH gracias a la progesterona. Así, ocurre una hiperpigmentación de ciertas partes del cuerpo como la areola mamaria, la línea umbilico- pubiana, vulva y a veces la cara y el cuello. Es la hiperpigmentación de la cara y cuello lo que se denomina cloasma gravídico, con lo que la opción correcta es la 4."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cuál de las siguientes representa la causa aislada más importante de mortalidad materna en relación con el embarazo?:",
+      "opciones": [
+        "Eclampsia",
+        "Síndrome de HELLP",
+        "Hemorragia postparto",
+        "Tromboembolismo pulmonar"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La hemorragia postparto (HPP) complica del 5-15% de todos los partos. Es la causa aislada más importante de mortalidad materna. La mitad de las HPP son precoces (las que ocurren en las primeras 24 horas posparto)."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "De las siguientes condiciones, no es una contraindicación para la lactancia materna:",
+      "opciones": [
+        "Infección por VIH",
+        "Tuberculosis materna",
+        "Hepatitis B",
+        "Ninguna de las anteriores"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En le infección por VIH y la tuberculosis activa está contraindicada la lactancia , en el caso de la infección por hepatitis B no hay ninguna contraindicación para que esta se realice."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cómo clasificaría una gestación que, antes del embarazo, tenía tensiones arteriales normales; en cuya primera consulta, realizada en la semana 8 de edad gestacional, se le detecta una tensión arterial de 140/90 mm Hg, y que en la semana 28 tiene una tensión arterial de 170/115 mm Hg, sin edemas, y con una proteinuria en orina de 24 horas de 320 mg?:",
+      "opciones": [
+        "Preeclampsia.",
+        "Hipertensión gestacional.",
+        "Hipertensión inducida por el embarazo.",
+        "Hipertensión crónica con preeclampsia sobreañadida."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En este caso la paciente tiene HTA en la primera mitad del embarazo ( HTA crónica) con empeoramiento brusco de la HTA y /o aparición o empeoramiento de la proteninuria y por tanto la opción 4 es la correcta."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿Cuál de las siguientes funciones NO es propia de la progesterona?:",
+      "opciones": [
+        "Estimula la contracción uterina.",
+        "Induce la secreción del epitelio tubárico.",
+        "Bajo su influjo, el moco cervical es espeso y escaso.",
+        "Incrementa el metabolismo corporal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La progesterona se fabrica en el cuerpo lúteo durante la fase secretora, su misión es la maduración del endometrio (fase secretora) y produce modificaciones que benefician a la gestación.\n\n• Prepara las mamas para la lactancia.\n\n• Deprime la excitabilidad de las fibras miometriales, puesto que las contracciones uterinas impedirían la gestación (también relaja el músculo liso digestivo y ureteral).\n\n• Eleva el metabolismo y la temperatura corporal.\n\n• Disminuye la cantidad de moco cervical y su contenido en ácido siálico, aumentando su viscosidad para que no puedan atravesarlo nuevos espermatozoides."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "La menopausia tardía aumenta el riesgo de desarrollar un cáncer de mama:",
+      "opciones": [
+        "Si hay antecedentes familiares de cáncer de mama.",
+        "En casos de menarquia precoz.",
+        "En todas las mujeres.",
+        "En multíparas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy fácil y reflejada en el Manual. Existen múltiples factores de riesgo de cáncer de mama, como el factor genético (BRCA- 1, BRCA- 2), (sobre todo en etapas anteriores a la menopausia),patología mamaria previa, irradiación repetida, menarquia precoz, nuliparidad, primer embarazo tardío, lactancia corta o artifical, adiposidad... La menopausia tardía aumenta el riesgo en todas las mujeres (respuesta 4 correcta) por el efecto que ejercen los estrógenos sobre el tejido mamario a lo largo del tiempo, independientemente de otros factores que se puedan añadir."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Mujer de 59 años, menopáusica desde hace 6, que acude a la consulta de ginecología para su revisión anual. La exploración física es rigurosamente normal, pero se decide realizarle una ecografía para seguimiento de unos miomas que han ido desapareciendo. En la ecografía ya no hay rastro de los miomas y el espesor del endometrio es de 9 mm. ¿Qué haría a continuación?:",
+      "opciones": [
+        "Mandarla volver a revisión, como venía haciendo.",
+        "Histerectomía total con doble anexectomía.",
+        "Histeroscopia con biopsia dirigida.",
+        "Legrado diagnóstico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad moderada sobre la hiperplasia endometrial y el cáncer de endometrio.\n\nLa hiperplasia endometrial es una proliferación del endometrio, originada por el estímulo de los estrógenos no compensada por la adecuada secreción de progesterona.\n\nSe clasifica en: a) simple, b) compleja, c) simple con atipias y d) compleja con atipias.\n\nEl diagnóstico es anatomopatológico mediante histeroscopia con biopsia dirigida (RC- 4). Las indicaciones para realizar esta prueba es la presencia de metrorragia en mujer postmenopáusica, (es obligatorio descartar cáncer de endometrio), y la presencia de un diámetro de endometrio medido por ecografía vaginal mayor de 12 mm en premenopáusicas o superior a 5 mm en postmenopáusicas. (En el caso mide 9 mm)."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál NO es factor de riesgo del cáncer de mama?:",
+      "opciones": [
+        "Edad.",
+        "Nuliparidad.",
+        "Radiación ionizante.",
+        "Mastodinia en el último año."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta directa bastante fácil sobre el cáncer de mama. Sabiendo simplemente que el cáncer de mama suele presentarse de forma asintomática en el 80% de las veces, y que no produce dolor, accedemos directamente a la opción 5 como la correcta. Las otras cuatro opciones son factores de riesgo. La edad (opción 1) es el factor de riesgo más importante. La herencia (opción 2) influye tanto en el cáncer familiar como en el hereditario (estando implicados los genes BRCA1 y BRCA2), que suele asociar otros cánceres como el de ovario (MIR 03- 04, 96). La nuliparidad (opción 3) y el primer embarazo a una edad avanzada, y las radiaciones ionizantes (opción 4) también son factores de riesgo. Bibliografía: Manual CTO 4ª Ed. Ginecología y Obstetricia: Capítulo 19.2, pág. 27."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Cuál de los siguientes situaciones no es atribuible como efecto secundario del uso de anovulatorios.",
+      "opciones": [
+        "Sangrado disfuncional",
+        "Ganancia de peso.",
+        "Cloasma.",
+        "Cáncer de endometrio."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Efectos beneficiosos reconocidos a la anticoncepción hormonal combinada (AHC)\n\n. Efectos beneficiosos relacionados con la menstruación Mejoría de la dismenorrea Disminución del sangrado menstrual y del riesgo de anemia ferropénica Mejoría del síndrome premenstrual\n\n. Protección frente a la enfermedad inflamatoria pélvica Los ACO, y más concretamente el gestágeno que llevan, provocan un espesamiento del moco cervical que dificulta el ascenso de los gérmenes a través del canal cervical, disminuyendo, de esta manera, el riesgo de padecer una EIP\n\n. Efectos beneficiosos en el tratamiento del dolor en la endometriosis\n\n. Efectos beneficiosos sobre la piel: acné e hirsutismo\n\n. Efectos beneficiosos sobre el hueso: reducción de la pérdida de DMO\n\n. Efectos beneficiosos sobre las neoplasias Cáncer de ovario Cáncer de endometrio Cáncer de colon"
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "El tratamiento de elección en el momento actual para el tratamiento de una esterilidad derivada de un SOP es:",
+      "opciones": [
+        "Resección en cuña.",
+        "Citrato de clomifeno.",
+        "Gonadotropinas.",
+        "Inductores de la aromatasa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es muy importante, debes conocer perfectamente el síndrome de ovario poliquístico y sus alteraciones hormonales:\n\nEs una afección muy frecuente en que está aumentada la LH con niveles de FSH bajos o inferiores a los normal, por lo que aumenta la relación LH/FSH. Hay un aumento leve de andrógenos; aumento de la estrona, (los andrógenos circulantes son convertidos a estrona en la grasa periférica), y descenso del estradiol. La LH aumentada estimula la teca, produciendo más andrógenos, (también hay una sobreproducción suprarrenal), que va a provocar obesidad, hirsutismo y anovulación. Existe, además, insulinresistencia.\n\nLa tendencia actual para el tratamiento de la esterilidad en el SOP es usar como primera opción citrato de clomifeno y metformina. Si falla, usar gonadotropinas como segunda opción y, si nuevamente fracasamos, destrucción parcial del ovario por vía laparoscópica."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Mujer de 45 años, que acude a consulta por presentar sensación de sofocamiento, sudoración, cambios del estado de ánimo y alteraciones del ciclo del sueño. No refiere antecedentes crónicos. G3 P3 C0. FUR Hace un año. Se solicita perfil hormonal. ¿Cuál de las siguientes hormonas se espera encontrar aumentada?",
+      "opciones": [
+        "FSH",
+        "LH",
+        "TSH",
+        "ACTH"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "A medida que la mujer avanza hacia la menopausia la FSH aumenta y la inhibina B disminuye en la fase menstrual, que es la fase previa al desarrollo folicular. En la fase folicular la inhibina B disminuye y la FSH aumenta a medida que se aproxima la menopausia; en cambio la hormona luteinizante (LH) varía poco y los cambios se deben más bien a que son datos estadísticos obtenidos en pacientes con y sin anovulación, de tal forma que el nivel de LH no es útil como índice predictivo de menopausia."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de los siguientes NO es factor de riesgo de osteoporosis?:",
+      "opciones": [
+        "Obesidad.",
+        "Multiparidad.",
+        "Tabaco.",
+        "Raza blanca."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta muy fácil sobre la osteoporosis en el climaterio y sus factores de riesgo. Se puede responder de forma directa, señalando como opción correcta la 1, ya que las mujeres con obesidad, al tener mayor panículo adiposo, poseen mayor cantidad de aromatasa, que es la enzima encargada de la conversión periférica de los andrógenos en estrona (estrógeno principal en el climaterio). Por ello, la obesidad puede considerarse incluso como un factor de protección.\n\nLa raza blanca está más predispuesta a padecer osteoporosis (opción 5), al igual que las fumadoras (el tabaco produce hipoestronismo, opción 4), las usuarias de esteroides orales (que producen decalcificación ósea, opción 2) y las multíparas (opción 3) relacionado con el estado estrogénico."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Las células y tejidos tienden a adaptarse a la persistencia de estímulos lesivos mediante diversos mecanismos. La metaplasia, referente a tejido cervical epitelial, es un fenómeno adaptativo tisular caracterizado por:",
+      "opciones": [
+        "Aumento del tamaño y del número de las células del tejido.",
+        "Sustitución y cambio fenotípico reversible de un tipo celular de un órgano por otro más resistente al estímulo nocivo.",
+        "Disminución del número y tamaño de las células del órgano lesionado.",
+        "Aumento del tamaño pero no del número de las células del órgano."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La metaplasia consiste en la presencia de epitelio plano poliestratificado ectocervival. Es una respuesta fisiológica ante una inflamación más o menos crónica, por lo que también es un hallazgo benigno que no precisa tratamiento."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Cuál es la vía de diseminación más frecuente del cáncer de ovario?:",
+      "opciones": [
+        "Por extensión linfática.",
+        "Implantación directa en cavidad abdominal.",
+        "Vía vascular.",
+        "Transporte a través del tracto genital."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La vía de diseminación más frecuente del cáncer de ovario es la implantación directa por siembra peritoneal de células tumorales sobre peritoneo o epiplón, siendo la extensión peritoneal difusa la forma más habitual de presentación del cáncer de ovario.\n\nLa dismeninación por vía linfática es frecuente, con afectación de los ganglios paraaórticos. La metástasis por vía hematógena es poco frecuente y excepcional que no vaya precedida de diseminación peritoneal o linfática."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Primigesta de 29 años, en su 32ª semana de gestación, que acude al obstetra a revisión. En las últimas dos semanas ha ganado 2 kg, refiere ligera astenia, y en la toma de TA se hallan valores de 145/95 mmHg. En la analítica de orina solo destaca una proteinuria de ++. Señale cuál de las siguientes premisas, acerca del manejo de la enfermedad que tiene la paciente, NO es correcta:",
+      "opciones": [
+        "Dado que el problema fisiopatológico reside en la placenta, el único tratamiento definitivo es terminar la gestación.",
+        "Es aconsejable administrar una dieta normosódica y normoproteica.",
+        "Los hipotensores permiten controlar la enfermedad si se administran desde fases precoces.",
+        "El uso de diuréticos se reserva en casos casos de insuficiencia cardíaca renal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "TRATAMIENTO de la PREECLAMPSIA\n\nEl tratamiento médico no altera la fisiopatología de la preeclampsia, la terapia puede enlentecer la progresión de ésta y permitir la continuación de la gestación.\n\nTratamiento no farmacológico\n\n- La restricción de sodio no se recomienda en la preeclampsia salvo que otra patología lo aconseje.\n\n-El incremento en la ingesta de energía y proteínas no es beneficioso en la prevención de la preeclampsia.\n\n-No se ha demostrado la eficacia de la restricción de la actividad física.El tratamiento definitivo de la preeclampsia es el parto. Como regla general, la terminación de la gestación sigue siendo el único tratamiento definitivo para la preeclampsia, y la opción terapéutica de elección ante:\n\n- cualquier paciente con preeclampsia a término (independientemente del grado de severidad)\n\n- en gestación pretérmino con enfermedad grave no controlable.\n\nSin embargo, existen excepciones a esta regla general si la prolongación de la gestación permite: estabilizar o mejorar la situación materna, transferir la madre y su feto a un centro con mayor experiencia y equipamiento para su cuidado (terciario en el caso de gravedad), esperar la madurez pulmonar fetal o inducirla mediante glucocorticoides y, en definitiva, planear la finalización de la gestación en condiciones lo mejor controladas posible.\n\nFinalización de gestación\n\nLa decisión entre el parto y la conducta expectante dependerá de la edad gestacional, bienestar fetal y gravedad de la situación materna en el momento de la evaluación.\n\nEn general siempre que exista una preeclampsia independientemente de su gravedad, debe terminarse la gestación a partir de las 38 semanas.\n\nLa vía de parto de elección es la vaginal.\n\nDiuréticos\n\nEn la preeclampsia habitualmente no están indicados, pero en la hipertensión crónica pueden utilizarse en las hipertensiones sodio-dependientes. En general se tiende a evitarlos, pero si es preciso en el caso citado, o situaciones hipertensivas graves, (con fallo cardíaco o renal) pueden utilizarse, aunque se deben suprimir si aparece preeclampsia sobreañadida o CIR por la repercusión negativa que tiene sobre la perfusión útero placentaria.\n\nPreferentemente se utiliza la furosemida administrada por vía oral y en casos extremos por vía intravenosa."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Una mujer de 30 años consulta por un nódulo mamario que se diagnostica de carcinoma ductal infiltrante. Tiene antecedentes familiares, ya que su madre y su abuela han padecido esta misma enfermedad. El estudio genético muestra la presencia de BRCA1, c-erb B2 y alteraciones de la p53. Receptores estrogénicos positivos. Sobre las características citadas de esta paciente, señale cuál puede considerarse un factor de buen pronóstico:",
+      "opciones": [
+        "Presencia de receptores estrogénicos positivos.",
+        "Positividad para c-erb B2.",
+        "Alteraciones en p53.",
+        "Edad inferior a 35 años."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La AUSENCIA de receptores hormonales confiere un mal pronóstico y no la presencia de los mismos,."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "La infección por estreptococo del Grupo B en el recién nacido puede prevenirse administrando antibioticoterapia profiláctica a las embarazadas portadoras o en casos de resultado desconocido, si presentan factores de riesgo. Respecto a este problema, señale la afirmación INCORRECTA:",
+      "opciones": [
+        "La profilaxis se realiza durante el parto.",
+        "La vía más frecuente de infección fetal es transplacentaria.",
+        "El cribado en las embarazadas se realiza entre las semanas 35-37 de gestación.",
+        "La incidencia de infección neonatal por estreptococo B proporcionalmente es mayor entre recién nacidos prematuros que entre recién nacidos a término."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La vía de infección del recién nacido es por transmisión vertical en el momento del parto y no vía transplacentaria."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Paciente de 55 años que acude a la consulta por presentar metrorragias. Tuvo su última menstruación hace 4 años y desde entonces hasta hace 3 meses había estado asintomática. La paciente no refiere ningún otro síntoma. La exploración ginecológica es normal. Se decide realizar una biopsia endometrial dirigida por histeroscopia que muestra un endometrio con alteraciones de la arquitectura glandular con atipias celulares. ¿Cuál será el tratamiento de elección?:",
+      "opciones": [
+        "Histerectomía radical.",
+        "Histerectomía simple.",
+        "Histerectomía total con doble anexectomía.",
+        "Legrado terapéutico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es importante que conozcas unas nociones básicas sobre las metrorragias postmenopaúsicas pues ya salió varias veces tanto el diagnóstico como el tratamiento presentándolo en forma de caso clínico. Debemos estar alerta ante toda hemorragia genital, ya que es el principal síntoma y habitualmente el más precoz de la mayoría de los tumores genitales. Actualmente la visualización de la cavidad endometrial por histeroscopia permite obtener muestras de biopsias dirigidas que aumenta la sensibilidad del legrado-biopsia fraccionado, con lo cual el diagnóstico de elección ha pasado a ser la biopsia dirigida por histeroscopia. La histerectomía está indicada en las perimenopáusicas en las que el examen anatomopatológico demuestre una hiperplasia endometrial atípica. Por la edad de la paciente se unirá la doble anexectomía."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cuál de los siguientes NO es un criterio de gravedad en la preeclampsia?:",
+      "opciones": [
+        "Cefalea severa",
+        "Dolor hipocondrio derecho",
+        "Elevación del recuento plaquetario.",
+        "TA sistólica ≥. 160 mmHg y/o TA diastólica .≥ 110 mmHg en dos determinaciones separadas 6 horas, estando la paciente en reposo en cama."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La SEGO, considera Preeclampsia severa o grave si uno o más de los siguientes criterios se encuentra presente.\n\n• TA sistólica ≥. 160 mmHg y/o TA diastólica .≥ 110 mmHg en dos determinaciones separadas 6 horas, estando la paciente en reposo en cama.\n\n• Proteinuria ≥ 2 gramos en orina de 24 horas.\n\n• Oliguria ≤ 500 ml en 24 horas.\n\n• Creatinina sérica >1,2 mg/dl.\n\n• Alteraciones cerebrales o visuales (hiperreflexia con clonus, cefalea severa, escotomas, visión borrosa, amaurosis).\n\n• Edema de pulmón o cianosis.\n\n• Dolor epigástrico o en hipocondrio derecho.\n\n• Alteración de las pruebas funcionales hepáticas.\n\n• Alteraciones hematológicas: trombocitopenia (<100.000 mm3), CID, hemólisis.\n\n• Afectación placentaria con manifestaciones fetales (CIR).\n\nNOTA: hay grupos como el ACOG( 2019) que no consideran la proteinuria, ni la oliguria ni el CIR."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA, respecto al ciclo endometrial?:",
+      "opciones": [
+        "La fase lútea ovárica se relaciona con la fase secretora endometrial.",
+        "El principal producto de secreción endometrial es la mucina, durante la fase lútea.",
+        "La principal causa de la menstruación es la deprivación hormonal de estrógenos y gestágenos.",
+        "El estímulo estrogénico mantenido sobre el endometrio sin compensación de los gestágenos implica riesgo de hiperplasia endometrial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Podemos dividir el ciclo genital en 3 fases, una de ellas es la luteolisis para el ovario o la menstruación para el endometrio. Las otras dos se corresponden de la siguiente forma: la fase folicular ovárica corresponde a la fase proliferativa del endometrio en que la FSH estimula en el ovario el crecimiento de la cohorte folicular, su bajada selecciona el folículo dominante e en el endometrio se produce un crecimiento glandular provocado por el estímulo estro génico; la fase secretora se corresponde con la fase lútea, en que tras la ovulación el cuerpo lúteo comienza a secretar progesterona que provocará la maduración de las glándulas y el estroma endometrial (también contribuyen a esto los estrógenos). Parte de la progesterona producida por el cuerpo lúteo se transforma en andrógenos y estrógenos. Los estrógenos inducen la luteolisis, para ello aumenta la síntesis de PGS que inhiben la síntesis de progesterona y la capacidad de unión de LH a su receptor. Lo que se secreta en la fase secretora es glucógeno, no mucina."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál no es un factor de riesgo del crecimiento intrauterino retardado (CIR)?:",
+      "opciones": [
+        "índice de masa corporal : 25",
+        "Edad materna: 43 años",
+        "Hipertensión inducida por el embarazo.",
+        "Útero septo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Son factores de riesgo de CIR: tabaquismo, drogas, historia previa de fetos con CIR, índice de masa corporal <19, malformaciones uterinas, miomas, edad materna avanzada (>40 años), enfermedades maternas (sobre todo renales y vasculares) y complicaciones de la gestación como los trastornos hipertensivos."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál de las siguientes NO juega ningún papel en el screening y diagnóstico de las malformaciones fetales?:",
+      "opciones": [
+        "Cariotipo paterno.",
+        "Determinación de PAPP- A en sangre",
+        "Translucencia nucal",
+        "Determinación de beta-HCG en sangre."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cariotipo del padre no tiene ninguna utilidad en el diagnóstico de malformaciones fetales. Serviría para calcular el riesgo de tener hijos afectos por determinadas enfermedades genéticas y hacer consejo genético.\n\nLa ß-HCG es un marcador bioquímico del primer trimestre para el diagnóstico prenatal de cromosomopatías. Recuerda que se eleva en el síndrome de Down.\n\nLa PAAP-A estará disminuida en síndrome de Down .\n\nLos marcadores ecográficos que se utilizan para el diagnóstico prenatal de cromosomopatías son: en el primer trimestre, la translucencia nucal, la flujometría en el ductus venoso, la ausencia del hueso nasal y la presencia de insuficiencia tricuspídea.\n\nEl cariotipo fetal se puede obtener a partir de métodos diagnósticos invasivos: biopsia corial ( a partir de la semana 9 de gestación, siendo más adecuada su entre las semanas 10 y 13 ) o amniocentesis preferiblemente a partir de la 16+0 semana (no antes de la 15)"
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Una de las siguientes serologías no se recomienda para el cribado sitemático durante el embarazo a todas las gestantes:",
+      "opciones": [
+        "Sífilis.",
+        "Rubéola.",
+        "Hepatitis C.",
+        "Hepatitis B"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Recuerda que actualmente No es necesario realizar cribado sistemático de:\n\n-Toxoplasmosis, dado que el cribado prenatal de la toxoplasmosis no cumple los criterios necesarios para considerarlo eficaz. A todas las embarazadas se les debe recomendar medidas preventivas sobre el manejo de carne poco cocinada o cruda, agua contaminada, poca higiene ,no lavado frutas y verduras y convivencia con gatos.\n\n-Citomegalovirus\n\n-Hepatitis C."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "En una mujer de 18 años con amenorrea primaria, a la que se le realiza un cariotipo con resultado 45 XO, NO esperaría encontrar:",
+      "opciones": [
+        "Torax en escudo",
+        "Cúbito valgo.",
+        "Pterigion colli",
+        "Talla alta"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "SÍNDROME DE TURNER:es una monosomía 45XO.\n\nClínicamente se caracteriza por retraso del desarrollo puberal, talla baja, pterigion colli, tórax en escudo y amenorrea.\n\nRecuerda que los mosaicismos 45XO/46XX pueden tener talla normal, incluso menstruar y tener hijos."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Mujer de 24 años, nuligesta, con relaciones sexuales, acude a urgencias por dolor en hipogastrio agudo que se ha intensificado en los últimos días sin relación con la menstruación y fiebre. Test de gestación negativo y en la analítica destacan unos leucocitos de 17.500. En la exploración, existe dolor anexial derecho a la movilización cervical, además de una leucorrea maloliente. ¿Qué le parece falso, respecto al manejo de la patología que sospecha?",
+      "opciones": [
+        "La sospecha de absceso pélvico supondría criterio de ingreso hospitalario.",
+        "La histerosalpingografía está inicialmente indicada para valorar la permeabilidad tubárica.",
+        "Las pautas actuales de tratamiento hospitalario son las asociaciones cefoxitina-doxiciclina o clindamicina-gentamicina",
+        "Se ha descrito reducción del riesgo en las usuarias de métodos contraceptivos de barrera y de anticonceptivos orales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En la práctica clínica debemos descartar la existencia de EIP cuando en una mujer sexualmente activa se presenta dolor pélvico acompañado de fiebre y leucorrea. La gravedad de las secuelas de este proceso justifica que esté sobrediagnosticada y tratada precozmente especialmente en nulíparas. La ecografía transvaginal es una exploración fundamental en pacientes que consultan por dolor pélvico agudo, mientras que la histerosalpingografía podría empeorar el cuadro por el paso de gérmenes vía ascendente. El fallo en el tratamiento se define por: persistencia de la fiebre y/o de la leucocitosis, aumento del tamaño del absceso tubo-ovárico y sospecha de ruptura del absceso."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Primigesta de 37 semanas de gestación, presentación en tercer plano de Hodge, OIIT. El RCTG presenta DIPs II con cada contracción con disminución de la variabilidad y tendencia a la taquicardia fetal. Realiza una microtoma fetal constatándose pH 7,15. ¿Cuál sería la actitud correcta?",
+      "opciones": [
+        "Cesárea",
+        "Normal, dejar evolución",
+        "Fórceps",
+        "Aplicación de O2 a la madre y repetición de pH en 15 minutos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante la confirmación mediante pH de calota fetal de un valor < 7,20, debemos finalizar el parto. En este caso la presentación ha alcanzado un III plano y dado que el feto no está rotado indicaremos un fórceps."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Ante una mujer de 23 años que consulta por ciclos largos con baches amenorreicos de hasta 3 meses, acné facial y aumento del vello, cuál de las siguientes pruebas complementaría a su diagnóstico :",
+      "opciones": [
+        "Test de estrógeno-gestágenos.",
+        "Ecografía ginecológica",
+        "Determinación plasmática de estradiol y progesterona.",
+        "Determinación plasmática de prolactina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El caso clínico hace referencia al síndrome de ovario poliquístico (SOP).\n\nLa historia clínica constituye un pilar básico del diagnóstico. De manera que, la simple asociación de alteraciones menstruales, junto al hirsutismo que podrá acompañarse de acné y/o seborrea, se considera suficiente\n\nEl 70% de las mujeres con SOP presentan trastornos de la ovulación y por lo tanto oligo-amenorrea.\n\nUn 70% de las mujeres con SOP presentará hirsutismo,\n\nHasta un 50% de los SOP presentan una LH elevada debido al aumento de la amplitud y frecuencia de los pulsos de GnRH, siendo el cociente LH/FSH superior a la unidad en el 95% de los casos. Clásicamente un cociente superior a 2 ó 3 había sido considerado criterio diagnóstico de SOP. Sin embargo, valores tan elevados sólo suelen estar presentes en mujeres delgadas, mientras que las pacientes obesas y/o insulinoresistentes el LH/FSH suele estar próximo a la unidad e incluso en ocasiones invertido (FSH superior a la LH).\n\nLa prolactina debe ser solicitada para descartar una hiperprolactinemia.\n\nEl test de estrógenos- gestágenos alterado nos hablaría de una alteración genital (estenosis, sinequias) que cursaría con amenorrea secundaria pero sin hiperandrogenismo; y la determinación del estradiol y la progesterona pueden aparecer alteradas (especialmente útil la PG en segunda fase del ciclo, que está ausente), pero no son diagnósticas."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuál es, de los siguientes, el más útil y eficaz factor de pronóstico en el cáncer de mama?:",
+      "opciones": [
+        "Presencia de focos de componente intraductal en puntos distantes al tumor.",
+        "Invasión de ganglios linfáticos.",
+        "Presencia de mutación en el gen BRCA1.",
+        "Altos niveles de catepsina D en las células tumorales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La afectación axilar linfática es el factor pronóstico independiente más potente en cáncer de mama, en la mayoría de subgrupos intrínsecos. Se sabe que existe una relación directa entre el número de ganglios afectados por la enfermedad y la supervivencia, de manera que la proporción de pacientes libres de enfermedad a los 5 años del diagnóstico."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Paciente mujer primigesta, en su 36ª semana de gestación, que acude a realizarse un registro cardiotocográfico no estresante (MFNE). La frecuencia cardíaca fetal es de 135 lpm, la variabilidad es de 15 y se detectan aceleraciones transitorias de la frecuencia cardíaca mayores de 15-20 lpm durante más de 15 segundos. Además, la mujer refiere sentir los movimientos fetales. ¿Qué conclusión extraería de este registro?:",
+      "opciones": [
+        "Lo más probable es que la madre tenga fiebre.",
+        "Esta situación se considera indicación de una prueba de Pose.",
+        "Se considera un registro de reactividad fetal normal.",
+        "Es indicación de amnioscopia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy fácil en la que se nos pide que interpretemos un registro cardiotocográfico en un control rutinariode una gestante. Si recordamos los parámetros de normalidad en un registro, podremos contestar la pregunta. Estos parámetros son: frecuencia cardiaca fetal entre 120- 160 latidos por minuto, variabilidad de 10- 25 lat/min, ascensos o aceleraciones transitorias por encima de 15- 20 lat/min, ausencia de deceleraciones. En conclusión, el registro de la paciente lo podemos catalogar de RAF positivo, por lo que la opción correcta es la 4. Expliquemos brevemente las opciones: si existiera fiebre materna (opción 1), el feto presentaría una taquicardia; ante un sueño fetal (opción 2) solemos encontrar periodos de alrededor de 20 minutos con variabilidad baja; indicaríamos una prueba de Pose (opción 3) o monitorización fetal estresante si existiera un RAF negativo. La amnioscopia (opción 5) está contraindicada por ser una gestación pretérmino. Bibliografía: Manual CTO 4ª Ed. Ginecología y Obstetricia: Capítulo 22.4, pág. 36- 37."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Una mujer de 25 años presenta, en una citología cervicovaginal de rutina, la presencia de coilocitos. La biopsia cervical demuestra la presencia de CIN de alto grado. Mediante técnicas de hibridación se pone de manifiesto la existencia de HPV tipos 16-18. ¿Cuál es la significación biológica y pronóstica de este hallazgo?:",
+      "opciones": [
+        "Que el genoma vírico se halla integrado en el ADN celular del huésped y que el riesgo de desarrollo de un carcinoma invasivo es alto.",
+        "Que el genoma vírico no se halla integrado en el ADN celular del huésped y que el riesgo de desarrollo de un carcinoma invasivo es alto.",
+        "Que el ADN viral permanece en forma episómica libre en la célula huésped y que el riesgo de desarrollo de carcinoma infiltrante es bajo.",
+        "Que existe ya un carcinoma microinvasor."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una pregunta difícil, que precisa conocimientos bastante profundos sobre la biopatología del VPH.\n\nLa mayoría de los virus de bajo riesgo permanecerían en el núcleo de la célula infectada en situación episómica, es decir, no integrados en el genoma. Sin embargo, aquí nos hablan de los serotipos 16 y 18, en el contexto de una displasia de alto grado. En estos casos, el HPV ejerce su actividad oncogénica integrándose en el genoma celular (respuesta 1correcta). El mecanismo mejor conocido de inducción neoplásica se produciría a partir de la síntesis de las proteínas virales E6 y E7. Estas proteínas se ligan a las producidas por dos genes supresores celulares, que son p53 y Rb, respectivamente, y hacen que se degraden. Éste es uno de los mecanismos que justifican su potencial oncogénico."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Cuál es el tipo de mioma uterino que produce con más frecuencia hemorragia uterina anormal?",
+      "opciones": [
+        "Submucoso",
+        "Subseroso",
+        "Mucoso",
+        "Intramural"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según su localización, se distinguen los siguientes tipos de miomas: 1. Miomas subserosos (40%): situados bajo el peritoneo visceral uterino. Pueden alcanzar gran tamaño, siendo por su localización poco sintomáticos. 2. Miomas intramurales: son los más frecuentes (55%) y proliferan en la porción central del miometrio. 3. Miomas submucosos (5-10%): realizan protrusión en la cavidad uterina, por lo que son los más sintomáticos. Pueden ser pediculados y prolapsarse a través del orificio cervical (se habla entonces de mioma parido)"
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Gestante secundigesta, con antecedente de un parto anterior en la semana 35, consulta en la semana 32 por percibir contracciones. En la exploración se comprueba un cérvix permeable al dedo, borrado en 30% y con 3 cm de longitud ecográfica. La monitorización cardiotocográfica fetal revela una frecuencia cardiaca de 150 lpm y una contracción uterina cada 5 minutos. ¿Cuál de las siguientes afirmaciones es INCORRECTA?:",
+      "opciones": [
+        "Deberíamos realizar el test de la fibronectina exocervical, cuya negatividad habla a favor de una amenaza de parto pretérmino establecida.",
+        "La presencia de fibronectina exocervical es fisiológica hasta la semana 20 del embarazo.",
+        "Una longitud cervical de 3 cm supone un elevado valor predictivo negativo para el parto pretérmino.",
+        "La pérdida prematura del tapón mucoso (moco cervical) se relaciona con un aumento de riesgo para un parto pretérmino."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "No debería pasar desapercibido que las respuestas 1 y 2 se contradicen (si la presencia de fibronectina exocervical es fisiológica hasta la semana 20, más allá de dicha semana lo fisiológico es su ausencia, por tanto la respuesta 1 no tendría sentido). Esto os tiene que hacer sospechar. Y en efecto, un marcador de riesgo de parto pretérmino sería un test de fibronectina exocervical POSITIVO en este caso de gestación de 32 semanas, por tanto la respuesta 1 es la falsa."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "En relación con el cáncer de endometrio ¿cuál de las siguientes respuestas es la verdadera?:",
+      "opciones": [
+        "El cáncer de endometrio es más frecuente en mujeres menores de 55 años.",
+        "Los adenocarcinomas de tipo II presentan una evolución menos agresiva y con mejor pronostico que el tipo I, suele diagnosticarse en estadios más precoces.",
+        "El consumo de anticonceptivos hormonales y el uso de gestagénos en forma depot o de liberación continua local con DIU de levonorgestrel ejercen una función protectora sobre el riesgo de desarrollar un cáncer de endometrio",
+        "La multiparidad es un factor de riesgo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "-La mayoría de las pacientes serán diagnosticadas a partir de los 55 años,\n\n-Adenocarcinoma de endoemtrio Tipo II: De evolución más agresiva y con peor pronostico que el tipo I, suele diagnosticarse en estadios más avanzados.\n\n-La nuliparidad es un factor de riesgo."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Paciente de 32 años con diagnóstico de condicion fibroquistima mamaria, el manejo mas adecuado sería:",
+      "opciones": [
+        "Analgesia por necesidad y observación",
+        "Recomendar suplmentos con vitamina E",
+        "Recomendar suplmentos con vitamina B",
+        "BACAF"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La mastopatía fibroquística es una condición benigna y crónica que se caracteriza por una alteración en la proliferación del estroma y del parenquima mamario desarrollando quistes palpables. Es la patología mamaria mas frecuente en la mujer premenopausica. Se desconoce con exactitud la causa, se ha propuesto la influencia de un desequilibrio hormonal con hiperestrogenismo, aunque no es constante."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Señale cuál de las siguientes afirmaciones es FALSA respecto al cáncer de mama:",
+      "opciones": [
+        "El carcinoma lobulillar in situ es un factor de riesgo.",
+        "El carcinoma inflamatorio cursa con fiebre y leucocitosis.",
+        "La diseminación ocurre principalmente por vía linfática.",
+        "La RNM de mama no se debe usar de manera sistemática en el estudio preoperatorio del cáncer de mama"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El carcinoma inflamatorio de mama es una forma muy agresiva de presentación de un cáncer de mama ( T4d) que cursa con un proceso inflamatorio extenso de la mama y se debe tener en cuenta en casos de mastitis en edades más avanzadas que no responden al tratamiento ATB y AINEs, pero no cursa fiebre y leucocitosis, lo que hace falsa la opción 2.\n\nLa diseminación ocurre especialmente por vía linfática. Recuerda la gran importancia del número de ganglios afectados, que es el factor pronóstico más importante en el cáncer de mama.\n\nLa resonancia magnética presenta gran sensibilidad para detectar multifocalidad, multicentricidad, contralateralidad o bien para definir con mayor exactitud el tamaño tumoral, nos permite realizar un mapa más preciso de la enfermedad. Sin embargo, no hay evidencias suficientes que apoyen su uso sistemático en el estudio de extensión local del carcinoma invasivo de mama."
+    }
+  ]
+}

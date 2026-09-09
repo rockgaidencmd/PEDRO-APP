@@ -1,0 +1,599 @@
+{
+  "materia": "cirugia",
+  "paginaInicio": 42,
+  "paginaFin": 62,
+  "anomalias": [
+    "p56: en la pregunta 'Entre las causas de carcinoma epidermoide de esófago, se consideran las siguientes EXCEPTO' la clave es 'Resp. Correcta: 4' pero el comentario afirma 'La respuesta correcta es la 5' y solo hay 4 opciones; se respeta la clave 4 (reflujo gastro-esofágico)",
+    "p58: en la pregunta sobre cirugía urgente de colitis ulcerosa el comentario cierra con '(RC b)', notación por letras ajena al resto del documento; corresponde a la opción 2, coincidente con la clave"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 42,
+      "enunciado": "¿Cúal de las siguientes pruebas diagnósticas es imprescindible realizar a un paciente que va a ser sometido a cirugía por ERGE?",
+      "opciones": [
+        "Phmetría",
+        "Tránsito EGD (Esofagogastroduodenal)",
+        "Manometría esofágica",
+        "Endoscopia digestiva alta"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La endoscopia es la herramienta fundamental en el manejo del ERGE ya que permite categorizar adecuadamente la enfermedad, estableciendo los diferentes fenotipos que conllevan las distintas normas de manejo. El resto de pruebas funcionales (Phmetría , manometría y EGD) son recomendables pero no obligatorias"
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "¿Cuál de los siguientes signos de irritación peritoneal es más específico de la apendicitis retrocecal?",
+      "opciones": [
+        "Signo de Blumberg",
+        "Defensa involuntaria",
+        "Signo de Rovsing",
+        "Signo del psoas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El signo de Blumberg o signo de rebote se puede presentar en cualquier caso de peritonitis al vibrar el peritoneo con la descompresión brusca.\n\nEl signo de Murphy es característico de la colecistitis aguda.\n\nLos signos de Rovsing y del psoas son característicos de la apendicitis aguda, este último de la localización retrocecal."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Señale la afirmación FALSA, en relación con la resección laparoscópica del colon:",
+      "opciones": [
+        "Casi todas las enfermedades del colon y recto, susceptibles de tratamiento quirúrgico, se pueden abordar mediante laparoscopia.",
+        "En la cirugía del cáncer de colon y recto, la disección ganglionar que se puede realizar por laparoscopia es más limitada que la efectuada por laparotomía.",
+        "El abordaje laparoscópico favorece un alta hospitalaria postoperatoria más precoz que tras una resección de colon convencional.",
+        "En la cirugía del cáncer de colon y recto, las tasas de supervivencia a largo plazo de los pacientes intervenidos por laparoscopia o laparotomía son similares."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta difícil sobre la cirugía laparoscópica del colon. Para obtener una mayor perspectiva de lo que representa esta técnica, sus ventajas e inconvenientes, te recomendamos que revises la pregunta 12 de esta misma convocatoria (08- 09) y su comentario correspondiente. La encontrarás clasificada en el tema 20, por tratarse de una apendicitis aguda.\n\nUna de las ventajas que ofrece la laparoscopia respecto al abordaje convencional es una visión más amplia del campo quirúrgico, sobre todo en pacientes obesos. Esto permite que la disección ganglionar que puede obtenerse no tenga por qué ser más limitada que a través de una laparotomía (respuesta 2 falsa)."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Acude a tu consulta una mujer de 43 años sin antecedentes de interés, asintomática pero muy preocupada porque se realizó una endoscopia digestiva alta solicitada por su médico de cabecera, y en ella se objetiva una hernia de hiato por deslizamiento. ¿Cuál sería nuestra actitud?",
+      "opciones": [
+        "Corresponde a una hernia de hiato tipo II, al ser asintomática no hay que hacer nada",
+        "Corresponde a una hernia de hiato tipo I, que no precisa tratamiento",
+        "Corresponde a una hernia de hiato tipo IV, estaría indicada la cirugía con reducción del saco herniario + Técnica antirreflujo (Nissen)",
+        "Corresponde a una hernia de hiato tipo III y precisa tratamiento quirúrgico"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre manejo de las hernias de hiato, en este caso nos presentan una mujer asintomática con una hernia de hiato por deslizamiento que corresponde según la clasificación a un tipo I, en el que la UGE se desplaza al mediastino por el hiato, no presenta saco herniario y por lo general son asintomáticas, tan sólo precisan tratamiento quirúrgico cuando existen criterios de RGE sintomático. En caunto al resto de respuestas la tipo II corresponde a los casos en los que el fundus se hernia por el hiato, las tipo III son mixtas y las tipo IV o complejas se deben a migración intratorácica de cualquier órgano abdominal"
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Las siguientes afirmaciones hacen referencia a diferentes aspectos anatómicos del esófago. Señale cuál de ellas considera CORRECTA:",
+      "opciones": [
+        "La capa muscular está formada preferentemente de músculo estriado en su mitad inferior.",
+        "Un esófago normal mide menos de 20 cm de longitud.",
+        "El epitelio que lo recubre en condiciones normales es de tipo columnar salvo en la unión esofagogástrica.",
+        "El esófago carece de capa serosa."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El esófago carece de serosa. Este es uno de los motivos por los que los cánceres de esófago son tan agresivos, al no tener serosa que los contenga (respuesta 4 correcta). Repasemos las demás opciones de respuesta:\n1.- La capa muscular es especialmente gruesa y consta de dos estratos: uno externo, de fibras longitudinales y otro interno, de fibras circulares, entre los que se dispone el plexo de Auerbach. Este músculo es de tipo estriado en el tercio proximal y liso en los dos tercios distales.\n2.- El esófago es un tubo muscular de unos 25-30 cm de longitud que se extiende desde la faringe hasta el estómago.\n3.- El epitelio del esófago es escamoso estratificado no queratinizado. En la unión esofagogástrica, el epitelio esofágico cambia bruscamente a un epitelio simple columnar característico del estómago. La presencia de epitelio columnar cubriendo el esófago distal debe considerarse patológica, especialmente si la biopsia muestra epitelio de tipo intestinal (esófago de Barrett)."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Mujer de 67 años, obesa, que acude a Urgencias por dolor abdominal en cuadrante superior derecho del abdomen, fiebre de 39,5 ºC y orinas muy oscuras. Ante este cuadro se debería sospechar en primer lugar:",
+      "opciones": [
+        "Colecistitis aguda alitiásica.",
+        "Coledocolitiasis.",
+        "Colecistitis aguda litiásica.",
+        "Colangitis aguda."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un caso clínico típico de colangitis aguda, con la clásica triada de Charcot, de ictericia, dolor y fiebre, aunque en este caso nos dan el dato de la coluria en lugar de la ictericia mucocutánea. En cualquier caso, la coluria es un dato de colestasis y el dolor y la fiebre datos de infección, lo que nos hace sospechar una colangitis como primera posibilidad."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Paciente de 7 años, que acude junto con sus padres a Urgencias presentando cuadro de dolor abdominal localizado en fosa ilíaca derecha. Los días previos ha presentado un cuadro de infección respiratoria de vías altas que, en la actualidad, está en remisión. En la exploración abdominal presenta dolor en fosa ilíaca derecha, sin signos importantes de irritación peritoneal. En la analítica se evidencian 7.400 leucocitos con linfocitosis sin desviación izquierda. Con gran probabilidad, este paciente presenta un cuadro de:",
+      "opciones": [
+        "Apendicitis aguda.",
+        "Invaginación intestinal.",
+        "Adenitis mesentérica.",
+        "Divertículo de Meckel."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La adenitis mesentérica es un cuadro mal definido; suele aparecer en los textos como parte diagnóstico diferencial de apendicitis aguda, pero pocas veces como un cuadro con entidad propia, como las demás enfermedades. Se caracteriza por dolor abdominal, muchas veces precedido por un cuadro respiratorio, lo que orienta a adenovirus o algún otro virus respiratorio como probable etiología. La presencia de compromiso general y fiebre alta también sugiere una etiología viral o bacteriana del cuadro. Por lo tanto, frente a un niño con dolor abdominal de comienzo brusco, que debuta con fiebre alta (39- 40 ºC), no se debe pensar en una apendicitis aguda, sino en una adenitis mesentérica, más aún si el dolor es precedido o se acompaña de estos otros síntomas. El abdomen puede estar algo sensible difusamente, muchas veces en la fosa ilíaca derecha, de manera que siempre se debe preguntar por los antecedentes, buscar otros síntomas asociados y efectuar un buen examen físico para no cometer un error. La ecografía, como todo examen de apoyo, es un elemento más que puede ser útil, pero el pilar diagnóstico en la apendicitis es la evolución. En general, cuando un niño tiene una adenitis mesentérica producida por un adenovirus o por otro virus, lo más probable es que con el paso de las horas no se agrave, pero sí puede persistir con fiebre y dolor abdominal. Si existen los antecedentes descritos y está más o menos claro que se trata de una adenitis mesentérica, se debe hacer un tratamiento conservador, que consiste principalmente en hidratar al paciente y dejarle en observación. No obstante, si algunas horas más tarde persiste la duda, se deberá ir a laparotomía exploratoria y se hará el diagnóstico intraoperatorio."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "De los siguientes, ¿cuál se considera en la actualidad el aspecto más importante en la evaluación del abdomen agudo?",
+      "opciones": [
+        "Realización de una anamnesis completa y exploración física minuciosa.",
+        "Valoración del hemograma, especialmente el recuento y fórmula leucocitarios.",
+        "Valoración de los resultados obtenidos en la ecografía de abdomen.",
+        "Valoración de los resultados obtenidos en el TC abdominal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta muy sencilla sobre manejo del paciente con abdomen agudo. Antes que cualquier prueba complementaria, una anamnesis detallada con una buena exploración física es fundamental para el diagnóstico y tratamiento de estos pacientes. De hecho, sin necesidad de pruebas, puedes realizar un diagnóstico de sospecha y llevar a cabo un tratamiento; por ejemplo, un paciente que acude a urgencias por dolor abdominal periumbilical de 24 horas de evolución, que en las últimas horas se ha focalizado en fosa ilíaca derecha, que está pálido y sudoroso, con una frecuencia cardíaca de 110 lpm y una tensión arterial de 85/45 mmHg, y presenta un signo de Blumberg positivo en la exploración, tiene un diagnóstico de sospecha de apendicitis aguda complicada y necesita una cirugía de urgencia sin realizar ninguna prueba complementaria."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Señale la respuesta incorrecta sobre el divertículo de Zenker:",
+      "opciones": [
+        "Se origina por pulsión debido a una incoordinación de la musculatura faríngea que favorece la herniación de la mucosa esofágica",
+        "Se localiza en la parte anterior de la hipofaringe",
+        "Puede causar halitosis , regurgitación , disfagia , tos e incluso neumonías por aspiración",
+        "El tratamiento consiste en la miotomía cricofaríngea por vía endoscópica o quirúrgica"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre el divertículo de Zenker, nos piden señalar la incorrecta y en este caso es la respuesta número 2 la incorrecta puesto que como debemos saber anatómicamente el divértículo se sitúa en la parte posterior de la hipofaringe , por encima del músculo cricofaríngeo y por debajo del músculo constrictor inferior faríngeo"
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "La etiología litiásica corresponde aproximadamente al 90% de los pacientes con colecistitis aguda. Existen factores claramente relacionados con el aumento de litogénesis biliar en algunos pacientes. Señale cuál de los siguientes NO es factor de riesgo para su desarrollo:",
+      "opciones": [
+        "Pérdida de peso excesiva o acelerada.",
+        "Ayuno prolongado en pacientes con nutrición parenteral prolongada.",
+        "Sexo masculino.",
+        "Enfermedad inflamatoria intestinal tipo enfermedad de Crohn."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La frecuencia de la litiasis biliar aumenta con la edad y es 2-3 veces más frecuente en mujeres que en varones (marcamos la opción de respuesta 3). Otro factor de riesgo para el desarrollo de litiasis biliar es la obesidad, situación en la que la secreción biliar de colesterol está aumentada. La rápida pérdida de peso que se produce de forma típica tras cirugía bariátrica también aumenta significativamente la incidencia de litogénesis biliar debido al catabolismo lipídico de la fase de adelgazamiento rápido que sobresatura la bilis con colesterol favoreciendo la precipitación de cristales y con ello la génesis de cálculos, además de la alteración de la circulación enterohepática de ácidos biliares que se produce a nivel de íleon terminal, cuyo trastorno puede deberse a la disminución del tramo intestinal funcional en procedimientos de cirugía bariátrica o tras resección de segmentos de íleon terminal en pacientes con enfermedad de Crohn o directamente por su lesión inflamatoria derivada de la enfermedad. El ayuno intestinal prolongado produce estasis biliar ya que no existe el estímulo del alimento a nivel intestinal y la secreción de enzimas digestivas como la colecistoquinina está disminuida, lo que favorece la precipitación de los componentes biliares. Otros factores implicados menos importantes son las vagotomías, anemias hemolíticas, cirrosis hepática o fármacos como los anticonceptivos orales, fibratos, o la terapia hormonal sustitutiva con estrógenos."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Los hallazgos radiológicos característicos de la acalasia son los siguientes, excepto:",
+      "opciones": [
+        "Contracciones terciarias",
+        "Defecto de peristalsis del esofago proximal",
+        "Afilamiento de la luz en el EEI",
+        "Dilatación del cuerpo esofágico"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La acalasia es un trastorno de la motilidad esofágica distal y no proximal."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Un paciente joven que presenta enfermedad por reflujo gastroesofágico (ERGE), tendría indicación absoluta de realizar una técnica quirúrgica tipo funduplicatura en todas las siguientes, EXCEPTO:",
+      "opciones": [
+        "Fenómenos hemorrágicos de repetición.",
+        "Infecciones respiratorias de repetición.",
+        "Falta de respuesta a tratamiento médico correcto.",
+        "Esófago de Barrett."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Son indicaciones absolutas de cirugía con una técnica antirreflujo aquellos pacientes que, tras ser correctamente informados, rechazan el tratamiento médico por su coste excesivo o por miedo a los efectos colaterales de la medicación y aquellos que presentan falta de respuesta completa, pese al tratamiento médico correcto y controlado. Asimismo, también lo son los pacientes que presentan complicaciones, que pueden ser respiratorias de repetición, fenómenos hemorrágicos de repetición, esofagitis grado 2 o superior y estenosis que no se controlan con dilataciones (pueden precisar esofagectomía). Sin embargo, la presencia de metaplasia intestinal, es decir, el esófago de Barrett, se considera una indicación relativa, es decir, el paciente puede decidir entre la opción quirúrgica o la opción médica, ya que ninguna de las dos opciones puede hacer prescindir de los controles endoscópicos periódicos debido al riesgo de malignización (marcamos la opción de respuesta 4)."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "¿Cuál es la lesión quística pancreática MÁS frecuente?",
+      "opciones": [
+        "Neoplasia papilar mucinosa intraductal.",
+        "Pseudoquiste pancreático.",
+        "Cistoadenoma seroso.",
+        "Neoplasia quística mucinosa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta que recuerda que debemos saber que la lesión quística más frecuente en el páncreas es el pseudoquiste pancreático (respuesta 2 correcta), una condición benigna que constituye la complicación más habitual de la pancreatitis aguda. Su etiología generalmente se debe a la inflamación de la glándula pancreática que genera lesiones en el conducto pancreático, de forma más frecuente ante una pancreatitis crónica. La mayoría se encuentran localizados en el cuerpo y cola del páncreas. Las principales características de los pseudoquistes pancreáticos son las concentraciones altas de amilasa, con niveles de CEA intraquísticos muy bajos, lo que permite discenir del resto de opciones, que corresponden a neoplasias quísticas en las que las lesiones más frecuentes son las neoplasias quísticas mucinosas."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "La laparoscopia es el abordaje alternativo a la cirugía abierta en el abdomen. Este abordaje ha revolucionado la cirugía, habiéndose demostrado en bastantes patologías sus evidentes beneficios sobre los abordajes clásicos. El procedimiento consiste en la realización de las mismas técnicas quirúrgicas que se hacen en cirugía abierta mediante la realización de pequeñas incisiones en el abdomen en número variable según la técnica, a través de las que se introducen una cámara y el instrumental quirúrgico específico; la cámara está conectada a una pantalla o monitor que constituye el campo visual del cirujano. La obtención de un buen campo quirúrgico se logra con la realización de un neumoperitoneo controlado, introduciendo dióxido de carbono en la cavidad abdominal. Todo ello permite una buena visualización. Con respecto a la laparoscopia, es INCORRECTO que:",
+      "opciones": [
+        "La laparoscopia es de elección en la salpingoclasia.",
+        "La laparoscopia propicia un mejor retorno venoso por la hipertensión abdominal.",
+        "Algunas de las ventajas de la laparoscopia son la menor agresividad para el paciente y la recuperación más rápida.",
+        "La laparoscopia provoca un menor número de adherencias."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La laparoscopia provoca un peor retorno venoso por la hipertensión abdominal (opción 2 incorrecta, por lo que la marcamos). Esta pregunta nos sirve para ver dos cosas: las preguntas largas las empezamos por el final (el enunciado es totalmente innecesario) y que es muy fácil cambiar una palabra de una opción de respuesta (mejor por peor, alto por bajo, etc.)."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Sobre el tratamiento del cáncer colorrectal, es cierta una de las siguientes afirmaciones:",
+      "opciones": [
+        "La resección de metástasis hepáticas del cáncer colorrectal no está indicada por los malos resultados en cuanto a la supervivencia.",
+        "La radioterapia postoperatoria no disminuye las recidivas locales, aunque proporciona mejor calidad de vida a los pacientes.",
+        "Los tumores del tercio medio del recto no se pueden tratar con resección anterior baja.",
+        "Los tumores colorrectales con afectación ganglionar (estadios C de Dukes) requieren tratamiento adyuvante."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las metástasis hepáticas de cáncer colorrectal deben tratarse de forma agresiva pues se consiguen mejoras relevantes en la supervivencia, respuesta 1 falsa.\n\nLa RT postoperatoria en el cancer de recto se ha dejado de utilizar por la alteración funcional que provoca, aunque sí conseguía disminuir la tasa de recidiva local. En la actualidad si se conoce que se trata de un tumor localmente avanzado, lo indicado es la administración de la QT-RT PREOPERATORIA.\n\nPor lo general, los tumores de recto extraperitoneal, medio e inferior se deben tratar mediante RAB con escisión mesorrectal total.\n\nLa administración de QT adyuvante está indicada cuando existe afectación ganglionar (N+). Respuesta 4 correcta"
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Varón de 55 años, fumador y bebedor importante, sin otros antecedentes, que acude a consulta por disfagia para sólidos progresiva, de pocos meses de evolución, junto con pérdida de 10 kg de peso y astenia. Su sospecha diagnóstica es:",
+      "opciones": [
+        "Acalasia.",
+        "Esclerodermia.",
+        "Carcinoma esofágico.",
+        "Estenosis péptica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso importante sobre el carcinoma de esófago (respuesta 3 correcta). Sospecha siempre cáncer de esófago en varones con antecedentes personales de alcoholismo y tabaquismo, con disfagia para sólidos de reciente instauración y pérdida de peso. A diferencia de los trastornos motores, la disfagia es inicialmente para sólidos y progresivamente a alimentos semisólidos, líquidos hasta llegar a afagia completa."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Señale cuál de las siguientes NO se considera una indicación de tratamiento quirúrgico en la ERGE:",
+      "opciones": [
+        "Sintomatología persistente a pesar de tratamiento médico correcto, que impide una adecuada calidad de vida.",
+        "Hernia hiatal por deslizamiento.",
+        "Estenosis pépticas que no se controlan con dilataciones.",
+        "Displasia de alto grado en pacientes con esófago de Barret."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La hernia hiatal por deslizamiento o tipo I ni es indicación quirúrgica en si misma si no tiene indicación quirúrgica la ERGE asociada.\n\nLa displasia de alto grado en las biopsias de E. Barret es indicación de esofaguectomia por el elevado porcentaje de carcinoma infiltrante en las piezas resecadas."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "De las siguientes patologías esofágicas, indique la que NO tiene indicación quirúrgica:",
+      "opciones": [
+        "Acalasia en paciente joven.",
+        "Hernia de hiato por deslizamiento asintomática.",
+        "Hernia paraesofágica asintomática.",
+        "Estenosis refractaria a dilataciones."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La hernia paraesofágica, debido al riesgo de complicaciones tipo hemorragia o volvulaciones, debe ser tratada quirúrgicamente, aunque sea asintomática, a diferencia de la hernia por deslizamiento, que solo operaremos en el caso de que produzca síntomas o complicaciones. Realizaremos cirugía de la acalasia en jóvenes, o por fracaso, o contraindicación de dilataciones. Es importante que recuerdes las indicaciones de cirugía en el RGE, que se resumen en: sintomatología persistente o complicaciones (estenosis, esofagitis grado II, hemorragia o complicaciones respiratorias)."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Señale la INCORRECTA en relación al divertículo de Zenker:",
+      "opciones": [
+        "El método diagnóstico de elección es la endoscopia.",
+        "Puede dar lugar a aspiración traqueobronquial.",
+        "Ocasionalmente produce una obstrucción total del esófago.",
+        "Surge de la parte posterior de la faringe."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El divertículo de Zenker se localiza en la parte posterior de la hipofaringe, por encima del músculo cricofaringeo y debajo del músculo constrictor inferior faríngeo. Se origina por pulsión, debido a una incoordinación de la musculatura faríngea (que favoerece la herniación de la mucosa a través del triángulo de Killian).\n\nPuede causar halitosis, regurgitación, disfagia orofaríngea, tos, neumonía por aspiración e incluso obstrucción completa por compresión.\n\nComo complicaciones, puede producir episodios de broncoaspiración, formación de fístulas entre divertículo y la tráquea,hemorragia intradiverticular y mas raramente, la aparición de un carcinoma epidermiode dentro del diverticulo.\n\nEl método diagnóstico de elección es el estudio baritado.\n\nEl tratamiento se indica en los pacientes sintomáticos o con divertículos grandes, consiste en la ablación, bien por vía endoscópica o quirúrgica, realizando una miotomia cricofaríngea y extirpando el divertículo, si es pequeño, la miotomia es suficiente."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "¿Qué opción debemos considerar de elección en el tratamiento de un pseudoquiste inferior de 6 cm de diámetro y asintomático que se ha desarrollado como complicación en una pancreatitis aguda?:",
+      "opciones": [
+        "Esperar evolución clínica de 4-6 semanas.",
+        "Somatostatina (perfusión iv) u octreotido sc.",
+        "Drenaje quirúrgico interno.",
+        "Drenaje endoscópico guiado por ecoendoscopia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico típico, puesto que la actitud hacia el pseudoquiste pancreático ya había sido preguntada en convocatorias previas. Los pseudoquistes son formaciones de contenido líquido no recubiertas del epitelio de los conductos pancreáticos, que tampoco tienen una cápsula propiamente dicha y que se producen por el acúmulo de secreciones pancreáticas tras agresiones diversas en el seno del tejido pancreático, en su mayoría por pancreatitis. Su contenido es muy rico en enzimas pancreáticos.\n\nUn 25- 40% se resuelven de forma espontánea. Por ello, los pseudoquistes asintomáticos deben vigilarse periódicamente sin tratamiento (respuesta 1 correcta). El tratamiento quirúrgico de los pseudoquistes de páncreas, cuando está indicado, consiste en una derivación interna, es decir drenar el contenido del pseudoquiste (secreciones pancreáticas) al tubo digestivo (que es donde vierte de forma fisiológica el páncreas su secreción). Esto puede hacerse con diferentes técnicas como la cistoyeyunostomía en Y de Roux, la cistogastrostomía y la cistoduodenostomía. En aquellos casos en los que el pseudoquiste se localice en la cola pancreática una opción adecuada es la pancreatectomía distal que incluye el pseudoquiste. Sólo en los casos en los que se produce la infección del pseudoquiste con importante repercusión clínica estará indicado realizar un drenaje externo."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "La causa más frecuente de obstrucción intestinal en una paciente intervenida de histerectomía y apendicitis aguda hace es:",
+      "opciones": [
+        "Adherencias.",
+        "Cáncer de colon sigmoideo.",
+        "Hernia inguinal.",
+        "Hernia crural."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En pacientes con intervenciones previas, la causa más frecuente de obstrucción son las adherencias o bridas. Si la cirugía previa fue de causa oncológica, hay que pensar en la posibilidad de una carcinomatosis peritoneal. Si no existen intervenciones previas, habrá que descartar otras causas de obstrucción (hernias, ileo biliar, bezoar, enteritis …). En estos pacientes se instaura tratamiento específico de la causa."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Hombre de 52 años de edad derivado al servicio de digestivo por cuadro de hematoquecia, tenesmo y reducción del diámetro de las heces. Se realizan una serie de pruebas, diagnosticándose un adenocarcinoma de sigma sin metástasis a distancia. El paciente es intervenido quirúrgicamente y remitido a la consulta de oncología médica para valorar tratamiento quimioterápico complementario. ¿Cuál de los siguientes factores es de mal pronóstico tras la resección quirúrgica y habrá que tener en cuenta a la hora de planificar el tratamiento de quimioterapia?",
+      "opciones": [
+        "La presencia de anemia al diagnóstico.",
+        "La existencia de antecedentes familiares de cáncer colorrectal.",
+        "El tamaño de la lesión primaria y la diferenciación histológica.",
+        "La perforación o adhesión del tumor a órganos adyacentes."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Además del estadío, otros factores relacionados con la histología y características específicas del tumor intervenido influyen en el pronóstico de un paciente con cáncer de colon, determinando en ocasiones, la necesidad o no de recibir tratamiento adyuvante. En la tabla 22 del manual (10ª edición) se especifican estos factores pronósticos a los que hace alusión la pregunta. La perforación serosa (T4) que implique adherencia a órganos adyacentes o genere una perforación libre, es claramente uno de esos factores de mal pronóstico que obligan a la administración de quimioterapia postoperatoria. Por lo tanto, la respuesta 4 es la correcta. Las respuestas 1 y 2 no tienen carácter pronóstico, mientras que la 3 es sólo parcialmente correcta, ya que sí es un factor de mal pronóstico la presencia de un tumor pobremente diferenciado (diferenciación histológica) mientras que el tamaño no lo es."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Cual de los siguientes no es considerado un factor de mal pronóstico en el CCR:",
+      "opciones": [
+        "Invasión de órganos adyacentes",
+        "Aneuploidía celular",
+        "Anemia microcítica al diagnóstico",
+        "Tumor poco diferenciado"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La anemia microcítica es muy característica en el diagnóstico del CCR pero no implica mal pronóstico del mismo"
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Paciente politraumatizado que en la TC toracoabdominal presenta un hematoma retroperitoneal importante. ¿Cuál será nuestra primera sospecha como causa del hematoma?",
+      "opciones": [
+        "Lesión de la arteria ureteral.",
+        "Rotura parcial de una vena renal.",
+        "Fractura de la pelvis.",
+        "Rotura de uretra."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La causa más frecuente de hematoma retroperitoneal es la fractura de pelvis. Cuando es inestable por apertura del anillo pélvico se puede comprimir el sangrado con una faja o hamaca pélvica. Sin embargo, cuando la inestabilidad es en el plano vertical por fractura a dos niveles del anillo pélvico, la fijación debe realizarse mediante fijador externo ."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Respecto al abdomen agudo:",
+      "opciones": [
+        "Todo abdomen agudo requiere tratamiento quirúrgico",
+        "En el abdomen agudo de causa visceral, el dolor es característicamente profundo, sordo y mal localizado",
+        "Si la sospecha clínica es de perforación de colon, podría estar indicada la realización de colonoscopia para cerrar el defecto.",
+        "El signo de Blumberg es patognomónico de apendicitis aguda"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es evidente que no todo paciente con abdomen agudo requiere cirugía, de hecho hay multitud de causas que son susceptibles de tratamiento médico incluso causas extraabdominales.\n\nEl dolor inicial del abdomen agudo afecta al peritoneo visceral y responde a las características que enumera la respuesta 2.\n\nLa colonoscopia está contraindicada ante sospecha de perforación.\n\nEl signo de Blumberg o signo de rebote se presenta en la Apendicitis aguda pero no es patognomónico porque también está presente en muchos otros cuadros de abdomen agudo de distintas etiologías."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Un paciente de 65 años diagnosticado desde hace 30 años de reflujo gastroesofágico con esofagitis, y de esófago de Barrett desde hace 8 años, seguido con revisiones anuales en la consulta. En la última biopsia realizada se ha observado displasia severa. Señale cuál es la actitud más correcta en este caso:",
+      "opciones": [
+        "Endoscopia y nueva biopsia dentro de 6 meses.",
+        "Esofagectomía distal programada.",
+        "Iniciar tratamiento con antihistamínicos anti-H2, y nueva revisión en 6 meses.",
+        "Iniciar tratamiento con omeprazol, y nueva revisión en 6 meses."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La presencia en un esófago de Barret de displasia severa debe considerarse como que ya existe un adenocarcinoma o que el riesgo de desarrollarlo es muy elevado y en forma inminente. Por todo ello, en esa situación, lo que se recomienda es la esofaguectomía de la zona afecta. Ultimamente se ha desarrollado procedimientos endoscópicos como la abrasión, pero su eficacia en estudios amplios todavía no ha sido suficientemente contrastada."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "¿Cuál es el tratamiento de un paciente diagnosticado de melanoma en conducto anal?:",
+      "opciones": [
+        "Resección anterior baja.",
+        "Resección local.",
+        "Amputación abdominoperitoneal.",
+        "Radioterapia más quimioterapia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los tumores anales son raras. Suelen presentarse en varones jóvenes y el más frecuente es el de células escamosas, que se trata con resección local o radioterapia. El melanoma es muy raro y en caso de que aparezca se realiza amputación abdominoperitoneal."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "El orificio inguinal superficial es un orificio en:",
+      "opciones": [
+        "Fascia de Scarpa.",
+        "Fascia transversalis.",
+        "Fascia del oblicuo mayor.",
+        "Fascia del oblicuo menor."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El orificio inguinal superficial constituye el límite anterior del conducto inguinal, y está formado por las fibras del Músculo oblicuo externo del abdomen que ase nivel se abren generando pilares que lo circunscriben."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Mujer de 43 años que consulta en Urgencias por un cuadro de 48 horas de evolución de dolor abdominal focalizado en hipocondrio derecho y fiebre de 38,3 ºC. Solicita una analítica con los siguientes resultados: leucocitos 13.500/mm³, (VN 5.000-10.000), neutrofilia 87%, bilirrubina total: 1,2 mg/dL, bilirrubina directa: 0,3 mg/dL, GGT: 30 mU/mL, fosfatasa alcalina: 40 U/L. Se le realiza una ecografía de abdomen que muestra colecistitis aguda litiásica no complicada. ¿Cuál le parece el tratamiento MÁS correcto para la paciente?",
+      "opciones": [
+        "Antibioticoterapia intravenosa y colecistectomía programada.",
+        "Colecistectomía laparoscópica.",
+        "Colecistostomía percutánea radioguiada.",
+        "Alta a domicilio con tratamiento antiinflamatorio y analgesia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre la colecistitis aguda. Debes saber que el tratamiento de elección es la cirugía precoz mediante colecistectomía laparoscópica generalmente, sobre todo en pacientes sin factores de riesgo y diagnóstico precoz como en la paciente presentada (respuesta 2 correcta). Sin embargo, ante casos en los que el paciente presente un alto riesgo quirúrgico o el cuadro tenga una evolución mayor a 72 horas se debe plantear hacer un manejo médico conservador con antibioticoterapia y programar la cirugía posteriormente en mejores condiciones, tanto anatómicas de la vesícula como de la situación clínica del paciente. Si ante el manejo conservador en un paciente de alto riesgo no hay mejoría con el tratamiento médico optimizado o presenta signos de sepsis, se debe considerar la realización de una colecistostomía percutánea."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "¿Cuál de las siguientes enfermedades necesita con más frecuencia de la actuación del cirujano?",
+      "opciones": [
+        "Enfermedad de Crohn.",
+        "Colitis ulcerosa.",
+        "Gastritis de estrés.",
+        "Enfermedad de Whipple."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La enfermedad de Whipple es una enfermedad infecciosa que no se trata quirúrgicamente. Del mismo modo, la gastritis de estrés se trata médicamente y solo requiere cirugía raramente, cuando existe un sangrado que no cede con tratamiento médico y endoscopia.\n\nRespecto a la enfermedad Inflamatoria intestinal, la colitis ulcerosa necesita cirugía en torno al 20-25% de los casos, con intención curativa.\n\nSin embargo, la enfermedad de Crohn requiere cirugía en el 75 % de los pacientes, en muchas ocasiones cirugías repetidas, dado que la enfermedad no es curable."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Paciente de 60 años con sensación de obstrucción en el cuello cuando traga. Señala además que, cuando bebe líquidos, siente como un \"gorgojeo\" en la garganta y que a veces regurgita porciones de alimentos no digeridas. Su mujer le ha dejado porque no soporta su aliento. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Carcinoma epidermoide del 1/3 superior del esófago.",
+        "Parálisis cricofaríngea.",
+        "Rumiación psicógena.",
+        "Divertículo de Zenker."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El divertículo de Zenker se localiza en la parte posterior de la hipofaringe, por encima del músculo cricofaríngeo y debajo del músculo constrictor inferior de la faringe (triangulo de Killian). Se originan por pulsión, debido a una mala coordinación de la musculatura faríngea. Puede causar halitosis, regurgitación, disfagia orofaríngea e incluso una obstrucción completa por compresión.\n\nComo complicaciones, puede producir episodios de broncoaspiración, formación de fístulas entre el divertículo y la tráquea, hemorragia intradiverticular (sobre todo con la aspirina) y, más raramente, la aparición de un carcinoma epidermoide dentro del divertículo. La colocación de una sonda nasogástrica o la realización de una endoscopia en estos pacientes tiene riesgo de perforación del divertículo, por lo que deben evitarse. El tratamiento es quirúrgico, realizando una miotomía cricofaríngea y extirpando el divertículo. Si es pequeño, la miotomía es suficiente."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Un paciente acude a su consulta refiriendo cambio del ritmo intestinal con tendencia al estreñimiento, rectorragia, cansancio y una anemia en la analítica. Ante la sospecha de cáncer colorrectal, no es adecuado afirmar que:",
+      "opciones": [
+        "Debe practicarse un tacto rectal y colonoscopia con toma de biopsia.",
+        "El estudio de extensión del cáncer de colon se realiza con TC toraco-abdominal añadiéndose RM de recto +/- ecoendoscopia rectal en el cáncer de recto",
+        "El CEA se utiliza fundamentalmente durante el seguimiento de los pacientes con cáncer colorrectal.",
+        "Todos los pacientes tiene el CEA elevado al diagnóstico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El CEA en cáncer colorrectal se realiza para controlar analíticamente en el seguimiento en busca de elevaciones del mismo que puedan orientar o alertarnos ante una posible recidiva tumoral.\n\nTodos los tumores no tienen el CEA elevado al diagnóstico por lo que en ellos será menos útil esta estrategia."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Entre las causas de carcinoma epidermoide de esófago, se consideran las siguientes EXCEPTO:",
+      "opciones": [
+        "Tabaco.",
+        "Alcohol.",
+        "Acalasia crónica.",
+        "Reflujo gastro-esofágico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Entre los diferentes tipos de cáncer de esófago, debemos distinguir dos variedades principales: el carcinoma epidermoide y el adenocarcinoma esofágico. En realidad, lo que están haciendo en esta pregunta es tratar que los confundamos entre sí.\n\nEl carcinoma epidemoide esofágico se ha relacionado con hábitos como el tabaco y el alcohol, tal como se expresa en las dos primeras respuestas, siendo además una asociación fuerte. La acalasia también está vinculada a este tipo de cáncer, aunque no justifica un número de casos tan elevado como el tabaquismo. Por último, el síndrome de Plummer- Vinson, que se asocia a la anemia ferropénica, también se considera factor de riesgo.\n\nLa respuesta correcta es la 5. El reflujo gastroesofágico produce una metaplasia columnar en la región inferior del esófago, conocida como esófago de Barrett. En ocasiones, esta metaplasia se complica con displasia de diferentes grados, lo que finalmente deriva en un adenocarcinoma esofágico.\n\nRecuerda que, topográficamente, el esófago de Barrett aparece en el tercio inferior, mientras que el carcinoma epidermoide es más propio del tercio medio."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "¿Cuál de los siguientes factores de riesgo no se asocia al carcinoma epidermoide de esógago?",
+      "opciones": [
+        "Alcohol",
+        "Tabaco",
+        "Esófago de Barret",
+        "Acalasia"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de una pregunta sobre factores de riesgo de carcinoma epidermoide, en este caso es el esófago de Barret el que debemos asociarlo con el adenocarcinoma esofágico que ha experimentado un incremento en las últimas décadas, en pacientes jóvenes y de raza blanca"
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Varón de 82 años que consulta por presentar en los dos últimos años numerosos episodios de disfagia al inicio de la deglución, halitosis y, en ocasiones, regurgitación maloliente. Además, describe en varias ocasiones, y sin guardar relación con la deglución, accesos de tos y disnea. Entre los siguientes, ¿cuál sería el diagnóstico más probable?:",
+      "opciones": [
+        "Divertículo por tracción.",
+        "Fibrosis esofágica postmediastinitis.",
+        "Divertículo de Zenker.",
+        "Esófago de Barrett."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El divertículo de Zenker se desarrolla en la región posterior de la hipofaringe en la unión con el esófago superior. Se acompaña de disfagia tipo faríngeo por disfunción de la musculatura cricofaríngea. Además, el acúmulo de alimento condiciona halitosis, e incluso en ocasiones regurgitación maloliente. La acalasia, las estenosis del esófago de Barrett y la fibrosis esofágica dan disfagia de esófago inferior, no tipo faríngeo."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "En el esófago de Barrett, la realización de una técnica antirreflujo con demostración manométrica y pHmétrica, de ser eficaz:",
+      "opciones": [
+        "Hace retroceder siempre las alteraciones de la mucosa esofágica.",
+        "No hace retroceder la enfermedad, pero impide la evolución a carcinoma.",
+        "No hace desaparecer el potencial de que se desarrolle un adenocarcinoma.",
+        "Tras dos estudios consecutivos de pHmetría esofágica normal separados entre sí por al menos 12 meses, puede prescindirse de nuevas valoraciones del paciente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El esófago de Barrett consiste en la presencia de un epitelio columnar de tipo intestinal, que aparece en algunos pacientes con esofagitis por reflujo gastroesofágico. Este cambio, el tipo de epitelio obedece a fenómenos de metaplasia, e implica un riesgo de malignización, por lo que habrá que vigilarlo endoscópicamente de forma periódica, ya que existe potencial de malignización (respuesta 3 correcta). Lo que hace la técnica antirreflujo es reducir el riesgo de progresión a displasia y, si la hubiera, desciende el riesgo de malignización, aunque no se elimina."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "¿Cúal de los siguientes factores de riesgo NO se asocia con el carcinoma epidermoide de esófago?",
+      "opciones": [
+        "Acalasia",
+        "Esófago de Barret",
+        "Alcohol",
+        "Síndrome de Plummer- Vinson"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El esófago de Barret es un factor de riesgo asociado al adenocarcinoma de esófago , no al carcinoma epidermoide."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Mujer de 40 años con anemia ferropénica y disfagia de larga evolución a la que se realiza una esofagoscopia encontrando una membrana fibrosa que obstruye parte de la luz del esófago de un modo excéntrico un poco más abajo del músculo cricofaríngeo. En este caso debemos pensar que se trata de:",
+      "opciones": [
+        "Esófago de Barrett.",
+        "Síndrome de Mallory-Weiss.",
+        "Carcinoma de esófago.",
+        "Síndrome de Plummer-Vinson."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La presencia de membrana fibrosa que obstruye la luz del esófago por debajo del músculo cricofaríngeo es típica del síndrome de Plummer- Vinson, que con frecuencia se asocia a una situación de ferropenia crónica. El tipo de disfagia que da es faríngea."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Indique cuál NO es una indicación para cirugía urgente de colitis ulcerosa:",
+      "opciones": [
+        "Megacolon tóxico que persiste tras 24 horas de tratamiento médico.",
+        "Colangitis esclerosante refractaria a tratamiento.",
+        "Perforación colónica.",
+        "Hemorragia masiva."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La colitis ulcerosa (CU) es una enfermedad idiopática inflamatoria que afecta a la mucosa del recto y se extiende de forma proximal para afectar una longitud variable del colon. La base del tratamiento es médica. Sin embargo, se estima que el 30-40% de los pacientes requerirán cirugía. De ellos aproximadamente el 20% requerirán una cirugía urgente ante un compromiso vital importante. Las principales indicaciones de cirugía urgente la constituyen el fracaso en el tratamiento médico en pacientes con colitis tóxica o fulminante y el megacolon tóxico siendo menos frecuente la perforación y la hemorragia masiva. La presencia de efectos sintomatología extraintestinal refractaria a tratamiento médico podría hacer indicar una cirugía electiva en CU, pero nunca sería indicación una colangitis esclerosante refractaria (RC b) ya que su sintomatología es independiente de la afectación colónica."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "La cirugía laparoscópica es un abordaje alternativo que ha revolucionado la cirugía habiéndose demostrado sus ventajas en numerosas patologías ¿Cuál de las siguientes no se considera una de ellas?",
+      "opciones": [
+        "Genera menos adherencias intraabdominales",
+        "Menor agresión quirúrgica",
+        "Menor riesgo de trombosis venosa profunda",
+        "Menor íleo paralítico"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta fácil sobre cirugía laparoscópica en este caso la respuesta correcta es la número 3, puesto que una de las desventajas de la cirugía laparoscópica es que conlleva un MAYOR riesgo de trombosis venosa profunda"
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Un paciente refiere que tiene sangrado de caracter distal diariamente sin prolapso. Usted realiza una anuscopia y observa hemorroides internas congestivas con estigmas de sangrado reciente. De qué grado son?",
+      "opciones": [
+        "Grado 4. Sangrado diario",
+        "Grado 3. Prolapso asintomático",
+        "Grado 2. Congestivas en la anuscopia",
+        "Grado 1. Sin prolapso"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Recuerda la clasificación de las hemorroides internas:\n\nGrado 1: no prolapsadas\n\nGrado2: Prolapso con el esfuerzo, se reduce espontáneamente.\n\nGrado 3: Prolapso con el esfuerzo, se reduce manualmente.\n\nGrado 4: prolapso irreductible, permanente"
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Un hombre de 74 años refiere pirosis diaria desde la juventud que trata con alcalinos. Se le practica una endoscopia digestiva alta que muestra esofagitis erosiva leve y la unión escamosa columnar desplazada aproximadamente 7 cm respecto a la porción más proximal de los pliegues gástricos. Las biopsias del esófago distal revelan que el epitelio escamoso normal ha sido reemplazado por epitelio columnar de tipo intestinal con displasia de bajo grado. ¿Cuál es la opción MÁS apropiada para el manejo de este paciente?",
+      "opciones": [
+        "Dado que la esofagitis es leve y la displasia de bajo grado, se aconseja continuar tratamiento con alcalinos.",
+        "Tratamiento indefinido con dosis altas de inhibidores de la bomba de protones, ya que se ha demostrado que así se evita la progresión del esófago de Barrett a adenocarcinoma, haciendo innecesaria la vigilancia endoscópica.",
+        "Endoscopias de vigilancia periódicas y tratamiento con inhibidores de la bomba de protones durante menos de 12 semanas, ya que tratamientos más prolongados se asocian a un alto riesgo de desarrollo de gastrinomas.",
+        "Endoscopias de vigilancia periódicas (cada 6-12 meses) y tratamiento indefinido con inhibidores de la bomba de protones."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la pregunta nos describen a un paciente que tiene esófago de Barrett, con displasia de bajo grado. El manejo de este paciente consiste en realizar tratamiento indefinido con un inhibidor de la bomba de protones (o funduplicatura de Nissen) y una biopsia de control cada 6-12 meses, tal como se indica en la opción de respuesta 4. En el esófago de Barrett con displasia de alto grado (o severa), confirmada por dos patólogos, el manejo clásico consiste en realizar una esofagectomía profiláctica, aunque se está popularizando la erradicación endoscópica (mucosectomía, radiofrecuencia, etc.) en casos seleccionados."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "¿En cuál de los siguientes casos la laparoscopia puede ofrecer MÁS ventajas que la laparotomía convencional en el manejo de un abdomen agudo?",
+      "opciones": [
+        "Niños con clínica típica de apendicitis aguda no perforada.",
+        "Mujeres en edad fértil con dudas entre apendicitis y anexitis.",
+        "Jóvenes con peritonitis de origen no claro.",
+        "Ancianos con sepsis severa por colecistitis aguda."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las principales ventajas de la laparoscopia en relación con la cirugía convencional son una menor agresividad para el paciente, una recuperación más rápida y una menor tasa de complicaciones. Por ello, se ha convertido en la técnica de elección para determinadas intervenciones: colecistectomías, funduplicaturas, salpingoclasia, tratamiento quirúrgico de la acalasia y cuando no existe un diagnóstico claro. En este caso clínico, la única opción de respuesta donde existen dudas diagnósticas es la 2, por lo que sería la correcta. En este caso, la paciente se beneficiaría mucho si se utiliza la laparoscopia, ya que en caso de padecer una anexitis, se hubiera ahorrado una laparotomía, ya que el tratamiento sería esencialmente médico. Pueden surgir dudas con la opción 4, ya que las colecistectomías pueden realizarse por laparoscopia, pero nos dicen que es un anciano con sepsis severa y, al ser una situación muy urgente, debemos optar por la técnica más rápida, que sería la cirugía convencional."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "¿Cuál no constituye una indicación de primera elección de cirugía laparoscópica?",
+      "opciones": [
+        "Colecistectomía.",
+        "Nissen.",
+        "Pancreatectomía distal.",
+        "Diagnóstico de dolor abdominal en mujer joven y obesa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La cirugía laparoscopica ha demostrado ventajas evidentes en múltiples intervenciones.\n\nLa colecistectomia y la cirugía del reflujo son dos de las técnicas iniciadas más precozmente y en las que más evidencias existen de sus ventajas, así como en el manejo del abdomen agudo en la mujer fértil (para el diagnóstico diferencial con la patología anexial) y el paciente obeso ( en que requeriría una laparotomia mas grande y con mayor riesgo de complicaciones de la herida.\n\nA pesar de que la pancreatectomia distal es una intervención que se puede realizar por vía laparoscopica, sus ventajas aún están por demostrar y no está consolidado como el abordaje de elección"
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Son indicaciones de tratamiento de un pseudoquiste pancreático de larga evolución, complicación de una pancreatitis aguda litiásicas grave, todas las que a continuación se enumeran, EXCEPTO:",
+      "opciones": [
+        "Presencia de sintomatología importante.",
+        "Crecimiento en los controles.",
+        "Antecedentes familiares de cáncer de páncreas.",
+        "Migración del pseudoquiste a cavidad mediastínica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La indicación para tratar un pseudoquiste se establece por el tiempo de evolución y la sintomatología acompañante. Debemos esperar al menos seis semanas para establecer que es un verdadero pseudoquiste, y que no regresa espontáneamente. Las complicaciones y la sintomatología marcan la indicación de tratamiento. Síntomas como dolor, obstrucción, ictericia, etc. y complicaciones como la infección, o la migración a cavidades, son los más característicos. Por último, debemos tener en cuenta que determinadas localizaciones como la periesplénica, deben de tratarse por el riesgo de sangrado que pueden producir durante su crecimiento. Los antecedentes familiares de cáncer de páncreas no es indicación para operar un pseudoquiste, ya que la relación entre el pseudoquiste el y el cáncer de páncreas no está demostrada (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "¿Cuál será la actuación prioritaria en el tratamiento de un paciente que es traído al hospital inconsciente, con diversas heridas sangrantes en miembros inferiores y en el tórax, con rotación interna y acortamiento del miembro inferior derecho?",
+      "opciones": [
+        "Reducir la luxación de la cadera derecha, por el peligro de necrosis de la cabeza femoral.",
+        "Establecer una vía aérea efectiva.",
+        "Control de los puntos sangrantes activos.",
+        "Colocación de un drenaje torácico en cada hemitórax, en previsión de un neumotórax bilateral."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En cualquier paciente politraumatizado, siempre aplicaremos inicialmente el ABCDE, comenzando por la A lo primero es establecer una vía aérea efectiva."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "El tratamiento más adecuado para una herida penetrante en tórax consiste en:",
+      "opciones": [
+        "Cerrar el defecto con puntos de sutura y colocar tubo de tórax alejado de la lesión.",
+        "Cerrar el defecto con un apósito, fijo en tres puntos y colocar tubo de tórax alejado de la lesión.",
+        "Dejar abierto el defecto y colocar tubo de tórax alejado de la lesión.",
+        "Toracotomía urgente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tratamiento de un neumotórax abierto secundario a una herida por arma blanca en la región torácica, consiste inicialmente en un vendaje oclusivo estéril de la herida, asegurando 3 lados con tela adhesiva para que funcione como una válvula de escape unidireccional, con posterior colocación de tubo endotorácico alejado del sitio de la herida."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Un paciente alcohólico ha presentado un cuadro de vómitos intensos, acompañado posteriormente de dolor retroesternal y fiebre. En la radiografía de tórax presenta un derrame pleural izquierdo moderado. Se realiza una toracocentesis y se obtiene un líquido seroso con pH de 5,5. Señale cuál de los siguientes es su diagnóstico de sospecha:",
+      "opciones": [
+        "Derrame pleural maligno.",
+        "Empiema.",
+        "Pleuritis reumatoide.",
+        "Rotura esofágica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una rotura esofágica espontanea postemética o síndrome de Boerhaave, casi siempre en pacientes alcohólicos. Suele cursar con mediastinitis expresada por intenso dolor de localización retroesternal, que aumenta al tragar o respirar, disfagia, crepitación, fiebre y además, derrame pleural izquierdo rico en amilasa."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "¿Cuál de las siguientes afirmaciones relativas a la patología anorrectal en el VIH es cierta?:",
+      "opciones": [
+        "Hay un riesgo aumentado de cáncer anal.",
+        "La ulceración anal es frecuentemente secundaria a una infección y responde precozmente a los antibióticos tópicos.",
+        "La amputación abdominoperineal es el tratamiento de elección para el carcinoma escamoso del ano en los pacientes HIV.",
+        "Los abscesos perirrectales deben ser tratados inicialmente con antibióticos en los pacientes HIV."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los pacientes VIH + pueden presentar la patología anorrectal común a la población en general como son fístula anal (15%), absceso (30%), hemorroides (17%); sin embargo presentan otras manifestaciones características, debido a la práctica de relaciones sexuales anales que los predispone a enfermedades de transmisión por esa vía: el 95% de los homosexuales presentan anticuerpos contra el virus del herpes tipo 2, del 90 al 100% son seropositivos para el citomegalovirus (CMV), la ileocolitis sintomática por CMV es la infección intestinal más común en pacientes con SIDA, ocurriendo en aproximadamente el 10%; el 55% de los homosexuales son portadores del gonococo, la mayoría en forma asintomática en tanto que, los condilomas acuminados se han reportado en un 40 a 60% de los homosexuales y pueden mantenerse asintomáticos, la CDC informó un incremento en la incidencia de los condilomas acuminados de 500% de 1966 a 1981. Se ha comprobado como hay una incidencia de carcinoma anorrectal en los VIH positivos con condilomas."
+    }
+  ]
+}

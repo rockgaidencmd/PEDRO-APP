@@ -1,0 +1,456 @@
+{
+  "materia": "epidemio",
+  "paginaInicio": 1,
+  "paginaFin": 19,
+  "anomalias": [
+    "p14: en el comentario, 'Variable 1: Momento de medición (antes/después) a Cualitativa dicotómica' y 'Variable 2: Descenso de la frecuencia cardíaca (numérica) a Cuantitativa' llevan una 'a' suelta donde el original tenía una flecha (→) que no se rasterizó",
+    "p16: la opción 4 aparece como '5/V-200 = 0,35.'; el símbolo de raíz cuadrada no se rasterizó (matemáticamente sería 5/√200 = 0,35)",
+    "p19: en el comentario de la pregunta del visitador médico el paréntesis '(la probabilidad de detectar diferencias cuando realmente no las hay será pequeña' queda sin cerrar y define mal la potencia, que es la probabilidad de detectar diferencias cuando SÍ existen"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre las pruebas estadísticas no paramétricas es FALSA?",
+      "opciones": [
+        "Son útiles en muestras pequeñas.",
+        "Son útiles en el caso de variables ordinales.",
+        "Requieren ciertas asunciones sobre la distribución de las variables en la población.",
+        "Pueden utilizarse para comparar variables cuantitativas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta muy importante sobre las pruebas no paramétricas. Debes tener muy presentes las condiciones en las que se aplica este tipo de pruebas, porque en general son preferibles las paramétricas (más potentes y fiables). Un test no paramétrico se utilizará si se cumple uno de estos supuestos:\n\n- Distribución que no sea normal.\n\n- Variables ordinales.\n\n- Tamaño muestral pequeño (menos de 30 sujetos).\n\nPor tanto, los test no paramétricos pueden aplicarse a cualquier distribución, es decir, no precisan ninguna asunción al respecto (respuesta 3 correcta). En cambio, los test paramétricos precisan que exista una distribución normal."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Qué se entiende por asociación estadísticamente significativa?",
+      "opciones": [
+        "Es la interrelación de todas las pruebas estadísticas entre sí.",
+        "Se da entre dos variables cuando, al aumentar una, aumenta también la otra y viceversa.",
+        "Es una asociación relevante para la comunidad científica.",
+        "Es una asociación entre dos variables que difícilmente puede justificar el azar."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Una asociación se define como estadísticamente significativa cuando, mediante un contraste de hipótesis, se evidencia que difícilmente podría justificarse por el azar. Para considerar una asociación como estadísticamente significativa se fija previamente un nivel de exigencia llamado “p”, que habitualmente está en 0,05. Si p < 0,05 se habla de asociación estadísticamente significativa; puesto que, en caso de no existir realmente, la probabilidad de alcanzar este resultado sería menor del 5% (o el valor que se le asigne a “p”, que puede ser diferente) (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Una prueba diagnóstica tiene una sensibilidad del 95%. ¿Qué nos indica este resultado?",
+      "opciones": [
+        "La prueba dará, como máximo, un 5% de falsos negativos.",
+        "La prueba dará, como máximo, un 5% de falsos positivos.",
+        "La probabilidad de que un resultado positivo corresponda realmente a un enfermo será alta.",
+        "La probabilidad de que un resultado negativo corresponda realmente a un sano será alta."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La sensibilidad es la probabilidad de clasificar correctamente a un sujeto enfermo, es decir, la probabilidad de que para un sujeto enfermo se obtenga en la prueba un resultado positivo (S = verdaderos positivos/verdaderos positivos + falsos negativos o todos los verdaderos enfermos). Por ello, si la sensibilidad es del 95%, la única opción de respuesta correcta es la 1, hay un 5% de falsos negativos, es decir hay un 5% de los enfermos que estará mal clasificado, un 5% que dará negativo a la prueba pero que realmente será enfermo. Los falsos positivos los encontraríamos calculando 1-ESPECIFICIDAD (¡no se relacionan con la sensibilidad!). Las opciones de respuesta 3 y 4 tienen que ver con los valores predictivos."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Para una cierta enfermedad infecciosa contamos con un test de screening que se positiviza en el 80% de los enfermos y en el 5% de los sanos. Calcule el valor predictivo positivo para una población en la que la prevalencia es del 20% si realizamos una experiencia con 500 individuos:",
+      "opciones": [
+        "80 / (80+8) = 90,1%.",
+        "5 / (80+5) = 5,8%.",
+        "(80+20) / 500 = 20%.",
+        "80 / (80+20) = 80%."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "De los 500 individuos del estudio, con una prevalencia del 20%, 100 estarán enfermos. Si el test positiviza en el 80% de los enfermos (80 VP, 20 FN), y en el 5% de los sanos (5% de 400 sanos = 20 FP, 380 VN), podemos calcular el VPP (verdaderos positivos/total de positivos), que es exactamente el descrito en la última opción (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Una de las siguientes ideas básicas sobre los test de contraste de hipótesis es ERRÓNEA. Indíquela:",
+      "opciones": [
+        "p es el nivel de significación estadística especificado para el ensayo.",
+        "p corresponde a la probabilidad \"alfa\" de cometer un error de tipo I.",
+        "Un error tipo I consiste en aceptar la hipótesis nula cuando es falsa.",
+        "\"Beta\" es la probabilidad de cometer un error tipo II."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El error tipo I o alfa es el que se comete cuando, no habiendo diferencias entre dos tratamientos, llegamos a la conclusión de que sí las hay. Es decir, consiste en detectar diferencias que no existen en la realidad. Esto, en otras palabras, implicaría rechazar la hipótesis nula cuando es cierta.\n\nPor otra parte, el error tipo II consiste en que, cuando hay diferencias en realidad, no llegamos a detectarlas. No se rechaza la hipótesis nula y ésta es falsa.\n\nRecuerda que ambos errores pueden disminuirse si se aumenta el tamaño muestral del estudio."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál de las siguientes NO tiene que tener en cuenta para calcular el tamaño muestral en la estimación de la prevalencia de caries en la población?:",
+      "opciones": [
+        "Prevalencia estimada en poblaciones similares.",
+        "Media",
+        "Precisión",
+        "Confianza"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tamaño dependerá de la variabilidad del parámetro que se desea estimar (ésta ha de ser previamente conocida, o bien aproximarse a partir de datos preexistentes o estudios pilotos), de la precisión con que se pretenda obtener la estimación (amplitud deseada del IC, teniendo en cuenta que a mayor precisión, se necesitará un mayor número de sujetos) y del nivel de confianza.\n\nPara estimar una proporción, como es la prevalencia de caries, se debe conocer:\n\n• El nivel de confianza o seguridad (1-α). Para una seguridad del 95%, 2 aproximadamente.\n• La precisión que se desea para el estudio.\n• Una idea del valor aproximado del parámetro que se quiere medir, revisando la literatura o los estudios previos. En caso de no tener dicha información, se empleará el valor p = 0,5 (50%). En este caso, se necesita mayor n, pero garantizará una mejor estimación."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál de las siguientes características podría atribuirse a los estudios de cohortes?",
+      "opciones": [
+        "Es el tipo de diseño más eficiente para el estudio de enfermedades infrecuentes.",
+        "Suele ser un estudio que tiene menor coste que los estudios de casos y controles.",
+        "Suele ser un estudio que tiene menor duración que un estudio de casos y controles.",
+        "Es un tipo de diseño especialmente útil cuando nos enfrentamos a una exposición rara."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta clásica acerca de las diferencias entre los estudios de cohortes y de casos y controles. Las 3 primeras opciones son características de los casos y controles (enfermedades infrecuentes, más baratos y más rápidos) mientras que la cuarta (opción correcta) es la más característica de las cohortes, poder utilizarlas para exposiciones infrecuentes."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Para el empleo de los métodos paramétricos en el análisis estadístico de los datos, la distribución de la variable dependiente debe ser:",
+      "opciones": [
+        "Emparejada por la edad.",
+        "Dicotómica.",
+        "Lineal.",
+        "Normal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En general, los test paramétricos son preferibles a los no paramétricos, por su mayor potencia. Sin embargo, tienen unas condiciones de aplicación. Si no se cumplen, deberíamos elegir uno no paramétrico. Estas condiciones son las siguientes:\n\n- Distribución normal de la variable estudiada.\n\n- Tamaño muestral suficiente (n>30).\n\n- No pueden manejar variables ordinales.\n\nPor tanto, ante una distribución distinta a la normal, una variable ordinal o una muestra insuficiente, debemos elegir un test no paramétrico. La respuesta correcta, por tanto, es la 4."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Qué test no paramétrico utilizaría para comparar dos medias observadas en dos muestras independientes?",
+      "opciones": [
+        "Test de Kruskal-Wallis.",
+        "t de Student para datos independientes.",
+        "Análisis de la varianza.",
+        "Test de Mann-Whitney."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sencilla sobre los test de contraste de hipótesis. En este tipo de preguntas siempre debes seguir la misma mecánica: identificar las dos variables y después elegir bien el test. Para esta pregunta, sería:\n\n- Variable 1: muestra de procedencia (muestra 1 / muestra 2) = Cualitativa dicotómica.\n\n- Variable 2: media (numérica) = Cuantitativa.\n\nEn este caso, dado que nos piden utilizar un test no paramétrico, habría que optar por la prueba de U de Mann-Whitney (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Teniendo en cuenta que la prevalencia de espina bífida es de 1 caso por cada 1.000 nacidos vivos, ¿qué tipo de estudio sería el MÁS válido y eficiente para estudiar la posible asociación entre la ocurrencia de espina bífida en el recién nacido y la exposición a diversos factores ambientales durante el embarazo?",
+      "opciones": [
+        "Un estudio de cohorte prospectivo integrado por mujeres que están planificando el embarazo.",
+        "Un estudio de cohorte retrospectivo a través de las historias clínicas de mujeres que han parido en los hospitales seleccionados.",
+        "Un estudio de casos y controles de base hospitalaria, tomando como casos a las madres de niños que han nacido con espina bífida y como controles a las madres de niños que han nacido sin malformaciones, haciéndoles a ambos grupos una entrevista sobre exposiciones ambientales durante el embarazo.",
+        "Un estudio de casos y controles de base poblacional tomando como casos a las mujeres expuestas a los factores ambientales de interés y como controles a las mujeres no expuestas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Dadas las características de la patología que nos presentan, no podemos plantear la realización de un estudio prospectivo: en ningún caso podríamos asignar, al azar o no, a mujeres embarazadas a determinadas exposiciones para luego detectar la incidencia de espina bífida. Además, se trata de una enfermedad poco frecuente, con una prevalencia estimada, según el enunciado, de uno de cada 1.000 nacidos vivos. Las dos características nos hacen inclinarnos hacia un estudio de casos y controles. En la opción de respuesta 4 no se plantea un diseño real de casos y controles puesto que en realidad se clasifica a los sujetos del estudio en función de la exposición (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Uno de los principales inconvenientes de los estudios de casos y controles es:",
+      "opciones": [
+        "Que a menudo requieren muestras de gran tamaño.",
+        "Su mayor susceptibilidad a incurrir en sesgos respecto a otros estudios epidemiológicos.",
+        "Que no son adecuados para estudiar enfermedades raras.",
+        "Que suelen ser caros y de larga duración."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los estudios de casos y controles son diseños retrospectivos, con ciertas ventajas, como se muy útiles en enfermedades poco frecuentes y también en el estudio de la multicausalidad. Otras características positivas son el precio (baratos), fácilmente reproducibles y breves en el tiempo.\n\nSin embargo, tienen ciertos inconvenientes, el principal es lo fácil que es cometer sesgos, sobre todo por seleccionar mal el grupo control. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre una posible relación causa-efecto entre una exposición y una enfermedad es FALSA?",
+      "opciones": [
+        "Para que la relación sea causal, debe existir una asociación estadísticamente significativa.",
+        "Cuanto mayor sea el riesgo relativo entre la causa y el efecto, mayor es la probabilidad de que la relación sea causal.",
+        "Si existe plausibilidad biológica, se refuerza la idea de que la relación es causal.",
+        "La causa debe preceder al efecto."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta. La existencia de asociación estadística no es sinónimo de causalidad. Esto ha sido preguntado en muchas ocasiones (no deberías fallar una pregunta como ésta). Los denominados criterios de causalidad son:\n-Fuerza de asociación. Es un criterio muy importante, consistente en cuántas veces más riesgo de enfermedad tienen las personas expuestas al factor estudiado que las no expuestas.\n-Efecto dosis- respuesta. Es decir, que la asociación tenga coherencia interna, que al incrementarse la presencia del factor de riesgo aumente la de la enfermedad.\n-Secuencia temporal. La exposición al presunto factor de riesgo debe preceder al efecto.\n-Coherencia externa o consistencia de los resultados. Los resultados deben ser concordantes con los obtenidos en otros estudios (reproducibilidad).\n-Ausencia de distorsiones metodológicas en el estudio, debidas a sesgos.\n-Ausencia de explicaciones alternativas. Es decir, ausencia de otras hipótesis que expliquen los resultados.\n-Plausibilidad biológica. Que los resultados sean compatibles con el marco de los conocimientos científicos previos.\n-Efecto de la cesación o reversibilidad. Es decir, que exista una disminución del riesgo tras la reducción de la exposición al presunto factor de riesgo.\n-Demostración experimental. Es la prueba causal por excelencia, pero su realización plantea en ocasiones problemas éticos.\nNo es necesario que se cumplan todos para considerar que una relación es causal. No obstante, existe uno que sí debe cumplirse en todos los casos: la secuencia temporal (que la causa preceda al efecto)."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Con respecto a las tasas de incidencia y prevalencia como tasas de mortalidad, es CIERTO que:",
+      "opciones": [
+        "La tasa de incidencia se utiliza más que la de prevalencia para enfermedades agudas y crónicas.",
+        "La tasa de incidencia se utiliza más que la de prevalencia para enfermedades agudas. En las crónicas, se utiliza más la tasa de prevalencia.",
+        "La tasa de incidencia se utiliza más que la de prevalencia en enfermedades crónicas. En las agudas se utiliza más la tasa de prevalencia.",
+        "La tasa de prevalencia se utiliza más que la de incidencia para enfermedades agudas y crónicas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los estudios de prevalencia, transversales o de corte, permiten describir las características de una población en un momento determinado. Son útiles para estudiar enfermedades crónicas y frecuentes. La incidencia se define como el número de casos nuevos de una enfermedad que se producen en un período de tiempo determinado (respuesta 2 correcta). Al tener en cuenta el factor tiempo, se emplea más para enfermedades agudas y breves (por ejemplo, en la gripe, cuya incidencia en el mes de febrero es muy superior al mes de junio); de hecho, las epidemias se definen como un aumento de incidencia por encima de cierto límite."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Buscando datos sobre enfermedades oportunistas en el VIH usted encuentra que el valor medio de CD4+ cuando se infectan por Toxoplasma gondii es de 100 ± 15/mm³, p < 0,01. Señale la afirmación CORRECTA:",
+      "opciones": [
+        "El 99% de los pacientes con VIH se infectan por Toxoplasma gondii cuando CD4+ tienen entre 85-115/mm³.",
+        "En los pacientes con VIH, la probabilidad de que el valor medio de CD4+ al infectarse por Toxoplasma gondii esté entre 85-115/mm³ es menor del 5%.",
+        "En los pacientes con VIH, la probabilidad de que el valor medio de CD4+ al infectarse por Toxoplasma gondii esté entre 85-115/mm³ es menor del 1%.",
+        "En los pacientes con VIH, la probabilidad de que el valor medio de CD4+ al infectarse por Toxoplasma gondii no esté entre 85-115/mm³ es menor del 1%."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se ha realizado una estimación poblacional con una confianza del 99%; por ello, la probabilidad de que la media poblacional NO esté en ese intervalo es menor del 1% (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Se pretende hacer un estudio descriptivo en relación con el hábito tabáquico entre los profesionales sanitarios. Para ello se selecciona una muestra de 800 médicos y 1.700 graduados en Enfermería. Si queremos representar gráficamente la distribución del número de cigarrillos consumidos por día, utilizaremos:",
+      "opciones": [
+        "Histograma",
+        "Diagrama de barras",
+        "Diagrama de tallo y hojas",
+        "Polígono de frecuencias"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El diagrama de barras es el modo ideal de representación de variables cuantitativas discretas, pudiéndose utilizar para variables cualitativas ordinales. En este caso, nos ayudará en una fácil interpretación del número de cigarrillos consumidos por día (variable cuantitativa discreta)."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Se está evaluando la supervivencia de los pacientes infectados por el virus de inmunodeficiencia humana (VIH) en función del momento de adquisición de la infección. ¿Cuál de las siguientes pruebas es la MÁS adecuada para el objeto propuesto?",
+      "opciones": [
+        "Prueba t de Student.",
+        "Cálculo de la regresión lineal.",
+        "Estimador de Kaplan-Meier.",
+        "Cálculo de la regresión logística."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nos plantean un contraste de hipótesis donde la variable dependiente es el tiempo de supervivencia del paciente con VIH (“se evalua la supervivencia … en función del momento de adquisición”) por lo que se debería emplear una técnica para en análisis de supervivencia, siendo el más utilizado el estimador de Kaplan-Meier (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Suponga que en el grupo experimental de un ensayo clínico con antiarrítmicos, la incidencia de eventos de interés (arritmias y muertes por causas cardiacas) se reduce de forma estadísticamente significativa con respecto al grupo control. Sin embargo, la mortalidad por todas las causas es superior en el grupo experimental. ¿Es correcto concluir a favor del fármaco experimental?:",
+      "opciones": [
+        "No, ya que la mayor mortalidad por otras causas puede disminuir la probabilidad de desarrollar el evento de interés",
+        "Sí, si los dos grupos son homogéneos en cuanto al pronóstico antes de iniciar el tratamiento; no en caso contrario.",
+        "Sí, si el ensayo se diseñó para valorar diferencias en arritmias y muertes cardiacas.",
+        "Sólo si los resultados sobre los eventos de interés coinciden con los de otros estudios similares."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Tal como se explica en la respuesta 1, si la mortalidad es mayor por otras razones distintas al factor de estudio, esto reduce las posibilidades de sufrir el evento de interés (arritmias y muertes por causas cardíacas). Por este motivo, un menor número de eventos en el grupo experimental podría no deberse a la eficacia del tratamiento, ya que existe una mayor probabilidad de fallecer por otras causas, disminuyendo en apariencia el número de muertes por causas cardíacas."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Se diseñó un estudio para determinar la posible relación entre el broncoespasmo y el virus de la gripe en pacientes EPOC. Para ello se eligieron 100 pacientes con EPOC de 10 años de evolución y 100 controles. Se obtuvo una relación estadísticamente significativa entre broncoespasmo y EPOC con respecto al grupo control. ¿Qué tipo de estudio estamos haciendo?",
+      "opciones": [
+        "Cohortes.",
+        "Ensayo Clínico.",
+        "Serie de casos.",
+        "Casos y controles."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un diseño de casos y controles en el que los casos son pacientes EPOC y se evalúa si tiene un mayor riesgo de broncoespasmo por el virus de la gripe que los controles sanos. Como vemos, se trata de un diseño retrospectivo en el que desde la enfermedad nos interesamos por la presencia del factor de riesgo."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Un ensayo clínico sobre 24 pacientes compara un nuevo fármaco antihipertensivo con placebo (12 pacientes por rama de tratamiento). Para cada grupo se obtiene un valor medio de tensión arterial. A fin de comprobar si existen diferencias estadísticamente significativas, se debe realizar la siguiente prueba:",
+      "opciones": [
+        "La X2 de Pearson.",
+        "Test de Wilcoxon.",
+        "La F de Snedecor.",
+        "La t de Student."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de testar la asociación entre una variable cualitativa (tratamiento antihipertensivo o tratamiento placebo) y una cuantitativa con características de distribución NO normal (n<30), por lo que es preciso acudir a tests no paramétricos. La prueba adecuada es el test U de Mann- Whitney, o bien el test de Wilcoxon, como dice la respuesta 2."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Un EC que se realiza en 80 personas, en las que se quiere evaluar la eficacia de un nuevo hipolipemiante, de forma que a un grupo se le administra el tratamiento habitual y al otro el tratamiento habitual + el nuevo hipolipemiante, con el fin de evaluar la eficacia inicial de la nueva terapia, es un estudio fase:",
+      "opciones": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La pregunta que nos plantean es un diseño fase II. En este estudio el fármaco se administra a enfermos para evaluar así la eficacia por primera vez. EL tamaño muestral suele ser inferior a 80 y aunque el objetivo principal es medir eficacia, también se sigue evaluando la presencia de efectos secundarios.\n\nEn estos diseños, como indica la pregunta, existe grupo control que recibe el tratamiento habitual, para minimizar los problemas éticos."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Cochrane, una organización independiente cuyo fin es aportar la mejor evidencia disponible, acostumbra a fundamentar sus recomendaciones en revisiones sistemáticas. ¿De qué cree que se trata esta metodología?",
+      "opciones": [
+        "De un estudio con distribución al azar de los participantes entre el grupo de intervención y el grupo de control.",
+        "De una técnica estadística que permite combinar los hallazgos de varios estudios independientes entre sí.",
+        "De una búsqueda estructurada a partir de una pregunta bien delimitada y de un protocolo explícito.",
+        "De una técnica de consenso científico válida para grupos de colaboración independientes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta fácil que se contesta conociendo las diferencias entre revisión narrativa, revisión sistemática y metaanálisis. Una revisión narrativa es aquella que se caracteriza por realizarse de una forma \"más o menos exhaustiva\" en la que los autores no declaran los métodos que utilizaron para obtener o seleccionar la información. La revisión sistemática es aquella que tiene una pregunta delimitada, una búsqueda estructurada y un protocolo explícito (lo que las hace reproducibles por otros investigadores) (respuesta 3 correcta), un metaanálisis es una revisión sistemática a la que se le ha añadido combinación estadística de los resultados de los estudios."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Se quiere medir la concordancia entre dos residentes de ginecología, para ello se les entrega 100 muestras de semen para que cuenten espermatozoides por campo (nº/campo) en el microscopio. Para determinar la concordancia se utilizará:",
+      "opciones": [
+        "La prueba de Kappa",
+        "El test de Cohen",
+        "Correlación de Spearman",
+        "El coeficiente de correlación intraclase"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Un aspecto menos preguntado sobre los test diagnósticos es la evaluación de la concordancia. Hay que recordar que la forma de evaluar la concordancia depende de si las variables que comparamos son cuantitativas o categóricas.\n\nEn el caso de las cualitativas o categóricas, el parámetro que se emplea es el coeficiente kappa (o Kappa de Cohen). Como sabemos este parámetro oscila de -1 a +1, siendo el 0 la concordancia atribuible al azar y una concordancia de +1 la mejor posible. El ejemplo en este caso es comparar la lectura (positiva/negativa) de 2 radiólogos que interpretan las mismas mamografías.\n\nSin embargo, en esta pregunta la variable es cuantitativa (nº de espermatozoides por campo), por lo que el parámetro que se emplea es el coeficiente de correlación intraclase, opción 4 correcta. Para que sea fácil de recordar, podríamos decir que se trata del “kappa de las cuantitativas”."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Para comprobar si existe una asociación entre el factor de exposición y la enfermedad, ¿qué prueba utilizaría?",
+      "opciones": [
+        "Test de la Chi-cuadrado.",
+        "Riesgo relativo.",
+        "t de Student.",
+        "Análisis de la varianza."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una vez que se han definido dos variables, debemos elegir el test estadístico más adecuado. Así podremos saber si existe asociación estadísticamente significativa entre ambas. En este caso, la variable 1 es: factor de exposición (cualitativa dicotómica: expuesto/no expuesto), mientras que la variable 2 es: enfermedad (cualitativa dicotómica: enfermo/no enfermo). Como se trata de dos variables dicotómicas, el test que hay que aplicar es el de la Chi- cuadrado, opción 1 correcta.\n\nTen cuidado con la opción 2. El riesgo relativo mide la FUERZA DE ASOCIACIÓN, pero no es una prueba de contraste de hipótesis, por lo que no serviría para comprobar su existencia o no, que es lo que aquí nos están pidiendo. Por otra parte, ¿te han dicho algo del diseño del estudio? Si no lo sabes, no puedes contestar el riesgo relativo, porque no es aplicable en todos los casos (por ejemplo, no se puede utilizar en uno de casos y controles). Es una razón más para desconfiar de esta respuesta."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Se quiere realizar un estudio para valorar el efecto de la exposición al consumo de alcohol sobre el cáncer de páncreas. Es posible que la relación pueda estar afectada por el efecto de la exposición al consumo de tabaco. Si solo se quiere analizar el efecto del consumo de alcohol, ¿qué tipo de sesgo se puede producir?",
+      "opciones": [
+        "Sesgo de diagnóstico.",
+        "Sesgo de realización.",
+        "Sesgo por efecto vigilancia (o de Hawthorne).",
+        "Sesgo de confusión."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Un sesgo o factor de confusión es un factor de riesgo que se relaciona con el factor de estudio y, a su vez, con la enfermedad. En este caso, una posible asociación de tabaco y cáncer de páncreas, así como de consumo de tabaco y de alcohol, puede ser causa de un sesgo de confusión si no te tiene en cuenta, opción 4 correcta. Para controlar los factores de confusión, podemos realizar técnicas de apareamiento, aleatorización, restricción, análisis multivariante y estratificación."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Se realiza un estudio sobre los efectos del ejercicio físico en un grupo de 12 pacientes con cardiopatía isquémica midiendo la máxima frecuencia cardíaca por cada uno antes y después de 12 meses de ejercicio. ¿Qué prueba estadística elegiría para el estudio de estos datos?",
+      "opciones": [
+        "Prueba de Wilcoxon.",
+        "U de Mann Whitney.",
+        "t de Student para datos apareados.",
+        "Test de Mc Nemar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta sencilla sobre los test de contraste de hipótesis. En este tipo de preguntas, siempre debes seguir la misma mecánica: identificar las dos variables y después elegir bien el test. Para esta pregunta, sería:\n\nVariable 1: Momento de medición (antes/después) a Cualitativa dicotómica.\n\nVariable 2: Descenso de la frecuencia cardíaca (numérica) a Cuantitativa.\n\nEn este caso, dado que el tamaño muestral es menor de 30 (12 pacientes), debemos elegir un test no paramétrico. Además, dada la medición antes- después en el mismo grupo de pacientes, debemos elegir uno específico para datos apareados. Por este motivo, habría que optar por la prueba de Wilcoxon (respuesta 1 correcta). La U de Mann- Whitney no sería una buena opción, porque únicamente sirve para datos independientes."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "El screening es una actividad de:",
+      "opciones": [
+        "Prevención primaria.",
+        "Prevención secundaria.",
+        "Prevención terciaria.",
+        "Promoción de la salud."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Denominamos prevención secundaria a aquella que se basa en un diagnóstico precoz de la enfermedad, muchas veces en fase asintomática, en la que están comprendidas las pruebas de screening (mamografía, prueba de Papanicolau, etc.) (respuesta 2 correcta). La prevención secundaria reduce la prevalencia, mientras que la prevención primaria evita la aparición de la enfermedad (reduce la incidencia)."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Señale la respuesta INCORRECTA en relación a los estudios de bioequivalencia:",
+      "opciones": [
+        "Las variables principales de evaluación suelen ser el área bajo la curva y la concentración máxima calculada a partir de las concentraciones plasmáticas del principio activo.",
+        "Las dos formulaciones a comparar deben tener la misma composición cualitativa y cuantitativa en cuanto a principio activo.",
+        "Suelen realizarse con diseño cruzado.",
+        "El objetivo de estos estudios es demostrar que ambos fármacos tienen la misma eficacia clínica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los estudios de bioequivalencia se realizan con fármacos genéricos para estudiar biodisponibilidad de la nueva presentación, no su eficacia clínica ya que es el mismo principio activo, por lo tanto opción 4 correcta. Consiste en hacer en sujetos sanos (por eso no se puede evaluar eficacia) un estudio doble ciego, aleatorizado y cruzado, comparando el perfil farmacocinético de un fármaco y su genérico. Los parámetros habitualmente empleados con AUC (área bajo la curva) y la Cmáx (concentración máxima)."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Al diseñar un estudio epidemiológico, debe tener en cuenta la posible existencia de factores o variables de confusión. Señale la idea ERRONEA acerca de ellas:",
+      "opciones": [
+        "Son factor o marcador de riesgo respecto de la enfermedad a estudio.",
+        "Se asocian con el factor de riesgo que se está valorando.",
+        "Son una variable intermedia en la cadena causal que se está estudiando.",
+        "Su efecto se denomina \"sesgo de confusión\"."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Un factor de confusión es una variable ajena al estudio que nos modifica los resultados obtenidos. Para una mejor comprensión, vamos a poner un ejemplo clásico.\n\nSupongamos un estudio donde se estudia la relación entre el café y la mortalidad cardiovascular. El resultado nos dice que los pacientes que toman café tienen un mayor riesgo de muerte por causas cardiovasculares. Más tarde, el investigador se da cuenta de que los pacientes que el café y el tabaco son hábitos asociados. Comprueba que los pacientes que tomaban café fumaban en su mayoría, y los que no tomaban café no fumaban. ¿Quién produce en realidad las muertes cardiovasculares? ¿Era el café, o tal vez se debía en realidad al tabaco? Ante la posibilidad de que todo se deba al tabaco, repite el estudio, teniendo esto en cuenta, y separamos los participantes en fumadores y no fumadores. El resultado final es que el café no influye, sino que todo era consecuencia del tabaco.\n\nLo que ha sucedido aquí con tabaco y café es un ejemplo típico. El factor de confusión era el tabaco, que no había sido previsto en el estudio, pero estaba modificando los resultados del mismo. Como ves, cumple la característica que mencionan en el enunciado: se asocia tanto al hábito de tomar café como a una mayor mortalidad cardiovascular, de ahí el sesgo que produce. La respuesta correcta es la 3; un factor de confusión no es una variable intermedia en la cadena causal (del mismo modo que el tabaco no es un paso intermedio entre tomar café y morirse de un infarto)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Le proponen examinar la precisión de un nuevo sistema de tiras reactivas para el análisis rápido de niveles plasmáticos de triglicéridos. Sobre una muestra patrón de plasma, realiza 200 mediciones, que arrojan una distribución de resultados cuya media es 150 mg/dl. y cuya desviación típica es 5 mg/dl. ¿Cuál es el valor del coeficiente de variación?",
+      "opciones": [
+        "150/5 = 30 mg/dl.",
+        "(5/150)*100 = 3,33 mg/dl.",
+        "(5/150)*100 = 3,33.",
+        "5/V-200 = 0,35."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El coeficiente de variación compara la desviación típica con la media, multiplicando el resultado por 100, de forma que se expresa en forma de porcentaje. Sustituyendo por los valores que nos dan, la respuesta correcta es la 3.\n\nSobre el coeficiente de variación, debes saber que el resultado es una magnitud adimensional, por lo que nos permite comparar la dispersión de varias series, aunque tengan distintas unidades de medida."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Se ha evaluado un nuevo test diagnóstico para la detección de leishmaniasis. La sensibilidad del test es del 85% y su especificidad es del 80%. En su población (personas con sintomatología compatible), existe un 10% de gente enferma. ¿Cuál es la probabilidad de que una persona que esté enferma, de negativo en el test?",
+      "opciones": [
+        "20%",
+        "15%",
+        "32%",
+        "80%"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta acerca de estudios de validez diagnóstica en la que nos dan: sensibilidad (85%), especificidad (80%) y la prevalencia (10%). No obstante, en esta pregunta, no nos piden ningún valor predictivo, si no que nos piden la probabilidad de que el paciente sea un falso negativo.\n\nFN = probabilidad de que una persona enferma, de negativo en el test.\n\nPor tanto, no hace falta que realicemos la tabla de contingencia. Simplemente basta con aplicar la fórmula que relaciona la sensibilidad con la tasa de falsos negativos, de tal manera que: S + TFN = 1 (o 100%). TFN = 1 - S; TFN = 15%. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "En un estudio transversal, 40 de los sujetos a los que se tenía previsto estudiar \"no responden\" a la invitación del investigador. Por esta razón, el investigador decide llamar a 100 sujetos más. Con esta decisión se consigue:",
+      "opciones": [
+        "Disminuir el posible sesgo de selección introducido por los 40 sujetos que no han respondido.",
+        "Disminuir el posible sesgo de información introducido por los 40 sujetos que no han respondido.",
+        "Aumentar la precisión en la estimación de los resultados.",
+        "Eliminar el posible error de información no diferencial."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los errores aleatorios se deben al hecho de trabajar con muestras, pudiendo hacer que la muestra no sea representativa de la población de la que procede. Son impredecibles, pero hay una manera de minimizarlos (que no de evitarlos completamente), que es aumentar el tamaño muestral: a mayor número de individuos incluidos en el estudio, más se acercará mi muestra a la población, por lo que la posibilidad de error aleatorio será menor. Recuerda que la precisión de un estudio es el grado de ausencia de error aleatorio (respuesta 3 correcta). Desde el punto de vista estadístico, podemos estimar la posibilidad de que las diferencias observadas se deban al azar (“p” o grado de significación estadística)."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "La densidad de incidencia es una medida en la que se suman los tiempos de exposición de cada sujeto expuesto. ¿Cuál de los siguientes conceptos se corresponde con más fidelidad con el significado de la densidad de incidencia?",
+      "opciones": [
+        "Riesgo individual de enfermar.",
+        "Proporción de una población, en un momento, que tiene la enfermedad.",
+        "Cociente de la proporción de expuestos con la enfermedad entre la proporción de no expuestos con la enfermedad.",
+        "Velocidad con la que la enfermedad aparece en la población."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El riesgo individual es la incidencia. La proporción con la enfermedad en un momento del tiempo es la prevalencia. El cociente al que hace referencia la tercera opción se corresponde con una medida de asociación. Por descarte, es la opción 4. La densidad de incidencia, al incorporar una medida del tiempo en su denominador, nos informa de qué tiempo va pasando conforme van apareciendo casos en una población."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "En un ensayo clínico se comparan cifras de glucemia al final de un estudio con 3 brazos de aleatorización, cada uno de ellos utilizando un tipo diferente de insulina (detemir VS glargina VS NPH). Si queremos contrastar la hipótesis de la diferencia entre las medias de los tres grupos, asumiendo que la variable glucemia se distribuye de forma normal en todos ellos, utilizaremos:",
+      "opciones": [
+        "Coeficiente de correlación de Pearson.",
+        "Prueba de la t de Student.",
+        "Análisis de la Varianza.",
+        "Test exacto de Fisher."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que consiste en elegir una prueba de significación estadística que nos relacione una variable cuantitativa continua que se distribuye de forma normal (y, por lo tanto, elegiremos un test paramétrico), y otra cualitativa con más de dos categorías (detemir, glargina, NPH), por lo que el test de elección corresponde al test de ANOVA o análisis de la Varianza (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Cuál de los siguientes NO es un sesgo de selección?",
+      "opciones": [
+        "Sesgo de Hawthorne.",
+        "Sesgo de Berkson.",
+        "Sesgo del voluntario.",
+        "Sesgo del obrero sano."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El efecto Hawthorne, también llamado sesgo de atención, no pertenece al grupo de sesgos de selección, sino a los de información, que acontecen cuando hay un error sistemático en la medición de una variable clave del estudio, por lo que la respuesta 1 es correcta.\n\nEl efecto Hawthorne consiste en la modificiación del comportamiento de los participantes seguidos en un estudio prospectivo al saberse observados, lo cual produce una alteración en la medición de ciertas variables que pueden tener relevancia con el desenlace del estudio. Por ejemplo, si en un estudio de cohortes se quiere averiguar si la exposición al tabaco tiene relación con la enfermedad pulmonar obstructiva crónica, y para ello se siguen de manera prospectiva un grupo de individuos expuestos al tabaco y otro de individios no expuestos, si los primero por el hecho de sentirse observados modificaran su modo de vida y redujeran el consumo de tabaco hasta un mínimo, esto podría hacer que los resultados del estudio arrojasen un falso negativo."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "El histograma se usa para representar variables:",
+      "opciones": [
+        "Cualitativas.",
+        "Cuantitativas discretas.",
+        "Cuantitativas continuas.",
+        "Cualquier tipo de variables."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una variable cualitativa, como su nombre indica, representa cualidades (rojo, azul, amarillo). En cambio, una cuantitativa se aplica a valores numéricos. Dentro de las cuantitativas, las hay discretas y continuas. Las discretas representan valores que sólo se miden como unidades enteras (una vida, dos vidas…). En cambio, las cuantitativas continuas pueden tener valores intermedios (1.5 Kg, 1.92 m…). Para representar variables cuantitativas continuas, suele recurrirse al histograma y al polígono de frecuencias (opción 3 correcta). Recuerda que, para las cuantitativas discretas, suele emplearse el diagrama de barras."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Un visitador médico acude a su consulta para mostrarle un fármaco A que parece ser mejor que el fármaco B, que ha sido empleado con éxito durante años. Usted, que sólo es R1, se lo cree pero su jefe de servicio le dice que vuelva por donde vino. Una de las siguientes es correcta:",
+      "opciones": [
+        "Usted muy probablemente está cometiendo un error tipo II.",
+        "Su jefe muy probablemente está cometiendo un error tipo I.",
+        "Como su jefe es muy exigente cometerá pocos errores tipo I a expensas de cometer muchos de tipo II.",
+        "La probabilidad de que su jefe se crea que el fármaco A es mejor disminuye si el número de individuos sobre el que se ensayó dicho fármaco es alto."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El error tipo I consiste en admitir que cuando no hay diferencias entre dos fármacos, concluimos erróneamente que sí las hay. Sería como cuando un visitador médico nos informa de las excelencias de su nuevo fármaco. Él trata de vendernos que su fármaco es mejor que el ya existente cuando es probable que realmente no existan dichas diferencias. Siguiendo con nuestro ejemplo, sería muy difícil convencerle de que realmente hay diferencias. Incurriría en un error tipo II o beta (hay diferencias entre los dos fármacos pero él afirma que no las hay). Como el error beta será alto, la potencia será baja (la probabilidad de detectar diferencias cuando realmente no las hay será pequeña. La relación entre ambos tipos de errores es inversa, de manera que si mejoramos el error tipo I, lo vamos a hacer a expensas de empeorar el error tipo II. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Nos disponemos a estudiar los historiales médicos de los trabajadores de una fábrica desde hace 45 años. Entre los expuestos al producto químico \"z\", se observa una mayor incidencia a lo largo del tiempo de un tipo de cáncer. Estamos realizando un estudio:",
+      "opciones": [
+        "De casos y controles.",
+        "Ensayo de campo.",
+        "Cohortes retrospectivo.",
+        "Ensayo clínico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Si revisamos historias clínicas de un grupo de trabajadores, identificando subgrupos expuestos y no expuestos a un determinado producto químico, y después los seguimos en el tiempo para ver si desarrollan o no enfermedad, estamos ante un estudio de cohortes históricas.También recibe el nombre de “cohortes retrospectivas”, ya que consiste en identificar mediante registros (historias clínicas) una cohorte expuesta y otra no expuesta en el pasado a un factor de riesgo, y mediante la historia clínica ver la aparición de enfermedad. Es retrospectivo en el sentido de que los datos ya estaban recogidos y tenemos que acudir a ellos (al pasado) en busca de información. Sin embargo, el diseño sigue yendo de la causa al efecto, es decir, se sigue tratando de un estudio de cohortes (respuesta 3 correcta)."
+    }
+  ]
+}

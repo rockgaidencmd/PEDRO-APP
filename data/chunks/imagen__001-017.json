@@ -1,0 +1,384 @@
+{
+  "materia": "imagen",
+  "paginaInicio": 1,
+  "paginaFin": 17,
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente varón de 24 de años, muy activo físicamente. Presenta dolor, frialdad y palidez intermitente del brazo izquierdo. En este contexto se realiza una arteriografía de la que se adjuntan dos imágenes. Señale la opción INCORRECTA respecto al diagnóstico más probable.",
+      "opciones": [
+        "En la imagen se evidencia compresión que compromete el flujo a nivel de la vena subclavia a su paso por el opérculo torácico, objetivable mediante la maniobra de Adson.",
+        "Es un cuadro típico de pacientes jóvenes y deportistas.",
+        "Las clínica por compresión nerviosa es la más frecuente en este tipo de síndromes.",
+        "En función de la estructura comprometida, la causa y la gravedad del caso, las opciones de tratamiento incluyen fisioterapia, trombectomía, fibrinólisis o cirugía para eliminar la estructura compresora."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El caso corresponde a un síndrome del opérculo o estrecho torácico superior, en el que estructuras nerviosas, venosas o arteriales se comprometen a su paso entre la clavícula, la primera costilla y el músculo escaleno anterior. Esta situación produce síntomas de compresión nerviosa (parestesias), venosa (edema, dolor y cianosis) o arterial (frialdad y claudicación) distalmente en el brazo. El tipo de compresión más frecuente es la neurogénica (en el 95% de los casos), seguida de la venosa. No obstante, tanto la clínica como la arteriografía sugieren en este caso compresión arterial, más que venosa o nerviosa. En la imagen arteriográfica se observa un defecto de replección en la arteria subclavia con la abducción y rotación externa del brazo (opción 1 incorrecta). El resto de opciones sí son correctas.",
+      "imagen": "imagen/p004-1.png"
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Cual es el par craneal visible en esta imagen:",
+      "opciones": [
+        "V PC",
+        "VI PC",
+        "VII PC",
+        "VIII PC"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En este corte se identifica el trayecto cisternal del V par. El nervio trigémino es un nervio mixto que recoge la sensibilidad de la cara e inerva a la musculatura masticatoria. Sale de los laterales de la protuberancia y recorre la cisterna prepontina hacia el cavum de Meckel donde descansa el ganglio del trigémino, de Gasser o semilunar. Recuerda que de la protuberancia nacen los pares craneales V, VI, VII y VIII, siendo el trigémino el más ancho de todos.",
+      "imagen": "imagen/p004-2.png"
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "La siguiente radiografía posteroanterior de tórax corresponde a una mujer de 18 años con diagnóstico de hipertensión pulmonar secundaria a CIA ostium secundum con cierre parcial en la infancia que condicionó shunt izquierda-derecha. ¿Qué hallazgo de entre los siguientes NO se corresponde con la imagen vinculada?",
+      "opciones": [
+        "La aorta está disminuida de tamaño.",
+        "Las arterias pulmonares principales son marcadamente prominentes.",
+        "La aurícula izquierda es marcadamente prominente.",
+        "Se evidencia enfisema pulmonar, y los vasos pulmonares son prominentes y convergen hacia los hilios."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los hallazgos clave que ayudan a localizar y diferenciar los diferentes cortocircuitos cardíacos izquierda-derecha (comunicación interauricular, comunicación interventricular y ductus arterioso permeable) en la radiografía de tórax son la aurícula izquierda y el cayado aórtico, ya que todos comparten el aumento de la vascularización pulmonar con dilatación de las arterias pulmonares. En la comunicación interauricular con shunt izquierda-derecha en el adulto (como es el caso descrito en la pregunta) se suele evidenciar aumento de la vascularización pulmonar con dilatación del cono de la pulmonar y de las arterias pulmonares, permaneciendo el cayado aórtico de tamaño normal o disminuido (opciones 1, 2 y 4 verdaderas)\n\nEl hallazgo que no se corresponde con la imagen vinculada es la opción 3: la aurícula izquierda muestra tamaño normal en la radiografía aportada. El shunt izquierda-derecha secundario a comunicación interauricular (CIA) no debe condicionar un aumento de tamaño de la aurícula izquierda, a diferencia del ductus arterioso permeable (DAP) y la comunicación interventricular (CIV). El aumento de tamaño de la AI se manifiesta en la placa PA de tórax como un aumento del ángulo de la carina, por el efecto masa secundario (marcamos la opción de respuesta 3).\n\nEl enfisema pulmonar que aparece en la radiografía de tórax no está asociado a la malformación cardíaca de la paciente, sino que es un hallazgo adicional. Se pone de manifiesto por la presencia de: aplanamiento de los hemidiafragmas, aumento de los espacios intercostales, una hiperclaridad y pobreza vascular de predominio periférico en ambos pulmones.",
+      "imagen": "imagen/p004-3.png"
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Mujer de 55 años que sufre una caída mientras montaba en bicicleta. Se le realizan radiografías (Rx) simples AP y lateral de la muñeca izquierda (imágenes vinculadas). En la exploración, presenta dolor a la palpación en la tabaquera anatómica. ¿Cuál debe ser su actitud?",
+      "opciones": [
+        "No tiene nada significativo en las Rx simples. Le damos el alta sin tratamiento.",
+        "Ante la alta sospecha de fractura de escafoides, le trato con ortesis (escayola) y le cito para control con nuevas radiografías en 2-3 semanas.",
+        "Tiene una fractura del radio distal quirúrgica.",
+        "Parece una capsulitis sin más. Le damos el alta sin tratamiento."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante la sospecha clínica de fractura de escafoides (dolor en la tabaquera anatómica y traumatismo), hay que tratarla como si fuera una fractura con una ortesis (escayola) y volver a ver a la paciente en consulta con nuevas radiografías para confirmar si existe la fractura (respuesta 2 correcta). Las Rx en fracturas de escafoides en estadios iniciales pueden ser negativas.",
+      "imagen": "imagen/p005-1.png"
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Paciente de 54 años con antecedentes de infarto de miocardio hace 1 año, acude a control rutinario con ecocardiograma, ante los hallazgos de imagen de la ecografía se decide realizar una TC para “mejor valoración anatómica” (imagen 5) ¿Qué se confirma con la cardioTC?",
+      "opciones": [
+        "Divertículo ventricular inferior, variante anatómica de la normalidad.",
+        "Es un aneurisma ventricular de la cara inferior.",
+        "Es la imagen típica de un aneurisma ventricular izquierdo en ápex, típico de este tipo de infartos crónicos.",
+        "Es una rotura contenida o seudoaneurisma de cara inferior."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la imagen de TC de eje largo se observa un \"abombamiento\" de la cara inferior que ocupa los segmentos basales y medios, relleno de contraste, sería o un aneurisma o un seudoaneurisma:\n\nEn general los aneurismas son de la cara anterior o ápex y suelen tener el cuello mayor que el diámetro máximo\n\nLos seudoaneursimas son más de cara inferior contenido por el diafragma (los de cara anterior no suelen llegar al hospital porque suelen fallecer antes, ya que la rotura es abierta al tórax). También suelen tener el cuello menor que el diámetro máximo de la dilatación. Nuestro caso es un seudoaneurisma. No es infrecuente que pasen desapercibidos en un primer momento por el pequeño tamaño y que está en un lugar poco valorable en la ecocardiografía. Si el paciente sobrevive suele estar asintomático bastante tiempo y puede llegar a ser un hallazgo casual. El tratamiento es quirúrgico.",
+      "imagen": "imagen/p006-1.png"
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Paciente recientemente intervenido para colocación de prótesis valvular aórtica y mitral que presenta, al día siguiente de la cirugía, clínica de disnea y dolor torácico con anemización de dos puntos de hemoglobina. En el estudio preoperatorio se realizó una radiografía de tórax (imagen vinculada), que mostraba una leve cardiomegalia. Teniendo en cuenta los hallazgos en la radiografía de tórax posquirúrgica, ¿cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Derrame pericárdico, posible hemopericardio.",
+        "Insuficiencia cardíaca descompensada secundariamente a la cirugía.",
+        "Aneurisma de aorta ascendente.",
+        "Neumonía en lóbulo superior izquierdo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la imagen vinculada se identifica una cardiomegalia que ha aparecido de forma aguda tras una cirugía cardíaca. En la proyección lateral se evidencian tres bandas (baja densidad – alta densidad – baja densidad) anteriores a la silueta cardíaca, que corresponden a la grasa pericárdica y epicárdica (baja densidad) con derrame pericárdico entre ellas (alta densidad), hallazgo conocido como signo del sándwich. Dado el antecedente quirúrgico y la anemización es probable que se trate de un hemopericardio (respuesta 1 correcta).",
+      "imagen": "imagen/p006-2.png"
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Mujer de 62 años, sin antecedentes de interés, que acude a consulta de Neumología por tos seca, disnea y sudoración nocturna de 3 meses de evolución. Se le realiza radiografía y TC de tórax (imagen vinculada) y, ante los hallazgos, se pauta tratamiento antibiótico. Tras un mes de tratamiento los hallazgos radiológicos y la clínica permanecen sin cambios. Tinción de Ziehl-Nielsen en esputo negativa. ¿Qué patología sospecharía como PRIMERA posibilidad?",
+      "opciones": [
+        "Primoinfección por tuberculosis.",
+        "Sarcoidosis.",
+        "Neumonía bilateral por hongos.",
+        "Insuficiencia cardíaca descompensada."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico cuya imagen vinculada corresponde a una radiografía en la que se evidencia un aumento del tamaño de ambos hilios pulmonares e infiltrados perihiliares bilaterales con broncograma aéreo. En la TC se confirma la presencia de adenopatías hiliares y subcarinales. Teniendo en cuenta la clínica y descartada la tuberculosis, la patología más probable es una sarcoidosis (respuesta 2 correcta).",
+      "imagen": "imagen/p007-1.png"
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Mujer de 47 años, que acude a Urgencias con dolor importante de hombro que no le ha dejado dormir en las últimas dos noches, sin traumatismo y con impotencia funcional. De las posibles respuestas y en función de las imágenes de Rx simple (imágenes vinculadas), ¿cuál es su sospecha clínica MÁS probable?",
+      "opciones": [
+        "Fractura del troquíter.",
+        "Capsulitis adhesiva.",
+        "Tendinopatía calcificada en fase de reabsorción (“cólico del hombro”).",
+        "Luxación glenohumeral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La tendinopatía calcificada del manguito rotador es una causa frecuente de dolor en el hombro (7-17% de pacientes con dolor en el hombro). Es más frecuente en mujeres en la 4.ª o 5.ª década de la vida. La causa de la tendinopatía calcificada es desconocida, pero se conoce bien la historia natural de la enfermedad, que es autolimitada. Se estudia fundamentalmente con Rx simple en dos proyecciones (AP en rotación externa e interna), como vemos en las imágenes vinculadas, y con ecografía. El dolor condicionado por dicho calcio es producido por un pinzamiento subacromial o por la reabsorción del calcio (“cólico del hombro”), más frecuentemente a la bursa subacromiodeltoidea y menos frecuente al hueso subcortical o a la unión miotendinosa. Este cólico del hombro suele llevar al paciente a Urgencias con intenso dolor (marcamos la opción de respuesta 3).",
+      "imagen": "imagen/p007-2.png"
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "En relación a la imagen, ¿qué signo es visible en la imagen y a qué corresponde?",
+      "opciones": [
+        "Signo de Lufsichel. Secundario a colapso bronquial secundario a bronquiectasias.",
+        "Signo de la S de Golden. Secundario a colapso del lóbulo superior derecho.",
+        "Signo de la semiluna. Aire con morfología en semiluna dentro de una cavidad con contenido.",
+        "Signo del Sandwich. Aire entre dos paredes con diferente densidad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La imagen es típica del micetoma/aspergiloma pulmonar. Se visualizan bronquiectasias en el pulmón derecho y una gran cavidad rellena de contenido, con el signo de la semiluna.",
+      "imagen": "imagen/p008-1.png"
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "La imagen vinculada corresponde a una imagen en plano coronal de una TC de abdomen en la que se observan algunas estructuras retroperitoneales y otras peritoneales. A este respecto, señale la afirmación CORRECTA:",
+      "opciones": [
+        "No se observa el bazo, por lo que el paciente puede que haya sido esplenectomizado con anterioridad.",
+        "El paciente presenta patología crónica de ambos riñones, y uno de ellos, en el polo superior del riñón izquierdo, probablemente esté sobreinfectado en el momento actual.",
+        "El paciente tiene obstrucción intestinal por una neoplasia en ángulo esplénico del colon.",
+        "Se observa una gran cantidad de ascitis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta cuya imagen vinculada corresponde a una imagen radiológica. Veamos las opciones de respuesta:\n\n1.- En el hipocondrio izquierdo (a la derecha en la imagen vinculada), se observa parte del bazo, por lo que el paciente no ha sido esplenectomizado.\n\n2.- Se observan quistes renales bilaterales, llamando la atención en el polo superior del riñón izquierdo uno de mayor atenuación y con alteración de la grasa adyacente, hallazgos que sugieren una complicación de uno de los quistes, probablemente una infección (respuesta 2 correcta).\n\n3.- No se observan asas intestinales, ni de delgado ni de colon, por lo que no podemos decir si hay o no hay obstrucción intestinal.\n\n4.- No se observa ascitis.",
+      "imagen": "imagen/p008-2.png"
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "El signo de la diana excéntrica es característico de:",
+      "opciones": [
+        "Tuberculosis cerebral",
+        "Linfoma primario del sistema nervioso central",
+        "Toxoplasmosis cerebral",
+        "Criptococosis cerebral"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La Toxoplasmosis cerebral se presenta en pacientes inmunodeprimidos, y suelen apreciarse múltiples lesiones de unos 2-3 cm con realce en anillo y edema vasogénico asociado. El signo de la diana excéntrica corresponde a una lesión con realce anillo con un nódulo periférico, característico de la toxoplasmosis cerebral. En la imagen, se aprecia un corte de RM donde en el hemimesencéfalo derecho hay una lesión focal de unos 3 cm con realce periférico y un nódulo en su parte más medial.\n\nEl realce en anillo de linfoma primario del SNC no suele ir asociado al signo de la diana excéntrica.",
+      "imagen": "imagen/p009-1.png"
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Paciente mujer de 24 años que consulta por dolor abdominal de predominio en FID (fosa ilíaca derecha) desde esta mañana. Asocia febrícula, signo Blumberg + a la exploración. En la analítica destaca: leucocitos 22470/mcl y PCR 44. Se le solicita Rx de abdomen y antes los hallazgos observados en esta prueba se solicita una ecografía abdominal. Respecto a esa caso clínico señale la opción falsa:",
+      "opciones": [
+        "La clínica que presenta la paciente, la exploración física típica y los hallazgos en la radiografía de abdomen son suficientes para indicar la intervención quirúrgica.",
+        "La radiografía de abdomen no hubiera sido necesaria si se le hubiera pedido directamente a la paciente la ecografía abdominal.",
+        "La ecografía abdominal es necesaria para un correcta valoración del dolor abdominal agudo en el adulto.",
+        "En determinados casos esta patología se puede manejar de manera conservadora con antiinflamatorios, antibióticos y observación estrecha."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Clínica e imagen ecográfica compatible con apendicitis aguda. En la radiografía de abdomen se observa el típico apendicolito en fosa iliaca derecha (imagen redondeada radioopaca)\n\n- Signos ecográficos de apendicitis:\n\n* Calibre apendicular > 6 mm (aspecto edematoso-signo de la diana).\n\n* Aumento de la ecogenicidad de la grasa periapendicular (afectación inflamatoria de la grasa)\n\n* Apendicolito: se puede ver tanto en la radiografía coo en la ecografía; en la ecografía se ve como una imagen ecogénica en el interior del apéndice con sombra acústica posterior.\n\n* Líquido libre periapendicular y/o en pelvis.\n\n- Signos radiográficos de apendicitis aguda (en radiografía simple):\n\n* Apendicolito (con clínica compatible).",
+      "imagen": "imagen/p009-2.png"
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Paciente varón de 34 años que acude al servicio de Urgencias refiriendo fiebre y dolor en fosa renal izquierda. A la exploración se evidencia sensación de masa en flanco. El estudio de laboratorio muestra anemia, leucocitosis y elevación de la VSG. El examen de orina demuestra piuria y hematuria. En este contexto se realiza una TC de abdomen urgente con contraste i.v. ¿Cuál de las opciones le parece incorrecta respecto al diagnóstico más probable?",
+      "opciones": [
+        "Los patógenos que con mayor frecuencia se detectan en los urocultivos son Proteus mirabillis y Escherichia coli.",
+        "El parénquima renal está sustituido por un infiltrado de macrófagos mononucleares rellenos de lípidos.",
+        "El proceso es típicamente crónico y bilateral.",
+        "La imagen también evidencia una litiasis en el uréter proximal izquierdo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El caso clínico y su imagen asociada corresponden a una pielonefritis xantogranulomatosa. Esta entidad es una forma infrecuente de enfermedad inflamatoria granulomatosa renal que ocurre como consecuencia de una infección crónica del parénquima renal. Frecuentemente asocian litiasis en la vía excretora (normalmente coraliforme), visible en la imagen de TC adjunta. Los hallazgos típicos en la TC son: aumento de tamaño del riñón, gran cálculo central, engrosamiento de la fascia de Gerota, y masas focales de baja densidad (10-15 UH) en las porciones afectadas del riñón (representando cálices dilatados o áreas focales de destrucción parenquimatosa). La respuesta incorrecta es la 3: esta entidad es casi siempre unilateral.",
+      "imagen": "imagen/p010-1.png"
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Varón de 56 años, fumador de 25 paquetes/año, de profesión profesor, sin otros antecedentes de interés, que presenta disnea de esfuerzo progresiva y tos seca desde hace 1 mes, y refiere sensación distérmica en la última semana. Se pauta tratamiento antibiótico ante la presencia de consolidaciones pulmonares bilaterales en la Rx de tórax. Se le realiza un TAC de tórax (imagen vinculada) a las tres semanas dada la persistencia de las consolidaciones y la escasa mejoría clínica a pesar del tratamiento. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Neumonía eosinófila crónica.",
+        "Alveolitis alérgica extrínseca.",
+        "Neumonía por micobacterias atípicas.",
+        "Neumonía organizada criptogenética."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta cuya imagen vinculada corresponde a una TC de tórax en la que observamos consolidaciones alveolares periféricas en ambas bases, la de la base derecha de morfología mixta con vidrio deslustrado y halo periférico sólido (signo del atolón) que es típico de la neumonía organizada criptogenética (NOC) (respuesta 4 correcta).",
+      "imagen": "imagen/p010-2.png"
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Varón de 66 años, recién jubilado como profesor de la Escuela de Ingenieros, con antecedentes de HTA, exfumador y glucemia alterada en ayunas. Como de costumbre, se levanta temprano y, mientras está en el baño se le cae la máquina de afeitar, produciéndose una pérdida de fuerza en el miembro inferior derecho y caída al suelo con TCE y traumatismo costal izquierdo. Su esposa avisa al 112 y es llevado en ambulancia a Urgencias del hospital más cercano. A su llegada está consciente y orientado con hemiparesia 4/5 e hipoestesia en hemicuerpo derecho. Se le solicita un TC de cráneo urgente (imagen vinculada). Señale la opción diagnóstica CORRECTA:",
+      "opciones": [
+        "Hematoma talámico izquierdo.",
+        "Hematoma subdural izquierdo.",
+        "Hematoma de los ganglios de la base izquierdos.",
+        "Hematoma epidural izquierdo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico con imagen vinculada sobre la imagen típica de hematoma de los ganglios de la base izquierdos (respuesta 3 correcta). HTA como mecanismo fisiopatológico, rotura de aneurismas de Bouchard de las arterias perforantes-lenticuloestriadas. Presenta un halo hipodenso en relación con edema perilesional. En la imagen vinculada no se identifica efecto masa significativo.",
+      "imagen": "imagen/p011-1.png"
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "La imagen vinculada corresponde a una niña de 2 años. Con respecto a los hallazgos de esta imagen, señale la afirmación CORRECTA:",
+      "opciones": [
+        "El diagnóstico definitivo de esta entidad se lleva a cabo mediante biopsia.",
+        "Esta entidad predispone a infecciones urinarias de repetición.",
+        "La técnica mostrada en la imagen es el método más sensible para detectar cicatrices renales.",
+        "La ausencia de hidronefrosis en la ecografía descarta esta entidad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico cuya imagen vinculada muestra una proyección AP de una CUMS (Cistouretrografía Miccional Seriada). En ella se identifica reflujo vesicoureteral bilateral, mayor en el lado derecho. Esta entidad predispone a infecciones urinarias de repetición (respuesta 2 correcta). La CUMS sirve para diagnosticar y categorizar el reflujo. El método diagnóstico más sensible para detectar cicatrices renales es la gammagrafía DMSA, no la CUMS. La ausencia de hidronefrosis en la ecografía en absoluto descarta la posible presencia de reflujo.",
+      "imagen": "imagen/p011-2.png"
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Mujer en puerperio que acude con masa palpable en mama derecha, a la que se le realiza la siguiente ecografía: ¿cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Galactocele",
+        "Alta sospecha de malignidad",
+        "Quiste simple",
+        "Microcalcificaciones asociadas a tumor maligno"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de una ecografía, donde se observa una lesión quística compleja junto a estructuras tubulares cilíndricas. Por lo que dado el contexto clínico, lo más probable es que se trate de un galactocele y dilatación de conductos ocupados por leche. La manera de confirmarlo es hacer una punción con aguja fina (PAAF) ecoguíada donde al aspirar obtendremos un material blanquecino (LECHE).",
+      "imagen": "imagen/p012-1.png"
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Paciente de 49 años, fumador de dos paquetes de tabaco al día, hipertenso y dislipémico, sin otros antecedentes relevantes salvo esteatosis hepática no alcohólica. Acude a Urgencias por lumbalgia de varios días de evolución. Tras los hallazgos en la TC realizada, se decide ingresar al paciente y hacer una RMN lumbar. La imagen asociada corresponde a dicha RMN, secuencia de supresión grasa. Señale la respuesta CORRECTA:",
+      "opciones": [
+        "Existen lesiones sospechosas de metástasis en los cuerpos vertebrales L1, L2 y L5.",
+        "Hay invasión del canal medular con compresión de las raíces de la cola de caballo.",
+        "El tratamiento indicado es antibioterapia intravenosa.",
+        "La lumbalgia podría explicarse por una hernia discal L1/L2."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es la 3. La imagen muestra una espondilodiscitis L1/L2. Las secuencias de RMN de supresión grasa son como un T2 pero la grasa se ve negra, por lo tanto es una muy buena secuencia para ver edema en cuerpos vertebrales (la médula ósea en adultos es fundamentalmente grasa). Las espondilociscitis se caracterizan por una destrucción del disco intervertebral, como se ve en este caso. Por tanto, el edema en cuerpos vertebrales colindantes y destrucción del disco intervertebral es muy sugestivo de espondilodiscitis.",
+      "imagen": "imagen/p012-2.png"
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Paciente mujer de 69 años con lumbalgia que no responde al tratamiento conservador. Se realiza una RMN lumbar con los hallazgos en la imagen vinculada. Señale la respuesta CORRECTA:",
+      "opciones": [
+        "Se identifica un aplastamiento vertebral del cuerpo D12 de probable cronología antigua.",
+        "Debido a la existencia de edema en el cuerpo vertebral no estaría indicada la realización de tratamientos percutáneos tipo vertebroplastia/cifoplastia.",
+        "El muro posterior se mantiene conservado.",
+        "La imagen descarta que corresponda a una fractura patológica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La imagen vinculada muestra un aplastamiento del cuerpo D12, con acuñamiento anterior, a expensas fundamentalmente del platillo superior y con conservación del muro posterior (respuesta 3 correcta). La existencia de edema en el cuerpo vertebral (hiperintensidad de señal en la secuencia potenciada en T2-supresión grasa) indica una cronología aguda-subaguda (opción 1 incorrecta) y estaría especialmente indicado el tratamiento percutáneo (opción 2 incorrecta). Con la imagen vinculada no se puede descartar una fractura patológica, ya que necesitaríamos otras proyecciones como la axial para descartar componente de partes blandas (opción 4 incorrecta).",
+      "imagen": "imagen/p013-1.png"
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Mujer de 46 años, operada hace 15 días de carcinoma de mama ductal infiltrante con mastectomía derecha, que acude a Urgencias por dolor persistente en mama derecha desde la cirugía, pero más intenso los últimos días. Se le realiza ecografía mamaria (imagen vinculada). ¿Qué se muestra en dicha ecografía?",
+      "opciones": [
+        "Recidiva tumoral.",
+        "Restos tumorales.",
+        "Hematoma posquirúrgico.",
+        "Rotura intracapsular de prótesis mamaria."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta cuya imagen vinculada corresponde a una ecografía mamaria en la que se ve la imagen típica de un hematoma en evolución (respuesta 3 correcta), lesión bien delimitada con áreas quísticas y componente heterogéneo ecogénico. La recidiva o restos tumorales se esperarían observar como lesiones sólidas, mientras que las prótesis mamarias muestras un artefacto ecográfico ‘sucio’ que dificulta la identificación de roturas intracapsulares.",
+      "imagen": "imagen/p013-2.png"
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Paciente fumadora con asma de difícil control que utiliza oxígeno domiciliario fijo y portátil para la deambulación. Ingresa por agudización de asma grave e infección bronquial realizándose un estudio de TC en el que se aprecia lo siguiente:",
+      "opciones": [
+        "Consolidación en LM.",
+        "Enfisema de predominio paraseptal",
+        "Enfisema de predominio centroacinar",
+        "Estudio normal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se aprecian zonas parcheadas de menor atenuación en ambos campos pulmonares superiores localizadas en el centro de los acinos y que se corresponden con zonas de ausencia de paréquima pulmonar (enfisema centroacinar). El enfisema paraseptal es caracteristicamente de localización subpleural.",
+      "imagen": "imagen/p014-1.png"
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Paciente de 42 años, natural de Perú, que acude a Urgencia por un cuadro de cefalea de varios días de evolución. Hace varios años, en un viaje a su país, refiere haber estado ingresado por un episodio autolimitado de convulsiones, pero no recuerda el tratamiento pautado en ese momento. Se le realiza TC de cráneo (imagen vinculada). Ante estos hallazgos, ¿qué patología sospecharía?",
+      "opciones": [
+        "Metástasis cerebrales.",
+        "Neurocisticercosis.",
+        "Equinococosis cerebral.",
+        "Abscesos cerebrales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Enumeremos las claves de la pregunta: paciente de Perú, cefalea y convulsiones, enfermedad en fases (parece que nos explican que ha tenido un episodio previo del que ha sido tratado). En las imágenes vinculadas se identifican varias lesiones puntiformes calcificadas algunas de ellas intraaxiales (cortico-subcorticales) y otras probablemente extraaxiales (espacio subaracnoideo) y un área de baja atenuación frontal izquierda, subcortical en relación con edema. En el estudio TC postcontraste (segunda imagen vinculada) se identifican múltiples lesiones alguna de ellas con realce en anillo con zonas hiperdensas en su interior y edema adyacente, por lo que nos encontramos en un mismo paciente con lesiones con diferentes morfologías. Veamos las opciones de respuesta:\n\n1.- Podríamos descartarla por la temporalidad del cuadro y por el aspecto de las lesiones, diferentes estadios. Las metástasis calcificadas de tan pequeño tamaño son extremadamente raras y la ausencia de edema prácticamente lo descarta (papilar tiroides, osteosarcoma, etc.).\n\n2.- La neurocisticercosis es la infección parasitaria más frecuente (Taenia solium). Aproximadamente el 60-90% de las infecciones cursan con afectación neurológica. Suelen afectar a pacientes entre 15 y 40 años. Los síntomas más frecuentes son convulsiones y cefalea. En el cerebro, la localización más frecuente es el espacio subaracnoideo > parénquima cerebral > sistema ventricular. Se caracteriza por la aparición de múltiples pequeñas lesiones (< 1 cm), en diferentes fases (estadios vesicular, coloide vesicular, nodular granular y nodular calcificada), por lo que, como en nuestro caso es posible ver distintas lesiones en distintos estadios (respuesta 2 correcta). Lo más característicos son las lesiones granulares calcificadas.\n\n3.- Es posible que no se nos vengan a la cabeza las características radiológicas, pero se refiere a la HIDATIDOSIS. Si trasladamos los clásicos quistes hepáticos hidatídicos al cerebro, esperaríamos encontrarnos algo similar y efectivamente, nos aportarían lesión quística, unilocular, de gran tamaño, no calcificada o bien los quistes “hijos” de pequeño tamaño.\n\n4.- Queda descartada por la clínica y por la imagen vinculada. Los abscesos cerebrales se caracterizan por ser lesiones con edema alrededor y con realce irregular en anillo.",
+      "imagen": "imagen/p014-2.png"
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Ante los hallazgos de esta imagen, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Corresponde a una radiografía de abdomen anteroposterior en bipedestación.",
+        "La presencia de burbujas de gas en pelvis descarta una obstrucción completa intestinal.",
+        "Existen hallazgos que sugieren hepatopatía crónica.",
+        "El gas se localiza fundamentalmente en intestino delgado y estómago."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La placa de abdomen está realizada en bipedestación (nótese los niveles hidroaéreos) - respuesta 1 correcta. Se identifica una prótesis TIPS lo que sugiere hepatopatía crónica (respuesta 3 correcta). La dilatación es fundamentalmente de intestino delgado y existe gas en el fundus gástrico (respuesta 4 correcta). Sin embargo, la presencia de gas en la ampolla retal no descarta una obstrucción completa intestinal ya que en estadios iniciales el gas colónico puede no haberse expulsado del todo (respuesta 2 incorrecta).",
+      "imagen": "imagen/p015-1.png"
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "¿A qué arteria coronaria corresponde la señalada en la imagen?",
+      "opciones": [
+        "Arteria circunfleja",
+        "Arteria coronaria derecha",
+        "Arteria descendente anterior",
+        "Arteria descendente posterior"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se observa la división del tronco coronario izquierdo. La rama señalada es la que se sitúa medialmente y corresponde a la arteria descendente anterior.",
+      "imagen": "imagen/p015-2.png"
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Paciente varón de 52 años que acude a Urgencias por dolor en hipocondrio izquierdo. Entre sus antecedentes personales destacan la presencia de múltiples factores de riesgo cardiovascular e historia de adicción a drogas por vía parenteral. Dado su mal estado general se decide realizar una TC de abdomen con contraste i.v. de forma urgente. Ante los hallazgos de la imagen vinculada, ¿qué opción le parece correcta?.",
+      "opciones": [
+        "El diagnóstico es infarto esplénico.",
+        "El diagnóstico es absceso esplénico.",
+        "El diagnóstico es hidatidosis.",
+        "Los hallazgos son inespecíficos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La opción correcta es la 2. La imagen de TC asociada a la pregunta muestra en el bazo una colección de densidad líquido-necrótica con captación periférica. Asímismo, en el espesor de la colección podéis apreciar algunas burbujas de gas (fácilmente identificables al ser de densidad “aire”). La existencia de gas en el seno de una colección líquida se considera patognomónica para el diagnóstico de absceso en casos de ausencia de cirugía o intervención previa que pudiera justificarla, al ser producido necesariamente por los organismos causantes de la infección (bacterias que fermentan la glucosa y la convierten en CO2 y nitrógeno).\n\nLa opción 1 es incorrecta, ya que las características de la circulación esplénica hacen que el infarto se manifieste normalmente como un área hipodensa de forma triangular y con base periférica, sin gas asociado.\n\nLa hidatidosis esplénica suele aparecer como lesiones redondeadas de densidad similar al agua, septadas y calcificadas hasta en un 50% de los casos. Asímismo, asocian quistes hidatídicos en el hígado con mucha frecuencia y suele existir un antecedente exposicional o epidemiológico (opción c incorreta).\n\nPor último, la opción d también es incorrecta, ya que –como se ha explicado previamente- una colección líquida con presencia de gas en su interior y pared captante es un hallazgo altamente específico.",
+      "imagen": "imagen/p016-1.png"
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Varón de 43 años con talasemia y neurofibromatosis tipo 2. En una radiografía de tórax se identifica ensanchamiento importante del mediastino posterior, y se decide realizar una TC toracoabdominal con contraste (imagen vinculada). A este respecto, señale el diagnóstico CORRECTO:",
+      "opciones": [
+        "Conglomerados adenopáticos en mediastino posterior.",
+        "Neurofibromas múltiples de ganglios dorsales.",
+        "Abscesos múltiples paraespinales.",
+        "Hematopoyesis extramedular."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta cuya clave está en el enunciado. En pacientes con anemia crónica como es el caso (paciente con talasemia), en ocasiones, podemos observar radiológicamente focos de hematopoyesis extramedular en la columna dorsolumbar, con la imagen típica que se muestra en la imagen vinculada (respuesta 4 correcta). La facomatosis en la que podríamos encontrar numerosos neurofibromas es en la neurofibromatosis tipo 1, no en la tipo 2 como en este caso. Radiológicamente las lesiones son sólidas, por lo que no serían compatibles con abscesos paraespinales.",
+      "imagen": "imagen/p016-2.png"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Basado en los hallazgos de la imagen ecográfica aportada, ¿Qué otro hallazgo NO se esperaría encontrar?",
+      "opciones": [
+        "Colapso del uréter distal izquierdo.",
+        "Otras litiasis en riñón izquierdo.",
+        "Cicatrices corticales en riñón izquierdo.",
+        "Presencia de ‘jet ureteral’ izquierdo en la vejiga."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta correcta es la 4, ya que el ‘jet ureteral’ es la visualización de la orina entrando en la vejiga a través del meato ureteral y puesto que existe una obstrucción con hidronefrosis debido a una litiasis ureteral, no esperaríamos encontrar el ‘jet ureteral’ izquierdo. El uréter distal izquierdo lo esperaríamos encontrar colapsado (respuesta 1), debido a que ya existe una litiasis no es raro encontrar más litiasis (respuesta 2) y las cicatrices corticales podrían deberse a pielonefritis previas por cólicos renoureterales.",
+      "imagen": "imagen/p017-1.png"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Varón de 15 años de edad con traumatismo facial. TC inicial de urgencia no mostró fracturas ni hemorragia intracraneal. El paciente fue dado de alta, y regresa a los cuatro díass con dolor periocular izquierdo y cefalea pulsátil. Resonancia magnética cerebral potenciada en T2, corte axial. Basados en la historia clínica y en los hallazgos radiológicos, ¿cuál es el diangóstico más probable?",
+      "opciones": [
+        "Absceso subperióstico orbitario.",
+        "Fístula carótido-cavernosa.",
+        "Trombosis de la vena oftálmica.",
+        "Síndrome de Gradenigo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La imagen muestra una lesión serpinginosa hipointensa, correspindiente a dilatación masiva de la vena oftálmica izquierda. A nivel de la fisura orbitaria existe una solución de continuidad con el seno cavernoso izquierdo. Hallazgos clásicos de fístula carótido-cavernosa.",
+      "imagen": "imagen/p017-2.png"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Indique qué hallazgos existen en la prueba diagnóstica y que categoría BIRADS le otorga.",
+      "opciones": [
+        "Microcalicificaciones lineales finas agrupadas. BIRADS 4C.",
+        "Microcalcificaciones de aspecto benigno. BIRADS 0",
+        "No existen hallazgos reseñables. BIRADS 1",
+        "Microcalcificaciones lineales finas dispersas. BIRADS 6"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "BIRADS 0 se reserva para estudios que no han podido de ser finalizados por no disponer de la técnica.\n\nBIRADS 6 para hallazgos malignos cuando tenemos confirmación histológica.",
+      "imagen": "imagen/p017-3.png"
+    }
+  ]
+}

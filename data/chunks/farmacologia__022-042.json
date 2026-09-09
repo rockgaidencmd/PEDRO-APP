@@ -1,0 +1,580 @@
+{
+  "materia": "farmacologia",
+  "paginaInicio": 22,
+  "paginaFin": 42,
+  "anomalias": [
+    "p24: en la clasificación de las RAM, el comentario define 'Tipo D (Diferidas): Son RAM que aparecen al tiempo de la administración del fármaco', lo que contradice el propio concepto de reacción diferida (deberían aparecer a distancia en el tiempo); los ejemplos que da (teratogénesis, carcinogénesis) sí corresponden a reacciones diferidas.",
+    "p28: el enunciado pregunta por 'los receptores de canales inotrópicos' mientras que el comentario responde sobre 'los receptores que actúan sobre canales iónicos' (ionotrópicos); no son lo mismo y el término del enunciado está mal empleado.",
+    "p32: en la pregunta de la ARN polimerasa el comentario clasifica la vancomicina como aminoglucósido ('los aminoglucósidos (vancomicina)'), cuando es un glucopéptido, y además cita como betalactámico la meticilina, que no figura entre las opciones.",
+    "p33: el rango terapéutico de la fenitoína aparece como '10-20 g/ml'; falta el prefijo micro (µg/ml), lo que altera la dosis en un factor de un millón.",
+    "p34: el comentario del equilibrio estacionario contiene dos tablas (Dosis / Cp max / Cp 8 h) que se han linealizado como texto; además, en la primera tabla el valor de 'Cp 8 h' de la 5.ª dosis figura como 96.86 mientras que en la segunda tabla (doble de dosis) el valor equivalente es 193.75, es decir el doble de 96.875.",
+    "p37: el comentario dice 'idarucizumab (el cual ha funcionado, aunque solo completamente)' cuando el enunciado especifica que la reversión se consiguió solo parcialmente; la frase es internamente incoherente.",
+    "p41: en la pregunta sobre los efectos de la edad, el comentario justifica la opción 2 diciendo que la disminución de la albúmina 'aumenta la fracción libre de fármacos ácidos (como la albúmina)', poniendo la propia albúmina como ejemplo de fármaco ácido; la opción 2 del enunciado habla de la digoxina."
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 22,
+      "enunciado": "Leyendo la ficha técnica de un medicamento nuevo que se administra por vía oral lee datos sobre su biodisponibilidad oral. Si la biodisponibilidad oral de un fármaco es del 50%, ¿qué significado tiene esto?",
+      "opciones": [
+        "El fármaco se absorbe a una velocidad 50% menor por vía oral que por vía iv.",
+        "El valor del Área Bajo la Curva (AUC) por vía oral es la mitad que por vía iv.",
+        "La Cmax por vía oral es un 50% menor que por vía iv.",
+        "La vida media de eliminación del fármaco por vía oral es la mitad de la esperada."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La biodisponibilidad es un parámetro biofarmacéutico que cuantifica la cantidad (fracción o porcentaje) de fármaco que aparece inalterado en la circulación sistémica (biodisponibilidad en magnitud) y a la velocidad a la que esto ocurre (biodisponibilidad en velocidad). La biodisponibilidad en magnitud se calcula midiendo el AUC. Opción 2 correcta.\n\nEl cálculo de la Cmax estaría más relacionado con la biodisponiblidad en velocidad, junto con la constante de absorción (Ka) y la Tmax.\n\nLa biodisponibilidad de los tratamientos por vía IV será siempre del 100% ya que todo el fármaco que administramos pasa directamente a la sangre disponible para hacer efecto.\n\nEn el caso del resto de vías, parte del fármaco administrado puede \"perderse\" antes de llegar a sangre (p. ej. puede no absorberse completamente en el tracto digestivo, puede sufrir un efecto de primer paso hepático eliminándose precozmente en el hígado antes de llegar al torrente sistémico, etc.)."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "La concentración plasmática de un medicamento en el estado estable es:",
+      "opciones": [
+        "El rango de concentración plasmática que se alcanza con un medicamento una vez transcurridas cinco vidas medias.",
+        "El nivel plasmático máximo esperable con un medicamento en tratamiento crónico.",
+        "El área bajo la curva producida por cualquier dosis en el curso de un tratamiento crónico.",
+        "El equivalente molar a la semivida de eliminación."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El concepto sobre el que nos preguntan en esta ocasión es uno de los conceptos clásicos de la farmacología y no es otro que la concentración plasmática estable o el equilibrio estacionario (otra forma mucho más común de denominar este concepto) y cuya definición es la opción 1."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Recibe en urgencias a una mujer de 39 años traída por su marido, tras encontrarla algo somnolienta y nauseosa al llegar a su domicilio. Está en tratamiento por síndrome depresivo. En la exploración inicial, la paciente se encuentra desorientada (GCS 13), afebril, TA 110/80, FC 65lpm, SatO2 98% basal. Pide una serie de pruebas complementarias y la enfermera que le está haciendo el ECG le avisa porque la paciente está comenzando a decir palabras inapropiadas. Los tóxicos en orina son positivos para BZD. Señale cuál de los siguientes es el tratamiento indicado en este caso:",
+      "opciones": [
+        "Naloxona",
+        "Flumazenilo",
+        "Acetilcisteína",
+        "Penicilamina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La clave para contestar a esta pregunta se encuentra al final del enunciado (Benzodiazepinas + en orina). El Flumazenilo presenta una acción competitiva a nivel del receptor GABA. Opción 2 correcta.\n\nVeamos el resto de opciones:\n\n1) Naloxona: intoxicación por opiáceos.\n\n3) Acetilcisteína: intoxicación por paracetamol.\n\n4) Penicilamina: intoxicación por plomo y otros metales pesados."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "El Sacubitril/Valsartán es un fármaco relativamente nuevo para el tratamiento de la insuficiencia cardiaca, de los siguientes mecanismos de acción, señale el que considere más correcto.",
+      "opciones": [
+        "Inhibe la bomba Na+/K+ ATPasa, aumentando la concentración intracelular de Na+, que se intercambia por Ca+2, provocando un efecto inotrópico positivo.",
+        "Inhibe la encima encargada de degradar el BNP, elevando así los niveles circulantes de éste favoreciendo la vasodilatación y la natriuresis.",
+        "Bloqueo selectivo de la corriente If en el nodo sinusal.",
+        "Ninguno de los anteriores se corresponde con el mecanismo de dicho fármaco."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Sacubitril por sí solo, inhibe la neprilisina (enzima encargada de degradar el BNP), al cual se añade un ARAII, es el único representante actualmente de los INRA (Inhibidores de la neprilisina y receptor de la angiotensina). Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En los últimos años han aparecido nuevos fármacos anticoagulantes. Señale cuál de los siguientes es un inhibidor de la trombina (IIa):",
+      "opciones": [
+        "Rivaroxabán.",
+        "Apixabán.",
+        "Dabigatrán.",
+        "Acenocumarol."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es importante que conozcas los nuevos anticoagulantes y su mecanismo de acción. El dabigatrán es un inhibidor de la trombina, puede ayudarte a recordarlo que en su nombre contiene las letras TR, TRombina (respuesta 3 correcta). Por otro lado tanto rivaroxabán como apixabán son inhibidores del factor Xa (en su nombre contienen la X) mientras que el acenocumarol interviene en el metabolismo de la vitamina K, en concreto inhibiendo la epóxido reductasa."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Las Reacciones Adversas a los Medicamentos (RAM) son situaciones frecuentes en la práctica clínica. Existen diversos tipos en función de las características y las causas de estas reacciones. ¿Cuál de los siguientes casos constituiría un buen ejemplo de una RAM tipo B, también llamadas \"bizarras\" o \"idiosincráticas\"?",
+      "opciones": [
+        "Paciente de 17 años en tratamiento con Isotretinoina que presenta queilitis con descamación intensa.",
+        "Paciente de 25 años que tras la toma de Amoxicilina desarrolla una urticaria aguda.",
+        "Paciente de 60 años que tras la toma de Tramadol presenta cuadro de náuseas.",
+        "Paciente de 80 años que presenta somnolencia tras la toma de Diazepam."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Existen distintos tipos de RAM:\n\n- Tipo A (Aumentadas o Farmacológicas): Son aquellas RAM relacionadas con el mecanismo de acción del fármaco (y por tanto son previsibles), que resultan de una exageración del efecto farmacológico previsible. Están relacionadas con la dosis, de tal manera que pueden reducirse o eliminarse modificando la posología. Son muy frecuentes y no suelen ocasionar alta mortalidad. Ejemplos: Hipoglucemia por insulina, hipotensión por betabloqueantes, xerosis por retintines.\n\n- Tipo B (Bizarras o Idiosincráticas): Son aquellas RAM no relacionadas con la dosis ni con el mecanismo de acción (por ello, no son previsibles). Su causa suelen ser mecanismo inmunológicos (como alergias) o farmacogenéticos. Son menos frecuentes y pueden ocasiona alta mortalidad en algunas situaciones. Ejemplos: Alergias a medicamentos, agranulocitosis por metamizol. Opción 2 correcta.\n\n- Tipo C (debidas al uso crónico): Son RAM derivadas de un uso prolongado del medicamento, como la supresión del eje hipotálamo-hipofisario en el tratamiento corticoideo prolongado o el desarrollo de dependencia a opioides.\n\n- Tipo D (Diferidas): Son RAM que aparecen al tiempo de la administración del fármaco. Se incluyen en este grupo la teratogénesis y la carcinogénesis por fármacos."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "El efecto secundario más relevante clínicamente del tratamiento de elección de la toxoplasmosis cerebral es:",
+      "opciones": [
+        "Neutropenia.",
+        "Fiebre.",
+        "Lesiones cutáneas.",
+        "Insuficiencia renal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta incluye dos conceptos. En primer lugar, es fundamental saber que el tratamiento de elección de la toxoplasmosis cerebral es pirimetamina más sulfadiacina. Menos preguntable pero importante es saber que pueden producir neutropenia. Opción 1 correcta. Como ambos fármacos actúan inhibiendo la síntesis del ácido fólico, pueden afectar la división celular en los órganos de mayor proliferación, como es la médula ósea. Por eso se administran junto con ácido fólico."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Los betalactámicos constituyen el grupo más numeroso de antibióticos. De entre los siguientes, señale uno de los aspectos NEGATIVOS de este grupo de antibióticos:",
+      "opciones": [
+        "La ausencia de derivados que se absorban bien por vía oral.",
+        "La falta de derivados con actividad antibacteriana sobre Pseudomonas aeruginosa.",
+        "La posibilidad de cualquiera de sus derivados de producir reacciones alérgicas graves.",
+        "La necesidad de asociar inhibidores de betalactamasas, a cualquier derivado, para evitar las resistencias bacterianas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla sobre los antibióticos betalactámicos que, en efecto, pueden producir reacciones de hipersensibilidad graves, tanto de tipo I (es decir, mediadas por IgE) como de tipo IV (es decir, retardadas o mediadas por células) (respuesta 3 correcta). Recuerda que los carbapenémicos (excepto ertapenem), algunas cefalosporinas de tercera, cuarta y quinta, piperacilina-tazobactam y aztreonam presentan actividad antipseudomónica."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "¿Cuál de las siguientes asociaciones de Enfermedad - Tratamiento es INCORRECTA?",
+      "opciones": [
+        "LLC - Venetoclax.",
+        "LMC - Ponatinib.",
+        "Cáncer de mama HER-2+ Trastuzumab.",
+        "LAM - Lapatinib."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El lapatinib es un inhibidor de la tirosina quinasa que interrumpe la vía del receptor de crecimiento HER-2. Ha demostrado su utilidad en cáncer de mama HER-2+ y otros tumores sólidos, pero no se ha extendido su uso al tratamiento de la LAM (opción 4 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Una paciente con un carcinoma de mama ha sido tratada con quimioterapia que incluye adriamicina, y actualmente está recibiendo tratamiento con trastuzumab. ¿Cuál de los siguientes estudios cree que es NECESARIO realizar de forma regular en su seguimiento actual?",
+      "opciones": [
+        "Radiografía de abdomen.",
+        "Doppler venoso.",
+        "Ecocardiograma.",
+        "Electroforesis en sangre."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que, aunque tiene aspecto de caso clínico, en realidad es bastante teórica. Consiste en reconocer un posible efecto secundario muy relacionado con este tratamiento: la cardiopatía por adriamicina. La adriamicina es un inhibidor de la topoisomerasa II, que también recibe el nombre de doxorrubicina. Pertenecen al mismo grupo la daunorrubicina, idarrubicina y epirrubicina. El efecto secundario característico es la cardiotoxicidad, que puede ser aguda (arritmias, miocarditis, pericarditis) o crónica irreversible (dependiente de la dosis acumulada, típicamente en forma de miocardiopatía dilatada). Opción 3 correcta. También el trastuzumab, aunque con menos frecuencia, puede producir toxicidad miocárdica."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Un varón de 67 años ingresado por una colecistectomía presenta fiebre sin clara focalidad. En el hemocultivo extraído crecen cocos Grampositivos. El cirujano que lleva a este enfermo le instaura un tratamiento antibiótico tras el cual el paciente presenta un eritema difuso. ¿Qué antibiótico pautó adecuadamente el cirujano?:",
+      "opciones": [
+        "Cotrimoxazol.",
+        "Vancomicina.",
+        "Ceftacidima.",
+        "Piperacilina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las reacciones adversas más frecuentes de los principales antibióticos es un tema bastante preguntado. Precisamente esta ha sido preguntada. La reacción que presenta el enfermo del caso es el denominado SÍNDROME DEL HOMBRE ROJO y es el efecto adverso más frecuente de la vancomicina. Opción 2 correcta. Consiste en una eritrodermia de cara y tronco superior y tiene relación con la liberación de histamina. No ocurre con otros glucopéptidos como la teicoplanina. Otros efectos son la ototoxicidad y la nefrotoxidad, que se potencian con el uso concomitante de aminoglucósidos."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Qué fármaco se une a la tubulina e inhibe el ensamblaje microtubular?",
+      "opciones": [
+        "Clorodeoxiadenosina.",
+        "Metotrexate.",
+        "Doxorrubicina.",
+        "Vincristina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta memorística de dificultad alta. Los tres fármaco utilizados como antineoplásicos que pertenecen al grupo de alcaloides de la vinca son la vincristina, vinblastina y vinorelbina, y los tres actúan uniéndose a la tubulina e impidiendo su polimerización. Opción 4 correcta. La fludarabina es un antimetabolito que actúa como análogo de la adenosina y así interfiere en el metabolismo celular. El mismo mecanismo utiliza la clorodeoxiadenosina. El metotrexate, al ser un análogo del ácido fólico, actúa como un falso sustrato inhibiendo la folato reductasa. Por último, la doxorrubicina es un inhibidor de la topoisomerasa II."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Acude a urgencias un paciente inquieto, tembloroso, que acusa vértigo, acúfenos y tinnitus. Su temperatura corporal es de 39,2º C. Pide una gasometría que arroja los siguientes datos: pH=7,43, PaCO2=27 mmHg, bicarbonato=26 mEq/l, PaO2=82 mmHg. Extrañado por estos datos decide repetir la gasometría (tras estar hora y media esperándola) y los resultados son: pH=7,32, PaCO2=31 mmHg, PaO2=83 mmHg y bicarbonato=13 mEq/l. Usted sospecha:",
+      "opciones": [
+        "Sobredosis por opiáceos.",
+        "Abstinencia de opiáceos.",
+        "Neumonía y sepsis posterior.",
+        "Salicilismo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta presenta de un modo bastante ilustrativo la clínica de la intoxicación por ácido salicílico (salicilismo).\n\nDesde el punto de vista respiratorio, es típica la aparición de dos fases: 1º Alcalosis respiratoria (hiperventilación), 2º Acidosis metabólica, porque se acaba produciendo una acidosis láctica en los casos más graves.\n\nEn el caso expuesto, también aparece su manifestación neurológica más típica y precoz: los acúfenos y el tinnitus.\n\nPor otra parte, existe un dato que nos da una pista más: la temperatura de 39.2ºC. Lo que probablemente ha ocurrido es que este paciente se haya sobre dosificado con ácido salicílico, en el contexto de un cuadro febril. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Estando en quirófano administra media ampolla de Atropina a su paciente. A partir de su administración espera encontrar una serie de alteraciones derivadas de su mecanismo de acción. Señale cuál de las siguientes NO esperaría encontrar:",
+      "opciones": [
+        "Sequedad de piel y mucosas.",
+        "Bradicardia.",
+        "Alteraciones del sistema nervioso central al utilizarse a dosis altas.",
+        "Aumento de la temperatura corporal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta. La atropina es un fármaco anti-colinérgico. Dado este mecanismo de acción es esperable encontrar:\n\n- Sequedad de piel y mucosas.\n\n- La disminución de la sudoración puede ocasionar aumento de la temperatura corporal.\n\n- Taquicardia como respuesta a la disminución de la acción bradicardizante de la acetilcolina.\n\n- A dosis altas puede inducir alteraciones en el funcionamiento del SNC."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "En relación con los receptores de canales inotrópicos, señale la opción correcta:",
+      "opciones": [
+        "En su acción interviene el AMPc.",
+        "Tiene acción en milisegundos.",
+        "Actúan ligados a kinasas.",
+        "Algunos actúan mediante la fosfolipasa C."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Los receptores que actúan sobre canales iónicos tienen su acción en milisegundos. Sin embargo, aquellos que actúen sobre proteínas G o kinasas pueden verse su efecto en minutos e incluso horas."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre los inhibidores de la ATPasa H+/K+ gástricos es falsa?",
+      "opciones": [
+        "Son profármacos.",
+        "El omeprazol no puede administrarse por sonda nasogástrica.",
+        "Se metabolizan principalmente a nivel hepático.",
+        "Inhibe de forma reversible la bomba ATPasa H+/K+."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 es la que debemos marcar. La inhibición que hacen estos fármacos sobre la bomba potasio-protones es irreversible. El resto de opciones son correctas (el omeprazol, al estar encapsulado, para que tenga efecto terapéutico no se puede abrir antes de tomarlo, y de esta forma es imposible administrarlo a través de una sonda nasogástrica)."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "¿Cuál de los siguientes factores de la coagulación no depende de la vitamina K?",
+      "opciones": [
+        "Proteína C.",
+        "Factor IV.",
+        "Factor VII.",
+        "Factor IX."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Los factores de la coagulación dependientes de la vitamina K son: II, VII, IX, X, proteína C y proteína S."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Paciente de 54 años que es traído a urgencias por fiebre de 40ºC, hipotensión, disminución del nivel de conciencia y otros signos de shock séptico. Se indica inicio con tratamiento antibiótico bactericida. ¿Cuál NO cumple este criterio?:",
+      "opciones": [
+        "Meropenem.",
+        "Gentamicina.",
+        "Cloranfenicol.",
+        "Ciprofloxacino."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Reconocer entre unos antibióticos propuestos cuáles son bactericidas y cuáles bacteriostáticos ha sido preguntado alguna vez, por lo que deberías tener una idea del tema. Recuerda que los que actúan inhibiendo la síntesis de pared celular son bactericidas: betalactámicos (meropenem), glucopéptidos (vancomicina) y antibióticos tópicos. Del resto de los antibióticos más usados, los aminoglucósidos (gentamicina), las quinolonas (ciprofloxacino), el metronidazol y la isoniacida son también bactericidas. El resto (cloranfenicol, macrólidos, tetraciclinas, clindamicina, sulfamidas y rifampicina) actúan como bacteriostáticos. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "El cardiólogo de su hospital le comenta que ha decidido iniciar en un paciente con una insuficiencia cardiaca sistólica grave descompensada y tratamiento crónico con atenolol, un fármaco inotrópico positivo. Dicho fármaco tiene la peculiaridad de NO aumentar la concentración de calcio intracitoplasmático. De entre los siguientes fármacos, ¿de cuál está hablando?",
+      "opciones": [
+        "Digoxina.",
+        "Dobutamina.",
+        "Milrinona.",
+        "Levosimendán."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El calcio intracitoplasmático es el mediador principal del estado inotrópico del corazón. La acción fundamental de la mayor parte de los fármacos que estimulan la contractilidad miocárdica (fármacos inotrópicos positivos) radica en aumentar la concentración de calcio en las cercanías de los miofilamentos; esto ocurre con los agonistas betaadrenérgicos (dobutamina, dopamina), con la digoxina y con los inhibidores de la fosfodiesterasa (amrinona, milrinona). Sin embargo, existe otro grupo de fármacos inotrópicos positivos en los que su mecanismo de acción no implica aumentar el calcio intracitoplasmático; estos son los agentes sensibilizadores al calcio (Levosimendán - marcamos la opción de respuesta 4-). Estos fármacos ejercen su acción mediante la unión a la troponina C, mejorando el acoplamiento de actina y miosina. Puede ser tan eficaz a corto plazo como la dobutamina para mejorar los síntomas de insuficiencia cardiaca sistólica descompensada y se prefiere a esta en las descompensaciones de pacientes bajo tratamiento crónico betabloqueante."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "La vía inhalatoria es ampliamente utilizada por los pacientes diagnosticados de asma y EPOC. Existen diferentes dispositivos para administrar fármacos por esta vía. Cuál de las siguientes considera falsa:",
+      "opciones": [
+        "Los inhaladores de cartucho presurizado (ej. salbutamol) permiten autonomía al paciente.",
+        "Los inhaladores de cartucho presurizado (ej. salbutamol) tienen un elevado depósito orofaringe. En caso de ser un corticoide (ej. budesonida) existe mayor riesgo de muguet.",
+        "Las cámaras espaciadoras solventan el problema de coordinación entre presión del dispositivo y la inspiración. Sin embargo, disminuyen el depósito pulmonar de fármaco.",
+        "Los inhaladores de fármacos en polvo son fáciles de utilizar y permiten un buen control del número de dosis. Sin embargo, requieren un flujo inspiratorio alto."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los inhaladores de cartucho presurizado (MDI) son los más clásicos y permiten autonomía como dice la opción 1, pero la coordinación entre presión del dispositivo y la inspiración no es fácil. Además, el depósito en boca y orofaringe es alto como dice la opción 2, pudiendo ocasionar efectos locales como muguet si se utilizan corticoides. Las cámaras espaciadoras se adaptan a los MDI y permiten mejorar la administración del fármaco aumentando su depósito pulmonar, puesto que ya no precisan coordinación entre presión del dispositivo y la inspiración. Por tanto, respuesta 3 correcta. Existen otros dispositivos, los inhaladores de polvo seco, que permiten saber el número de dosis administradas y restantes, pero requieren flujos inspiratorios altos, como dice la opción 4."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿En qué consiste el tratamiento MÁS útil para la intoxicación por organofosforados?",
+      "opciones": [
+        "En oximas.",
+        "En atropina.",
+        "En acetilcolina.",
+        "En bromuro de ipratropio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda que los insecticidas organofosforados, utilizados frecuentemente en la agricultura, son potentes inhibidores irreversibles de la acetilcolinesterasa. Se descubrieron poco antes de la II Guerra Mundial, donde fueron utilizados con fines bélicos. Producirán, por tanto, un síndrome muscarínico parcialmente reversible con atropina (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Respecto al mecanismo de los fármacos, señale la opción falsa:",
+      "opciones": [
+        "El AAS es un inhibidor irreversible de la COX 1.",
+        "La neostigmina es un inhibidor reversible de la acetilcolinesteraza.",
+        "Los antagonistas no competitivos disminuyen la acción del fármaco agonista dependiendo de la concentración de este último.",
+        "Los antagonistas competitivos se unen al mismo sitio de unión que el agonista, disminuyendo su afinidad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los antagonistas competitivos se unen de manera reversible al mismo sitio de unión que el agonista, desplazándolo y disminuyendo su afinidad por el receptor. Desplazan la curva dosis- respuesta a la derecha. Sin embargo, al aumentar la dosis del fármaco agonista, este puede seguir alcanzando el mismo efecto máximo.\n\nLos antagonistas no competitivos se unen de manera irreversible al receptor en una zona distinta a la que lo hace el agonista, modificando la estructura del receptor e impidiendo que el agonista pueda unirse de nuevo. De esta forma, el efecto máximo disminuye de manera independiente a la concentración del fármaco agonista (por mucho que aumentemos la dosis, este no se conseguirá unir a su receptor). Por tanto, la opción 3 es falsa."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Chico de 28 años que acude a Urgencias por presentar desde hace cinco días diarrea sanguinolenta y fiebre de 39 ºC. Nos comenta que hace una semana estuvo en su pueblo donde comió vegetales de la huerta de su tío y carne de ave que no nos sabe especificar. Tras esto realizamos un coprocultivo que nos da positivo para campylobacter jejuni y comenzamos tratamiento con un macrólido, en concreto con eritromicina. De entre los siguientes, ¿cuál es el mecanismo de acción de este grupo de antibióticos?",
+      "opciones": [
+        "Bacteriostático por inhibición de síntesis proteica-50S.",
+        "Bacteriostático por inhibición de síntesis proteica-30S.",
+        "Bactericida por inhibición de la síntesis de la pared.",
+        "Bactericida por inhibición de síntesis proteica-50S."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los macrólidos son fármacos bacteriostáticos por inhibición de la síntesis proteica-50S (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Cuál de las siguientes es una interacción farmacológica de tipo antagonismo:",
+      "opciones": [
+        "Acenocumarol y rifampicina.",
+        "Anticonceptivos orales y fenitoína.",
+        "Ciclosporina y carbamazepina.",
+        "Salbutamol y carvedilol."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El salbutamol es un beta-2 agonista (broncodilatador) y el carvedilol un beta-bloqueante no cardioselectivo (inotropo negativo, cronotropo negativo, pero también broncoconstrictor) por lo que tienen una relación de antagonismo. Por tanto, respuesta 4 correcta. Las opciones 1, 2 y 3 se refieren a interacciones a nivel del metabolismo (interacción farmacocinética) y no a nivel de receptor (interacción farmacodinámica, de sinergia o antagonismo)."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "La inhibición de la ARN polimerasa dependiente de ADN de la bacteria, es el mecanismo de acción antimicrobiano de:",
+      "opciones": [
+        "Sulfisoxazol.",
+        "Vancomicina.",
+        "Rifampicina.",
+        "Doxiciclina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El mecanismo de acción de los principales antibióticos ha sido preguntado varias veces en los últimos años, por lo que es importante conocerlos. La rifampicina inhibe la RNA- polimerasa dependiente de DNA mediante su unión a la subunidad B de dicha enzima (opción 3 correcta). De esta manera se suprime la iniciación de la formación de las cadenas de ARN y actúa como bactericida. Del resto de antibióticos propuestos, los aminoglucósidos (vancomicina) y las tetraciclinas (doxiciclina) actúan inhibiendo la síntesis proteica uniéndose a los ribosomas; las sulfamidas (sulfisoxazol) inhiben la síntesis de ácido fólico; y los betalactámicos (meticilina) inhiben la formación de pared bacteriana."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Le comenta un amigo que está tomando un fármaco cuya eliminación es proporcional a su concentración. ¿Qué cinética de eliminación presenta el fármaco que toma su amigo?",
+      "opciones": [
+        "Cinética de orden 0.",
+        "Cinética de orden 1.",
+        "Cinética de orden 2.",
+        "Cinética elíptica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La cinética de eliminación de orden 0 elimina una cantidad de fármaco constante, independientemente de su concentración, sin embargo, los fármacos con cinética de eliminación de orden 1 se eliminan de forma proporcional a su concentración, como es el caso del fármaco del enunciado (opción 2 correcta). La mayoría de fármacos poseen una cinética de eliminación de orden 1. Tanto la cinética de eliminación de orden 2 como la cinética elíptica no existen."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "¿Cuál de las siguientes acciones no es característica del grupo de fármacos de los antiinflamarios no esteroideos (AINEs)?",
+      "opciones": [
+        "Antiinflamatoria.",
+        "Antiemética.",
+        "Antipirética.",
+        "Analgésica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Los AINEs tienen efecto analgésico, antiinflamatorio y antipirético, pero no poseen efecto antiemético."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Paciente de 46 años en tratamiento desde hace 1 año con fenitoína. Se encuentra bien controlado y sin ninguna otra sintomatología. La dosis administrada es de 100 mg/8 h y la última dosis administrada fue hace 8 horas. Al realizar la extracción, se obtiene un nivel de 6.50 (Rango terapéutico de 10-20 g/ml). ¿Qué actitud tomaría con el paciente teniendo en cuenta ese nivel?:",
+      "opciones": [
+        "Reduciría el intervalo entre dosis.",
+        "Cambiaría de fármaco.",
+        "Aumentaría la dosis.",
+        "Mantendría la misma pauta."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El rango terapéutico es un concepto empleado en Farmacología, que incluye las dosis comprendidas entre el nivel mínimo eficaz y el máximo admisible para un determinado fármaco. Cuanto más estrecho es el rango terapéutico de un fármaco, será más difícil mantenerlo dentro de este margen, y por tanto más necesaria la medición periódica de sus niveles séricos. Son ejemplos típicos la digoxina, el litio y bastantes fármacos anticomiciales.\n\nEn esta pregunta, debemos integrar este concepto con los datos clínicos que nos ofrecen. En el momento de la medición, el paciente está por debajo del nivel mínimo. Con sólo este dato, la tentación es aumentar la dosis o acortar el intervalo… Pero hay que valorar todo lo que nos dicen, y hay dos datos fundamentales que pueden pasar desapercibidos:\n\n- El paciente lleva un año bien controlado con esta pauta.\n\n- El momento de la medición ha sido ocho horas después de una dosis.\n\nTeniendo en cuenta que está tomando fenitoína cada 8 horas y que el control ha sido satisfactorio, habría que considerar mantener la misma pauta, ya que la medición ha coincidido con el momento en el que tomaría la siguiente dosis. Por tanto, habría que quitarle importancia al nivel de fenitoína que nos están describiendo, por el contexto global de la pregunta."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre el equilibrio estacionario es falsa?",
+      "opciones": [
+        "Se alcanza a la 5º vida media del fármaco.",
+        "Puede alcanzarse antes si se aplica una dosis inicial del fármaco (dosis de choque)",
+        "Para que el fármaco sea efectivo el equilibrio estacionario debe estar dentro del rango terapéutico del fármaco.",
+        "El equilibrio estacionario depende de la dosis de fármaco que se administre."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: El equilibrio estacionario se alcanza a la 5º vida media del fármaco, independientemente de la dosis que se administre. Por ejemplo:\n\nUn fármaco que tenga una vida media de 8 horas\n\nDosis: 1º | 2º | 3º | 4º | 5º | 6º | 7º\nCp max: 100 | 150 | 175 | 187.5 | 193.75 | 196.88 | 198.44\nCp 8 h: 50 | 75 | 87.5 | 93.75 | 96.86 | 98.44 | 99.22\n\nAhora si, por ejemplo, damos el doble de dosis:\n\nDosis: 1º | 2º | 3º | 4º | 5º | 6º | 7º\nCp max: 200 | 300 | 350 | 375 | 387.5 | 393.75 | 396.88\nCp 8 h: 100 | 150 | 175 | 187.5 | 193.75 | 196.88 | 198.44\n\nComo puede verse, el equilibro se alcanza independientemente de la dosis administrada, a excepción de la administración de dosis de choque."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Respecto a la absorción de los fármacos, señala la afirmación incorrecta",
+      "opciones": [
+        "Al pasar al plasma sanguíneo, parte del fármaco absorbido se une a proteínas.",
+        "La fracción activa de un fármaco es la que se encuentra unida a proteínas.",
+        "Los fármacos que se distribuyen casi exclusivamente por el plasma tienen una alta unión a proteínas.",
+        "En aquellos fármacos que tienen una unión alta a proteínas, cualquier factor que modifica la unión a las mismas puede generar grandes variaciones en la concentración libre del fármaco."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La fracción activa de un fármaco es la que se encuentra libre en el plasma, por ello, como indican el resto de opciones, cuando algún factor desplaza esta unión y hay mayor concentración de fármaco libre se pueden producir efectos adversos por dosis supraterapéuticas por lo tanta la opción que debemos es la 2."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Una vez que el fármaco alcanza el torrente sanguíneo no viaja disuelto en la sangre, sino que la mayoría de concentración viaja unida a proteínas. De todas ellas, ¿Cuál es la proteína principal a la que se unen los fármacos?",
+      "opciones": [
+        "Transferrina.",
+        "Ceruloplasmina.",
+        "Albúmina",
+        "Haptoglobina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: La principal proteína que sirve de transporte a la mayoría de sustancias que viajan por el torrente sanguíneo, incluidos los fármacos, es la albúmina. En patologías renales o hepáticas avanzadas esta proteína puede disminuir su concentración en plasma, lo que puede conllevar efectos secundarios en el paciente."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "La cardiotoxicidad por antineoplásicos puede ser aguda (durante la administración de la droga), precoz (desde días hasta meses después de la administración), o tardía (desde meses hasta años después). La forma aguda, en general, es autolimitada y transitoria y corresponde a hipotensión, taquicardia, arritmias y, en ocasiones, pericarditis. No se requiere mayor monitorización cardiaca en esta etapa. La toxicidad precoz es claramente dosisdependiente, aunque existe también una considerable variación individual. La toxicidad tardía puede aparecer más de 10 años después de terminada la quimioterapia, expresándose como insuficiencia cardiaca congestiva progresiva secundaria a miocardiopatía dilatada de tipo no-isquémico y, la mayor parte de las veces, irreversible, por lo que incluso puede ser fatal. La cardiotoxicidad limita el uso de uno de los siguientes agentes antitumorales. Señálelo:",
+      "opciones": [
+        "Dactinomicina.",
+        "Doxorrubicina.",
+        "Bleomicina.",
+        "Cisplatino."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La doxorrubicina (adriamicina) es una causa bastante conocida de miocardiopatía dilatada, motivo por el que, cuando se utiliza en protocolos de quimioterapia, debemos realizar exámenes ecocardiográficos seriados midiendo especialmente la fracción de eyección, que es el parámetro que más se altera en este tipo de miocardiopatía (disfunción sistólica - respuesta 2 correcta -)."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "¿Cuál de estas penicilinas es resistente a la penicilinasa?:",
+      "opciones": [
+        "Nafcilina.",
+        "Azlocilina.",
+        "Carbenicilina.",
+        "Ampicilina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Aunque en los últimos años se ha preguntado alguna vez sobre mecanismos de resistencia bacteriana a los antibióticos, esta pregunta carece de relevancia porque aparecen fármacos muy poco comunes. La producción de penicilasas o betalactamasas es el mecanismo más importante de resistencia a los betalactámicos. Las betalactamasas son enzimas que hidrolizan el anillo betalactámico de estos antibióticos y los convierte en compuestos biológicamente inactivos. Existe un grupo de penicilinas resistentes a betalactamasas, denominadas antiestafilocócicas, formado por la nafcilina, la meticilina, la oxacilina y la cloxacilina, que es la que debes recordar, pues es el tratamiento de elección para las infecciones estafilocócicas (opción 1 correcta). El resto de penicilinas, a no ser que se combinen con inhibidores de las betalactamasas (amoxicilina- clavulánico, ampicilina- sulbactam, etc.), son sensibles a penicilinasas. Otros mecanismos de resistencia son la modificación del sitio de acción (de las PBPs) y el bloqueo del transporte."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "El tratamiento farmacológico de un tumor rara vez va a responder a un único agente, si se quiere que su acción permanezca un tiempo prolongado. ¿Cuál de las siguientes interacciones es más deseable que se establezca entre los fármacos suministrados para el tratamiento de un tumor?",
+      "opciones": [
+        "Antagonismo.",
+        "Permisividad.",
+        "Sinergia.",
+        "Taquifilaxia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En general, el tratamiento de un tumor requiere la acción conjunta de varios fármacos, bien de manera simultánea, o bien de forma sucesiva o en fases. Esta última opción es preferible, ya que permite una mejor elección del agente terapéutico en función de las modificaciones bioquímicas y cinéticas de las células tumorales. La eficacia del tratamiento combinado será mayor si se cumplen los siguientes requisitos:\n\n- Los fármacos han de ser activos frente a más de uno de los tipos de células que forman la población tumoral.\n\n- Han de actuar por mecanismos bioquímicos diferentes o en fases celulares distintas.\n\n- Han de poseer toxicidad orgánica diferente, o al menos, manifestarse con una secuencia temporal distinta.\n\n- Aunque basta con que sus actividades respectivas se sumen (efecto aditivo), es preferible que presenten sinergia o potenciación. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Mujer de 73 años que acude a consulta por sensación de palpitaciones y pulso irregular en las semanas previas. Como antecedentes destacan HTA en tratamiento farmacológico y DM tipo 2 controlada con medidas higiénico dietéticas. Así mismo refiere hábito intestinal irregular, con predominio de estreñimiento. Mediante la exploración física y el electrocardiograma se demuestra fibrilación auricular. Tras el estudio de la paciente, se decide estrategia de control de frecuencia y se instaura tratamiento con un nuevo anticoagulante de acción directa al descartarse contraindicaciones para el mismo. Semanas más tarde, la paciente acude a urgencias por un cuadro de sangrado digestivo muy importante de varias horas de evolución. Se encuentra pálida, sudorosa, y con ligera alteración del nivel de consciencia. FC 115 lpm, TA 80/60. Se la estabiliza hemodinámicamente y, ante la dificultad para controlar el sangrado, se instaura idarucizumab para revertir el efecto del anticoagulante oral, consiguiéndose parcialmente (demostrado mediante estudio de coagulación), volviendo a recurrir el sangrado a las pocas horas. Ante dicho cuadro, indique cuál de las siguientes es la respuesta incorrecta:",
+      "opciones": [
+        "Idarucizumab es capaz de producir proteinuria.",
+        "La falta de respuesta podría ser debida a que el anticoagulante problema es apixabán y no dabigatrán.",
+        "Por su mecanismo de acción, no es esperable que idarucizumab produzca eventos procoagulantes por sí mismo.",
+        "Ante la respuesta incompleta continuada con idarucizumab, podría plantearse el uso de concentrados de complejo protrombótico, teniendo siempre en cuenta el riesgo trombótico que ello conlleva."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Idarucizumab es un anticuerpo humanizado que se une y neutraliza al dabigatrán y sus metabolitos de forma específica, irreversible y con una gran afinidad, siendo capaz de ligar tanto dabigatrán libre como unido a trombina. Esto se consigue de forma muy rápida, con una veloz normalización de los tiempos de coagulación. Aun con la pauta estándar (dosis total de 5g), en algunos pacientes es posible que se pueda producir una recurrencia de concentraciones plasmáticas de dabigatrán libre con prolongación de tiempos de coagulación hasta 24 horas después de la administración del fármaco. Dada esta posibilidad, se puede considerar la administración de una nueva dosis de idarucizumab siempre que exista una prolongación de dichos tiempos de coagulación junto a situaciones como:\n\n- Recurrencia de sangrado clínicamente relevante.\n\n- Nuevo sangrado potencialmente mortal\n\n- Y necesidad de una segunda intervención quirúrgica o procedimiento invasivo urgente.\n\nPor ello la respuesta 2 es falsa, ya que idarucizumab (el cual ha funcionado, aunque solo completamente) es específico frente a dabigatrán y no frente a inhibidores del factor Xa.\n\nPor otro lado, idarucizumab no liga a trombina o a sus diferentes substratos ni activa la coagulación ni las plaquetas, por lo que por sí mismo no es esperable que produzca efectos procoagulantes ni anticoagulantes, siendo el riesgo trombótico existente el del propio paciente (respuesta 3 correcta).\n\nEn cuanto a la respuesta 1 también correcta), se elimina rápidamente por vía renal con un comportamiento bifásico. Esta rápida eliminación renal puede hacer que se observe una proteinuria transitoria como una respuesta fisiológica a la llegada de una concentración elevada de proteínas a nivel renal, normalizándose a las 12-24 horas.\n\nFinalmente, en los pacientes con un riesgo inminente de muerte por sangrado (por ejemplo hemorragia intracraneal), o necesidad de una intervención invasiva de urgencia y tratados con dabigatrán, en aquellos casos en los que idarucizumab sea ineficaz o no esté disponible se pueden utilizar concentrados de complejo protrombínico, lo cual conlleva eso si un elevado riesgo protrombótico (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "En las reacciones alérgicas graves está indicada la administración de adrenalina por sus múltiples efectos beneficiosos en el control de sus alteraciones. Indique de las siguientes cual NO es un efecto de este fármaco:",
+      "opciones": [
+        "Broncodilatación",
+        "Taquicardia",
+        "Vasodilatación periférica",
+        "Aumento tensión arterial"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: La adrenalina está indicada en la reacción anafiláctica y tiene efectos alfa y beta adrenérgicos"
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "¿Cuál es la VENTAJA de muchos profármacos sobre sus metabolitos activos?",
+      "opciones": [
+        "Su mejor biodisponibilidad por vía oral.",
+        "Su menor velocidad de eliminación.",
+        "Su mejor distribución en la circulación sistémica.",
+        "Su menor irritabilidad por vía intravenosa."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Algunos fármacos son poco liposolubles y por tanto poco absorbibles por vía oral o entérica. La modificación química permite transformarlos en profármacos, es decir, sustancias que precisan activación por el metabolismo, pero a cambio se absorben mejor (respuesta 1 correcta). Ejemplos de profármacos son el clopidogrel, la codeína o el valaciclovir."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Con respecto a los antineoplásicos. ¿Cuál de estas afirmaciones es FALSA?",
+      "opciones": [
+        "La ciclofosfamida aumenta la frecuencia de padecer un carcinoma vesical.",
+        "El fármaco más nefrotóxico es el cisplatino.",
+        "La mitomicina produce un cuadro semejante al síndrome hemolítico urémico.",
+        "La vincristina es el más cardiotóxico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: Se trata de una pregunta de elevada dificultad acerca de efectos secundarios de fármacos antineoplásicos. La principal toxicidad de la vincristina es la neuropatía periférica y autonómica. Además puede dar lugar a SSIADH y mielotoxicidad, pero no se encuentra la cardiotoxicidad entre sus efectos secundarios. De la mitomicina el único efecto secundario que merece la pena memorizar por se relativamente frecuente es el síndrome hemolítico urémico. El cisplatino se acumula en las células tubulares renales produciendo un fracaso renal agudo; para evitarlo se hidrata abundantemente al paciente y se le administra manitol para forzar al diuresis. Por último, el efecto secundario más típico y frecuente de la ciclofosfamida es la cistitis hemorrágica que se da en un 5- 10% y que se previene con hidratación y administración de MESNA. Como el resto de agentes alquilantes la ciclofosfamida es carcinogénica y mutagénica y al eliminarse por vía renal aumenta el riesgo de padecer carcinoma de vejiga."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Señale, de entre las siguientes parejas de fármacos antiepilépticos y sus correspondientes efectos adversos, cuál es la INCORRECTA:",
+      "opciones": [
+        "Topiramato - Estado de hiperalerta.",
+        "Lamotrigina - Exantema.",
+        "Topiramato - Litiasis renal.",
+        "Fenitoína - Hiperplasia gingival."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta en la que se presentan varios fármacos antiepilépticos y sus correspondientes efectos adversos. La asociación de topiramato/estado hiperalerta es incorrecta, puesto que el topiramato induce somnolencia (opción 1 incorrecta, por lo que la marcamos); este fármaco sí que puede producir como efecto adverso litiasis renal. Con la fenitoína ocurre que, por su parte, es muy característico que como efecto secundario produzca hiperplasia gingival. La lamotrigina puede ocasionar un exantema como efecto secundario."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "A continuación se enumeran diferentes tipos de fármacos, con una posible vía de eliminación asociada. ¿Cuál de las siguientes relaciones [sustancia- vía de eliminación] es menos probable?",
+      "opciones": [
+        "Eliminación por vía pulmonar: gases y sustancias volátiles.",
+        "Eliminación salival: drogas liposolubles, antihipertensivos, barbitúricos y sulfonamidas.",
+        "Eliminación hepática o biliar: ácidos orgánicos ionizados.",
+        "Eliminación renal: ácidos orgánicos no ionizados."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta número 4 es la menos probable de todas, ya que los ácidos orgánicos no ionizados se eliminarán preferentemente por vía hepática o biliar. A continuación se resumen las principales vías de eliminación de algunos fármacos:\n\n- VÍA PULMONAR: gases y sustancias volátiles.\n\n- ELIMINACIÓN SALIVAL: drogas liposolubles, antihipertensivos, barbitúricos, sulfonamidas, sales de metales pesados (bismuto y mercurio).\n\n- ELIMINACIÓN HEPÁTICA O BILIAR: ácidos orgánicos ionizados (penicilinas, tetraciclinas, rifampicina), bases orgánicas ionizadas (estreptomicina, kanamicina), sustancias no ionizadas.\n\n- ELIMINACIÓN POR EL COLON: yoduro, metales pesados, calcio."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Una madre acude a Urgencias con su hijo de 2 años, sospechando que se ha tomado un frasco de acetaminofén. El niño se encuentra nauseoso y con sudoración profusa. Usted calcula que ha podido tomarse una dosis tóxica. ¿Cuál es el antídoto que habría que emplear?",
+      "opciones": [
+        "N-acetil-cisteína.",
+        "Gluconato cálcico.",
+        "Desferroxiamina.",
+        "Pralidoxima."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la intoxicación por paracetamol, el antídoto es la N- acetil- cisteína, que ayudará a reponer las reservas hepáticas del tripéptido glutatión, disminuyendo el riesgo de lesión hepatocelular."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Mujer de 30 años, obesa, diabética, hipertensa y con hipercolesterolemia, que acude a consulta en su centro de Atención Primaria muy preocupada por su salud, puesto que cree que es muy joven para presentar esas enfermedades y tiene miedo de sufrir un infarto. Refiere que su abuela falleció hace tres día a causa de un infarto agudo de miocardio y está muy asustada por su salud. Le consulta acerca de qué fármacos de los que lleva instaurados en su tratamiento pueden mejorar su perfil cardiovascular a largo plazo. ¿Cuál de los siguientes fármacos que lleva nuestra paciente no está demostrado que mejore su perfil cardiovascular?",
+      "opciones": [
+        "Atorvastatina.",
+        "Empagliflozina.",
+        "Enalapril.",
+        "Nifedipino."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En primer lugar, las estatinas como la atorvatina se a visto que mejoran el perfil lipídico y reducen los eventos cardiovasculares. Por otra parte, la empagliflocina es un inhibidor del cotransportador de glucosa y sodio 2 (SGLT2) que se emplea en el tratamiento de la diabetes mellitus tipo 2 que se a visto que reduce la mortalidad cardiovascular. El enalapril es un inhibidor de la enzima convertidora de angiotensina (IECA) que se emplea en el tratamiento de la hipertensión arterial. Los IECAS han demostrado una reducción del riesgo cardiovascular. Por otro lado el nifedipino es un antagonista del calcio que se emplea en el tratamiento de la hipertensión arterial, que no ha demostrado una reducción del riesgo cardiovascular."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Cuál de los siguientes fármacos no es un profármaco:",
+      "opciones": [
+        "Clopidogrel.",
+        "Valaciclovir.",
+        "Acetaminofeno.",
+        "Codeína."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Un profármaco es aquella sustancia inactiva que una vez absorbida, el metabolismo (fundamentalmente hepático) transforma en un metabolito activo con efecto farmacológico. Ejemplos son el clopidogrel (su metabolito es antiagregante), valaciclovir (su metabolito es el aciclovir) y codeína (su metabolito es la morfina). Los profármacos suelen ser sintéticos y su objetivo es mejorar la biodisponibilidad por vía oral. El acetaminofeno (paracetamol) no es un profármaco. Por tanto, respuesta 3 correcta."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Los requisitos aceptados para la bioequivalencia de fármacos genéricos, con un 20% de diferencia en parámetros farmacocinéticos, no puede aplicarse a todas las situaciones, pues hay fármacos que precisan un estudio de bioequivalencia exhaustivo con intervalos de confianza más estrechos, como por ejemplo, y de manera general:",
+      "opciones": [
+        "Antiácidos.",
+        "Antibióticos.",
+        "Antagonistas del calcio.",
+        "Antihistamínicos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aunque pueden requerirlo algunos antibióticos o algunos analgésicos, el control exhaustivo debe hacerse en los genéricos para antagonistas del calcio (respuesta 3 correcta), betabloqueantes, anticonvulsivantes, antipsicóticos, etc."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Con respecto a los efectos de la edad sobre la farmacocinética de los medicamentos, señale la respuesta correcta:",
+      "opciones": [
+        "En el paciente anciano se produce un aumento del contenido de agua corporal y una disminución de la grasa, lo que hace que aumente el volumen de distribución de los fármacos hidrosolubles y disminuya el de los fármacos liposolubles.",
+        "La disminución de la albúmina plasmática aumenta la forma libre de determinados fármacos, como la digoxina, lo que puede hacer que aumente su efecto.",
+        "En el paciente anciano se produce un aumento del metabolismo de primer paso, lo que disminuye la biodisponibilidad de determinados fármacos.",
+        "El aumento del flujo plasmático renal, así como de la secreción tubular aumenta el aclaramiento renal de los fármacos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En el paciente anciano se producen una seria de cambios que van a afectar a todas las fases de la farmacocinética.\n\nEn primer lugar, los cambios derivados del envejecimiento van a alterar la distribución de los fármacos, produciéndose:\n\n- Disminución del agua corporal y del volumen plasmático, lo que disminuye el volumen de distribución de los fármacos hidrosolubles.\n\n- Aumento de la grasa corporal, lo que aumenta el volumen de distribución de fármacos liposolubles, como las benzodiacepinas, lo que favorece su acumulación y aparición de efectos adversos.\n\n- Disminución de la albúmina plasmática, lo que aumenta la fracción libre de fármacos ácidos (como la albúmina), aumentando su efecto. (respuesta 2 correcta)\n\n- Aumento de las alfa-globulinas (sobre todo la glucoproteína ácida), lo que disminuye la fracción libre de fármacos básicos (como el propranolol).\n\nAsí mismo, el metabolismo de los fármacos también se va a ver alterado, con una menor capacidad para metabolizar los medicamentos, sobre todo aquellos que requieren reacciones de tipo I.\n\nLa eliminación renal también se ve disminuida, debido a la disminución de la masa renal, del flujo sanguíneo renal, del aclaramiento de creatinina y de la secreción tubular."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "En algunas enfermedades neurológicas, como la Esclerosis Múltiple, se pueden producir síntomas urinarios debido a alteraciones en el control vesical, que producen cuadros de vejiga átona o hiperactiva. ¿Cuál de los siguientes fármacos se trata de un agonista β3-adrenérgico, con utilidad para el tratamiento de la vejiga hiperactiva?",
+      "opciones": [
+        "Ritodrina",
+        "Mirabegron",
+        "Clonidina",
+        "Terbutalina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Mirabegron es un agonista de los receptores beta-3-adrenérgicos que ha demostrado utilidad en el síndrome de vejiga hiperactiva debido a que estos receptores, una vez activados, inducen la relajación de la musculatura vesical."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "De los siguientes, ¿cuál es el efecto adverso más frecuente de las tiacidas?:",
+      "opciones": [
+        "Fotosensibilidad.",
+        "Hipopotasemia.",
+        "Rash cutáneo.",
+        "Hiperuricemia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las tiazidas son diuréticos que actúan inhibiendo la reabsorción de sodio y cloruros en el túbulo contorneado distal y en parte de la porción cortical ascendente del asa de Henle. Entre sus efectos adversos, los más frecuentes son: hipopotasemia, alcalosis metabólica hipoclorémica, hiponatremia, hipercalcemia, deplección de volumen extracelular, etc. Con menor frecuencia: trastornos gastrointestinales, hiperuricemia y gota, hiperglucemia, aumento de LDL- colesterol y triglicéridos. Raramente: erupción cutánea, fotosensibilidad y trombocitopenia."
+    }
+  ]
+}

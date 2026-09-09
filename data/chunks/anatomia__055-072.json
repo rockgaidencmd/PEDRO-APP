@@ -1,0 +1,554 @@
+{
+  "materia": "anatomia",
+  "paginaInicio": 55,
+  "paginaFin": 72,
+  "anomalias": [
+    "p58: el enunciado pregunta '¿cuál de los siguientes nervios no está inervado por el nervio radial?' pero las cuatro opciones son músculos, no nervios",
+    "p61: el enunciado de la pregunta sobre la arteria coronaria derecha empieza por 'ndique', le falta la 'I' inicial en el original",
+    "p61: el enunciado pregunta 'cuál de los siguientes nervios de la eminencia tenar no está inervado por el nervio mediano' pero las cuatro opciones son músculos, no nervios",
+    "p70: Resp. Correcta 3 ('Recto lateral – III par craneal') pero el comentario invierte los pares craneales: afirma que el recto lateral lo inerva el IV par y el oblicuo superior el VI par, cuando en realidad es al revés (recto lateral = VI par, oblicuo superior = IV par)",
+    "p56: el comentario de la pregunta de inervación laríngea y el de la pregunta del túnel del carpo aparecen partidos en varios párrafos a mitad de frase en el original; se conservan los saltos tal cual"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 55,
+      "enunciado": "Durante la realización de una endoscopia nasal usted puede visualizar diversas estructuras conocidas como cornetes y meatos. Según su altura, los meatos se clasifican en superior, medio e inferior. Debe recordar que, anatómicamente, cada uno de estos meatos recibe los ostium de drenaje de unos senos paranasales concretos. A este respecto, señale en qué meato drenarían las lágrimas que provienen del ojo:",
+      "opciones": [
+        "Meato superior.",
+        "Meato medio.",
+        "Meato inferior.",
+        "El conducto lacrimonasal no drena a ningún meato."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los meatos de las fosas nasales recogen el drenaje de distintas estructuras del macizo facial con la siguiente distribución:\n- Meato superior: recibe el drenaje del seno esferoidal y las celdillas etmoidales posteriores.\n- Meato medio: recibe el drenaje del seno frontal, seno maxilar y celdillas etmoidales anteriores.\n- Meato inferior: recibe el drenaje del conducto nasolagrimal (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Explorando a un paciente que acude por sensación de peso en testículo izquierdo se encuentra con alteraciones que podrían corresponder a un varicocele izquierdo. Usted recuerda que esto podría ser un signo importante en la exploración y trata de recordar cómo discurre el drenaje venoso testicular. A este respecto señale la respuesta correcta:",
+      "opciones": [
+        "La vena testicular derecha desemboca en la vena renal derecha.",
+        "La vena testicular derecha desemboca en la vena iliaca.",
+        "La vena testicular izquierda desemboca en la vena cava inferior.",
+        "La vena testicular izquierda desemboca en la vena renal izquierda."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Debes recordar que las venas testiculares desembocan de manera diferentes:\n\n- La vena testicular derecha desemboca directamente en la vena cava inferior.\n\n- La vena testicular izquierda desemboca en la vena renal izquierda.\n\nEsto es relevante ya que en ocasiones la trombosis de la vena renal izquierda debido a un tumor renal puede ocasionar un varicocele izquierdo, siendo este un signo al que se le debe prestar atención."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "En relación a la inervación de los músculos de la laringe señale la respuesta incorrecta.",
+      "opciones": [
+        "Cricotiroideo – laríngeo superior.",
+        "Cricoaritenoideo posterior – laríngeo recurrente.",
+        "Cricoaritenoideo lateral – laríngeo inferior",
+        "Vocales – laríngeo recurrente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cricoaritenoideo lateral está inervado por la rama laríngea\n\nrecurrente del nervio vago"
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "La inervación motora del grupo muscular medial del muslo depende de:",
+      "opciones": [
+        "El nervio obturador",
+        "El nervio popíteo externo",
+        "El nervio tibial",
+        "El nervio peroneo común"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El nervio obturador sale de las raices L2-L4 y se encarga de la inervación tanto motora como sensitiva de la cara medial del muslo.\n\nEl resto de opciones inervarían diferentes regiones de la pierna, pero no del muslo."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "¿Cuál de las siguientes estructuras NO pasa por el túnel del carpo?",
+      "opciones": [
+        "Arteria cubital.",
+        "Nervio mediano.",
+        "Tendones del flexor profundo de los dedos.",
+        "Tendones del flexor superficial de los dedos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Por el túnel del carpo pasan las siguientes estructuras: NERVIO\n\nMEDIANO, tendones del flexor profundo y superficial de los dedos, tendón del flexor largo\n\ndel pulgar."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "En relación a las estructuras que anatómicamente se encuentran en contacto con el Bazo, señale la incorrecta:",
+      "opciones": [
+        "Estómago",
+        "Colón",
+        "Riñón",
+        "Pleura"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El bazo es una estructura móvil y en la cavidad abdominal su relación con las estructuras anatómicas de la misma son: anteriormente se encuentra el estómago, posteriormente la parte izquierda del diafragma que separa al bazo de la pleura, el pulmón y las costillas novena a onceava, inferiormente la flexura cólica izquierda y medialmente el riñón izquierdo.\n\nLa pleura, más concretamente el receso costodiafragmático (una extensión a modo de hendidura de la cavidad pleural entre el diafragma y la parte inferior de la caja torácica) no es una estructura que se encuentre en contacto con el bazo ya que entre medias encontramos el diafragma"
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Es muy importante el conocimiento de las variaciones anatómicas de la arteria cística en la cirugía de la vesícula biliar. ¿Cuál es el origen más frecuente de la arteria cística?:",
+      "opciones": [
+        "Arteria hepática derecha.",
+        "Arteria hepática izquierda.",
+        "Arteria hepática común.",
+        "Tronco celíaco."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La estructura de la pregunta invita a elegir una de las tres primeras opciones, dado su parecido, aparte de que el tronco celíaco y la mesentérica superior están algo alejadas... En este caso, es la hepática derecha, conclusión a la que podrías haber llegado por su mayor contigüidad anatómica a la vesícula que las otras dos."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Uno de los siguientes músculos se continúa con la aponeurosis palmar:",
+      "opciones": [
+        "Flexor radial del carpo.",
+        "Flexor cubital del carpo.",
+        "Palmar largo.",
+        "Flexor común profundo de los dedos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los músculos del antebrazo son complejos y poco rentables de estudiar. El palmar largo, también llamado palmar menor, es un músculo que puede faltar en algunos sujetos (es inconstante). Se origina en la epitróclea y se inserta en la aponeurosis palmar, siendo inervado por el nervio mediano. Recuerda que el nervio mediano, antes de llegar a la muñeca, pasa entre palmar mayor y palmar menor. Su acción consiste en la flexión volar de la mano y en tensar la aponeurosis palmar."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Con respecto a las relaciones del recto, señale cual de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "Se relaciona lateralmente con el músculo piriforme de cada lado.",
+        "En el varón se relaciona anteriormente con vejiga urinaria, vesículas seminales, conductos deferentes y próstata.",
+        "En la mujer la vagina queda interpuesta entre la cara anterior del recto y la vejiga urinaria.",
+        "Los vasos rectales superiores reposan en su cara anterior."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es una pregunta lógica de dificultad intermedia, si se piensa un poco. No se ha preguntado de esta forma en las últimas convocatorias, pero es conveniente conocer las relaciones anatómicas básicas entre las vísceras pélvicas. El detalle erróneo es que la vascularización que llega al recto por su parte superior se distribuye por la cara posterior y no por delante. El resto de las opciones son más generales y podrían deducirse."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Señale, de entre las siguientes, cuál es la arteria que NO es rama del sistema de la carótida externa:",
+      "opciones": [
+        "Arteria facial.",
+        "Arteria lingual.",
+        "Arteria tiroidea superior.",
+        "Arteria tiroidea inferior."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La arteria tiroidea inferior es rama de la subclavia. Una pregunta difícil de todas formas. No te preocupes si la has fallado."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Indique cual de los siguientes nervios no está inervado por el nervio radial:",
+      "opciones": [
+        "Biceps braquial.",
+        "Triceps braquial.",
+        "Ancóneo.",
+        "Extensor radial largo del carpo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El nervio radial inerva el tríceps braquial, braquiorradial, ancóneo y extensor radial largo del carpo. El bíceps branquial está inervado por el nervio musculocutáneo (C5 y C6)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "El músculo platisma colli es el más superficial del cuello y su inervación depende de alguna de las siguientes estructuras:",
+      "opciones": [
+        "Ramo cervical del nervio facial.",
+        "Asa del hipogloso.",
+        "Nervio vago.",
+        "Tercera rama del trigémino."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad media que puede sacarse por razonamiento ya que el platisma es un músculo estriado, mímico, que queda muy superficialmente, algunas hilachas se extienden hasta la parte más alta del tórax constituyendo la fascia esternocleidomastoideo. Por ello puede deducirse que su inervación se lleva a cabo por un nervio cuyo recorrido se dirija al cuello y sea superficial. La duda estaría entre la opción 1 y 2, siendo la correcta la rama cervical del n.facial, la cual se une a la rama auricular del plexo cervical e inerva los músculos de la mímica por debajo de la boca, incluido el músculo cutáneo del cuello (platisma colli)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Un joven de 18 años fue herido con arma blanca en la cara anterior del codo, con lo que perdió la capacidad de flexionar las articulaciones interfalángicas proximales de todos los dedos. ¿Qué nervio se encuentra afectado?",
+      "opciones": [
+        "Nervio cubital.",
+        "Nervio mediano.",
+        "Nervio radial.",
+        "Nervio circunflejo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El nervio mediano inerva sensitivamente la mayor parte de la palma de la mano, y desde el punto de vista motor se encarga de la flexión de la mano sobre el antebrazo, así como de la flexión de los dedos, ya que inerva al flexor común profundo y al superficial (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "¿Qué afirmación es correcta acerca del drenaje venoso del corazón?:",
+      "opciones": [
+        "La mayor parte del drenaje venoso es conducido por el seno coronario, que desemboca en la aurícula izquierda; de ahí que la sangre oxigenada de las venas pulmonares esté menos saturada cuando sale del corazón.",
+        "Las venas cardíacas mínimas y anteriores desembocan directamente al corazón sin drenar al seno coronario.",
+        "La valva del seno coronario que se encuentra en la zona de entrada de éste es fundamental para que la sangre de la aurícula no refluya hacia el seno.",
+        "Aproximadamente el 50% de las personas no tienen seno coronario, de lo que se deduce que su función no es necesaria."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "No te preocupes si has fallado esta pregunta. La vascularización arterial del corazón es importante, pero el drenaje venoso no ha sido todavía preguntado. Es bueno saber que el drenaje venoso cardíaco se divide en un sistema principal que desemboca en el seno coronario y desde allí en la aurícula derecha y en otro sistema de pequeñas venas (venas mínimas de Tebesio) que drena directamente a la cavidades cardíacas. Las venas menores de Galeno también desembocan directamente en la aurícula derecha."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Varón de 45 años que es llevado a urgencias tras un accidente de moto. El paciente presenta dolor y deformidad de brazo izquierdo. Llama la atención la imposibilidad del paciente para elevar la mano izquierda, ¿Cuál de los siguientes nervios estará afectado con mayor probabilidad?",
+      "opciones": [
+        "Cubital.",
+        "Radial.",
+        "Mediano",
+        "Safeno."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se conoce como lesión de Holstein-Lewis a la fractura del tercio distal del húmero. Esta lesión puede provocar una neuroapraxia del nervio radial. El nervio radial se afecta con mayor frecuencia en estas lesiones por el trayecto que sigue por la parte posterior del húmero."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Paciente de 20 años que tras una brutal pelea acude con una navaja clavada en el epigastrio. ¿Cuál de las siguientes estructuras es más difícil que se vea afectada?",
+      "opciones": [
+        "Hígado",
+        "Diafragma",
+        "Aorta ascendente",
+        "Esófago"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico fácil en el que con un poco de orientación anatómica se saca rápidamente la respuesta. Nos hablan de una herida punzante en el epigastrio (por lo tanto en el abdomen superior) y tanto hígado, como diafragma, como esófago tiene relación con este. En cambio la aorta ascendente se encuentra en el mediastino (dentro del tórax) y por lo tanto es la respuesta correcta."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "¿Cuál de estas afirmaciones, acerca de la función del dorsal ancho es cierta?:",
+      "opciones": [
+        "Realiza fundamentalmente la rotación externa del brazo.",
+        "Realiza exclusivamente la extensión del brazo.",
+        "Extiende y rota externamente el brazo.",
+        "Aproxima y rota medialmente el brazo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El dorsal ancho es un músculo del dorso del tronco que se origina en las apófisis espinosas de las 6 últimas vértebras dorsales, lumbares y sacro, en cresta iliaca y en las 4 últimas costillas. Se dirige hacia fuera y hacia arriba, hasta reunir todas sus fibras en un tendón plano que rodea el borde inferior del redondo mayor al tiempo que se torsiona, de forma que el borde superior se convierte en inferior. Ya anterior al redondo mayor, va a insertarse en la corredera bicipital del húmero. De esta forma al contraerse el dorsal ancho aproxima el brazo, lo desciende y lo tracciona en dirección dorsal, imprimiéndole a la vez un movimiento de rotación interna (es \"protector del pliegue anal\", opción 4 correcta). Cuando toma como punto fijo el húmero, eleva el tronco (es un músculo \"trepador\"). (Rouviere. Anatomía Humana 9ªEd, vol 3 pag 97)"
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "ndique cuál de las siguientes arterias NO es rama de la arteria coronaria derecha.",
+      "opciones": [
+        "Rama para el nodo sinusal.",
+        "Rama marginal derecha.",
+        "Rama interventricular posterior.",
+        "Rama circunfleja."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La rama circunfleja procede de la arteria coronaria izquierda."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Uno de los músculos que se relacionan a continuación NO interviene en la masticación:",
+      "opciones": [
+        "Pterigoideo interno.",
+        "Cigomático mayor.",
+        "Temporal.",
+        "Masetero"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta difícil, no le prestes demasiada atención y que no te genere agobio el haberla fallado ya que el tema es muy poco rentable. Recordad que el músculo cigomático mayor tiene una función en la expresión facial, no participando en ningún caso en el proceso de masticación. Se origina en el hueso zigomático y se inserta en el ángulo de la boca. Tanto los pterigoideos como el temporal y el masetero son músculos masticatorios, siendo éste último el de mayor importancia."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Indique cual de los siguientes nervios de la eminencia tenar no está inervado por el nervio mediano:",
+      "opciones": [
+        "Músculo abductor corto del pulgar.",
+        "Músculo oponente del pulgar.",
+        "Músculo aductor del pulgar.",
+        "Músculo flexor corto del pulgar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El aductor del pulgar es el único músculo de la eminencia tenar inervado por el nervio cubital."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "La glándula submaxilar drena a través de:",
+      "opciones": [
+        "Conducto de Wharton.",
+        "Conducto de Rivinus.",
+        "Conducto de Walther.",
+        "Conducto de Wirsung."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta poco importante aunque sencilla. La glándula submaxilar desemboca por el conducto de Wharton en el suelo de la boca (opción 1 correcta), cerca del frenillo lingual. Su secreción salivar es mixta, seromucosa, más espesa porque contiene mucina. Su secreción predomina en situación de reposo. Recordad que la parótida drena por el conducto se Stenon. La glándula sublingual tiene de 8 a 20 conductos de drenaje que se abren en el piso de la boca. El más voluminoso se llama de Rivinus y se abre en el vértice de la carúncula sublingual."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Respecto al conducto inguinal, señale la respuesta incorrecta:",
+      "opciones": [
+        "En el hombre contiene el cordón espermático",
+        "En la mujer contiene el ligamento redondo del útero",
+        "La base del conducto está formada por la fascia del músculo oblicuo mayor",
+        "En él se insertan los músculos transverso y oblicuo menor o interno"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El conducto inguinal se sitúa entre el anillo inguinal profundo y el anillo inguinal superficial. Su base está formada por el ligamento inguinal (respuesta 3 incorrecta, por lo que la marcamos). El resto de opciones son ciertas."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Un músculo que se encarga de mover una extremidad hacia la línea media del cuerpo, es decir, aproximarla. Es un músculo:",
+      "opciones": [
+        "Abductor",
+        "Aductor",
+        "Flexor",
+        "Extensor"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La abducción y la aducción son dos movimientos opuestos que se realizan en el plano frontal. El plano frontal es el plano que divide el cuerpo humano en la mitad anterior, ventral y la mitad la posterior, dorsal. Los movimientos en este plano se describen comúnmente como movimientos laterales:\n\n- La abducción es el movimiento que, dentro del plano frontal, aleja una parte del cuerpo de la línea media del cuerpo o plano sagital.\n\n- La aducción es el movimiento que, dentro del plano frontal, acerca una parte del cuerpo a la línea media.\n\nLos músculos abductores y aductores son, por tanto, músculos antagonistas, pues realizan movimientos opuestos."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "De los siguientes elementos, ¿cuáles consituyen la parte lateral de la pared anterior del conducto inguinal?:",
+      "opciones": [
+        "Ligamento de Henle y la continuación de la vaina del músculo recto del abdomen.",
+        "La superposición de la aponeurosis del oblicuo externo y las fibras musculares del oblicuo interno y del transverso.",
+        "Ligamento interfoveolar o de Hesselbach.",
+        "Tendón conjunto (fusión de las aponeurosis de inserción de los músculos oblicuo interno y transverso)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "A pesar de no ser un tema especialmente preguntado, el conducto inguinal es una zona anatómica muy importante y que puede ser preguntada en cualquier momento.La pared anterior está formada por la aponeurosis del músculo oblicuo mayor o externo del abdomen y en su parte lateral también pos fibras del oblicuo menor o interno del abdomen."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Una de las siguientes relaciones anatómicas NO es correcta. Señálela:",
+      "opciones": [
+        "El nervio mediano se sitúa medialmente a la arteria braquial en la fosa cubital, inmediatamente proximal al borde superior del pronador redondo.",
+        "La arteria radial corre lateralmente al músculo braquiorradial hasta llegar al suelo de la tabaquera anatómica.",
+        "El músculo palmar largo se sitúa lateral al flexor cubital del carpo y medial al palmar mayor o flexor radial del carpo.",
+        "El nervio cubital desciende en la cara anterior del flexor común profundo de los dedos para, posteriormente, pasar a colocarse medialmente a la arteria cubital y, lateralmente, al flexor cubital del carpo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La anatomía del antebrazo es compleja y poco rentable. La arteria radial, continuación de la humeral, ocupa en su origen el surco existente entre el músculo braquial anterior y los epitrocleares. Cruza por delante del tendón del pronador redondo, cubierto a este nivel por el músculo braquiorradial o supinador largo. Cuando este músculo se estrecha en su tendón, la arteria radial se sitúa medial a este y lateral al palmar mayor (opción 2 incorrecta, por lo que la marcamos) en el llamado canal del pulso, sobre los músculos pronador cuadrado y flexor corto del pulgar. Las demás opciones de respuesta son correctas."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Señale el orificio por el cual el tercer componente del trigémino (división mandibular) abandona el interior del cráneo:",
+      "opciones": [
+        "Fisura orbitaria superior.",
+        "Orificio rasgado posterior.",
+        "Orificio oval.",
+        "Orificio redondo menor."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta complicada que exige un conocimiento profundo del cráneo y sus orificios ya que deja poco lugar para la deducción, por ello no te desanimes si la has fallado. Por el agujero oval sale el nervio mandibular o tercera rama del trigémino (opción 3 correcta). Otros orificios importantes son el redondo mayor (nervio maxilar), el rasgado posterior (el glosofaríngeo), el redondo menor (la arteria meníngea media), el estilomastoideo (nervio facial) y el foramen yugular (nervios glosofaríngeo, vago y accesorio del vago)."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "¿A qué nivel localizaría usted el punto de obstrucción en el recorrido del LCR si encuentra una dilatación del III ventrículo?",
+      "opciones": [
+        "Acueducto de Silvio.",
+        "Agujeros de Luschka y Magendie.",
+        "Agujero de Monro.",
+        "Granulaciones aracnoideas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El líquido cefalorraquídeo (LCR) es un líquido incoloro, que baña el encéfalo y la médula espinal. Circula por el espacio subaracnoideo, los ventrículos cerebrales y el canal ependimario sumando un volumen entre 100 y 150 ml, en condiciones normales.\n\nLa circulación del líquido cefalorraquídeo comienza en los ventrículos laterales (plexos coroideos), continúa hacia el tercer ventrículo por los agujeros de Monro (agujeros interventriculares) y luego transcurre por el acueducto cerebral (acueducto de Silvio o mesencefálico) hasta el cuarto ventrículo. Desde allí fluye, a través de un conjunto de orificios, uno central (agujero de Magendie) y dos laterales (agujeros de Luschka) que ingresan en la cisterna magna, un gran depósito de líquido ubicado por detrás del bulbo raquídeo y por debajo del cerebelo y hacia abajo al conducto ependimario de la médula espinal a través del obex. La cisterna magna se continúa con el espacio subaracnoideo que rodea todo el encéfalo y la médula espinal. Luego, casi todo el líquido cefalorraquídeo fluye a través de este espacio hacia el cerebro. Desde los espacios subaracnoideos cerebrales, el líquido fluye en las múltiples vellosidades o granulaciones aracnoideas (o de Pacchioni) que se proyectan en el gran seno venoso sagital y otros senos venosos. Por último, se vacía en la sangre venosa a través de las superficies de las vellosidades.\n\nLa respuesta correcta es la 1, por tanto, es el acueducto de Silvio. No olvides que este nivel es lugar más frecuente de obstrucción en neonatos y su tratamiento es la ventriculostomia premamilar endoscópica."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Paciente de 30 años que consulta por presentar desviación de la comisura bucal a la derecha e imposibilidad para cerrar el ojo izquierdo. El reflejo corneal está abolido. El cuadro sugiere:",
+      "opciones": [
+        "Parálisis facial periférica.",
+        "Parálisis facial central.",
+        "Parálisis del X par.",
+        "Parálisis del patético."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta fácil ya que puede sacarse por los conocimientos en otorrinolaringología. Ante un paciente joven con desviación de la comisura bucal hacia la derecha e imposibilidad para cerrar el ojo izquierdo con reflejo corneal abolido, debemos pensar en una parálisis facial izquierda, casi con total seguridad idiopática (son el 70% del total). La diferencia entre periférica y central, radica a nivel de la clínica en que en ésta última se conservan los movimientos de la frente, cosa que no nos dicen en el caso clínico, no obstante debido a la epidemiología, lo más frecuente y lógico es que sea una parálisis facial idiopática periférica (opción 1 correcta)."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Un joven de 18 años fue herido con un arma blanca en la cara anterior del codo, con lo cual perdió la capacidad de flexionar las articulaciones interfalángicas proximales de todos los dedos. ¿Qué nervio se encuentra afectado?",
+      "opciones": [
+        "Nervio cubital.",
+        "Nervio mediano.",
+        "Nervio radial.",
+        "Nervio músculo cutáneo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El nervio mediano inerva sensitivamente la mayor parte de la palma de la mano, y desde el punto de vista motor se encarga de la flexión de la mano sobre el antebrazo, así como de la flexión de los dedos, ya que inerva al flexor común profundo y al superficial (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "La pared posterior del conducto inguinal está formada por:",
+      "opciones": [
+        "El arco crural.",
+        "El ligamento de Cooper.",
+        "La fascia pectínea.",
+        "Ninguna de las anteriores."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "A pesar de no ser un tema especialmente preguntado, el conducto inguinal es una zona anatómica muy importante y que puede ser preguntada en cualquier momento. El techo del conducto inguinal está formado por el músculo y tendón conjunto (haces musculoaponeuróticos del oblicuo menor o interno y del transverso). La pared anterior está formada por la aponeurosis del músculo oblicuo mayor. La pared posterior está formada por el peritoneo parietal, la fascia transversalis y láminas del músculos transverso del abdomen y oblicuo menor. El suelo es el ligamento inguinal. Es importante saber que está ocupado en el varón por el cordón espermático y por el ligamento redondo del útero en la mujer. Repasa los límites del conducto. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "La extensión muslo-pierna está asegurada principalmente por:",
+      "opciones": [
+        "Los ligamentos laterales.",
+        "Los ligamentos cruzados.",
+        "El ligamento oblicuo y arqueado.",
+        "El tendón de inserción del músculo cuádriceps crural."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los movimientos de la pierna han sido poco preguntados, sin embargo conviene conocer los elementos estabilizadores de la rodilla por su importancia en Traumatología.\n\nEl cuádriceps es un músculo potente y de gran tamaño que ocupa la región anterior del muslo. Está formado por los vastos medial, intermedio y lateral y el recto anterior, que se reúnen en un tendón conjunto que se inserta en la rótula y en la tuberosidad anterior de la tibia; es, por tanto, el principal extensor de la rodilla (opción 4 correcta).\n\nLos ligamentos laterales o colaterales de la rodilla contribuyen a la estabilidad lateral de esta articulación, limitando el varo y el valgo forzados (opción 1 incorrecta).Los ligamentos cruzados son igualmente elementos estabilizadores que limitan igualmente el varo y el valgo forzados y el desplazamiento anterior o posterior de la tibia con respecto al fémur, que se explora con el test de Lachman y del cajón (opción 2 incorrecta). El ligamento arqueado es una expansón del músculo semimembranoso, cercano a su inserción en la tibia; el ligamento arqueado es un ligamento de la rodilla en forma de Y cuya rama larga se inserta en el peroné. Ambos estabilizan la rodilla, pero no producen lógicamente extensión (opción 3 incorrecta)."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "Una de las siguientes afirmaciones sobre la musculatura de la extremidad inferior es CIERTA. Señálela:",
+      "opciones": [
+        "La arteria tibial anterior irriga el flexor largo de los dedos.",
+        "El gastrocnemio se inserta proximalmente en la cara medial del cóndilo lateral del fémur.",
+        "El glúteo mayor es inervado por el nervio glúteo superior.",
+        "El nervio tibial inerva el flexor largo del dedo gordo, el flexor largo de los dedos y el gastrocnemio."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Analicemos las opciones de respuesta:\n1.- La arteria tibial anterior irriga el extensor largo del dedo gordo. Es la arteria tibial posterior la que irriga el flexor largo de los dedos.\n2.- El gastrocnemio se inserta en la cara lateral y no medial del cóndilo lateral del fémur.\n3.- El glúteo mayor es inervado por el nervio glúteo inferior, no el superior.\n4.- El nervio tibial inerva el flexor largo del dedo gordo, el flexor largo de los dedos y el gastrocnemio. Es la opción de respuesta correcta."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "De los siguientes, ¿qué par craneal se divide en una rama oftálmica, una maxilar y una mandibular?",
+      "opciones": [
+        "I",
+        "III",
+        "V",
+        "VII"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad baja y respuesta directa. El par craneal que se divide en una rama oftálmica, una maxilar superior y una inferior o mandibular es el V par craneal o nervio trigémino, responsable de la inervación sensitiva de la mayor parte de la región facial. Opción 3 correcta\n\nDebes recordar la distribución de los pares craneales y el territorio de inervación de cada uno de ellos, pues para las preguntas clínicas es muy interesante conocer estos datos."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Las relaciones posteriores del estómago tienen lugar por medio de un espacio virtual denominado transcavidad de los epiplones o bolsa omental. El estómago se relaciona a través de este espacio con todas las siguientes estructuras anatómicas EXCEPTO:",
+      "opciones": [
+        "Colon transverso",
+        "Páncreas",
+        "Riñón izquierdo",
+        "Bazo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las relaciones de las vísceras abdominales son un tema algo denso y farragoso, por lo que probablemente merece la pena tratar de utilizar nuestra lógica pues en algunos casos puede sernos de utilidad (recordar la anatomía al completo es complicado, y más si se realizó durante los primeros años de la carrera como suele ocurrir).\n\nEn este caso nos hablan de las relaciones anatómicas del estómago, y la respuesta correcta es la 1. Sin embargo, el enunciado empieza dándonos una gran pista, y es que estamos hablando de las relaciones anatómicas POSTERIORES. Ojo que al hablarnos de la transcavidad de los epiplones podemos entrar en una crisis existencial pues quizás hace años que no oímos esa querida palabrita o que jamás hemos sabido realmente qué es y dónde se encuentra... Olvidarla y pensar, qué hay detrás del estómago?\n\n- El estómago se relaciona en su parte ANTERIOR con el hígado (por la derecha), y con las costillas y la apófisis xifoides.\n\n- Por su parte SUPERIOR el estomago se relaciona con el diafragma y el lóbulo hepático izquierdo.\n\n- Por su parte INFERIOR se relaciona con el mesocolon y el colon transverso. Se realizan por medio de la parte inferior de la curvatura mayor.\n\n- A nivel POSTERIOR se relaciona con el bazo, el páncreas, la glándula suprarrenal izquierda y el riñón izquierdo (a través de dicha cavidad virtual de los epiplones) y por detrás de la curvatura menor del estómago se apoyan la Aorta y el Tronco celíaco."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Respecto al manguito de los rotadores, señale la afirmación CORRECTA:",
+      "opciones": [
+        "El músculo redondo menor está inervado por el nervio axilar o circunflejo.",
+        "El músculo supraescapular forma parte del manguito de los rotadores.",
+        "El músculo subescapular está inervado por el nervio subescapular inferior.",
+        "El manguito de los rotadores no tiene un papel importante en la rotación externa del hombro."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Veamos las opciones de respuesta:\n1.- El redondo menor está inervado por el nervio axilar (respuesta 1 correcta).\n2.- El manguito de los rotadores es una estructura anatómica localizada en el hombro y formada por los músculos supraespinoso, infraespinoso, redondo menor y subescapular.\n3.- El músculo subescapular está inervado por el nervio subescapular superior, no inferior.\n4.- El manguito tiene un papel importante tanto en la rotación externa y elevación del hombro, como en la aducción-rotación interna combinadas."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "¿Cuál de las siguientes estructuras separa la laguna muscular y la laguna vascular de la región femoral?:",
+      "opciones": [
+        "Tabique femoral.",
+        "Ligamento inguinal.",
+        "Cintilla iliopectínea.",
+        "Tendón conjunto."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "A pesar de no ser un tema especialmente preguntado, el conducto inguinal es una zona anatómica muy importante y que puede ser preguntada en cualquier momento. Debes saber que el ligamento inguinal es un límite que separa por la región inguinoabdominal (por encima) y la región inguinocrural (por debajo). A su vez la región inguinocrural se divide en dos parte siendo el límite la cintilla ileopectínea (opción 3 correcta). La parte medial se conoce como laguna vascular por el hecho de contener los vasos femorales. La parte lateral contiene el músculo psoas y el nervio femoral y recibe el nombre de laguna muscular."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "¿Cuál de las siguientes estructuras se considera un hueso en sí?",
+      "opciones": [
+        "Cornete superior",
+        "Cornete medio",
+        "Cornete inferior",
+        "Ninguno es un hueso"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: El cornete inferior (en la parte lateral de las fosas nasales) es un hueso en sí mismo, al contrario que sus homólogos, los cornetes superior y medio, que forman parte del hueso etmoides. Los cornetes son importantes en su función de guiar el flujo de aire, lo que permite su limpieza, humidificación y calentamiento, antes de llegar a la vía respiratoria inferior."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "¿Cuál de estas estructuras NO atraviesa el conducto inguinal?",
+      "opciones": [
+        "Ligamento redondo.",
+        "Conducto deferente.",
+        "Ligamento ancho.",
+        "Músculo cremáster."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El conducto inguinal, canal inguinal, en los adultos es el paso oblicuo, de unos 4 cm de largo, dirigido inferomedialmente a través de la porción inferior de la pared anterolateral del abdomen. La formación del trayecto se relaciona con el descenso de los testículos durante el desarrollo fetal, debido a esto se pueden presentar algunas patologías que comprometan la integridad del trayecto.\n\nEl canal inguinal también contiene, en ambos sexos, vasos sanguíneos y linfáticos, y el nervio ilioinguinal. Sin embargo, cabe destacar que las estructuras diferenciales que viajan a través del trayecto son el Ligamento Redondo del útero en la mujer y el Conducto deferente extraperitoneal y los vasos testiculares en el hombre. El músculo cremaster rodea al cordón espermático y discurre, por tanto, por el conducto inguinal.\n\nEs importante conocer la anatomía de esta región anatómica a la hora del diagnóstico y tratamiento de la hernia inguinal.\n\nEl ligamento ancho del útero es un pliegue ancho de tejido que es extensión del peritoneo y que conecta a ambas caras del útero con las paredes y el suelo de la pelvis. Sirve como mesenterio para el útero, ovarios y las trompas de Falopio. Ayuda a mantener al útero en su posición. No atraviesa el conducto inguinal y es, por tanto, la opción 3 correcta."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "En relación a la glándula parótida, señale cuál de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "Es una glándula serosa.",
+        "Está en contacto directo con la arteria carótida interna.",
+        "Se encuentra dentro de la fascia cervical profunda.",
+        "Envuelve las ramas del nervio facial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta falsa es la 2 porqué la glándula parótida está en contacto con la arteria carótida EXTERNA y sus ramas, no con la carótida interna ya que está separada de la glándula por el vientre posterior del músculo digástrico y estilohioideo. Las demás opciones son correctas. Recuerda que el nervio facial se divide dentro de la glándula parótida en sus cinco ramas terminales."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Cual de las siguientes arterias da origen a la arteria central de la retina:",
+      "opciones": [
+        "Lagrimal",
+        "Oftálmica",
+        "Facial",
+        "Supraorbitaria"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La arteria central de la retina nace directamente de la arteria oftálmica (opción 2 correcta), discurre por debajo del nervio óptico y por dentro de su vaina dural hasta el globo ocular. Antes de llegar al globo ocular, penetra en el nervio óptico y emite ramas sobre la superficie interna de la retina, siendo éstas el único aporte vascular de gran parte de la retina."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Señale la asociación incorrecta entre el músculo y su inervación.",
+      "opciones": [
+        "Recto superior – III par craneal.",
+        "Recto inferior – III par craneal.",
+        "Recto lateral – III par craneal",
+        "Recto medial – III par craneal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: El recto lateral es inervado por el IV par craneal, el oblicuo superior por el VI par craneal y el resto por el III par craneal."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Señale el lugar más probable de lesión del séptimo par craneal en un paciente con parálisis facial periférica acompañada de disgeusia en dos tercios anteriores de la lengua, con reflejo estapedial abolido y test de Schirmer negativo:",
+      "opciones": [
+        "En el conducto auditivo interno.",
+        "En el orificio estilomastoideo.",
+        "Entre la salida de la rama para el nervio del estribo y la de la cuerda del tímpano.",
+        "Inmediatamente distal a la salida del nervio petroso mayor."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que requiere un buen conocimiento de la anatomía del nervio facial y de las regiones que inerva. Recuerda que su porción intratemporal se divide en tres segmentos:- El laberíntico: va desde el fondo del conducto auditivo interno hasta el ganglio geniculado y su lesión ocasiona alteración en la secreción de la glándula lacrimal (inervada por el nervio petroso mayor).- El timpánico: recorre la pared medial de la cavidad timpánica y de él parte el nervio del músculo del estribo, por lo que si se daña se altera el reflejo estapedial.- El mastoideo: atraviesa la mastoides junto a la pared posterior del CAE y sale el nervio cuerda del tímpano que se encarga de la sensibilidad gustativa de los dos tercios anteriores de la hemilengua correspondiente. Por ello, al presentar este paciente disgeusia (segmento mastoideo dañado), reflejo estapedial abolido (segmento timpánico dañado) y test de Schirmer negativo (segmento laberíntico íntegro), podemos decir que la lesión se encuentra distal a la salida del nervio petroso mayor por lo que marcamos la opción 4 correcta."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "¿Cuál de las siguientes, NO es una rama de la arteria carótida externa?:",
+      "opciones": [
+        "Arteria temporal superficial.",
+        "Arteria meníngea media.",
+        "Arteria oftálmica.",
+        "Arteria maxilar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta complicada si no se ha estudiado el tema correspondiente de anatomía ya que no se ve en otra asignatura. La arteria carótida externa da sus ramas en el cuello y cara. Asciende en dirección al ángulo de la mandíbula, donde se originan la arteria tiroidea superior, la lingual y la facial. Sus ramas terminales son la arteria temporal superficial y la arteria maxilar. Esta última tiene como ramas a la temporal profunda y la arteria meníngea media. La opción incorrecta es la 3, ya que la arteria oftálmica es rama de la arteria carótida interna que aporta vascularización a regiones más profundas."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "¿Qué elementos anatómicos atraviesan la lámina cribosa del hueso etmoides?:",
+      "opciones": [
+        "Nervio nasal interno y la arteria etmoidal anterior.",
+        "Nervio petroso superficial mayor.",
+        "Nervio naso-palatino de Scarpa.",
+        "Nervios olfatorios"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que puede resultar muy complicada pero que si se conoce la ubicación del etmoides, puede deducirse sin demasiada dificultad. El hueso etmoides proyecta una apófisis llamada crista galli, donde se inserta la hoz del cerebro. A ambos lados presenta la lámina cribiforme, por la que discurren los nervios olfatorios (I par craneal) por lo que marcamos la opción 4 correcta. Forma parte de la fosa craneal anterior, que es la más estrecha de las tres, formada por el hueso en su región anterior y por las alas menores del hueso esfenoides en su región posterior."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Señale la respuesta incorrecta en relación con hueso estribo:",
+      "opciones": [
+        "Es el hueso más pequeño del cuerpo humano.",
+        "El músculo del estribo está inervado por el VIII par craneal.",
+        "Se articula con el yunque.",
+        "Uno de sus extremos está adherido a la ventana oval."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: El músculo del estribo está inervado por el nervio facial (VII) y su función es amortiguar las vibraciones del estribo."
+    }
+  ]
+}

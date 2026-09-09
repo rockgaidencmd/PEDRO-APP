@@ -1,0 +1,490 @@
+{
+  "materia": "otorrino",
+  "paginaInicio": 1,
+  "paginaFin": 19,
+  "anomalias": [
+    "p18: en la pregunta sobre indicación de amigdalectomía el comentario numera las opciones 1.-, 2.- y 3.- y cierra con un párrafo sobre 'La mononucleosis infecciosa', enfermedad que no figura en ninguna de las 4 opciones (la opción 4 es 'Abscesos periamigdalinos de repetición'); el comentario parece arrastrado de otra pregunta"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Acude a la urgencia un paciente hepatópata con plaquetopenia por inflamación cervical y sangrado oral tras exodoncia de 4 piezas dentarias. A la exploración presenta un cuello duro y empastado con equimosis cervical y un abombamiento del suelo de boca que impide al paciente la protrusión de la lengua. Señale la opción CORRECTA en relación a esta situación:",
+      "opciones": [
+        "Debemos derivar al paciente al odontólogo.",
+        "El paciente tiene un hematoma de suelo de boca que puede suponer un peligro para la vía aérea.",
+        "El paciente tiene una angina de Ludwig por lo que habrá que tratarle con un macrólido y corticoides.",
+        "La exodoncia no tiene relación con la situación actual."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La exodoncia en un paciente con riesgo hemorrágico puede causar una hemorragia de suelo de boca que comprima la vía aérea. Todavía no es una angina de Ludwig ya que es un acúmulo de sangre y no de pus, pero se comporta de la misma manera."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Señale lo cierto respecto al cáncer de laringe:",
+      "opciones": [
+        "El tipo histológico más frecuente es el adenocarcinoma",
+        "Es más frecuente en mujeres",
+        "Su tratamiento se basa en la radioterapia y quimioterapia",
+        "Se trata del cáncer más frecuente de cabeza y cuello"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El cáncer de laringe es el más frecuente de cabeza y cuello(respuesta 4 correcta), el tipo histológico más frecuente es el epidermoide (respuesta 1 falsa), es más frecuentes en varones de edad media (respuesta 2 falsa) y su tratamiento se basa en la cirugía asociada a radioterapia en estadios avanzados (respuesta 3 falsa)"
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Con respecto a la fractura longitudinal del peñasco, es FALSO que:",
+      "opciones": [
+        "La hipoacusia es de transmisión.",
+        "Puede existir otolicuorrea.",
+        "La parálisis facial es más frecuente que en la fractura transversa.",
+        "Puede verse un \"escalón\" en el annulus timpánico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La fractura longitudinal del peñasco presenta la línea de fractura paralela al eje aéreo y es típica la presencia de hematoma retroauricular, escalón en el annulus timpánico con otorragia por rotura de la membrana timpánica e hipoacusia de transmisión por luxación de la cadena de huesecillos. Pueden existir otolicuorrea y parálisis facial periférica como en la fractura transversa pero es menos frecuente que en ella (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Paciente con neurofibromatosis tipo II con hipoacusia neurosensorial, acúfenos unilaterales y con parálisis facial ipsilateral. A la exploración otoscópica se detecta anestesia de la pared posterior del conducto auditivo externo. ¿Cómo se denomina este último signo?",
+      "opciones": [
+        "Signo de Weber.",
+        "Signo de Ramsay-Hunt.",
+        "Signo de Rinne.",
+        "Signo de Hitselberger."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El signo de Hitselberger es un signo que se caracteriza por una alteración de la sensibilidad en la pared posterior del CAE y se debe a la lesión de las fibras sensitivas del nervio facial, que recogen la sensibilidad del área de Ramsay-Hunt (respuesta 4 correcta). En los pacientes con neurofibromatosis tipo II (enfermedad autosómica dominante localizada en el cromosoma 22) son típicos los neurinomas en los pares craneales, sobre todo en el VIII par, y de forma bilateral."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Señale la cierta con respecto al signo de Schwartz:",
+      "opciones": [
+        "Es patognomónica del neurinoma del VIII par.",
+        "Es la hiperemia del promontorio en la otosclerosis, vista a través del tímpano.",
+        "Se ve en todos los casos de otosclerosis.",
+        "Es la provocación de un nistagmo ante los ruidos fuertes."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: El signo de Schwartz es una mancha rojiza por hiperemia que aparece en el promontorio de algunas otosclerosis. Indica un foco otosclerótico activo y suele acompañarse a otosclerosis con componente coclear.\n\nAdemás de no estar presente en todas las otosclerosis es necesario que la membrana timpánica presente algo de transparencia para poder observarla."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Señale la afirmación falsa sobre el carcinoma laríngeo:",
+      "opciones": [
+        "Los carcinomas glóticos suelen debutar con disfonía y son los de mejor pronóstico.",
+        "Los carcinomas subglóticos suelen debutar con sensación de cuerpo extraño",
+        "Los carcinomas supraglóticos presentan adenopatías mas frecuentemente y por ello son de peor pronóstico",
+        "Los carcinomas subglóticos tiene frecuentemente afectación ganglionar cervical"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debemos recordar que según la localización de los carcinomas de laringe se presentan mas frecuentemente ciertos síntomas.\n\nGlotis: Disfonia\n\nSupraglotis: sensación de cuerpo extraño, parestésias, odinofagia con otalgia refleja, disfagia.\n\nSubglóticos: Disnea o estridor. Opción 2 correcta.\n\nTambién que los glóticos son de mejor pronóstico y los supraglóticos los de peor pronóstico a nivel de la laringe."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Paciente mujer de 80 años de edad que consulta por parálisis facial periférica derecha de 24 horas de evolución. Refiere que lleva con dolor en pabellón y región periauricular derecha desde hace 3 días y presenta costras en dicho pabellón y conducto auditivo externo. Como antecedentes: tuvo en la infancia rubeola, varicela y sarampión. ¿Cuál será nuestro diagnóstico?",
+      "opciones": [
+        "Síndrome de Melkersson-Rosenthal.",
+        "Síndrome de Heerfordt.",
+        "Síndrome de Landry-Guillain-Barré.",
+        "Síndrome de Ramsay-Hunt."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: síndrome de Ramsay-Hunt presenta una parálisis facial con costras dolorosas en pabellón auricular y conducto auditivo externo (resultado de la desecación de las vesículas ocasionadas por el virus del herpes zoster, que suelen ser efímeras y a veces difíciles de ver).\n\nEl antecedente de haber padecido varicela (herpes varicela-zoster) corrobora este cuadro clínico.\n\nEl síndrome de Melkersson-Rosenthal se caracteriza por una parálisis facial y afectación de cara y labio superior, además de surcos en la lengua. Se inicia en la infancia o adolescencia.\n\nEl síndrome de Heerfordt consiste en una uveoparotiditis con parálisis facial y fiebre.\n\nEl síndrome de Landry Guillain-Barré es una enfermedad desmielinizante que puede debutar afectando al nervio facial."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Cuál de las siguientes NO forma parte del protocolo HINTS:",
+      "opciones": [
+        "Maniobra oculocefálica",
+        "Nistagmo",
+        "Índice de Barany",
+        "Test Skew"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: El protocolo HINTS, como bien indican sus siglas, viene determinado por la prueba de impulso cefálico (Head Impulse Test), el nistagmo y el Test de Skew."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "La etiología MÁS frecuente de hipoacusia en la infancia es:",
+      "opciones": [
+        "La otosclerosis.",
+        "La meningitis.",
+        "La otitis media serosa.",
+        "El traumatismo acústico por incubadora."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La otitis seromucosa afecta al 10% de los niños entre 2 y 6 años, siendo la causa más frecuente de hipoacusia a esta edad; es una hipoacusia adquirida (opción 3 correcta). Se debe a la disfunción tubárica en la infancia (trompa de Eustaquio más horizontal, corta y flácida que en los adultos) y a la hipertrofia adenoidea, que impide la correcta ventilación del oído medio. También influye la adquisición de cuadros catarrales habituales en guarderías. La otoscopia y el timpanograma nos dan el diagnóstico, con tímpano con ocupación mucosa, cierta hiperemia y abombamiento, pero sin fiebre. La timpanometría es plana y la hipoacusia de tipo transmisivo Tiene tratamiento, por lo que hay que diagnosticarla lo antes posible, para que la hipoacusia no interfiera en el desarrollo intelectual del infante, con lavados nasales y corticoterapia tópica. Si no hay mejoría, hay que valorar adenoidectomía y/o drenajes transtimpánicos. Recuerda que la causa más frecuente de HIPOACUSIA INFANTIL CONGÉNITA es la genética."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Un paciente se va a operar de un adenoma pleomorfo. ¿Cuál es la mejor manera de EVITAR un síndrome de Frey en el postoperatorio?",
+      "opciones": [
+        "Conservar el SMAS.",
+        "Inyecciones de toxina botulínica.",
+        "Realizar una parotidectomía conservadora.",
+        "No es posible evitar un síndrome de Frey en tumores de este tipo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: El síndrome de Frey se previene conservando el SMAS (sistema musculoaponeurótico superficial) en la cirugía de parótida (de tumores benignos).\n\nLas inyecciones de toxina botulínica son el tratamiento cuando el paciente ya padece un síndrome de Frey no para evitarlo."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "De los cuatro casos clínicos que se exponen a continuación señale el que no encaje con el diagnóstico de otitis media aguda:",
+      "opciones": [
+        "Paciente de 3 años de edad, irritable y pirético, con otalgia derecha tras un cuadro catarral de vías altas.",
+        "Paciente de 6 meses de edad con irritabilidad y fiebre de foco desconocido que muestra un eritema de la membrana timpánica y que mejora con la toma de amoxicilina oral.",
+        "Paciente de 4 años de edad con otalgia izquierda de 1 día de evolución que mejora tras el inicio de otorrea.",
+        "Paciente de 3 años de edad con sospecha de hipoacusia por parte de sus familiares y que muestra una membrana timpánica ambarina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La otitis media aguda se caracteriza por la presencia de fiebre, irritabilidad y otalgia.\n\nEl diagnóstico se basa en la clínica y la exploración física (membrana timpánica eritematosa y abombada). Con respecto a la clínica, la otalgia pulsátil inicial puede dar paso a una fase de mejoría sintomática tras la descarga purulenta.\n\nEl tratamiento habitual es con amoxicilina oral ajustada al peso.\n\nLa otoscopia con membrana sonrosada o ambarina es típica de la otitis media con efusión. En la otitis media con efusión no suele haber dolor ni síntomas infecciosos, por lo que marcamos la opción 4 correcta."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Paciente que presenta una tumoración parotídea de características malignas que en el informe anatomopatológico tras su extirpación describen como carcinoma mucoepidermoide. En el postoperatorio el paciente presenta como secuela una parálisis facial. Indique la afirmación MENOS acertada:",
+      "opciones": [
+        "El carcinoma mucoepidermoide es el tumor maligno más frecuente de la parótida.",
+        "El test de Schirmer demostrará una secreción lagrimal basal dentro de los rangos normales.",
+        "Puede estar afectada solo una región facial de la hemicara afecta (si se ha lesionado solo una rama del nervio facial). Si la lesión afecta a todo el tronco principal del nervio facial, la parálisis será de la hemicara completa.",
+        "Seguramente aparezca una alteración en la sensibilidad gustativa de la lengua."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta típica sobre parálisis facial periférica en la que hay que localizar topográficamente la lesión y, a partir de ahí, pensar en qué estructuras y cuáles no estarán afectadas. En este caso la lesión del facial se produce a nivel parotídeo, es decir, muy periférico, ya fuera del cráneo. El test de Schirmer evalúa la funcionalidad del nervio petroso superficial mayor, correspondiente a la primera porción del facial, la cual, al ser proximal a la lesión del facial estará conservada. La lesión a nivel parotídeo es distal a la tercera porción de la que depende la sensibilidad de la lengua y, por tanto, esta estará conservada (marcamos la opción de respuesta). Una lesión del facial a ese nivel producirá o una parálisis de la rama afecta o una parálisis completa de la hemicara en caso de lesionar el facial a la salida del agujero estilomastoideo. Recuerda que ante un déficit en el cierre ocular habrá que estar atento ante una posible aparición de queratitis por exposición. Además el carcinoma mucoepidermoide es el tumor maligno más frecuente de la parótida."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Respecto al carcinoma epidermoide de laringe señale cuál considera el factor pronóstico más importante",
+      "opciones": [
+        "Afectación ganglionar (N)",
+        "Tamaño del tumor (T)",
+        "Edad del paciente",
+        "Relación con el Virus del Papiloma Humano"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: El factor pronóstico más importante en el cáncer de laringe es la afectación ganglionar (N)"
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Respecto a los traumatismos alveolodentarios es falso qué:",
+      "opciones": [
+        "En caso de avulsión traumática de pieza dental, es recomendable su reimplante precoz, idealmente en los primeros 30 minutos, y fijación mediante férula. Durante el transporte puede conservarse el suero/saliva o leche.",
+        "Las fracturas dentales pueden tratarse, mediante endodoncia.",
+        "La hemorragia tras avulsión suele ser autolimitada o cede tras compresión., salvo coagulopatía de base.",
+        "Las luxaciones de piezas dentales no requieren fijación ni férula"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Ante una avulsión traumática dental es imprescindible actuar con rápidez. La remiplantación precoz puede salvar el diente.\n\nLa endodoncia es un método eficaz para el tratamiento de fracturas dentales así como para tratamiento diferido tras reimplante dental\n\nLa luxación dental requiere de ferulización temporal para asegurar su reimplante correcto por lo que marcamos la opción 4 correcta."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Qué lesión de las siguientes tiene mayor potencial de transformación maligna?",
+      "opciones": [
+        "Leucoplasia",
+        "Eritroplasia",
+        "Liquen plano",
+        "Papiloma oral"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En general toda lesión persistente de cavidad oral requiere de biopsia. La eritroplasia, aunque no frecuente, es la lesión con mayor potencial de tranformación cencerígena (opción 2 correcta). Su aspecto es de una placa rojiza y aterciopelada."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Señale la actitud más correcta ante la sospecha de un flemón o absceso periamigdalino:",
+      "opciones": [
+        "PAAF en paladar blando, claritromicina y corticoides iv.",
+        "PAAF en paladar blando, amoxicilina-clavulánico y corticoides iv.",
+        "TAC cuello sin contraste, amoxicilina-clavulánico y corticoides iv.",
+        "TAC cuello sin contraste, claritromicina y corticoides iv."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Ante la sospecha de un flemón o absceso periamigdalino lo ideal es hacer una punción-aspiración con aguja fina para comprobar si hay colección o no.\n\nEn caso de pedir un TAC por dudas debería ser con contraste. El antibiótico de elección es un betalactámico."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Acude a Urgencias un paciente de 35 años que refiere odinofagia intensa, rebosamiento de saliva y voz engolada de dos días evolución, que en las últimas horas asocia sensación de cuerpo extraño laríngeo con progresiva disnea. A la exploración no presenta trismus ni empastamientos cervicales. La faringoscopia anterior muestra una hipertrofia amigdalar sin placas pultáceas, sin limitación a la apertura bucal. La movilidad lingual se encuentra conservada y el suelo de la boca no es doloroso, ni se encuentra afectado. A la laringoscopia indirecta se objetiva una epiglotis eritematosa y edematosa, con un punto de supuración de material purulento. El espacio respiratorio está claramente disminuido, pero es suficiente. ¿Cuál de las siguientes afirmaciones es CORRECTA?",
+      "opciones": [
+        "En los adultos la exploración mediante laringoscopia indirecta, está absolutamente contraindicada dado que el riesgo de espasmo glótico es muy importante.",
+        "Es un cuadro absolutamente infrecuente tras la vacunación del Haemophilus influenzae tipo B.",
+        "Debe instaurarse una dieta absoluta y un tratamiento antibiótico, corticoideo y analgésico intravenoso, con ingreso hospitalario.",
+        "Los gérmenes más frecuentemente implicados son el Streptococo pneumoniae y Pseudomona aeruginosa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La epiglotis aguda es un cuadro que puede darse tanto en niños como en adultos, siendo la exploración mediante laringoscopia indirecta en niños poco recomendable por el riesgo de espasmo glótico. En adultos, si la situación ventilatoria es adecuada, puede realizarse sin riesgo vital para el paciente. La vacunación del H. influenzae ha disminuido la incidencia de manera importante, pero sigue siendo un cuadro relativamente frecuente. Dado el riesgo de obstrucción de la vía aérea, requiere un tratamiento intravenoso hospitalario. Los gérmenes más frecuentemente implicados en él, aparte de H. influenzae son Streptococo pyogenes y Staphilococcus aureus. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "En la parálisis facial de Bell, NO se halla:",
+      "opciones": [
+        "Disgeusia.",
+        "Disacusia.",
+        "Hiposialia.",
+        "Diplopía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: La parálisis facial de Bell es una parálisis periférica y puede presentar, además de la lesión motora que afecta a la musculatura de la cara y según las fibras que afecte: disminución de la secreción lacrimal (nervio petroso superficial mayor), disacusia (nervio del músculo del estribo) y disgeusia de los 2/3 anteriores de la lengua e hiposialia (nervio de la cuerda del tímpano). Al ser una parálisis periférica no debe existir afectación de otros pares craneales como los del sistema oculomotor que provoquen diplopia."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Mujer de 67 años que acude a consulta por episodios de vértigo de segundos de duración que le dan principalmente en la cama cuando se gira a la izquierda desde hace un mes. Le cuesta levantarse porque le suele dar otra crisis de vértigo, pero el resto del día, si evita los movimientos bruscos de la cabeza se encuentra más o menos bien, quizás algo inestable. Si la maniobra de Dix-Halpike es positiva y de características periféricas, y teniendo en cuenta que no tiene artrosis cervical y está más o menos ágil, ¿cómo trataría a la paciente?",
+      "opciones": [
+        "Sulpiride 10 días en dosis decreciente.",
+        "Diazepam 5 mg por la noche siete días.",
+        "Maniobra de liberación (Semont o Eppley).",
+        "Aspirina 100 mg al día de por vida."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: Se describe la clínica típica de un vértigo posicional paroxístico benigno. El tratamiento de elección son las maniobras de liberación. Tienen una eficacia, hechas una o dos veces, de más del 90% en la curación del VPPB."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "La sintomatología de inicio más frecuente en un paciente con neurinoma del acústico es:",
+      "opciones": [
+        "Acúfenos, hipoacusia y dolor facial.",
+        "Ataxia y alteraciones del equilibrio.",
+        "Acúfenos únicamente.",
+        "Acúfenos, hipoacusia y alteraciones del equilibrio."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clínica habitual de presentación del neurinoma del acústico es la hipoacusia retrococlear con acúfeno unilateral de larga evolución (opción 4 correcta). Puede presentar inestabilidad pero es muy rara la presencia de vértigo típico intenso. Un 10 % de los neurinomas debutan como sordera brusca. Cuando el tumor alcanza un tamaño considerable puede presentar dolor facial por afectación del V par o ataxia por compresión cerebelosa."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Paciente de 60 años, VIH positivo, que, tras extracción dentaria del molar 47 por infección de la pieza dentaria, presenta disminución progresiva del nivel de conciencia y fiebre. En la última hora se añade dificultad para la apertura bucal y disnea, con inflamación del espacio submentoniano. ¿Cuál sería el diagnóstico MÁS probable y el siguiente paso?",
+      "opciones": [
+        "Meningitis bacteriana – antibioterapia.",
+        "Angina de Ludwig – TAC con contraste, antibioterapia intravenosa y corticoides; asegurar la vía aérea y drenaje quirúrgico si se tratara de un absceso (si es flemonoso, el tratamiento médico suele ser suficiente).",
+        "Hematoma de suelo de boca – drenaje y antibioterapia.",
+        "Absceso cerebral – drenaje y antibioterapia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La angina de Ludwig es una urgencia odontológica que requiere antibioterapia urgente acompañada de traqueotomía, si peligra la vía aérea, y drenaje quirúrgico, si se trata de una abscesificación (respuesta 2 correcta). Normalmente el desencadenante de este absceso del suelo de la boca es una infección dentaria, pero también puede aparecer tras una fractura mandibular. La clínica de trismus e inflamación submentoniana nos deben hacer pensar en esta patología, que es más frecuente en pacientes inmunodeprimidos."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Un lactante de 5 meses presente rinorrea verdosa e inflamación palpebral derecha. Señale el diagnóstico más probable y su causa:",
+      "opciones": [
+        "Absceso orbitario. Sinusitis etmoidal.",
+        "Celulitis. Sinusitis etmoidal.",
+        "Absceso subperióstico. Sinusitis frontal.",
+        "Absceso orbitario. Sinusitis maxilar."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: El seno más afectado en los niños es el etmoides ya que otros senos como el frontal o el esfenoides tardan más tiempo en neumatizarse. La inflamación palpebral debe sugerirnos una celulitis."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "La especial concentración iónica de la endolinfa se debe a la acción secretora del epitelio de:",
+      "opciones": [
+        "Estría vascular.",
+        "Membrana de Reissner.",
+        "Órgano de Corti.",
+        "Saco endolinfático."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: La estría vascular se encuentra en la cara externa del conducto coclear y es donde se produce la endolinfa a partir de un filtrado activo procedente de la perilinfa. En el saco endolinfático se produce la reabsorción de la endolinfa. La composición de la endolinfa se parece a la de los líquidos intracelulares, con gran contenido en potasio, mientras que la perilinfa se asemeja al líquido cefalorraquídeo, con mayor cantidad de sodio. Recuerda que las alteraciones en la regulación de los electrolitos entre la endolinfa y la perilinfa dan lugar al hydrops endolinfático, implicado en la patogenia de la enfermedad de Ménière."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál de estos músculos NO está inervado por el nervio laríngeo inferior o recurrente?",
+      "opciones": [
+        "Cricotiroideo.",
+        "Cricoaritenoideo posterior.",
+        "Tiroaritenoideo.",
+        "Cricoaritenoideo lateral."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: El músculo cricotiroideo está inervado por la rama externa del nervio laríngeo superior. El resto de músculos laríngeos los inerva el nervio laríngeo inferior o recurrente."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "El edema de Reinke es:",
+      "opciones": [
+        "Un edema agudo de laringe.",
+        "Una laringitis atrófica.",
+        "Un edema de cuerdas.",
+        "Un edema tubárico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: El edema de Reinke, es una lesión benigna de la cuerda vocal debido a un proceso inflamatorio crónico a nivel del tejido conectivo de la capa superficial de la lámina propia, así ha recibido el nombre de laringitis crónica hipertrófica edematosa. Esta inflamación crónica es secundaria a habito tabáquico, abuso vocal, reflujo gastroesofágico, abuso de alcohol, hipotiroidismo. Produce una tumefacción sésil de aspecto globulosos que se extiende en toda la superficie de ambas cuerdas vocales, y genera una disfonía crónica."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Con respecto a la ocena, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Es una rinitis crónica hipertrófica.",
+        "Las fosas nasales suelen estar muy estrechadas.",
+        "Suele haber gran cantidad de costras.",
+        "El paciente se queja de gran humedad y rinorrea acuosa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La ocena es una rinitis atrófica asociada a cacosmia. El paciente es, en general, una mujer de edad joven y, con frecuencia, asiática. A pesar de la fetidez característica de las costras (respuesta 3 correcta), ella no tiene percepción de esta; en otras palabras, existe cacosmia con anosmia del que la padece. El tratamiento es igual que el de la rinitis seca (lavados nasales, hidratación) y, en casos resistentes, se realiza cirugía del vestíbulo nasal, que permita una reducción del tamaño de este y evite así la desecación (operación de Eyre)."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Una de las siguientes enfermedades NO es causa de sordera de transmisión:",
+      "opciones": [
+        "Otitis externa.",
+        "Otosclerosis.",
+        "Esclerosis múltiple.",
+        "Obstrucción del conducto auditivo externo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En las hipoacusias de transmisión hay una patología en el oído externo o medio que afecta al mecanismo de amplificación y transmisión del sonido. Esta patología puede estar en el pabellón auricular (aplasia, hipoplasia.), en el CAE (tapón de cera, obstrucción por otorrea e inflamación, aplasia, hipoplasia), en la membrana timpánica (perforación, esclerosis..), en la caja (ocupación por serosa, pus, tumor) o en la cadena de huesecillos (luxación traumática, fijación por otosclerosis o inflamación). En las hipoacusias de percepción existe una lesión en la cóclea o en las vías auditivas (neurinoma, esclerosis múltiple.) por lo que marcamos la opción 3 correcta."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Tenemos una niña de 7 años de edad con antecedentes de fisura palatina. Presenta catarros de vías altas de repetición y otitis media crónica secretora bilateral, ¿Tendría indicación para adenoidectomía?",
+      "opciones": [
+        "No tendría indicación de adenoidectomía.",
+        "Tendría indicación de adenoidectomía solo.",
+        "Tendría indicación de adenoamigdalectomía.",
+        "Tendría indicación de adenoidectomía y colocación de drenajes transtimpánicos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: Si la niña no tuviera una fisura palatina podría plantearse realizar una adenoidectomía además de la colocación de drenajes transtimpánicos.\n\nLa adenoidectomía en una niña con fisura palatina puede dejar una insuficiencia velopalatina, de ahí que la intervención no esté indicada.\n\nSe le propondría realizar solo la colocación de drenajes transtimpánicos."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Respecto al cáncer de laringe en estadios 1 y 2 (precoz), es CIERTO que:",
+      "opciones": [
+        "Salvo contraindicaciones, el tratamiento es quirúrgico conservador con láser o cirugía abierta convencional o radioterapia sola.",
+        "Se trata con quimioterapia de inducción seguido de cirugía.",
+        "Los taxanos tienen cada vez un papel mayor en su tratamiento.",
+        "La radioterapia postoperatoria es siempre necesaria."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: El tratamiento de elección del cáncer de laringe en estadio I y II es quirúrgico o radioterapia sola. Suele tratarse de forma profiláctica el cuello (con vaciamiento o radioterapia) en los tumores supraglóticos y subglóticos, no siendo necesario en los T1-T2/N0 de glotis."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Paciente de 25 años que, tras comer pescado, presenta sensación de cuerpo extraño faríngeo, con dolor. Acude a Urgencias, objetivándose una espina en base de lengua derecha. Señale la actitud CORRECTA:",
+      "opciones": [
+        "Observación hospitalaria durante 24 horas.",
+        "Antibiótico durante siete días y vigilancia.",
+        "Extracción del cuerpo extraño con laringoscopia indirecta en Urgencias.",
+        "Extracción del cuerpo extraño con laringoscopia directa y anestesia general."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los cuerpos extraños faríngeos son una consulta habitual en el Servicio de Urgencias. Si se visualiza, se recomienda extracción directa o con laringoscopia indirecta (opción 3 correcta). Si esta fuese imposible, sería necesario hacerlo con anestesia general y laringoscopia directa. Si no se encuentra ningún cuerpo extraño, se indica observación domiciliaria asociada a analgesia y, si persisten síntomas, volver a Urgencias."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Varón que se encuentra de vacaciones en la playa, cuando comienza a presentar picor intenso y taponamiento en el oído izquierdo, motivo por el que acude a Urgencias. Entre sus antecedentes destaca que es hipertenso, trasplantado renal y tiene dermatitis atópica. Con respecto a la entidad que padece este paciente, es FALSO que:",
+      "opciones": [
+        "La dermatitis es un factor predisponente.",
+        "El tratamiento es fundamentalmente tópico.",
+        "Los patógenos más frecuentes en estos procesos son Aspergillus y Mucor.",
+        "Estas infecciones son más frecuentes en nadadores."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La dermatitis atópica puede afectar también al conducto auditivo externo y facilitar la colonización por patógenos bacterianos o fúngicos, siendo más frecuente en meses de verano. Habitualmente los cuadros bacterianos cursan con sintomatología dolorosa importante y los cuadros micóticos con predominio del picor. Los gérmenes más frecuentemente implicados en el caso de la micótica son Candida y Aspergillus (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Acude a la urgencia un paciente con una crisis de vértigo. Según nos cuenta, esta ha empezado cuando estaba con sus amigos en una discoteca y ha entrado a una sala \"donde la música estaba muy fuerte\". Presenta Rinne negativo en el oído derecho y Weber lateralizado a ese mismo lado. Por otoscopia no se observan alteraciones significativas. Sin embargo, cuando empieza a sonar la ambulancia cerca de él, comienza a presentar un nistagmo de carácter periférico. Señala el diagnóstico más probable:",
+      "opciones": [
+        "Vértigo migrañoso.",
+        "Síndrome de dehiscencia del canal semicircular superior o de Minor.",
+        "Laberintitis.",
+        "Síndrome posicional paroxístico benigno."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El síndrome de dehiscencia de canal semicircular superior (DCSS) o síndrome de Minor se caracteriza por crisis de vértigo inducidas por sonidos de alta intensidad (signo de Tullio), como es el caso, o por incrementos de presión en el oído (signo de Hennebert). Los pacientes suelen presentar autofonía (malestar por la percepción de la propia voz). En la audiometría aparece una hipoacusia de transmisión y el examen al otoscopio es normal. En las pruebas vestibulares encontramos nistagmo y vértigo inducido por sonidos de intensidad o en respuesta a cambios de presión. El diagnóstico se complementa con TAC y el tratamiento es farmacológico, rehabilitación y, en último lugar, cirugía."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿En cuál de estas afecciones tiene mayor importancia la existencia de un uso incorrecto de la voz?",
+      "opciones": [
+        "En los nódulos laríngeos.",
+        "En el pólipo de cuerda vocal.",
+        "En el papiloma.",
+        "En la parálisis recurrencial."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "De las cuatro, las dos patologías relacionadas con el esfuerzo vocal son los nódulos vocales y el pólipo vocal. De estas dos, la más relacionada son los nódulos vocales, más típicos de mujeres y de profesionales de la voz, pudiendo ser considerada como enfermedad profesional y además su tratamiento de elección es con técnicas de reeducación vocal (opción 1 correcta). La exéresis mediante microcirugía laríngea es utilizada cuando fracasaron los tratamientos logopédicos, y complementándose con éstos. Los pólipos de cuerda vocal son más frecuentes en varones, tras esfuerzos vocales bruscos durante episodios catarrales, sobre todo si coexisten con exposición al tabaco. Su tratamiento de elección es quirúrgico.\n\nEl papiloma se relaciona etiológicamente con el virus papiloma humano (HPV) sobre todo tipos 6 y 11. Las parálisis del nervio laríngeo inferior o recurrente, se producen por tumores, traumatismos accidentales o actos quirúrgicos, a nivel cervical y torácico, siendo la causa más frecuente la cirugía tiroidea."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Acude a su consulta un paciente de 27 años con un Síndrome de Down bastante severo que indica con gestos que no oye bien, no parece haber ninguna otra sintomatología asociada. ¿Cuál cree usted que sería la prueba más útil a realizar?",
+      "opciones": [
+        "Resonancia magnética nuclear",
+        "Potenciales evocados de tronco auditivo",
+        "TAC de peñascos",
+        "Audiometría tonal y verbal"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Inicialmente en estos casos se debería hacer una prueba de audición, para poder objetivar si existe o no la hipoacusia. Inicialmente se harían unos diapasones para determinar el Rinne y Weber, y una audiometría tonal y verbal. En un chico con síndrome de Down SEVERO una respuesta fiable en estas pruebas puede ser dudosa, porque son pruebas SUBJETIVAS. Por eso sería necesario realizar una prueba objetiva como son los potenciales evocados (Respuesta 2 correcta). Las pruebas de imagen como el TAC o la RNM se harían, pero posteriormente una vez fundamentada la existencia de una hipoacusia para poder encontrar una posible causa."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Niño de 6 meses que no superó el screening auditivo, y que se confirma que sufre de una sordera profunda bilateral (mayor de 90dB en frecuencias conversacionales y una discriminación verbal menor del 20%), con integridad anatómica de la cóclea demostrada mediante TAC y RMN. ¿Qué tratamiento propondría para evitar que sea sordomudo?",
+      "opciones": [
+        "Implante coclear, si es posible bilateral.",
+        "Prótesis auditivas convencionales.",
+        "Vasodilatadores.",
+        "No existe posibilidad de tratamiento."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Este niño sería candidato para un implante coclear (opción 1 correcta). En el caso de persistir la hipoacusia profunda bilateral y no proporcionar de alguna forma estímulos auditivos, el niño no va a desarrollar el habla y será sordomudo. El implante coclear es un dispositivo electrónico capaz de convertir la energía mecánica sonora en señales eléctricas que serán suministradas al nervio auditivo en aquellos pacientes con sordera neurosensorial profunda de origen coclear. Es la única opción cuando no se pueden adaptar prótesis auditivas al ser la hipoacusia profunda. Antes de realizar un implante coclear, es necesario realizar una serie de pruebas para comprobar si el niño es o no candidato a implante coclear. Para ello, es fundamental realizar pruebas audimétricas (audiometría, otoemisiones, PEAT), pruebas de imagen para valorar la permeabilidad coclear (RM y TC) y una valoración logopédica. Lo ideal es implantar ambos oídos para tener una audición binaural (a pesar del mayor costo económico)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Paciente con perforación timpánica bilateral conocida. Acude por tapón de cera. ¿Cuál es su actitud?",
+      "opciones": [
+        "Lavado con agua.",
+        "Derivar a ORL para extracción en seco.",
+        "Administrar gotas antibióticas y luego lavar con agua.",
+        "Lavado con agua y luego administrar alcohol boricado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Los oídos con perforación timpánica no deben mojarse nunca. Se deben de limpiar por parte de ORL con aspiración y pinzas. Si hay sobreinfcción aguda, además de la antibioterapia sistémica, se suele aplicar tratamiento tópico para tratar la infección directamente a la caja timpánica."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Acude a su consulta una paciente de 28 años por dolor en el suelo de la boca cada vez que come e inflamación del mismo. A la exploración se ve un conducto de Wharton inflamado con un área de 1 cm dura a la palpación. ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Adenoma pleomorfo de glándula submaxilar.",
+        "Carcinoma adenoide quístico submaxilar.",
+        "Sialolitiasis submaxilar.",
+        "Ránula."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: La sialolitiasis submaxilar se caracteriza por inflamación y dolor en suelo de boca que aumenta con la ingesta propia del cálculo que se ha formado."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "La amigdalectomía está indicada en UNA de las siguientes patologías. Señálela:",
+      "opciones": [
+        "Angina de Schulttz.",
+        "Amigdalitis aguda no complicada.",
+        "Angina de Vincent.",
+        "Abscesos periamigdalinos de repetición."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Un primer absceso periamigdalar no constituye una indicación de amigdalectomía, pero sí los abscesos de repetición (respuesta 4 correcta). Veamos las demás opciones:\n1.- La angina agranulocítica de Schulttz se produce en el contexto de la neutropenia, a veces inducida por fármacos como antitiroideos. Es más frecuente en pacientes de edad avanzada. Se caracteriza por síntomas sistémicos de gravedad, ulceraciones y necrosis de las amígdalas, así como dolor severo. El tratamiento se realiza con penicilina más transfusión sanguínea.\n2.- La amigdalitis bacteriana aguda no complicada se trata con penicilinas de amplio espectro (amoxicilina a dosis elevada +/- ácido clavulánico). Por supuesto, un episodio aislado de amigdalitis aguda sin complicaciones no requiere tratamiento quirúrgico.\n3.- La angina de Vincent, producida por una asociación fusoespirilar, es de buen pronóstico y se trata con penicilinas de amplio espectro (S. pyogenes).\nLa mononucleosis infecciosa, producida por el virus de Epstein-Barr, tiene tratamiento sintomático, vigilando la función hepática por afectación de la misma."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Una paciente consulta al otorrino por hipoacusia y otorrea resistente a los tratamientos convencionales. Por otoscopia, destaca una imagen blanquecina atical. El diagnóstico más probable será:",
+      "opciones": [
+        "Otitis media crónica simple.",
+        "Otitis media aguda.",
+        "Petrositis.",
+        "Colesteatoma."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La otitis crónica se manifiesta generalmente con episodios de otorrea y por hipoacusia, no siendo habitual la otalgia como en la otitis media aguda. Ciertas lesiones que aparecen en la exploración otoscópica son indicativas de que existe un colesteatoma: una perforación en la pars flaccida con otorrea o escamas blanquecinas propias del colesteatoma, un pólipo o un tapón de cera en el ático, una perforación que afecte al marco timpánico erosionándolo o escamas de epitelio provenientes de la caja, generalmente con supuración (opción 4 correcta).\n\nLa otomicosis se caracteriza por prurito y otorrea cremosa, la otitis media aguda por otalgia intensa y, en ocasiones, perforación de la pars tensa, la petrositis por dolor retroorbitario y diplopia por parálisis del VI par (síndrome de Gradenigo)."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Paciente de 57 años, sin antecedentes de interés, que al levantarse por la mañana presenta una sordera completa de oído derecho, acúfenos e inestabilidad. Lo MÁS probable es que tenga:",
+      "opciones": [
+        "Una otoscopia normal.",
+        "Un tímpano enrojecido.",
+        "Un tapón de cera.",
+        "Un tímpano perforado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ante la sintomatología comentada debemos sospechar una hipoacusia súbita idiopática, que es un problema coclear, y por tanto, nos da una otoscopia normal (respuesta 1 correcta). Aunque la hipoacusia puede ser aislada, con frecuencia asocia acúfenos y menos frecuentemente, inestabilidad."
+    }
+  ]
+}

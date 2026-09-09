@@ -1,0 +1,331 @@
+{
+  "materia": "cardiologia",
+  "paginaInicio": 14,
+  "paginaFin": 25,
+  "preguntas": [
+    {
+      "paginaPdf": 14,
+      "enunciado": "El tratamiento más eficaz del infarto de ventrículo derecho es uno de los siguientes. Señale cuál:",
+      "opciones": [
+        "Diuréticos de asa.",
+        "Contrapulsación aórtica.",
+        "Digitálicos.",
+        "Administración de líquidos inotrópicos i.v."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La nitroglicerina y los diuréticos están contraindicados en el IAM de VD. En esta situación, la disfunción sistólica del VD nos produce una disminución de la precarga del VI, porque el derecho no es capaz de bombear la suficiente cantidad de sangre que atraviese el circuito pulmonar y llegue al corazón izquierdo. Si damos diurético o vasodilatadores venosos (como la NTG) disminuiremos aún más la precarga. Por ello, el tratamiento del IAM de VD debe realizarse con líquidos intravenosos, para aumentar la precarga izquierda, e inotrópicos para aumentar la contractilidad del VD."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿En cuál de estas situaciones está CONTRAINDICADO el uso de anticoagulantes?",
+      "opciones": [
+        "Angina inestable.",
+        "Prótesis valvular metálica.",
+        "Pericarditis.",
+        "Fibrilación auricular crónica en el seno de una estenosis mitral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Tal como se ha explicado en la pregunta 199, el uso de anticoagulantes durante una pericarditis puede producir un hemopericardio con taponamiento cardíaco, lo que puede comprometer la vida del paciente. Por este motivo, los anticoagulantes están contraindicados en esta situación."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Mujer de 63 años, hipertensa, que presenta dolor precordial opresivo y sudoración de dos horas de evolución. En la exploración física destaca una TA de 170/95 mmHg, y el electrocardiograma (ECG) muestra ritmo sinusal a 105 lpm y elevación de segmento ST de 2 mm en derivaciones precordiales desde V1 hasta V4. ¿Cuál de las siguientes medidas NO es adecuada?",
+      "opciones": [
+        "Alivio del dolor con opiáceos y/o nitroglicerina.",
+        "Administrar sin demora aspirina y tratamiento trombolítico, una vez descartada la existencia de contraindicaciones al mismo.",
+        "Administrar verapamilo o diltiazem como vasodilatadores coronarios.",
+        "Iniciar tratamiento con betabloqueantes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que consiste en un extraordinario repaso del tratamiento de la fase aguda del IAM. En primer lugar, se debe dejar al paciente en reposo y monitorizado. Se debe calmar el dolor con mórfico y nitroglicerina intravenosa. Lo más importante, si está dentro de las primeras 12 horas del inicio de los síntomas, es el tratamiento de reperfusión, es decir, abrir la arteria ocluida, bien con fibrinolíticos o con ACTP primaria. Los betabloqueantes se deben administrar también lo más precozmente posible (salvo contraindicación, que no es el caso), pues disminuyen las arritmias y la incidencia de rotura cardiaca, aparte de disminuir el tamaño de la zona isquémica."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "¿Cuál de las afirmaciones siguientes es CIERTA con respecto al cateterismo cardiaco?",
+      "opciones": [
+        "Actualmente su utilidad se limita al estudio de la anatomía de los vasos coronarios principales.",
+        "Puede ser realizado en pacientes con antecedentes de alergia a contrastes radiológicos, previa profilaxis con corticoides o antihistamínicos.",
+        "Está absolutamente contraindicado en la fase aguda de un infarto de miocardio.",
+        "Todo paciente debe someterse a un cateterismo diagnóstico antes de una intervención de cirugía cardiaca."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta bastante difícil. No te preocupes si la has fallado. Repasemos las opciones de respuesta:\n\n1.- El cateterismo no solo sirve para realizar un estudio morfológico de las arterias coronarias, ya que también puede tiene aplicaciones terapéuticas (angioplastia).\n\n2.- En los casos en los que esté indicado, se puede realizar un cateterismo en pacientes alérgicos a contraste yodado, siempre que se administre la profilaxis correspondiente (respuesta 2 correcta).\n\n3.- Puede estar indicado en fase aguda del IAM, especialmente cuando existen factores de mal pronóstico.\n\n4.- La necesidad de realizarlo o no dependerá del tipo de cirugía cardiaca y de las características basales del paciente."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "La maniobra de Allen es útil para:",
+      "opciones": [
+        "Valorar el soplo de la miocardiopatía obstructiva.",
+        "Conocer el origen de los soplos sistólicos.",
+        "Diagnosticar una obstrucción de la arteria radial.",
+        "Provocar el desdoblamiento de R2."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Recuerda que la palpación de los pulsos arteriales es la maniobra de exploración física más importante para diagnosticar una enfermedad vascular periférica, examinando la pulsatilidad en todos los lugares accesibles. La maniobra de Allen para la determinación de la integridad de la circulación de los arcos palmares, la arteria cubital y la radial se realiza mediante la compresión de la arteria radial, a la vez que el paciente abre y cierra la mano rítmicamente."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuál de los siguientes síntomas asociados a la hipertensión arterial tiene PEOR pronóstico?",
+      "opciones": [
+        "Pérdida brusca de fuerza de pierna y brazo derechos de 10 minutos de duración.",
+        "Epistaxis de 30 minutos de duración.",
+        "Cefalea nucal vespertina.",
+        "Taquicardia y temblor."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta directa en relación con los síntomas asociados a la hipertensión arterial (HTA). Para responderla hay que tener claro que la mayoría de los pacientes hipertensos no presentan síntomas secundarios a la HTA y, si estos aparecen, hay que diferenciar los que simplemente se han relacionado con la HTA por varios mecanismos, de los que traducen la afectación en órganos diana, que son los que realmente nos van a determinar un valor pronóstico. Los síntomas que no se relacionan con lesión en órganos diana (y por lo tanto sin interés pronóstico) y que se han atribuido clásicamente a la hipertensión arterial, como los tinnitus, mareos, debilidad y la cefalea nucal vespertina o músculo tensional se observan a menudo en la población normotensa. La taquicardia, en ausencia de patología orgánica asociada, puede ser considerada de origen psicógeno, reflejando un estado de ansiedad por presentar una enfermedad que debe ser tratada de por vida. La HTA se relaciona con epistaxis recidivantes en los adultos, sin determinar un valor pronóstico. Las complicaciones de la hipertensión arterial son las que van a determinar el pronóstico, ya que se relacionan con la mortalidad. Los órganos diana son el ojo, el corazón, el riñón, el cerebro y los grandes vasos. Si no se trata la HTA, un 50% de los pacientes afectos fallecen por enfermedad coronaria o insuficiencia cardiaca, un tercio de los accidentes vasculares cerebrales y un 10-15% de insuficiencia renal. En definitiva, la HTA constituye un factor de riesgo mayor para presentar un accidente cerebral isquémico transitorio (respuesta 1 correcta) y al traducir afectación en órgano diana, claramente es la opción con peor pronóstico."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Varón fumador de 57 años, que acude a su consulta por dolores, calambres en las extremidades inferiores, que aparecen con el ejercicio y desaparecen con el reposo. Al explorarlo encuentra que no palpa los pulsos distales en la extremidad, y cierto grado de atrofia muscular. Señale la FALSA:",
+      "opciones": [
+        "La angiografía debe emplearse como diagnóstico de rutina.",
+        "La mayor parte de la mortalidad en estos enfermos se debe a infarto de miocardio.",
+        "La claudicación intermitente constituye la clínica más característica.",
+        "La prueba de esfuerzo se emplea para objetivar las limitaciones funcionales."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Por la clínica que presenta este paciente, puedes deducir fácilmente que se trata de una isquemia arterial crónica manifestada con claudicación intermitente. Recuerda que generalmente el dolor se localiza en la pantorrilla porque casi siempre las oclusiones son femorales o femoropoplíteas. Como se señala en la opción 3, la supervivencia de estos pacientes está limitada por la presencia de enfermedad ateroesclerosa a otros niveles como las coronarias. El diagnóstico de la enfermedad oclusiva arterial casi siempre se hace mediante la historia clínica y la exploración física, pero pueden ser muy útiles técnicas no invasivas para determinar la gravedad de la enfermedad, como la ecografía, el doppler o las pruebas de esfuerzo. Sin embargo, la arteriografía es una prueba invasiva que no debe emplearse como prueba de rutina, pero sí tiene utilidad para planificar la cirugía."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Con respecto al tratamiento de los pacientes con enfermedad coronaria aterosclerótica y angina de esfuerzo crónica, es FALSO que:",
+      "opciones": [
+        "Los antagonistas del calcio son especialmente útiles cuando se asocia vasoespasmo.",
+        "Los pacientes con lesión proximal de la arteria circunfleja y de la arteria coronaria derecha con buena función del ventrículo izquierdo, son subsidiarios de tratamiento quirúrgico.",
+        "La angina nocturna o de decúbito de algunos pacientes es mejorada con tratamiento con diuréticos.",
+        "La actividad de los nitratos depende de su absorción, que es más rápida y completa a través de las mucosas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un principio, un paciente con lesiones en las arterias derecha o circunfleja es subsidiario de manera primaria de angioplastia (opción 2 falsa, por lo que la marcamos), sobre todo si tiene una buena función del ventrículo izquierdo."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Paciente con hinchazón unilateral de la pierna derecha junto con aumento de la temperatura en la misma y eritema. Presenta dolor en la pantorrilla que aumenta durante la dorsiflexión del pie. No refiere traumatismos ni esfuerzos previos, pero sí haber estado una semana en cama a consecuencia de un síndrome gripal. El diagnóstico más probable será:",
+      "opciones": [
+        "Trombosis venosa profunda.",
+        "Linfedema.",
+        "Hemorragia muscular.",
+        "Rotura de un quiste poplíteo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad baja sobre un tema que no es muy preguntado como son las enfermedades de las venas, aunque la TVP es necesario conocerla. La clínica que nos describe en la pregunta es típica, dolor de la pantorrilla, acompañada de tumefacción, rubor y aumento de las colaterales superficiales de la extremidad afecta. Además presenta el antecedente típico de encamamiento durante una semana. Presenta también el signo de Homans, que es dolor en la pantorrilla con la flexión dorsal del pie, pero no tiene mucha validez. La clínica de la rotura de un quiste poplíteo es similar a una TVP, y es típico de pacientes con artritis reumatoide. La clínica de la arteriosclerosis obstructiva en la arteria poplítea consiste en la disminución de los pulsos arteriales y la piel aparece fría y pálida. El linfedema presenta una tumefacción indolora de la extremidad afecta."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Cuál es el tratamiento de elección del síndrome de Wolff-Parkinson-White?",
+      "opciones": [
+        "Ablación de la vía lenta",
+        "Ablación del istmo cavo-tricúspide",
+        "Ablación del foco de la TV",
+        "Ablación de la vía accesoria"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Comentario: En el síndrome de WPW el tratamiento de elección es la ablación de la vía accesoria. La ablación de la vía lenta es el tratamiento de la TRIN, del istmo del flutter y del foco de la TV, como no puede ser de otra manera, de la TV."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿En cuál de los siguientes procesos NO es característica la presencia de soplo sistólico?:",
+      "opciones": [
+        "Estenosis aórtica.",
+        "Prolapso mitral",
+        "Mixoma auricular",
+        "Rotura de músculo papilar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Comentario: Tanto la estenosis aórtica como la insuficiencia mitral (bien por una rotura de cuerda/músculo, bien por un prolapso) cursan con un soplo sistólico. El mixoma auricular, el tumor más frecuente cardiaco, se localiza generalmente en la aurícula izquierda, y puede cursar con un ruido diastólico al impactar contra la válvula mitral al abrirse ésta, pero no cursa con un soplo sistólico."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Señale la respuesta FALSA en relación a la fisiopatología del taponamiento cardíaco:",
+      "opciones": [
+        "Es típico que las presiones de ambos ventrículos y aurículas, venas cavas y cavidad pericárdica sean iguales.",
+        "El inicio de la diástole (fase de llenado ventricular rápido) no está significativamente comprometido.",
+        "El cuadro clínico de taponamiento cardíaco descompensado se establece cuando el gasto cardíaco disminuye.",
+        "La presión intrapericárdica que determina el taponamiento cardíaco no depende sólo del aumento del líquido pericárdico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta directa de dificultad elevada que requiere conocimientos avanzados de la asignatura, como es la fisiopatología del taponamiento cardíaco. La clínica típica de un taponamiento se debe a la disminución del gasto cardíaco y a la congestión venosa , como puede ser la hipotensión, el aumento de la PVC, la disnea o la congestión hepática. El ECG presentará disminución de la amplitud del QRS y alternancia eléctrica de P- QRS- T. En el cateterismo se observaría una igualación de presiones telediastólicas de AD, VD, arteria pulmonar y presión de enclavamiento pulmonar. En el taponamiento está comprometida toda la diástole, por lo que no se observa onda \"y\" en el pulso venoso yugular. Cuando el inicio de la diástole no está comprometido es en la pericarditis constrictiva, donde la presión aumenta rápidamente cuando se llega al límite de la distensibilidad del pericardio, para luego mantenerse en una meseta (morfología de dip- plateau). La presión intrapericárdica que determina el taponamiento depende del aumento del líquido pericárdico y de la rapidez con la que aparezca éste."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "La causa más frecuente de pericarditis constrictiva en la actualidad es:",
+      "opciones": [
+        "Tuberculosa.",
+        "Idiopática.",
+        "Histoplasmosis.",
+        "Infección piógena."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta teórica de dificultad baja sobre las enfermedades del pericardio. La mayoría de las pericarditis contrictivas son de causa desconocida, y entre las que se reconoce la causa, una de las más frecuentes es la pericarditis tuberculosa. Otras causas de pericarditis constrictiva son los episodios frecuentes de pericarditis urémica de la insuficiencia renal, la cirugía cardíaca y la irradiación del mediastino. Aunque las pericarditis agudas pueden degenerar en taponamiento cardíaco o en pericarditis constrictiva, esto es poco frecuente."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Un varón de 38 años de edad presenta un episodio de dolor torácico retroesternal y precordial izquierdo que se extiende a la espalda y al borde del trapecio y que aumenta con la inspiración. En el ECG se objetiva ascenso difuso del segmento ST de concavidad superior con descenso en aVR. En la analítica se demuestra elevación de la fracción MB de la creatinfosfoquinasa. ¿Cuál de las siguientes recomendaciones NO le parece adecuada?:",
+      "opciones": [
+        "Reposo en cama.",
+        "Anticoagulantes orales.",
+        "Vigilancia de las presiones arterial y venosa.",
+        "Realizar un ecocardiograma."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de un paciente con pericarditis aguda idiopática. Los signos que nos hacen sospechar esta patología son los siguientes:\n\n- Dolor precordial irradiado a trapecio\n\n- Ascenso difuso del ST, cóncavo hacia arriba\n\n- Elevación de enzimas cardiacas\n\nEl tratamiento recomendado de esta patología son los AINEs; excepcionalmente los glucocorticoides. El uso de anticoagulantes está contraindicado, por el riesgo de transformación hemorrágica."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Un paciente hipertenso acude a Urgencias con dolor torácico agudo, cuya intensidad ha ido en aumento desde su aparición, y es máxima en este momento. Este dolor se irradia a la espalda y al abdomen. En la exploración, encontramos asimetría de pulsos arteriales periféricos y datos auscultatorios sugestivos de insuficiencia aórtica aguda. La radiografía de tórax muestra ensanchamiento mediastínico. Señale cuál de las siguientes opciones elegiría para confirmar el diagnóstico de sospecha:",
+      "opciones": [
+        "Electrocardiograma.",
+        "Ventriculografía isotópica.",
+        "Gammagrafía pulmonar de ventilación-perfusión.",
+        "Ecocardiograma transesofágico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad baja, no puedes dudar sobre el diagnóstico, ya que describen el caso clínico típico de una disección de aorta: hipertenso, con dolor torácico irradiado a la espalda y asimetría de pulsos, con soplo de IAo y ensanchamiento mediastínico. Para el diagnóstico se debe realizar ecotransesofágico y, si no se dispone, del mismo TAC."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "El paciente con una indicación menos establecida de implantación de un resincronizador cardiaco con vistas a mejorar el pronóstico y/o la clase funcional/morbilidad es",
+      "opciones": [
+        "Paciente con insuficiencia cardiaca sintomática en ritmo sinusal con QRS de duración >150mseg y morfología de bloqueo de rama izquierda del Haz de His (BRIHH) y fracción de eyección del ventriculo izquierdo (FEVI) < 35% a pesar de tratamiento médico óptimo.",
+        "Paciente con insuficiencia cardiaca sintomática en ritmo sinusal con QRS de duración >120mseg y morfología de BRIHH y FEVI < 35% a pesar de tratamiento médico óptimo.",
+        "Paciente con insuficiencia cardiaca sintomática en ritmo sinusal con QRS de duración >150mseg y morfología de bloqueo de rama derecha del Haz de His y FEVI < 35% a pesar de tratamiento médico óptimo.",
+        "Paciente con implante de marcapasos endocavitario en ventrículo derecho con QRS no estimulado de duración <120mseg y con FEVI normal que presenta empeoramiento refractario de la IC coincidiendo con una elevada proporción de estimulación y a pesar de tratamiento médico óptimo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los pacientes con QRS de duración menor de 130mseg no se benefician de la TRC y, de hecho, su implante está contraindicado (indicación clase III con nivel de evidencia A). El resto de las situaciones tienen indicación de implante del dispositivo, aunque la indicación en el paciente de la opción 1 es el que más evidencia se ha observado (indicación clase I con nivel de evidencia A)."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿Cuál de las siguientes es la complicación mecánica del infarto que se presenta con mayor frecuencia?:",
+      "opciones": [
+        "Comunicación interventricular postinfarto.",
+        "Fibrilación ventricular.",
+        "Rotura cardíaca.",
+        "Aneurisma del ventrículo izquierdo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La complicación arrítmica causa más frecuente de mortalidad extrahospitalaria es la FV primaria. La causa más frecuente de mortalidad intrahospitalaria es el shock cardiogénico. La complicación mecánica más frecuente y segunda causa de mortalidad intrahospitalaria es la rotura de pared libre del VI. La rotura cardiaca es la segunda complicación mecánica más frecuente y una de las causas más frecuentes de mortalidad. Es más frecuentes en mujeres, personas de edad avanzada, con hipertensión previa, de bajo peso, cuando se utiliza TPA como fibrinolítico y en IAM evolucionados. Suele aparecer como el resto de las complicaciones mecánicas en los primeros 10 o 12 días de evolución del IAM. Cuando se produce una rotura de la pared libre del ventrículo inmediatamente se produce salida de sangre hacia el pericardio generando un taponamiento hemorrágico que produce colapso de las cavidades derechas y la muerte en disociación electromecánica. Ocasionalmente se presenta de manera subaguda con hipotensión, ingurgitación yugular observándose en el ecocardiograma el derrame y el colapso de cavidades derechas. En esas circunstancias el tratamiento es con volumen, pericardiocentesis y cirugía de reparación urgente"
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Varón de 50 años que es trasladado a Urgencias por miembros del SUMMA tras haber sufrido un episodio presincopal acompañado de hipotensión en el que apreciaron la presencia de bigeminismo tras la realización de un ECG. El paciente nos refiere como antecedentes personales que es hipertenso, que fue intervenido quirúrgicamente hace cinco años por una obstrucción carotídea derecha y que hace tres años estuvo en estudio por Cardiología debido a dolores torácicos atípicos (aunque no aporta informe, recuerda que le dijeron “que la ergometría había sido negativa”). Refiere que llevaba desde el día anterior con un dolor continuo, pero soportable, en el hombro derecho, sin antecedente traumático y que no había respondido a la toma de analgésicos (paracetamol). También refiere que durante la noche tuvo un par de despertares con sensación de “ligero ahogo”, pero que no le dio mayor importancia. En la exploración presenta: TA 90/55 mmHg, FC 90 lpm, FR 30 rpm, palidez cutánea y cianosis labial. A la auscultación presenta un soplo pansistólico, de predominio en mesocardio y borde esternal izquierdo. Se realiza ECG, que muestra imagen de necrosis miocárdica anterior evolucionada. Se le practica Rx de tórax con claros signos de insuficiencia cardiaca. Se realiza extracción de enzimas cardiacas, que confirman analíticamente la existencia de un IAM anteroapical. Se inicia tratamiento con diuréticos y aminas simpaticomiméticas, mejorando parcialmente la situación del paciente. Para completar el estudio, se efectúa un ecocardiograma urgente para confirmar el diagnóstico de sospecha. Con respecto a la entidad que sospecha, es INCORRECTO que:",
+      "opciones": [
+        "El tratamiento de elección es la cirugía precoz.",
+        "El balón de contrapulsación intraaórtico puede ser de utilidad para su estabilidad clínico-hemodinámica previo al traslado al quirófano.",
+        "Dada la situación del paciente, lo más recomendable es el manejo conservador con tratamiento médico.",
+        "En ocasiones se puede intentar una reparación percutánea."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La rotura del tabique precisa cirugía siempre (opción 3 incorrecta, por lo que la marcamos). Aunque el paciente se haya estabilizado, precisará ser intervenido, ya que el “agujero” que tiene en el tabique interventricular en cualquier momento se puede abrir más y empeorar las cosas."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Sobre las arritmias supraventriculares en el seno del IAM señalar la respuesta FALSA:",
+      "opciones": [
+        "La taquicardia sinusal es la arritmia más frecuente dentro de las taquicardias supraventriculares.",
+        "El flutter y la fibrilación auricular suelen ser secundarios a insuficiencia ventricular izquierda.",
+        "En presencia de la insuficiencia ventricular izquierda, el tratamiento de la fibrilación auricular con respuesta ventricular rápida es el verapamil.",
+        "Los betabloqueantes son el tratamiento de elección en la taquicardia sinusal secundaria a estimulación simpática aumentada."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las arritmias supraventriculares en la fase aguda del IAM suelen ser secundarias a insuficiencia cardiaca aguda con elevación de las presiones de llenado auriculares que hace que sean eléctricamente inestables. A veces también son secundarias a isquemia del miocardio auricular. El tratamiento es similar al de estas arritmias fuera de la fase aguda del IAM. En el caso que nos ocupa, si un paciente presenta fibrilación auricular acompañada de insuficiencia cardiaca el tratamiento más adecuado es la digoxina, tratando de evitar los fármacos con efectos inotrópico negativos que deprimen más la contractilidad del ventrículo izquierdo como el verapamil o el diltiazem. En caso de que las arritmias supraventriculares generen inestabilidad hemodinámica importante el tratamiento consistiría en la cardioversión eléctrica urgente."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "En una situación de insuficiencia cardiaca, el corazón presenta distintos mecanismos adaptativos. ¿Cuál de los siguientes NO es correcto?",
+      "opciones": [
+        "Inhibición del sistema arginina-vasopresina, que genera vasoconstricción y retención hidrosalina.",
+        "Desarrollo de hipertrofia miocárdica, para normalizar la sobrecarga de la pared ventricular.",
+        "Activación del sistema nervioso simpático, que aumenta la contractilidad ventricular.",
+        "Alteraciones en la producción de energía en el miocardio y modificaciones en la matriz extracelular de los miocardiocitos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta básica de fisiopatología de la insuficiencia cardiaca. Hoy en día la teoría más aceptada es la neurohormonal donde, ante un daño miocárdico que disminuye el aporte de oxígeno a los órganos y tejidos, hay una activación del sistema nervioso simpático (taquicardización, vasoconstricción, aumento de la contractilidad), del sistema renina-angiotensina-aldosterona (aumento de la presión arterial, vasoconstricción, aumento del tono simpático, hipertrofia y fibrosis miocárdica) y de la hormona antidiurética (ADH), también conocida como arginina vasopresina (AVP), que fundamentalmente produce vasoconstricción y reabsorción de agua a nivel tubular renal. Por estos motivos, la respuesta 1 es la falsa, ya que hay activación en vez de inhibición y son ciertas las demás."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Qué actitud tomaría ante un enfermo ingresado por presentar un infarto de miocardio que presenta extrasístoles ventriculares esporádicas, sin deterioro hemodinámico?",
+      "opciones": [
+        "Cardioversión eléctrica.",
+        "Lidocaína en dosis terapéuticas (50 mg).",
+        "Gluconato cálcico en dosis bajas.",
+        "No se da tratamiento específico, los betabloqueantes son útiles de por sí para suprimir la actividad ventricular ectópica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las extrasístoles frecuentes son prácticamente la norma en el infarto agudo de miocardio y no precisan tratamiento antiarrítmico específico, como la lidocaína. El tratamiento es la monitorización y el uso de betabloqueantes, que el paciente ya debería recibir por presentar un IAM. En caso de otras arritmias que pueden ocurrir en la fase aguda del infarto, la de mayor repercusión es la fibrilación ventricular primaria, que es la causa más frecuente de mortalidad antes de llegar al hospital. La fibrilación ventricular secundaria (que es la que aparece pasadas las primeras 48- 72 horas) es muy grave y, a diferencia de la primaria, afecta gravemente al pronóstico a largo plazo del paciente. Las taquicardias ventriculares monomórficas sostenidas no suelen ser muy frecuentes en la fase aguda del IAM. El tratamiento es similar al de las TVMS fuera de la fase aguda del IAM. Si el paciente está hemodinámicamente estable, se puede hacer un intento de cardioversión farmacológica, y en ese caso suele emplearse la lidocaína o la amiodarona. Si no cede, se realizaría cardioversión eléctrica."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Un enfermo con importante retraso en el crecimiento, hipotonía muscular, hepatomegalia, agrandamiento de los ventrículos cerebrales, alteraciones oculares de diversa índole y retraso mental presentará además con MAYOR probabilidad una de las siguientes cardiopatías. Señálela:",
+      "opciones": [
+        "Derrame pericárdico.",
+        "Comunicación interauricular (CIA).",
+        "Comunicación interventricular (CIV).",
+        "Pericarditis crónica constrictiva."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta muy dificil, ya que no encaja con el caso clínico típico de la pericarditis crónica constrictiva (marcamos la opción de respuesta 4). No te preocupes si la has fallado. Clínicamente la mayoría de las manifestaciones de la pericarditis constrictiva obedecen a la congestión sistémica. El déficit de llenado de las cavidades derechas justificaría síntomas como la hepatomegalia, la ascitis, edemas, etc. Si esta congestión venosa llega a afectar al lecho portal, podría producirse una enteropatía (pierde-proteínas por el edema en la pared del intestino, lo que produciría hipoproteinemia y signos de desnutrición: retraso en el crecimiento, hipotonía muscular, agrandamiento de los ventrículos cerebrales, retraso mental si todavía es un niño y no ha completado el desarrollo neurológico, etc.)."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Las ondas A en cañón rápidas y regulares son típicas de:",
+      "opciones": [
+        "taquicardia ventricular",
+        "taquicardia intranodal",
+        "fibrilación auricular",
+        "bloqueo AV completo"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las ondas A cañón se producen por la contracción simultánea de aurículas frente a ventrículos, circunstancia que ocurre en una serie de condiciones patológicas. Cuando las ondas A son rápidas y regulares, la causa más frecuente es la taquicardia intranodal."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "En qué fase de la diástole tiene lugar la contracción auricular?",
+      "opciones": [
+        "Al principio (proto)",
+        "En la mitad (meso)",
+        "Al final (tele)",
+        "Durante toda la diástole (holo)"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Comentario: La contracción auricular tiene lugar al final de la diástole (telediástole), por lo que la opción 3 es correcta. Utiliza esta pregunta para repasar la terminología de las fases del ciclo cardiaco y el momento en el que tienen lugar."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Mujer de 74 años, con historia de HTA de 15 años de evolución mal controlada con el tratamiento médico, acude a urgencias con un dolor torácico intenso, continuo, de aparición brusca y disnea. En la exploración física se observa taquicardia y asimetría de los pulsos carotídeos. La radiografía de tórax demuestra ensanchamiento mediastínico. ¿Qué diagnóstico le sugiere este cuadro?:",
+      "opciones": [
+        "Infarto de miocardio.",
+        "Tromboembolismo pulmonar.",
+        "Disección aórtica.",
+        "Pericarditis aguda."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Este caso clínico es la foto típica de la disección aórtica. Según progresa la disección, el dolor se va irradiando por la zona afectada (cuello, espalda). Por ello el dolor es migratorio, cambia de posición, a diferencia del aneurisma en expansión (dolor fijo). Las características de este dolor suelen ser “lancinantes”, “intensas” o “desgarradoras” (los casos clínicos del MIR siempre han usado estos adjetivos).\n\nObserva también que el paciente tiene antecedentes de hipertensión arterial (HTA) mal controlada. La HTA es muy importante como factor predisponente a esta enfermedad. En el caso de este paciente, el tratamiento sería quirúrgico, si el TAC confirma que afecta a aorta ascendente (irradia a cuello…). Cuando la disección se limita a aorta descendente, se recurre a tratamiento médico. Un dato muy importante, en este caso, es la asimetría de pulsos carotídeos, lo que sugiere una disección de aorta ascendente."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Mujer de 52 años que consulta por disnea de esfuerzo durante su actividad habitual. En la auscultación encontramos un soplo diastólico en área mitral que irradia hacia la axila. Radiografía de tórax: rectificación del borde izquierdo de la silueta cardiaca, con prominencia de las arterias pulmonares. Los síntomas persisten a pesar de tratamiento diurético. En el ecocardiograma se encuentra una estenosis mitral con área de 0,9 cm2, con aparato subvalvular íntegro; las valvas son móviles y no calcificadas. No hay insuficiencia mitral acompañante. ¿Cuál será el tratamiento más adecuado para esta paciente?:",
+      "opciones": [
+        "Tratamiento con nitratos y seguimiento periódico por ecocardiograma.",
+        "Valvuloplastia percutánea por balón.",
+        "Sustitución valvular por prótesis mecánica.",
+        "Anticoagulación crónica y seguimiento por ecocardiografía."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La paciente presenta un estenosis mitral severa a pesar de tratamiento médico adecuado. Por lo tanto tienen indicación de tratamiento mecánico sobre la válvula. Dado que se trata de una válvula bastante conservada móvil, poco calcificada y en ausencia de trombos en la aurícula izquierda y de insuficiencia mitral acompañante el tratamiento mecánico menos agresivo es la valvuloplastia mitral percutánea con balón. Consiste en realizar un cateterismo que lleva a través de un abordaje venoso y a través del tabique interauricular hasta la aurícula izquierda y la válvula mitral y allí se infla un balón a altas atmósferas que rompe la válvula permitiendo un mayor área de apertura. Este procedimiento solo debe realizarse en válvulas no muy calcificadas, sin insuficiencia acompañante y sin trombos alojados en la aurícula izquierda (por lo que es obligado realizar un ETE previo para descartar trombos). La complicación más frecuente es el desarrollo de insuficiencia mitral significativa por rotura excesiva de la válvula."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "El grado de estenosis aórtica se reconoce mejor con:",
+      "opciones": [
+        "Electrocardiograma.",
+        "Registro de electrocardiograma de 24 horas (Holter).",
+        "Radiografía de tórax póstero-anterior.",
+        "Ecocardiografía-doppler."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El grado de estenosis aórtica (Al igual que en las demás valvulopatías) se reconoce mejor con la ecocardiografía- doppler, que permite calcular el área valvular y el gradiente de presión, así como la anatomía valvular y el estado de las cavidades cardíacas.\n\nLa respuesta correcta por tanto es la 5."
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "materia": "farmacologia",
+  "paginaInicio": 43,
+  "paginaFin": 63,
+  "anomalias": [
+    "p44: en la pregunta sobre intoxicación por betabloqueantes el comentario dice dos veces 'como dice la opción 2'; la segunda cita (hipoglucemias graves sin clínica) corresponde en realidad a la opción 1",
+    "p55: en el comentario de la pregunta del aclaramiento renal hay un hueco en blanco donde debería figurar la fórmula (no se rasterizó); el cálculo sí aparece después en texto: 30 [mg/hora] / 6 [mg/L] = 5 L/hora",
+    "p59: en la pregunta del síndrome de secreción inadecuada de ADH el comentario dedica una frase a la lamotrigina, fármaco que no figura entre las opciones",
+    "p62: la opción 2, marcada como correcta, afirma que los salicilatos y barbitúricos 'se encuentran en gran parte ionizados, lo que facilita su absorción' en el estómago; contradice el principio que el propio documento expone en la p63 ('Solo la parte no ionizada es capaz de atravesar membranas')",
+    "p47: en el comentario los símbolos Na+ y H2O aparecen con superíndice/subíndice en el original y se transcriben linealizados"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 43,
+      "enunciado": "La cardiotoxicidad limita el uso de uno de los siguientes agentes antitumorales:",
+      "opciones": [
+        "Dactinomicina.",
+        "Doxorrubicina.",
+        "Bleomicina.",
+        "Cisplatino."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La doxorrubucina (adriamicina) es una causa bastante conocida de miocardiopatía dilatada. Por este motivo, cuando se utiliza en protocolos de quimioterapia, debemos realizar exámenes ecocardiográficos seriados, midiendo especialmente la fracción de eyección, que es el parámetro que más se altera en este tipo de miocardiopatía (disfunción sistólica)."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Todas las siguientes opciones referidas a la cinética de medicamentos son correctas, EXCEPTO:",
+      "opciones": [
+        "La biodisponibilidad de un fármaco es diferente según la vía de administración utilizada.",
+        "La forma farmacéutica puede modificar la velocidad de absorción de un fármaco.",
+        "Fármacos con importante metabolismo hepático de primer paso tienen alta biodisponibilidad oral.",
+        "La alcalinización de la orina aumenta el aclaramiento renal de fenobarbital (ácido débil)."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad media sobre conceptos farmacocinéticos. Veamos las opciones de respuesta:\n\n1.- La biodisponibilidad cambia en función de la vía, siendo máxima cuando se administra directamente en un vaso (intravenosa, intraarterial). En cambio, por vía oral no puede ser tan alta, dado que se verá disminuida por la absorción incompleta, fenómenos como el primer paso hepático, etc.\n\n2.- La velocidad de absorción puede ser influida por la forma farmacéutica. Todos conocemos que, en el mercado, existen preparados llamados “Retard”, donde la liberación es más lenta, por poner un ejemplo.\n\n3.- Cuando existe un importante primer paso hepático, el fármaco es metabolizado en esta víscera y, por tanto, alcanza en menor proporción el torrente sanguíneo; en consecuencia: a mayor primer paso hepático, menor biodisponibilidad (opción 3 incorrecta, por lo que la marcamos).\n\n4. - Son conceptos básicos respecto a la excreción de los fármacos. Si queremos evitar que un ácido se reabsorba, habría que alcalinizar la orina. Para evitar la reabsorción de una base, deberíamos acidificarlas. Un ejemplo, en clínica, sería lo que sucede con el ácido úrico: si pretendemos evitar que se reabsorba (para eliminarlo en mayor cantidad), habría que alcalinizar la orina, por ejemplo, con bicarbonato; en medio alcalino, además, los cálculos de urato tienden a disolverse, como se estudia en el capítulo de Urología del Manual CTO."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "¿Cómo se denomina el tiempo necesario para que se reduzca la concentración de fármaco en plasma 50%?",
+      "opciones": [
+        "Aclaramiento",
+        "Volumen de distribución",
+        "Vida media",
+        "Biodisponibilidad"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Vida media de eliminación: es el tiempo que tarda en eliminarse el 50% de la concentración plasmática alcanzada por una dosis del mismo, es decir, el lapso necesario para que la cantidad de agente presente en el cuerpo (o en el plasma sanguíneo) se reduzca a la mitad, mediante diversos procesos de eliminación\n\nAclaramiento: es el volumen de sangre o plasma que es depurado de una sustancia por unidad de tiempo mediante procesos de eliminación. Se expresa en volumen por unidad de tiempo, habitualmente litros/hora o mililitros/minuto\n\nVolumen de distribución: es el volumen teórico necesario para que en todos los órganos o compartimentos haya una concentración de éste igual a la que hay en el plasma sanguíneo. Se puede calcular dividiendo la dosis administrada del fármaco entre la concentración plasmática del mismo.\n\nBiodisponibilidad: Es la velocidad y cantidad con las cuales un fármaco es absorbido y alcanza su punto de acción en el organismo"
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Cuál de los siguientes hallazgos no es típico de la intoxicación por betabloqueantes:",
+      "opciones": [
+        "Hipoglucemia en pacientes con diabetes mellitus.",
+        "Bloqueo auriculoventricular completo.",
+        "Broncoespasmo.",
+        "Respuesta a la administración de insulina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los betabloqueantes, a través de su efecto beta-1 bloqueante producen un efecto cronotropo negativo, pudiendo desencadenar bradiarritmias graves como dice la opción 2. Por otro lado, tienen una acción beta-2 bloqueante, que induce broncoespasmo, como dice la opción 3. Los betabloqueantes enmascaran los síntomas adrenérgicos fisiológicos que ocurren como reacción a la hipoglucemia, por lo que pueden existir hipoglucemias graves sin clínica, como dice la opción 2. El antídoto es el glucagón, que además aumenta la glucemia, y no la insulina. Por tanto, respuesta 4 correcta."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Señale la relación FALSA entre el tóxico y su antídoto específico:",
+      "opciones": [
+        "Benzodiacepinas: Flumacenil.",
+        "Isoniacida: Piridoxina.",
+        "Antidepresivos tricíclicos: Fisostigmina.",
+        "Metanol: Etanol."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los antidepresivos tricíclicos no tienen antídoto específico. Se sabe que, a nivel cardíaco, la toxicidad es menor si se administra bicarbonato, pero desde luego no tiene sentido emplear fisostigmina (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Paciente en tratamiento con paracetamol con un dolor recidivante en el contexto en el que presentó el año previo una úlcera gástrica. ¿cúal sería el aintiinflamatorio de elección?",
+      "opciones": [
+        "Le mantendríamos con el paracetamol, cuando pase un tiempo remitirá el dolor.",
+        "Le recomendaríamos un AINE tal como el ibuprofeno, ya que la úlcera esta curada.",
+        "Le daríamos un celecoxib .",
+        "Le daríamos baja dosis de morfina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En este caso podríamos dar celecoxib ya que es selectivo y no produciría daño gástrico."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "¿Cuál de los siguientes fármacos NO tiene actividad antiinflamatoria?:",
+      "opciones": [
+        "Paracetamol.",
+        "Naproxeno.",
+        "Indometacina.",
+        "Diclofenaco."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es una de las más sencillas que pueden aparecer en el bloque de farmacología. Esperamos que nadie la haya fallado. El paracetamol no es un AINE, puesto que carece de acción antiinflamatoria, aunque posee una eficacia antipirética y analgésica comparable a la del ácido acetilsalicílico. Es el antipirético y analgésico de elección en los niños. No se conoce bien su mecanismo de acción, aunque se especula que probablemente actúe a nivel del sistema nervioso central. A dosis terapéuticos, es uno de los fármacos más seguros. Puede producir leves aumentos de las transaminasas y, a dosis superiores, excitación y mareo (en niños). Debes tener en cuenta que su uso prolongado puede producir nefropatía intersticial (nefropatía por analgésicos)."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Acude a su consulta un varón de 63 años para revisión de su Diabetes Mellitus tipo 2, diagnosticada hace un año y tratada con dieta, actividad física y metformina. Entre sus antecedentes destacan obesidad (IMC de 32,3), fumador de 14 paquetes/año e hipertrigliceridemia. Una vez analizados los resultados de sus últimos controles, se decide añadir un segundo fármaco para el control de su diabetes. Entre los siguientes ¿cuál cree usted que es el menos indicado?",
+      "opciones": [
+        "Sitagliptina",
+        "Repaglinida",
+        "Exenatida",
+        "Dapaglifozina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Dados los antecedentes de obesidad que nos describen en la pregunta, deberíamos evitar aquellos antidiabéticos orales que produzcan aumento de peso. Todas las opciones que nos dan producen una reducción del mismo salvo la 2, repaglinida, que lo aumenta, por lo que la marcamos."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Para revertir el efecto de diversos fármacos o tóxicos se disponen de diversos antídotos. Señale la relación \"Tóxico - Antídoto\" que considere INCORRECTA.",
+      "opciones": [
+        "Dicumarínicos - Vitamina K",
+        "Organofosforados - Neostigmina",
+        "Edoxaban - Andexanet",
+        "Inhibidores de la colinesterasa - Atropina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para manejar las intoxicaciones por determinados compuestos se dispone de fármacos con el objetivo de revertir su efecto, algunos de los más importantes se citan esta pregunta:\n\n- Respues 1 correcta: Los dicumarínicos son fármacos que reducen la síntesis de Vitamina K, por lo que uno de los antídotos que se pueden utilizar es la propia Vitamina K.\n\n- Respuesta 2 INCORRECTA, es la que debemos marcar: Los organofosforados son compuestos químicos que se encuentran principalmente en insecticidas, ejercen su acción inhibiendo la enzima Acetil-colinesterasa encargada de degradar la Ach, por lo tanto el efecto obtenido sería un efecto colinérgico exagerado. Para el manejo de estos pacientes se utiliza la Atropina (antagonista muscarínico) y NO la Neostigmina, la cual es otro inhibidor de la enzima acetilcolinesterasa.\n\n- Respuesta 3 Correcta: Igual que para revertir la acción de las heparinas disponemos del sulfato de protamina, para los antiVitK la Vit K, para los nuevos Anticoagulantes orales también disponemos de antídoto: para los Inhibidores directos del Factor Xa (como el edoxabán) disponemos de Andexanet, y para los Inhibidores directos de la Trombina (dabigatran) el Idarucizumab.\n\n- Respuesta 4 correcta: Como ya se mencionó con anterioridad, para revertir el efecto de cualquier fármaco inhibidor de la la colinesterasa, el fármaco a utilzar es la Atropina."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "La principal característica de un antiséptico:",
+      "opciones": [
+        "Poder germicida y bajo espectro de actuación.",
+        "No ser irritativo,",
+        "Eficacia del 100%",
+        "Poder germicida, actuar rápido y amplio espectro."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Un buen antiséptico debe ser germicida, poseer un amplio espectro de actuación y difundir rápida y fácilmente a través de los tejidos, actuar rápido y de manera eficaz. Sin dañar tejidos u objetos en el caso de tratarse de un desinfectante."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Con respecto a los antiinflamatorios no esteroideos (AINEs), es FALSO que:",
+      "opciones": [
+        "Su uso continuado aumenta el riesgo de sufrir úlceras gástricas.",
+        "A nivel renal se asocian a la retención de agua, sodio y potasio.",
+        "Actúan inhibiendo a las ciclooxigenasas y limitando el metabolismo del ácido araquidónico, aumentando la producción de prostaglandinas y tromboxanos.",
+        "La mayoría de los AINEs tienen un pKa entre 3,5-5,5 y una fijación elevada a proteínas plasmáticas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre los AINEs. Veamos las opciones de respuesta:\n\n1.- Aumenta el riesgo al inhibir la síntesis de PGs, las cuales tienen efecto protector sobre la mucosa gástrica.\n\n2.- Por el mismo hecho, al disminuir las PGs, disminuye su acción de inhibir la reabsorción de Na+ y H2O a nivel tubular; además, la inhibición de la producción de renina disminuye la de aldosterona, favoreciendo la hiperpotasemia.\n\n3.- Aunque la primera parte está bien, lo que ocurre al inhibir el metabolismo del ácido araquidónico no es el aumento, sino la disminución de PG y TX, disminuyendo por ende el proceso inflamatorio (opción 3 falsa, por lo que la marcamos).\n\n4.- Los AINEs son fármacos \"ácidos\" y tienen una UPP > 90%."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "El fenómeno a través del cual el efecto de un fármaco disminuye gradualmente cuando se administra de forma continuada o repetida se conoce por el nombre de:",
+      "opciones": [
+        "Refractariedad",
+        "Desensibilización",
+        "Antagonismo",
+        "Interacción"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Efectivamente, la definición del comentario hace referencia a la desensibilización o taquifilaxia,que puede deberse a mecanismos muy diferentes entre los que destacan las alteraciones o pérdidas de los receptores, el agotamiento de los mediadores, el aumento de la degradación metabólica, la expulsión activa del fármaco del interior de las células (especialmente importante en quimioterápicos)…\n\nLa refractariedad, por su parte, hace referencia específicamente a la pérdida de eficacia terapéutica.\n\nEl antagonismoes la pérdida del efecto de un fármaco presencia de otro. Este antagonismo puede ser químico (por ejemplo el infliximab es un antagonista del factor de necrosis tumoral TNFalfa) o farmacocinético (la reducción del efecto anticoagulante de la warfarina al administrarlo junto a inductores de su metabolismo como el fenobarbital).\n\nLas interacciones farmacológicas son las alteraciones de los efectos de un fármaco debidas a la utilización reciente o simultánea de otros fármacos, alimentos o suplementos dietéticos. Se pueden dar en cualquier sentido, aumentando o disminuyendo los efectos del fármaco principal."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Varón de 73 años que consulta por disnea, acompañada de abundantes secreciones y broncoespasmo. En la exploración abdominal destaca aumento del peristaltismo abdominal y presencia de globo vesical. En la exploración neurológica usted observa que las pupilas del paciente están mióticas y poco reactivas. Entre sus antecedentes patológicos solo constan hipertensión arterial crónica, dislipemia y coxartrosis. El paciente no es fumador y refiere que los síntomas se iniciaron posteriormente a la fumigación casera de una plaga de cucarachas. En cuanto al cuadro que presenta el paciente, señale la respuesta CORRECTA:",
+      "opciones": [
+        "El tratamiento consiste en administrar atropina intravenosa.",
+        "Es muy probable que, al medir las constantes del paciente, éste presente hipertensión arterial y aumento de la frecuencia cardíaca.",
+        "El cuadro del paciente puede corresponder a una intoxicación aguda por insecticidas organofosforados causantes de un síndrome anticolinérgico.",
+        "El mecanismo de acción de los insecticidas organofosforados consiste en la inhibición de la acetilcolina, al interferir en su unión con los receptores postsinápticos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La intoxicación aguda por insecticidas organofosforados es una causa importante de morbimortalidad a nivel mundial. Su mecanismo de acción consiste en la inhibición de la enzima acetilcolinesterasa a nivel de las terminaciones nerviosas, favoreciendo la acumulación de acetilcolina (opción 4 incorrecta). Generan un síndrome colinérgico (opción 3 incorrecta) caracterizado por: broncoespasmo, aumento de las secreciones respiratorias, bradicardia, hipotensión (opción 2 incorrecta), diarrea, náuseas y vómitos, retención urinaria, miosis, cefalea, confusión e irritabilidad, entre otros. Su antídoto es la atropina, que actúa como antagonista muscarínico y se administra por vía intravenosa (opción 1 correcta)."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Por semivida de eliminación de un fármaco se entiende la cantidad de tiempo en que la concentración de fármaco en plasma se reduce a la mitad de su valor original. Supongamos un paciente pluripatológico ingresado en la planta de Medicina Interna; indique cuál de los siguientes factores contribuiría a REDUCIR la semivida de los fármacos que el paciente lleva pautados:",
+      "opciones": [
+        "Insuficiencia cardiaca.",
+        "Obesidad.",
+        "Envejecimiento.",
+        "Insuficiencia renal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La semivida de eliminación de un fármaco depende del volumen de distribución (directamente proporcional) y del aclaramiento del fármaco (inversamente proporcional). Como consecuencia, todos los factores que afectan a cualquiera de estas variables modificarán la semivida de eliminación. Por ejemplo, la insuficiencia cardiaca, renal o hepática DISMINUYEN el aclaramiento, por tanto, aumentarán la semivida del fármaco. El envejecimiento y la obesidad son factores que modifican el volumen de distribución, la obesidad significa más masa adiposa y, por tanto, más distribución; mientras que el envejecimiento implica menos masa muscular y, por tanto, menor distribución, que se traduce en una REDUCCIÓN de la semivida (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "¿Por qué están contraindicadas las fluoroquinolonas en niños?:",
+      "opciones": [
+        "Pueden inhibir la ADN girasa del niño.",
+        "Pueden afectar a los cartílagos en crecimiento.",
+        "Producen hiperplasia e hipertrofia de los lipocitos, condicionando una eventual obesidad futura.",
+        "Aumentan la incidencia de crisis febriles en la infancia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los efectos adversos de los principales antibióticos se preguntan con frecuencia. Además, tiene especial interés conocer cuáles son teratógenos o están contraindicados en niños, ya que facilita contestar preguntas sobre tratamientos antibióticos en gestantes y niños. El principal efecto adverso de las fluoroquinolonas, que las contraindica en niños y gestantes, es que lesionan los cartílagos de las articulaciones en desarrollo. Además producen tendinitis y roturas tendinosas. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Casi todos los pacientes en tratamiento con fármacos neurolépticos sufren un temblor fino. En hasta un 15% hay síntomas más incapacitantes como rigidez, bradicinesia y sialorrea…. Se trata de un parkinsonismo farmacológico, un efecto adverso que comienza gradualmente semanas después de empezar con el tratamiento, afectando más a las mujeres añosas. El parkinsonismo se considera el efecto adverso más importante de los neurolépticos. Entre los fármacos capaces de producir parkinsonismo se encentran los siguientes EXCEPTO:",
+      "opciones": [
+        "Haloperidol",
+        "Selegilina",
+        "Levopromacina",
+        "Reserpina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El parkinsonismo es una complicación frecuente del tratamiento con fármacos que deplecionan la dopamina, como la Reserpina. Los antipsicóticos antagonistas dopaminérgicos como las fenotiazinas (clorpromazina, levopromazina, mesoridazina..) y las butirofenonas (haloperidol). La selegilina (respuesta 2 correcta) es un inhibidor de la monoamino oxidasa B, que disminuye el catabolismo de la dopamina y resulta útil en el tratamiento del fenómeno ''on-off'' en los pacientes con enfermedad de Parkinson."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Los receptores colinérgicos son de dos tipos: muscarínicos y nicotínicos. Ambos están distribuidos por el cuerpo en distintas localizaciones, según el tipo de receptor ¿cuál de los siguientes binomios es ERRONEO?:",
+      "opciones": [
+        "Ganglios autónomos - nicotínicos.",
+        "Médula adrenal - nicotínicos.",
+        "Músculo liso - muscarínicos M1 y M2.",
+        "Epitelio glandular - muscarínicos M2 y M3."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es importante conocer bien la fisiología del sistema nervioso autónomo, pero esta pregunta es difícil y es comprensible que te haya planteado problemas. Los receptores nicotínicos se encuentran tanto en los ganglios autónomos como en la médula suprarrenal. Reciben tal nombre porque pueden ser estimulados por la nicotina. En cambio, los receptores muscarínicos se encuentran en las células que reciben los impulsos autónomos. Los receptores M1 se hallan en el sistema nervioso central y, tal vez, también en los ganglios parasimpáticos. En cambio, los receptores M2 se hallan en el músculo liso, cardíaco y epitelio glandular. No existen receptores M1 en la musculatura lisa (opción 3 correcta). Los receptores M3 debes asociarlos a los epitelios glandulares. Ha aparecido recientemente en el mercado un nuevo fármaco, llamado tiotropio, que antagoniza selectivamente los receptores M3. Este fármaco se utiliza fundamentalmente en el tratamiento del EPOC, por sus propiedades broncodilatadoras, y tiene como efecto secundario más importante la sequedad de boca."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "¿Cuál de las siguientes afirmaciones, relacionadas con la distribución de fármacos es FALSA?",
+      "opciones": [
+        "La albúmina es la principal proteína plasmática en términos de unión de fármacos.",
+        "La fracción de droga unida a proteínas de transporte es farmacológicamete inactiva.",
+        "La biodisponibilidad de un fármaco suministrado por vía intravenosa es igual a la cantidad de medicamento administrado.",
+        "Los fármacos que se combinan a proteínas plasmáticas para su distribución lo hacen de manera irreversible."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Todas las afirmaciones son verdaderas a excepción del enunciado 4 (opción a elegir). Los fármacos se combinan con proteínas plasmáticas (como la albúmina, lipoproteínas alfa y beta o metaglobulinas con la transferrina) para su distribución. Sin embargo, esta unión es en la mayor parte de los casos REVERSIBLE, ya que sólo la fracción de fármaco libre es activa.\n\nLa vida media del complejo fármaco-proteína transportadora varía en un intervalo amplio de tiempo, pudiendo actuar como reservorio para la liberación gradual de algunos principios activos."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Un paciente en tratamiento con un antibiótico a altas dosis sufrió el siguiente cuadro: inicialmente estuvo confuso, para posteriormente desarrollar mioclonías multifocales y finalmente, a las 48 horas del inicio de los síntomas, francas crisis epilépticas. Su nivel de conciencia era bajo, y en la exploración neurológica destacaba una evidente hemiparesia izquierda. Presentaba una llamativa gingivorragia. En las pruebas de laboratorio destacaba una discreta insuficiencia renal. Una tomografía computadorizada craneal sin contraste reveló una gran hemorragia lobar frontal derecha. ¿Qué antibiótico pudo producir semejante infortunio?:",
+      "opciones": [
+        "Gentamicina.",
+        "Eritromicina.",
+        "Cotrimoxazol.",
+        "Penicilina G."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: El paciente del caso presenta dos efectos adversos de las penicilinas. En primer lugar, presenta la encefalopatía, que cursa clínicamente con mioclonías y convulsiones clónicas o tónico-clónicas de extremidades que pueden acompañarse de somnolencia, estupor y coma; se ha visto sobre todo con penicilina G, pero también se ha descrito con otras penicilinas y algunas cefalosporinas cuando alcanzan concentraciones elevadas en LCR. El segundo efecto es la alteración hematológica, que en el caso clínico se trata de una disfunción plaquelar que se manifiesta a través de la gingivorragia y la hemorragia cerebral. También puede aparecer anemia y neutropenia. Las alteraciones hematológicas se han descrito más a menudo con las penicilinas con actividad antipseudomonas (carbenicilina y ticarcilina), pero pueden ser producidas también por las restantes penicilinas. De todas maneras, el efecto adverso más importante de las penicilinas son las reacciones de hipersensibilidad, que son cruzadas con los otros betalactámicos."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "La farmacocinética es la rama de la farmacología que estudia los procesos a los que está sometido un fármaco en el interior del organismo, desde el momento que se administra hasta que es completamente eliminado. Consta de varias fases que se engloban bajo el acrónimo de LADME (Liberación, Absorción, Distribución, Metabolización y Eliminación). Respecto a una de estas fases, la distribución, es interesante conocer el concepto de Volumen Aparente de Distribución (VAD). ¿Cuál de los siguientes enunciados correspondería con la definición del VAD?",
+      "opciones": [
+        "Cantidad y velocidad a la que un fármaco llega de forma inalterada a la circulación sistémica.",
+        "Volumen teórico necesario para que en todos los órganos o compartimentos haya una concentración de este igual a la que hay en el plasma sanguíneo.",
+        "Tiempo que debe transcurrir para que la concentración de un fármaco disminuya a la mitad.",
+        "Volumen de un fármaco que es eliminado en el \"efecto de primer paso\"."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos encontramos con un enunciado que podemos obviar casi completamente, puesto que al final se nos realiza una pregunta de concepto teórico directo. El VAD es exactamente lo que se expone en la Respuesta 2 correcta, así, es un término farmacológico usado para cuantificar la distribución de un medicamento en todo el cuerpo posterior a la administración vía oral o parenteral. Se define como el volumen teórico necesario para que en todos los órganos o compartimentos haya una concentración de este igual a la que hay en el plasma sanguíneo y se calcula según la fórmula: Volumen de distribución (VD) = Dosis administrada / Concentración plasmática (CP).\n\nEs interesante repasar el resto de respuestas, puesto que se refieren a otros conceptos importantes de la farmacología:\n\n-R1: Cantidad y velocidad a la que un fármaco llega de forma inalterada a la circulación sistémica. Es la definición de biodisponibilidad.\n\n-R3: Tiempo que debe transcurrir para que la concentración de un fármaco disminuya a la mitad. Es la definición de la vida media o semivida de eliminación de un fármaco.\n\n-R4: \"Efecto de primer paso\". Cuando se administra un fármaco por otra vía diferente a la parenteral, la cantidad del fármaco que se incorpora a la circulación sistémica no es la total, sino que una parte se elimina en el hígado previamente. Es lo que se conoce como \"efecto de primer paso\"(vías como la sublingual pueden también saltar este primer paso)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Con respecto a los agentes quimioterápicos, señale cuál de los siguientes NO es un agente alquilante:",
+      "opciones": [
+        "Ciclofosfamida.",
+        "5-fluorouracilo.",
+        "Clorambucil.",
+        "Dacarbazina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El 5-FU pertenece al grupo de los ANTIMETABOLITOS. En concreto, es un antagonista de la pirimidina (marcamos la opción de respuesta 2). Las demás opciones de respuesta sí son agentes alquilantes:\n\n- La ciclofosfamida y el clorambucil son mostazas nitrogenadas.\n\n- La dacarbazina es un triazeno."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "A continuación se detalla una lista de toxinas con sus respectivos antídotos. ¿Qué opción NO es correcta?",
+      "opciones": [
+        "Toxina: Mercurio - Antídoto: Dimercaprol.",
+        "Toxina: Monóxido de carbono - Antídoto: 100% oxígeno.",
+        "Toxina: Cianuro - Antídoto: Nitrito + Tiosulfato.",
+        "Toxina: Plomo - Antídoto: N-acetilcisteína."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "1) En muchos casos, la intoxicación provocada por metales pesados (como es el caso del mercurio) se trata con agentes quelantes (como el dimercaprol), que son moléculas que se unen fuertemente al metal formando un complejo.\n\n2) El monóxido de carbono es un gas que induce hipoxia. Por ello, su tratamiento está encaminado a medidas que favorezcan la ventilación bien sea artificial, inhalación de aire fresco, o 100% oxígeno (reduce la vida media de la carboxihemoglobina).\n\n3) El cianuro tiene una alta afinidad por el catión férrico (Fe 3+). Por ello, la intoxicación de cianuro se trata en primer lugar con nitrito, con el fin de inducir metahemoglobina. La metahemoglobina se une al cianuro, extrayendo el cianuro de las oxidasas de los citocromos. Posteriormente el tiosulfato transforma el cianuro en la metahemoglbina a tiocianato, que es una sustancia excretable.\n\n4) El plomo es un metal pesado, por lo que su intoxicación debería tratarse con agentes quelantes como el EDTA o el dimercaprol. Por otro lado, la N-acetilcisteína es un antídoto que se usa en casos de intoxicación con acetaminofeno."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "¿Cuál de las siguientes vías de administración tiene primer paso hepático?",
+      "opciones": [
+        "Vía intravenosa.",
+        "Vía sublingual.",
+        "Vía cutánea.",
+        "Vía rectal"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Parte de las venas de la región rectal desembocan en el sistema porta, por lo que, si bien es parcial, esta vía de administración presenta primer paso hepático. Sin embargo, el resto de opciones no pasan por el sistema porta."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Cuál de los siguientes fármacos no se monitoriza con sus niveles plasmáticos:",
+      "opciones": [
+        "Heparina sódica.",
+        "Ácido valproico.",
+        "Vancomicina.",
+        "Litio."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La actividad anticoagulante de la heparina sódica (heparina no fraccionada) se monitoriza a través del tiempo de Cefalina o tiempo de tromboplastina parcial activado (TTPA), que debe estar entre 1,5 y 2,5; no se miden sus niveles plasmáticos. Por tanto, respuesta 1 correcta. Los fármacos que suelen monitorizarse con sus niveles en plasma son la digoxina, el litio, los anticomiciales como el ácido valproico, los antibióticos nefrotóxicos (vancomicina y aminoglucósidos) y los inhibidores de la calcineurina (inmunosupresores)."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "¿Cuál de los siguientes antimicrobianos de primera línea para el tratamiento de la tuberculosis es considerado un profármaco?",
+      "opciones": [
+        "Isoniazida.",
+        "Rifampicina.",
+        "Etambutol.",
+        "Estreptomicina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "De los fármacos de primera línea para el tratamiento de la tuberculosis, dos de ellos pueden ser considerados profármacos: la isoniazida y la pirazinamida (respuesta 1 correcta). La isoniazida necesita de la catalasa bacteriana para producir su metabolito activo, encargado de la inhibición de la síntesis de los ácidos micólicos, componente fundamental de la pared celular de la micobacteria."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Atiende a un paciente de 22 años en urgencias llevado por sus padres tras ingerir lejía como intento autolítico. Debe tener algunos conceptos claros. Señale cuál de las siguientes es una afirmación cierta:",
+      "opciones": [
+        "La lejía es un ácido, y por tanto menos lesivo que si fuera un álcali.",
+        "Debe procederse a lavado gástrico en el menor tiempo posible.",
+        "El principal riesgo y problema a descartar es una perforación esofágica con mediastinitis.",
+        "Debe demorarse la endoscopia, al menos 48 horas, por el alto riesgo de perforación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los cáusticos tienen propiedades histolíticas muy dañinas. Sin embargo, la exposición a un álcali como la lejía (opción 1 falsa) es mucho peor, porque desarrolla una necrosis licuefactiva que evoluciona rápidamente a la perforación esofágica, la mediastinitis química y el fallecimiento. Los ácidos asocian necrosis coagulativa, que produce una escara que puede proteger de la perforación. Por tanto, respuesta 3 correcta. El lavado gástrico como dice la opción 2 está contraindicado porque puede empeorar las lesiones. La endoscopia debe realizarse en las primeras 24 horas porque no existe correlación clínica-gravedad y la actitud terapéutica y pronóstica depende de las lesiones objetivadas"
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Si la concentración plasmática de un fármaco en un paciente es 6 miligramos/litro y su velocidad de excreción renal es 30 miligramos/hora, el aclaramiento renal del fármaco será de:",
+      "opciones": [
+        "5 horas.",
+        "0,5 mg/minuto.",
+        "5 litros/hora.",
+        "1 mg/hora."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La farmacocinética es la rama de la farmacología que estudia los procesos a los que un fármaco es sometido a través de su paso por el organismo, de manera que trata de dilucidar qué sucede con un fármaco desde el momento en el que es administrado hasta su total eliminación del cuerpo. Comprende el estudio de la absorción, distribución, metabolismo y excreción de un fármaco. Esta pregunta se centra en el proceso de excreción renal del fármaco y para poder contestarla adecuadamente se debe conocer el concepto de aclaramiento renal. De manera general, el aclaramiento de una sustancia es la cantidad de plasma que queda libre de una sustancia en 1 minuto de paso de la sangre por el ovillo glomerular. Aplicándolo a la farmacología, el aclaramiento (clearance, CL) es el volumen de plasma que queda libre de fármaco por unidad de tiempo. El aclaramiento es una constante para cada fármaco y viene dado en mL/minuto (o mL/hora o litros/hora). Si queremos expresar esta definición en forma de fórmula tendríamos que el aclaramiento es la relación entre la velocidad de eliminación renal (mg/min) y la concentración plasmática (mg/mL):\n\nAplicando este concepto, se observa que solamente conociendo la definición de aclaramiento renal se pueden eliminar todas las opciones de respuesta, excepto la 3, puesto que no contienen las unidades de medida en las que se expresa el aclaramiento renal. En caso de que hubiera más de una opción de respuesta con las unidades correctas en las que se expresa el aclaramiento renal, para llegar a la correcta habría que aplicar la fórmula del aclaramiento renal y los datos para emplearla los obtenemos del enunciado. En él nos dicen que la velocidad de excreción renal es de 30 mg/ hora y que la concentración plasmática es de 6 miligramos/ litros, de manera que:\n\nAclaramiento renal = 30 [mg/hora] / 6 [mg/L] = 5 L/ hora (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "La edad avanzada supone cambios en la en farmacocinética. Cuál de las siguientes opciones es cierta:",
+      "opciones": [
+        "Aumento del aclaramiento renal.",
+        "Aumento del porcentaje de grasa corporal.",
+        "Aumento del metabolismo hepático.",
+        "Aumento de la presión oncótica del plasma."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En la edad avanzada se producen cambios importantes a nivel de la farmacocinética. La composición corporal cambia, disminuyendo el porcentaje de agua (facilidad para intoxicación por fármacos hidrofílicos) y aumenta el porcentaje de grasa (facilidad para acumular fármacos lipofílicos y prolongar su efecto). Por tanto, respuesta 2 correcta. Asimismo, se reduce el aclaramiento renal y el metabolismo hepático (respuestas 1 y 3 falsas) y se reduce la síntesis de albúmina por el hígado, disminuyendo la presión oncótica y alterándose la distribución de fármacos (respuesta 4 falsa)."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Si la biodisponibilidad de un fármaco es del 75%, ¿cuál de las siguientes afirmaciones es cierta?:",
+      "opciones": [
+        "Que el 25% del fármaco es metabolizado en el hígado.",
+        "Que el 25% del fármaco no es eliminado presistémicamente.",
+        "Que hemos administrado el 75% de la dosis.",
+        "Que el 75% del fármaco administrado alcanza la circulación sistémica sin sufrir alteraciones."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta teórica de Farmacología. La biodisponibilidad se define como la fracción de dosis que alcanza, inalterada, la circulación sistémica. Es una estimación de la cantidad de fármaco que puede alcanzar el lugar de acción. La biodisponibilidad suele ser diferente según la vía de administración (opción 4 correcta). La vía que menor biodisponibilidad proporciona es la oral, debido al primer paso intestinal y hepático, y la vía de mayor biodisponibilidad es la intravenosa, ya que el fármaco entra directamente en el torrente circulatorio."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "¿Cuál de los siguientes antibióticos tiene MENOR interés como anaerobicida?:",
+      "opciones": [
+        "Cefotaxima.",
+        "Cloranfenicol.",
+        "Penicilina G.",
+        "Imipenen-Cilastatina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta es una pregunta de bastante dificultad, ya que pregunta por el menos anaerobicida. Sin embargo, aunque no sepas que la cefotaxima no tiene actividad frente a anaerobios, sí que debes conocer los principales antibióticos con actividad anaerobicida (opción 1 correcta). La mayoría de anaerobios siguen siendo sensibles a las penicilinas, siendo la penicilina G la de mayor actividad (aunque no cubre al Clostridium difficile y al Bacteroides fragilis). El imipenem también posee una excelente actividad frente a anaerobios, así como el cloranfenicol, aunque este último ya no se utilice de elección para ninguna infección. Como concepto general quédate con que las cefalosporinas no son activas frente a anaerobios, y menos las de tercera generación como la cefotaxima, que tienen su espectro de acción desplazado más bien hacia los gramnegativos. Recuerda solo la cefoxitina como única cefalosporina con acción anaerobicida. Aunque no aparezca en el enunciado, otros fármacos importantes en el tratamiento de las infecciones por anaerobios son la clindamicina y el metronidazol"
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Existen numerosos conceptos distintos en el campo de la Farmacocinética, algunos de ellos a veces confusos. Con el concepto \"vida media de un fármaco\", generalmente nos referimos a:",
+      "opciones": [
+        "El tiempo que tarda, de media, un fármaco en eliminarse del organismo de la mayoría de personas.",
+        "El tiempo que debe transcurrir, de media, desde que un fármaco se produce hasta que deja de ser efectivo.",
+        "El tiempo que tarda en eliminarse el 50% del fármaco de la sangre.",
+        "La velocidad media con la que un fármaco desaparece de la sangre."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: A pesar de que el término \"vida media\" puede inducir a equivocación, éste representa el tiempo que tarda en eliminarse el 50% del fármaco presente en la sangre de un individuo. También puede denominarse \"semivida de eliminación\"."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Mujer de 62 años consulta por malestar general de 2 días de evolución acompañado de fiebre elevada. En la auscultación cardíaca destaca soplo sistólico en posición mitral con irradiación hacia la axila. Ante la sospecha de endocarditis infecciosa se realiza ecocardiograma transtorácico en el que se observa la presencia de vegetaciones en la válvula mitral. Se cursan hemocultivos que son positivos para Stafilococcus Aureus Resistente a Meticilina (SARM). ¿Cuál de los siguientes antibióticos activos frente a SARM actúa formando canales iónicos en la membrana de las células?",
+      "opciones": [
+        "Vancomicina.",
+        "Tigeciclina.",
+        "Linezolid.",
+        "Daptomicina"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La daptomicina se une a las membranas de los Gram positivo en presencia de iones calcio, tanto en fase de crecimiento como estacionaria, formando un canal iónico que permite el paso de potasio (respuesta 4 correcta). La entrada de potasio genera una despolarización y conduce a una rápida inhibición de la síntesis de proteínas, ADN y ARN. Por otro lado, la vancomicina es un glucopéptido que actúa a nivel de la pared celular inhibiendo la síntesis de peptidoglucano (respuesta 1 incorrecta). La tigeciclina y el linezolid actúan a nivel del ribosoma inhibiendo la síntesis de proteínas (respuestas 2 y 3 incorrectas)."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Cuál de los siguientes fármacos es un agonista sobre su receptor:",
+      "opciones": [
+        "Pramipexol.",
+        "Haloperidol.",
+        "Biperideno.",
+        "Ibuprofeno."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El pramipexol es un agonista dopaminérgico (respuesta 1 correcta) utilizado en la enfermedad de Parkinson y en el síndrome de piernas inquietas mientras que el resto son antagonistas: el haloperidol bloquea receptores dopaminérgicos (neuroléptico), el biperideno es un antagonista muscarínico (anticolinérgico) y el ibuprofeno es un inhibidor de la COX (AINE)."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "¿Por qué efecto secundario están contraindicadas las fluoroquinolonas en niños menores de 18 años?:",
+      "opciones": [
+        "Por lesión de los cartílagos de las articulaciones en desarrollo demostrados en experimentación animal.",
+        "Por la intolerancia gástrica.",
+        "Por el alto riesgo de hepatotoxicidad.",
+        "Por la toxicidad a nivel del SNC."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las reacciones adversas más frecuentes de los principales antibióticos es un tema bastante preguntado, por lo que debes conocerlas, así como los antibióticos que están contraindicados durante la gestación e infancia. En efecto, las quinolonas están contraindicadas en menores de 18 años y gestantes porque lesionan los cartílagos de las articulaciones en desarrollo (opción 1 correcta). También producen tendinitis y roturas tendinosas en esta franja de edad. Otras reacciones que debes recordar son las molestias gastrointestinales, que son los efectos adversos más frecuentes, y sus efectos sobre el SNC que se manifiestan en forma de insomnio e inestabilidad. Por esta última razón también están contraindicados en ancianos y enfermos con lesiones en el SNC."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "La resistencia al cloranfenicol se produce por:",
+      "opciones": [
+        "Sobre la RNA polimerasa.",
+        "Alterando la DNA girasa.",
+        "Mediante la acetiltransferasa.",
+        "Inhibición competitiva con el PABA."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "No te preocupes si has fallado esta pregunta, pues es difícil. Sin embargo, los mecanismos de resistencia a los principales antibióticos, especialmente a la penicilina y a los aminoglucósidos, han sido preguntados alguna vez en los últimos años. Recuerda que el cloranfenicol actúa inhibiendo la síntesis proteica bacteriana mediante su unión a la unidad 50S del ribosoma bacteriano. El mecanismo de resistencia bacteriana más importante es la elaboración de enzimas inactivantes. Se trata de acetiltransferasas capaces de acetilar al cloranfenicol utilizando como fuente la acetilcoenzima A y transformarlo en derivados inactivos (opción 3 correcta) Este mecanismo de resistencia es extracromosómico y está mediado por plásmidos constitutivos en el caso de algunos bacilos gramnegativos, e inducibles en el de cocos grampositivos."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "¿Cuál de los siguientes antiepilépticos administrado en mujeres embarazadas puede producir, en el recién nacido, una deficiencia de factores de la coagulación dependientes de vitamina K?",
+      "opciones": [
+        "Etosuximida.",
+        "Valproato sódico.",
+        "Fenitoína.",
+        "Clonazepam."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una mujer en tratamiento con fenitoína durante el embarazo puede conllevar que el hijo desarrolle un déficit de factores de la coagulación vitamina K dependientes (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "¿Cuál de los siguientes antiinflamatorios no esteroideos inhibe de forma más selectiva la ciclooxigenasa 2?",
+      "opciones": [
+        "Etoricoxib.",
+        "Ibuprofeno.",
+        "Ácido acetil salicílico.",
+        "Ketorolaco."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta bastante fácil de farmacología sobre los antiinflamatorios no esteroideos (AINE), que como bien sabemos se clasifican por su selectividad o no para la inhibición de la enzima ciclooxigenasa (COX). En este caso que nos plantean, la opción que debemos marcar como correcta es la opción 1, puesto que es la única que cumple la premisa de ser inhibidor selectivo de la COX-2. Como truco, piensa que todos los AINE que terminan en “–coxib” pertenecen a esta familia."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "¿Cuál de los siguientes fármacos antiepilépticos puede ocasionar un síndrome de secreción inadecuada de ADH?:",
+      "opciones": [
+        "Carbamazepina.",
+        "Difenilhidantoína.",
+        "Primidona.",
+        "Fenobarbital."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de secreción inadecuada de ADH es una reacción adversa clásicamente relacionada con el uso de carbamazepina (respuesta 1 correcta). De la fenitoína, debes recordar la hipertricosis, la hiperplasia gingival y la aparición ocasional de adenopatías (\"pseudolinfoma\" por fenitoína). La lamotrigina no es de primera elección para ningún tipo concreto de epilepsia, y se utiliza fundamentalmente como coadyuvante cuando no bastan otros para controlar las crisis. La primidona tiene efectos secundarios similares a los del fenobarbital (sedación, depresión, déficit intelectual, disminución de la líbido)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Cuál de las siguientes asociaciones fármaco-vía de administración es incorrecta:",
+      "opciones": [
+        "Penicilina G Benzatina – Intramuscular.",
+        "Insulina Glargina – Intravenosa.",
+        "Mantoux – Intradérmica.",
+        "Meperidina – Subcutánea."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las insulinas son todas subcutáneas con la salvedad de la insulina rápida o regular y el análogo Lispro que pueden utilizarse por vía intravenosa. Por tanto, respuesta 2 correcta. La penicilina G Benzatina es un preparado intramuscular, el Mantoux es una técnica con preparado intradérmico para diagnóstico de contacto con tuberculosis, y la meperidina o petidina es un opioide mayor que se administra por vía parenteral, incluyendo subcutánea."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "El tratamiento MÁS útil para la intoxicación por organofosforados es:",
+      "opciones": [
+        "Naloxona",
+        "Bromuro de ipatropio",
+        "Atropina",
+        "Acetilcolina"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: La intoxicación por organofosforados inhibe a la acetilcolinesterasa mediante fosforilación lo que produce una intoxicación colinérgica aguda, con manifestaciones centrales y periféricas. Los síntomas comprenden náuseas, sudación, salivación, debilidad general y broncoespasmo, en casos leves; mientras que en los graves serían bradicardia, temblor diarreas dolor torácico, edema pulmonar, crisis convulsivas en incluso el coma. El tratamiento sería atropina y medidas generales.\n\nLa naloxona es el antídoto para la intoxicación por opiáceos; el bromuro de ipatropio es un broncodilatador y la acetilcolina produciría en dosis elevadas un cuadro similar al anterior"
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Paciente de 40 años que sufre una intoxicación laboral presentando los siguientes síntomas: miosis intensa, lagrimeo, broncoconstricción, diarrea, fasciculaciones neuromusculares y bradicardia. La sustancia RESPONSABLE de dicha intoxicación puede ser:",
+      "opciones": [
+        "Insecticida organofosforado.",
+        "Atropina.",
+        "Escopolamina.",
+        "Adrenalina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los inhibidores de colinesterasa son un grupo de plaguicidas que incluyen los organofosforados y los carbamatos; actúan inhibiendo la colinesterasa, incrementando los niveles de acetilcolina para unirse a receptores niptínicos, muscarínicos y otros del sistema nervioso central. Las manifestaciones de toxicidad más comunes en los adultos son bradicardia, hipotensión, miosis y broncorrea (respuesta 1 correcta). En los niños, a diferencia de los adultos, puede haber pocos síntomas muscarínicos y predominio de los síntomas nicotínicos (hipertensión, taquicardia, y midriasis), con depresión del sistema nervioso central, hipotonía, broncorrea y convulsiones. Como cualquier tratamiento empleado en Urgencias en pacientes de gravedad, el manejo inicial del paciente debe de ser enfocado al ABCDE del paciente."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "¿Cuál es el mecanismo de resistencia a penicilina más frecuente?:",
+      "opciones": [
+        "Producción de betalactamasas.",
+        "Alteración de la permeabilidad.",
+        "Alteración de las PBPs (proteínas fijadoras de penicilina).",
+        "Mutaciones enzimáticas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los mecanismos de resistencia bacteriana a los antibióticos han sido preguntados alguna vez en los últimos años, concretamente sobre los betalactámicos y aminoglucósidos. Recuerda que la producción de betalactamasas es el mecanismo de resistencia a penicilina más frecuente e importante (opción 1 correcta). Estas enzimas hidrolizan el anillo betalactámico e inactivan el antibiótico. Otro mecanismo importante es la alteración de las PBPs, donde se fijan los betalactámicos para ejercer su acción. Recuerda que este es el mecanismo de resistencia del S. aureus a la meticilina y del neumococo a la penicilina. El otro mecanismo menos importante es la alteración de la permeabilidad, mediante el cual los gramnegativos pierden las porinas que transportan el antibiótico hasta su punto de fijación (PBPs)."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Acude a su consulta un paciente que refiere cuadro de mareo y astenia que dificulta sus actividades diarias. En la entrevista, usted constata que recientemente ha iniciado tratamiento con amlodipino por hipertensión. En ese momento, decide tomar la presión arterial obteniendo unos valores de 95/75. Usted recuerda que la hipotensión es un efecto adverso frecuente de los tratamientos como el de su paciente, siendo concretamente catalogado como una reacción adversa tipo A ¿Cuál de las siguientes NO es una característica típica de las Reacciones Adversas a Medicamentos (RAM) tipo A?",
+      "opciones": [
+        "Las RAM tipo A están relacionadas con la dosis del fármaco, de tal manera que disminuyéndola se pueden eliminar.",
+        "Las RAM tipo A suelen tener alta incidencia, sin embargo se acompañan de poca mortalidad.",
+        "Las RAM tipo A suelen tener un mecanismo de aparición desconocido aunque sí que están relacionadas con la dosis.",
+        "Las RAM tipo A son predecibles."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las RAM tipo A se caracterizan por estar relacionadas con la dosis de fármaco que se administra y con su mecanismo de acción, de tal manera que son predecibles y evitables mediante ajustes en la dosis. La respuesta falsa es la 3 ya que este tipo de reacciones SÍ suelen tener un mecanismo de acción conocido (el mismo del fármaco)."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Varón de 45 años con trastorno bipolar en tratamiento crónico con litio. Deberemos tener especial precaución en las siguientes situaciones por el riesgo de intoxicación, excepto:",
+      "opciones": [
+        "Dieta hiposódica.",
+        "Insuficiencia renal.",
+        "Uso de diuréticos.",
+        "Polidipsia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los trastornos que alteran el equilibrio del sodio, especialmente cuando los niveles son bajos (diuréticos, que son natriuréticos; dieta hiposódica) asocian alto riesgo de intoxicación por reabsorción renal de litio (se reabsorbe lo más parecido al sodio deficitario). La insuficiencia renal impide el aclaramiento, por lo que también aumenta el riesgo de intoxicación. La polidipsia, o ingesta exagerada de agua, que por otro lado es frecuente en estos pacientes (por diabetes insípida nefrogénica o trastorno psiquiátrico) permite una adecuada eliminación renal y de alguna forma previene la insuficiencia renal, por lo que no es un factor de riesgo. Por tanto, respuesta 4 correcta."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "NO es útil para el tratamiento de infecciones del SNC, ya que no atraviesa la barrera hematoencefálica:",
+      "opciones": [
+        "Ceftriaxona.",
+        "Ceftazidima.",
+        "Gentamicina.",
+        "Ampicilina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es importante que recuerdes cuales de los antibióticos más empleados atraviesan bien la barrera hematoencefálica (BHE), ya que te ayudará a razonar los tratamientos de las infecciones del SNC. Es especialmente importante el metronidazol, ya que asociado con cefotaxima es el tratamiento de elección del absceso cerebral. Recuerda que la mayoría de antibióticos atraviesa con dificultad la BHE. Sin embargo, cuando existe meningitis, la permeabilidad aumenta y se pueden alcanzar concentraciones terapéuticas con las penicilinas (ampicilina) y con las cefalosporinas de tercera generación (ceftriaxona, ceftazidima). Fíjate que por eso se utilizan de elección en tratamiento de las diferentes meningits bacterianas. Otros antibióticos que atraviesan bien la BHE son el cloranfenicol, las sulfamidas, la isoniazida, la rifampicina y el cotrimoxazol. En cambio, los aminoglucósidos como la gentamicina alcanzan concentraciones en el LCR insuficientes para el tratamiento de infecciones del SNC aunque exista inflamación. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Los salicilatos y barbitúricos se absorben fundamentalmente en el estómago. ¿Cuál de las siguientes causas justifica este comportamiento?",
+      "opciones": [
+        "Los salicilatos y barbitúricos se prescriben en grandes dosis.",
+        "Las salicilatos y barbitúricos son, desde un punto de vista químico, ácidos débiles. Por lo tanto, debido al pH ácido del estómago, se encuentran en gran parte ionizados, lo que facilita su absorción por parte de dicho órgano.",
+        "El flujo de sangre en el estómago es elevado, y por ello la absorción de todos los fármacos en dicho órgano es muy alta.",
+        "El estómago es un órgano con una elevada superficie absorbente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El lugar de absorción de fármacos administrados por vía oral depende de múltiples factores. En el caso específico de los salicilatos y barbitúricos hay que considerar que se trata de ácidos débiles, por lo que son bien absorbidos por el estómago tal y como se justifica en el enunciado 2 opción correcta. Otros factores que afectan a la absorción de un medicamento son:\n\nSolubilidad del producto medicamentoso: los fármacos hidrosolubles de bajo peso molecular se absorben con mayor rapidez que los fármacos liposolubles.\n\nFormulación: Las fórmulas sólidas requieren desintegración y liberación de la forma farmacéutica. Las formas líquidas se absorben con mayor facilidad.\n\npH del compartimento corporal de absorción: los ácidos débiles se absorben con facilidad en el estómago. La absorción en el intestino delgado es similar en este sentido.\n\nConcentración del fármaco.\n\nFlujo de sangre en el sitio de absorción.\n\nÁrea de superficie absorbente."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Respecto a la absorción y distribución de los medicamentos, señale la opción verdadera:",
+      "opciones": [
+        "Las sustancias liposolubles atraviesan más difícilmente las bicapas lipídicas, lo que dificulta su absorción.",
+        "Los ácidos se encuentran muy ionizados en medios básicos, lo que dificulta su absorción.",
+        "Cuanto mayor sea el porcentaje de unión del fármaco- proteína, mayor será la acción de este al estar en mayor concentración en sangre.",
+        "Un volumen aparente de distribución (VAD) bajo, indica que el fármaco no se encuentra en la sangre."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "1. La liposolubilidad de un fármaco es su capacidad de ser soluble en grasas. Esta no se puede modificar y es la que facilita el paso del fármaco a través de las bicapas lipídicas favoreciendo su depósito en tejidos ricos en grasas y dificultando su eliminación. Por tanto, la primera opción es falsa.\n\n2. La mayoría de los medicamentos son de carácter ácido o básico débil que cuando se disuelven en agua, se ionizan parcialmente. Solo la parte no ionizada es capaz de atravesar membranas, ya que es la parte liposoluble. La parte ionizada es polar (hidrosoluble) y, por tanto, si conseguimos aumentar la ionización de un fármaco, dificultaremos su absorción y favoreceremos su eliminación. Esto se consigue añadiendo un fármaco ácido en un medio básico y viceversa. Esta es la opción 2 correcta.\n\n3. La porción del fármaco que se encarga de ejercer su efecto es el fármaco libre no unido a proteínas. Por tanto, cuanto menor sea el porcentaje de unión, mayor será el porcentaje de fármaco libre que puede ejercer su función y mayor será la acción del fármaco. Por tanto, esta opción es falsa.\n\n4. El volumen aparente de distribución (VAD) es la cifra aparente en la que se disuelve el fármaco. Es decir, el volumen de líquido en el que, al disolverse uniformemente, se alcanzaría la misma concentración que en la sangre. Se calcula como la dosis administrada del fármaco entre la concentración que alcanza en plasma. Por tanto, un VAD bajo indica que la concentración que alcanza en plasma es muy alta y que el fármaco se encuentra en su mayor parte en la sangre y no depositado en los tejidos. Los fármacos liposolubles suelen tener un VAD alto, siendo más difíciles de eliminar y permaneciendo más tiempo almacenados en los tejidos."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "¿Cuál de las siguientes benzodiacepinas es de vida media larga?",
+      "opciones": [
+        "Midazolam.",
+        "Bromacepam.",
+        "Diazepam.",
+        "Triazolam."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Tanto el midazolam como el triazolam son benzodiacepinas de vida media corta, por lo que se emplean generalmente como inductores del sueño, sin embargo, las benzodiacepinas de vida media larga, como el Lorazepam o el diazepam no solo se emplean como hipnóticos, sino también como ansiolíticos o para el manejo del delirium tremens. Opción 3 correcta."
+    }
+  ]
+}

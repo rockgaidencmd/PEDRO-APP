@@ -1,0 +1,504 @@
+{
+  "materia": "cirugia",
+  "paginaInicio": 1,
+  "paginaFin": 20,
+  "anomalias": [
+    "p15: en 'Paciente con antrectomía + Billroth II presenta dolor epigástrico continuo...' el comentario queda truncado a mitad de frase: termina en '...reconstrucción en Y Roux para eliminar el reflujo alcalino,' y la página siguiente ya abre con el separador, por lo que falta el final de la explicación",
+    "p16: en 'Hombre de 56 años, fumador y bebedor...' el enunciado describe una 'tumoración de 3 cm estenosante en esófago distal' pero el comentario habla de 'un adenocarcinoma de esófago torácico de 2 cm de diámetro'; el dato del tamaño es incoherente entre enunciado y explicación",
+    "p18: en 'Respecto al reflujo gastroesofágico y la cirugía antirreflujo, la siguiente afirmación es falsa' la opción 2 aparece sin su letra inicial: 'as funduplicaturas tienden a hacerse calibradas...' (falta la 'L' de 'Las')"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Un paciente con dolor epigástrico irradiado en cinturón y elevación de amilasa 3 veces por encima del valor de referencia acude a las urgencias hospitalarias. Respecto a la enfermedad que sospecha, señale la respuesta falsa:",
+      "opciones": [
+        "Es conveniente realizar TC abdominal a todos los pacientes con diagnóstico de pancreatitis aguda para descartar complicaciones",
+        "La pancreatitis se clasifican como leves o graves en función de la necrosis y el fallo orgánico ( respiratorio , cardiovascular y renal)",
+        "Los pacientes con pancreatitis leve no precisan tratamiento antibiótico. Es recomendable practicar la colecistectomía durante el mismo ingreso tras la resolución del cuadro de pancreatitis aguda litiasica",
+        "Dentro de las indicaciones quirúrgicas para la pancreatitis aguda se incluye la perforación de víscera hueca ."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "No está estandarizado la realización de TC abdominal a cualquier paciente con diagnóstico de pancreatitis aguda. Éste se reserva para aquellos casos con riesgo de complicación."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Como denominamos a un tumor de recto que sobrepasa la muscular entrando en la grasa del mesorrecto y tiene una adenopatía metastásica peritumoral?",
+      "opciones": [
+        "T2 N1",
+        "T3 N1",
+        "T3 N2",
+        "T4 N1"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es importante que recuerdes el TNM del cáncer colorrectal:\n\nTis: sólo mucosa\n\nT1 afectación submucosa\n\nT2 llega a la muscular\n\nT3 afecta a la subserosa en el colon y a la grasa de mesorrecto en el recto.\n\nT4 afecta a órganos vecinos. Los tumores perforados se consideran T4"
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente varón de 65 años intervenido por un early cáncer en antro gástrico hace 7 meses. Se practicó una antrectomía con reconstrucción Bilroth II. Consulta porque tras las comidas, a la media hora, presenta sensación nauseosa, mareos, sudoración que suelen ir acompañados de despeños diarreicos. Ante esta sintomatología, usted sospecha:",
+      "opciones": [
+        "Un síndrome de asa aferente.",
+        "Un síndrome de asa eferente.",
+        "Un reflujo alcalino.",
+        "Un síndrome de dumping precoz."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La complicación que se presenta corresponde a un síndrome de dumping tras gastrectomía. Este síndrome se caracteriza por un conjunto de molestias posprandiales causadas por el vaciamiento gástrico rápido en el intestino como consecuencia de la falta de regulación pilórica. Se distinguen dos tipos de dumping: precoz y tardío, cuya fisiopatología es diferente. El dumping precoz, que es el del caso expuesto, es más frecuente que el tardío y ocurre en los 15-30 minutos que siguen a la ingesta, provocado por el paso rápido de contenido hiperosmolar al yeyuno que ocasiona un desplazamiento brusco de líquido del espacio vascular y la consecuente disminución del volumen plasmático con aparición de taquicardia y disminución de la presión arterial."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Indique la correcta respecto a la enfermedad diverticular colónica:",
+      "opciones": [
+        "La localización más frecuente de los divertículos es el colon ascendente.",
+        "La prevalencia de diverticulosis disminuye con la edad.",
+        "La dieta pobre en fibra previene su aparición.",
+        "En la mayoría de los casos de diverticulosis el tratamiento no es necesario ."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los divertículos pueden aparecer en cualquier segmento colónico, pero son más frecuentes en el lado izquierdo, fundamentalmente, el sigma. La prevalencia de diverticulosis aumenta con la edad, siendo muy baja en jóvenes y llegando al 80% a partir de la séptima década. La ingesta de abundante fibra aumenta el bolo fecal, disminuye la presión intracólica y acelera el tránsito intestinal, lo que se considera un factor determinante para prevenir la aparición de divertículos colónicos. La mayoría de los pacientes con diverticulosis no presenta síntomas y el diagnóstico suele ser un hallazgo incidental; La clínica es inespecífica y caracterizada por dolor abdominal cólico, moderada distensión abdominal, anorexia, flatulencia y alteración del ritmo deposicional. El tratamiento en la mayoría de los casos no es necesario (respuesta 4) recomendándose solo medidas dietéticas. Si no es suficiente algunos probióticos, o fármacos como la rifaximina pueden mejorar la sintomatología."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "La causa MÁS frecuente de perforación esofágica es:",
+      "opciones": [
+        "Tumoral.",
+        "Postemética.",
+        "Iatrogénica.",
+        "Ingestión cuerpos extraños."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La mayoría de las perforaciones esofágicas son iatrogénicas (respuesta 3 correcta) debido a la gran cantidad de procedimientos diagnósticoterapéuticos que se realizan por vía endoscópica en la actualidad. Las demás causas traumáticas, posteméticas o espontáneas son más infrecuentes y requieren un alto índice de sospecha."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál de las siguientes NO es indicación quirúrgica en la pancreatitis crónica?:",
+      "opciones": [
+        "Ictericia obstructiva.",
+        "Dolor intratable.",
+        "Dificultad de vaciado gástrico.",
+        "Persistencia de esteatorrea a pesar del tratamiento médico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tratamiento de la pancreatitis crónica es fundamentalmente médico. Las principales indicaciones de tratamiento quirúrgico son: 1) Dolor persistente e incontrolable. 2)Ictericia obstructiva. 3) No poder descartar un cáncer subyacente y 4)Complicaciones. De todas las indicaciones la presencia de dolor no controlable con analgésicos es la indicación más frecuente. El dolor generalmente se debe a la existencia de un conducto de Wirsung mal drenado (por obstrucción o estenosis) y la técnica quirúrgica a emplear dependerá del calibre del conducto de Wirsung, de la localización de la zona estenótica, etc. Entre las posibles complicaciones que pueden precisar intervención estarían las derivadas de la existencia de un pseudoquiste que puede condicionar una obstrucción al vaciamiento gástrico por compresión, etc. o las derivadas de la rotura del conducto pancreático que dan lugar a la aparición de ascitis pancreática o derrame pleural pancreático."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "La complicación potencialmente quirúrgica más frecuente de la pancreatitis aguda es:",
+      "opciones": [
+        "Shock hemodinámico.",
+        "Septicemia.",
+        "Pseudoquiste.",
+        "Absceso pancreático."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Desde el punto de vista quirúrgico la complicación más frecuente de la pancreatitis aguda es la formación de un pseudoquiste pancreático, lo cual sucede hasta en el 15 % de los casos (entre el 2 y 10 % en la mayor parte de las series). La formación de una absceso pancreático es otra posible complicación que se produce por la infección de un pseudoquiste o en el contexto de una pancreatitis necrotizante con una frecuencia alrededor del 5 % de los casos. Hay que tener en cuenta que existen \"complicaciones médicas\" en el curso de la pancreatitis que pueden ser mucho más frecuentes que las comentadas. Así se han publicado que los pacientes con pancreatitis aguda tiene algún grado de disfunción pulmonar hasta en el 70 % de los casos manifestada como una hipoxemia transitoria, requiriendo ventilación mecánica en menos del 5 % de los casos. También hasta el 50 % de los pacientes tienen signos clínicos de mala perfusión tisular y diferentes grados de disfunción renal son demostrables entre el 40 - 80 % de los pacientes con una incidencia de insuficiencia renal aguda entre el 2 y 20 % de los casos."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "En una mujer que tras la extracción endoscópica de un cuerpo extraño impactado en el tercio medio esofágico presenta dolor retroesternal, dificultad respiratoria y crepitación cervical, se realiza un estudio radiológico esofagogástrico con contraste hidrosoluble, encontrando fuga del contraste a nivel del esófago torácico. En este caso, ¿cuál es la complicación más grave que puede presentarse?:",
+      "opciones": [
+        "Mediastinitis.",
+        "Fístula esofágica.",
+        "Estenosis esofágica.",
+        "Derrame pleural bilateral."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La complicación de un cuerpo extraño impactado en esófago es la perforación y, como consecuencia de la misma, la mediastinitis y el neumomediastino con crepitación cervical. Raramente se observan fístulas esofágicas que comunican el esófago con la vía aérea y causan episodios de intensa disnea o neumonías aspirativas de repetición."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Además de las posibles complicaciones generales asociadas a cualquier procedimiento quirúrgico , la cirugía laparoscópica asocia unas complicaciones específicas que aunque infrecuentes debemos reconocer ¿Cuál de las siguientes no es una de ellas?",
+      "opciones": [
+        "Alcalosis respiratoria (Por absorción de CO2)",
+        "Enfisema subcutáneo",
+        "Embolia gaseosa",
+        "Dolor de hombro referido (por irritación diafragmática)"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Todas las siguientes son complicaciones específicas de la cirugía laparoscópica menos la respuesta número 1 , en la cirugía laparoscópica se puede producir una ACIDOSIS respiratoria por absorción de CO2"
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Según el TNM de cáncer colorrectal es falso que :",
+      "opciones": [
+        "Los pacientes con tumores T1 tienen afectación sólo hasta la submucosa.",
+        "Los tumores T2 afectan a la grasa del mesorrecto.",
+        "Los tumores clasificados como Tis no atraviesan la membrana basal.",
+        "Los tumores T4 son aquellos que afectan a los órganos adyacentes"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es importante que estudies la clasificación TNM del cáncer colorrectal.\n\nEn el cáncer de recto extraperitoneal, que no tiene serosa, la presencia de un tumor T3 quiere decir que invade la grasa del mesorrecto.\n\nT2, tanto en colon como en recto significa afectación de la capa muscular."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "El tratamiento de elección en pacientes con hemorroides externa trombosada y dolorosa consiste en:",
+      "opciones": [
+        "Hemorroidectomía.",
+        "Incisión de las hemorroides y evacuación de coágulos sanguíneos (trombectomía).",
+        "Ligadura de las hemorroides con bandas de caucho.",
+        "Inyección de una solución esclerosante."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las hemorroides externas no suelen provocar síntomas salvo que estén complicadas, por lo que generalmente no requieren tratamiento. La complicación que sí requiere tratamiento es la trombosis de hemorroides externa. En ese caso se puede optar por realizar una trombectomía o una hemorroidectomía. Se prefiere esta última porque resuelve la complicación y el dolor, además de evitar recidivas de este cuadro."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "En un individuo de edad avanzada que acude a Urgencias con dolor abdominal agudo, de localización epigástrica que irradia a hipocondrio izquierdo y espalda, vómitos e intolerancia al alimento, con una analítica en la que destaca un aumento de la amilasa y lipasas séricas, ¿cuál sería la actitud ACONSEJABLE?",
+      "opciones": [
+        "Administrar antibióticos y esperar evolución.",
+        "Esfinterotomía endoscópica urgente.",
+        "Dieta absoluta, sueroterapia, analgesia endovenosa y esperar evolución.",
+        "Dieta absoluta, sueroterapia y laparotomía exploratoria."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El caso que nos plantean corresponde a una pancreatitis aguda. Repasemos las distintas opciones de respuesta:\n1.- La administración profiláctica de antibióticos no está indicada.\n2.- La esfinterotomía endoscópica urgente (< 72 horas) para extracción de coledocolitiasis se indica en caso de colangitis asociada.\n3.- La opción de respuesta correcta (manejo inicial de toda pancreatitis aguda) es la 3.\n4.- La intervención quirúrgica urgente no está indicada en estos momentos (no existen datos de necrosis pancreática infectada ni complicación abdominal susceptible de resolución quirúrgica)."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "La colecistectomía laparoscópica tiene como ventaja sobre la colecistectomía por laparotomía:",
+      "opciones": [
+        "La reducción de la estancia hospitalaria.",
+        "Permite conservar la vesícula.",
+        "No se asocia a lesiones de la vía biliar.",
+        "Es una técnica exenta de mortalidad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las principales ventajas de la laparoscopia, en relación con la cirugía convencional, son una menor agresividad para el paciente, una recuperación más rápida y una menor tasa de complicaciones (respuesta 1 correcta). Por ello, se ha convertido en la técnica de elección para determinadas intervenciones: colecistectomías, funduplicaturas, salpingoclisis, tratamiento quirúrgico de la acalasia y cuando no existe un diagnóstico claro.\n\nEl resto de las opciones, si las analizas con detalle, no es que sean falsas, sino que son ridículas:\n\n- R2: ¿Cómo vas a conservar la vesícula en una colecistectomía?\n\n- R3: Cualquier intervención sobre la vía biliar puede lesionarla.\n\n- R4: “Exenta”, “nunca”, “en ningún caso”, “es imposible”. Ante la duda, no debes confiar en una respuesta así."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Qué debemos sospechar ante un paciente que inicia de forma súbita un cuadro de dolor abdominal en epigastrio compatible a la exploración con “abdomen en tabla”?",
+      "opciones": [
+        "Obstrucción intestinal",
+        "Apendicitis aguda",
+        "Diverticulitis aguda",
+        "Ulcus perforado"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre orientación del diagnóstico según la localización del dolor, en el cual debemos saber que un dolor súbito epigástrico asociado a abdomen en tabla es muy característico de un ulcus perforado. El resto de respuestas generan dolor en otros cuadrantes del abdomen"
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Con respecto al divertículo de Zenker, señale la afirmación FALSA:",
+      "opciones": [
+        "Se localiza en la parte posterior de la hipofaringe, por encima del músculo cricofaríngeo.",
+        "Se origina por tracción, debido a una incoordinación de la musculatura faríngea, que favorece la herniación de la mucosa a través del triángulo de Killian).",
+        "Puede causar halitosis y regurgitación.",
+        "El tratamiento consiste en la miotomía cricofaríngea endoscópica o quirúrgica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El divertículo de Zenker se origina por pulsión (opción 2 falsa, por lo que la marcamos), debido a una incoordinación de la musculatura faríngea (que favorece la herniación de la mucosa a través del triángulo de Killian). Puede causar halitosis, regurgitación, disfagia orofaríngea, tos, neumonía por aspiración e incluso una obstrucción completa por compresión. Como complicaciones, puede ocasionar episodios de broncoaspiración, formación de fístulas entre el divertículo y la tráquea, hemorragia intradiverticular (sobre todo, con el ácido acetilsalicílico [AAS]) y, más raramente, la aparición de un carcinoma epidermoide dentro del divertículo (0,4%). El tratamiento se indica en los pacientes sintomáticos o con divertículos grandes y consiste en miotomía cricofaríngea, bien por vía endoscópica o quirúrgica, añadiendo la extirpación del divertículo si es de gran tamaño (excepcionalmente puede degenerar). Si es pequeño, la miotomía es suficiente."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿Cuál de estos enfermos es candidato inequívoco para realizar una cirugía de la úlcera con vagotomía asociada?",
+      "opciones": [
+        "Paciente de 45 años, que debuta con dolor epigástrico súbito hace 2 horas, y es diagnosticado de perforación ulcerosa en primera porción duodenal.",
+        "Paciente de 47 años, que debuta con cuadro de melenas y es diagnosticado por endoscopia de úlcera sangrante en primera porción duodenal, que no deja de sangrar, tras coagulación e inyección de adrenalina.",
+        "Paciente de 64 años, con brotes ulcerosos repetidos desde hace 6 años, con erradicación de H. pylori hace dos años, que se tratan de forma sintomática con ranitidina, y que presenta ahora una perforación pilórica ulcerosa, de 7 horas de evolución.",
+        "Paciente de 49 años, que sigue tratamiento habitual con indometacina por artritis reumatoide y presenta una gastritis erosiva antral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aunque los pacientes con úlcera perforada se van a tratar mayoritariamente mediante cierre simple de la perforación y tratamiento médico posterior, a los pacientes con factores de riesgo de recidiva por cronicidad o por encontrarse previamente en tratamiento antisecretor, se les debe realizar una vagotomía troncular para eliminar el ácido de forma definitiva."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "No es indicación de colecistectomía laparoscópica:",
+      "opciones": [
+        "Cálculos mayores de 2,5 cm",
+        "Mieloma múltiple",
+        "Pancreatitis aguda litiásica",
+        "Colelitiasis en pacientes jóvenes"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Hay indicación de colecistectomía laparoscópica cuando la litiasis es sintomática en forma de cólicos de repetición o infecciones como la pancreatitis, colangitis o colecistitis. Es recomendable la cirugía en casos de litiasis asintomáticas que puedan causar problemas a largo plazo como son la colelitiasis en gente joven o los cálculos grandes que pueden erosionar la pared de la vesícula y dar lugar a fístulas con el tracto digestivo o la vía biliar."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Respecto a la laparoscopia una de las siguientes afirmaciones no la define:",
+      "opciones": [
+        "Es preciso crear una campana de trabajo intraabdominal mediante la insuflación. de dióxido de carbono manteniendo un neumoperitoneo con una presión controlada en torno a 12 mmHg.",
+        "Las cirugías abdominales previas y la obstrucción intestinal han sido consideradas tradicionalmente una contraindicación relativa.",
+        "La mejor indicación para la cirugía laparoscópica son las situaciones de riesgo vital , con paciente en shock como la cirugía de extrema urgencia por politraumatismo.",
+        "Ofrece ventajas frente a la cirugía convencional en cuanto a menor dolor, infección y eventración de heridas siendo la recuperación funcional más rápida, pero la laparoscopia es un abordaje abdominal más protrombótico que la laparotomía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La laparoscopia consiste técnicamente en los que dice la respuesta 1 y tiene las ventajas fundamentales que reseña la respuesta 4.\n\nAunque la cirugía previa y los cuadros obstructivos son una contraindicación relativa, también lo es la inestabilidad hemodinámica y el shock."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Un paciente que, tras una sobrecarga alcohólica, presenta vómitos copiosos y, varias horas después, intenso dolor precordial, enfisema subcutáneo y en Rx tórax derrame pleural izquierdo. ¿Qué proceso le sugiere?",
+      "opciones": [
+        "Pericarditis aguda.",
+        "Neumonía aspirativa.",
+        "Neumotórax espontáneo.",
+        "Rotura espontánea de esófago."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un síndrome de Boerhaave, que no es otra cosa que una perforación esofágica relacionada con vómitos, normalmente en el contexto de un paciente bebedor. La presencia de enfisema subcutáneo es muy indicativa de que puede haberse producido esta complicación."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Los siguientes tratamientos serían apropiados en un paciente con pseudoquistes en la cabeza del páncreas, EXCEPTO:",
+      "opciones": [
+        "Cistoduodenostomía.",
+        "Cistoyeyunostomía.",
+        "Escisión del segmento pancreático afectado.",
+        "Drenaje externo si existe sobreinfeccion"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La cirugía de los pseudoquistes pancreáticos, cuando está indicada, depende inicialmente de la localización del pseudoquiste. Así en aquellos casos en los que el pseudoquiste asienta en la cola pancreática (los menos frecuentes) una opción de tratamiento adecuada pasa por escisión de la cola pancreática con el pseudoquiste que incluye (pancreatectomía distal) siendo esta la opción quirúrgica con menor tasa de recurrencia (alrededor del 3 %). En los casos en los que el pseudoquiste asienta en la cabeza o en el cuerpo pancreático se prefiere la utilización de técnicas de derivación interna (cistoyeyunostomía, cistogastrostomía o cistoduodenostomía) reservando las derivaciones externas para las complicaciones infecciosas del mismo o en los casos de \"cápsula\" inmadura."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Paciente mujer de 66 años que desde hace aproximadamente 6 meses presenta dolor mesogástrico intenso, posprandial, irradiado al flanco derecho. Además comenta distensión abdominal, náuseas, vómitos y pérdida de peso (6 kilos) acompañada de anorexia, astenia y cambios en el hábito intestinal. Aporta una analítica en la que destaca una anemia microcítica. Ante estos hechos, usted ordenaría:",
+      "opciones": [
+        "Iniciar tratamiento con hierro y repetir analítica.",
+        "Pedir una TAC abdominal.",
+        "Pedir sangre oculta en heces.",
+        "Una colonoscopia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Ante un paciente mayor de 50 años con clínica sugerente de neoplasia, debe iniciarse el estudio sin demora. El diagnóstico electivo de cáncer de colon se establece por colonoscopia y biopsia (respuesta 4 correcta). La sangre oculta en heces forma parte del cribado poblacional por lo que no se usa en pacientes sintomáticos, mientras que la TAC se hace tras la confirmación diagnóstica para el estudio de extensión, salvo que se sospechen complicaciones tumorales."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Ante un paciente diagnosticado de acalasia, señale la afirmación FALSA:",
+      "opciones": [
+        "Se caracteriza por aperistalsis esofágica y relajación incompleta del esfínter esofágico inferior tras la deglución.",
+        "Puede degenerar a cáncer esofágico, por lo que precisa endoscopias de control periódicas.",
+        "Una vez identificada su causa, el tratamiento resulta curativo.",
+        "La dilatación endoscópica esofágica y la miotomía modificada de Heller constituyen los dos tratamientos más eficaces."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La acalasia es una disfagia esofágica muscular continua de etiología desconocida, no susceptible de ningún tratamiento curativo, sino de un tratamiento SINTOMÁTICO (opción 3 falsa, por lo que la marcamos). Las demás opciones de respuesta son totalmente correctas. El patrón manométrico típico es:\n- En el EEI, Presión basal N/ + relajación incompleta/ausente tras deglución.\n- En el esófago: Aperistalsis esofágica.\nLa clínica típica consiste en: disfagia progresiva constante (sólidos + líquidos), regurgitación no ácida nocturna, pirosis, halitosis, dolor tórax postingesta y peso progresiva.\nGlobalmente, disponemos de cuatro opciones terapéuticas:\n1) Dilatación endoscópica esofágica con balón.\n2) Miotomía modificada de Heller+ técnica antirreflujo (funduplicatura).\n3) Relajantes musculares orales.\n4) Inyección endoscópica intramuscular de toxina botulínica."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Ante un paciente con disfagia secundaria a adenocarcinoma estenosante de la unión gastroesofágica(T3N1M0) que va a requerir nutrición prolongada durante el tratamiento neoadyuvante, se indica realizar:",
+      "opciones": [
+        "Gastrostomía de alimentación.",
+        "Ileostomía de protección",
+        "Yeyunostomía de alimentación.",
+        "Colostomía descompresiva."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La yeyunostomía de alimentación es una técnica empleada en pacientes oncológicos de tracto intestinal superior e intolerancia oral para poder ser nutridos. Se prefiere respetar el estómago ( gastrostomía de alimentación) ya que en muchos casos, en la reconstrucción tras una esofaguectomía, es utilizado para realizar una plastia y anastomosis ."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre las perforaciones esofágicas NO es correcta?",
+      "opciones": [
+        "La causa mas frecuente son los cuerpos extraños",
+        "El dolor es el síntoma mas frecuente, suele ser intenso y de localización cervical o retroesternal en función de la localización de la perforación.",
+        "Los contrastes hidrosolubles son de elección para el diagnóstico de rotura esofágica.",
+        "Los pacientes estables, sin signos de sepsis y con perforaciones pequeñas son candidatos a tratamiento conservador."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La causa más frecuente de perforación esofágica es la yatrogénica: por endoscopia terapéutica o por miotomía de Heller; otras causas serían: síndrome de Boerhaave (perforación post-emética), cuerpos extraños, traumatismos e ingesta de cáusticos. La respuesta FALSA es la nº1.\n\nLos síntomas más frecuentes de perforación esofágica son: dolor retrosternal intenso, crepitación o enfisema, fiebre, disfagia, insuficiencia cardio-respiratoria.\n\nLa técnica diagnóstica de elección son los estudios con contraste oral hidrosoluble (esofagograma o TC con contraste). La radiografía simple cervical y torácica pueden evidenciar: derrame pleural, neumomediastino, enfisema subcutáneo, ensanchamiento mediastínico, desviación traqueal anterior.\n\nLas opciones terapéuticas son el tratamiento no operatorio (casos seleccionados) o una intervención quirúrgica (reparación, drenajes, etc).\n\nLas condiciones para optar por un tratamiento no operatorio son: perforación esofágica precoz y contenida de pequeño tamaño, ausencia de sepsis, y localización alta de la perforación (especialmente en esófago cervical)."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Paciente diagnosticado de pancreatitis crónica y pseudoquistes que acude por dolor abdominal epigástrico, vómitos alimenticios y pérdida de peso. La complicación que PROBABLEMENTE presenta dicho paciente es:",
+      "opciones": [
+        "Obstrucción duodenal.",
+        "Obstrucción del colédoco.",
+        "Rotura del pseudoquiste a peritoneo.",
+        "Fístula pancreática a colon transverso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El pseudoquiste pancreático se define como una “colección líquida encapsulada sin necrosis, rica en amilasa, secundaria a una disrupción del conducto Wirsung o sus ramas”. Es la complicación más frecuente de la pancreatitis aguda edematosa, aunque es su etiología más prevalente es la Pancreatitis Crónica”. La clínica consiste en: asintomático, hiperamilasemia mantenida, dolor epigástrico o datos de “pseudoquiste complicado”: infección/sepsis, hemorragia, ascitis pancreática, obstrucción duodenal o biliar. La evolución habitual del pseudoquiste es su resolución espontánea, por lo que suele bastar con un seguimiento ecográfico periódico. Estaría indicado su drenaje percutáneo en caso de pseudoquiste muy sintomático, fiebre, crecimiento rápido o “pseudoquiste complicado”. El paciente de la pregunta presenta un cuadro obstructivo (vómitos alimentarios y dolor epigástrico), por lo que nos enfrentamos, probablemente, a una obstrucción duodenal secundaria a un pseudoquiste de gran volumen (respuesta 1 correcta). La ausencia de ictericia, peritonitis o sangrado/diarrea descartan las demás complicaciones contenidas en las opciones de respuesta."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Respecto a la cirugía bariátrica es falso que:",
+      "opciones": [
+        "La indicación para cirugía bariátrica viene dada por un IMC > 30 kg/m2 con comorbilidades o un IMC > 40 kg/m2.",
+        "La hernia interna de Petersen es una complicación tardía del bypass que se produce al perder peso, especialmente con la pérdida máxima de peso, que acontece alrededor del primer año, dejando un espacio entre el meso del asa alimentaria y el mesocolon transverso que puede causar una obstrucción intestinal.",
+        "La principal causa de reintervención en un paciente operado previamente de obesidad mórbida es la ausencia de pérdida de peso adecuada y mantenida o la falta de mejora en sus comorbilidades.",
+        "El montaje quirúrgico del bypass se caracteriza por un asa alimentaria que mide más de un metro y un reservorio gástrico en torno a 15-30 cc."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La indicación de cirugía bariatrica es el IMC mayor de 40 o mayor de 35 con comorbilidades.\n\nRepasa los conceptos de las otras 3 respuestas, importantes para repasar los conceptos importantes sobre la hernia de Petersen, las complicaciones de la cirugía y los aspectos técnicos del by pass."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Cuál de las siguientes complicaciones es más típica de la enfermedad de Crohn que de la colitis ulcerosa?",
+      "opciones": [
+        "Megacolon tóxico.",
+        "Colangiocarcinoma.",
+        "Degeneración maligna.",
+        "Fístulas internas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El megacolon tóxico es una complicación típica de la colitis ulcerosa. Del mismo modo la aparición de displasia o cáncer así, colangiocarcinoma son más característicos de la colitis ulcerosa. Sin embargo la enfermedad de Crohn tiene un patrón fistulizante típico, produciendo fístulas Internas, esto ocurre porque produce una afectación inflamatoria transmural de toda la pared intestinal."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "En un paciente que ha sufrido una pancreatitis aguda días antes, el dolor no disminuye y la fiebre no baja. Las cifras de amilasa siguen elevadas y se palpa una masa en epigastrio dolorosa a la palpación. La ecografía confirma el diagnóstico de pseudoquiste en la cabeza del páncreas. Se decide esperar, pero a las seis semanas no se ha resuelto sino que ha aumentado de tamaño. Se decide intervenir. Todas las siguientes técnicas son útiles, EXCEPTO:",
+      "opciones": [
+        "Cistogastrostomía.",
+        "Cistoyeyunostomía en Y de Roux.",
+        "Duodenopancreatectomía cefálica o técnica del Whipple.",
+        "Drenaje externo si el paciente empeora."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La duodenopancreatectomía cefálica o intervención de Whipple es una operación agresiva, con un elevado índice de complicaciones potencialmente graves, que está indicada como tratamiento potencialmente curativo de los cánceres de cabeza de páncreas (respuesta 3).\n\nEl tratamiento quirúrgico de los pseudoquistes de páncreas, cuando está indicado, consiste en una derivación interna, es decir drenar el contenido del pseudoquiste (secreciones pancreáticas) al tubo digestivo (que es donde vierte de forma fisiológica el páncreas su secreción) y esto se hace con diferentes técnicas como la cistoyeyunostomía en Y de Roux, la cistogastrostomía y la cistoduodenostomía. En aquellos casos en los que el pseudoquiste se localice en la cola pancreática una opción adecuada es la pancreatectomía distal que incluye el pseudoquiste. Sólo en los casos en los que se produce la infección del pseudoquiste con importante repercusión clínica estará indicado realizar un drenaje externo."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Paciente con antrectomía + Billroth II presenta dolor epigástrico continuo, vómitos biliares y alimenticios que no alivian el dolor. ¿Cuál sería su actitud terapéutica?",
+      "opciones": [
+        "Transformar el Billroth II en Billroth I.",
+        "Gastroyeyunostomía en Y de Roux + vagotomía troncular.",
+        "Interposición de un asa yeyunal antiperistáltica.",
+        "Técnica antirreflujo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una clínica característica de gastritis por reflujo alcalino. Se realiza vagotomía para eliminar la secreción ácida completamente y reconstrucción en Y Roux para eliminar el reflujo alcalino,"
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "En relación con la patología hemorroidal, señale la respuesta correcta:",
+      "opciones": [
+        "En el caso de la trombosis hemorroidal externa, no está indicado el tratamiento en la fase aguda",
+        "Las hemorroides grado III responden a técnicas no quirúrgicas como son la esclerosis, las ligaduras con bandas y la fotocoagulación",
+        "Las hemorroides grado III se caracterizan por prurito y sangrado, siendo las crisis hemorroidales poco frecuentes",
+        "El prolapso hemorroidal agudo trombosado se produce por dificultad en el retorno venoso y da lugar a una trombosis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La trombosis hemorroidal aguda constituye una complicación de las hemorroides externas, caracterizada por nódulo violáceo de aparición brusca y dolor intenso. En pacientes con menos de 72 horas de evolución se recomienda una trombectomía o hemorroidectomía urgente. En pacientes con más de 72 horas devolución, se recomienda la administración de AINES, laxantes, venotónicos..\n\nEl prolapso hemorroidal, complicación de las hemorroides internas, se gradúa de I-IV. El tratamiento electivo en las formas crónicas depende del grado de prolapso:\n\n-grado I: tto.conservador o esclerosis\n\n-grado II: esclerosis o ligadura con banda elástica\n\n-grado III (propaso defecatorio y espontáneo, con reducción manual): ligadura con banda elástica o cirugía\n\n-grado IV: cirugía (hemorroidectomía)\n\nEntre las complicaciones agudas del propaso hemorroidal destacamos la crisis hemorroidal aguda (dolor) y el prolapso hemorroidal agudo trombosado (trombosis por dificultad del retorno venoso) (respuesta correcta nº4). El tratamiento del prolapso agudo trombosado consiste en: reducir el prolapso, AINES, laxantes, venotónicos y baños de asiento."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Hombre de 56 años, fumador y bebedor, que presenta disfagia principalmente a sólidos, regurgitaciones y dolor retroesternal. Se le realiza endoscopia, encontrando tumoración de 3 cm estenosante en esófago distal. La biopsia es informada como adenocarcinoma. En la TC torácica se observa engrosamiento de 2 cm en esófago torácico sin metástasis a distancia. En la ecografía transesofágica se observa tumoración que invade la muscular, sin observar adenopatías mediastínicas. ¿Cuál es el tratamiento de elección?",
+      "opciones": [
+        "Quimioradioterapia neoadyuvante y posteriormente esofaguectomía.",
+        "Radioterapia como tratamiento definitivo.",
+        "Colocación de prótesis de tipo stent.",
+        "Esofaguectomía y plastia gástrica con anastomosis cervical."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un paciente joven sin comorbilidad importante con un adenocarcinoma de esófago torácico de 2 cm de diámetro con estadiaje T2 N0 M0. En este caso nos podemos plantear un tratamiento con intención curativa por lo que descartaríamos las respuestas 2 y 3. Una vez hemos optado por el tratamiento quirúrgico, aunque es cierto que la tendencia actual es a tratar con neoadyuvancia a la mayoría de los pacientes, en este caso nos plantean un tumor de tan sólo 2 cm y que invade sólo la capa muscular sin adenopatías. Por eso, la neoadyuvancia en este paciente no va a aportar ventajas sobre una cirugía oncológica radical adecuada.(Manual CTO10ª ed. CG. 1.3. Fig 15)"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Una mujer de 30 años con antecedentes de alergia a penicilinas, asma intrínseco, EPI hace 3 años, acude al servicio de urgencias por presentar cuadro de 24 horas de evolución de dolor en fosa ilíaca derecha asociado a vómitos. En la exploración física presenta dolor selectivo en fosa ilíaca derecha con marcada defensa, con signo de rebote local. En la analítica destaca leucocitosis de 11.500 y una PCR de 25. No refiere clínica digestiva ni ginecológica sobreañadida. Test de embarazo negativo. Respecto al cuadro sospechado, señale la falsa:",
+      "opciones": [
+        "Ante cualquier cuadro de abdomen agudo la indicación temprana de cirugía urgente, evita una morbilidad mayor.",
+        "La valoración por ginecología puede ayudar al diagnóstico. Si éste no es claro, puede mantenerse en observación para nueva reevaluación clínica.",
+        "La ecografía abdominal puede ser de utilidad para el diagnóstico diferencial del dolor en fosa ilíaca derecha.",
+        "La laparoscopia diagnóstica es una opción a tener en cuenta ante cuadros de dolor abdominal agudo, especialmente si no queda claro el origen con la exploración física y las pruebas de imagen ."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ante un abdomen agudo, si hay estabilidad y no hay signos de gravedad clínica se debe hacer diagnóstico diferencial con cualquiera de las estrategias de las respuestas 2-3-4."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Un paciente intervenido hace unos años por una úlcera duodenal acude a consulta por la aparición de dolor abdominal. Ante la sospecha de una nueva úlcera se le practica una endoscopia que muestra úlceras en bulbo duodenal y antro pilórico. La gastrina sérica del paciente está elevada, y se eleva tras la administración de secretina. ¿Cuál sería el tratamiento ÓPTIMO de este paciente teniendo en cuenta su sospecha diagnóstica?",
+      "opciones": [
+        "Antagonistas H2 en dosis altas.",
+        "Omeprazol.",
+        "Resección completa del tumor.",
+        "Gastrectomía total."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La primera sospecha diagnóstica ante un cuadro clínico con úlceras múltiples e hipergastrinemia debe ser el síndrome de Zollinger-Ellison (gastrinoma), que además se confirma con la elevación de la gastrina tras la estimulación con secretina. En relación al tratamiento de elección es siempre quirúrgico, con extirpación del tumor, si se puede (ya que tiene una gran tendencia a la diseminación y a veces no es sencilla su localización)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Respecto al reflujo gastroesofágico y la cirugía antirreflujo, la siguiente afirmación es falsa:",
+      "opciones": [
+        "La enfermedad de Barrett sin displasia no tiene indicación absoluta de funduplicatura, mientras que la enfermedad de Barrett con displasia de alto grado es indicación de esofaguectomía.",
+        "as funduplicaturas tienden a hacerse calibradas para evitar la estenosis o dejarlas excesivamente laxa.",
+        "Las complicaciones por la ERGE y el reflujo con clínica persistente pese a tratamiento médico son indicaciones de cirugía .",
+        "La acalasia y la hernia hiatal paraesofágica tipo II no suele asociar una cirugía antirreflujo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La acalasia y la hernia hiatal paraesofágica tipo II , requieren tratamiento quirúrgico que debe asociar alguna técnica antirreflujo ya que estas entidades o las técnicas que utilizan para su reparación dejan al paciente en situación refluxógena."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Respecto a la colecistitis aguda, señale el enunciado falso:",
+      "opciones": [
+        "El diagnóstico de elección es La ECO abdominal que identifica aumento de grosor de la pared, distensión de la vesícula o liquido libre .",
+        "Las colecistitis enfisematosas y las colecistitis alitiásicas rara vez evolucionan a sepsis pudiéndose manejar de forma conservadora.",
+        "Suele indicarse colecistectomía urgente si han pasado menos de 72horas desde que se inició el cuadro clínico, y tratamiento antibiótico si se trata de un cuadro muy evolucionado o el paciente presenta alta comorbilidad.",
+        "La colecistostomía percutánea es una alternativa a la cirugía, ante fracaso del antibiótico especialmente en pacientes añosos"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las colecistitis enfisematosas y alitiásicas tienen mas fracaso terapeútico con el manejo conservador."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Respecto al tratamiento quirúrgico del pseudoquiste, señale la respuesta NO correcta:",
+      "opciones": [
+        "El pseudoquiste es la complicación más frecuente de la pancreatitis aguda",
+        "La mayoría se producen por una disrupción del conducto pancreático",
+        "El 85% se localizan en el cuerpo y cola del páncreas",
+        "Presentan concentraciones bajas de amilasa, mucina y CEA"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Aunque es la complicación más frecuente de la pancreatitis aguda, es mucho más frecuente encontrarlo en el contexto de un pancreatitis crónica. A diferencia de las colecciones pancreáticas, suelen presentar comunicación con el ducto pancreático, y se localizan muy raramente en la cabeza.\n\nLo más importante de esta pregunta es conocer que cursan con elevación de amilasa y concentraciones bajas de mucina y CEA, lo que permite diferenciarlos de otras lesiones quísticas pancreáticas."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Varón de 60 años de edad acude a consulta con cuadro de halitosis y regurgitación de saliva y partículas de alimento consumidos varios días antes. Tiene antecedentes de procesos bronconeumónicos de repetición y crisis de tos con la deglución. ¿Ante qué proceso patológico nos encontramos con mayor probabilidad?",
+      "opciones": [
+        "Divertículo de Zenker.",
+        "Anillo de Schatzki.",
+        "Adenocarcinoma de esófago.",
+        "Síndrome de Mallory-Weiss."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El divertículo de Zenker se localiza en la parte posterior de la hipofaringe, por encima del músculo cricofaríngeo y debajo del músculo constrictor inferior de la faringe. Se originan por pulsión, debido a una mala coordinación de la musculatura faríngea. Puede causar halitosis, regurgitación, disfagia orofaríngea e incluso una obstrucción completa por compresión.\n\nComo complicaciones, puede producir episodios de broncoaspiración, formación de fístulas entre el divertículo y la tráquea, hemorragia intradiverticular (sobre todo con la aspirina) y, más raramente, la aparición de un carcinoma epidermoide dentro del divertículo. La colocación de una sonda nasogástrica o la realización de una endoscopia en estos pacientes tiene riesgo de perforación del divertículo, por lo que deben evitarse. El tratamiento es quirúrgico, realizando una miotomía cricofaríngea y extirpando el divertículo. Si es pequeño, la miotomía aislada puede ser suficiente."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "El procedimiento consistente en colocar un tubo en el estómago que salga a la piel con la intención de utilizarlo para alimentar a un paciente se llama:",
+      "opciones": [
+        "Gastrectomía.",
+        "Gastrostomía.",
+        "Gastrotomía.",
+        "Gastroplastia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es conveniente recordar que:\n\n- Ostomía significa comunicar un órgano o cavidad con el exterior.\n\n- Tomía: incisión\n\n- Ectomía extirpación\n\n- plastia: cambiar la forma de un órgano, remodelar, reparar."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Señale la INCORRECTA en relación al síndrome de Plummer-Vinson:",
+      "opciones": [
+        "Tienen un aumento de riesgo de cáncer de esófago.",
+        "El tratamiento con hierro revierte la disfagia.",
+        "Aparecen membranas en la parte anterior del esófago distal.",
+        "Puede aparecer glositis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome de Plummer- Vinson se asocia a la aparición de membranas en la hipofaringe o esófago superior, provocando disfagia orofaríngea. Se asocia, a su vez, a un estado carencial de hierro y, por tanto, aparece glositis. Esta situación se asocia también a un mayor riesgo de cáncer faríngeo y esofágico."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "La emergencia quirúrgica extrauterina más frecuente en la mujer embarazada es:",
+      "opciones": [
+        "Apendicitis aguda.",
+        "Diverticulitis aguda.",
+        "Quiste ovárico roto.",
+        "Compresión aguda de cava por útero grávido."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La apendicitis aguda es el abdomen agudo quirúrgico más frecuente de forma general y también en las mujeres embarazadas. Aunque en este grupo concreto debemos tener también en cuenta la posibilidad de que se presenten complicaciones propias del embarazo, éstas son menos frecuentes que la apendicitis."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Entre las causas de carcinoma epidermoide de esófago, se consideran todas las siguientes, EXCEPTO:",
+      "opciones": [
+        "Tabaco.",
+        "Acalasia.",
+        "Síndrome de Plummer-Vinson.",
+        "Reflujo gastroesofágico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Entre los diferentes tipos de cáncer de esófago, debemos distinguir dos variedades principales: el carcinoma epidermoide y el adenocarcinoma esofágico. En realidad, lo que están haciendo en esta pregunta es tratar que los confundamos entre sí. El carcinoma epidermoide esofágico se ha relacionado con hábitos como el tabaco y el alcohol, siendo además una asociación fuerte. La acalasia también está vinculada a este tipo de cáncer, aunque no justifica un número de casos tan elevado como el tabaquismo. Por último, el síndrome de Plummer- Vinson, que se asocia a la anemia ferropénica, también se considera factor de riesgo. La opción de respuesta correcta es la 4. El reflujo gastroesofágico produce una metaplasia columnar en la región inferior del esófago, conocida como esófago de Barrett. En ocasiones, esta metaplasia se complica con displasia de diferentes grados, lo que finalmente deriva en un adenocarcinoma esofágico. Recuerda que, topográficamente, el esófago de Barrett aparece en el tercio inferior, mientras que el carcinoma epidermoide es más propio del tercio medio."
+    }
+  ]
+}

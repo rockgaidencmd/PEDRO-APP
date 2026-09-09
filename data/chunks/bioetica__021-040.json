@@ -1,0 +1,627 @@
+{
+  "materia": "bioetica",
+  "paginaInicio": 21,
+  "paginaFin": 40,
+  "anomalias": [
+    "p26: la pregunta 'El consentimiento informado tiene por objeto principal:' tiene la etiqueta 'Comentario:' vacía, sin ninguna explicación antes del separador; se emite con explicacion vacía.",
+    "p22 y p28: la misma pregunta ('En la etapa final de la enfermedad terminal...') aparece duplicada con la opción 3 distinta ('La vía de administración farmacológica de elección es la intravenosa' en p22, '...es la subcutánea' en p28); en ambas Resp. Correcta 3 y el comentario dice que la vía de elección es la oral, de modo que en p28 se marca como FALSA la vía subcutánea, que sí es una vía habitual en cuidados paliativos (el propio libro la recomienda en p39 y p38).",
+    "p24 y p34: la misma pregunta del psiquiatra de interconsulta se repite con opciones 3 y 4 diferentes (p24: '3. Respetar la decisión del paciente y buscar las alternativas...' / '4. Incapacitación civil'; p34: '3. Alta hospitalaria' / '4. Informar al juez con el fin de que ordene tratamiento'). Ambas con Resp. Correcta 3, por lo que la conducta 'correcta' que se estudia cambia según la versión.",
+    "p31-p32: la opción 3 de la pregunta del paciente de 69 años queda truncada al cambiar de página: '...evitando la palabra cáncer la explicación.'; falta al menos una palabra en el original (probablemente 'en la explicación'). Se transcribe tal cual.",
+    "p38: el caso del carcinoma microcítico habla de 'natremia de 95 mEq/L', valor incompatible con la vida (rango normal 135-145; probablemente debía decir 125 mEq/L).",
+    "p35: el comentario de 'En cuál de los siguientes supuestos no es aplicable el principio de autonomía' aparece maquetado en tres líneas sueltas con sangría; se ha linealizado en un único párrafo."
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 21,
+      "enunciado": "Pasando visita médica, se percata de que el antibiótico intravenoso (amoxicilina-clavulánico) que había prescrito a su paciente se está administrando al otro paciente de la habitación en este mismo momento debido a un error de Enfermería. ¿Cómo actúa?",
+      "opciones": [
+        "Le explica el problema al enfermero o la enfermera responsable para que detenga la infusión del fármaco y se la administre en su lugar a su paciente, y para que le explique el error a los pacientes.",
+        "Usted detiene la perfusión del fármaco y le explica al paciente al que se le estaba administrando que se le estaba infundiendo por error dicho fármaco, que se trata de un antibiótico.",
+        "Usted detiene la perfusión del fármaco y le explica al paciente al que se le estaba administrando que ya le había pasado dosis suficiente y que no necesita más.",
+        "Usted detiene la perfusión del fármaco y le explica al paciente el error si éste se lo pregunta, pero en caso contrario no realiza aclaraciones."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Si un profesional sanitario se percata de un error debe tratar de solucionarlo, y en este caso el médico puede solucionarlo sin necesidad de la presencia de la enfermera o el enfermero responsable. Por otra parte, se debe indicar al paciente que se trataba de un error; no se debe ocultar a los pacientes los errores que se cometen durante su cuidado."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Los principios de autonomía y beneficencia se incluyen en el concepto de:",
+      "opciones": [
+        "Ética de mínimos.",
+        "Capacidad.",
+        "Ética de máximos.",
+        "Menor maduro."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los principios de autonomía y beneficencia forman parte de la ética de máximos."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Un paciente con diagnóstico de melanoma metastásico acude a Urgencias presentando intenso dolor en columna dorsal de 24 horas de evolución. A su llegada a Urgencias el paciente refiere sensación de parestesias en la cara anterolateral del miembro inferior izquierdo. Señale la actitud MÁS adecuada:",
+      "opciones": [
+        "Administrar morfina y, si cede el dolor, hacer seguimiento domiciliario.",
+        "Realizar cirugía urgente.",
+        "Administrar dexametasona y solicitar una RMN urgente de columna dorsal.",
+        "Administrar dexametasona e iniciar radioterapia urgente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Lo más indicado sería administrar dexametasona y realizar una prueba de imagen que confirme la sospecha de síndrome de compresión medular (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "En la etapa final de la enfermedad terminal se produce un deterioro muy importante del estado general del enfermo, siendo un indicador funadmental de una muerte inminente. En relación al cuidado de los enfermos en fase agónica y al tratamiento de la sintomatología que puede aparecer, señale la opción falsa:",
+      "opciones": [
+        "La posición más confortable para el enfermo suele ser el decúbito lateral con piernas flexionadas.",
+        "No es necsario el tratamiento específico de la fiebre si no crea problemas.",
+        "La vía de administración farmacológica de elección es la intravenosa.",
+        "No se debe prescindir del uso de narcóticos potentes aunque el paciente entre en coma."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La vía de elección en fase terminal de la enfermedad es la oral mientras sea posible. El resto de las opciones son correctas."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Para realizar un ensayo clínico y al finalizarlo, ¿A quién se eleva informe del mismo?",
+      "opciones": [
+        "Al Comité de Bioética de España.",
+        "Al Comité de Ética de la Investigación Clínica.",
+        "Al Ministerio de Sanidad.",
+        "Al Comité de Ética Asistencial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los Comités Éticos de Investigación Clínica. Desempeñarán las siguientes funciones:\n\na) Evaluar los aspectos metodológicos, éticos y legales de los ensayos clínicos que les sean remitidos.\n\nb) Evaluar las modificaciones relevantes de los ensayos clínicos autorizados.\n\nc) Realizar un seguimiento del ensayo, desde su inicio hasta la recepción del informe final."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Qué dos principios de la bioética están enfrentados en una situación de rechazo a las decisiones médicas?",
+      "opciones": [
+        "Autonomía - No maleficencia.",
+        "Beneficencia - No maleficencia.",
+        "Beneficencia - Autonomía.",
+        "No maleficencia - Justicia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Clásicamente se considera que todo problema de rechazo es un conflicto de valor entre una decisión médica tomada en beneficio del paciente en el contexto de su situación clínica y tras sopesar la relación riesgo/beneficio, y lo que el paciente quiere o (en este caso) no quiere que se haga con su cuerpo (autonomía) (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Las declaraciones legales que permiten a las personas articular valores y establecer preferencias terapéuticas que deberán ser respetadas en el futuro si pierden su capacidad se denominan:",
+      "opciones": [
+        "Consentimiento informado",
+        "Directrices anticipadas",
+        "Capacidades legales",
+        "Principio de autonomía"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El enunciado corresponde a la definición de las directrices anticipadas."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Para que un ensayo de investigación sea ético tiene que reunir los siguientes requisitos excepto:",
+      "opciones": [
+        "Razón riesgo/ beneficio favorable",
+        "Respeto a los sujetos inscritos con la posibilidad de permitirles salirse de la investigación",
+        "Que la selección de sujetos se haga cuidando de que no se seleccione a personas estigmatizadas para las investigaciones riesgosas, mientras que a las más favorecidas se les ofrezca participar en investigaciones de potencial más beneficioso",
+        "Evaluación del diseño del ensayo, la población sujeto propuesta y la razón riesgo/beneficio por individuos vinculados a la investigación."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La evaluación independiente es uno de los requisitos para que un ensayo de investigación sea ético. Debe ser realizada por sujetos AJENOS a la investigación. Por lo que la respuesta que hay que marcar es la 4.\n\nLa respuesta 3 hace referencia a la selección equitativa de los sujetos."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "El psiquiatra de interconsulta acude a examinar a un paciente en Cardiología que rechaza un tratamiento que el facultativo a cargo del caso considera indicado e insustituible. Tras la exploración no aprecia patología psiquiátrica alguna; el paciente comprende la información que se le ha aportado, los posibles beneficios y riesgos del tratamiento (incluido el fallecimiento), y sopesa adecuada y racionalmente esta información, pero se mantiene firme en su decisión de no ser tratado. El psiquiatra concluye que el enfermo está capacitado para la toma de decisiones en el ámbito de la atención sanitaria. La enfermedad que presenta el paciente, que se niega a firmar el alta voluntaria, no es infecciosa ni representa ningún riesgo especial para terceros. ¿Cuál es la decisión más adecuada a tomar?",
+      "opciones": [
+        "Ingreso en Psiquiatría para trabajar la negación y la rabia inherentes a su proceso.",
+        "Solicitar la intervención de familiares que autoricen la intervención.",
+        "Respetar la decisión del paciente y buscar las alternativas que haya disponibles para el caso.",
+        "Incapacitación civil."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La Ley de Autonomía del Paciente especifica claramente el derecho del paciente a rechazar un tratamiento. La valoración de la competencia para rechazar un tratamiento médico no es un tema específicamente psiquiátrico, aunque con frecuencia, en los hospitales, se acabe llamando al psiquiatra de guardia para que ayude a la hora de proceder con estas situaciones. El psiquiatra evaluará al paciente y determinará si existe o no alguna enfermedad neurológica o psiquiátrica que altere la capacidad de comprender la información que se le haya ofrecido sobre su problema de salud, a la vez que determinará si dicha información es de la calidad suficiente para que el sujeto pueda valorar adecuadamente los riesgos de las distintas opciones. En el caso de que el paciente sea capaz de procesar la información de una forma adecuada y exprese su negativa a la intervención propuesta no se podrá actuar contra su voluntad salvo que la patología concreta que presente suponga un problema para la Salud Pública por el riesgo para terceras personas (p.ej. tuberculosis bacilífera o multirresistente). Otra excepción al derecho del paciente a rechazar un tratamiento son las situaciones de urgencia vital, en las que los médicos se vean forzados a actuar sin poder obtener previamente el consentimiento del paciente."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "El síndrome de compresión medular es una patología frecuente en pacientes con procesos oncológicos avanzados. De las siguientes afirmaciones, indique la que NO es correcta:",
+      "opciones": [
+        "En el 90% de los casos existe dolor a nivel de la columna que aumenta con los movimientos y la tos, empeora con el decúbito y no suele ceder con analgesia habitual.",
+        "El 70% de las lesiones se localizan a nivel dorsal, el 20% a nivel lumbosacro y el 10% en segmentos cervicales.",
+        "El cáncer de próstata en los varones y el de mama en las mujeres son los tumores primarios que más frecuentemente producen este síndrome.",
+        "Entre el 8% y el 47% de los pacientes presentan compresión medular como primera manifestación clínica de su enfermedad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cáncer de pulmón en el varón es el tumor primario que más frecuentemente produce síndrome de comprensión medular. El cáncer de próstata se sitúa en segundo lugar en los varones, seguido por linfomas, sarcomas, tumores renales, mielomas y tumores gastrointestinales."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "En nuestro Sistema Nacional de Salud se procura que exista un Comité de Ética Asistencial. ¿En dónde?",
+      "opciones": [
+        "En cada Sistema Sanitario de las Comunidades Autónomas.",
+        "En cada Centro Sanitario.",
+        "En cada Área de Salud.",
+        "En cada Hospital General."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En nuestro Sistema Nacional de Salud se procura que exista además un Comité de Ética Asistencia en cada Hospital General (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "En la comunicación médico-paciente, todas las siguientes afirmaciones son ciertas, EXCEPTO:",
+      "opciones": [
+        "Mostar seguridad en las decisiones clínicas, para que el paciente las acate sin dudar.",
+        "Mostar empatía hacia el paciente y su familia.",
+        "Dedicar al paciente el tiempo que sea necesario hasta que nos aseguremos de que ha entendido perfectamente todo lo relativo a su proceso.",
+        "Realizar una explicación detallada de todos los aspectos relativos a la enfermedad y su tratamiento, siendo el paciente el que deba decidir acerca del mismo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El principio de autonomía defiende el derecho del paciente a ser informado de todo su proceso diagnóstico, terapéutico y pronóstico, siendo él mismo el que deba tomar la decisión final. El médico no debe imponer sus decisiones clínicas sin tener la seguridad de que el paciente realmente ha comprendido todos los aspectos relativos a las mismas."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Cuál de las siguientes situaciones NO supone un límite del consentimiento informado?",
+      "opciones": [
+        "Si existe riesgo para la salud pública",
+        "Si existe riesgo inmediato para el paciente",
+        "Si el paciente tiene 16 años, ya que al ser menor de edad, la toma de decisiones la llevará a cabo su representante legal, siempre después de haber escuchado su opinión.",
+        "Si el paciente no se encuentra en plenas facultades para la toma de decisiones, en este caso, se otorgará el consentimiento por representación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "(La minoría de edad establecida en el ámbito de la salud es de 16 años, por tanto, la respuesta tercera sería incorrecta)"
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Respecto a la información que recuerda el paciente de la que le trasmite el médico:",
+      "opciones": [
+        "El material que se presenta primero es el mejor recordado.",
+        "El recuerdo del paciente coincide con la información real trasmitida por el médico.",
+        "Es esencial ser meticuloso para detallar las posibles cuestiones técnicas que puedan surgir a lo largo del proceso de tratamiento (como por ejemplo, efectos secundarios de tratamiento) en la primera visita.",
+        "Cuanto más alto es el nivel intelectual del médico peor es lo que recuerda el paciente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El material que se presenta primero al paciente es el mejor recordado, por esto el médico debe elegir cuidadosamente el orden de la presentación de la información."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "El consentimiento informado tiene por objeto principal:",
+      "opciones": [
+        "Liberar al médico de responsabilidad si surgen complicaciones.",
+        "Evitar demandas judiciales por cualquier vía.",
+        "Respetar el principio de autonomía.",
+        "Incluir al paciente en lista de espera quirúrgica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": ""
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Con respecto a los conceptos de coma y muerta encefálica, es INCORRECTO que:",
+      "opciones": [
+        "La muerte encefálica, también llamada muerte cerebral, se define como el cese, completo pero irreversible de la actividad encefálica o cerebral.",
+        "Para el diagnóstico de muerte encefálica la aparente ausencia de función cerebral no es suficiente; se requieren varias pruebas de esa irreversibilidad.",
+        "La muerte encefálica supone la muerte del individuo, ya que se da una pérdida total e irreversible de las funciones cerebrales.",
+        "Cuando una persona está en coma, está muerto, ya que se da una pérdida de la conciencia sin actividad cerebral bioeléctrica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Cuando una persona está en coma, está viva, ya que hay una pérdida transitoria de la conciencia con actividad cerebral bioeléctrica (opción 4 incorrecta, por lo que la marcamos). Las demás opciones de respuesta son ciertas."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Los Comités de Ética Asistencial, ¿a quién orientan en sus decisiones?",
+      "opciones": [
+        "A los profesionales sanitarios.",
+        "Al paciente.",
+        "A los familiares del paciente.",
+        "A todos los anteriores."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un Comité de Ética Asistencial es un grupo multidisciplinar de personas que, dentro de una institución sanitaria, ha sido específicamente establecido para aconsejar a los profesionales sanitarios en sus decisiones sobre las cuestiones éticas planteadas en el curso de la práctica clínica."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "El cuidado de la piel es importante tanto en la persona sana como en la enferma. En las fases finales de la vida las pequeñas alteraciones en la textura y resistencia de la piel son fundamentales a la hora de aumentar el riesgo de aparición de determinadas alteraciones de la misma. Una de las lesiones más importantes en estos enfermos son las úlceras de decúbito o por presión, que suelen estar provocadas por el encamamiento prolongado. De entre las siguientes opciones, señale la FALSA:",
+      "opciones": [
+        "Cambios posturales cada 2-3 horas.",
+        "El paciente ha de estar siempre húmedo para garantizar la adecuada hidratación de la piel.",
+        "Se debe emplear jabón neutro para la higiene diaria.",
+        "Colocar un empapador entre el colchón y el paciente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La humedad es responsable de la maceración de la piel. El paciente ha de estar siempre seco. Es importante colocar un empapador entre el colchón y el paciente para que absorba la humedad."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "En la etapa final de la enfermedad terminal se produce un deterioro muy importante del estado general del enfermo, siendo un indicador fundamental de una muerte inminente. En relación al cuidado de los enfermos en fase agónica y al tratamiento de la sintomatología que puede aparecer, señale la opción FALSA:",
+      "opciones": [
+        "La posición más confortable para el enfermo suele ser el decúbito lateral con piernas flexionadas.",
+        "No es necesario el tratamiento específico de la fiebre si no crea problemas.",
+        "La vía de administración farmacológica de elección es la subcutánea.",
+        "No se debe prescindir del uso de narcóticos potentes aunque el paciente entre en coma."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La vía de elección en fase terminal de la enfermedad es la oral, mientras sea posible. El resto de las opciones son correctas."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "La exigencia que obliga a que las determinaciones diagnósticas y terapéuticas que se tomen con los pacientes respeten escrupulosamente el balance riesgo-beneficio y estén avaladas por la evidencia clínica, responde al principio bioético de:",
+      "opciones": [
+        "Autonomía.",
+        "No maleficencia.",
+        "Beneficencia.",
+        "Justicia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respeto a la autonomía\n\nRespeto activo a la libertad de elección de la persona, no sólo absteniéndose de obstaculizarla, sino procurando que se den las condiciones necesarias para practicarla. Para ejercerla plenamente, el sujeto debe conservar las facultades mentales y tiene que ejercer con libertad su voluntad (sin coerción ni coacción externa). Se pone en práctica a través del consentimiento informado\n\nBeneficencia\n\nObligación de actuar en beneficio del enfermo, ayudándole a promover sus legítimos intereses. Tras ser informado por el médico, el enfermo decide lo que es bueno para él dentro de las posibles alternativas\n\nNo maleficencia\n\nNo producir daños intencionadamente y evitar además los daños en la medida de lo posible, haciendo en cada decisión un balance del riesgo-daño vs beneficio\n\nJusticia\n\nDistribución equitativa entre todos los miembros de la sociedad de los recursos sanitarios, de los beneficios que ofrece el sistema sanitario y de las cargas precisas para mantenerlo (p. ej, impuestos)"
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Respecto a la actitud del médico en los casos de rechazo, señale la respuesta CORRECTA:",
+      "opciones": [
+        "El médico tiene la obligación ética de intentar persuadir, convenciendo con razones al paciente, para que reconsidere su postura.",
+        "El médico, una vez respetada su decisión de rechazo, dará de alta al paciente sin obligación explorar tratamiento alternativos.",
+        "No es labor del médico, sino de las autoridades judiciales, investigar la posible existencia de coacciones externas por parte de la familia que determinen su decisión de rechazo.",
+        "El médico deberá aceptar sin más la decisión del paciente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Antes de aceptar el rechazo, hay que dar argumentos e intentar convencer al paciente sobre qué es lo mas apropiado (sin manipular ni coaccionar)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Marca la afirmación INCORRECTA acerca del consentimiento informado:",
+      "opciones": [
+        "Por norma general, es un documento escrito",
+        "Entre sus finalidades se encuentra la de otorgar protección jurídica a los profesionales sanitarios",
+        "Aún cuando el paciente tenga la capacidad modificada, debe ser él el que otorgue su consentimiento para un intervención, ya que al fin y al cabo es el máximo representante de la voluntad sobre su cuerpo.",
+        "Todas las anteriores"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "(Por normal general, es un documento VERBAL, se suministrará por escrito en los siguientes supuestos: intervenciones quirúrgicas, procedimientos diagnósticos y terapéuticos invasores, y en general, cualquier intervención que pueda suponer un riesgo potencial notorio sobre el paciente. Su finalidad es la de informar al paciente, NO la de otorgar protección jurídica al profesional que le atiende. La respuesta tercera también es falsa porque existen limitaciones al consentimiento informado, como lo es la capacidad modificada judicialmente.)"
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Paciente de 79 años, que acude por cuarta vez consecutiva a un Servicio de Urgencias debido a dolor en columna dorsal resistente a la analgesia habitual, con una puntuación EVA de 9. Se le realiza TC urgente de columna, en el que se evidencia una masa de partes blandas a nivel de D5-D6 que infiltra el espacio epidural sin aparente compresión medular. Ante dichos hallazgos y con el antecedente de hiperplasia benigna de próstata, se realiza una determinación de PSA con un valor de 1.027 ng/ml. ¿Cuál de las siguientes actitudes terapéuticas NO estaría indicada?",
+      "opciones": [
+        "AINEs y opioides en combinación con fármacos coadyuvantes.",
+        "Radioterapia urgente.",
+        "Agonistas LHRH y antiandrógenos.",
+        "Vertebroplastia o cementación del cuerpo vertebral afecto."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los agonistas LHRH actúan inhibiendo el eje gonadal mediante un feedback negativo sobre el hipotálamo, lo que origina una elevación transitoria de los niveles de testosterona. No se deben administrar cuando existe riesgo de compresión medular porque pueden agravar la clínica."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "El principio que implica tratar a cada paciente como corresponde, disminuyendo las situaciones de desigualdad, se denomina Principio de:",
+      "opciones": [
+        "Igualdad.",
+        "Justicia.",
+        "Solidaridad.",
+        "No discriminación."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se debe tratar a cada uno como corresponde, disminuyendo las situaciones de desigualdad con un equitativo reparto de los recursos sanitarios, atendiendo a parámetros como las necesidades personales, capacidad económica, etc."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "La comunicación en la práctica clínica tiene como objetivo PRIMORDIAL:",
+      "opciones": [
+        "La gratificación profesional.",
+        "El avance científico.",
+        "Servir a las necesidades del paciente.",
+        "La exactitud diagnóstica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La comunicación es un acto fundamental en la práctica clínica y tiene como objetivo primario servir a las necesidades del paciente (respuesta 3 correcta). Una comunicación efectiva mejora la satisfacción del paciente, así como la comprensión y la adherencia a las estrategias terapéuticas implementadas. Las habilidades de comunicación constituyen uno de los elementos esenciales de la competencia clínica del profesional sanitario. El método central de la comunicación en la práctica clínica es la entrevista clínica, a través de la que se debe crear una buena relación profesional sanitario-paciente, donde el profesional debe aplicar tanto sus conocimientos técnicos como su humanidad para obtener la máxima confianza por parte del paciente."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Cuál de las siguientes afirmaciones NO es correcta con respecto a los principios básicos de la Bioética?",
+      "opciones": [
+        "Son las fuentes fundamentales a partir de las cuales justificamos las pautas para la acción, los deberes y las reglas.",
+        "La capacidad de comprensión y la falta de coerción externa son fundamentales a la hora del ejercicio de la autonomía.",
+        "El principio de beneficencia y el de autonomía están relacionados y en ocasiones pueden entrar en conflicto.",
+        "El principio de justicia se refiere a la compensación debida a los pacientes por las posibles malas prácticas médicas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El principio de justicia se refiere a la distribución equitativa de recursos, beneficios y cargas entre todos los miembros de la sociedad (opción 4 incorrecta, por lo que la marcamos). El principio de justicia puede desdoblarse en dos: un principio formal (tratar igual a los iguales y desigual a los desiguales) y un principio material (determinar las características relevantes para la distribución de los recursos sanitarios: necesidades personales, mérito, capacidad económica, esfuerzo personal, etc.). La política sanitaria se basa en el principio de justicia, y será tanto más justa en cuanto que consiga una mayor igualdad de oportunidades para compensar las desigualdades."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Si un profesional sanitario atiende a personas con enfermedades que puedan suponer un peligro para terceros:",
+      "opciones": [
+        "Podrá denunciarlo a la autoridad competente.",
+        "Deberá denunciarlo a la autoridad competente.",
+        "Su obligación de secreto profesional le impide denunciarlo.",
+        "Solo está obligado denunciarlo si se trata de enfermedad grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Existen excepciones a la obligación del secreto profesional de los profesionales sanitarios, como las situaciones que puedan suponer un peligro para la salud pública o para terceras personas. A esto se le llama Estado de Necesidad en el Código Penal art. 20.5, que consiste en la vulneración de un derecho para evitar un mal mayor. Así, los profesionales sanitarios tienen la obligación de declarar los casos de enfermedades infectocontagiosas detalladas por la Autoridad Sanitaria, con fines epidemiológicos y de prevención."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Un paciente de 69 años, fumador, sin otros antecedentes de interés, acude a su consulta de atención primaria con un cuadro de tos, sin fiebre ni expectoración. Se realiza Rx de tórax donde se observa un opacificación completa del LSD. Tras dichos hallazgos, se realiza TC de tórax donde se observa tumoración broncogénica con adenopatías mediastínicas múltiples y metástasis hepáticas en ambos lóbulos. Posteriormente se somete a fibrobroncoscopia con toma de biopsia que confirma el diagnóstico de carcinoma microcítico de pulmón. Señale cuál es la actitud más adecuada:",
+      "opciones": [
+        "Informar al paciente de su diagnóstico si éste lo desea, intentando resolver sus dudas iniciales sobre la enfermedad y el proceso de tratamiento.",
+        "Derivar al paciente a una consulta de oncología para que le comuniquen el diagnóstico y todo lo que necesite saber a cerca de la enfermedad y del tratamiento.",
+        "No decirle la verdad acerca del diagnóstico y pronóstico de la enfermedad, evitando la palabra cáncer la explicación.",
+        "Preguntar a la familia si quieren que el paciente conozca su diagnóstico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Informar al paciente acorde a su deseo de conocer sobre la enfermedad que padece, demostrando empatía con el enfermo, con un trato de calidad y calidez."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Uno de los siguientes principios NO es un objetivo de los cuidados paliativos. Señálelo:",
+      "opciones": [
+        "El paciente debe recibir una atención integral, individualizada y continua.",
+        "El tratamiento se dirigirá al enfermo y a la familia.",
+        "Tomar decisiones terapéuticas por el paciente que garanticen su confort debido al deterioro de su estado general.",
+        "Tomar una actitud terapéutica activa en el tratamiento de los pacientes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las decisiones terapéuticas siempre deben estar regidas por el fomento de la Autonomía y Dignidad del paciente, de modo que este debe participar en todas las decisiones que se lleven a cabo sobre su tratamiento."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "En el paciente en cuidados paliativos con enfermedad terminal, indique cuál de las siguientes opciones NO es causa de confusión o delirio:",
+      "opciones": [
+        "Metástasis cerebrales.",
+        "Demencia progresiva.",
+        "Encefalopatía por fallo orgánico.",
+        "Trastornos hidroelectrolíticos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La confusión o delirio se define como un proceso reversible, al contrario de lo que ocurre con la demencia, que es progresiva e irreversible, por lo que no se puede incluir la demencia como causa de confusión o delirio. Las dos patologías podrían coexistir en el mismo paciente."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "En relación a la sedación paliativa, es CIERTO que:",
+      "opciones": [
+        "El objetivo primordial es el control sintomático.",
+        "No es necesario un consentimiento por parte del paciente, explícito, implícito o delegado.",
+        "No es preciso que el paciente presente síntomas refractarios al tratamiento específico.",
+        "Disminuir el tiempo de agonía es uno de sus objetivos secundarios."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El objetivo fundamental de la sedación es realizar un control sintomático mediante la disminución del nivel de conciencia ante la presencia de síntomas refractarios al tratamiento específico. Es necesario un consentimiento por parte del paciente o de su familia en caso de que sea delegado. Nunca persigue acelerar el proceso de muerte, aunque en algunas ocasiones sea un efecto colateral."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Con relación al dolor oncológico, una de las siguientes afirmaciones NO es correcta. Señálala:",
+      "opciones": [
+        "La sensación de dolor en totalmente subjetiva y solo el paciente puede percibirla.",
+        "Las leucemias son los procesos neoplásicos que presentan una mayor prevalencia de dolor.",
+        "El dolor no debe ser contemplado como un síntoma aislado.",
+        "Entre los enfermos con cáncer avanzado, el 50% sufren dolor de moderado a severo, y un 30% muy severo o intolerable."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las leucemias son los procesos neoplásicos con la menor frecuencia de dolor en relación con el resto de patologías."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Paciente que acude a Urgencias debido a un cuadro autolimitado de rectorragia franca. Es ingresado para observación y realización de una colonoscopia diagnóstica al día siguiente. Cuando el paciente llega a la sala de endoscopias, se niega a someterse a la prueba. Señale la afirmación CORRECTA:",
+      "opciones": [
+        "Debemos intentar convencerle de la conveniencia de la colonoscopia. Si tras ello el paciente se mantiene en su decisión, se debe respetar la decisión del paciente, siendo necesario pensar en posibles alternativas.",
+        "El paciente puede tener cáncer no diagnosticado, por lo que se procederá a realizar la prueba bajo anestesias general.",
+        "Debemos poner el caso en conocimiento del juez de guardia para que el paciente se someta a la prueba bajo imperativo judicial.",
+        "Debemos dejar que el paciente se tranquilice e intentar realizar la prueba al día siguiente con la autorización de la familia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según la Ley de Autonomía, el paciente puede rechazar un tratamiento o una prueba indicada si está capacitado para hacerlo. Los profesionales deben recomendarle que es lo mejor y si el paciente lo rechaza, los profesionales deben buscar y ofrecer las mejores alternativas disponibles (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "La bioética ha sido definida como “el estudio sistemático de las dimensiones, conductas y políticas, de las ciencias de la vida y de la salud, empleando una variedad de metodologías éticas en un marco interdisciplinario”. Una de las siguientes afirmaciones sobre los principios legales de la bioética NO es correcta. Señálala:",
+      "opciones": [
+        "La capacidad es la aptitud para gestionar y realizar los actos necesarios que sean decisivos para los intereses de una persona. Nadie puede ser incapacitado sin una sentencia judicial.",
+        "El consentimiento informado se define como la decisión diagnóstica o terapéutica legalmente válida tomada voluntariamente por un paciente con capacidad y basada en la información sobre riesgos, beneficios y tratamientos alternativos, derivada de la comunicación con un profesional de la salud.",
+        "Las directrices anticipadas exigen que las determinaciones diagnóstico-terapéuticas que se tomen con los pacientes respeten escrupulosamente el balance riesgo-beneficio y estén avaladas por la evidencia científica.",
+        "La responsabilidad médica es la obligación moral y legal que tienen los médicos de satisfacer y reparar las consecuencias de los actos, omisiones y errores voluntarios, e incluso involuntarios, cometidos durante el ejercicio de su profesión."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las directrices anticipadas son declaraciones legales que permiten a las personas articular valores y establecer preferencias terapéuticas que deberán ser respetadas en el futuro si pierden su capacidad (opción 3 incorrecta, por lo que la marcamos). Las demás opciones de respuesta son correctas."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "El psiquiatra de interconsulta acude a examinar a un paciente en Cardiología que rechaza un tratamiento que el facultativo a cargo del caso considera indicado e insustituible. Tras la exploración no aprecia patología psiquiátrica alguna. El paciente comprende la información que se le ha aportado, los posibles beneficios y riesgos del tratamiento (incluido el fallecimiento), y sopesa adecuada y racionalmente esta información, pero se mantiene firme en su decisión de no ser tratado. El psiquiatra concluye que el enfermo está capacitado para la toma de decisiones en el ámbito de la atención sanitaria. La enfermedad que presenta el paciente, que se niega a firmar el alta voluntaria, no es infecciosa ni representa ningún riesgo especial para terceros. ¿Cuál es la decisión MÁS adecuada a tomar?",
+      "opciones": [
+        "Ingreso en Psiquiatría para trabajar la negación y la rabia inherentes a su proceso.",
+        "Solicitar la intervención de familiares que autoricen la intervención.",
+        "Alta hospitalaria.",
+        "Informar al juez con el fin de que ordene tratamiento."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La Ley de Autonomía del Paciente especifica claramente el derecho del paciente a rechazar un tratamiento. La valoración de la competencia para rechazar un tratamiento médico no es un tema específicamente psiquiátrico, aunque con frecuencia, en los hospitales, se acabe llamando al psiquiatra de guardia para que ayude a la hora de proceder con estas situaciones. El psiquiatra evaluará al paciente y determinará si existe o no alguna enfermedad neurológica o psiquiátrica que altere la capacidad de comprender la información que se le haya ofrecido sobre su problema de salud, a la vez que determinará si dicha información es de la calidad suficiente para que el sujeto pueda valorar adecuadamente los riesgos de las distintas opciones. En el caso de que el paciente sea capaz de procesar la información de una forma adecuada y exprese su negativa a la intervención propuesta, no se podrá actuar contra su voluntad salvo que la patología concreta que presente suponga un problema para la Salud Pública por el riesgo para terceras personas (como por ejemplo, tuberculosis bacilífera o multirresistente). Otra excepción al derecho del paciente a rechazar un tratamiento son las situaciones de urgencia vital, en las que los médicos se vean forzados a actuar sin poder obtener previamente el consentimiento del paciente."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "En cuál de los siguientes supuestos no es aplicable el principio de autonomía:",
+      "opciones": [
+        "Paciente menor de edad, en situación de emancipación",
+        "Paciente mayor de edad, con máximo grado de incapacitación judicial",
+        "Paciente de 16 años, declarado competente por su médico de atención primaria",
+        "Paciente mayor de edad, con esquizofrenia paranoide, declarado competente por su psiquiatra habitual"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En el segundo supuesto el paciente tiene incapacitación legal máxima, con lo que no podrá ejercer plenamente el principio de autonomía. El resto de opciones son ciertas."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Un paciente con diagnóstico de melanoma metastásico acude a urgencias presentando intenso dolor en columna dorsal de 24 h de evolución. A su llegada a urgencias el paciente refiere sensación de parestesias en cara anterolateral del miembro inferior izquierdo. Señale la actitud más adecuada:",
+      "opciones": [
+        "Administrar morfina y si cede el dolor hacer seguimiento domiciliario.",
+        "Realizar cirugía urgente.",
+        "Administrar dexametasona y solicitar una RM urgente de columna dorsal.",
+        "Administrar dexametasona e iniciar radioterapia urgente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción correcta es la 3:\n\nAdministrar dexametasona y solicitar una RM urgente de columna dorsal."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "¿Cuál de las siguientes opciones NO se engloba entre los cuidados de un paciente ante la muerte?",
+      "opciones": [
+        "El acompañamiento físico de las personas",
+        "El mantenimiento y continuación de todos los tratamientos previos del paciente",
+        "El proporcionar confort o apoyo espiritual en caso necesario",
+        "El cuidado y atención a familiares y allegados a lo largo del proceso."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En el proceso de morir, igual que en cualquier otro momento de la vida de los pacientes, es esencial la revisión frecuente del tratamiento, para confirmar que se adecua al plan de cuidados general del paciente. Esta adecuación dinámica de medidas es parte esencial del cuidado médico del paciente"
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Pedro, un hombre de 42 años, consulta con su médico de familia para el control periódico de una hipertensión arterial diagnosticada hace dos años. El médico comprueba que el paciente es fumador de 15 cigarrillos/día y plantea como objetivo al paciente el abandono del hábito tabáquico. Pregunta al paciente si se ha planteado con anterioridad dejar de fumar, si lo ha conseguido y ha recaído en alguna ocasión. Después de escuchar los puntos de vista de Pedro en relación con el abandono del tabaco, identifica ambivalencias del paciente en relación a su conducta y negocia con él un plan para conseguir el objetivo planteado. La entrevista clínica realizada por el médico de familia se denomina:",
+      "opciones": [
+        "Entrevista semiológica.",
+        "Entrevista informativa.",
+        "Entrevista motivacional.",
+        "Entrevista operativa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción de respuesta correcta es la 3, ya que nos encontramos ante un paciente fumador que acude a su médico de familia y se plantea el objetivo de abandonar el hábito tabáquico. Repasemos los distintos tipos de entrevista:\n\n- Entrevista semiológica: Modalidad de entrevista en la que nos marcamos como objetivo establecer la presencia de unos síntomas o signos para los que se nos pide una orientación diagnóstica. Ejemplo: paciente que acude por un dolor torácico.\n\n- Entrevista informativa y/o prescriptiva: Modalidad de entrevista en la que el profesional debe informar y/o prescribir unos consejos. Puede ser la segunda parte de una entrevista semiológica. Ejemplo: debemos recomendar la mejor estrategia para un paciente con una fuerte bronquitis.\n\n- Entrevista motivacional: Modalidad de entrevista en la que el profesional trata de cambiar hábitos y actitudes a partir de la propia motivación que el paciente es capaz de generar. Ejemplo: Paciente fumador que desea dejar de fumar.\n\n- Entrevista operativa: Modalidad de entrevista en la que profesional y paciente tienen claro el contenido de la entrevista: control de un determinado padecimiento, aplicación de una técnica, etc. Ejemplo: paciente que acude para una cura de una herida."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Si un profesional sanitario atiende a personas con enfermedades que puedan suponer un peligro para la salud pública:",
+      "opciones": [
+        "Podrá denunciarlo a la autoridad competente",
+        "Deberá denunciarlo a la autoridad competente",
+        "Su obligación de secreto profesional le impide denunciarlo",
+        "Sólo está obligado denunciarlo si se trata de enfermedad grave"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Existen excepciones a la obligación del secreto profesional de los profesionales sanitarios: - Situaciones que puedan suponer un peligro para la salud pública o para terceras personas. A esto se le llama Estado de Necesidad en el Código Penal art. 20.5, que consiste en la vulneración de un derecho para evitar un mal mayor. Así, los profesionales sanitarios tienen la obligación de declarar los casos de enfermedades infecto-contagiosas detalladas por la Autoridad Sanitaria, con fines epidemiológicos y de prevención."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Paciente de 90 años, pluripatológico, diagnosticado de insuficiencia cardiaca congestiva en fase terminal que ha precisado múltiples ingresos hospitalarios. Durante el ingreso actual se constata una fracción de eyección del ventrículo izquierdo del 15%, recibiendo tratamiento con oxigenoterapia, vasodilatadores, diuréticos, betabloqueantes y dobutamina, a pesar del cual está en anasarca con fallo multiorgánico y se encuentra con disnea grado IV. La actitud MÁS adecuada en el momento actual, sería:",
+      "opciones": [
+        "Cateterismo cardiaco con angiografía coronaria e implantación de stent.",
+        "Envío a su domicilio para que fallezca allí acompañado de su familia.",
+        "Administración de morfina intravenosa, junto con escopolamina y midazolam.",
+        "Aumentar el tratamiento diurético combinando furosemida y eplerenona hasta normalizar el balance hídrico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nos encontramos ante un paciente en fase terminal de su enfermedad con ausencia de respuesta al tratamiento óptimo, con lo que en este momento debe primar el confort del paciente sobre las medidas terapéuticas, por lo que es necesario administrar tratamiento sintomático. La morfina ayuda a controlar la disnea, la escopolamina es un anticolinérgico que ayuda a controlar las secreciones y los estertores, y el midazolam es una benzodiacepina de acción rápida que puede ayudar a sedar al paciente en caso necesario."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Una paciente de 79 años con cirrosis hepática, cáncer de colon desestimado para cirugía y con insuficiencia cardiaca en estadio 4 de la NYHA, ingresa por aumento de su disnea y anasarca, con intensa disnea e insuficiencia respiratoria crrónica. Durante el ingreso la paciente presenta además fallo renal agudo (sobre una ERC E-4). Existe refractariedad al tratamiento con furosemida. Señales cuál de las siguientes actitudes le parece más adecuada:",
+      "opciones": [
+        "Administrar morfina hasta que ceda la disnea y comenzar diálisis urgente.",
+        "Comunicar a la familia que la paciente va a morir y no se puede hacer nada por ella.",
+        "Informar a la familia del mal pronóstico de la situación e indicar tratamiento sintomático paliativo.",
+        "Aumentar la dosis de furosemida e iniciar tratamiento con eplerrenona."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En este caso se debe dar prioridad al tto. sintomático."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Respecto a los conflictos éticos sobre la terminalidad, es CIERTO que:",
+      "opciones": [
+        "Difieren sustancialmente respecto a los que se pueden plantear en pacientes ingresados en UCI.",
+        "En los pacientes en situación terminal la hidratación o la alimentación no se deben consideran medidas “susceptibles de limitación”.",
+        "Es frecuente que se pueda caer en la obstinación terapéutica o diagnóstica en pacientes en situación terminal.",
+        "Los problemas de comunicación/información son poco frecuentes en la práctica clínica habitual."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Especialmente en el caso de pacientes con insuficiencia terminal de órgano sólido, no es infrecuente la “obstinación” en la resolución de las exacerbaciones agudas de la patología de base, incluso a pesar de que el paciente pueda encontrarse en situación de terminalidad (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Paciente de 62 años con diagnóstico de carcinoma microcítico de pulmón con metástasis ganglionares, hepáticas y óseas, encamado todo el día, en tratamiento sintomático con morfina y dexametasona, que comienza con agitación psicomotriz progresiva que no responde a la administración de dos ampollas de haloperidol. Se le realiza analítica que evidencian natremia de 95 mEq/L. Señale cuál de las siguientes actitudes terapéuticas le parece MÁS adecuada:",
+      "opciones": [
+        "Continuar con la administración de 5 mg de haloperidol cada 4 horas hasta alcanzar 30 mg.",
+        "Sedación con midazolam en dosis ascendente hasta control sintomático por agitación como evento terminal.",
+        "Administración de sueroterapia hipertónica, monitorización de diuresis y administrar tolvaptán si la respuesta no es idónea.",
+        "Restricción de líquidos y control de diuresis, con monitorización de constante y realizar una nueva analítica a las 4 horas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico sobre un paciente que se encuentra en fase terminal de su enfermedad, por lo que, ante un cuadro confusional probablemente refractario al tratamiento específico, se debe iniciar sedación paliativa con midazolam por vía subcutánea o intravenosa (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "El uso de sonda nasogástrica en enfermos terminales debe quedar restringido a situaciones muy concretas. Una de las siguientes afirmaciones NO es correcta. Señálala:",
+      "opciones": [
+        "Problemas obstructivos altos que originan disfagia u odinofagia intensas.",
+        "Anorexia secundaria al síndrome sistémico derivado de la progresión tumoral.",
+        "Disfunciones epiglóticas.",
+        "Fístula orofaríngea."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cuando la debilidad y la anorexia son debidas al síndrome sistémico de progresión de enfermedad, la sonda no resolverá ninguno de estos problemas."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Si la renuncia a realizar una transfusión necesaria, es realizada por el representante de un menor:",
+      "opciones": [
+        "No se respetará la decisión del representante del menor",
+        "Se respetará la decisión del representante del menor",
+        "Se debe recabar el consentimiento de la autoridad judicial",
+        "Se tomará la decisión por el médico responsable"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La negativa a recibir transfusiones sanguíneas por parte de miembros de determinados grupos religiosos por considerarlas contrarias a sus creencias: Si el paciente el mayor de 16 años, con plena capacidad, se debe respetar su decisión. Si el paciente es un menor de edad o incapaz, y la renuncia a la transfusión es realizada por su representante, se debe de recabar el consentimiento de la autoridad judicial, en el que primará el pº de curar sobre el de la libertad religiosa"
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Todos los siguientes tipos de dolor son refractarios al tratamiento con fármacos opiáceos, EXCEPTO el dolor:",
+      "opciones": [
+        "Óseo.",
+        "Por tenesmo rectal.",
+        "Por distensión gástrica.",
+        "Por espasmo muscular."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los dolores sensibles a opioides son: visceral, primario con exceso de nocicepción, óseo, y dolor por compresión nerviosa. Las demás opciones de respuesta son insensibles a los opioides."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Nos encontramos ante un paciente en situación terminal en fase de agonía. ¿Cuál sería la actitud MÁS adecuada respecto a su alimentación?",
+      "opciones": [
+        "Alimentación parenteral con dieta hiperproteica a través de una vía central.",
+        "Pequeñas ingestas de zumo e higiene buco-oral con enjuagues antisépticos.",
+        "Colocación de sonsa nasogástrica y alimentación enteral hiperproteica.",
+        "Sueroterapia con aporte gluco-electrolítico estándar y controles estrictos de la homeostasis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En situación de agonía la dieta debe limitarse a pequeñas cantidades de líquidos y cuidados de la boca (respuesta 2 correcta). La hidratación o la nutrición parenteral no mejoran el estado de los enfermos agónicos, y la mayor parte de la medicación puede administrarse por vía subcutánea o rectal."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Un paciente de 79 años de edad que vive con su hija y su yerno es traído a urgencias por alteración progresiva del nivel de conciencia. Su hija refiere que ha pasado los últimos 3 días en la cama con ideas delirantes. La exploración física evidencian úlceras en sacro avanzadas con eritema adyacente y equimosis en brazos y piernas. Señale cuál es el primer diagnóstico a tener en cuenta:",
+      "opciones": [
+        "Sepsis de origen cutáneo.",
+        "Intoxicación farmacológica.",
+        "Abuso del anciano.",
+        "Demencia no diagnosticada."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los síntomas indican un cuidado y manejo inadecuados del paciente en el domicilio."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Con respecto a la actitud del médico en los casos de rechazo, señale la afirmación CORRECTA:",
+      "opciones": [
+        "El médico tiene la obligación ética de intentar persuadir, convenciendo con razones al paciente, para que reconsidere su postura.",
+        "El médico, una vez respetada su decisión de rechazo, dará de alta al paciente sin obligación explorar tratamiento alternativos.",
+        "No es labor del médico, sino de las autoridades judiciales, investigar la posible existencia de coacciones externas por parte de la familia que determinen su decisión de rechazo.",
+        "El médico deberá aceptar sin más la decisión del paciente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El médico tiene la obligación ética de defender su decisión clínica ante la situación de rechazo (respuesta 1 correcta); para ello, el médico tratará de influir en el paciente, ganando su confianza y convenciendo con razones. A esto se denomina persuasión. Si con las razones que justifican su postura, el médico no consiguiese convencer al paciente, respetará su posición y propondrá la adopción de medidas alternativas."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "¿Qué dice la deontología respecto a la limitación de los esfuerzos terapéuticos y la sedación terminal?",
+      "opciones": [
+        "Si el estado clínico del paciente no le permite tomar decisiones, el médico consultará con la familia qué hacer, aunque el paciente haya dejado indicaciones explícitas sobre ello.",
+        "Cuando no sea posible la mejoría o la curación permanece la obligación de aplicar medidas para conseguir el bienestar, aun cuando de ello pudiera derivarse un acortamiento de la vida.",
+        "El médico deberá emprender acciones terapéuticas aunque no haya esperanza de beneficios para el enfermo, porque la obligación del médico es curar.",
+        "Si el paciente manifiesta voluntad explícita de rechazar un tratamiento para prolongar su vida, el médico no tendrá en cuenta dicha voluntad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Siempre que exista un estudio pormenorizado del caso, si hay una indicación para realizar limitación de los esfuerzos terapéuticos o sedación terminal, la deontología apoya dichas medidas. Mucho más si se cuenta con la autorización del paciente, algo que no siempre es posible por la mala situación clínica de muchos pacientes terminales, que pierden la capacidad de decidir."
+    }
+  ]
+}

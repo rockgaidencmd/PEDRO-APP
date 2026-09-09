@@ -1,0 +1,506 @@
+{
+  "materia": "traumato",
+  "paginaInicio": 1,
+  "paginaFin": 19,
+  "anomalias": [
+    "p7: en el comentario, tras afirmar que la clavícula NO cursa con pseudoartrosis, se cierra con 'presentan una tasa elevada de pseudoartrosis, de alrededor del 5%', calificando de elevado un 5%",
+    "p8: el comentario dice 'inmovilizar la muñeca con escayola durante 23 meses'; el guion de '2-3 meses' no se rasterizó y el dato queda como un plazo imposible",
+    "p14: en la pregunta '¿Cuál de las siguientes fracturas suele precisar tratamiento quirúrgico?:' el comentario repasa 'las fracturas del cuerpo de la escápula', que no figura entre las cuatro opciones",
+    "p18: la pregunta '¿En cuál de las siguientes fracturas NO está indicado el tratamiento quirúrgico?:' repite literalmente las opciones y la clave (3) de la pregunta ya planteada en p11, solo cambia el preámbulo del enunciado",
+    "p19: el comentario de la epifisiólisis es contradictorio: 'el plano de clivaje se produce a nivel de la capa de células hipertrófica, sin llegar a lesionar la capa hipertrófica'"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cuál es la fractura de estrés más frecuente?",
+      "opciones": [
+        "Cuello de fémur.",
+        "Tibia.",
+        "Metatarsianos.",
+        "Clavícula."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se considera fractura de estrés o por sobrecarga aquéllas debidas a microtraumatismos repetidos, sea en hueso normal o en hueso patológico (a veces ocurre en las pseudofracturas de Looser Milkman del raquitismo).\n\nOpción 3: De éstas, la más frecuente es la que afecta al cuello del 2º metatarsiano, tradicionalmente denominada fractura de Deutchlander o del recluta, relacionada con largas caminatas propias de la instrucción militar. También podemos encontrar fracturas de estrés en la región de la tibia o fémur en pacientes deportistas, y más infrecuente en el cuello femoral.\n\nSe trata de fracturas generalmente poco desplazadas, para las que el diagnóstico precoz puede realizarse mediante RNM o gammagrafía. En muchas ocasiones se diagnostican en fase de callo de fractura, siendo suficiente el tratamiento conservador mediante descarga en la mayoría de los casos."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Las dos indicaciones más reseñables para la fijación externa en un quirófano de urgencias son:",
+      "opciones": [
+        "Fracturas abiertas de fémur y de tibia.",
+        "Fractura abierta de tibia y fractura de pelvis inestable.",
+        "Fractura de pelvis inestable y síndrome compartimental.",
+        "Fractura luxación de Lisfranc y fractura abierta de tibia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un quirófano de urgencias, las dos indicaciones más reseñables para la colocación de un fijador externo son la fractura abierta de tibia y la fractura de pelvis inestable (respuesta 2 correcta). Fuera del contexto de urgencias, otras indicaciones para la utilización de la fijación externa serían: alargamiento óseo, osteomielitis, ausencia de consolidación infectada, etc."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "En un paciente de 60 años, con una artrosis avanzada y limitante en su cadera izquierda, ¿qué artroplastia estaría más indicada?",
+      "opciones": [
+        "Prótesis parcial de cadera cementada.",
+        "Prótesis total de cadera cementada.",
+        "Prótesis parcial de cadera no cementada.",
+        "Prótesis total de cadera no cementada."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En una paciente con una artrosis avanzada de cadera no tiene sentido indicar una artroplastia parcial porque el acetábulo está también artrósico. La artroplastia parcial está indicada en las fracturas intracapsulares en ancianos. Luego eliminamos la 1 y la 3. En una paciente \"joven\", \"biológicamente joven - edad laboral\", la prótesis total de cadera debería ser idealmente no cementada por tener mejor integración en el hueso, ser más duradera, y más fácil de recambiar si existiera una complicación futura como una fractura. Luego la 4 es correcta"
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Paciente de 27 años de edad con buen estado general y con fracturas desplazadas de tercio medio de cúbito y radio. ¿Cuál es el tratamiento a seguir?:",
+      "opciones": [
+        "Reducción de las fracturas con anestesia general y yeso durante dos meses.",
+        "Osteosíntesis estable y movilización precoz de las articulaciones vecinas.",
+        "Osteosíntesis estable y yeso protector.",
+        "Reducción de la fractura con anestesia y vendaje funcional precoz."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La fractura en el adulto de la diáfisis cubital y radial produce la rotura en dos puntos del anillo formado por cúbito, radio, articulación radiocubital proximal y articulación radiocubital distal. Esto se traduce en inestabilidad del antebrazo y en la pérdida de la pronosupinación del antebrazo. Su tratamiento es, por tanto, quirúrgico, en este caso con placa y tornillos. Para evitar rigideces articulares a nivel de muñeca y codo, después de la cirugía no se necesita inmovilización con yeso y se inicia la movilización precoz. Por tanto, la respuesta correcta es la 2."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Paciente de 25 años que sufre, tras un accidente de moto, una fractura abierta grado IIIB de tibia y peroné de la pierna izquierda. ¿Cuál de los siguientes es el tratamiento más indicado?",
+      "opciones": [
+        "Reducción de la fractura, cierre de la herida y yeso cerrado.",
+        "Cierre de la herida y colocación de una tracción transcalcánea.",
+        "Lavado de la herida y colocación de un fijador externo.",
+        "Lavado de la herida y osteosíntesis con placa y tornillos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico sobre una fractura abierta grado III, cuyo tratamiento de elección es el fijador externo (previa descontaminación de la herida) (respuesta 3 correcta). El elevado riesgo de infección hace que la osteosíntesis con placa y tornillos sea una contraindicación (relativa)."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "El mejor método de tratamiento de una fractura de tercio medio de clavícula desplazada es:",
+      "opciones": [
+        "Reducción y vendaje en ocho.",
+        "Reducción y vendaje de Velpeau.",
+        "Osteosíntesis.",
+        "Enclavado intramedular."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las fracturas de clavícula son unas de las mas frecuentes de la anatomía. En su mayor parte obedecen a traumatismos indirectos sobre el brazo o el hombro, fracturándose sobre todo en la región del tercio medio.\n\nSi la fractura se encuentra desplazada, intentaremos reducir los fragmentos, hechando los brazos del paciente hacia atrás y manteniendo esta posición mediante un vendaje en ocho de Guarismo (opción 1 correcta). Si la fractura no está desplazada, será suficiente con una inmovilización en cabestrillo de cualquier tipo (malla, velpeau, Gill- Christ, etc.). Las indicaciones quirúrgicas en la clavícula son infrecuentes y se reservan para las fracturas- luxación de 1/3 distal, fracturas abiertas, pseudoartrosis, lesión vascular y articulación flotante."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Tras sufrir un accidente de moto, un joven es visto en urgencias por presentar una fractura espiroidea de tercio medio de húmero y déficit de extensión de muñeca y dedos. La actitud terapéutica será:",
+      "opciones": [
+        "Enclavado intramedular de la fractura sin abrir el foco y revisión de la evolución de la lesión del nervio radial.",
+        "Revisión quirúrgica del nervio nervio radial y posteriormente inmovilizar con un yeso colgante.",
+        "Velpeau y revisiones para ver la evolución de la lesión del nervio radial.",
+        "Yeso colgante y esperar la evolución de la lesión nerviosa de la posible lesión neurológica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las fracturas espiroideas de tercio medio de húmero se caracterizan por presentar cierto grado de acortamiento por lo que se benefician de un dispositivo inmovilizador que por su propio peso ejerce tracción sobre la fractura y la alinea en parte, como el yeso colgante de Caldwell. La lesión neurológica asociada con mayor frecuencia en las fracturas diafisarias de húmero es la del Nervio. radial, que ocasionará un defecto funcional de toda la musculatura extensora y supinadora del antebrazo a ese nivel (opción 4 correcta). En cualquier caso y si se trata de una fractura cerrada simple, no esta indicada la revisión quirúrgica de entrada, pues en mas del 90% de los casos se trata de lesiones tipo neuroapraxia que se recuperan espontáneamente en un plazo de 3 semanas a 3 meses en casi todos los casos. Las indicaciones de revisión del nervio son: fracturas quirúrgicas, abiertas, lesiones neurológicas iatrogénicas, parálisis tardías por englobamiento del nervio por el callo y no recuperación en 3 - 6 meses."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "En una radiografía de tórax en un politraumatizado se observa un patrón en \"tormenta de nieve\". ¿Qué cuadro POSIBLEMENTE está sufriendo este paciente?",
+      "opciones": [
+        "Síndrome de embolia grasa.",
+        "Síndrome compartimental con afectación pulmonar.",
+        "Neumotórax por volet costal.",
+        "Síndrome de dolor regional complejo masivo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En un politraumatizado con una radiografía de tórax con patrón en \"tormenta o torbellino de nieve\" debemos sospechar una embolia grasa. Los émbolos grasos se acumulan en el pulmón y no ventila correctamente, lo que puede comprometer la oxigenación de los órganos nobles (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de los siguientes huesos NO suele cursar con pseudoartrosis?",
+      "opciones": [
+        "Clavícula.",
+        "Astrágalo.",
+        "Cabeza de fémur.",
+        "Tibia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La pseudoartrosis o ausencia de consolidación, en este caso avascular, es una complicación relativamente frecuente en todas las localizaciones reflejadas en las opciones excepto la clavícula. La fractura de clavícula, sobre todo la de 1/3 medio, tiene un porcentaje excelentes de resultados mediante tratamiento conservador, con muy bajo índice de trastornos de consolidación ya que se trata de un hueso bien vascularizado. Se ha visto que las fracturas tratadas inicialmente mediante reducción y osteosíntesis (deportistas profesionales) presentan una tasa elevada de pseudoartrosis, de alrededor del 5%."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Atiende usted a un paciente de 23 años que acude a su consulta por dolor en la mano derecha. Refiere que sufrió una caída fortuita jugando al fútbol hace unos días, en la que se apoyó sobre esa mano para amortiguar el golpe. A las pocas horas comenzó a notar dolor en la zona radial de la muñeca derecha, al que no dio más importancia. Empezó a preocuparse al aumentar progresivamente el dolor en los días siguientes, que no cedía con antiinflamatorios. Usted solicita una radiografía de la mano afectada, en la que observa una fractura desplazada del hueso navicular del carpo, sin evidencia radiológica de necrosis del polo proximal. Ante tales hallazgos, ¿cuál cree que sería la actuación MÁS adecuada?",
+      "opciones": [
+        "Inmovilización de la muñeca durante 2 semanas y repetir radiografía para nueva valoración.",
+        "Inmovilización de la muñeca con escayola durante 2-3 meses, incluyendo el primer dedo.",
+        "Reducción quirúrgica de la fractura y osteosíntesis con tornillos.",
+        "Revascularización del polo proximal con injerto, y resección del fragmento si fracaso."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nos cuentan una fractura desplazada del hueso escafoides o navicular del carpo. Si algo debemos recordar de este hueso es que es uno de los cuatro (junto con cabeza de húmero, cabeza de fémur y astrágalo) que, por su precaria vascularización, tienen riesgo de sufrir necrosis isquémica. Recuerda bien el algoritmo diagnosticoterapéutico ante esta fractura. Si en la radiografía se observa la fractura no desplazada, se debe inmovilizar la muñeca con escayola durante 23 meses. Por otro lado, si no se observa claramente una fractura pero el dolor es sugerente de esta fractura, se debe volver a valorar en 2 semanas, manteniendo la muñeca inmovilizada hasta entonces. Sin embargo, en este caso se trata de una fractura DESPLAZADA, por lo que las opciones de respuesta 1 y 2 no tienen sentido aquí. Debido al alto riesgo de ausencia de consolidación y necrosis del polo proximal del hueso, está indicada la reducción y osteosíntesis (respuesta 3 correcta). La actuación de la opción de respuesta 4 estaría indicada en caso de evidenciarse la necrosis del fragmento desplazado a pesar del tratamiento, cosa que aquí no sucede."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Cuál de los siguientes factores actúa negativamente sobre el proceso de consolidación de una fractura?",
+      "opciones": [
+        "Los corticoides.",
+        "El factor derivado de plaquetas (PDGF).",
+        "Los estímulos bioeléctricos.",
+        "Las fuerzas de compresión axial cíclicas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: Los corticoides dificultan la consolidación de la fractura de manera notable. Incluso pueden ser causa de fractura patológica u osteogénesis imperfecta. El PDGF y los estímulos bioeléctricos son factores favorables.\n\nLas fuerzas de compresión axial de manera controlada también actúa favorablemente, si bien una carga axial descontrolada es perjudicial."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de los siguientes considera la complicación más frecuente en las fracturas de húmero proximal?:",
+      "opciones": [
+        "Lesión del plexo braquial.",
+        "Lesión del nervio circunflejo.",
+        "Limitación de la movilidad del hombro.",
+        "Síndrome compartimental."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Todas las anteriores son complicaciones que pueden darse en las fracturas de húmero proximal, pero es la limitación funcional por inmovilización prolongada la que se presenta con mucha mayor frecuencia, siendo el resto complicaciones típicas, que no frecuentes (opción 3 correcta). La rigidez puede darse en fracturas quirúrgicas y no quirúrgicas, de ahí la necesidad de enfatizar un apropiado programa de rehabilitación precoz, sobre todo en el paciente anciano, no descartando en ocasiones tener que recurrir a movilizaciones bajo anestesia asociado a liberación artroscópica."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Un paciente de 35 años sufre una caída esquiando y es diagnosticado de fractura de tibia e inmovilizado temporalmente con una férula pneumática. Durante el traslado el paciente desarrolla progresivamente parestesias y dolor intenso en la cara posterior de la pierna. El dolor aumenta a la flexión dorsal pasiva del tobillo, y el pulso tibial es débil. Señale cual la parece la etiología mas probable del cuadro clínico:",
+      "opciones": [
+        "Trombosis de la arteria poplítea.",
+        "Desplazamiento secundario de la fractura en el traslado.",
+        "Embolia grasa.",
+        "Síndrome compartimental."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las parestesias y el dolor desproporcionado son los primeros síntomas en aparecer cuando se instaura un síndrome compartimental, y es típico que aumente el dolor a la extensión pasiva de los músculos afectos (la flexión dorsal o extensión del tobillo en este paciente). La ausencia de pulsos es un signo infrecuente y tardío, por lo que marcamos la opción 4 correcta."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "La lesión principal en el síndrome de Volkmann y que da inicio a todos los procesos fisiopatológicos es:",
+      "opciones": [
+        "Aumento de la permeabilidad capilar.",
+        "Isquemia tisular.",
+        "Lesión neurológica.",
+        "Obstrucción venosa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El síndrome de Volkman, o contractura isquémica de Volkman, es la secuela del síndrome compartimental a nivel del compartimento anterior profundo del antebrazo.\n\nSe trata de un cuadro evolucionado o no resuelto de síndrome compartimental, y por tanto, un cuadro de ISQUEMIA que progresa hacia la necrosis y posterior fibrosis de la musculatura del compartimento. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Cuál es el tratamiento de una fractura no desplazada de tercio proximal de húmero?",
+      "opciones": [
+        "Inmovilización con Velpeau.",
+        "Inmovilización con vendaje en ocho de guarismo.",
+        "Yeso colgante.",
+        "Fijación interna."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento de la fractura no desplazada de tercio proximal de húmero es el vendaje tipo Velpeau (respuesta 1 correcta). Repasemos las demás opciones de respuesta:\n\n2.- El vendaje en ocho es útil en fracturas de clavícula.\n\n3.- El yeso colgante de Caldwell se usa en fracturas espiroideas u oblicuas de diáfisis humeral.\n\n4.- El enclavado intramedular sería útil en fracturas transversas desplazadas."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "La fractura más frecuente de los huesos del carpo es:",
+      "opciones": [
+        "Escafoides.",
+        "Piramidal.",
+        "Grande.",
+        "Ganchoso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: La fractura más frecuente del carpo es la de escafoides (70- 75%) y es a su vez la 2ª fractura mas frecuente de la muñeca. Se produce generalmente por caídas sobre el talón de la mano con flexión dorsal por encima de los 97º y desviación radial de 10º. El segundo mas frecuente con incidencias hasta del 11% según las series es el piramidal, siendo el resto de fracturas de huesos del carpo residual, hueso grande, semilunar, etc."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Un varón de 37 años, sin antecedentes patológicos de interés, es traído por el servicio de emergencias a urgencias hospitalarias tras sufrir una caída accidental en el trabajo desde unos 3 metros de altura aproximadamente. Es diagnosticado mediante exploración física y pruebas radiológicas de fractura transversa del tercio medio del fémur derecho y se aplica como tratamiento inicial una tracción de partes blandas de 5 kg por parte del traumatólogo de guardia, quedando ingresado en planta de hospitalización a la espera de tratamiento quirúrgico definitivo. El paciente no había sufrido traumatismo abdominal, torácico ni craneoencefálico. Al despertarse en la planta de hospitalización, el paciente presenta obnubilación y desorientación, por lo que tras avisar al neurólogo y realizar un TAC craneal y punción lumbar con resultados normales, con la sospecha de embolia grasa, es ingresado en Reanimación para completar el estudio y seguimiento evolutivo. ¿Cuál es el período de latencia/intervalo lúcido entre el traumatismo y la aparición de un Síndrome de embolia grasa?",
+      "opciones": [
+        "15-45 minutos",
+        "1-2 horas",
+        "24-36 horas",
+        "6-8 horas"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome de embolia grasa consiste en la presencia de glóbulos de grasa en la microcirculación, después de la fractura de un hueso largo, típicamente de miembros inferiores, o tras traumatismos importantes de partes blandas. Suele haber un periodo de latencia/intervalo lúcido entre 24-36 horas tras la lesión y el comienzo de la clínica, por lo que marcamos la opción 3 correcta.\n\nSe caracteriza por dificultad respiratoria, síntomas neurológicos, anemia y trombocitopenia, y constituye una causa importante de morbimortalidad en estos pacientes. La aparición de petequias difusas es un dato muy característico y debe hacerte pensar en este cuadro cuando aparece en el contexto de un paciente politraumatizado.\n\nLo principal en la profilaxis del síndrome de embolia grasa es la correcta y precoz fijación de la fractura."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Paciente varón de 25 años que tras accidente de tráfico acude a urgencias siendo diagnosticado de fractura desplazada diafisaria de tibia izquierda (cerrada). Se le coloca un yeso y es ingresado para control de partes blandas en espera de tratamiento quirúrgico. A las 12 horas, el paciente comienza con mucho dolor, empeorando el mismo con la extensión de los dedos. El paciente tiene pulso pedio presente, así como tibial posterior. Se le retira el yeso y se coloca la extremidad en elevación, no mejorando la sintomatología del paciente. ¿Cuál es el diagnóstico más probable, y la actitud terapéutica que se debe tomar?",
+      "opciones": [
+        "Síndrome de embolia grasa: oxigenoterapia y corticoterapia a altas dosis",
+        "Osteonecrosis diafisaria de tibia: enclavado endomedular urgente",
+        "Síndrome compartimental: medir la presión intracompartimental",
+        "Síndrome compartimental: fasciotomía urgente"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: Caso clínico tipo de síndrome compartimental. Paciente inmovilizado que comienza con dolor que aumenta con la movilización de los músculos del compartimento afecto. Se trata de una afectación de la microvasculatura, por lo que inicialmente el paciente presentará pulso. La tibia es la localización más frecuente. El diagnóstico es clínico y la presión intracompartimental se mide en caso de dudas diagnóstica. Si el paciente tiene una clínica claramente compatible se debe realizar una fasciotomía urgente, que es el tratamiento de elección."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "¿En cuál de las siguientes fracturas NO está indicado el tratamiento quirúrgico?",
+      "opciones": [
+        "Fractura transversa de rótula.",
+        "Fractura con hundimiento de la meseta tibial.",
+        "Fractura no desplazada de la extremidad proximal del húmero.",
+        "Fractura de Monteggia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las fracturas del húmero, salvo excepciones muy puntuales, se manejan conservadoramente, al no tratarse de un hueso de carga. En caso de ser inestables, abiertas o asociarse con lesiones vasculares, podría ser planteable el tratamiento quirúrgico, pero si es no desplazada como nos mencionan en la respuesta 3, no es necesario recurrir a la cirugía."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Acude a Urgencias una paciente de 37 años refiriendo intenso dolor en la muñeca y el codo derechos tras haber sufrido un tropiezo y haber amortiguado la caída apoyando la mano derecha. Usted solicita una radiografía del codo sospechando una fractura de cabeza de radio ¿Qué tratamiento NO propondría, por no estar indicado, según los hallazgos radiológicos y la gravedad de la lesión?",
+      "opciones": [
+        "Inmovilización con férula de yeso en caso de fractura no desplazada.",
+        "Inmovilización con férula de yeso en caso de fractura desplazada en 2 fragmentos si mantiene buena movilidad.",
+        "Resección de cabeza de radio en caso de fractura conminuta aislada.",
+        "Resección de cabeza de radio en caso de lesión de Essex-Lopresti."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta para repasar los distintos abordajes según el tipo de fractura de cabeza de radio (clasificación de Mason). Las fracturas tipo I (no desplazadas) se tratan de manera conservadora (opción 1 verdadera). Las fracturas tipo II (desplazadas en 2 fragmentos) requieren habitualmente reducción abierta y osteosíntesis, salvo que mantenga un buen rango de movilidad pasiva, en cuyo caso se puede intentar también un abordaje conservador (opción 2 verdadera). Del mismo modo, se podría indicar osteosíntesis en una fractura tipo III (conminuta) si el grado de conminución lo permite; o si no, se puede resecar la cabeza del radio (opción 3 verdadera). Sin embargo, en una fractura-luxación de Essex-Lopresti, debido a la inestabilidad articular asociada a la lesión de la articulación radiocubital distal, NO estaría indicada la resección de la cabeza del radio, ya que juega con papel clave en mantener la ya de por sí maltrecha estabilidad de la articulación radiocubital (opción 4 falsa, por lo que la marcamos). En ese caso estaría indicada osteosíntesis (si posible) o artroplastia. En las fracturas tipo IV, no mencionadas en la pregunta, al asociar una luxación del codo tampoco estaría indicada la resección de la cabeza del radio por los mismos motivos."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Con respecto a los traumatismos de la cintura escapular, indique la respuesta correcta:",
+      "opciones": [
+        "Las fracturas de escápula son raras y responden generalmente bien al tratamiento ortopédico, aunque pueden asociarse a fracturas costales, neumotórax, contusión pulmonar o lesiones del plexo braquial.",
+        "Las fracturas de clavícula suelen afectar en el 80% de los casos al tercio distal.",
+        "Todas las fracturas del tercio medio de clavícula se tratan de forma conservadora mediante inmovilización con vendaje en “ocho” durante 4-6 semanas.",
+        "La complicación más frecuente de las fracturas de clavícula es la pseudoartrosis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las fracturas de clavícula suelen afectar en un 80% de casos al tercio MEDIO (no distal - 2 incorrecta). \"Todas\" las fracturas del tercio medio de clavícula se tratan de manera conservadora mediante inmovilización con vendaje en \"ocho\" durante 4-6 semanas. El \"Todas\" hace la respuesta 3 falsa. En algunos casos contados (deportistas de élite) pueden operarse. La pseudoartrosis es excepcional en las fracturas de clavícula (4 falsa). Sin embargo, la respuesta 1 es un buen resumen de las fracturas de escápula (correcta)."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Mujer de 30 años que sufre caída sobre el talón de su mano derecha. Refiere dolor en la zona comprendida entre el extensor largo y el extensor corto del pulgar derecho. Se le practican radiografías en varias proyecciones. Sin embargo, no se observa fractura en ninguna de ellas. ¿Cúal es la actitud a seguir en este caso?",
+      "opciones": [
+        "Colocar una órtesis funcional durante 2 semanas y analgesia pautada.",
+        "Pedir una gammagrafía ósea.",
+        "Inmovilizar con yeso, incluyendo el pulgar, y repetir las radiografías en 2 semanas.",
+        "Realizar una tomografía axial computarizada."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El mecanismo de fractura y el dolor selectivo en la zona de la tabaquera anatómica orientan a una posible fractura de escafoides, cuya principal característica es su escasa expresión radiológica en algunos casos. Por ello, y debido a su importante movilidad y a su vascularización precaria, aunque en un primer momento no se visualice la fractura, si la clínica es sugerente, debe inmovilizarse la muñeca y repetir la radiografía a las 2 semanas. De este modo, confirmamos o descartamos la fractura (Opción 3 correcta)."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Las fracturas del olécranon:",
+      "opciones": [
+        "Suelen asociarse a luxación de la cúpula radial.",
+        "Cursan con impotencia funcional para la flexión del codo.",
+        "Las transversas desplazadas precisan de tratamiento quirúrgico.",
+        "La lesión a la que más frecuentemente se asocia es la del nervio radial."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las fracturas de olécranon son fracturas generalmente transversas desplazadas por trauma directo. La distracción continua generada por la tracción del tríceps obliga a la reducción abierta y osteosíntesis mediante cerclaje de Obenque que convierte las fuerzas de tracción en fuerzas de compresión (respuesta correcta número 3).\n\nNo es habitual la asociación con otras lesiones como luxación o fracturas de la cabeza radial, aunque pueden darse. Son muy infrecuentes las lesiones asociadas vasculonerviosas en las fracturas aisladas, las lesiones de la A. radial y el N. radial se asocian son embargo de forma mas frecuente a las fracturas supracondíleas y luxaciones de codo."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Señale el epónimo de la osteonecrosis de idiopática del escafoides tarsiano:",
+      "opciones": [
+        "Freiberg",
+        "Köhler",
+        "König",
+        "Sever"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Freiberg = cabeza de metatarsianos. König = osteocondritis de rodilla. Sever = Apófisis posterior del calcáneo."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Cuando hablamos de fracturas abiertas siempre se nos viene a la cabeza una complicación importante. ¿Cuáles son las dos complicaciones MÁS habituales de una fractura abierta?",
+      "opciones": [
+        "Infección y ausencia de consolidación.",
+        "Infección y síndrome compartimental.",
+        "Embolia grasa y amputación.",
+        "Síndrome de dolor regional complejo y contaminación de la herida."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Es evidente que habrás pensado en la complicación más “típica” de una fractura abierta como es la infección. pero la segunda complicación más habitual es la ausencia de consolidación (respuesta 1 correcta). El motivo es multifactorial: por la infección, por la “salida” del hematoma (iniciador de la consolidación) hacia el exterior, por el daño de vasos sanguíneos locales en el foco de fractura que limitan la capacidad biológica de consolidar, etc."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Cuál de las siguientes fracturas suele precisar tratamiento quirúrgico?:",
+      "opciones": [
+        "Fractura impactada de tercio proximal de húmero.",
+        "Fractura de tercio distal de radio.",
+        "Fractura de ramas pélvicas.",
+        "Fractura transversa de rótula."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "De entre las siguientes opciones, la fractura de rótula es la que en la mayoría de los casos precisa tratamiento quirúrgico, fundamentalmente cuando están desplazadas (opcion 4 correcta). Cuando el escalón articular es menor de dos mm y existe continuidad del aparato extensor (pocas veces sucede), está indicado el tratamiento ortopédico mediante yeso inguinopédico. Del resto de opciones, las fracturas no desplazadas (impactadas) de 1/3 proximal de húmero, las fracturas del cuerpo de la escápula, las fracturas de radio distal con desplazamiento dorsal y sin escalón intraarticular y las fracturas de ramas pélvicas suelen tener indicación de tratamiento conservador."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Cuál de las siguientes complicaciones es MÁS probable tras sufrir una fractura del extremo proximal del húmero?",
+      "opciones": [
+        "Necrosis isquémica avascular.",
+        "Síndrome compartimental.",
+        "Síndrome de embolia grasa.",
+        "Síndrome de dolor regional complejo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La cabeza del húmero es una de las cuatro localizaciones típicas para desarrollar una necrosis isquémica avascular (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "¿En qué diagnóstico de sospecha pensaría en una mujer de 17 años de edad que consulta por dolor en la cara anterior de ambas rodillas que empeora al sentase y subir escaleras sin antecedente traumático?",
+      "opciones": [
+        "Osteocondritis disecante de ambas rodillas",
+        "Condromalacia rotuliana",
+        "Meniscopatía bilateral",
+        "Dolor irradiado desde las caderas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El cuadro clínico descrito es típico de un síndrome de dolor retrorrotuliano, sinónimo de condromalacia o condropatía rotuliana (Opción 2). La causa suele ser un reblandecimiento del cartílago de la rótula o algún tipo de desalineación rotuliana, aunque puede no reconocerse ninguna."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "¿Cuál es la neuropatía por atrapamiento más frecuente del miembro inferior?",
+      "opciones": [
+        "Meralgia parestésica – nervio femorocutáneo.",
+        "Túnel tarsiano – nevio tibial posterior.",
+        "Neuroma Morton – tercer nervio interdigital.",
+        "Síndrome del canal de aductores de Hunter – nervio safeno."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Todas las asociaciones presentadas son correctas y nos sirven de repaso para recordar las neuropatías por atrapamiento más comunes en el miembro inferior. De todas ellas, y con diferencia notable, la más frecuente es el neuroma de Morton en el pie. (Opción 3)"
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Paciente de 31 años que acude al Servicio de Urgencias tras un accidente en bicicleta, donde cayó sobre el brazo derecho. La exploración clínica revela dolor, movilidad anormal e impotencia funcional en la zona media del brazo. Los pulsos distales humeral y radial están presentes. No puede realizar la extensión activa de la muñeca y dedos. Existe una hipoestesia en la zona dorsal del primer dedo y del primer espacio interdigital. Las radiografías muestran una fractura espiroidea del tercio medio del húmero. ¿Cuál es la actitud MÁS correcta respecto a la lesión asociada a esta fractura?",
+      "opciones": [
+        "Requiere cirugía inmediata y exploración quirúrgica del nervio radial.",
+        "El tratamiento es conservador, con ejercicios de rehabilitación posteriores.",
+        "Debemos informar al paciente de que lo más probable es la irreversibilidad de la pérdida de función.",
+        "El cuadro es sugerente de síndrome compartimental y es imperativa una fasciotomía urgente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La complicación de la que nos hablan, y que es la más frecuente en las lesiones de la diáfisis humeral, es la lesión del nervio radial. Su tratamiento es conservador, y solo estaría indicada la cirugía en caso de que empeore con la inmovilización de la fractura y en las fracturas abiertas (Opción 2 correcta)"
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cómo se denomina la cirugía a realizar cuando se instaura un síndrome compartimental?",
+      "opciones": [
+        "Fasciectomía.",
+        "Fasciotomía.",
+        "Fasciculotomía.",
+        "Musculorrafia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tratamiento del síndrome compartimenta consiste en la apertura quirúrgica urgente de la fascia del compartimento afectado, conocido como fasciotomía (respuesta 2 correcta). No debes confundirla con la fasciectomía, que consiste en la retirada parcial o total de una fascia, tratamiento realizado en la Enfermedad de Dupuytren."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Paciente que es traído a la sala a Urgencias tras una caída desde gran altura. Explorado clínica y radiológicamente es diagnosticado de fractura abierta de pilón tibial bilateral, y traumatismo craneoencefálico. El paciente está inconsciente y no es posible consultar su historial médico desde la sala de emergencias. De las siguientes medidas, ¿cuál le parece MENOS apropiada?",
+      "opciones": [
+        "Limpieza y desbridamiento quirúrgico.",
+        "Reducción abierta y fijación interna de las fracturas.",
+        "Inyección intravenosa de vancomicina.",
+        "Profilaxis antitetánica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El objetivo principal del tratamiento de las fracturas abiertas es conseguir la curación en ausencia de infección. El tratamiento inicial incluye administrar antibioterapia intravenosa, profilaxis antitetánica, limpieza y desbridamiento, y fijación externa de la fractura (marcamos la opción de respuesta 2)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuál de los siguientes es el dato diagnóstico definitorio del síndrome compartimental agudo del antebrazo?",
+      "opciones": [
+        "La ausencia de pulso radial.",
+        "El dolor intenso y espontáneo en la cara anterior del antebrazo.",
+        "Las paresias y parestesias asociadas en los territorios de los nervios radial y mediano.",
+        "El aumento de la presión en el compartimento anterior del antebrazo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El único dato definitorio de síndrome compartimental es, como su nombre indica, la elevación de la presión en la región afectada. La medición de la presión intracompartimental revelaría valores por encima de 30-40 mmHg, así como escasa diferencia respecto a la presión arterial diastólica (respuesta 4 correcta). No obstante, debemos recordar que, ante la simple sospecha clínica, se debe retirar el vendaje o los yesos, por la gravedad que reviste este cuadro en caso de no diagnosticarse de forma precoz."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Señale la secuencia VERDADERA en el proceso de consolidación de una fractura:",
+      "opciones": [
+        "Fase de hematoma – Fase de diferenciación celular – Fase de proliferación celular – Fase de osificación.",
+        "Fase inflamatoria – Fase de diferenciación celular – Fase de remodelación - Fase de osificación.",
+        "Fase de hematoma- Fase de proliferación celular – Fase reparativa – Fase de remodelación.",
+        "Fase de inflamatoria – Fase de osificación – Fase de diferenciación celular – Fase de remodelación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las fases del proceso de consolidación de una fractura son: inflamatoria (de hematoma y de proliferación celular), reparativa (de diferenciación celular y de osificación) y de remodelación (fase de resorción) (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Varón de 58 años que tras una caída sobre la palma de la mano acude a Urgencias con dolor en antebrazo izquierdo. En la radiografía de Urgencias se observa una línea de fractura en diáfisis cubital proximal, asociado a una luxación de cabeza del radio. El diagnóstico y tratamiento MÁS probables son:",
+      "opciones": [
+        "Fractura de Monteggia. Osteosíntesis con placa y tornillos.",
+        "Fractura de Monteggia. Clavo intramedular en cúbito.",
+        "Fractura de Galeazzi. Osteosíntesis con placa y tornillos.",
+        "Fractura de Galeazzi. Clavo intramedular en cúbito."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Este es uno de los casos en los que hay que estudiar por comparación. Realiza una pequeña tabla que compare ambas fracturas: Monteggia y Galeazzi, ya que en una ocurre justo lo contrario que en la otra:\n\n- Monteggia: justo lo que describe el enunciado de la pregunta (respuesta 1 correcta) cómo regla mnemotécnica \"el CUBITO sube al MONTE\" (es el cúbito el hueso fracturado).\n\n- Galeazzi es justo lo contrario: la fractura es en radio distal y la luxación de la articulación RCD.\n\nAmbas lesiones se tratan de la misma manera: OSTEOSÍNTESIS CON PLACAS Y TORNILLOS de la fractura (respuesta 1 correcta) mientras que la luxación se suele reducir espontáneamente con la inmovilización, sin requerir gestos quirúrgicos específicos."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "La fractura MÁS frecuente en Urgencias de Traumatología de cualquier hospital es la de:",
+      "opciones": [
+        "Vértebra lumbar.",
+        "Húmero proximal.",
+        "Quinto metatarsiano.",
+        "Radio distal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La fractura “estrella” de nuestras guardias es la de radio distal (respuesta 4 correcta). Es la más frecuente si consideramos todas las edades (también las epifisiólisis distales de radio en niños). Le sigue la de cadera y después la de vértebra lumbar (en escenario de osteoporosis postmenopáusica en muchas ocasiones)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Aunque cada día es mayor y se halla más desarrollado el arsenal de dispositivos para la osteosíntesis de las fracturas óseas (dispositivos intramedulares, ORIF, técnicas percutáneas, etc), el tratamiento conservador de las mismas sigue teniendo cabida en determinados tipos de fractura. ¿En cuál de las siguientes fracturas NO está indicado el tratamiento quirúrgico?:",
+      "opciones": [
+        "Fractura transversa de rótula.",
+        "Fractura con hundimiento de la meseta tibial.",
+        "Fractura no desplazada de la extremidad proximal del húmero.",
+        "Fractura de Monteggia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las fracturas del húmero proximal sin desplazar se manejan conservadoramente. En el resto de las respuestas está indicada la cirugía. (Opción 3 correcta)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Unas 3 semanas después de sufrir un esguince de muñeca, una paciente de 56 años de edad presenta un cuadro \"explosivo\" de dolor, inflamación, sudoración, disestesias, y tumefacción en toda la muñeca y parte de la mano. Se le realiza una radiografía que confirma que no hubo lesión ósea y que revela la existencia de una osteoporosis regional. Respecto del tipo de dolor que presenta, ¿qué adjetivo lo definiría mejor?",
+      "opciones": [
+        "Neuropático.",
+        "Mecánico.",
+        "Inflamatorio.",
+        "Reumático."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La paciente presenta un síndrome de dolor regional complejo, con típica presentación en la muñeca en la quinta década de la vida. El dolor es el síntoma más importante de esta complicación de las fracturas que también vemos después de un esguince sin fractura. Como mecanismo patogénico del dolor existe una hiperactivación del sistema nervioso simpático y, por tanto, tendrá características neuropática. Los neuromoduladores son una parte importante del tratamiento. Sin embargo, los antiinflamatorios no tienen un efecto importante en la fase crónica del problema (Opción 1 correcta)."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "La epifisiólisis traumática tiene como localización más frecuente la:",
+      "opciones": [
+        "Epífisis distal de fémur.",
+        "Epífisis distal de radio.",
+        "Epífisis distal de tibia.",
+        "Epífisis proximal de húmero."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La epifisiolisis es la fratura del cartílago de crecimiento, y por tanto es una lesión que se presenta exclusivamente en niños durante el periodo de crecimiento; la mas frecuente es la de radio distal (Opción 2 correcta), generalmente tras caída y apoyo del talón de la mano, siendo también lo mas frecuente el tipo II en esa localización, en la que el plano de clivaje se produce a nivel de la capa de células hipertrófica, sin llegar a lesionar la capa hipertrófica, y por tanto es infrecuente las alteraciones del crecimiento, a diferencia de lo que ocurre con las de tipo III y IV."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "La fractura-luxación de Monteggia combina:",
+      "opciones": [
+        "Fractura cúbito proximal y luxación radiocubital proximal.",
+        "Fractura radio distal y luxación radiocubital distal.",
+        "Fractura cúbito proximal y luxación radiocubital distal.",
+        "Fractura radio distal y luxación radiocubital proximal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Que no te engañen con esta pregunta. En la fractura-luxación de Monteggia y en la de Galeazzi, o todo es proximal (Monteggia) o todo distal (Galeazzi). No puede haber \"combinaciones cruzadas\". En este caso la respuesta 1 será correcta."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "¿Cuál es la complicación más frecuente de las fracturas supracondíleas de húmero en los niños?",
+      "opciones": [
+        "Lesión del nervio mediano.",
+        "Lesión de la arteria y vena braquiales.",
+        "Lesión del nervio cubital.",
+        "Lesión del nervio radial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La compresión de la arteria y vena humerales o braquiales es la complicación más frecuente de las fracturas supracondíleas. Por ese motivo, es necesario tomar los pulsos radial y cubital cuando llega un niño a la urgencia con una fractura supracondílea. Si no están presentes esos pulsos, es necesario \"correr\" hacia el quirófano para poder (bajo anestesia general) estirar el brazo y comprobar que la descompresión de la arteria humeral hace recuperar los pulsos distales. (Opción 2 Correcta)"
+    }
+  ]
+}

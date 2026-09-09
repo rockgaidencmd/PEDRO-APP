@@ -1,0 +1,541 @@
+{
+  "materia": "fisiologia",
+  "paginaInicio": 21,
+  "paginaFin": 40,
+  "anomalias": [
+    "p29: en la pregunta del desplazamiento de la curva sigmoidea, Resp. Correcta 3, pero el comentario afirma 'El resto de respuestas son falsas' y acto seguido explica que la respuesta 2 'hace referencia a una consecuencia del desplazamiento de la curva a la derecha... hay mas desplazamiento de oxigeno de Hb a tejidos', es decir describe la opción 2 como cierta.",
+    "p30: la pregunta '¿Señale qué proceso metabólico NO tiene lugar en el hígado?' tiene un comentario que abre hablando del fibrinógeno ('El fibrinógeno es un factor de la coagulación...'), sustancia que no aparece en ninguna de las cuatro opciones; parece texto de otra pregunta.",
+    "p36: en 'El principal sistema muscular responsable de la espiración durante el ejercicio es', Resp. Correcta 4 pero el comentario dice 'En el caso concreto del ejercicio, la respuesta correcta es la 5' y solo hay 4 opciones; además descarta 'las respuestas 1, 2 y 4' cuando la 4 es la clave.",
+    "p37: en la pregunta del ÍNDICE CARDIACO el comentario da una fórmula de superficie corporal incorrecta ('una fórmula que multiplica el peso (en Kg) por la talla (en cm)') y nunca llega a calcular el valor 2,54 L/min/m2 de la opción marcada."
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 21,
+      "enunciado": "Una paciente de 23 años diagnosticada de anorexia nerviosa es ingresada por un estado de desnutrición avanzado. La tensión arterial es de 100/58 mmHg y se obtiene la siguiente analítica: Na 142 mmol/L, K 2,4 mmol/L, Cl 80 mmol/L, bicarbonato 43 mmol/L, pH 7,55, pCO2 54 mmHg y creatinina 1,8 mg/dL. El cloro en orina está por debajo de los valores normales. ¿Cuál de los siguientes diagnósticos sería más probable en este caso?",
+      "opciones": [
+        "Consumo excesivo de Furosemida",
+        "La paciente está tomando hormona tiroidea sin prescripción para perder peso dado su trastorno psiquiátrico",
+        "La paciente probablemente está teniendo conductas purgativas (vómitos)",
+        "Consumo excesivo de laxantes"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Por la estructura de la pregunta vemos de que de las 4 opciones hay dos parejas que se parecen, por tanto más que como un distractor usémoslo como ventaja.\n\nEn primer lugar, debemos leer la gasometría correctamente. En este caso tenemos una alcalosis (ph 7.55) con bicarbonato alto, o sea que es metabólica, y el CO2 está alto en un intento por compensar. Por tanto, no puede ser ninguna situación que provoque acidosis.\n\nUno de los datos clave en este caso clínico es el cloro en orina bajo que nos descarta pérdidas renales y si existiese exceso de laxantes dada la pérdida excesiva de bicarbonato tendríamos acidosis metabólica con anión GAP normal.\n\nEsta paciente está perdiendo ácido por los vómitos con el cloro bajo al perder HCl."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "La tensión arterial:",
+      "opciones": [
+        "Mejora si se reduce el consumo de alcohol por debajo de 25-30 g diarios.",
+        "Supone un factor de riesgo solo si supera 140/90.",
+        "Permanece inalterada durante el dia si el sujeto esta tranquilo.",
+        "Está regulada exclusivamente por los riñones."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Mejora si se reduce el consumo de alcohol por debajo de 25-30 g diarios. El resto de opciones son falsas."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Una de las siguientes no es una propiedad del músculo cardíaco:",
+      "opciones": [
+        "Tetanización",
+        "Excitabilidad",
+        "Ritmicidad",
+        "Contractilidad"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta sencilla por descarte y por la técnica de la oveja negra. ¿Qué opción “suena” distinta a las demás? Por otra parte, aunque no sepas lo que es la tetanización (capacidad del músculo estriado de contraerse de nuevo antes de la relajación), sabes que el latido cardíaco es rítmico, y que un músculo por definición se contrae tras ser excitado."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Con respecto a la sensibilidad protopática, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Se inicia en el ganglio dorsal sensitivo.",
+        "Su primera sinapsis tiene lugar en las astas anteriores de la sustancia gris medular.",
+        "Asciende por el fascículo espinotalámico medial.",
+        "Conduce las siguientes modalidades: dolor, temperatura y tacto fino."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta directa sobre la sensibilidad protopática que puede llegar a ser un poco controvertida. Veamos las opciones de respuesta:\n\n1.-La sensibilidad protopática se inicia en las terminaciones nerviosas libres. Aunque dichas terminaciones son los axones de la neurona cuyo soma se encuentra en el ganglio dorsal, no seria 100% correcto decir que la sensibilidad protopática se INICIA en el ganglio dorsal.\n\n2.- La primera sinapsis de la sensibilidad protopática tiene lugar en las astas dorsales de la sustancia gris medular.\n\n3.- La sensibilidad protopática asciende por el llamado sistema anterolateral, que abarca las zonas de sustancia blanca tradicionalmente denominadas haces espinotalámicos anterior (o medial) y espinotalámico lateral (respuesta 3 correcta). Ojo! No lo confundas con los cordones posteriores que son los que llevan el tacto fino.\n\n4.- La sensibilidad protopática conduce dolor, temperatura y tacto grosero (no tacto fino)."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En la nefrona, ¿cuál es la relevancia fisiológica que se atribuye al Asa de Henle?",
+      "opciones": [
+        "Amoniogenesis",
+        "Síntesis de Epo",
+        "Activación de la Vitamina D",
+        "Balance de Calcio"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es la 2, pues en el Asa de Henle se lleva a cabo la síntesis de Epo, junto con la síntesis de Prostaglandinas y Prostaciclinas.\n\nLa respuesta 1 y 3 corresponden al Túbulo Proximal; y el proceso de la respuesta 4, se produce en el Túbulo Distal."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Paciente diabético de 66 años que acude a la consulta de su médico de cabecera para valorar los resultados de su último electrocardiograma de control. En él se observa un intervalo PR alargado sin otras alteraciones significativas. ¿Cuál de las siguientes, NO puede ser causa de este hallazgo?",
+      "opciones": [
+        "Isquemia del nódulo auriculo-ventricular.",
+        "Estimulación vagal insuficiente.",
+        "Inflamación del haz de His.",
+        "Presencia de tejido cicatricial por infarto silente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El hallazgo en el ECG de un intervalo PR alargado nos hace pensar en la existencia de un bloqueo auriculo-ventricular. Las situaciones que pueden reducir la velocidad de conducción o incluso bloquear el impulso son:\n\n• Isquemia del nódulo AV, secundaria por ejemplo a insuficiencia coronaria\n• Compresión del haz de His por tejido cicatricial o porciones calcificadas del corazón\n• Inflamación del haz de His producida por enfermedades como la miocarditis o la fiebre reumática\n• Estimulación vagal excesiva. La estimulación de los nervios vagos produce la liberación de acetilcolina en las terminaciones vagales del corazón dando lugar de esta manera a un efecto parasimpático. Esta excitación se debe en muchos casos a una intensa estimulación de los baroreceptores que puede observarse en personas que tienen síndrome del seno carotideo, por lo que marcamos la respuesta 2."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Cuál de los siguientes factores que determinan la filtración y reabsorción a través de los vasos sanguíneos podría ser causante de edemas?",
+      "opciones": [
+        "La disminución de la presión hidrostática capilar.",
+        "El aumento de la presión hidrostática intersticial.",
+        "La disminución de la presión oncótica capilar.",
+        "La disminución de la concentración de proteínas en el espacio intersticial."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La única opción de respuesta que propiciaría la aparición de edemas sería la 3 (disminución de la presión oncótica capilar). Recuerda que esta se debe a la presión ejercida por aquellos solutos que no pueden atravesar libremente la pared del capilar, y que están representados por las proteínas del plasma (respuesta 3 correcta). Con respecto a las demás opciones de respuesta, podemos decir que sería el aumento, (y no la disminución), de la presión hidrostática capilar lo que favorecería el edema, al igual que una disminución de la presión hidrostática intersticial y un aumento de la concentración de proteínas del intersticio."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "El efecto shunt es un mecanismo de hipoxemia en todos las siguientes patologías pulmonares, EXCEPTO:",
+      "opciones": [
+        "Neumonía.",
+        "Tromboembolismo pulmonar.",
+        "Cortocircuito vascular pulmonar.",
+        "Atelectasia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta básica sobre un aspecto muy preguntado e importante. No se puede fallar. El efecto shunt es una situación en la que existen alveolos perfundidos, pero no ventilados. Todas las opciones que se exponen son claros ejemplos de efecto shunt, exceptuando el tromboembolismo pulmonar (TEP), que es la respuesta a la pregunta. En el TEP, precisamente ocurre la situación contraria: los vasos pulmonares se obstruyen por un trombo, de forma que habrá alveolos correctamente ventilados, pero no perfundidos, que es lo que define el efecto espacio muerto (fisiopatológicamente, lo contrario al shunt). Cabe recordar que, en el TEP, también se produce un desequilibrio ventilación- perfusión, por motivos que escapan al objetivo de esta pregunta. No se deben fallar cuestiones de este tipo; si lo has hecho, repásate inmediatamente el concepto y causas de efecto shunt."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "En la médula espinal existen diversos tipos de neuronas. Existen motoneuronas alfa, gamma, y varios tipos de interneuronas. ¿Cómo se llaman las interneuronas que participan del fenómeno de inhibición lateral?",
+      "opciones": [
+        "Interneuronas de Cajal.",
+        "Interneuronas de Betz.",
+        "Interneuronas de Renshaw.",
+        "Interneuronas de Schaffer."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es la 3. Las interneuronas de Renshaw son interneuronas medulares, que participan del fenómeno de inhibición lateral. Son células inhibidoras que se activan ante un estímulo de la vía piramidal. Producen inhibición de las motoneuronas que no se deben contraer en ese momento, según el estímulo cortical recibido."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "En relación al ciclo cardiaco, indique qué opción le parece incorrecta:",
+      "opciones": [
+        "La contracción auricular contribuye un 20% al llenado ventricular.",
+        "El periodo de eyección ventricular rápido contribuye al 70% del volumen que sale del VI en una contracción cardiaca.",
+        "La función de las válvulas auriculoventriculares y semilunares es impedir el flujo retrógrado de sangre.",
+        "La rotura de un músculo papilar favorece la estenosis valvular."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La aurícula contribuye únicamente con un 20% al llenado ventricular (Respuesta 1 es verdadera), el 80% de la sangre fluye directamente de las aurículas a los ventrículos. Una persona que no tenga la contracción auricular (FA), podría estar asintomática en reposo, es decir, el aporte de la sístole auricular no es imprescindible. En la salida de sangre del VI hay un periodo de eyección rápida, donde sale el 70% del volumen del VI, y otro de eyección lenta o tardía (30%) (Respuesta 2 es verdadera).\n\nLa respuesta 3 es verdadera. La válvula AV impiden el flujo retrógrado durante la sístole de los ventrículos a las aurículas, mientras que las válvulas semiliunares impiden el flujo retrógrado durante la diástole de la aorta y pulmonar a los ventrículos.\n\nLa respuesta 4 es falsa. El músculo papilar tira de la válvula hacia el ventrículo, impidiendo que la válvula protruya en exceso hacia la aurícula, durante la contracción ventricular (aumenta la presión ventricular). Si se rompe, tenderá a la insuficiencia valvular."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Con el ejercicio físico se puede llevar a cabo un aumento del tamaño de los músculos. En relación a los cambios que ocurre en el interior de las fibras musculares con la hipertrofia muscular, indique qué opción le parece incorrecta:",
+      "opciones": [
+        "Aumento de enzimas mitocondriales en el interior de las fibras musculares.",
+        "Aumento de los componentes del sistema metabólico de fosfágenos (ATP, fosfocreatina).",
+        "Descenso de la cantidad de triglicéridos almacenados.",
+        "Aumento del número de miofibrillas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los cambios que ocurren en el interior de las fibras musculares hipertrofiadas son: 1) mayor número de miofibrillas, proporcional al grado de hipertrofia; 2) aumento del ATP y fosfocreatina 3) aumento de las enzimas mitocondriales; 4) aumento del glucógeno almacenado; 5) aumento de los triglicéridos almacenados (Respuesta 3 es falsa). Debido a todos estos cambios, la capacidad de los sistemas metabólicos anaeróbico y aeróbico aumenta, mejorando especialmente la velocidad máxima de oxidación y la eficiencia del sistema metabólico oxidativo."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Las siguientes situaciones mencionadas se caracterizan por mayor pérdida renal de sodio, EXCEPTO:",
+      "opciones": [
+        "Fase aguda de la diuresis post-obstructiva.",
+        "Enfermedad de Addison.",
+        "Diarrea.",
+        "Descompensación metabólica hiperglucémica en paciente diabético."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante una diarrea, se produce una pérdida de líquidos y, por ello, una disminución de la volemia. Como consecuencia de esto, se produce un aumento de la actividad del sistema renina- angiotensina- aldosterona. La acción de la aldosterona en las porciones más distales de la nefrona consiste en aumentar el intercambio Na+/K+, con lo que en la orina habrá menos sodio y más potasio. Las pérdidas de sodio por orina serán menores, porque el riñón tratará de retener cuanto sea posible ante el descenso de la volemia. El sodio en orina es muy importante para distinguir entre las diversas causas de insuficiencia renal aguda."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Pueden originar alcalosis metabólica las siguientes condiciones, EXCEPTO:",
+      "opciones": [
+        "Sondaje nasogástrico continuo.",
+        "Tratamiento diurético con acetazolamida.",
+        "Síndrome de Cushing.",
+        "Estados agudos post-hipercápnicos en paciente con insuficiencia respiratoria crónica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es relativamente sencilla y, en principio, no debería suponerte grandes problemas. La respuesta 2 es claramente la que hay que contestar. Es importante que conozcas los mecanismos de acción de los diuréticos, porque de ellos puedes deducir los efectos secundarios, como en la pregunta que nos ocupa. La acetazolamida es un diurético cuya acción es inhibir la anhidrasa carbónica, disminuyéndose la reabsorción de bicarbonato en el túbulo proximal. Sabiendo esto, no creo que te sea difícil deducir que, al perderse demasiado bicarbonato por la orina, éste descenderá en sangre y lo que se producirá es una ACIDOSIS metabólica, y no una alcalosis, como dice el enunciado. Existen otros diuréticos más conocidos y utilizados (los del asa, las tiazidas y los ahorradores de potasio) que debes conocer aún mejor que la acetazolamida. No dudes en emplear el tiempo que sea necesario para su estudio, porque han sido preguntados repetidamente y de formas muy diversas."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Con respecto a la fisiología de la absorción del tubo digestivo señale la afirmación INCORRECTA:",
+      "opciones": [
+        "La absorción de la glucosa en el intestino delgado se produce a través de un cotransportador Na/glucosa.",
+        "La absorción de péptidos y aminoácidos en el intestino delgado se produce a través de pinocitosis.",
+        "La absorción de grasas en forma de ácidos grasos y monoglicéridos es por difusión simple.",
+        "La absorción de iones sodio y cloro, en la luz del epitelio del intestino grueso, genera un gradiente osmótico que favorece la absorción de agua."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Veamos las opciones de respuesta:\n1.- La glucosa y el resto de los monosacáridos o disacáridos utilizan un método de transporte activo para ingresar en el interior de la célula epitelial.\n2.- Los aminoácidos y péptidos se absorben en la célula epitelial a expensas de un cotransporte de sodio (opción 2 incorrecta, por lo que la marcamos).\n3.- Los ácidos grasos entran por difusión simple dado su carácter lipofílico, si bien es cierto que necesitan de las micelas biliares, que les transportan desde el interior del tubo digestivo a las vellosidades epiteliales.\n4.- Cada día pasan al intestino grueso unos 1.500 mL de quimo, y las heces diarias son de 100 mL. Por lo tanto, especialmente en el intestino grueso proximal, el mecanismo de absorción es importante. La absorción de agua por ósmosis es notoria."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "¿Cuál de las siguientes hormonas hipofisarias tiene una regulación hipotalámica de carácter predominantemente inhibitorio?",
+      "opciones": [
+        "GH",
+        "FSH",
+        "ACTH",
+        "Prolactina"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sencilla cuya principal dificultad es comprender bien lo que se nos quiere preguntar. La secreción de las hormonas hipofisarias está regulada por distintas sustancias producidas por el hipotálamo. En la mayoría de los casos, esas hormonas hipotalámicas (GHRH, GnRH, CRH...) estimulan la síntesis de las hormonas hipofisarias. Sin embargo, el hipotálamo inhibe la secreción de prolactina mediante la producción de dopamina (respuesta 4 correcta). Este fenómeno explica por qué los antipsicóticos con acción antidopaminérgica son una posible causa de hiperprolactinemia. Desde otro punto de vista, los agonistas dopaminérgicos son útiles en el tratamiento de los prolactinomas > 1 cm o sintomáticos."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "El sistema de quimiorreceptores carotídeos permite llevar a cabo una regulación de la función cardiocirculatoria a corto plazo. ¿Cuál de los siguientes estímulos no produce una activación de los quimiorreceptores carotídeos?",
+      "opciones": [
+        "Hipoxemia",
+        "Hipercapnia",
+        "Exceso de iones hidrógeno",
+        "Óxido nítrico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los quimiorreceptores carotídeos ante la falta de oxígeno, el exceso de CO2 o de hidrogeniones transmiten a través del nervio de Hering, estímulos que llegan al centro vasomotor del tronco del encéfalo, produciendo una activación simpática. (Respuesta 1, Respuesta 2 y Respuesta 3 son verdaderas)."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "El bostezo es conocido como una “pauta fija de acción”, es decir algo instintivo, propio de los animales. La fisiología del bostezo, no es muy conocida. En relación a lo que se conoce sobre ella, marque la opción que le parece INCORRECTA:",
+      "opciones": [
+        "En epilepsias del lóbulo temporal mesial puede haber manifestación de crisis epilépticas en forma de bostezos.",
+        "Se cree que los péptidos opioides tienen efecto inhibidor sobre el bostezo y la oxitocina o la dopamina efecto activador.",
+        "Se cree que el óxido nítrico puede tener influencia en la acción de las neuronas espejo localizadas en el lóbulo frontal, y causantes de que los chimpancés bostecen cuando ven a otro simio bostezando.",
+        "El bostezo puede ser indicador de exceso de trabajo, cansancio, estrés o aburrimiento."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción 1 es verdadera. No se conoce exactamente donde está el centro regulador del bostezo, se cree que pueda estar en el troncoencéfalo, cerca de la formación reticular. Pero el lóbulo temporal tiene importancia también, dado que se ha documentado actividad epileptiforme en electroencefalogramas en región temporal medial, durante bostezos (con desconexión del medio asociada). Similar a las crisis parciales con desconexión del medio en forma de automatismos orolinguales.\n\nLa respuesta 2 es verdadera. No se sabe muy bien las vías que pueden mediar la generación y fin de un bostezo, pero se cree que hay neurotransmisores activadores como la oxitocina y dopamina y otras sustancias que pueden inhibirlo.\n\nLas neuronas en espejo en simios se cree que están localizadas en la parte inferior del lóbulo frontal. No se sabe muy bien como actúan, ni tampoco los neurotransmisores que pueden ejercer la acción (respuesta 3 falsa). Sin embargo, parece que son las que producen el “contagio” del bostezo.\n\nLa respuesta 4 es verdadera. No se conoce muy bien por qué, pero se piensa que esas circunstancias pueden producir el bostezo. Además, el hecho de que esté íntimamente relacionado con el ciclo vigilia sueño (se bosteza más a última hora de la noche y a primera hora de la mañana) parece que lo relaciona anatómicamente con la formación reticular del troncoencefálico."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "En relación a la fisiología del intercambio gaseoso en los pulmones, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "La zona 1 del flujo sanguíneo pulmonar (ausencia de flujo durante todo el ciclo cardiaco) es fisiológica en posición erguida.",
+        "En posición erguida, la presión arterial pulmonar es 23 mmHg mayor en el punto más alto de los vértices pulmonares respecto al punto más bajo de las bases.",
+        "Si el cociente ventilación-perfusión (VA/Q) es igual a cero o a infinito no existe intercambio gaseoso.",
+        "En la parte superior del pulmón se produce cierto grado de espacio muerto fisiológico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad moderada sobre fisiología del aparato respiratorio. Probablemente, la forma más sencilla de resolverla sea intentar descartar las opciones verdaderas:\n\n• La opción 2 es correcta: debido al peso de la propia sangre en los vasos sanguíneos (presión hidrostática), existe una diferencia de presión arterial entre las diferentes zonas del pulmón, de forma que el flujo sanguíneo es mayor en bases que en vértices.\n• La opción 3 es correcta: si VA/Q es cero significa que no hay ventilación alveolar, mientras que si VA/Q es infinito lo que ocurre es que no hay flujo sanguíneo, por lo que en ambos extremos no hay intercambio de gases a través de la membrana respiratoria de los alveolos afectados.\n• La opción 4 es correcta: el espacio muerto fisiológico es la suma del espacio muerto anatómico (porción de la vía aérea que no participa en el intercambio gaseoso porque no existen alveolos) y el espacio muerto alveolar (alveolos mal perfundidos). En los vértices pulmonares, tanto la ventilación como la perfusión son menores que en las bases pulmonares, pero la disminución del flujo sanguíneo es menor a la disminución de la ventilación, por lo que el cociente VA/Q llega a ser 2,5 veces mayor que el cociente ideal, lo que se traduce en cierto grado de espacio muerto fisiológico (“se desperdicia” parte de la ventilación porque estos alveolos no están bien perfundidos).\n• La respuesta falsa sería la 1: la zona 1 del flujo sanguíneo pulmonar se produce cuando durante todo el ciclo cardiaco la presión del aire alveolar es mayor a la presión capilar alveolar local en una zona del pulmón, de forma que los capilares permanecen cerrados y no hay flujo sanguíneo. Esta situación sólo se produce en situaciones patológicas, en casos en los que la presión alveolar es demasiado elevada o la presión arterial sistólica pulmonar es demasiado baja, por lo que la primera opción es errónea."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "El transporte de oxígeno se hace en un 97% unido a la hemoglobina. Tradicionalmente la curva de saturación de O2 se ha interpretado como una curva sigmoidea ¿Qué significado tiene decir: “ … produce desplazamiento de la curva sigmoidea a la derecha?",
+      "opciones": [
+        "Que en los tejidos periféricos hay una mayor tendencia a la captación de CO2 por la hemoglobina.",
+        "Que en los tejidos periféricos hay una mayor tendencia a la cesión de O2 por la hemoglobina.",
+        "Que para conseguir una Saturación de la hemoglobina similar a la previa, se necesita una mayor presión arterial de oxígeno.",
+        "Que aumenta la afinidad de la hemoglobina por el oxígeno."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La curva de saturación de la hemoglobina es sigmoidea. Para conseguir una Sat O2 del 50% se necesita una pO2 de 27mmHg aproximadamente. Si la curva se desplaza a la izquierda la afinidad de la hemoglobina por el oxígeno aumenta (se necesita una pO2 menor para conseguir la misma cantidad de Sat O2). Si se desplaza hacia la derecha, la afinidad disminuye. Esto ocurre en situaciones en las que se necesita un mayor aporte de oxígeno tisular.\n\nEl resto de respuestas son falsas. La respuesta 2 hace referencia a una consecuencia del desplazamiento de la curva a la derecha. Disminuye la afinidad, y por ello hay mas desplazamiento de oxigeno de Hb a tejidos."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Mujer de 48 años con antecedentes de depresión, que vive sola. Sus compañeros de trabajo avisan a los servicios de emergencia porque hace 2 días que no va a trabajar. Al entrar a su domicilio encuentra tumbada en el suelo, con escasa respuesta a estímulos, la estufa de butano encendida. Pupilas isocóricas y normorreactivas. Sus constantes: Tensión arterial 145/85mmHg, FC 120lpm, Sat O2 95%. ECG: Taquicardia sinusal a 140lpm, QRS estrecho y sin alteraciones de la repolarización. ¿Cuál de las siguientes opciones le parece correcta?",
+      "opciones": [
+        "Pautaría flumazenilo y naloxona a la vez.",
+        "La oxigenoterapia durante el traslado no beneficia a la paciente puesto que su saturación basal es correcta.",
+        "La detección de carboxihemoglobina debería hacerse precozmente.",
+        "La acidosis láctica grave sugiere una intoxicación por monóxido de carbono."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El contexto clínico sugiere una intoxicación aguda por monóxido de carbono, cuya clínica puede ser leve (mareo, náuseas, cefalea, ataxia) o grave con obnulación, coma o parada cardiorrespiratoria. El contexto clínico y las pupilas sin reacciones anómalas no sugieren una intoxicación farmacológica, y además no se deben administrar los dos antídotos a la vez, porque despista en descubrir la causa de la intoxicación. En cualquier caso, la opción 1 es incorrecta.\n\nEl diagnostico de intoxicación por monóxido de carbono es la presencia de Carboxihemoglobina en >3% en no fumadores y por encima del 7 o 10% en fumadores. La determinación precoz es importante (Respuesta 3 es correcta), pero nunca debe retrasar el inicio de oxigenoterapia, puesto que es el tratamiento de elección (Respuesta 2 incorrecta). El pulsioxímetro no diferencia entre oxígeno unido a hemoglobina o monóxido de carbono unido a hemoglobina.\n\nEl monóxido de carbono tiene una afinidad por la hemoglobina 230 veces mayor que el oxígeno. Esto tiene como consecuencia la hipoxia tisular periférica, y puede producir acidosis láctica. Por el contrario, el monóxido de carbono también inhibe a la citocromo C oxidasa (complejo IV de la cadena respiratoria mitocondrial; por lo que el metabolismo se ve reducido, y no se generará tanto ácido láctico. Habrá acidosis láctica, al igual que leucocitosis o aumento de CK, pero si la acidosis láctica es grave habrá que pensar que además de intoxicación por monóxido de carbono, pueda haber otros gases involucrados. (Respuesta 4 incorrecta)."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Señale qué proceso metabólico NO tiene lugar en el hígado:",
+      "opciones": [
+        "Desaminación oxidativa de los aminoácidos.",
+        "Gluconeogénesis.",
+        "Reacciones de detoxificación mediadas por el sistema del citocromo P-450 (fase I).",
+        "Activación de la angiotensina I, mediada por la ECA."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El fibrinógeno es un factor de la coagulación y aunque no nos acordemos con exactitud cuáles sintetiza el hígado y cuáles no, no parece descabellado considerar esta opción como correcta a priori.\n\nLa gluconeogénesis (síntesis de glucosa a partir de otros sustratos) es una de las principales funciones del hígado (y seguro que nos suena a todos) lo mismo ocurre con la importante participación del hígado en la detoxificación de múltiples tóxicos (entre otras cosas los medicamentos).\n\nLo que está claro es que la conversión de angiotensina I en II no es una función del hígado. Esta reacción está mediada por la ECA y es un enzima presente en el endotelio."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "La anemia tiene distintas implicaciones diagnósticas y terapéuticas. Es importante entender la fisiología relacionada con la anemia para poder abordarla de manera adecuada. ¿Cuál de los siguientes cambios fisiopatológicos en relación con la anemia es incorrecto?",
+      "opciones": [
+        "El flujo renal aumenta, para favorecer la síntesis de eritropoyetina.",
+        "En situación de anemia, el efecto Bohr se ve acelerado o aumentado.",
+        "El flujo coronario aumenta.",
+        "La presión arterial diferencial aumenta."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta 1 es falsa. Cuando hay hipoxia tisular, existe una redistribución del flujo sanguíneo desde órganos como la piel o el riñón, hacia el cerebro o el corazón, por lo tanto el flujo renal disminuye y aumenta el flujo coronario (respuesta 3 verdadera). Lo que si que es cierto es que ante la hipoxia renal y extrarrenal se produce un aumento de la síntesis de eritropoyetina.\n\nLa respuesta 2 es verdadera. Si hay anemia, puede haber hipoxia tisular, lo que produce un mayor consumo de metabolismo anaerobio y por ello, acidosis láctica y disminución del pH. Esto provoca desplazamiento de la curva de Saturación de la hemoglobina a la derecha, favoreciendo que la Hb desprenda oxígeno a los tejidos.\n\nLa respuesta 4 es verdadera. Debido a la redistribución vascular hacia los tejidos cerebral o cardiaco, aumenta la presión arterial sistólica y disminuye la diastólica, produciendo un aumento de la presión arterial diferencial. Esto ocurre, porque se produce una vasodilatación periférica, que disminuye la poscarga; pero el gasto cardiaco aumenta para intentar compensar la hipoxemia tisular, por lo que aumenta la presión arterial sistólica."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "En cuanto a la curva de disociación de la hemoglobina, señalar la FALSA:",
+      "opciones": [
+        "La acidosis desplaza la curva a la derecha.",
+        "El ejercicio desplaza la curva a la izquierda.",
+        "La hemoglobina fetal desplaza la curva a la izquierda.",
+        "El 2,3-DPG desplaza la curva a la derecha."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El desplazamiento a la derecha de la curva de disociación de la Hb implica una mayor cesión de oxígeno a los tejidos periféricos, ya que disminuye su afinidad por el O2, que se desprenderá más fácilmente de la molécula de Hb que lo transporta. Para facilitarte el estudio, acuérdate de que \"los aumentos desplazan la curva a la derecha\": aumento de 2,3 difosfoglicerato, aumento de PaCO2, aumento de la temperatura y aumento de los hidrogeniones (=descenso del pH). La hemoglobina fetal (HbF), que tiene mayor afinidad por el oxígeno que la del adulto, desplazaría la curva a la izquierda. Durante el ejercicio, se produce una mayor cantidad de ácido láctico y de CO2 en tejidos periféricos, por lo que la curva se desplaza a la derecha, para garantizar así un mayor aporte de oxígeno a los tejidos (respuesta 2 falsa)."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Una de las siguientes afirmaciones sobre las características de las fibras musculares y la contracción muscular es CORRECTA, indique cual:",
+      "opciones": [
+        "La estructura contráctil básica de todos los tipos de fibras musculares está compuesta por miosina, actina y troponina.",
+        "El musculo liso presente en vasos y órganos huecos excepto el corazón presenta un ciclo más corto de unión y liberación de la actina y la miosina, consumiendo menos ATP.",
+        "Durante la relajación muscular no existe consumo de ATP.",
+        "Las sarcómeras son la unidad de contracción muscular del músculo estriado, compuesto por filamentos gruesos y finos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La estructura contráctil básica de todos los tipos de fibras musculares está formada por actina y miosina, no todas las fibras musculares tienen troponina, por ejemplo, el músculo liso carece de ella. (opción 1 falsa)\n\nEl ciclo de unión y liberación de la actina y la miosina en el musculo liso es más largo debido a que no hay troponina, consumiendo menos ATP y dando lugar a una contracción de mayor duración que el músculo estriado. (opción 2 falsa)\n\nExiste un consumo de ATP durante la relajación muscular debido a que es necesario para la disociación de la actina y la miosina. (opción 3 falsa)"
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Cuál de las siguientes proteínas participan de forma principal en el mecanismo de apoptosis celular?",
+      "opciones": [
+        "Chaperonas",
+        "Caspasas",
+        "Ubiquitina",
+        "Acuaporinas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las caspasas median la apoptosis, las chaperonas asisten al plegamiento de otras proteínas, la ubiquitina marca otras proteínas para ser destruidas y las acuaporinas son canales que permiten el paso de agua."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "En relación con el flujo sanguíneo renal. ¿Qué afirmación es FALSA?:",
+      "opciones": [
+        "Los riñones reciben alrededor del 20% del gasto cardíaco.",
+        "El flujo cortical representa alrededor del 75%.",
+        "La relación entre el filtrado glomerular y el flujo plasmático es de 1/5.",
+        "La capacidad de autorregulación desaparece en los riñones denervados."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El riñón está inervado por el sistema nervioso simpático, que tiene influencia sobre prácticamente todos sus vasos sanguíneos. El sistema nervioso simpático toma parte en la autorregulación del flujo sanguíneo renal, sobre todo ante situaciones como hemorragias intensas, en cuyo caso aumenta el tono simpático y disminuye el flujo a través de los vasos renales. No obstante, en caso de denervarse el riñón, no desaparece la capacidad de autorregulación, pues seguiría existiendo el sistema renina- angiotensina- aldosterona, que es el principal responsable de ella (respuesta 4 falsa)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Una unidad motora es:",
+      "opciones": [
+        "La porción de músculo entre dos líneas Z consecutivas.",
+        "El conjunto de fibras del mismo tipo (I, IIa y/o IIb) de un determinado músculo y por tanto inervadas por un mismo nervio.",
+        "Una motoneurona y las fibras musculares que inerva.",
+        "Ninguna de las anteriores es correcta."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una unidad motora es el conjunto de fibras musculares inervadas por una misma motoneurona espinal. La opción 1 se corresponde con la definición de sarcómero. La opción de respuesta 2 es propia del sistema nervioso periférico sin más."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "La unión del ATP a la miosina del músculo esquelético provoca:",
+      "opciones": [
+        "Unión de miosina y actina y contracción muscular.",
+        "Entrada de calcio en el mioplasma.",
+        "Separación de actina y miosina y relajación muscular.",
+        "Bloqueo de la transmisión del potencial de acción."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La unión del ATP a la miosina del músculo esquelético provoca la separación de la actina y miosina y por lo tanto la relajación muscular (opción 3 correcta). La energía se utiliza para separar ambas no para la contracción."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Un paciente con historia de enfermedad por reflujo gastroesofágico toma IBP (inhibidor de la bomba de protones) de forma crónica ¿Qué déficit de oligoelementos espera encontrar de forma más marcada?",
+      "opciones": [
+        "Calcio.",
+        "Hierro.",
+        "Cobalamina.",
+        "Hidratos de carbono."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El hierro ingerido en la dieta se encuentra fundamentalmente en forma férrica (Fe3+) que es muy insoluble en condiciones fisiológica, por lo que se convierte a la forma ferrosa (Fe2+) que es la que se absorbe en el duodeno. El ácido gástrico por su pH bajo, al mantener el hierro en forma ferrosa aumenta su absorción. Por ello causas de aclorhidria como la toma crónica de IBP está relacionado entre otras procesos con la anemia ferropénica."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "En la fisiología del corazón, una de estas afirmaciones es verdadera:",
+      "opciones": [
+        "La contracción auricular se produce durante la fase de llenado rápido.",
+        "La contracción del músculo cardíaco es de mayor duración que la del músculo liso.",
+        "La relajación isovolumétrica se produce desde que se cierra la válvula aórtica hasta que se abre la válvula mitral.",
+        "La ley de Frank Starling se relaciona con la poscarga."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La fase diastólica está constituida por tres subfases: una de llenado rápido, una segunda de llenado lento y una final (telediástole) donde se produce la onda P y la contracción auricular. El músculo liso se contrae sin la presencia de troponina, requiere menos energía y se producen contracciones más duraderas que las del músculo esquelético. Durante la diástole se produce un período en el que el volumen de los ventrículos no se modifica y comprende desde que se cierra la válvula aórtica hasta que se abre la mitral (opción correcta). La ley de Frank-Starling se relaciona con la precarga mientras que la ley de Laplace se relaciona con la poscarga."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Cuando la sangre se expone a una superficie de carga negativa in vitro, tiene lugar una serie de reacciones en la que se ven implicadas cuatro proteínas. Señale la proteína que NO está implicada en este proceso:",
+      "opciones": [
+        "Factor XII.",
+        "Factor XIII.",
+        "Factor XI.",
+        "Precalicreína."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Dentro de los primeros pasos de la coagulación se encuentra el llamado “sistema de contacto” (cuando la sangre entra en contacto con una superficie eléctricamente negativa), y son los factores XII, XI, quininógeno de alto peso molecular y precalicreína, es decir, el inicio de la vía de la coagulación intrínseca. El factor XIII sin embargo es un factor estabilizante de la fibrina, importantísimo para la estabilidad del coágulo, siendo su deficiencia una causa de diátesis hemorrágica congénita (autosómica recesiva - marcamos la opción de respuesta 2 -)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "¿Qué proceso NO corresponde a la síntesis de hormonas tiroideas?",
+      "opciones": [
+        "El yoduro se oxida por la peroxidasa tiroidea y se une a la tiroglobulina.",
+        "La pendrina cataliza el acoplamiento de DIT y MIT para formar T4 y T3.",
+        "La hidrólisis de la tiroglobulina se realiza en el interior de los fagolisosomas.",
+        "El yodo se transporta al interior de la célula folicular mediante un transportador de membrana por transporte activo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La PEROXIDASA es la que cataliza el acoplamiento de DIT y MIT para formar T4 y T3.\n\nEl resto de respuestas son correctas y forman parte del proceso de síntesis de hormonas tiroideas."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "El intercambio gaseoso ocurre en la membrana respiratoria, una ultraestructura formada por capa de surfactante, epitelio alveolar, espacio intersticial, endotelio capilar. ¿Cuál de las siguientes afirmaciones que se encuentran en relación con el proceso de intercambio gaseoso en la membrana respiratoria es falso?",
+      "opciones": [
+        "En los alveolos de una zona bien ventilada, pero poco perfundida (V/Q tiende a infinito) la presión parcial de oxígeno será similar a la del aire inspirado.",
+        "El intercambio gaseoso ocurre por la diferencia de presión parcial de gases (O2 y CO2) a ambos lados de la membrana respiratoria.",
+        "Una gasometría arterial en reposo normal, te permite descartar un trastorno de la difusión.",
+        "El proceso de la difusión alveolar es inversamente proporcional al grosor de la membrana."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta 1 es verdadera. Si el alveolo está bien ventilado, pero no llega sangre capilar venosa para producir el intercambio gaseoso, el gas en el alveolo es igual que el aire inspirado : Presión alveolar de oxígeno de 149mmHg y presión alveolar de CO2 de 0 mmHg.\n\nLa respuesta 2 es verdadera. El intercambio gaseoso ocurre por difusión, y la diferencia de presión de gases a ambos lados es el principal limitante.\n\nLa respuesta 3 es falsa. En condiciones normales, para el intercambio gaseoso se usa únicamente 1/3 de la superficie alveolar. Por ello, trastornos de la difusión puros, pueden verse enmascarados en una gasometría arterial convencional al usar el resto de la superficie alveolar para producir el intercambio gaseoso.\n\nLa respuesta 4 es verdadera."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "¿Cuál de las siguientes situaciones se asocia con diarreas importantes?",
+      "opciones": [
+        "Hipocalemia, TA normal, potasio urinario < 25 mEq/L, bicarbonato sérico alto.",
+        "Hipocalemia, TA alta, renina baja, aldosterona alta.",
+        "Hipocalemia, TA normal, potasio urinario < 25 mEq/L, bicarbonato sérico bajo.",
+        "Hipocalemia, TA alta, renina baja, aldosterona baja."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta aparentemente difícil, pero en realidad sencilla, ya que puede resolverse por lógica, descartando opciones de respuesta:\n1.- La diarrea implica pérdida de bicarbonato a través de las heces, por lo que produce acidosis metabólica, con lo que el bicarbonato descenderá en sangre.\n2 y 4.- La diarrea implica una pérdida de líquido, por lo que no producirá hipertensión. La presión arterial debería estar normal o, si es muy grave, baja.\nDescartando dichas opciones de respuesta, llegamos a conclusión de que la única opción posible es la 3."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "¿Cuál de los siguientes enunciados define la capacidad residual funcional?:",
+      "opciones": [
+        "Volumen de aire que permanece en el pulmón tras una espiración forzada.",
+        "Volumen adicional de aire que puede expulsarse realizando una espiración forzada tras una espiración normal.",
+        "Volumen de aire que se puede expulsar en una espiración forzada tras una inspiración máxima.",
+        "Volumen de aire que queda en el pulmón tras una espiración normal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La capacidad residual funcional (CRF) se define como volumen residual + volumen de reserva espiratorio (VR + VRE), que es el aire que contendría el pulmón después de una espiración normal. También puede definirse como la \"posición de reposo\" del aparato respiratorio, porque representa el nivel de volumen en el que la tendencia del pulmón a contraerse se equilibra con la de la caja torácica a expandirlo. La CRF, al incluir el VR, no puede ser medida por espirometría, ya que el VR no puede ser espirado. En su lugar, habría que recurrir a la pletismografía corporal o a técnicas de dilución de helio."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "El principal sistema muscular responsable de la espiración durante el ejercicio es:",
+      "opciones": [
+        "Musculatura del cuello.",
+        "Músculos intercostales externos.",
+        "Músculos intercostales internos.",
+        "Musculatura de la pared abdominal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Después de una inspiración máxima, y en condiciones ajenas al ejercicio, la espiración no forzada es un proceso pasivo, que ocurre gracias al retroceso elástico del pulmón hasta alcanzar la capacidad residual funcional. Si se pretende espirar más aire, alcanzada esta capacidad (es decir, expulsar el volumen de reserva espiratorio), se debe hacer uso de la musculatura espiratoria. Llega un momento en que, aun aplicándose esta musculatura, el pulmón se colapsa y no se puede expulsar más aire. En este momento, el volumen que contiene el pulmón es el “volumen residual”. Cuando se realiza una espiración forzada, sí que se aplican los músculos espiratorios. Lo mismo ocurre en el ejercicio, pues hay necesidad de aumentar la ventilación. Para ello, se usan músculos accesorios (de forma que se inspire y espire más rápido).\n\nLas respuestas 1, 2 y 4 no pueden ser correctas, porque se trata de músculos fundamentalmente inspiratorios. En el caso concreto del ejercicio, la respuesta correcta es la 5. Si queréis comprobarlo, subid corriendo las escaleras del metro y, cuando lleguéis a la superficie y resopléis, observar qué musculos estáis utilizando para expulsar el aire más rápido (los de la prensa abdominal). Incluso se puede acertar la pregunta imaginándose la situación."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Con los siguientes datos, calcule el ÍNDICE CARDIACO. Volumen telediastólico ventricular 130mL; Volumen telesistólico ventricular 50mL; Frecuencia cardiaca: 60lpm; Presión arterial 100 mmHg; Peso 70kg; Altura 180cm.",
+      "opciones": [
+        "4.8 L/min.",
+        "4.8 L/min/m2.",
+        "2.54 L/min/m2",
+        "2.54 L/min"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El índice cardíaco mide el gasto cardíaco en función de la superficie corporal (gasto cardíaco/superficie corporal) y se expresa en L/min/m2.\n\nEl gasto cardíaco es el resultado de multiplicar el volumen de eyección por la frecuencia cardíaca. El volumen de eyección se obtiene de restar al volumen al final de la diástole ventricular el volumen al final de la sístole ventricular. Por tanto en nuestro caso el gasto cardiaco sería: (130mL-50mL)x60lpm=4,8L/min.\n\nA continuación para calcular el índice cardiaco se divide el gasto cardiaco entre a superficie corporal total. La superficie corporal total se calcula a partir de una fórmula que multiplica el peso (en Kg) por la talla (en cm).\n\nSabiendo que el índice cardiaco se expresa en L/min/m2, la respuesta correcta solo puede ser la 2 o la 3. Como sabemos y hemos podido calcular, el gasto cardiaco serían 4,8 L/min, por tanto la única respuesta correcta sería la respuesta 3, ya que ese valor del gasto cardiaco lo tenemos que dividir por la superficie corporal para obtener el índice cardiaco en L/min/m2."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Usted es estudiante de Medicina de sexto curso de la carrera. Mañana comienza sus prácticas por el Servicio de Otorrinolaringología de su hospital, concretamente por la consulta de hipoacusias; para ello decide realizar un repaso de la fisiología de la audición. Respecto a la misma, señale la afirmación CORRECTA:",
+      "opciones": [
+        "El oído humano es capaz de captar frecuencias entre los 15 Hz y 60.000 Hz.",
+        "El ajuste de impedancias se realiza a nivel del oído interno.",
+        "Las frecuencias agudas hacen vibrar la membrana basilar de la espira basal de la cóclea, y las frecuencias graves lo hacen cerca del helicotrema.",
+        "El reflejo de atenuación enmascara sonidos de alta frecuencia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Veamos las opciones de respuesta:\n\n1.- El oído humano es capaz de captar frecuencias desde los 16 Hz hasta los 20.000 Hz (como curiosidad es el umbral auditivo del perro el que se encuentra entre los 15 Hz y los 60.000 Hz).\n\n2.- El ajuste de impedancias se realiza a nivel del oído medio ya que, al ser el diámetro de la membrana timpánica 17 veces mayor que la ventana oval, hace que ejerza una presión sobre el líquido de la cóclea 22 veces mayor que la ejercida sobre la membrana timpánica.\n\n3.- Las altas frecuencias contenidas en un estímulo sonoro se atenúan a medida que la onda se desplaza hacia el helicotrema; por ello los sonidos de alta frecuencia hacen vibrar la membrana basilar de la espira basal y los de baja frecuencia lo hacen cerca del helicotrema (respuesta 3 correcta).\n\n4.- El reflejo de atenuación enmascara sonidos graves o de baja frecuencia para proteger la cóclea y disminuir la sensibilidad auditiva ante su propia voz."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Las causas de maldigestión son aquellas que alteran el pH alcalino duodenal impidiendo la activación de enzimas pancreáticos y/o las que alteran de alguna forma las sales biliares. En cambio los procesos de malabsorción son aquellos debidos a ateraciones a nivel de las vellosidades intestinales de los enterocitos. La absorción es el paso de los principios inmediatos resultantes de la digestión a través del enetorocito. Una de las siguientes es falsa en relación a la absorción intestinal:",
+      "opciones": [
+        "El ácido fólico se absorbe en el yeyuno y tiene circulación enterohepática.",
+        "En el íleon terminal se absorbe la vitamina B12.",
+        "El calcio se absorbe en el duodeno ayudado por la presencia de vitamina D.",
+        "El hierro al igual que la vitamina B12 se absorbe en el yeyuno."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos encontramos con dos respuestas (la 2 y la 4) que se contraponen, porque una nos dice que la B12 se absorbe en íleon terminal y la 4 que lo hace en el yeyuno como el Fe. Ante esta situación nos decantaremos por una de las dos opciones y para que no se nos olvide ahí va una regla \"el café es lo primero que nos tomamos por la mañana y por eso Calcio y Fe se absorben en el primer tramo del tubo digestivo, el duodeno\".\n\nNo olvidéis empezar a leer las preguntas largas por la última frase, porque así nos evitaremos leer, como en este caso, el resto del enunciado y habremos ganado tiempo que siempre es muy valioso."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "La fisiología cerebral implica el conocimiento de estructuras como el líquido cefalorraquídeo y la barrera hematoencefálica. Indique cuál de las siguientes opciones en relación a ello es incorrecta.",
+      "opciones": [
+        "La concentración de iones sodio en el LCR es mayor a la del plasma.",
+        "La barrera hematoencefálica es permeable al dióxido de carbono, agua, e iones como el sodio, cloruro o potasio.",
+        "La secreción diaria de líquido cefalorraquídeo es de unos 500ml.",
+        "La cantidad de líquido cefalorraquídeo es de unos 150ml."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La producción diaria de LCR es de unos 500ml, y se mantiene en 150ml; con una presión constante. Esto es producido por el equilibrio existente entre los mecanismos formadores y eliminadores de líquido cefalorraquídeo (R3 y R4 ciertas); secreción realizada por los plexos coroideos y absorción a través de las vellosidades aracnoideas.\n\nA través de los plexos coroideos existe una secreción activa de sodio a través de las células epiteliales, los cuales por ósmosis favorecen el paso de agua y debido a su cara positiva, atraen iones cloruro. La composición del LCR es la siguiente: la concentración de iones sodio es similar a la del plasma (R1 incorrecta), iones cloruro un 15% más, iones potasio un 40% menos y glucosa un 30% menos.\n\nLa barrera hematoencefálica es muy permeable al agua, dióxido de carbono, sustancias liposolubles (anestésicos, alcohol), y parcialmente permeables a sodio, cloruro, potasio, etc. Son impermeables a proteínas."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "¿Cuál de las siguientes sustancias no tiene efecto vasodilatador arteriolar?",
+      "opciones": [
+        "Histamina",
+        "Bradicinina",
+        "Leukotrieno",
+        "Calicreina"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La histamina liberada por los basófilos en las reacciones alérgicas es la principal causante de la vasodilatación generalizada y el aumento de la permeabilidad capilar, que puede llegar a producir un shock anafiláctico (Respuesta 1 es verdadera). La bradicinina, es un péptido sintetizado por el endotelio vascular que favorece la vasodilatación arteriolar. Participa del control humoral local de la circulación (Respuesta 2 es verdadera). La calicreina es una enzima que actúa sobre los cininógenos para dar lugar a proteínas, como la bradicinina. Por lo tanto, aunque de manera indirecta, pero si favorece la vasodilatación arteriolar local (Respuesta 4 es verdadera). Los leucotrienos son moléculas implicadas en reacciones de alergia, al igual que la histamina, pero producen constricción de la musculatura bronquial, no tienen efecto a nivel arteriolar (R3 falsa). Los leucotrienos son conocidos como la “sustancia de reacción lenta de la anafilaxia”, mientras que la Histamina es la de acción rápida. Los leucotrienos son los responsables del asma alérgico, por la hiperreactividad bronquial que producen al estar en contacto el alérgeno con los bronquios. Por eso en el tratamiento del asma alérgico se usan los antileukotrienos, como el montelukast."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Los cambios fisiológicos que acontecen con el envejecimiento favorecen el desarrollo de enfermedad. Respecto a los mismos, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Se produce una disminución en el número de nefronas relacionadas con la edad biológica que condiciona pérdida fisiológica de función renal.",
+        "La esclerosis de los miocitos cardiacos favorece el desarrollo de insuficiencia cardiaca sistólica.",
+        "La disminución de la masa magra y aumento de grasa favorece el acúmulo de las benzodiacepinas de larga duración.",
+        "El aumento de infecciones de la edad avanzada por la inmunosenescencia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La esclerosis de los miocitos cardiacos favorece el desarrollo de insuficiencia cardiaca diastólica."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Un estudiante de 6º curso de medicina, tras una temporada larga de exámenes, analiza su actividad física realizada durante los últimos 2 meses. En menos de tres segundos finaliza el análisis. Decide salir a correr un rato, porque dicen que “está de moda”. A los 10 minutos regresa a casa extenuado físicamente. Decide abrir sus libros de fisiología de los primeros años de carrera para intentar entender el motivo por el que le ha pasado eso. En relación a la fisiología de la contracción muscular esquelética, señale la opción verdadera:",
+      "opciones": [
+        "El ión principal de la contracción muscular es el potasio (K+).",
+        "Las fibras musculares rápidas (blancas) tienen un retículo sarcoplásmico extenso y una gran cantidad de mitocondrias, dada la importancia del metabolismo oxidativo en estas fibras.",
+        "Hablamos de contracción muscular isométrica, cuando existe acortamiento muscular.",
+        "El músculo esquelético carece de periodo refractario."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La opción 1 es falsa. El ión principal para poder realizar la contracción muscular es la presencia de Ca++ en el sarcoplasma, que se une a la troponina C produciendo un cambio conformacional y el resto de la cascada de la contracción mscular.\n\nLa opción 2 es falsa. Las fibras musculares rápidas (blancas), se encargan del metabolismo anaerobio principalmente. Por ello, son fibras grandes (para hacer fuerza de contracción extensa) y un retículo sarcoplásmico grande, para poder hacer liberación rápida de calcio para iniciar la contracción. En cambio tienen pocas mitocondrias, porque el metabolismo oxidativo es secundario.\n\nLa opción 3 es falsa. La contracción muscular isométrica ocurre cuando no existe acortamiento muscular. La contracción muscular isotónica ocurre cuando hay acortamiento, pero la tensión muscular se mantiene constante.\n\nLa opción 4 es verdadera. El músculo esquelético carece de periodo refractario, a diferencia del músculo cardiaco. Por este motivo, el músculo esquelético se puede “tetanizar”. A medida que aumenta la frecuencia de contracción muscular, la nueva contracción puede iniciarse antes de que termine la previa siempre y cuando exista Calcio y energía suficiente para ello."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "En condiciones normales, el ingreso de 600ml de líquido en el estómago provoca un aumento de presión intragástrica de unos 12 cm de H20. Tras una vagotomía, si ingresamos el mismo volumen de líquido, ¿cuál de las siguientes reacciones ocurrirá?",
+      "opciones": [
+        "Aumento mayor de la presión intragástrica",
+        "Aumento menor de la presión intragástrica.",
+        "Aumento igual de la presión intragástrica.",
+        "No aumentará la presión."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La opción correcta es la número 1. En condiciones normales, cuando se produce un aumento del contenido gástrico, se desencadena un reflejo vasovagal, y se distiende la pared gástrica .Si hay una vagotomía, no habrá el nervio receptor, y por tanto, la presión aumentará más hasta que por otros mecanismos, pase la comida al intestino.\n\nCuando el enunciado dice “aumento mayor, menor o igual a” se refiere al compararlo con un individuo al que no le hayan realizado una vagotomía."
+    }
+  ]
+}

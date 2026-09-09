@@ -1,0 +1,579 @@
+{
+  "materia": "neumologia",
+  "paginaInicio": 43,
+  "paginaFin": 64,
+  "anomalias": [
+    "p47: en la pregunta \"Cuál de los siguientes NO es un signo de mal pronóstico en la crisis asmática\" (enunciado en p46) el comentario abre repitiendo la clave como párrafo: 'Respuesta correcta: 4'",
+    "p59: 'Paciente de 41 años, fumador de 1 paquete/día durante 15 años...' tiene Resp. Correcta: 1 (EPOC tipo enfisema pulmonar) pero el comentario dice '(respuesta 2 correcta)' al referirse al enfisema; la opción 2 es tromboembolismo pulmonar",
+    "p61: 'La presencia de atelectasia, ¿cómo influye en la estadificación del cáncer de pulmón?' - la cuarta opción viene con numeración duplicada en el original: '4) Es M1a'",
+    "p63: 'Todas las características siguientes EXCEPTO una distinguen al carcinoma pulmonar de células pequeñas...' tiene Resp. Correcta: 3 pero el comentario concluye '(respuesta 4 incorrecta)' razonando sobre la supervivencia global a 5 años, que es el contenido de la opción 3",
+    "p57: el enunciado 'Un paciente en estudio por disnea presenta la siguiente exploración funcional respiratoria completa:Espirometría... FEV1/FVC 0.63Difusión de CO: DLCO 56%, DLCO/VA 81%Plestimografía: CPT 4130 ml (70%), VR 1600 ml (110%)¿Qué valoración le sugiere este estudio funcional?' aparece en el original con los bloques pegados sin espacio ni salto de línea; se transcribe tal cual",
+    "p53, p60: en el original algunos gases aparecen con subíndice (pO2, pCO2); se han transcrito en línea como 'pO2' y 'pCO2'"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 43,
+      "enunciado": "Paciente de 50 años, con sospecha de enfermedad pulmonar intersticial. ¿Cuál es el método MÁS sensible y específico para el diagnóstico?",
+      "opciones": [
+        "Gammagrafía pulmonar con galio.",
+        "Lavado broncoalveolar.",
+        "Biopsia pulmonar.",
+        "Estudio de la función pulmonar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El método que reúne las mejores condiciones de sensibilidad y especificidad para el diagnóstico de una enfermedad pulmonar intersticial es la biopsia pulmonar. En el caso de la fibrosis pulmonar idiopática tipo NIU, el diagnóstico puede establecerse en base al TACAR (TC de Alta Resolución) sin necesidad de llegar a la biopsia pulmonar."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "La lesión del centro neumotáxico, localizado en la protuberancia, produce:",
+      "opciones": [
+        "Apnea.",
+        "Taquipnea.",
+        "Respiración apneústica.",
+        "Polipnea."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El centro pneumotáxico, localizado en la protuberancia alta, envía señales inhibitorias al centro bulbar (origen de los estímulos inspiratorios regulares) cuando se ha iniciado la respiración, siendo el principal determinante de la duración de la misma. El estímulo intenso desde este núcleo hará las inspiraciones más cortas, aumentando la frecuencia respiratoria; por el contrario, la lesión de este núcleo hará las inspiraciones más largas, llegando a provocar respiración apneústica."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Paciente de 76 años que ha presentado tres neumonías en los últimos 9 meses: la primera en el lóbulo superior derecho, la segunda en el lóbulo inferior izquierdo y la última en el lóbulo medio derecho. Todas ellas respondieron favorablemente al tratamiento con antibiótico y corticoides. El paciente ingresa por un nuevo episodio de disnea brusca, tos, fiebre y dolor torácico de características pleuríticas. En la radiografía de tórax se observa un patrón alveolar en lóbulo inferior derecho. Analíticamente destaca una leucocitosis con neutrofilia con PCR elevada y procacitonina normal. Comienza un nuevo tratamiento antibiótico con piperacilina-tazobactam y azitromicina a pesar de lo cual el paciente no mejora. ¿Cuál de las siguientes considera que es la patología más probable y por tanto el mejor tratamiento?",
+      "opciones": [
+        "Fibrosis pulmonar idiopática-pirfenidona.",
+        "Neumonía organizada criptogenética- corticoides.",
+        "Granulomatosis alérgica- corticoides.",
+        "Neumonitis por hipersensibilidad aguda- corticoides"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico en el que nos presentan un paciente con infiltrados pulmonares migratorios. Recuerda que las patologías que con más frecuencia dan este patrón son la neumonía organizada criptogenética, la granulomatosis alérgica y el síndrome de Loeffler. En este caso la duda razonable está entre la opción 2 y la 3. Dado que el paciente no presenta eosinofilia, ni asma, ni sintomatología extrapulmonar, la opción correcta no parece la 3 sino la 2. Recuerda que esta es la forma de presentación más típica de la neumonía organizada criptogenética, como infiltrados alveolares migratorios que cursan con una sintomatología muy similar a la neumonía. El tratamiento de elección son los corticoides."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Una paciente diabética de 72 años está ingresada por una neumonía comunitaria en lóbulo inferior izquierdo, y recibe tratamiento con azitromicina y ceftriaxona. Tras 5 días de tratamiento la fiebre reaparece, se acompaña de dolor en costado izquierdo que aumenta con la inspiración profunda y disnea. Solicita una radiografía de control y aparece un derrame pleural izquierdo que ocupa la mitad del hemitórax. Le practica una toracocentesis diagnóstica y nada más realizar la punción sale un líquido purulento. En ese momento usted decide:",
+      "opciones": [
+        "Enviar el líquido a bioquímica para ver glucosa y pH y a microbiología para tinciones de Gram y cultivos, y esperar los resultados para decidir actitud",
+        "Cambiar la pauta antibiótica por clindamicina más levofloxacino para cubrir gérmenes anaerobios y Gram -",
+        "Colocar un tubo de drenaje torácico",
+        "Aviasar al cirujano torácico pues el paciente precisa una videotoracoscopia para desbridamiento de la pleura y drenaje completo del derrame"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Este paciente tiene un empiema pleural, que se define por la presencia de pus o gérmenes -en la tinción de Gram o en el cultivo del líquido pleural- en la cavidad pleural. Dado que el diagnóstico está constatado, no es preciso esperar resultados de cultivos, pues el tratamiento es colocar un tubo de drenaje torácico."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Uno de los siguientes hiatos NO se encuentra en el diafragma:",
+      "opciones": [
+        "Hiato de Bochdalek.",
+        "Hiato esofágico.",
+        "Hiato de Winslow.",
+        "Hiato de Morgagni."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El hiato de Winslow no forma parte del diafragma, sino que es la puerta de entrada a la transcavidad de los epiplones, encontrándose junto al pedículo hepático."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Paciente de 19 años que acude disneico y con dolor torácico. Entre sus antecedentes destacan haber sido operado de criptorquidia y dos hernioplastias. La radiografía de tórax muestra un patrón en \"suelta de globos\". La bioquímica muestra una glucosa de 92 mg/dL, un sodio de 139 mEq/L, un potasio de 3,7 mEq/L y una urea de 37 mg/dL. En el hemograma aparecen 7.500 leucocitos/mcL. Usted orientaría el diagnóstico con:",
+      "opciones": [
+        "Determinación de alfa-FP y beta-HCG, junto a TC toracoabdominal.",
+        "Fibrobroncoscopia con biopsia.",
+        "Gammagrafía ósea y pulmonar.",
+        "TC toracoabdominal, junto con laparotomía exploradora."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La criptorquidia es un conocido factor de riesgo para cáncer testicular. Por otra parte, se trata de un varón joven, lo que no nos descarta esta posible neoplasia, ya que el cáncer de testículo es el tumor maligno sólido más frecuente en este grupo de edad. Si tenemos en cuenta que además tenemos un patrón en suelta de globos (nódulos pulmonares múltiples), tenemos una razón añadida para considerar este tipo de cáncer, cuya siembra metastásica suele tener este aspecto. La opción de respuesta correcta es el estadiaje a distancia (TC toracoabdominal) y marcadores típicos de este grupo de tumores (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "¿Cuál de los siguientes derrames suele tener características de trasudado?",
+      "opciones": [
+        "Derrame pleural paraneumónico.",
+        "Derrame pleural reumatoideo.",
+        "Derrame pleural maligno.",
+        "Derrame pleural por síndrome nefrótico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las causas de trasudado son el derrame pleural cardiaco, cirrosis hepática y síndrome nefrótico."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Encontrándose de guardia médica en el Servicio de Urgencias de su hospital, tiene que atender a un paciente de 64 años de edad con insuficiencia respiratoria aguda. Su estado clínico es crítico, con baja saturación de oxígeno e inestabilidad hemodinámica. Se realiza Rx urgente de tórax, que muestra atelectasia de 2/3 del pulmón derecho. Se procede a intubación orotraqueal y ventilación en modo asistido, con FiO2 de 1,0. En una gasometría arterial practicada posteriormente, obtenemos estos valores: pH 7,23; PaO2 60mmHg y PaCO2 30mmHg. ¿Cuál es la causa de la hipoxemia?",
+      "opciones": [
+        "Cortocircuito.",
+        "Hipoventilación.",
+        "Baja presión de O2 inspirado.",
+        "Enfermedad neuromuscular."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta sencilla de mecanismos de hipoxemia. Si con oxígeno al 100% (FiO2 1.0) no se corrige la hipoxemia está claro que el mecanismo responsable es el shunt o cortocircuito."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Un paciente de 56 años consulta por disnea progresiva en la última semana, tos y febrícula. Al llegar a Urgencias se observa una TA de 120/55 mmH, Fc 121 lpm, tª 37.2ºC y una saturación de O2 respirando aire ambiente de 82%. Se administra oxígeno por mascarilla de efecto Venturi al 50% y se obtiene una gasometría bajo esas condiciones, encontrando una pO2 de 59 mmHg, una pCO2 de 39 mmHg y un pH de 7.37, y una radiografía de tórax muestra infiltrados bilaterales y difusos. La analítica básica y el hemograma son normales. Ingresa en UCI, desde donde se solicita una broncoscopia urgente para toma de muestras, dada la gravedad del cuadro, Se practica un lavado broncoalveolar, cuyos resultados son los siguientes: recuento diferencial: macrófagos 50%, neutrófilos 10%, linfocitos 3%, eoinófilos 37%, citología negativa para células tumorales malignas, cultivos estériles, baciloscopias negativas. ¿Cual es el tratamiento más adecuado para este enfermo?",
+      "opciones": [
+        "Mebendazol",
+        "Prednisona",
+        "Ceftriaxona más levofloxacino",
+        "Voriconazol"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Este paciente tiene una eosinofilia pulmonar aguda, caracterizada por un cuadro de infiltrados pulmonare difusos con insuficiencia respiratoria aguda grave y eosinofilia que al principio sólo se ve en el lavado broncoalevolar, no en sangre periférica, como ocurre en este caso. El tratamiento de la neumonía eosinófila aguda son los corticoides, generalmente con excelente respuesta y sin que haya recidivas."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Cuál de los siguientes NO es un signo de mal pronóstico en la crisis asmática:",
+      "opciones": [
+        "Uso de la musculatoria accesoria.",
+        "Silencio auscultatorio.",
+        "Bradicardia.",
+        "Alcalosis respiratoria."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta correcta: 4\n\nLos signos de gravedad en una crisis asmática son el bajo nivel de consciencia, el silencio auscultatorio, la bradicardia y la respiración paradójica. La alcalosis respiratoria obedece a una hiperventilación, por tanto todavía no existe una fatiga acusada de la musculatora respiratoria."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "En las enfermedades intersticiales, la hipoxemia de reposo se explica por:",
+      "opciones": [
+        "Hipoventilación alveolar.",
+        "Aumento del espacio muerto.",
+        "Alteraciones de la relación ventilación-perfusión.",
+        "Rigidez asociada de la pared torácica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de una pregunta de dificultad media sobre la fisiopatología de las enfermedades intersticiales pulmonares. La principal alteración en la función pulmonar de las enfermedades intersticiales es una disminución de la difusión (DLCO), pero esto sólo es capaz de producir hipoxemia con el esfuerzo . Si se da hipoxemia en reposo en una enfermedad interstical hay que considerar la concurrencia de alteración en la relación ventilación- perfusión, como causante de la misma, y no la alteración en la difusión."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "La técnica más útil para la confirmación de una historia clínica y una radiología sospechosa de sarcoidosis pulmonar es:",
+      "opciones": [
+        "Galio 67.",
+        "Biopsia transbronquial.",
+        "Biopsia hepática.",
+        "Lavado broncoalveolar."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para el diagnóstico de sarcoidosis es preciso demostrar la presencia de granulomas no caseificantes junto con una clínica, exploración física, análisis de sangre y estudio radiológico característicos.\n\nDebido a la frecuente afectación pulmonar en la sarcoidosis el pulmón es el órgano más biopsiado, generalmente a través de fibrobroncoscopia. El rendimiento de esta prueba para el diagnóstico varía dependiendo de si hay o no afectación parenquimatosa pulmonar.\n\nLa mediastinoscopia con biopsia de ganglios es otra técnica útil pero más agresiva que la primera; de ahí que se reserve para los casos en los que la biopsia transbronquial no haya sido diagnóstica. El hígado no se considera un lugar aceptable para biopsiar en casos de sospecha de sarcoidosis ya que el hallazgo de granulomas no caseificantes debidos a otras enfermedades es muy frecuente en esta localización. Ni la gammagrafía anormal con galio 67 ni los hallazgos del lavado broncoalveolar, ambos muy característicos de la sarcoidosis, son diagnósticos de la enfermedad."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Acude a revisión una paciente de 58 años diagnosticada de asma bronquial. Tiene antecedentes de hipotiroidismo e hipertensión. Está en tratamiento con enalapril, tiroxina, formoterol/beclometasona a dosis altas y salbutamol a demanda. En la revisión le dice que desde la anterior hace 4 meses no está bien, usa salbutamol a diario, tose con frecuencia, en ocasiones por las noches, y la tos se acompaña de sibilancias audibles. En el último mes ha observado que tiene febrícula casi diaria, vespertina, y tos seca que ha aumentado de intensidad y freuencia.En la exploración se encuentra eupneica, con saturación basal de O2 de 94%, auscultación pulmonar con alguna sibilancia espiratoria ocasional y aislados crepitantes. Anaítica con 1000 eosinófilos por microlitro, Rx tórax con ténues infiltrados periféricos y espirometía: FEV1 1780 ml (62%), FVC 2900 ml (76%), FEV1/FVC 0.61. ¿Cuál es la actitud correcta?",
+      "opciones": [
+        "Añadir mepolizumab",
+        "Añadir tiotropio",
+        "Sospechar neumonía atípica. Iniciar tratamiento con una pauta de azitromicina",
+        "Sospechar neumonía eosinófila crónica. Confirmar el diagnóstico con un lavado broncoalveolara e iniciar tratamiento con prednisona oral"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En esta paciente hay que sospechar neumonía eosinófila crónica: asma de larga evolución que comienza con mal control, se acompaña de febrícula, y se objetiva eosinofilia e infiltrados periféricos en la radiografía de tórax. Una vez confirmado el tratamiento, el tratamiento esteroideo suele mostrar mejoría de la clínica y de los infiltrados en un periodo corto de tiempo, 48/72 horas"
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Mujer de 59 años, ex-fumadora (IPA: 25), diagnosticada de EPOC fenotipo enfisema clase B de GOLD, quien acude a urgencias por cuadro de empeoramiento de su disnea habitual hasta hacerse de mínimos esfuerzos, tos y expectoración purulenta, de 5 días de evolución. A la auscultación pulmonar: hipofonesis generalizada, sibilantes y roncus dispersos. GAB: pH: 7.37, Pco2: 35 mmHg, pO2 56 mmHg, HCO3 26 mEq/L. La Radiografía de tórax muestra signos de hiperinsuflación como único hallazgo. ¿Cuál es el tratamiento más adecuado para la paciente?",
+      "opciones": [
+        "Salbutamol e ipratropio inhalado, metilprednisolona intravenoso, y amoxicilina-clavulánico intravenoso.",
+        "Salmeterol y fluticasona inhalado, metilprednisolona intravenoso, amoxicilina-clavulánico intravenoso y oxigenoterapia FIO2 28%.",
+        "VMNI modo BiPAP, amoxicilina-clavulánico intravenoso, metilprednisolona intravenoso, salbutamol e ipratropio inhalado.",
+        "Salbutamol e ipratropio inhalado, metilprednisolona intravenoso, amoxicilina-clavulánico intravenoso y oxigenoterapia FIO2 28%"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una paciente que acude al servicio de urgencias por una agudización infecciosa de su enfermedad de base. Por tanto, se recomienda tratamiento con oxigenoterapia con FIO2 bajas, corticoterapia sistémica, antibioterapia y broncodilatadres de acción corta."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "La joroba de Hampton es un signo radiográfico de:",
+      "opciones": [
+        "Infarto pulmonar.",
+        "Hipertensión pulmonar primaria.",
+        "Tuberculosis pulmonar.",
+        "Insuficiencia ventricular izquierda."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las imágenes radiológicas típicas debes conocerlas, porque pueden ser una pista sobre todo en casos clínicos largos, tan presentes en los últimos años. En este caso no debes olvidar la imagen de la joroba de Hampton que aparece en el TEP debida a un infarto pulmonar y que consiste en una opacidad periférica en cuña situada encima del diafragma y con vértice dirigido hacia el hilio pulmonar.\n\nEl diagnóstico diferencial ante una opacificación localizada se establece con una neumonía, una neoplasia, BONO... En el caso de la Hipertensión pulmonar primaria encontramos un aumento del tronco de las arterias pulmonares y campos pulmonares limpios, con oligohemia periférica de forma difusa (si es localizada se trata del signo de Westermack, que aparece en el TEP). La TBC, si la afectación es pulmonar primaria afecta a campos medios e inferiores, generalmente en niños y aparece el complejo de Ghon (neumonitis, linfangitis y adenitis); si se trata de una reactivación suele afectar a los segmentos posterior del lóbulo superior y superior del lóbulo inferior y en caso de diseminación hematógena puede dar lugar a la forma miliar con infiltrados micronodulares difusos.\n\nLa linfangitis carcinomatosa es uno de las pocas enfermedades que se puede diagnosticar a través del LBA, junto con el carcinoma de células alveolares, el linfoma y la neumonía por P.carinii. La IC se manifiesta e a nivel radiológico con las líneas B de Kerley, derrame pleural, edema de pulmón, en general con un patrón alveolar difuso."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Un paciente de 69 años, obeso, hipertenso y con enfermedad pulmonar obstructiva crónica acude a Urgencias porque hace 24 horas le apareció de forma brusca disnea y dolor retroesternal opresivo. Presenta una tensión arterial de 120/70 mmHg, una frecuencia cardiaca de 108 lpm, y se aprecia edema y tumefacción del miembro inferior izquierdo. El ECG muestra únicamente taquicardia sinusal. ¿Cuál es el diagnóstico MÁS probable teniendo en cuenta todos los datos aportados?",
+      "opciones": [
+        "Síndrome coronario agudo.",
+        "Disección aórtica.",
+        "Neumotórax.",
+        "Tromboembolismo pulmonar."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La disnea de inicio brusco es el síntoma más frecuente en un TEP, sobre todo si, como en este caso, existen factores de riesgo (obesidad, EPOC). El hallazgo de signos compatibles con trombosis venosa profunda apoya el diagnóstico. El dolor torácico opresivo en un TEP suele estar producido por isquemia del ventrículo derecho. Un ECG con taquicardia sinusal es el hallazgo más frecuente en esta patología. No se menciona la presencia de signos electrocardiográficos de isquemia miocárdica (aunque el dolor sí es sugerente, pero puede deberse a la hiperpresión en la pared del ventrículo derecho), y no hay datos que sugieran el resto de las patologías que aparecen entre las opciones de respuesta."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Paciente fumador, en tratamiento broncodilatador con beta agonistas de acción corta, que presenta una gasometría de base con PO2 50 y PCO2 45. Que intervención indicaría:",
+      "opciones": [
+        "Utilizar más de una línea de broncodilatadores.",
+        "Utilizar más de una línea de broncodilatadores y pautar 02 domiciliario.",
+        "Pautar 02 domiciliario más de 16 horas diarias.",
+        "Repetir la gasometría."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento crónico del EPOC es un tema que debes dominar porque muchas son las preguntas que caen sobre él. Éste se basa en medidas terapéuticas que aumentan la supervivencia, como son el abandono del hábito tabáquico y el O2 domiciliario más de 16h/días sólo si está indicado, junto a otras intervenciones que mejoran la calidad de vida y la tolerancia a los esfuerzos de los pacientes, como son los fármacos broncodilatadores.\n\nLa indicación de O2 domiciliario se debe realizar en aquellos pacientes que, siguiendo un tratamiento broncodilatador completo, su pO2 en reposo es menor que 55mmHg y, si está entre 55-59, solo en caso de presentar alguna complicación como hipertensión pulmonar, cor pulmonale, ICC, arritmias, policitemia o reducción del intelecto. En nuestro caso el paciente aunque reúne criterios gasométricos, no está tratado correctamente con ningún broncodilatador (anticolinérgico o beta agonistas de acción larga) por lo que habría que comenzar poniéndolo, y actuar según evolucione. También debe indicarse abandono del tabaco"
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Paciente asmática desde hace 10 años que acude por presentar fiebre, escalofríos y sudoración con astenia, pérdida de peso y sibilancias. Se le realiza una radiografía de tórax donde se aprecian infiltrados bilaterales periféricos, respetando las regiones hiliares. En la analítica llama la atención: leucocitos 20.000/mm³ (neutrófilos 53%, linfocitos 22% y eosinófilos 21%). ¿Qué tratamiento sería el MÁS correcto?",
+      "opciones": [
+        "Añadir corticoides sistémicos.",
+        "Añadir corticoides inhalados.",
+        "Iniciar antibioterapia.",
+        "Solo tratar con beta-2-agonistas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La neumonía eosinófila crónica (NEC) se manifiesta de forma subaguda con fiebre moderada, sudores nocturnos, pérdida de peso moderada e importante tos con escasa expectoración, precediendo al diagnóstico en varias semanas.\n\nLa mitad de los pacientes tiene antecedentes de atopia, rinitis o pólipos nasales y, hasta dos tercios, de asma. Es una enfermedad más frecuente en mujeres de edad media. En la radiografía se observan infiltrados pulmonares bilaterales y periféricos de predominio en campos superiores y medios. Cuando son generalizados se produce una “imagen negativa” del edema pulmonar.\n\nEl tratamiento de elección son los corticoides sistémicos, a los que responde espectacularmente, aunque no son raras las recaídas en relación con la retirada de estos fármacos."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Paciente de 55 años taxista de profesión, obeso (IMC 40) que acude a la consulta con su esposa. El paciente no refiere síntomas, aunque su pareja sí que manifiesta que el paciente ronca de forma intensa y no le permite dormir por las noches. En la polisomnografía, el IAH es de 4/hora, la SaO2 media es de 95% y la SaO2 mínima es de 90%. Las pruebas de función respiratoria son: FEV1 75%; FVC 69%; FEV1/FVC 71%; DLCO 65% KCO 80 % y la radiografía de tórax no muestra alteraciones significativas. El diagnóstico y respectivo tratamiento es:",
+      "opciones": [
+        "Síndrome de apnea central del sueño. Se tratará con servoventilador.",
+        "Síndrome de apnea-hipopnea del sueño con componente obstructivo. Se tratará con CPAP.",
+        "Roncopatía crónica. No requiere tratamiento.",
+        "El caso no encaja con los resultados de la prueba, por lo que está indicado repetir polisomnografía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es la 3.\n\nEl IAH está por debajo de 5, por lo que se descartan la 1) y 2). Si la prueba está correctamente realizada, es un resultado perfectamente creíble ya que el paciente aunque sea obeso, no presenta síntomas de hipersomnia diurna.\n\nLa roncopatía crónica, es el síntoma con mayor sensibilidad (su ausencia hace poco probable el diagnóstico de SAHS).Sin embargo la mayoría de roncadores no tienen SAHS (roncan el 40% de los varones y el 20% de las mujeres de la población general). Por ello la presencia de roncopatía crónica como síntoma único no es suficiente para la realización de una prueba de sueño con intención diagnóstica de SAHS."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Una de las siguientes enfermedades intersticiales tiene un claro predominio por las zonas basales pulmonares:",
+      "opciones": [
+        "Silicosis simple.",
+        "Silicosis complicada.",
+        "Neumonía eosinófila crónica.",
+        "Asbestosis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La imagen radiológica típica de la asbestosis es un patrón reticular de predominio en campos inferiores junto a placas pleurales que generalmente se localizan en la pleura parietal y raramente en la visceral. Las placas pleurales sólo indican que ha habido exposición al asbesto, pero si aparecen en el seno de una enfermedad intersticial de predominio en campos inferiores, sugieren fuertemente el diagnóstico de asbestosis. El resto de las enfermedades tienen un claro predominio por los campos superiores del pulmón."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Señale cuál de las siguientes enfermedades intersticiales no es de causa desconocida:",
+      "opciones": [
+        "Fibrosis pulmonar idiopática",
+        "Linfangioleiomiomatosis",
+        "Silicosis",
+        "Sarcoidosis"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las enfermedades intersticiales de causa desconocida son: inflamatorio/fibróticas la fibrosis pulmonar idiopática, linfangioleiomiomatosis, eosinofilias pulmonares y la proteinosis alveolar; granulomatosas la sarcoidosis y las vasculitis con afectación pulmonar (Wegener y Churg-Strauss)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "En un paciente de 30 años, que ingresa con un cuadro de intenso dolor en costado izquierdo, de aparición brusca y con intensa disnea, se objetiva radiológicamente un neumotórax. En el pulmón derecho se observa un patrón intersticial de predominio apical y en otras radiografías se aprecian lesiones osteolíticas en cráneo y una vértebra dorsal. ¿Qué diagnóstico le sugiere?",
+      "opciones": [
+        "Fibrosis pulmonar.",
+        "Enfisema pulmonar.",
+        "Cáncer de próstata.",
+        "Histiocitosis X."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La histiocitosis X es una enfermedad intersticial que afecta típicamente a varones jóvenes y fumadores. La sintomatología puede variar desde síntomas respiratorios o constitucionales, debutar con neumotórax por rotura de quistes o ser un hallazgo radiológico casual. En el 20% de los casos, hay lesiones óseas quísticas, sobre todo localizadas en huesos planos, que pueden preceder la sintomatología respiratoria o incluso ser la única manifestación.\n\nRadiológicamente es muy específico el hallazgo de nódulos y quistes con patrón retículonodular. En fases avanzadas de la enfermedad puede aparecer patrón en panal localizado en campos superiores y medios. Es fundamental el abandono del hábito tabáquico, puesto que hay mayor riesgo de progresión de la enfermedad si el paciente sigue fumando. Los corticoides no son útiles y la penicilamina se ha empleado con resultados variables. Debe considerarse el trasplante de pulmón en estadios finales."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Mujer de 53 años derivada a nuestra su consulta por disnea. No tiene antecedentes de interés. La exploración física muestra una paciente pálida, sin otras alteraciones destacables. La radiografía de tórax, espirometría, test de difusión de monóxido de carbono y gasometría arterial son normales, y la única alteración en los exámenes complementarios es una hemoglobina de 8,1 g/dL. ¿Cuál de las siguientes afirmaciones le parece CORRECTA?",
+      "opciones": [
+        "Dado que la gasometría arterial es normal, se puede afirmar que el contenido total de oxígeno de la sangre es normal.",
+        "La saturación de oxígeno de la hemoglobina está disminuida.",
+        "Tiene hipoxia.",
+        "Tiene alterada la difusión de gases a través de la membrana alveolocapilar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La hipoxia se define como la falta de oxígeno a nivel tisular. Las causas las podemos deducir de los siguientes conceptos:\n\n- Aporte de oxígeno: es el producto del gasto cardíaco por el contenido de oxígeno de la sangre.\n\n- Contenido de oxígeno en sangre: es la suma del oxígeno disuelto en el plasma (que se mide con la pO2) y el que va unido a la hemoglobina.\n\nPor tanto, la hipoxia puede ser hipoxémica, si lo que disminuye es el oxígeno disuelto; anémica, si falta el unido a la hemoglobina (ambos provocan un contenido de oxígeno en sangre disminuido); circulatoria, si se reduce el gasto cardiaco (o existe isquemia, causa local), y, por último, está la hipoxia disóxica o histotóxica, en el caso de que algún tóxico impida a la célula captar el oxígeno que le llega en cantidad adecuada por el sistema circulatorio.\n\nEn el caso de una paciente con anemia pero con gasometría normal, lo único que podemos afirmar es que tiene hipoxia (respuesta 3 correcta), cuyo mecanismo es hipoxia anémica, pero no hipoxemia (pues la pO2 es normal) ni saturación de hemoglobina baja, ni tampoco contenido de oxígeno normal (nunca podrá ser normal si hay poca hemoglobina). Si no existe hipoxemia, no cabe hablar de ninguna de sus causas, como la alteración de la difusión de gases a través de la membrana alveolocapilar."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Se realiza una broncoscopia a un paciente de 50 años con disnea progresiva y tos. En la Rx de tórax aparece un patrón reticular difuso de predominio en ambas bases. El líquido recogido del BAL presenta: 60% de macrófagos, 20% de polimorfonucleares, 15% de linfocitos y 4% de eosinófilos. Uno de los diagnósticos más probables es:",
+      "opciones": [
+        "Fibrosis pulmonar idiopática.",
+        "Neumonía eosinófila crónica.",
+        "Asbestosis.",
+        "Proteinosis alveolar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La fibrosis pulmonar idiopática aparece en varones de 50-70 años como disnea de esfuerzo progresiva y tos seca. Tardíamente, aparecen acropaquias. En la exploración, es típica la presencia de crepitantes teleinspiratorios.\n\nLa radiografía de tórax muestra patrón reticulonodular de predominio en bases que evoluciona hacia el “pulmón en panal” o “en queso suizo” en el estadio terminal.\n\nLos estudios de función pulmonar revelan patrón restrictivo (disminución de la capacidad pulmonar total, del volumen residual, de la capacidad vital…). Es muy frecuente la disminución de la DLCO, que puede preceder al descenso de los volúmenes.\n\nEn el lavado broncoalveolar predominan neutrófilos (>20%) y eosinófilos."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Un paciente de 78 años es enviado a su consulta por neumonías de repetición. Es un varón exfumador de 52 paquetes/año, dejó de fumar a los 64 años cuando sufrió un síndrome coronanrio agudo con elevación de ST, por lo que sigue tratamiento con clopidogrel y bisoprolol. Es hipertenso. Dos años después del evento coronario desarrolla una fibrilación auricular, por lo que al tratamiento que tenía se añaden amiodarona y apixabán. La enfermedad actual comienza 6 meses antes, cuando refiere disnea progresiva y tos, sin fiebre. En una TAC se aprecia un aumento de densidad en vidrio deslustrado en lóbulo inferior derecho, que fue tratado con antibióticos y prednisona. Tres meses después presenta un episodio similar, acompañado en esta ocasión de febrícula, y ahora lo que se encuentra en la TAC es un infiltrado en língula, con resolución completa del hallado en lóbulo inferior derecho 3 meses antes; recibe el mismo tratamiento con buena evolución. De las siguientes posibilidades diagnósticas, ¿cuál le parece la menos probable?",
+      "opciones": [
+        "Síndrome de Loefler",
+        "Enfermedad de Churg-Strauss",
+        "Neumonía organizada, probablemente secundaria a amiodarona",
+        "Neumonía intersticial descamativa"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La clave en esta pregunta es la presencia de infiltrados migratorios, cuyo diagnóstico diferencial es limitado. Si cursa con eosinofilia, en caso de ser un cuadro agudo hay que pensar en un síndrome de Loefler, y si es crónica en una enfermedad de Churg-Strauss; y si no tiene eosinofilia el diagnóstico más probable es una neumonía organizada. El resto de enfermedades intersticiales no cursan con infiltrados cambiantes o migratorios"
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Cuál de los siguientes parámetros funcionales respiratorios es el que se altera más precozmente en los pacientes con enfermedad intersticial pulmonar difusa:",
+      "opciones": [
+        "Capacidad vital forzada (FVC)",
+        "Volumen residual (RV)",
+        "Test de difusión de CO (DLCO)",
+        "Distancia recorrida en el test de la marcha de los 6 minutos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El Test de difusión de CO (DLCO) es el mas sensible"
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Respecto al derrame pleural secundario al síndrome de Dressler, ¿cuál de las siguientes es FALSA?:",
+      "opciones": [
+        "La presencia en líquido pleural de hematocrito superior al 50% del valor en sangre es diagnóstica.",
+        "Suele ser un derrame serohemorrágico.",
+        "Se produce tras alteración miocárdica o pericárdica.",
+        "El tratamiento habitual son los antiinflamatorios."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las enfermedades de la pleura es uno de los capítulos más importantes a estudiar en neumología, aunque en el caso de esta pregunta, recuerda que también aparece en cardiología y que es importante estudiarla de forma unitaria recordando simplemente que el síndrome de Dressler es la asociación de fiebre, pleuritis, pericarditis y neumonitis de origen autoinmune que aparece al cabo de unas semanas tras un IAM. El tratamiento es el mismo que el de cualquier pericarditis, basado en antiinflamatorios y sólo en casos más graves, glucocorticoides. Sin embargo, recuerda que también están contraindicados los anticoagulantes, porque suele ser un derrame serohemorrágico. De esta manera nos queda la opción 1 que es falsa porque lo que nos está definiendo es un HEMOTORAX no el síndrome de Dressler."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Al explorar a un enfermo que consulta por dolor sordo y continuo en el hemitórax derecho, se comprueban abombamiento e inmovilidad de dicho hemitórax, abolición de las vibraciones vocales en dicha localización y desviación de la tráquea hacia el lado izquierdo, matidez a la percusión y silencio absoluto en la base derecha y soplo en el campo medio derecho. Dicho paciente tiene semiología de:",
+      "opciones": [
+        "Atelectasia.",
+        "Pleuritis seca.",
+        "Derrame pleural.",
+        "Fibrotórax."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Dado que existe matidez a la percusión, tiene que haber un aumento de densidad con respecto a un pulmón sano. Si tenemos en cuenta que existe una abolición de la transmisión de las vibraciones vocales, no se trata de una condensación neumónica (donde estarían aumentada), sino de líquido extrapulmonar, que estará en pleuras, y que por tanto correspondería a un derrame (respuesta 3 correcta). Se trata además de un derrame masivo, pues desplaza la tráquea hacia el otro lado.\n\nObserva, por otra parte, que existe un soplo en campo medio derecho. Este soplo seguramente corresponde a una condensación parenquimatosa, es decir, a una neumonía. Por lo que ya podemos imaginarnos lo que habrá ocurrido… Se trata de una neumonía (soplo tubárico) complicada con un derrame paraneumónico (resto de las características auscultatorias)."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Aunque no es muy frecuente, un paciente afecto de carcinoma broncogénico puede presentar expectoración serosa muy abundante, llegando incluso a tener repercusiones hidroelectrolíticas. Este cuadro debe asociarlo al tipo histopatológico:",
+      "opciones": [
+        "Epidermoide.",
+        "Adenocarcinoma broncógeno.",
+        "Bronquiolo-alveolar.",
+        "Anaplásico de células fusiformes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad media-alta de uno de los temas más importantes de Neumo, el cáncer de pulmón. El carcinoma bronquioloalveolar se origina en los septos alveolares y se disemina por vía transbronquial, por lo que puede presentarse como una masa periférica única o múltiple, o como un infiltrado alveolar difuso. Por su localización produce hipoxemia y disnea, y como deriva de una proliferación de células de Clara, cursa con una producción abundante de surfactante bronquiolar, lo cual explica la expectoración serosa muy abundante. Por lo tanto, la respuesta correcta es la 3."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Respecto al derrame pleural en la artritis reumatoide, ¿cuál de las siguientes afirmaciones es FALSA?:",
+      "opciones": [
+        "El líquido pleural tiene características bioquímicas de exudado.",
+        "El pH en el líquido pleural suele ser bajo.",
+        "En el derrame pueden encontrarse leucocitos con cuerpos de inclusión (ragocitos).",
+        "El diagnóstico definitivo se establece por la presencia de factor reumatoide elevado en el líquido pleural."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El derrame pleural típico de la artritis reumatoide es un exudado con pH bajo y glucosa muy baja. El complemento es bajo y el factor reumatoide alto, pero no establece el diagnóstico, que se basa en datos clínicos, de laboratorio y semiología radiológica, no solamente en las características del líquido.\n\nLa pleuritis es la manifestación pleuropulmonar más frecuente de la AR, aunque también puede presentar fibrosis pulmonar de predominio en las bases, nódulos pulmonares (que si aparecen en pacientes con neumoconiosis se denomina Síndrome de Caplan) y bronquiolitis obliterante."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Con respecto al manejo terapéutico de la hipertensión pulmonar primaria, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Los análogos de prostaciclinas están indicados únicamente en clase funcional IV.",
+        "El trasplante pulmonar está indicado en aquellos pacientes con persistencia de insuficiencia cardiaca derecha a pesar de un tratamiento intensivo.",
+        "En todos los pacientes con un test de vasorreactividad positivo, los calcioantagonistas producen una mejoría clínica mantenida a largo plazo.",
+        "La anticoagulación es necesaria en todos los pacientes con hipertensión pulmonar, independientemente de la causa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En los pacientes con un test de vasorreactividad positivo, está indicado e tratamiento con calcioantagonistas (Nifedipino, diltiazem). Estos pacientes presentan un mejor pronóstico con una supervivencia del 95% a los 5 años. Su principal inconveniente es que, a largo plazo, aproximadamente la mitad de los pacientes bajo tratamiento crónico con calcioantagonistas presentan un deterioro clínico.\n\nEn los pacientes con un test de vasorreactividad negativo, indicaremos tratamiento médico cuando se encuentren en clase funcional II o superior. La indicación de trasplante pulmonar en la hipertensión pulmonar se establece en pacientes en clase funcional IV con signos de insuficiencia cardiaca derecha y un índice cardiaco disminuido (< 2 L/min/m² - respuesta 2 correcta -)."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Un paciente en estudio por disnea presenta la siguiente exploración funcional respiratoria completa:Espirometría: FEV1 1570 ml (61%), FVC 2490 ml (78%), FEV1/FVC 0.63Difusión de CO: DLCO 56%, DLCO/VA 81%Plestimografía: CPT 4130 ml (70%), VR 1600 ml (110%)¿Qué valoración le sugiere este estudio funcional?",
+      "opciones": [
+        "Alteración ventilatoria obstructiva pura",
+        "Alteración ventilatoria restrictiva parenquimatosa",
+        "Alteración ventilatoria restrictiva extraparenquimatosa inspiratoria",
+        "Alteración ventilatoria mixta, obstructiva/restrictiva"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Este paciente tiene un trastorno ventilatorio mixto, pues tiene un cociente FEV1/FVC menor de 0.70 (componente obstructivo) y una CPT disminuída, menor del 80% del valor teórico (componente restrictivo). Esta exploración funcional indica, por tanto, la coexistencia de dos procesos, uno obstructivo y otro restrictivo, en el mismo paciente."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Un hombre de 40 años, turista extranjero, es remitido a un centro de urgencias por bajo nivel de conciencia, temperatura de 37.7°C y disnea. No tiene traumatismos. Se realizan varias pruebas. La más inmediata es una gasometría arterial sin oxigenoterapia que muestra pH 7.33, PCO2 50 mmHg, PO2 65 mmHg, HCO3- 27 mEq/l. Señale el diagnóstico más probable entre los siguientes:",
+      "opciones": [
+        "Neumonía lobar.",
+        "Edema agudo de pulmón.",
+        "Hipoventilación alveolar.",
+        "Bronconeumonía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta sencilla, que puede resolverse a partir de conocimientos muy básicos de fisiología pulmonar.\n\nDe los datos que nos ofrecen, encontramos un pH de 7.33, con una PaCO2 elevada (50 mmHg) y un nivel sérico de bicarbonato en el límite alto de la normalidad. Esta situación es compatible con una hipoventilación alveolar, que también justifica la hipoxemia acompañante (PaO2 = 65 mmHg). Como sabes, cuanto menor es la ventilación alveolar, más se eleva la PaCO2, que es lo que está sucediendo en este paciente. El resto de las opciones son falsas,"
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Mujer de 30 años, de raza negra, que acude por disnea progresiva tras medianos esfuerzos. Refiere desde hace algunas semanas fiebre, malestar y pérdida de peso. En la exploración se observan lesiones nodulares rojo-violáceas en miembros inferiores. Se le pide una radiografía de tórax, donde se observan adenopatías hiliares bilaterales. En la biopsia pulmonar se demuestra la existencia de granulomas no caseificantes. ¿Cuál de las siguientes sería una indicación de tratamiento en el momento en que se diagnostica?",
+      "opciones": [
+        "Adenopatías hiliares bilaterales en la radiografía de tórax.",
+        "Adenopatías hiliares y patrón reticulonodular, con afectación funcional y clínica leves.",
+        "Presencia de lesiones nodulares rojo-violáceas en miembros inferiores.",
+        "Afectación ocular (uveítis)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La paciente presenta una sarcoidosis. La asociación de fiebre, eritema nodoso y adenopatías hiliares bilaterales formarían parte del llamado síndrome de Löfgren, que también incluye afectación ocular (uveítis) y artralgias migratorias.\n\nEn la sarcoidosis pulmonar en el estadio I (adenopatías hiliares bilaterales) NO está indicado el tratamiento (respuesta 1 falsa).\n\nEn los estadios II (adenopatías hiliares y patrón reticulonodular) y III (lesión del parénquima sin adenopatías) se instaura tratamiento si hay sintomatología y/o alteraciones funcionales importantes (respuesta 2 falsa). Si no las hay o son leves, se hace seguimiento y se decidirá el inicio de tratamiento según persistencia o no de las alteraciones radiológicas y/o progresión de la enfermedad.\n\nEn el estadio IV (fibrosis) debe tratarse a todos los pacientes. Recuerda que a mayor estadio radiológico, menor frecuencia de remisiones espontáneas.\n\nLas lesiones nodulares rojo-violáceas en miembros inferiores representan el eritema nodoso. En general, cuando la sarcoidosis cursa con eritema nodoso suele evolucionar como una enfermedad benigna y autolimitada (respuesta 3 falsa).\n\nLa sarcoidosis extrapulmonar grave (afectación cardíaca, neurológica, ocular, cutánea, hipercalcemia) requiere tratamiento (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Paciente de 41 años, fumador de 1 paquete/día durante 15 años, que consulta por disnea de esfuerzo desde hace 3 años que se ha hecho progresivamente de pequeños esfuerzos. En la radiografía de tórax se observa hiperinsuflación pulmonar con hilios vasculares prominentes. Gasometría arterial basal: pH 7,46, pO2 57 mmHg, pCO2 36 mmHg. Pruebas de función respiratoria: FEV1 50% del teórico, FVC 85% del teórico, FEV1/FVC 65%, TLC 131%, RV 207%, DLCO 60%. Su diagnóstico más probable es:",
+      "opciones": [
+        "EPOC tipo enfisema pulmonar.",
+        "Tromboembolismo pulmonar.",
+        "EPOC tipo bronquitis crónica.",
+        "Neumonía."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ante un paciente con obstrucción ventilatoria, deberíamos sospechar un EPOC, ya sea en forma de bronquitis crónica o de enfisema. Si además nos dicen que la difusión de monóxido de carbono está reducida de forma importante, debemos decantarnos por el enfisema pulmonar (respuesta 2 correcta). La hiperclaridad del parénquima pulmonar radiográfica también nos ayuda. Recuerda que, en la bronquitis crónica, el dato clínico típico es la tos con expectoración abundante."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Señale la afirmación incorrecta en relación con la clínica del asma:",
+      "opciones": [
+        "Radiológicamente, lo habitual es encontrar una Rx tórax normal, salvo en las crisis graves.",
+        "El dato auscultatorio más típico son las sibilancias inspiratorias.",
+        "La PaCO2 suele estar disminuida durante las crisis.",
+        "En crisis asmáticas graves puede aparecer pulso paradójico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las sibilancias típicas del asma son espiratorias, ya que se trata de una enfermedad obstructiva (es más dificultoso que el aire salga del pulmón, con respecto a que entre). No son, por tanto, inspiratorias, como dice la pregunta. El resto de opciones son correctas. Recuerda que, tal como se explica en la respuesta 1, la Rx tórax más frecuente en la crisis asmática es una radiografía normal. Cuando aparecen alteraciones es en las crisis graves, sobre todo si hay mala respuesta al tratamiento. Entonces podremos encontrar algunas complicaciones (atelectasias por tapones mucosos, neumotórax, neumomediastino...)"
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "El tratamiento de elección del síndrome de apnea obstructiva del sueño grave es:",
+      "opciones": [
+        "Dieta hipocalórica.",
+        "Suprimir el tabaco y la ingesta de bebidas alcohólicas.",
+        "Presión positiva continua en la vía aérea (CPAP).",
+        "Traqueotomía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es una pregunta de dificultad baja que podemos responder con los conceptos adquiridos ya en primera vuelta. Vamos a recordar unas nociones básicas sobre el tratamiento para responder la pregunta; el primer escalón del tratamiento lo constituyen diversas medidas higiénico- dietéticas (evitar alcohol y sedantes, reducir peso, evitar dormir en decúbito supino, dispositivos intraorales...) que podrían bastar si la apnea fuese leve- moderada. Si la apnea es severa o si lo anterior no es suficiente, en la actualidad lo más usado (y más eficaz) es la CPAP (opción 3 correcta), que previene el desarrollo de la presión subatmosférica crítica que produce el colapso de las vías respiratorias. Por último y sólo en los casos refractarios graves, se puede recurrir a la cirugía (uvulopalatofaringoplastia o traqueostomía)."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Indique lo correcto en relación a la sarcoidosis:",
+      "opciones": [
+        "La piel está afecta en muy pocos casos.",
+        "La afectación cutánea aparece en un 35% de casos aproximadamente.",
+        "La afectación del facial suele ser fija.",
+        "Las adenopatía hiliares no suelen ser simétricas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La piel está afecta en el 35% de los casos de sarcoidosis. La lesiones más frecuentes son el eritema nodoso, las placas, las erupciones maculopapulosas, los nódulos subcutáneos y el lupus pernio. La afectación neurológica ocurre en el 5% de los casos y lo más frecuente es la afectación del VII par con parálisis facial unilateral. En la radiografía lo característico es el aumento de los ganglios hiliares bilaterales y también es frecuente el aumento de las adenopatías paratraqueales, generalmente derechas."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Estando de guardia en el hospital le avisan de la planta de Cirugía General para ver los resultados de un hemograma y una gasometría solicitados por el anestesista a un paciente intervenido por la mañana de una colecistitis. El hemograma es el siguiente: leucocitos 12.000, 82% neutrófilos, Hb 12, plaquetas 235.000, y la gasometría arterial con oxígeno por cánula nasal a 2 litros por minuto: pO2 50, pCO2 50, pH 7,33. Acude a valorar al paciente que dice tener una ligera molestia en la zona de la laparotomía, pero no le refiere ningún síntoma respiratorio, la frecuencia cardíaca es 98 lpm y la respiratoria 14 rpm, Tª 37 ºC, auscultación pulmonar normal. La radiografía de tórax a la salida a planta pocas horas antes es normal. ¿Qué prueba solicitaría para aclarar el cuadro de este enfermo?",
+      "opciones": [
+        "Angio-TC de tórax por sospecha de TEP.",
+        "TC abdominal por sospecha de complicación de la colecistectomía.",
+        "Repetir la radiografía de tórax por sospecha de neumonía nosocomial.",
+        "Repetir la gasometría arterial: posible contaminación venosa."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En un paciente asintomático desde el punto de vista respiratorio lo más probable es que la gasometría arterial esté extraída en realidad de una vena, con lo que se trataría de una gasometría venosa, por lo que antes de sospechar una complicación posoperatoria se debe confirmar el hallazgo de la gasometría (respuesta 4 correcta). La clave, por tanto, es la total ausencia de síntomas respiratorios."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "La presencia de atelectasia, ¿cómo influye en la estadificación del cáncer de pulmón?:",
+      "opciones": [
+        "Es al menos un T2",
+        "Es al menos un T3",
+        "Es al menos un T4",
+        "4) Es M1a"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La existencia de atelectasia, independiente de cualquier otro factor, hace que haya que estadificar el tumor al menos en un T2."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Una paciente no fumadora de 56 años presenta desde hace 1 año tos, y en los últimos 6 meses, hemoptisis leves ocasionales. Se realiza una radiografía de tórax donde se aprecia una atelectasia del lóbulo medio. En la broncoscopia se aprecia una masa muy vascularizada a la entrada del bronquio segmentario más interno del lóbulo medio. La paciente presentará con mayor probabilidad:",
+      "opciones": [
+        "Hamartoma.",
+        "Tumor carcinoide.",
+        "Carcinoma oat cell.",
+        "Carcinoma escamoso."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta de dificultad media sobre el diagnóstico diferencial de las masas endobronquiales. La aparición de atelectasia segmentaria podría justificarse por cualquiera de ellas, pero en este caso, se trata claramente de un tumor carcinoide, por las siguientes razones:\n\n- El aspecto de la masa, “muy vascularizada”, es muy típico del tumor carcinoide. La clínica también es sugestiva de este tumor, tos crónica junto a hemoptisis (tumor muy vascularizado) o atelectasia (tumor intrabronquial) en paciente joven y sin relación con el tabaquismo.\n\n- La evolución de la lesión es de un año, y no mencionan afectación general ni síntomas constitucionales, por lo que es improbable que sea un cáncer.\n\n- La paciente no es fumadora, lo que resta credibilidad a las respuestas 4.\n\n- El adenocarcinoma, aunque es el cáncer de pulmón más frecuente en no fumadores, no suele ser una masa endobronquial, sino que aparece a nivel periférico.\n\n- El hamartoma no suele producir hemoptisis ni ser una masa endobronquial. Por otra parte, en la radiografía de tórax hubiésemos visto calcificaciones, que no mencionan (respuesta 1 falsa)."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Con respecto a la sarcoidosis, es FALSO que:",
+      "opciones": [
+        "La presencia de infiltrados parenquimatosos sin afectación hiliar en la sarcoidosis pulmonar indica un estadio III.",
+        "El método más sensible para detectar enfermedad pulmonar intersticial en la sarcoidosis es la medición de la capacidad de difusión del CO (DLCO).",
+        "Un aumento del número de linfocitos totales en el lavado broncoalveolar, así como un cociente CD4/CD8 < 3,5 en el lavado broncoalveolar, es altamente sugestivo de sarcoidosis.",
+        "La elevación de la enzima de conversión de angiotensina en sangre por encima de 2 veces su valor normal es congruente con el diagnóstico de sarcoidosis, si bien su sensibilidad y especificidad es baja."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta relativamente sencilla sobre sarcoidosis. Veamos las opciones de respuesta:\n\n1.- La presentación como afectación parenquimatosa sin adenopatías es un estadio radiológico III.\n\n2.- La prueba funcional más sensible para detectar afectación intersticial, tanto en la sarcoidosis como en las enfermedades intersticiales en general, es la difusión de CO.\n\n3.- El lavado broncoalveolar característico consiste en aumento de linfocitos con cociente CD4/CD8 elevado, generalmente por encima de 3,5 (opción 3 falsa, por lo que la marcamos).\n\n4.- Aunque es típica la elevación de la enzima convertidora de angiotensina (ECA) sérica, su valor diagnóstico es muy limitado."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Una mujer de 23 años se queja de disnea y dolor subesternal en el ejercicio. La evaluación de sus síntomas hace 6 meses incluyó una gasometría que reveló un pH de 7,48, una PO2 de 79 mmHg y una PCO2 de 31 mmHg. El electrocardiograma mostró entonces una desviación del eje a la derecha. La radiografía de tórax muestra ahora un aumento parenquimatoso y una gammagrafía pulmonar de perfusión revela defectos subsegmentarios que se cree son de \"baja probabilidad para tromboembolismo pulmonar\". El ecocardiograma muestra crecimiento del hemicardio derecho, pero sin signos de cardiopatía primaria. La prueba diagnóstica más apropiada sería:",
+      "opciones": [
+        "Biopsia pulmonar abierta.",
+        "Cateterismo del hemicardio derecho.",
+        "Biopsia transbronquial.",
+        "Concentración sérica de alfa-1-antitripsina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La hipertensión pulmonar primaria (HPP) es una enfermedad poco preguntada. No te preocupes si la has fallado. Vamos a aprovechar la ocasión para repasar lo más importante sobre esta patología:\n\n- Se produce con mayor frecuencia en mujeres premenopáusicas, casi siempre antes de los 40 años.\n\n- El síntoma fundamental es la disnea.\n\n- El diagnóstico se basa en la exclusión de otras posibles causas de hipertensión pulmonar. Recuerda que la presión de enclavamiento es normal en la hipertensión pulmonar primaria y se eleva en la secundaria.\n\n- El tratamiento consiste en la administración de anticoagulantes y, en algunos pacientes, fármacos vasodilatadores.\n\nComo puedes ver, en esta paciente no se ha estudiado aún la presión capilar pulmonar. Si estuviese elevada, iría en contra de la hipertensión pulmonar primaria, ya en esta enfermedad suele ser normal. De ahí la necesidad de realizar cateterismo del hemicardio derecho, mediante el catéter de Swan- Ganz, determinando las presiones en su interior y, posteriormente, en capilares pulmonares."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Todas las características siguientes EXCEPTO una distinguen al carcinoma pulmonar de células pequeñas del carcinoma pulmonar de células no-pequeñas:",
+      "opciones": [
+        "Las propiedades neuroendocrinas (p.ej., tinción de enolasa específica de neuronas, presencia de gránulos nucleares denosos por técnicas ultraestructurales) son más frecuentes en tumores de células pequeñas.",
+        "Mayor número de respuestas a la quimioterapia en los tumores de células pequeñas.",
+        "Mayor supervivencia global a los 5 años en los tumores de células pequeñas.",
+        "La pérdida del brazo corto del cromosoma 3 es más frecuente en los tumores de células pequeñas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad moderada de un tema muy importante para el examen, las neoplasias pulmonares.\n\nLa estirpe histológica de peor pronóstico es el microcítico, ya que, al ser el que más rápidamente metastatiza, casi siempre se descubre en fase avanzada. Por tanto no tienen mayor supervivencia global a los cinco años (respuesta 4 incorrecta).\n\nLa base del tratamiento del carcinoma microcítico es la quimioterapia, que se asocia a radioterapia si el estadio es local. En cambio la base del tratamiento curativo del carcinoma no microcítico es la cirugía."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Un paciente varón de 57 años acude por presentar anorexia, pérdida de peso, estreñimiento, dolor abdominal, debilidad muscular y hemoptisis. Su primera sospecha sería:",
+      "opciones": [
+        "Adenoma bronquial.",
+        "Hamartoma.",
+        "Carcinoma epidermoide secretor de PTH-rp con hipercalcemia paraneoplásica.",
+        "Oat cell."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad moderada sobre las neoplasias de pulmón.\n\nLa presencia de anorexia y pérdida de peso orientan hacia una neoplasia maligna por lo tanto el adenoma bronquial, que es un tumor de bajo grado de maligniad, de localización central y que puede debutar con hemoptisis o atelectasias de un lóbulo o de todo un pulmón o símplemente con tos crónica; así como el hamartoma, que es una neoplasia benigna que suele diagnosticarse al realizar una Rx de torax por cualquier otro motivo y encontrar un nódulo pulmonar de localización periférica (recordar las típicas calcificaciones en palomita de maíz) son facilmente descartables.\n\nEl síndrome de Pancoast es como su propio nombre indica un síndrome producido por un tumor el vértice pulmonar que penetra facilmente en el canal neural y destruye las raíces nerviosas octava cervical y primera y segundas torácicas; que se caracteriza por dolor en el hombro irradiado por todo el borde cubital el brazo. A menudo coexiste con afectación del simpático cervical produciendo el síndrome de Claude- Bernard-Horner, consistente en miosis, ptosis, enoftalmos y en ocasiones anhidrosis ipsilaterales. Entre las dos opciones que nos quedan hay que diferenciar entre el Oat cell y Car. Epidermoide. Para ello nos sirve la clínica en la que nos cuentan estreñimiento y el dolor abdominal, característicos de la hipercalcemia que produce la PTH- rp.\n\nRecordad que cualquier hipercalcemia independientemente de su causa produce cansancio, depresión, confusión mental, anorexia, nauseas y vómitos, estreñimiento, hipotonía, letargia, defectos reversibles del túbulo renal (diabetes insípida nefrogénica, acortamiento QT y a veces arritmias cardíacas. Otra complicación típica es la pancreatitis aguda."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Con respecto al “punto de igual presión”, es FALSO que:",
+      "opciones": [
+        "Una vez alcanzado, el flujo aéreo no depende del esfuerzo muscular.",
+        "Se alcanza cuando la presión en el interior de la vía aérea igual a la presión en el exterior de la vía aérea.",
+        "Se mide con el flujo espiratorio máximo.",
+        "Solo aparece cuando existe patología obstructiva."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El punto de igual presión es una situación fisiológica, que aparece en todos los individuos, cuando, durante una espiración forzada, la presión en el interior de la vía aérea se iguala con la presión en el exterior de la misma ejercida por los músculos espiratorios al contraerse (opción 4 falsa, por lo que la marcamos). En ese momento se alcanza el flujo espiratorio máximo, y a partir de ahí el flujo pasa a ser independiente del esfuerzo muscular del individuo."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "En el diagnóstico de asma bronquial, para el test broncodilatador se utiliza un Beta-mimético inhalado como el salbutamol ¿cuando se considera que existe una broncodilatación significativa?",
+      "opciones": [
+        "Cuando el FEV1 aumenta un 12% y 100 ml",
+        "Cuando el FEV1 aumenta un 12% o 100 ml",
+        "Cuando el FEV1 aumenta un 12% y 200 ml",
+        "Cuando el FEV1 aumenta un 12% o 200 ml"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se considera significativa la broncodilatación cuando el FEV1 aumenta 200 ml y el 12%. tiene que cumplir ambos criterios"
+    }
+  ]
+}

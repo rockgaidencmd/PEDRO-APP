@@ -1,0 +1,383 @@
+{
+  "materia": "psiquiatria",
+  "paginaInicio": 1,
+  "paginaFin": 17,
+  "anomalias": [
+    "p5: pregunta sobre el patrón de sueño en anoréxicas/bulímicas: 'Resp. Correcta: 2' pero el comentario dice '(opción 3 correcta)' y toda la numeración del comentario está desplazada una posición (llama 'opción 2' a la reducción de la latencia REM, que es la opción 1)",
+    "p8: pregunta sobre deshabituación del alcohólico: 'Resp. Correcta: 4' pero el comentario declara correctas las cuatro opciones ('La opción 4 también es correcta') describiendo en realidad el tiapride, que es la opción 3, y solo al final concluye que lo no admisible son los interdictores camuflados (opción 4); numeración del comentario desplazada"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Mujer de 50 años que, desde hace un mes, presenta ánimo deprimido, anhedonia, pérdida de memoria, llanto fácil, pérdida de energía, sensación de inutilidad y culpa, pérdida de peso marcada y despertar precoz, así como incapacidad para realizar sus tareas habituales en el hogar. En trámites de separación desde hace tres meses. Señale el diagnóstico MÁS apropiado:",
+      "opciones": [
+        "Distimia.",
+        "Pseudodemencia.",
+        "Trastorno adaptativo depresivo.",
+        "Episodio de depresión mayor."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta fácil. Nos presentan un síndrome depresivo bien cargado de síntomas (ánimo deprimido, anhedonia, pérdida de energía, pérdida de peso, despertar precoz, ideas de culpa, etc.) que lleva un mes de evolución y cuya intensidad interfiere en la vida de la paciente de forma significativa. Solo puede ser un EPISODIO DEPRESIVO MAYOR. Descartamos distimia por la duración de la intensidad, trastorno adaptativo por la intensidad y pseudodemencia por que no cuentan apenas síntomas cognitivos."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Paciente masculino de 45 años con ingesta de bebidas alcohólicas de aproximadamente 2 semanas, con cese abrupto de las mismas hace 48 hrs, que inicia a presentar temblor, náuseas, taquicardia, diaforesis, insomnio y a las 72 hrs presenta ideas delirantes de persecución, de daño y alucinaciones auditivas comandantes que le dicen que “se mate”. Usted se encuentra como médico en un centro de salud y sobre el manejo del paciente consideraría lo siguiente:",
+      "opciones": [
+        "Se trata de un síndrome de abstinencia alcohólica, puede ser manejado de forma ambulatoria con diazepam y tiamina.",
+        "El paciente está intoxicado debe ser referido a una unidad de desintoxicación alcohólica",
+        "El paciente amerita ser hospitalizado por riesgo suicida e iniciar manejo del síndrome abstinencia.",
+        "El paciente debutó con esquizofrenia debe ser enviado al hospital psiquiátrico más cercano."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El paciente presenta síntomas de abstinencia (náuseas, taquicardia, diaforesis, insomnio, alucinaciones) con antecedente de ingesta y cese abrupto de alcohol. Si precisa manejo de la abstinencia, pero requiere hospitalización por riesgo suicida por las ideas demandantes de autolesión."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Una de las relaciones siguientes entre psicofármaco y mecanismo de acción es INCORRECTA. Señálela:",
+      "opciones": [
+        "Fluoxetina – Inhibidor de la recaptación de serotonina.",
+        "Naltrexona – Antagonista opioide.",
+        "Olanzapina – Bloqueo del receptor de dopamina.",
+        "Pregabalina – Precursor del GABA."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Aunque el nombre pregabalina (como gabapentina, un fármaco afin), sugiere que pudiera actuar en el sistema GABAérgico como precursor o agonista de receptores, en realidad su mecanismo de acción es aún desconocido. Estos fármacos (pregabalina, gabapentina) tienen acciones anticonvulsivantes, analgésicas y ansiolíticas, además de posibles efectos sobre otros trastornos psiquiátricos y neurológicos. Se sabe que se unen a la subunidad alfa-2-delta de los canales de calcio voltaje dependientes, reduciendo el flujo de calcio, lo que influye en numerosos sistemas de neurotransmisión (glutamato, noradrenalina, sustancia P, GABA, etc.) (opción 4 incorrecta, por lo que la marcamos). Las demás opciones de respuesta son correctas:\n\n1.- La fluoxetina fue el ISRS (inhibidor selectivo de la recaptación de la serotonina) que revolucionó el tratamiento de los trastornos afectivos y ansiosos por su comodidad de manejo.\n\n2.- La naltrexona es un antagonista competitivo del receptor opioide mu, empleado sobre todo en trastornos adictivos (alcoholismo, dependencia de opioides).\n\n3.- La olanzapina es un antipsicótico que actúa sobre múltiples receptores, entre ellos los dopaminérgicos."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿Que patrón de sueño se suele encontrar en las pacientes anoréxicas y bulímicas?:",
+      "opciones": [
+        "Reducción de la latencia REM.",
+        "Ausencia de alteraciones en el sueño delta y REM.",
+        "Aumento de los movimientos corporales en las fases 1, 2 y REM.",
+        "Disminución del tiempo de sueño delta y REM, y mayor frecuencia y duración de los despertares."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es una pregunta muy complicada sobre los trastornos del sueño asociados a la anorexia y bulimia y muy concreto, pues las alteraciones del sueño en este tipo de patología no es muy característico que generalmente no se estudia además exige un conocimiento en profundidad de los trastornos del sueño. Se puede contestar descartando opción por opción. En anorexia/ bulimia se suele encontrar una ausencia en la alteración del sueño delta y REM (opción 3 correcta). La opción 2 reducción de la latencia REM, se vería en la esquizofrenia, así como la disminución del tiempo de sueño delta, sobre todo durante la exacerbación de la enfermedad. La opción 4 el aumento de los movimientos corporales en las fases 1, 2 y REM se podría observar en las disomnias por movimientos durante el sueño, sobre todo en el mioclonus nocturno. Manual CTO 4ª Edición, Psiquiatría, Tema 6, Págs. 40- 41 y Tema 8, Pág.44"
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Después de toda una noche fuera de casa, de fiesta con sus amigos, un adolescente se presenta en su domicilio con ataxia, nistagmus, habla disártrica, hiperemia conjuntival, nerviosismo e ideas delirantes de grandeza; ¿qué sustancia puede haber provocado estos síntomas?",
+      "opciones": [
+        "Cocaína.",
+        "MDMA (\"éxtasis\").",
+        "Cannabis.",
+        "LSD."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La hiperemia conjuntival con nistagmus, ataxia y disartria son muy típicos de la intoxicación por cannabis (como el aumento del apetito); este cuadro presenta además síntomas psiquiátricos más inespecíficos (ansiedad, síntomas psicóticos) (respuesta 3 correcta).\n\nLa cocaína y el MDMA no producen esos síntomas físicos, si no que se acompañan de un cuadro de hiperactividad adrenérgica marcada. El LSD produce fenómenos alucinatorios intensos junto con síntomas físicos de activación leve.\n\nHay que recordar que, a pesar de que el cannabis sea la sustancia ilegal consumida con más frecuencia, carecemos de antídoto o tratamiento específico para su intoxicación."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Respecto a la esquizofrenia, señale la afirmación FALSA:",
+      "opciones": [
+        "La prevalencia de esquizofrenia a lo largo de la vida es de alrededor del 1%.",
+        "La esquizofrenia tiene igual prevalencia en varones que en mujeres.",
+        "La evolución de la enfermedad es similar en hombres que en mujeres.",
+        "Las tasas de incidencia y prevalencia son aproximadamente iguales en todo el mundo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La esquizofrenia es una enfermedad frecuente, afectando a 1 de cada 100 personas a lo largo de su vida, sin que se hayan detectado diferencias importantes entre países, razas, culturas, etc. Esta prevalencia es 6 veces superior a la de la diabetes mellitus tipo I o 5 veces más que la de esclerosis múltiple, pero la enfermedad está fuertemente estigmatizada y por eso es mucho menos conocida. El curso clínico de la esquizofrenia sí tiene algunas diferencias entre ambos sexos. La incidencia y la prevalencia son similares, pero la edad de aparición es diferente: en el varón suele aparecer entre los 15 y los 25 años, mientras que en las mujeres surge más tardíamente, hacia los 25- 35 años; esta diferencia en la edad de aparición condiciona un desarrollo peor en el sexo masculino."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Un varón de 35 años fue diagnosticado a los 18 de esquizofrenia paranoide, habiendo sufrido varios brotes psicóticos hasta la fecha. Desde hace un tiempo, la clínica del paciente se caracteriza por una gran pobreza del lenguaje, aislamiento social marcado, anhedonia y aplanamiento afectivo. Ya no presenta delirios ni alucinaciones auditivas claras. Usted escogería para el tratamiento de este paciente:",
+      "opciones": [
+        "Haloperidol.",
+        "Clorpromacina.",
+        "Risperidona.",
+        "TEC."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nos encontramos ante un caso de esquizofrenia residual, que se diagnostica cuando después de un episodio esquizofrénico desaparecen los síntomas positivos, pero persisten los negativos. Suele ser la fase final común de muchos pacientes. Nos piden el tratamiento más adecuado para este paciente, por lo que debemos elegir uno que actúe de alguna manera sobre los síntomas negativos, y el más adecuado de todos ellos es la risperidona, un antipsicótico atípico (respuesta 3 correcta). El haloperidol y la clorpromacina son antipsicóticos clásicos con escasa acción sobre los síntomas negativos y la TEC se usa en cuadros esquizofrénicos resistentes a tratamiento médico o si hay síntomas catatónicos."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Ante una paciente diagnosticada de trastorno bipolar, tratada con litio desde hace años, con un buen control de la enfermedad y que es diagnosticada de nefropatía intersticial con una disminución grave del aclaramiento renal, ¿cuál sería la actitud más adecuada?",
+      "opciones": [
+        "Bajar dosis de litio.",
+        "Seguir el tratamiento con litio, puesto que la retirada podría producir una descompensación de la enfermedad.",
+        "Retirar litio y sustituirlo por carbamacepina.",
+        "Añadir un diurético tiacídico para poder disminuir dosis de litio."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "No podemos fallar ninguna pregunta sobre el litio. Es uno de los fármacos más preguntados en el examen. El efecto adverso renal más frecuente del litio es la diabetes insípida nefrogénica. Se discute si a largo plazo puede producir toxicidad renal irreversible. Sin embargo recuerda que el uso de litio debe evitarse en pacientes con insuficiencia renal, debido a su estrecho margen terapéutico. En estos pacientes el tratamiento del síndrome bipolar debe realizarse con otros eutimizantes como algunos anticonvulsivantes (valproico, carbamacepina, oxcarbacepina) o antipsicóticos atípicos (quetiapina)"
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Uno de los siguientes pacientes NO debe ingresar para desintoxicación dentro del tratamiento rehabilitador de una toxicomanía:",
+      "opciones": [
+        "Fumador de cannabis, con largo tiempo de dependencia y consumos elevados.",
+        "Consumidor de alcohol en cantidad mayor de 200 g/día.",
+        "Heroinómano con cardiopatía severa.",
+        "Adicto a las benzodiacepinas con antecedentes de delirium por abstinencia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "No es una pregunta compleja y expuesta en forma de caso clínico donde las opciones son muy claras y aplicando el sentido común se responde sin problemas. De todas las opciones, el consumo de cannabis ( opción 1) es el que menos consecuencias físicas tiene y porque en teoría no estaba aceptado el síndrome de abstinencia a cannabis, por lo que el ingreso en una unidad de desintoxicación no estaría muy indicado. En el resto de las opciones claramente el paciente debe ingresar para desintoxicarse previo al tratamiento de deshabituación. Bibliografía: Manual Psiquiatría CTO- Medicina 9ªEd, pág 53"
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Respecto a las benzodiacepinas, señale la opción FALSA:",
+      "opciones": [
+        "Son miorrelajantes y anticonvulsionantes.",
+        "Pueden producir dependencia, problemas psicomotores y amnesia anterógrada.",
+        "Son útiles en la intoxicación alcohólica, evitando las convulsiones asociadas a la misma.",
+        "Pueden usarse en el insomnio y en el síndrome de piernas inquietas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los usos principales de las benzodiacepinas son ansiolíticos e hipnóticos. También tienen acción anticonvulsivante y relajante muscular. Se utilizan además en el tratamiento de la ABSTINENCIA alcohólica (no la intoxicación) y en algunas parasomnias. Sus efectos adversos más comunes son la somnolencia y la torpeza psicomotora, aunque los más temidos por los pacientes son la dependencia y las alteraciones mnésicas."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de los siguientes métodos NO se debe usar en el proceso de deshabituación de un paciente alcohólico?:",
+      "opciones": [
+        "Terapia cognitiva y técnicas de condicionamiento operante para reforzar conductas deseables.",
+        "Terapia aversiva mediante corrientes farádicas frente a la bebida usual del paciente.",
+        "Tiapride para tratar la ansiedad en el curso del citado proceso.",
+        "Interdictores del alcohol (disulfiram o cianamida cálcica) camuflados en la comida del paciente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es una pregunta sencilla en lo que e refiere al tratamiento de deshabituación del alcohólico y que con un poco de sentido común se puede contestar. Recuerda que en el tratamiento de cualquier tipo de dependencia lo fundamental es el abordaje picosocial, por lo que la opción 1 es perfectamente aplicable a nuestro caso. La opción 2 es un poco drástica pero supone uno de los condicionamientos más conocidos en psiquiatría que es asociar el consumo a un estímulo desagradable con lo que la conducta tiende a desaparecer, en este caso el consumo. La opción 3 es importante porque, muchas veces, existe una depresión enmascarada y la finalidad del consumo es como antidepresivo. La opción 4 también es correcta, recuerda que es un de los poco neurolépticos que se pueden administrar, no disminuye el umbral convulsivo y es ansiolítico, evitando la necesidad de consumo. Lo que no se puede dar es los interdictores camuflados en la comida, porque el efecto aversivo no se relacionará con el consumo de alcohol sino con el de la comida además pueden tener reacción cruzada con alimentos que contengan alcohol como el vinagre y producir efectos secundarios indeseables Manual CTO 4ª Edición, Psiquiatría, Tema 5, Pág. 38"
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de los siguientes enunciados NO es cierto sobre la enfermedad de Alzheimer?:",
+      "opciones": [
+        "Es la causa más frecuente de demencia en el anciano.",
+        "Histopatológicamente se caracteriza áreas hematoxinófilas localizadas en lóbulo frontal y temporal principalmente.",
+        "La placa difusa es un tipo especial que está formado sólo por amiloide.",
+        "En TAC y RM se ve un aumento del sistema ventricular y espacio subaracnoideo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Sobre la enfermedad de Alzheimer suelen preguntar más en relación con la clínica, no se suelen centrar acerca de anatomía patológica.\n\nEn nuestro medio es la causa más frecuente de demencia en el anciano (R1)\n\nLa anatomía patológica muestra una degeneración progresiva y selectiva de neuronas corticales de asociación temporales y parietales sobre todo, que histológicamente se caracteriza por los ovillos o madejas neurofibrilares y las placas seniles, compuestas por un amiloide anómalo, aunque ninguna de las dos es patognomónicas.\n\nLas áreas hematoxinófilas frontotemporales son propias de la enfermedad de Pick, una forma de demencia frontotemporal.\n\nLa degeneración neuronal produce atrofia cortical, lo cual se traduce en la neuroimagen en aumento del sistema ventricular y espacio subaracnoideo."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Mujer de 19 años que desde hace 6 meses presenta un temor irracional a encontrarse en lugares donde resulte difícil ser ayudado en caso de enfermar súbitamente, por lo que evita grandes aglomeraciones y transportes públicos. Sobre este cuadro, NO es cierto que:",
+      "opciones": [
+        "Debe estar precedido de crisis de angustia.",
+        "Es el trastorno fóbico más frecuente en consulta.",
+        "El tratamiento de elección es la la exposición \"in vivo\".",
+        "Los antidepresivos pueden ayudar a reducir los síntomas en los casos graves."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El caso clínico describe una agorafobia, la forma más grave de trastorno fóbico y la que más se ve en consulta.\n\nLos pacientes presentan ansiedad en situaciones en las que se sienten desprotegidos, con miedo de no poder buscar ayuda si pasara algo grave. La mayoría de las veces la agorafobia surge como complicación de un trastorno de angustia pero no siempre es así.\n\nEl tratamiento, como en todos los trastornos fóbicos, es psicológico, basado en técnicas de modificación de conducta como la exposición en vivo. En los casos graves los antidepresivos (ISRS) ayudan a reducir la ansiedad y facilitan el tratamiento psicológico."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Hombre de 26 años, soltero, que es traído a consulta por su familia por llevar 3 meses negándose a salir de su casa. La razón que aduce el paciente es el convencimiento de que tiene la mandíbula asimétrica y la cara torcida. Según refiere, esta situación es progresiva y cada vez se ve más deforme cuando se observa en el espejo. Se avergüenza de su aspecto, por lo que no quiere salir; se angustia mucho cuando ve su imagen y no puede dejar de pensar todo el día en su deformidad. Ha consultado con varios cirujanos maxilofaciales, pero estos le dicen que no presenta asimetría facial y lo remiten al psiquiatra. El diagnóstico del paciente es:",
+      "opciones": [
+        "Trastorno depresivo mayor con ideas delirantes incongruentes con el estado de ánimo.",
+        "Trastorno obsesivo compulsivo.",
+        "Esquizofrenia paranoide.",
+        "Trastorno dismórfico corporal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Un caso clínico sencillo sobre un paciente que está convencido de sufrir una deformidad facial, a pesar de que los médicos le insisten en que no es así. Tal es su preocupación que su vida diaria está gravemente afectada por esa creencia. Parece claro que es una dismorfofobia. No hay síntomas para diagnosticar depresión o psicosis, y, aunque el trastorno dismórfico corporal forma parte de los trastornos del espectro obsesivo no vemos en este caso la combinación de obsesiones y compulsiones típica del TOC si no que todo se centra en la apariencia física."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "De los siguientes síntomas uno se incluye dentro de los llamados síntomas positivos de Andreasen:",
+      "opciones": [
+        "Disgregación del pensamiento.",
+        "Dificultades en la atención.",
+        "Apatía.",
+        "Embotamiento afectivo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Síntomas positivos son experiencias psicológicamente anormales, que no forman parte del repertorio habitual de una persona sana. Destacan entre ellos los síntomas psicóticos (alucinaciones, delirios), los síntomas catatónicos (alteraciones motoras) y los síntomas desorganizados (disgregación del pensamiento, reacciones afectivas paradójicas, conductas extrañas). En general responden mejor al tratamiento antipsicótico e implican un mejor pronóstico (sobre todo los síntomas psicóticos). Su especificidad no es mala (sobre todo cuando se afina un poco en cuanto al tipo de alucinación o delirio) pero su sensibilidad es baja, dado que se hacen evidentes durante los brotes, desapareciendo posteriormente en muchos casos. Llamamos síntomas de primer rango a una selección de síntomas psicóticos con un alto valor predictivo positivo para la esquizofrenia; son las alucinaciones auditivas en forma de voces que hacen comentarios sobre el paciente y los delirios de control e influencia aparecidos mediante la percepción o intuición delirante. Lamentablemente su valor predictivo negativo es bajo debido a su baja sensibilidad.\n\nSíntomas negativos son experiencias psicológicamente normales que han desaparecido del funcionamiento mental del paciente como consecuencia de la enfermedad. Destacan la pobreza de pensamiento, la escasez de lenguaje (alogia), la falta de iniciativa (apatía), la restricción de intereses, el retraimiento social y el aplanamiento y embotamiento emocional. Su respuesta al tratamiento es escasa y condicionan gravemente la integración sociolaboral del paciente."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿Cuál de los siguientes enunciados respecto a la depresión mayor o episodio depresivo mayor es INCORRECTO?:",
+      "opciones": [
+        "Ante la sospecha de episodio depresivo mayor, es importante valorar el riesgo suicida, por lo que es importante preguntar por ideas o proyectos de este tipo.",
+        "Entre las alteraciones del sueño, que pueden ser variables, es típica la presencia de insomnio de despertar precoz.",
+        "El abandono del autocuidado hace que estos pacientes tengan un aspecto característico.",
+        "La aparición de delirios no es compatible con el diagnóstico de depresión mayor, lo que debe hacernos pensar en trastornos psicóticos, como la esquizofrenia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el marco de una depresión mayor, determinadas ideas que presenta el paciente, se llegan a afianzar tanto y cobran tanto protagonismo que pueden llegar a convertirse en verdaderos delirios, cuya temática está bastante estructurada. Suelen ser delirios de ruina, de culpa o de enfermedad, generalmente. Por tanto los delirios son perfectamente compatibles con los estados depresivos, en contra de lo que afirma la opción 4. El resto de opciones son correctas."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Un hombre de 68 años comienza, bruscamente, tres días después de ser operado de un cáncer localizado de pulmón, a sufrir un cuadro de agitación psicomotriz, insomnio nocturno y somnolencia diurna, fallos de memoria y evidente inatención a los estímulos del ambiente, diciendo sin embargo que de noche ve hombrecillos en la habitación que le quieren hacer daño. Probablemente padece un:",
+      "opciones": [
+        "Trastorno adaptativo depresivo.",
+        "Demencia.",
+        "Delirium.",
+        "Síndrome de Korsakov."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El delirium, también llamado síndrome orgánico cerebral, aparece en relación con una enfermedad orgánica. Es más frecuente en ancianos hospitalizados y, clínicamente, el rasgo más importante es la alteración del nivel de conciencia. Podemos encontrar también inversión del ciclo sueño- vigilia, agitación, deterioro de la memoria e incluso sintomatología psicótica. El tratamiento habitual son los neurolépticos, salvo en el caso del delirium tremens, donde se utilizan benzodiacepinas."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Uno de los siguientes factores NO implica alto riesgo de suicidio:",
+      "opciones": [
+        "Menos de 40 años.",
+        "Varón.",
+        "Viudo.",
+        "No creyente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ser creyente católico y judío protege del suicidio, y esto más que a la religión en sí se debe al fuerte comunitarismo que fomentan estas religiones, lo que palia el aislamiento social, la cual sí es un claro factor de riesgo. Ser varón, viudo o divorciado, enfermo, con problemas sociales y con más de 65 años son claros factores de riesgo de suicidio. Ser joven (\"tener menos de 40 años\") no es un factor de riesgo."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Pasando consulta, usted ve en su ordenador que le han derivado a un paciente con trastorno dependiente de la personalidad ¿Qué espera encontrarse?",
+      "opciones": [
+        "Mujer joven con escasa autoestima, evita asumir responsabilidades, necesita y anhela el contacto humano por miedo a la soledad, pero suelen acabar mal porque no se puede valer por ella sola",
+        "Mujer joven con escasa autoestima, ha tenido dos episodios depresivos. Afirma que necesita que los demás sientan que ella es el centro de atención. Ha tenido dos relaciones que han fracasado porque, según sus parejas “no piensa más que en sí misma”",
+        "Varón con escasa autoestima, apenas tiene amigos porque le da miedo salir de casa y hacer el ridículo porque “no se le da nada bien”. Su madre refiere que nunca ha tenido hobbies más allá del ordenador porque dice que se le dan mal",
+        "Varón joven con dificultad para expresar sus emociones, tiene costumbres muy arraigadas y depende de su familia cuando algo no sale como el quiere"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos piden el enunciado que mejor se corresponda con un trastorno de personalidad dependiente. La respuesta correcta es la 1 pues nos definen a una mujer con baja autoestima, pasiva, estableciendo relaciones patológicas donde llega a ser sumisa, al igual que el trastorno evitativo también tiene miedo a la soledad. En la opción 2 nos comentan un trastorno narcisista donde también existe baja autoestima, con la diferencia de que en este caso quiere ser el centro de atención. La opción 3 nos describe un trastorno evitativo, desea el contacto pero le da miedo el fracaso y la humillación, tiene una mentalidad pesimista acerca de sus capacidades. La última opción es un trastorno obsesivo, típico de varones meticulosos y amantes del orden. Pueden desestabilizarse si se encuentran con situaciones fuera de su vida ordinaria."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Un paciente esquizofrénico en tratamiento con clozapina NO es probable que presente:",
+      "opciones": [
+        "Sialorrea.",
+        "Distonías agudas.",
+        "Somnolencia.",
+        "Aumento de peso."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La clozapina es el prototipo de antipsicótico atípico en lo que se refiere a la mayor eficacia y a la baja tasa de efectos extrapiramidales. Su mecanismo de acción es muy complejo, incluyendo múltiples bloqueos (dopaminérgicos, serotoninérgicos, adrenérgicos, histaminérgicos, etc.) lo que explica la variedad de efectos adversos. De hecho es un fármaco difícil de tolerar, además de que oficialmente se exige un control hematológico estricto por el riesgo de agranulocitosis. Por su acción antihistamínica produce sedación y aumento de peso (con las consecuencias metabólicas típicas: resistencia a la insulina, dislipemia, hiperglucemia). Por su acción antiadrenérgica (bloqueo alfa- 1) produce hipotensión ortostática y sialorrea. Por su acción anticolinérgica produce estreñimiento, visión cercana borrosa y fallos de memoria reciente. La combinación de un escaso bloqueo dopaminérgico D2, el efecto anticolinérgico, las acciones serotoninérgicas y cierta selectividad por regiones mesolímbicas hace que tenga la tasa más baja de efectos extrapiramidales de todos los antipsicóticos.\n\nLa sialorrea se debe a los efectos antiadrenérgicos alfa-2, que superan a los anticolinérgicos. Es muy frecuente y llega a ser incómoda."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "El trastorno de personalidad borderline o límite, se caracteriza por:",
+      "opciones": [
+        "Inestabilidad afectiva, falta de control de los impulsos y autoimagen variable.",
+        "Un coeficiente intelectual en el límite de la normalidad.",
+        "La extrema meticulosidad que les lleva a episodios de ansiedad y a estar permanentemente en el límite del autocontrol.",
+        "La incapacidad para tomar decisiones, creando lazos de dependencia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El trastorno límite de la personalidad se caracteriza por una inestabilidad que impregna toda la vida del paciente. Es más frecuente en mujeres y comienza al principio de la edad adulta. La inestabilidad afecta a todos los aspectos de la personalidad (autoimagen, estado de ánimo, conducta, relaciones interpersonales), aunque tiende a mejorar con los años. Son frecuentes los sentimientos crónicos de vacío, impulsividad (intentos de suicidio), posibilidad de episodios psicóticos breves; intolerancia al abandono, pero incapacidad para establecer relaciones estables (respuesta 1 correcta). Repasemos las demás opciones de respuesta:\n2.- Describe la \"capacidad intelectual límite\".\n3.- Recuerda al trastorno de personalidad obsesivo.\n4.- Describe al \"dependiente\"."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál de las siguientes características no es típica de la depresión endógena?:",
+      "opciones": [
+        "Empeoramiento vespertino.",
+        "Inicio agudo.",
+        "En la etiopatogenia son importantes los factores biológicos.",
+        "Suele haber alteraciones de la psicomotricidad."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La ritmicidad circadiana con mejoría vespertina del humor, la hiporexia, el despertar precoz y el retardo psicomotriz son los signos somáticos clave en el diagnóstico de la depresión endógena. El empeoramiento vespertino es más inespecífico: lo encontramos en las depresiones del polo neurótico- reactivo, en los trastornos neuróticos en general, en los trastornos adaptativos y en la depresión atípica."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "En los siguientes casos de \"depresión\" se podría plantear el uso de la TEC EXCEPTO:",
+      "opciones": [
+        "Depresión reactiva.",
+        "Depresión resistente.",
+        "Depresiones psicóticas.",
+        "Depresión catatónica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La TEC (terapia electroconvulsiva) se usa sobre todo para el tratamiento de cuadros depresivos de especial gravedad, como pueden ser las depresiones resistentes a fármacos, las depresiones con síntomas psicóticos o las depresiones catatónicas.\n\nTambién se puede usar en otros síndromes catatónicos (esquizofrénicos o de otro origen) y en trastornos mentales graves refractarios a otros tratamientos, sobre todo si se acompañan de un elevado riesgo suicida.\n\nPredicen una mejor respuesta a TEC la presencia de síntomas melancólicos. Por el contrario la existencia de un factor estresante asociado a la depresión (\"reactiva\") no tiene importancia alguna en la elección de este tipo de tratamiento."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "En relación al trastorno delirante paranoide, elija de las siguientes la respuesta correcta:",
+      "opciones": [
+        "El curso es agudo con frecuentes recaídas en determinadas estaciones del año.",
+        "El síndrome de Frégoli es cuando el sujeto cree ser amado por una persona de cierta relevancia social.",
+        "La personalidad previa del paranoide es con frecuencia hipersensible, dominante y suspicaz.",
+        "La teoría psicoanalítica relaciona el trastorno delirante persecutorio con el complejo de Edipo mal elaborado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El trastorno delirante crónico o paranoia es una variante de trastorno psicótico poco frecuente, caracterizada por la aparición insidiosa de un sistema delirante muy elaborado, en ausencia de casi cualquier otro síntoma. Su repercusión sobre la vida del paciente es básicamente social (problemas con los vecinos, con la pareja, con los compañeros de trabajo), sin que se evidencie un deterioro de la personalidad o un déficit neuropsicológico. El curso es típicamente crónico, siendo difícil determinar el inicio del cuadro, que suele suceder a una edad tardía.\n\nSegún el tema del delirio, tenemos formas centradas en la persecución o perjuicio, en los celos, en la reclamación de derechos (formas querulantes o de grandeza), en el padecimiento de un enfermedad o en un enamoramiento no correspondido.\n\nLa personalidad previa del paranoide es con frecuencia hipersensible, dominante y suspicaz. Es un poco más frecuente en mujeres, sobre todo en determinados grupos (sordos, inmigrantes, presos). Su origen es oscuro; no existen datos neurobiológicos claros; la teoría psicoanalítica lo relacionó con una homosexualidad encubierta y rechazada por el paciente (aspecto que hoy en día se considera muy discutible).\n\nEl síndrome de Frégoli es un tipo de delirio de persecución en el que el sujeto cree ser seguido por una persona que se disfraza de muy diversas formas, adoptando con frecuencia la identidad de conocidos o cercanos."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "¿Cuál de los siguientes fármacos sería de primera elección para tratar los episodios de agitación provocados por LSD?",
+      "opciones": [
+        "Haloperidol.",
+        "Carbamacepina.",
+        "Propanolol.",
+        "Diazepam."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El LSD (dietilamina del ácido lisérgico) es un alucinógeno semisintético que se obtiene del cornezuelo del centeno. Existe en forma de polvo, líquido o comprimidos, carentes de olor, color o sabor. Su uso produce alteraciones en los circuitos serotoninérgicos y como consecuencia el consumidor experimenta intensas alteraciones sensoperceptivas (alucinaciones visuales, auditivas y de todo tipo, con frecuentes fenómenos sinestésicos). En ocasiones, el paciente sufre inquietud y puede llegar a tener alucinaciones terroríficas, en cuyo caso podrían producirse episodios de violencia y agitación.\n\nEl tratamiento suele consistir en la tranquilización del paciente y el uso de benzodiacepinas, evitando los antipsicóticos por la toxicidad neurológica y el uso excesivo de contención mecánica por la hipertermia y rabdomiolisis inducidas por la sustancia."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Un paciente alcohólico ingresa de forma programada para desintoxicación en un hospital. ¿Cuál de los siguientes hallazgos analíticos NO esperaría encontrar en su caso?",
+      "opciones": [
+        "Macrocitosis.",
+        "Aumento de la GGT.",
+        "Aumento de GOT y GPT.",
+        "Descenso de la CDT."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Cuando un paciente consume de forma regular importantes cantidades de alcohol, corre el riesgo de hacerse dependiente de dicha sustancia. El cuerpo sufre modificaciones por el mero hecho de estar expuesto al tóxico durante mucho tiempo. Estos marcadores de consumo excesivo de alcohol son útiles para detectar pacientes que tienen problemas con la sustancia. Los más empleados como cribaje o screening son el aumento de la GGT y el aumento del VCM de los hematíes; son pruebas sensibles, razonablemente específicas y muy baratas, lo que permite su uso a gran escala. El cociente GOT/GPT mayor de 2 permite orientar el origen alcohólico de una hepatopatía. Menos específico sería encontrar un aumento de triglicéridos o de ácido úrico. La CDT es una variante de transferrina que aumenta cuando se consume alcohol en cantidad excesiva; es una prueba sensible, específica y rápida, dado que bastan dos semanas (de consumo o abstinencia) para que se modifique. En este caso el paciente aún no ha comenzado el tratamiento, luego es probable que la CDT siga elevada."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "En la esquizofrenia simple es frecuente ver:",
+      "opciones": [
+        "Delirios.",
+        "Alucinaciones.",
+        "Alteraciones motoras.",
+        "Síntomas negativos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La esquizofrenia simple (o trastorno deteriorante simple de la DSM-5) es la esquizofrenia SIN brotes, sin síntomas positivos. El paciente va poco a poco acumulando síntomas negativos hasta alcanzar un deterioro grave, que conlleva una importante discapacidad.\n\nA diferencia del trastorno esquizoide de la personalidad, con el que puede confundirse, las familias de estos pacientes describen un claro \"corte vital\" en algún momento del final de la adolescencia o principio de la juventud, mientras que las personas esquizoides son así \"de siempre\"."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Respecto a las parasomnias en los niños, ¿cuál de las siguientes afirmaciones es INCORRECTA?",
+      "opciones": [
+        "El sonambulismo aparece durante la primera mitad del sueño.",
+        "Los niños con terrores nocturnos no se despiertan durante el episodio.",
+        "Los terrores nocturnos aparecen en el estadio de sueño REM.",
+        "Los terrores nocturnos y el sonambulismo suelen asociarse."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Dentro de las parasomnias, destacan las que afectan al sueño profundo, las fases 3-4 del sueño No REM; tenemos los despertares confusionales, los terrores nocturnos (opción 3 incorrecta, por lo que la marcamos) y el sonambulismo, que no son sino formas del mismo problema, una transición inadecuada del sueño profundo a la vigilia. Como aparecen en esa fase del sueño, son típicas de la primera mitad de la noche, cuando el sueño es más profundo. Los pacientes no se despiertan a pesar de lo aparatoso de su comportamiento y por la mañana no recuerdan nada de lo sucedido. Con frecuencia aparecen asociadas, bien en un mismo paciente, bien en varios miembros de una familia. Cuando surgen en la infancia no revisten gravedad y tienden a desaparecer cuando el niño crece, pero cuando aparecen en adultos hay que estudiar su origen (neurológico, psiquiátrico, farmacógeno, etc.)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "En los pacientes ancianos, la melancolía involutiva NO se caracteriza uno de los siguientes aspectos:",
+      "opciones": [
+        "Ideas hipocondríacas.",
+        "Delirios de culpa.",
+        "Síntomas confusionales.",
+        "Déficit cognitivo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La \"melancolía involutiva\" es un nombre clásico que hace referencia a un episodio depresivo mayor grave, son síntomas endógenos (\"melancólicos\") que aparece en pacientes ancianos.\n\nTiene algunas peculiaridades derivadas de la edad a la que aparece y de la confluencia de factores orgánicos (sobre todo vasculares).\n\nSon frecuentes los síntomas psicóticos (ideas hipocondríacas que a veces alcanzan síndrome de Cotard, delirios de culpa o ruina), las somatizaciones y el déficit cognitivo (pseudodemencia depresiva).\n\nLa presencia de síntomas confusionales (opción 3, INCORRECTA) orienta al diagnóstico de delirium."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Uno de los fármacos siguientes NO es una buena alternativa para el control del polo maníaco en el trastorno bipolar:",
+      "opciones": [
+        "Valproico.",
+        "Oxcarbacepina.",
+        "Lamotrigina.",
+        "Quetiapina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La lamotrigina es un anticonvulsivante con acción estabilizadora para la enfermedad bipolar, que ha demostrado sobre todo eficacia antidepresiva. Por tanto no es una buena opción en pacientes con predominio del polo maníaco. Con este fármaco debemos hacer un aumento de dosis muy lento pues su ascenso rápido se ha asociado a la provocación de un eritema exudativo multiforme.\n\nPara el control del elemento maníaco disponemos de diversos fármacos: litio, valproico, carbamacepina y derivados, antipsicóticos atípicos, benzodiacepinas."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "El mejor indicador de la concentración de litio en el SNC es:",
+      "opciones": [
+        "La determinación de la litemia.",
+        "La concentración de litio en el análisis del LCR.",
+        "La concentración de litio intraeritrocitario.",
+        "El análisis de la concentración de litio en una biopsia cerebral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Dado que el litio no actúa en receptores, sin penetrando dentro de las células y generando segundos mensajeros, el mejor predictor de la acción farmacodinámica será la cantidad real de litio que pasa dentro de la neurona. Por eso la concentración de litio intraeritrocitario (el eritocito es una célula) refleja mejor la realidad que la litemia plasmática. Sin embargo esta eficacia diagnóstica en el laboratorio no ha sido validada por estudios de coste/beneficio, y por eso seguimos usando la litemia plasmática. La biopsia cerebral y el LCR serían las muestras más fieles teóricamente, pero es obvio que no las podemos usar como pruebas rutinarias ni seriadas, y por esto mismo no hay estudios que demuestren que en la realidad práctica sean mejores indicadores que los eritrocitos o el plasma, más fáciles e inocuos de obtener."
+    }
+  ]
+}

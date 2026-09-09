@@ -1,0 +1,436 @@
+{
+  "materia": "imagen",
+  "paginaInicio": 18,
+  "paginaFin": 33,
+  "preguntas": [
+    {
+      "paginaPdf": 18,
+      "enunciado": "Paciente de 35 años con cuadro séptico de origen urinario, con parada cardiorespiratoria reanimada y resulta. Intubado en unidad de cuidados intensivos, con dificultad para el despertar.En relación con la siguiente imagen cual de los supuestos es correcto:",
+      "opciones": [
+        "TC craneal donde se identifican signos de infarto en fosa posterior con afectación del tronco del encéfalo en probable relación con oclusión vertebrobasilar justificando la clínica referida.",
+        "El TC craneal realizado muestra signos de herniación transtentorial descendente justificando la clínica referida.",
+        "El TC craneal muestra hiperdensidad de surcos y cisuras con obliteración de cisternas en relación con hemorrágia subaracnoidea probablemente secundaria a rotura de aneurisma cerebral.",
+        "Sospechamos que el paciente ha hecho un infarto cerebral masivo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La opción correcta es la 4. En el TC craneal se identifican hiperdensidad de surcos y cisuras con obliteración de cisternas basales. Dicho signos en el contexto clínico de una parada cardiorespiratoria debe hacernos sospechar en lesión cerebral hipóxico-isquémica difusa por bajo gasto. El signo radiológico del aumento de densidad en surcos y cisuras se conoce como pseudohemorrágia subaaracnoidea y representa la obliteración de los mismos secundario al edema cerebral.",
+      "imagen": "imagen/p018-1.png"
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Varón de 25 años sin antecedentes de interés que refiere episodios de sangrado nasal desde hace años que han aumentado en frecuencia en las últimas semanas y que cedían espontáneamente. Desde hace un año presenta calambres nocturnos en las piernas, claudicación de miembros inferiores al hacer ejercicio, y dolor en el los gemelos que desaparece en reposo. También asocia mareos en relación a grandes esfuerzos que le obligan a cesar la actividad física. En relación a la patología que presenta el paciente:",
+      "opciones": [
+        "En la Rx de tórax pueden aparecer muescas costales y el signo del \"3\"",
+        "La a y la d son correctas",
+        "La tensión arterial sistólica será menor en los brazos que en las piernas",
+        "Puede asociar otras anomalías como válvula aórtica bicúspide y defectos septales interventriculares"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La reconstrucción volumétrica muestra una coartación aórtica postductal y dilatación aneurismática de la aorta ascendente.",
+      "imagen": "imagen/p018-2.png"
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Paciente de 74 años, en tratamiento con Rituximab, que presenta clínica subaguda de diplopía, disartria y ataxia con antecedentes de vasculitis y síndrome mielodisplásico en situación de hemodiálisis. En análisis PCR del LCR se confirma la presencia de virus JC positivo. Con respecto a los hallazgos objetivados en la RM cerebral de la imagen vinculada (afectación focal únicamente en tronco encefálico y pedúnculos cerebelosos), señale la afirmación CORRECTA:",
+      "opciones": [
+        "Los hallazgos de RM muestran posible lesión isquémica hiperaguda en territorio de arteria basilar.",
+        "Dado los datos clínicos y antecedentes del paciente, los hallazgos de RM cerebral son altamente sugestivos de vasculitis.",
+        "Dados la clínica, antecedentes y hallazgos de RM, es muy poco probable el diagnóstico de romboencefalitis.",
+        "Los datos clínicos, antecedentes y hallazgos de RM podrían estar relacionados con leucoencefalopatía multifocal progresiva."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta con imagen vinculada cuya clave radica en la presencia de virus JC positivo en paciente inmunosuprimido en tratamiento con Rituximab que ha desarrollado una leucoencefalopatía multifocal progresiva (respuesta 4 correcta) que, aunque menos frecuente, también puede afectar territorio de fosa posterior. Veamos las demás opciones de respuesta:\n\n1.- La afectación de tronco mostrada en la RM no es hiperaguda (la presencia de hiperintensidad de señal en secuencias FLAIR requiere al menos entre 4 y 6 horas de establecidas las lesiones para poder ser objetivadas).\n\n2.- Una afectación por vasculitis exclusivamente en fosa posterior, sin incluir afectación de arterias de territorio anterior, es muy improbable a pesar de los antecedentes del paciente, dado que las vasculitis suelen afectar globalmente a múltiples territorios arteriales.\n\n3.- Es probable que se pueda tratar de una romboencefalitis dada la inmunodepresión del paciente y las características de distribución parcheada y de predominio periférica afectando el tronco encefálico.",
+      "imagen": "imagen/p019-1.png"
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Varón de 50 años, con antecedente migrañoso, que acude a S. Urgencias por cuadro de afasia transitoria. Sus familiares refieren, un cambio en el comportamiento con episodios psicótico y ánimo decaído, por el cual está siendo valorado en Psiquiatría. Como antecedentes familiares su abuela paterna falleció a los 50 años por un ictus. Al revisar las pruebas realizadas, los médicos que le atienden, encuentran una RM de hace una semana. Señala la respuesta correcta respecto a patología del paciente.",
+      "opciones": [
+        "Se trata de una enfermedad con herencia autosómica dominante",
+        "Se trata de una enfermedad con herencia ligada a X",
+        "Probablemente sea una enfermedad por priones",
+        "Con las imágenes se descarta organicidad por lo que debe continuar, unicamente, su valoración por psiquiatría."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de una pregunta muy difícil, ya que si no sabemos a qué patología se refiere, no podemos responder, y las opciones no nos aportan datos a mayores.\n\nTanto en el enunciado como en las imágenes aparece representado un paciente con CADASIL ( arteriopatía cerebral autosómica dominante con infartos subcorticales y lacunares) ( respuesta correcta la A):\n\nSe caracteriza por infartos en pacientes jóvenes ( 35-45 años), con una supervivencia de unos 20 años desde su inicio.\n\nMutación en el gen NOTCH 3 (cromosoma 19), de herencia autosómica dominante\n\nClínica: AITs (60-85%), ictus, demencia progresiva subcortical (90%), migraña con aura(20-40%) alteración del estado de ánimo y trastorno de conducta (75%)\n\nDebemos sospechar esta patología en pacientes jóvenes sin antecedentes de factores de riesgo cardiovasculares clásicos, con antecedentes familiares de ictus de repetición.\n\nHallazgos radiológicos: en TC suelen ser lesiones hipodensas en la sustancia blanca subcorticales y en ganglios basales. En RM pueden estar presentes tanto en pacientes sintomáticos como asintomáticos.\n\nT1: dos tipos de lesiones: Lesiones isointensas, extensas con tendencia a la coalescencia en la SB y lesiones hipointensas, bien delimitadas, que respetan la corteza.\n\nEn las secuencias DP/T2/FLAIR: Hiperintensidades de SB difusas (leucoaraiosis) como signo precoz,Infartos lacunares hiperintensos, espacios perivasculares prominentes que siguen la intensidad de la señal del LCR en todas las secuencias de pulso, afectación del polo temporal anterior y lóbulos frontal superior paramediano, es muy específico,\n\nT2*: pueden aparecer microhemorragias que se visualizan como imágenes milimétricas de vacío de señal por depósitos de hemosiderina.\n\nDifusión: restricción en las lesiones isquémicas agudas.",
+      "imagen": "imagen/p019-2.png"
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Señale la respuesta incorrecta respecto a la radiografía adjunta:",
+      "opciones": [
+        "Se trata de una lesión con matriz condroide",
+        "Suele producir dolor y edema en más de la mitad de los casos",
+        "Es una lesión de naturaleza benigna",
+        "Suele asentar en huesos tubulares de pequeño tamaño"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Imagen clásica de un encondroma, localizado la falange media del segundo dedo. La opción incorrecta es la opción 2, ya que sólo ocasionalmente producen dolor y edema. La mayoría de los casos suelen cursar de forma asintomática y diagnosticarse de forma incidental. En el caso de la encondromatosis múltiple (Síndrome de Ollier) es más probable la aparición de dolor, deformidad o fracturas patológicas en los huesos donde asientan.",
+      "imagen": "imagen/p020-1.png"
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Varón de 52 años con antecedente de luxación anterior de hombro tras caída en moto. Se le realiza Rx simple tres meses después del traumatismo. Ante los hallazgos de Rx simple (imagen vinculada) y el antecedente referido, señale la actitud CORRECTA:",
+      "opciones": [
+        "La Rx simple es normal. No hace falta hacer ninguna prueba de imagen más.",
+        "El paciente tiene artrosis acromioclavicular, lo que justifica la clínica, no hay que hacer ninguna prueba de imagen más.",
+        "Tiene una fractura de clavícula.",
+        "La radiografía no muestra hallazgos relevantes; no obstante. dado el antecedente referido y ante la sospecha de inestabilidad glenohumeral, por luxación previa, la prueba idónea sería una artrorresonancia magnética."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la Rx simple de la imagen vinculada no se observan hallazgos relevantes, no obstante podríamos ver la deformidad de Hill-Sachs en el margen posterosuperior de la cabeza humeral. En las luxaciones glenohumerales de hombro, la prueba indicada a realizar es la artrorresonancia magnética (respuesta 4 correcta).",
+      "imagen": "imagen/p021-1.png"
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Varón de 32 años, con dolor de tiempo de evolución en ambas caderas, sobre todo en la derecha. Se aportan dos proyecciones radiográficas (imagen vinculada). ¿Cuál es su sospecha clínica dado los hallazgos de radiografía simple?",
+      "opciones": [
+        "Pinzamiento femoroacetabular tipo CAM.",
+        "Pinzamiento femoroacetabular tipo PINCER.",
+        "Fractura subcapital de fémur derecho.",
+        "Osteopatía de pubis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico con imagen vinculada sobre un paciente que tiene una morfología CAM femoral, sobre todo en el lado derecho. Dado la edad y la clínica del paciente, lo más probable es que su dolor sea secundario a un pinzamiento femoroacetabular (respuesta 1 correcta).\n\nTabla de diferencias entre CAM y PINCER:\n\nPresentación — CAM: Dolor cadera / inguinal. PINCER: Dolor cadera / inguinal.\n\nDemografía — CAM: Varón, joven (30-35 años). PINCER: Mujer, edad media (40-45 años).\n\nMorfología ósea — CAM: Joroba en unión cabeza-cuello femoral, disminución del desplazamiento cabeza-cuello femoral. PINCER: Sobrecobertura acetabular focal o global, retroversión acetabular.\n\nMecanismo lesión — CAM: Primero afecta al cartílago-unión condrolabral con flexión repetida. El labrum se lesiona de forma secundaria. PINCER: Afecta primero al labrum, con un patrón de lesión localizado en la periferia del acetábulo. Asociado a lesiones por contragolpe.\n\nHallazgos radiológicos — CAM: Deformidad en culata de pistola. Ángulo alfa de más de 50ª. PINCER: Signo de la pared acetabular posterior.",
+      "imagen": "imagen/p021-2.png"
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Paciente de 48 años, con lesión palpable en el brazo. Con las imágenes aportadas (Rx simple de húmero y RM de brazo), ¿cuál es tu diagnóstico?",
+      "opciones": [
+        "Síndrome de Mazabraud (displasia fibrosa y mixomas intramusculares)",
+        "Síndrome de Ollier",
+        "Sarcoma mixoide intramuscular",
+        "Síndrome de Maffucci"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Asociación infrecuente: displasia fibrosa + mixomas intramusculares\n\nMixoma intramuscular es un túmor benigno poco frecuente. Suele ser múltiple cuando coexiste con la displasia fibrosa.\n\nDisplasia fibrosa mono o poliostótica.\n\nDisplasia puede preceder al desarrollo del mixoma en años. Se suele diagnosticar con la presentación mixoma.",
+      "imagen": "imagen/p022-1.png"
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En relación a la siguiente imagen, señale la falsa:",
+      "opciones": [
+        "Ante una dilatación del conducto de Wirsung sin causa objetivable, es necesario descartar un tumor quístico pancreático.",
+        "La prueba más sensible para valorar las neoplasias quísticas del páncreas es la colangiopancreato-RM.",
+        "En la imagen mostrada se observa dilatación del conducto de Santorini, pero no de Wirsung.",
+        "Las neoplasias mucinosas quísticas del páncreas son más frecuentes en mujeres de mediana edad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las tumoraciones quísticas del páncreas son aquellas que se originan del epitelio de los conductos pancreáticos, ya sea ramas principales o secundarias. La denominación de “quístico” hace referencia a cómo se ven microscópicamente, por lo que no siempre encontraremos en la imagen una lesión quística, y es posible, como en este caso, que sólo veamos la consecuencia de la dilatación retrógrada que produce. (Respuesta 1 verdadera).\n\nLa prueba más sensible para detectar este grupo de patologías es la colangiopancreatografía RM, especialmente por la ponderación de secuencias en T2 (brilla el líquido), que permite discernirlas con más facilidad de los tejidos adyacentes (Respuesta 2 verdadera).\n\nEn la imagen mostrada se observa dilatación del conducto pancreático principal en el cuerpo y la cola del páncreas, o conducto de Wirsung (respuesta 3 falsa, y por tanto, correcta). El conducto de Santorini es el conducto pancreático de la cabeza del páncreas que desemboca directamente en el duodeno a través de la papila menor.\n\nSe ha descrito una distribución característica para cada tipo de tumor quístico de páncreas, siendo más frecuente de manera general la neoplasia mucinosa quística en mujeres de mediana edad, el tumor papilar mucinoso intraductal en varones ancianos y el adenoma microquístico, en mujeres ancianas (Respuesta 4 verdadera).",
+      "imagen": "imagen/p023-1.png"
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Qué hallazgo observa usted en la imagen vinculada?",
+      "opciones": [
+        "Patrón alveolar.",
+        "Patrón de neumonía intersticial.",
+        "Patrón en panal de abeja.",
+        "Patrón miliar."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta en cuya imagen vinculada se observa la presencia de múltiples lesiones puntiformes afectando al intersticio pulmonar de manera bilateral y simétrica. No hay afectación vascular ni mediastínica, hallazgos compatibles con patrón miliar (similar a los ganglios de mijo) (respuesta 4 correcta).",
+      "imagen": "imagen/p023-2.png"
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Mujer de 43 años, con dolor en el talón de 7 días de evolución, tras correr una maratón, con las imágenes de RM mostradas, ¿cuál es su diagnóstico?",
+      "opciones": [
+        "Fascitis plantar",
+        "Fractura de estrés / sobrecarga en el calcáneo",
+        "Tendinopatía de Aquiles",
+        "Síndrome de pinzamiento posterior de tobillo"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las fracturas por estrés, se dividen en fracturas por fatiga / sobrecarga y fracturas por insuficiencia. Las fracturas por estrés se producen por estrés anormal sobre hueso normal y las fracturas por insuficiencia por un estrés anormal sobre un hueso anormal. Este caso es un caso típico de fractura por fatiga / estrés, que se da más frecuentemente en mujeres corredoras o que hacen mucho deporte.",
+      "imagen": "imagen/p024-1.png"
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Señale el diagnóstico más probable en base a la imagen de TC adjunta.",
+      "opciones": [
+        "Infarto de cronología antigua en el territorio de la división superior de la arteria cerebral media izquierda.",
+        "Infarto de cronología antigua en el territorio de la arteria cerebral anterior izquierda.",
+        "Infarto de cronología aguda en el territorio de la división inferior de la arteria cerebral media izquierda.",
+        "Infarto de cronología subaguda en el territorio de la arteria cerebral anterior izquierda."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la imagen axial de TC de cráneo sin contraste podéis observar una lesión hipodensa en correspondencia con el territorio vascular de la arteria cerebral media izquierda, en concreto de su división superior. El resto de opciones se traducirían en lesiones malácicas en otros territorios.",
+      "imagen": "imagen/p024-2.png"
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Respecto a esta radiografía simple anteroposterior de abdomen, señale la falsa:",
+      "opciones": [
+        "El paciente tiene esplenomegalia.",
+        "El paciente es portador de dos catéteres doble J de derivación de la vía urinaria.",
+        "El paciente tiene patrón en miga de pan en el colon ascendente.",
+        "Posibles agentes causales de la patología del paciente son la urolitiasis, el carcinoma cervical o la fibrosis retroperitoneal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En esta radiografía AP de abdomen no se observa la silueta esplénica por debajo del reborde costal, lo cual indica que el bazo no es prominente, y por tanto, no tiene signos de esplenomegalia (respuesta 1 falsa, y por tanto, correcta).\n\nEl paciente es portador de dos catéteres doble J porque presentaba dilatación pielocalicial bilateral. Las causas de esta patología (ya sea uni o bilateral) pueden ser litiasis, cáncer cervical y fibrosis retroperitoneal, entre otras causas. (Respuestas 2 y 4 verdaderas). En el flanco derecho podemos observar un patrón en miga de pan, característico de acumulación de heces, en la localización del ciego y del colon ascendente (Respuesta 3 verdadera).",
+      "imagen": "imagen/p024-3.png"
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Paciente ingresado para estudio de masa pulmonar en lóbulo medio que presenta la radiografía vista (imagen vinculada izquierda). Se procede a ingresar al paciente para estudio de LOE, administrando sueros y control de diuresis. A los dos días de su ingreso, mientras espera la TC de tórax para el estudio de la lesión, presenta pico febril y se repite la radiografía (imagen vinculada derecha). ¿Qué hallazgo puede explicar lo sucedido?",
+      "opciones": [
+        "Se trata de una proyección lordótica.",
+        "La lesión es intrapulmonar.",
+        "Es un tumor fantasma.",
+        "Los carcinomas bronquiales modifican su morfología con la inspiración profunda."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En las imágenes vinculadas se observa la presencia de una opacidad de bordes bien definidos en campo medio del pulmón derecho. A los dos días y tras corregir el balance hidroelectrolítico se realiza una radiografía que no muestra lesión. La opacidad se debe a la acumulación de líquido en la cisura menor, que adopta una morfología de LOE. Se habría esperado que en la visión lateral se hubiese aclarado al cambiar su morfología, adoptando una forma de huso; en cambio, esto no ocurrió y la sorpresa fue mayúscula al ver la “curación” del paciente (respuesta 3 correcta).",
+      "imagen": "imagen/p025-1.png"
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "¿Qué estructura vascular puede observarse saliendo del cayado aórtico y posterior al esófago?",
+      "opciones": [
+        "Arteria subclavia derecha aberrante",
+        "Arteria subclavia izquierda",
+        "Arteria vertebral derecha variante",
+        "Vena ácigos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Normalmente la arteria subclavia tiene su origen en un tronco común con la carótida común derecha, siendo el primero de los troncos supraaórticos en salir de la aorta. En ocasiones la subclavia derecha se origina como el último tronco supraáortico, naciendo desde la aorta descendente y cruzando posterior al esófago. Esta variante recibe el nombre de arteria subclavia derecha aberrante.",
+      "imagen": "imagen/p025-2.png"
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Paciente derivado de otro centro e ingresado en neurocirugía para tratamiento de lesión cerebelosa única que restringe a la difusión. En el estudio de extensión se observan las lesiones cavitadas en lóbulo medio que se pueden apreciar en la foto anexa. ¿Cuál sería la siguiente actitud?",
+      "opciones": [
+        "Biopsia pulmonar",
+        "Biopsia cerebral",
+        "Neurocirugía y comenzar con quimioterapia",
+        "Neurocirugía y tratamiento antibiótico"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La lesión cerebelosa única presenta signos compatibles con absceso cerebral (restricción a la difusión).\n\nUn absceso cerebral tiene dos orígenes probables, la transmisión directa de un foco infeccioso en la vecindad o la transmisión sanguínea a través de émbolos sépticos.\n\nEn este caso se confundió el absceso con una LOE cerebral y en el estudio de extensión de la lesión tumoral se realizó un TC de tórax que mostró múlitples lesiones cavitadas compatibles con abscesos pulmonares y probable origen de la lesión cerelelosa.",
+      "imagen": "imagen/p026-1.png"
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Qué categoría BIRADS debe otorgarle a los siguientes hallazgos?",
+      "opciones": [
+        "BIRADS 5",
+        "BIRADS 6",
+        "BIRADS 2",
+        "BIRADS 4A"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de una proyección OML, donde identificamos un nódulo de forma irregular, especulado y alta densidad con microcalcificaciones asociadas, lo que corresponde con un BIRADS 5",
+      "imagen": "imagen/p026-2.png"
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Mujer de 37 años VIH + que presenta desde hace una semana fiebre, tos con expectoración y disnea. En la exploración física se detectan únicamente crepitantes finos bilaterales en la auscultación pulmonar. Mantoux negativo hace 6 meses. Teniendo en cuenta los hallazgos de la radiografía de tórax, ¿Qué patología sospecharías como primera posibilidad?",
+      "opciones": [
+        "Insuficiencia cardiaca descompensada",
+        "Tuberculosis",
+        "Proteinosis alveolar",
+        "Infección por pneumocystis jirovecii"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Estamos ante un paciente inmunodeprimido con consolidaciones hiliares bilaterales con broncograma aéreo y clínica infecciosa. Si la tuberculosis está descartada debemos sospechar una neumonía por P. jirovecii. No presenta otros signos de insuficiencia cardíaca ni clínica compatible. La proteinosis alveolar se manifiesta como un patrón en empedrado difuso con respeto de ápex y bases.",
+      "imagen": "imagen/p027-1.png"
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Sobre la lesión visible en la imagen adjunta, que no contacta con la cortical del hueso.",
+      "opciones": [
+        "Es recomendable la biopsia.",
+        "Probablemente se trate de una lesión maligna.",
+        "Es habitual que el paciente tenga un antecedente de traumatismo en la región afectada.",
+        "No se recomienda la biopsia por el riesgo de diseminación a través del trayecto de punción, por lo que la biopsia excisional está indicada."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de una lesión de partes blandas (que no se encuentra en contacto con la cortical del hueso) con calcificación circunscrita periférica muy sugerente de miositis osificante, una entidad benigna. Se asocia habitualmente a un traumatismo previo, se forma unas 2-6 semanas después del mismo. No requiere biopsia ya que puede presentar unas características histológicas similares al osteosarcoma y podría llevar a intervenciones no necesarias.",
+      "imagen": "imagen/p027-2.png"
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Hallazgos en mamografía:",
+      "opciones": [
+        "microcalcificaciones segmentarias - carcinoma invasivo.",
+        "calcificaciones \"en palomitas de maíz\" - fibroadenomas.",
+        "calcificaciones en anillo - quistes oleosos.",
+        "calcificaciones \"en vara\" - mastitis de células plasmáticas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Calcificaciones benignas \"en palomitas de maíz\", hallazgo clásico de fibroadenomas.",
+      "imagen": "imagen/p028-1.png"
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Mujer de 25 años, gimnasta, con dolor de rodilla derecha desde hace cuatro años. El dolor es de inicio nocturno y disminuye con la toma de AAS. Le realizaron una RMN previa, con diagnóstico de edema óseo. Se adjuntan imágenes de RMN y TC actual (imagen vinculada). ¿Cuál es su diagnóstico?",
+      "opciones": [
+        "Fractura de estrés.",
+        "Osteomielitis.",
+        "Necrosis avascular.",
+        "Osteoma osteoide."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El osteoma osteoide es un tumor benigno, típico de personas jóvenes, que cursa con dolor de predominio nocturno, que cede con AAS (respuesta 4 correcta). En la imagen vinculada veremos el característico nidus, que es la zona activa del tumor, con engrosamiento cortical y edema óseo adyacente en la RMN. El tratamiento de elección hoy en días es la ablación con radiofrecuencia guiada por imagen (TC).",
+      "imagen": "imagen/p028-2.png"
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "¿Cual de las siguientes no es una ventaja de la ecografía en el estudio del sistema músculo-esquelético?",
+      "opciones": [
+        "Es dinámica.",
+        "Tiene radiaciones ionizantes",
+        "Me permite comparar con la articulación contraria.",
+        "Durante la ecografía puedo hablar con el paciente y saber qué le pasa y el mecanismo que produce su dolor."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La ecografía es una técnica de imagen muy empleada en el sistema músculo-esquelético, sobre todo por su rapidez, la ausencia de radiaciones ionizantes y sobre todo su principal ventaja con respecto al resto de pruebas de imagen en el sistema músculo-esquelético es que es dinámica.\n\nPermite explorar al paciente y interrogarle sobre el mecanismo de la lesión.",
+      "imagen": "imagen/p028-3.png"
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Varón de doce años de edad con crisis tónico-clónicas y fiebre. Resonancia magnética cerebral, corte axial, secuencia FLAIR con saturación grasa. Basados en la historia clínica y en los hallazgos radiológics, Cuál es el agente causal más probable?",
+      "opciones": [
+        "Herpes virus",
+        "Staphylococcus aureus",
+        "Neisseria meningitidis",
+        "Citomegalovirus"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Hallazgos radiológicos clásicos de encefalitis herpética. Edema y expansíon en el polo anterior del del lóbulo temporal derecho, predominantemente de la corteza cerebral.",
+      "imagen": "imagen/p029-1.png"
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Paciente de varón de 75 años anticoagulado y diagnosticado de demencia. Se realiza esta TC craneal en Urgencias por que sus familiares le ven ‘más dormido’. Dado los hallazgos de la imagen, ¿cual de estas es CORRECTA?",
+      "opciones": [
+        "Corresponde a una lesión intraaxial con efecto masa en el parénquima cerebral subyacente.",
+        "Probablemente corresponda a un tumor de lento crecimiento, lo que explicaría la demencia.",
+        "Estas lesiones pueden asociarse a un traumatismo craneoencefálico leve, en este caso probablemente 1-2 días antes de la realización de la TC.",
+        "Con el tiempo la lesión pasa a tener unos valores de atenuación similares al líquido cefalorraquídeo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Corresponde a un hematoma subdural subagudo frontoparietal izquierdo (de la misma densidad / valores de atenuación de que la del parénquima cerebral). En el momento agudo es hiperdenso con el tiempo se cronifica y se vuelve hipodenso, de la misma densidad que el líquido cefalorraquídeo (respuesta 4 correcta).\n\nCorresponde a una lesión extraaxial (respuesta 1 incorrecta) y es muy poco probable que sea un tumor (respuesta 2 incorrecta). Si bien puede asociarse a traumatismos craneoencefálicos leves, sobre todo en ancianos anticoagulados, es muy poco probable que dicho TCE haya ocurrido hace 1-2 días (respuesta 3 incorrecta)",
+      "imagen": "imagen/p029-2.png"
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Varón neonato prematuro con distensión abdominal. Basados en la Historia Clínica y en los hallazgos en la radiografía de abdomen (imagen vinculada), ¿cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Enterocolitis necrotizante.",
+        "Vólvulo de sigma.",
+        "Íleo meconial.",
+        "Enfermedad de Hirschprung."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta en cuya imagen vinculada podemos visualizar una radiografía de abdomen con neumatosis intestinal y neumatosis portal, hallazgos clásicos de enterocolitis necrotizante (respuesta 1 correcta).",
+      "imagen": "imagen/p029-3.png"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Varón de 20 años al que se le realiza un TC de cráneo en urgencias por pérdida de consciencia súbita. Describa lo que ve en la imagen",
+      "opciones": [
+        "Hemorragia en el tercer ventrículo",
+        "Cuerpo extraño intracraneal.",
+        "Hernia transtentorial ascendente",
+        "Hidrocefalia triventricular por masa pineal"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Hidrocefalia triventricular por masa pineal. Se identifica dilatación de las astas frontales y temporales de los ventrículos laterales y del tercer ventrículo secundaria a una masa pineal de unos 3 cm calcificada. La hemorragia no es tan densa como el calcio. La hernia transtentontial ascendente se produce en lesiones o hemorragias en la fosa posterior que desplazan el cerebelo hacia arriba por el tentorio. No se ven cuerpos extraños.",
+      "imagen": "imagen/p030-1.png"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Paciente de 45 años que por alteraciones de las enzimas hepáticas en la analítica se realiza una TC abdominal. La imagen muestra un corte coronal de una TC de abdomen en fase arterial. Dados los hallazgos, señale la respuesta correcta:",
+      "opciones": [
+        "Probablemente correspondan a quistes hepáticos. Se debe recomendar controles ecográficos anuales.",
+        "Lo más probable es que el primario sea un tumor neuroendocrino pancreático.",
+        "En caso de no apreciarse un claro primario en la TC, se recomienda realiza una gastro/colonoscopia.",
+        "Probablemente correspondan a angiomas hepáticos, sin necesidad de controles."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La TC en fase arterial muestra varias lesiones hipodensas mal delimitadas en el hígado. Esto indica que las lesiones son HIPOvasculares (descartando las respuestas 2 y 4 ya que corresponden a lesiones hipervasculares) y los márgenes irregulares y mal delimitados descarta la respuesta 1 (quistes hepáticos). La respuesta correcta es la 3, ya que la causa más probable de metástasis hipovasculares hepáticas son adenocarcinomas del tubo digestivo.",
+      "imagen": "imagen/p030-2.png"
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Se activa el código ictus por un varón de 59 años, en el que en el TC se describe una hemorragia en ganglios de la base izquierdos. La etiología más probable de este sangrado se debe a:",
+      "opciones": [
+        "Angiopatía amiloide",
+        "Neoplasia subyacente",
+        "Aneurisma roto",
+        "Origen hipertensivo"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Origen hipertensivo. Las hemorragias en ganglios de la base, tronco del encéfalo y fosa posterior en pacientes de mediana o avanzada edad, suelen ser de origen hipertensivo. La angiopatía amiloide suele presentar hemorragias lobares en pacientes de avanzada edad y deterioro cognitivo. En la neoplasia veríamos una masa que podría tener algún foco de sangrado. La ruptura de aneurismas raramente causa hemorragias intraparenquimatosas, es más típica la hemorragia subaracnoidea.",
+      "imagen": "imagen/p031-1.png"
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Varón de 28 meses de edad con dolor abdominal. Basados en los hallazgos de imagen, ¿Cuál es el diagnóstico más probable?",
+      "opciones": [
+        "Enfermedad de Hirshsprung.",
+        "Vólvulo de intestino medio.",
+        "Invaginación intestinal.",
+        "Vólvulo de sigma."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Radiografía AP de abdomen adquirida durante un tránsito baritado muestra un caso clásico de invaginación intestinal en el flanco derecho. Esta enfermedad se suele diagnosticar mediante ecografía, pero conviene reconocerla en otros métodos de imagen.",
+      "imagen": "imagen/p031-2.png"
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Señale la respuesta incorrecta respecto al diagnóstico más probable en la imagen asociada de resonancia magnética.",
+      "opciones": [
+        "Las calcificaciones son muy poco frecuentes",
+        "Es una neoplasia histológicamente benigna (grado I OMS).",
+        "Suele debutar con cefalea, síntomas visuales y desequilibrios hormonales",
+        "Es menos frecuente en la edad adulta"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La imagen corresponde a un craneofaringioma. El craneofaringioma es una lesión paradigmáticamente supraselar con comportamiento histológico benigno (grado I de la OMS) aunque localmente agresiva.\n\nEmbriológicamente deriva de remanentes epiteliales confinados a lo largo del infundíbulum, provenientes de la bolsa de Rathke (invaginación del techo ectodérmico del estomodeo -cavidad oral primitiva- en dirección craneoposterior que forma la hipófisis anterior o adenohipófisis).\n\nEstos remanentes epiteliales (entre los cuales existen nidos de epitelio odontogénico) pueden sufrir fenómenos de atrofia o estimulación, dando en este último caso lugar al craneofaringioma.\n\nLa opción incorrecta es la opción 1, ya que las calcificaciones son muy frecuentes (al derivar de céulas epiteliales) y de hecho su presencia -visibles más fácilmente en la TC- resulta muy útil en el diagnóstico.",
+      "imagen": "imagen/p031-3.png"
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Lactante de 1 mes. Acude a consulta por cuadro de fiebre de 38,5º y mucosidad. Señale la respuesta correcta respecto a la radiografía asociada:",
+      "opciones": [
+        "Existe una consolidación en pulmón derecho, sugestiva de proceso neumónico",
+        "Se debería descartar la presencia de un linfoma mediastínico en primer lugar",
+        "Se aprecia cardiomegalia. Debería recomendarse estudio dirigido",
+        "Es una radiografía sin hallazgos patológicos valorables"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La opción correcta es la opción 4. Es una radiografía sin hallazgos patológicos valorables. Como curiosidad, debéis saber que el aparente ensanchamiento mediastínico visible en la radiografía se debe al timo, cuya presencia es especialmente visible en lactantes (dada la mayor relación de tamaño entre timo y la caja torácica). En la radiografía el timo es normalmente visible hasta los 5-6 años, y se manifiesta como una densidad de partes blandas en el mediastino anterior, siempre homogénea. El timo puede simular cardiomegalia o una masa mediastínica, y a veces es indistinguible de un tumor.\n\nExisten dos signos para detectarlo:\n\n- “Signo de la vela”: Forma triangular unilateral. Generalmente en el contorno derecho del mediastino. Parece una neumonía pero de bordes muy nítidos.\n\n- “Signo de la ola”: festoneado por la impronta de los arcos costales anteriores.",
+      "imagen": "imagen/p032-1.png"
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Basándose en la imagen asociada, indique la opción incorrecta respecto a la patología en cuestión.",
+      "opciones": [
+        "El curso clínico suele ser subagudo y la sintomatología inespecífica.",
+        "El origen más común suele ser la diseminación hematógena desde un foco séptico distante.",
+        "El disco intervertebral se afecta con menos frecuencia en niños.",
+        "La localización más frecuente es la columna lumbar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La imagen de resonancia magnética asociada (secuencia T2, plano sagital) corresponde a una espondilodiscitis infecciosa de columna dorsal. La opción incorrecta es la 3. En adultos el disco intervertebral no está vascularizado, por lo que su la afectación infecciosa discal se produce por contigüidad desde los cuerpos vertebrales adyacentes. En niños es más frecuente la discitis aislada, ya que poseen una rica vascularización intraósea anastomótica en la placa terminal del cartílago hialino, con arteriolas que penetran en el anillo fibroso. Este tipo de vascularización no está presente en la edad adulta y por tanto a veces el disco intervertebral es respetado.\n\nEl resto de opciones sí son correctas.",
+      "imagen": "imagen/p032-2.png"
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Paciente mujer de 29 años con antecedentes de neumotórax espontáneos que se realiza una TC torácica indicada por su neumólogo. Ante los hallazgos de la TC, ¿Cuál es la causa más probable de los neumotórax?",
+      "opciones": [
+        "Histiocitosis X",
+        "Enfisema centrolobulillar",
+        "Enfisema paraseptal",
+        "Linfangioleiomiomatosis"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta correcta es la número 4. La linfangioleiomiomatosis se caracteriza por la aparición de lesiones quísticas pulmonares difusas de PARED FINA (casi no apreciable en la TC), así como neumotórax espontáneos o quilotórax. En la Histiocitosis X las lesiones quísticas tienen una pared apreciable, el enfisema centrilobulillar es más frecuente en pacientes fumadores de mayor edad y en lóbulos superiores el paraseptal se localiza subpleural.",
+      "imagen": "imagen/p033-1.png"
+    }
+  ]
+}

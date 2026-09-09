@@ -1,0 +1,482 @@
+{
+  "materia": "anatomia",
+  "paginaInicio": 1,
+  "paginaFin": 18,
+  "anomalias": [
+    "p5: Resp. Correcta 3 en la pregunta de la transcavidad de los epiplones, pero el comentario dice que \"la única opción no 'relacionada' o cercana a las demás es la 4\"",
+    "p5: el comentario identifica el músculo palmar largo como \"flexor radial del carpo\"; son músculos distintos y la equivalencia es incorrecta",
+    "p8: el comentario arrastra un marcador de nota al pie suelto sin nota asociada (\"solo intervienen en ella.1 El músculo grácil...\")",
+    "p13: la pregunta del sangrado pulsátil en muñeca solo tiene 4 opciones, pero el comentario descarta \"las opciones 4 y 5\" y afirma que \"estas cuatro opciones son falsas\" además de la correcta",
+    "p13: la pregunta de la cara medial del pulmón izquierdo solo tiene 4 opciones, pero el comentario habla de \"las cinco opciones\" y contiene la frase truncada \"sólo un en el derecho\""
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "El compartimento posterior del muslo está formado principalmente por tres músculos largos: el bíceps femoral, el semitendinoso y el semimembranoso. Se les conoce como isquiotibiales y todos excepto la cabeza corta del bíceps femoral cruzan las articulaciones de la cadera y de la rodilla. Su función consiste en flexionar la pierna en la articulación de la rodilla y extender el muslo en la articulación de la cadera, así como rotar ambas articulaciones. Para desempeñar esta función, son inervados por el nervio:",
+      "opciones": [
+        "Nervio femoral.",
+        "Nervio ciático.",
+        "Nervio obturador.",
+        "Nervio safeno."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El nervio ciático es una rama del plexo lumbosacro (segmentos medulares L4-S3) y desciende por el compartimento posterior del muslo desde la región glútea. Inerva todos los músculos del compartimento posterior del muslo (respuesta 2 correcta), y después sus ramas continúan hasta la pierna y el pie. En el compartimento posterior del muslo, el nervio se dispone sobre el músculo aductor mayor y es cruzado por la cabeza larga del bíceps femoral. Proximal a la rodilla, y a veces dentro de la pelvis, este nervio se divide en sus dos ramos terminales: el nervio tibial y el peroneo común. Ambos descienden en vertical por el muslo y entran en la fosa poplítea posterior de la rodilla."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Con respecto al sistema piramidal, es INCORRECTO que:",
+      "opciones": [
+        "La vía corticoespinal contiene axones motores exclusivamente.",
+        "Se origina de la corteza cerebral motora.",
+        "Finaliza en las motoneuronas gamma de las astas ventrales de la médula espinal.",
+        "Aproximadamente un 80% de los axones se decusan en el bulbo raquídeo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El sistema piramidal está compuesto por una serie de axones que van desde la corteza cerebral hasta las motoneuronas alfa de las astas anteriores de la médula espinal (opción 3 incorrecta, por lo que la marcamos). La vía corticoespinal contiene axones motores exclusivamente. El 80% de los axones se decusan en el bulbo raquídeo y el otro 20% no se cruzan y forman el fascículo corticoespinal directo."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cuál de los siguientes músculos NO está presente en el 10-15% de los seres humanos?",
+      "opciones": [
+        "Músculo flexor cubital del carpo",
+        "Músculo palmar corto",
+        "Músculo palmar largo",
+        "Músculo flexor profundo de los dedos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta a priori complicada si no se conoce esta curiosidad. El músculo palmar largo o flexor radial del carpo es un músculo ausente en cerca del 15% de los seres humanos. Se considera que es un vestigio de nuestros antepasados primates que necesitaban trepar (opción 3 correcta). Esta ausencia no supone ningún tipo de déficit motor. De hecho, en cirugía reconstructiva, puede usarse como sustituto de varias estructuras.\n\nSi no se conoce este detalle, debemos aplicar la técnica de examen y, al menos, dudar entre las respuestas palmar corto y palmar largo, por ser muy similares. Con esta simple técnica, pasamos a tener el doble de probabilidades de acertar (50%) que antes (25%). Recordad siempre buscar opciones cuya redacción es muy similar, probablemente la respuesta correcta sea una de ellas."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Entre los afluentes de la vena cava inferior se encuentran todas las siguientes venas EXCEPTO una:",
+      "opciones": [
+        "Vena gonadal izquierda.",
+        "Venas frénicas inferiores.",
+        "Tercera y cuarta venas lumbares.",
+        "Vena ácigos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de un detalle anatómico muy lógico que puede ser preguntado en próximas convocatorias por su implicación clínica. De todos es sabido que la vena cava transcurre por el lado derecho, así que es fácil imaginar que la vena gonadal derecha desemboque en la cava directamente. En cambio el recorrido de la vena gonadal izquierda sería muy largo, de forma que en la realidad desemboca en la vena renal izquierda y no en la cava de forma directa por lo que marcamos opción 1 correcta."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "La transcavidad de los epiplones es un espacio anatómico abdominal que tiene relación topográfica con los siguientes órganos o estructuras anatómicas EXCEPTO:",
+      "opciones": [
+        "Cara posterior del cuerpo gástrico.",
+        "Cara anterior del páncreas.",
+        "Meso del íleon terminal.",
+        "Mesocolon transverso."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de anatomía que parece compleja aunque podría realizarse por descarte ya que la única opción no \"relacionada\" o cercana a las demás es la 4. Aunque haremos un breve resumen teórico:\n\nLa bolsa omental o transcavidad de los epiplones es un receso de la cavidad peritoneal situado entre el estómago y la pared posterior del abdomen. Esta cavidad permite una gran movilidad de la víscera gástrica pudiendo ésta deslizarse libremente durante la digestión. Está comunicada con la cavidad peritoneal principal a través del orificio omental (orificio epiploico o hiato de Winslow). Los límites de este hiato son los siguientes:\n\n• Superior: lóbulo caudado del hígado.\n\n• Inferior: primera porción del duodeno.\n\n• Posterior: vena cava inferior y pilar derecho del diafragma.\n\n• Anterior: la vena porta y (por delante de ella) el colédoco y la arteria hepática, todos ellos situados en el borde libre del omento menor. Colaboran a formar la pared anterior de la bolsa omental los epiplones. El epiplón gastrohepático (omento menor) alberga la vena porta, la arteria hepática y envuelve al conducto colédoco en su trayecto desde el hígado hasta el duodeno. El epiplón gastrocólico (omento mayor) une el estómago con el colon transverso y se descuelga por delante de este y las asas intestinales formando el delantal de los epiplones."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "El conducto crural es una región anatómica localizada caudalmente al ligamento inguinal y por la que pasan diferentes estructuras entre las que se encuentran todas las siguientes MENOS una:",
+      "opciones": [
+        "Nervio femoral.",
+        "Fibras musculares del psoas-iliaco.",
+        "Arteria epigástrica inferior profunda.",
+        "Vena iliaca externa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La importancia de esta pregunta radica en el conocimiento de la región inguinal, ya que es preguntada con frecuencia en el contexto de las hernias inguinales. Dentro de la región inguinocrural (parte más medial de la zona que se extiende bajo el lig. inguinal), hay una zona especialmente problemática entre la vena femoral y el lig. de Gimbernat; se trata del conducto crural (por aquí se abren paso las hernias crurales). Las fibras del psoas- ilíaco ocupan la laguna muscular, también por debajo del ligamento inguinal pero lateralmente, por lo que marcamos opción 2 correcta."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál de las siguientes estructuras atraviesa el canal de Guyon?",
+      "opciones": [
+        "Nervio mediano.",
+        "Nervio radial.",
+        "Arteria cubital",
+        "Vena radial."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es la 3. El canal de Guyon es una estructura de pequeño tamaño que se localiza en la porción anteromedial de la muñeca. Es atravesado por el nervio y arteria cubital. En algunos casos, debido a la compresión de las distintas estructuras por diversas causas y a su pequeño tamaño, se produce el llamado síndrome del canal de Guyon. Este síndrome consiste en el atrapamiento del nervio cubital, pudiendo provocar alteraciones sensitivas o motoras en su territorio de inervación."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "A pesar de que pueden haber variaciones anatómicas, lo habitual es que el ciego sea irrigado por una rama arterial que proviene de una de las siguientes arterias:",
+      "opciones": [
+        "Ilíaca derecha.",
+        "Mesentérica inferior.",
+        "Hepática derecha.",
+        "Mesentérica superior."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La parte derecha del intestino grueso recibe ramas de la arteria mesentérica superior. A partir de la mitad del colon transverso, la parte izquierda recibe ramas de la arteria mesentérica inferior, arteria cólica izquierda; arterias sigmoideas; la rama terminal es la arteria rectal superior. Las ramas de la mesentérica superior e inferior se anastomosan en el colon transverso. Las venas llevan un curso análogo al de las arterias y van a confluir en la vena mesentérica inferior, que se une a la esplénica y mesentérica superior para formar la vena porta hepática."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Señale la respuesta correcta acerca de la glándula parótida referida a SISTEMA SECRETOR – NERVIO SECRETOR - TIPO DE SECRECIÓN:",
+      "opciones": [
+        "Inervación simpática – Nervio facial - Serosa",
+        "Inervación parasimpática – Nervio glosofaríngeo –Serosa.",
+        "Inervación simpática – Nervio glosofaríngeo – Mucosa.",
+        "Inervación parasimpática – Nervio mandibular – Mucosa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La glándula parótida es la que fabrica una mayor cantidad de saliva (con predominio seroso). La inervación sensitiva de dicha glándula está provocada por el nervio auricular mayor o auriculotemporal (rama del trigémino), quien inerva la vaina de la glándula y de la piel que se encuentra por encima de ella. Recuerda este nervio en el síndrome de Frey tras la paroidectomia, cuya lesión produce una clínica muy característica. (Revisar en el manual de ORL)\n\nEl nervio timpánico del glosofaríngeo transmite la información parasimpática postganglionar secretora, mientras que las fibras simpáticas provocan una reducción de la secreción de la glándula al actuar en los vasos sanguíneos y produciendo vasoconstricción, lo cual origina una saliva de menos abundancia pero con un mayor espesor, por lo que marcamos opción 2 correcta.\n\nSin embargo, las otras dos glándulas salivales (sublingual y submaxilar) están inervadas por el nervio facial. No confundas la estrecha relación anatómica de la glándula parótida con su inervación.\n\nEn cuanto al tipo de secreción, recuerda que la glándula con una secreción más mucosa y, por tanto, más espesa, es la submaxilar; es por ello que es la glándula que más frecuentemente conduce a la formación de cálculos."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Qué músculo no forman parte de los músculos aductores de la cadera?",
+      "opciones": [
+        "Músculo aductor largo.",
+        "Músculo grácil.",
+        "Músculo aductor mayor.",
+        "Músculo piramidal"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se denomina músculos aductores de la cadera a un grupo de músculos del miembro inferior que producen aducción de la cadera.\n\nEstán organizados en tres planos:\n\n- El plano superficial está formado por el músculo pectíneo, el músculo aductor largo y el músculo grácil.\n\n- El plano medio lo constituye el músculo aductor corto.\n\n- El plano profundo lo constituye el músculo aductor mayor.\n\nSon todos, a excepción del músculo grácil, monoarticulares, es decir, atraviesan una única articulación, concretamente la de la cadera, y por lo tanto solo intervienen en ella.1 El músculo grácil atraviesa las articulaciones de la cadera y la rodilla.\n\nEl músculo piramidal forma parte de los músculos abductores de la cadera junto al glúteo medio y glúteo menor. (Opción 4 Correcta)"
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Cualquier plano vertical que divide el cuerpo en posición anatómica en secciones ventral y dorsal se denomina:",
+      "opciones": [
+        "Plano sagital",
+        "Plano transversal",
+        "Plano coronal",
+        "Plano axial"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los tres ejes del espacio son:\n\n- El eje vertical va de la cabeza a los pies: es un eje céfalo-caudal.\n\n- El eje horizontal va de lado a lado: es un eje latero-lateral.\n\n- El eje anteroposterior va de adelante hacia atrás: es un eje ventro-dorsal.\n\nLos tres ejes conforman los planos del espacio, los principales son:\n\n- Los planos frontales o coronales se orientan de manera vertical, de forma tal que dividen al cuerpo en anterior (ventral) y posterior (dorsal).\n\n- Los planos sagitales o laterales al igual que el plano coronal, se orientan verticalmente; sin embargo, son perpendiculares a los planos coronales, y de esta forma dividen el cuerpo en zonas derecha e izquierda. Al plano que discurre centralmente en el cuerpo y a su vez forma en igual medida a las zonas izquierda y derecha se le llama plano medio sagital.\n\n- El Plano horizontal, es cualquier plano paralelo al suelo que divide el cuerpo en posición anatómica en secciones superior o cefálica e inferior, podálica o caudal. Los planos transversos, horizontales o axiales son relativos a una estructura en particular, y son perpendiculares al eje longitudinal de dicha estructura. Si la estructura es el cuerpo en su conjunto, son equivalentes a los planos horizontales. Definen las zonas proximal y distal.\n\n- Los planos oblicuos cortan parte del cuerpo en una dirección que no es paralela y son muy importantes."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "El nervio ciático sale del plexo:",
+      "opciones": [
+        "Cervical",
+        "Lumbar",
+        "Braquial",
+        "Sacro"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El nervio ciático, es el nervio más voluminoso y largo del ser humano. Es rama terminal del plexo sacro. Comienza en la pelvis y sale de ella a través del foramen ciático mayor hacia la región glútea, sigue verticalmente a lo largo de la cara posterior del muslo donde termina bifurcándose en el nervio tibial y el nervio peroneo común. Fuera de la acción que pueda tener por sus ramos terminales, destinados a la pierna y al pie, el ciático es un nervio esencialmente motor, que asegura la flexión de la pierna sobre el muslo."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Uno de estos cuadros descritos NO es correcto:",
+      "opciones": [
+        "Lesión nervio radial - incapacidad para la flexión de la muñeca.",
+        "Lesión nervio mediano - parálisis de la oposición del pulgar.",
+        "Lesión nervio cubital - atrofia de eminencia hipotenar.",
+        "Lesión nervio circunflejo - parálisis de la abducción del brazo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El nervio mediano se encarga de todos los movimientos del pulgar, excepto de la aproximación, cometido del nervio cubital, y de la separación, que comparte con el nervio radial (opción 2 incorrecta). El nervio cubital se ocupa en la mano de la inervación de lumbricales, interóseos y músculos de la eminencia hipotenar (opción 3 incorrecta). El nervio axilar o circunflejo inerva al redondo menor y al deltoides, que es el principal separador del brazo (opción 4 incorrecta). El radial es un nervio fundamentalmente extensor; su lesión se traduce típicamente en una mano caída o “mano péndula” (opción 1 correcta) por debilidad para la extensión."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "La válvula mitral presenta:",
+      "opciones": [
+        "Tres velos: anterior, posterior y septal",
+        "Dos velos: lateral y medial",
+        "Tres velos: lateral, medial y posterior",
+        "Dos velos: anterior y posterior"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La válvula mitral es aquella que separa aurícula y ventrículo izquierdo. Es una válvula bicúspide ya que está compuesta por dos velos: anterior (aórtico o septal ) y posterior (mural o ventricular). (Opción 4 correcta)"
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Señale la opción CORRECTA referida a Tipo de célula – Localización- Función:",
+      "opciones": [
+        "Conos – Retina central - Visión en condiciones de poca luminosidad.",
+        "Bastones – Retina central - Visión en condiciones de poca luminosidad.",
+        "Conos - Retina central - Percepción del color.",
+        "Bastones – Retina periférica - Percepción del color."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los bastones o bastoncillos son células fotorreceptoras de la retina responsables de la visión en una baja condición de luminosidad. Presentan una elevada sensibilidad a la luz, aunque se saturan en condiciones de mucha luz y no detectan los colores. Se ubican en casi toda la retina exceptuando la fóvea. Los conos, que varían en número de 6 a 7 millones, le permiten al ojo humano tener una agudeza visual (capacidad del ojo de resolver y percibir detalles pequeños en un objeto) y de diferenciar los colores (respuesta 3 correcta). Se concentran en la parte central pequeña amarillenta de la retina, conocida como «mácula». En el centro de esta región se encuentra la fóvea, una zona de 0,3 milímetros de diámetro sin ningún bastón."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Un paciente de 87 años diagnosticado de cáncer de vejiga avanzado empieza a tener dificultades para caminar. En la exploración física se aprecia cierta debilidad en los músculos aductores del muslo derecho y pérdida de sensibilidad en el centro de la parte medial del mismo muslo. ¿Qué nervio sospecha que ha sido afectado?",
+      "opciones": [
+        "Nervio obturador",
+        "Nervio ciático",
+        "Nervio tibial",
+        "Nervio femoral"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El nervio obturador se encuentra en la pared lateral de la pelvis, por lo que un tumor avanzado de vejiga puede comprimirlo e infiltrarlo. El daño al nervio causará cierta pérdida de aducción de la cadera, pero no será completa porque el nervio ciático suministra, en parte, el aductor mayor. También puede haber una leve pérdida de sensibilidad en la parte media de la superficie medial del muslo. (Opción 1 Correcta)"
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "La inervación del musculo pronador redondo depende del nervio:",
+      "opciones": [
+        "Mediano",
+        "Cubital",
+        "Radial",
+        "Interóseo anterior"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El pronador redondo, musculo del antebrazo encargado de la pronación tiene 2 fascículos. Entre los dos fascículos de origen pasa el nervio mediano, que es quien lo inerva (Opción 1 Correcta)"
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Respecto a las complicaciones de la cateterización de una vía central, señale la opción falsa:",
+      "opciones": [
+        "La punción arterial es una de las complicaciones más frecuentes",
+        "El abordaje de la yugular interna es el de mayor probabilidad de éxito en posición correcta",
+        "EL neumotórax es una complicación posible tanto en el abordaje subclavio como en el yugular",
+        "Las lesiones nerviosas son más frecuentes en la cateterización subclavia"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En general las complicaciones más frecuentes tras canalización de vía central son: malposiciones, punciones arteriales, neumotórax (generalmente tras canalización subclavia), arritmias cardiacas, trombosis y flebitis. Existe un elevado índice de punciones carotídeas durante la cateterización de la yugular interna, las cuales no suelen tener ninguna trascendencia clínica inmediata, sólo excepcionalmente puede formarse un hematoma que comprometa las estructuras vecinas, especialmente las vías respiratorias altas; la punción de la arteria subclavia es menos frecuente. La punción arterial puede ser grave en pacientes con alteraciones de la coagulación o si se producen desgarros vasculares importantes. El abordaje de la yugular interna genera poca iatrogenia grave y es la vía de elección cuando se precisa una cateterización con las máximas garantías de una posición correcta. Las complicaciones pulmonares no son exclusivas de la canalización subclavia, en algunas series la incidencia de neumotórax tras canalización de la yugular interna alcanza 0.05%. Las lesiones nerviosas son más frecuentes en la cateterización de la yugular interna por la proximidad de abundantes nervios en la región cervical donde se realiza la punción; hay descritas lesiones ocasionales del plexo braquial y de los nervios frénico y vago. (Opción 4 falsa)"
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "En caso de que un aneurisma del arco aórtico produjese alteración en algún nervio, esperaríamos que con más frecuencia el dañado fuese:",
+      "opciones": [
+        "El nervio vago izquierdo.",
+        "El simpático torácico.",
+        "El nervio laríngeo recurrente izquierdo.",
+        "El 2º nervio intercostal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que puede sacarse por conocimiento de otras asignaturas de dificultad media- baja. Recordad que el nervio laríngeo recurrente izquierdo es una rama del nervio vago que baja por el cuello hasta el arco aórtico y pasa por debajo del mismo para luego subir hacia la laringe, por lo que al tener una estrecha relación, aneurismas aórticos pueden lesionarlo. (Opción 3 correcta) La lesión del recurrente produce inmovilidad de la cuerda, que ocasiona una disfonía característica (voz bitonal). Suele ser iatrogénica, por cirugía de tiroides, esófago cervical, corazón o pulmón."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cuál de las siguientes venas NO drena en el sistema venoso de la porta hepática?",
+      "opciones": [
+        "Vena esplénica.",
+        "Vena coronaria estomáquica.",
+        "Vena cólica derecha.",
+        "Vena hemorroidal inferior."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "De las venas que nos proponen, la única que no drena en el sistema porta es el plexo hemorroidal inferior, que drena directamente en el sistema iliocava (Opción 4 Correcta). Esto tiene importancia clínica, debido a que los fármacos que se administran por vía rectal, como los supositorios, carecen de primer paso hepático y alcanzan por tanto una concentración mayor que los fármacos que se administran por vía oral. Por este motivo, por ejemplo, tiene más riesgo de úlcera péptica un paciente al que se le administra diclofenaco vía rectal que el que lo ingiere por vía oral."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "La posición anatómica del conducto deferente en la región inguinal del varón es ocupada en la región inguinal de la mujer por alguna de las siguientes estructuras:",
+      "opciones": [
+        "Ligamento redondo del útero.",
+        "Ligamento suspensorio del ovario.",
+        "Ligamento ovárico propio.",
+        "Mesosalpinx."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La disposición del conducto inguinal es un tema clásico de la anatomía que hay que conocer. En esta pregunta se da por supuesto que se conoce que en el hombre el conducto deferente ocupa el conducto inguinal. Pues bien, en la mujer el conducto inguinal también existe, pero está ocupado por otra estructura. Se trata del ligamento redondo del útero. (Opción 1 correcta). No olvides nunca el contenido del conducto inguinal en el hombre y en la mujer. (el conducto deferente forma parte del cordón espermático)."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Paciente de 18 años que acude a urgencias por presentar sangrado pulsátil a nivel de muñeca derecha después de corte accidental con un cristal. A su llegada a urgencias se coloca manguito de presión en brazo derecho a una presión de 120 mmHg con disminución y desaparición del sangrado. Indique cuál de las siguientes afirmaciones es correcta:",
+      "opciones": [
+        "El sangrado es probable que sea debido a la sección de la arteria cubital localizada en el margen lateral de la muñeca.",
+        "El sangrado es secundario a la sección accidental de la arteria humeral.",
+        "Posiblemente la sección de la arteria radial es la causante del sangrado pulsátil.",
+        "La vena cefálica, medial al tendón del músculo palmar mayor, debe ser la causante del sangrado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta que puedes resolver por sentido común:\n\nLas opciones 4 y 5 se descartan, ya que un sangrado venoso no tendría carácter pulsátil.\n\nLa respuesta 1 es falsa, puesto que la arteria cubital se localiza en el margen medial de la muñeca, no en el lateral.\n\nLa opción 2 es incorrecta, ya que la arteria humeral, como su nombre indica, no está en la región de la muñeca.\n\nPor lo tanto, ya que estas cuatro opciones son falsas, la única afirmación correcta es la 3 (arteria radial)."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál de estas estructuras NO produce una marca en la cara medial del pulmón izquierdo?:",
+      "opciones": [
+        "La arteria carótida común izquierda.",
+        "La arteria subclavia izquierda.",
+        "El ventrículo izquierdo.",
+        "La vena azygos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Lo importante de esta pregunta es conocer las estructuras que forman parte del mediastino. La respuesta no es obvia en principio, pero si se observa con atención se puede ver como de las cinco opciones 4 son estructuras que están en el hemitórax izquierdo y sólo un en el derecho. Como es lógico, la estructura que está a la derecha tiene muy complicado relacionarse con la cara medial del pulmón izquierdo. La estructura que está en el lado derecho es la vena azygos que desemboca en cava superior tras formar el cayado de la azygos que cabalga sobre el bronquio pulmonar derecho."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "En el caso de una fractura de olecranon, ¿cuál de los nervios que se citan a continuación, podría quedar atrapado en el callo óseo resultante?",
+      "opciones": [
+        "Nervio cubital",
+        "Nervio radial",
+        "Nervio mediano",
+        "Nervio musculocutáneo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El nervio cubital discurre a su paso por el codo por la superficie posterior del epicóndilo medial del húmero, por ello en la fractura de olecranon, puede quedar atrapado entre dos fragmentos y dañarse. Su lesión provocará limitación en la movilidad de la musculatura flexora e interósea de la mano con la característica mano en garra. (Opción 1 correcta)"
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "¿Cuál de los siguientes pares craneales se localiza en el bulbo raquídeo?",
+      "opciones": [
+        "III y IV.",
+        "IV, V y VIII.",
+        "X y XI.",
+        "IX, X, XI y XII."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los pares craneales que se localizan en el bulbo raquídeo son el nervio glosofaríngeo (IX), el nervio vago (X), el nervio espinal (XI) y el nervio hipogloso (XII). Para acordaros, son todos los pares craneales que contienen X. (Opción 4 correcta)"
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Señale a través de cuál de las siguientes estructuras recibe su inervación la pleura visceral:",
+      "opciones": [
+        "Plexo pleural anterior",
+        "Nervio frénico",
+        "IX par craneal",
+        "Plexo pulmonar posterior"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La pleura visceral está inervada por los plexos pulmonar anterior y posterior, que se originan en el nervio vago (X par) y los troncos simpáticos."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Niño de 4 años que se cortó con unos cristales en la región posterolateral del antebrazo. Tras acudir al Servicio de Urgencias de un centro hospitalario, los médicos descubrieron que estaba incapacitado para extender su dedo pulgar. ¿Qué nervio se encuentra afectado?",
+      "opciones": [
+        "Nervio músculo cutáneo.",
+        "Nervio cubital.",
+        "Nervio mediano.",
+        "Nervio radial."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta relativamente sencilla. Basta que recuerdes que todos los músculos extensores del antebrazo están inervados por el radial, entre ellos los extensores largo y corto del pulgar (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Señale cuál de los siguientes músculos NO forma parte del llamado manguito de los rotadores:",
+      "opciones": [
+        "Supraespinoso.",
+        "Redondo menor.",
+        "Redondo mayor.",
+        "Subescapular."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "De la anatomía del hombro lo más rentable es repasar el manguito de los rotadores, que se ha preguntado como concepto anatómico en 2004. El manguito de los rotadores está formado por 4 músculos: el supraespinoso, el infraespinoso, el redondo menor y el subescapular; todos ellos son estabilizadores de la articulación del hombro y producen rotación externa o lateral salvo el subescapular, que produce rotación interna (opción 3 correcta).El supraespinoso es, además, separador del brazo junto al deltoides; los otros tres son aproximadores. La patología del manguito de los rotadores es la principal causa de hombro doloroso en el adulto. El redondo mayor es otro músculo de la región del hombro, no perteneciente al manguito (opción 3 correcta), que se origina en el borde lateral y ángulo inferior de la escápula y se inserta en el troquín; produce rotación interna del hombro y aproximación del brazo. (Manual CTO 4ªEd Anatomía y Anatomía Patológica, pag 12)"
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "La fosa poplitea es un espacio anatómico localizado en la región posterior de la rodilla. Sus límites son los músculos semimembranoso, bíceps femoral, gastrocnemio y plantar. De entre las siguientes estructuras, ¿cuál NO forma parte del contenido de la fosa poplitea?",
+      "opciones": [
+        "Vena safena mayor",
+        "Arteria poplitea",
+        "Nervio peroneo común",
+        "Nervio tibial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de anatomía relativamente sencilla, por ser un tema bastante conocido en general. Como bien sabes, la fosa poplitea es una región posterior de la rodilla en la que hay CUATRO estructuras que merece la pena recordar. Tenemos la arteria poplitea (opción 2), la vena poplitea (no está en las opciones), el nervio peroneo común (opción 3) y el nervio tibial (opción 4).\n\nAsí que podemos resumir el contenido de la fosa poplítea en:\n\n-2 vasos popliteos: vena y arteria.\n\n-2 nervios: peroneo común y tibial."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "El músculo elevador del velo del paladar está inervado por:",
+      "opciones": [
+        "Nervio pterigoideo medial.",
+        "Nervio pterigoideo lateral.",
+        "Ramo faríngeo del nervio vago.",
+        "Nervio estilofaríngeo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El músculo elevador del velo del paladar eleva el paladar blando durante la deglución y el bostezo y está inervado por el ramo faríngeo del nervio vago (RC:3)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "La lesión típica del nervio radial es:",
+      "opciones": [
+        "Mano de predicador.",
+        "Mano en garra.",
+        "Mano caída.",
+        "No se afecta la movilidad de los dedos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las lesiones nerviosas son temas bastante preguntadas, tanto en preguntas de Anatomía como de forma más práctica en casos clínicos de Traumatología. El radial es un nervio fundamentalmente extensor; su lesión se traduce típicamente en una mano caída o \"mano péndula\" (opción 3 correcta) por debilidad para la extensión. (Manual CTO 4ªEd Anatomía y Anatomía Patológica, pag 12- 13)"
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "El músculo estilofaríngeo, está inervado por:",
+      "opciones": [
+        "El nervio vago (X).",
+        "El nervio mandibular (V3).",
+        "El glosofaríngeo (IX).",
+        "El accesorio (XI)."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta muy difícil y poco importante. El músculo estilofaríngeo está inervado por el IX par o nervio glosofaríngeo. Recordad que este nervio es mixto, recoge la sensibilidad del oído medio, la trompa de Eustaquio y la orofaringe. Además transmiten la sensibilidad gustativa del tercio posterior de la lengua. Su lesión aislada es rara, produce alteraciones de la sensación del gusto y desaparición del reflejo nauseoso. (Respuesta 3 Correcta)"
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "La placenta es un derivado de:",
+      "opciones": [
+        "La zona pelúcida.",
+        "El trofoblasto.",
+        "El ectodermo.",
+        "La línea primitiva."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La implantación del embrión en el endometrio materno es el primer paso que conduce a la placentación. El trofoblasto se diferencia en 2 capas: citotrofoblasto (interna) y sincitiotrofoblasto (externa). Entre el 9º y el 12º día, en el sincitiotrofoblasto se forman los espacios lacunares a partir de la fusión de vacuolas aisladas que van invadiendo poco a poco los capilares maternos, estableciéndose así la circulación útero-placentaria. Finalmente, las células del citotrofoblasto proliferan e invaden el sincitiotrofoblasto, formando las vellosidades que finalmente darán lugar a las vellosidades placentarias definitivas."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "¿La parálisis de cuál de los siguientes nervios daría como resultado la flexión de la pierna?",
+      "opciones": [
+        "Obturador.",
+        "Femoral.",
+        "Ciático poplíteo externo.",
+        "Ciático poplíteo interno."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El nervio femoral es el encargado de la inervación de la musculatura extensora de la pierna (cuádriceps femoral). Su lesión, por tanto, producirá flexión de la pierna sobre el muslo. (Respuesta 2 correcta)"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "El triángulo femoral o de Scarpa contiene la vena, la arteria y el nervio femorales. ¿Qué estructuras marcan sus límites?",
+      "opciones": [
+        "Músculo sartorio, aductor corto y ligamento inguinal",
+        "Músculo sartorio, aductor largo y ligamento inguinal",
+        "Músculo sóleo, aductor corto y ligamento inguinal",
+        "Músculo sóleo, aductor largo y ligamento inguinal"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es la 2. El triángulo de Scarpa o femoral es un territorio anatómico situado en el tercio superior de la cara anteromedial del muslo. Está limitado por el margen medial del músculo sartorio (borde externo), el ligamento inguinal (borde superior) y el músculo aductor largo del muslo (borde interno). Además tiene como techo la fascia cribiforme y como suelo el músculo pectíneo, el aductor medio y el músculo psoas-ilíaco."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "La duodenopancreatectomía cefálica de Whipple es el tratamiento de elección para los tumores de la cabeza del páncreas, del colédoco terminal, de la ampolla de Váter y del duodeno periampular. Es una intervención de gran complejidad y morbilidad a pesar de los avances conseguidos en la técnica quirúrgica y en los cuidados peroperatorios. Aún así la cirugía resectiva sigue siendo la mejor alternativa en aquellos tumores potencialmente resecables. En los últimos años se han realizado diferentes modificaciones de la técnica clásica, siendo la preservación pilórica la que representa un menor número de complicaciones ya que evita el reflujo biliar y mejora la nutrición del paciente. En esta intervención se realizan 3 anastomosis. Cuál de estas vísceras no está relacionada con dichas anastomosis en la técnica clásica:",
+      "opciones": [
+        "Vesícula biliar",
+        "Yeyuno",
+        "Colédoco",
+        "Estómago"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las 3 anastomosis que se realizan en esta intervención son la pancreaticoyeyunal, la colédocoyeyunal y la gastroyeyunal en la técnica clásica. En caso de preservación pilórica la anastomosis resultante es la duodendoyeyunal. En esta intervención es recomendable realizar una colecistectomía, sin embargo, no forma parte de las anastomosis posteriores a las resecciones."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "El test de Allen nos permite evaluar",
+      "opciones": [
+        "Integridad del arco vascular palmar",
+        "Integridad del nervio mediano en su paso por el canal del carpo",
+        "Integridad del nervio mediano en su paso por el codo",
+        "Integridad de la arteria humeral en una fractura humeral"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El test de Allen consistente en la oclusión manual de ambas arterias, radial y cubital, y la posterior liberación de la cubital. Nos permite ver la integridad del arco palmar (al reperfundir toda la mano y no solo la parte cubital) y suele ser usada para evaluar el riesgo de necrosis de parte de la mano en caso de obstrucción de la arteria radial durante una gasometría a este nivel"
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Con respecto al nervio radial, es FALSO que:",
+      "opciones": [
+        "Se origina de las raíces C5, C6, C7, C8 y T1.",
+        "La rama profunda se continúa como nervio interóseo posterior.",
+        "Una de sus ramas cutáneas que se origina en la axila es el nervio cutáneo posterior del brazo.",
+        "La rama profunda penetra en el músculo pronador cuadrado y lo inerva."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El nervio radial da ramas cutáneas (cutáneo posterior del brazo, cutáneo lateral inferior del brazo y cutáneo posterior del antebrazo) y motoras (musculares y profundas). La rama profunda atraviesa el músculo supinador y pasa a llamarse nervio interóseo posterior (opción 4 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Una de las siguientes arterias es rama directa de la arteria carótida externa. Señálela:",
+      "opciones": [
+        "Arteria tiroidea superior.",
+        "Arteria angular.",
+        "Arteria tiroidea inferior.",
+        "Arteria oftálmica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La arteria carótida externa da sus ramas en el cuello y cara y es extracraneal (salvo la arteria meníngea media). Asciende en dirección al ángulo de la mandíbula, donde se originan la arteria tiroidea superior (opción 1 correcta), la lingual y la facial, que pasa por debajo de la mandíbula para, una vez llega a la cara, pasar por delante del músculo masetero y dar la arteria angular, que es importante porque se anastomosa con la oftálmica, rama de la carótida interna. No obstante no te preocupes si la has fallado ya que además de difícil es un tema muy poco rentable."
+    }
+  ]
+}

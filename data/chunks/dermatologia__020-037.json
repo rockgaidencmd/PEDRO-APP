@@ -1,0 +1,511 @@
+{
+  "materia": "dermatologia",
+  "paginaInicio": 20,
+  "paginaFin": 37,
+  "preguntas": [
+    {
+      "paginaPdf": 20,
+      "enunciado": "La presencia de nódulos subcutáneos rojos e indoloros en la cara posterior de las extremidades inferiores se asocia a:",
+      "opciones": [
+        "Tuberculosis.",
+        "Fiebre mediterránea familiar.",
+        "Enfermedad de Whipple.",
+        "Artritis reumatoide."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es muy típica y no debe fallarse. El enunciado describe lo que parece ser una vasculitis nodular (paniculitis lobulillar con vasculitis); este cuadro puede asociarse a una tuberculosis, y entonces recibe el nombre de eritema indurado de Bazin, atribuyéndose en este caso las lesiones a un fenómeno de hipersensibilidad, y apareciendo en la biopsia granulomas tuberculoides con caseosis y necrosis grasa, acompañados de una vasculitis que afecta a arterias o venas lobulillares, por lo que marcamos la opción 1 correcta."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Cuál de las siguiente relaciones antígeno - enfermedad ampollosa es FALSA?",
+      "opciones": [
+        "Desmogleina 1 y 3 - Penfigo Vulgar",
+        "BP 180 - Penfigoide Ampolloso",
+        "Desmocolina 1 - Penfigo Ig A",
+        "Transglutaminasa epidérmica - Herpes gestationis"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta más o menos sencilla sobre las enfermedades ampollosas autoinmines. Aunque los antígenos no sean un tema muy preguntado, deberías haber reconocido que el \"transglutaminasa epidérmica\" es típico de la Dermatitis Herpetiformes o Enfermedad de Duhring broq. Opción 4 correcta.\n\nEl resto de antígenos si son correctos. Aquí tienes un pequeño resumen (sin ser exhaustivos) que no debes memorizar. Es suficiente con que conozcas los del pénfigo vulgar y en todo casos los del penfigoide.\n\n- Desmogleina 1 = Pénfigo Foliaceao\n\n- Desmogleina 1 y 3 = Pénfigo Vulgar\n\n- BP 180 y BP 230 = Penfigoide Ampolloso\n\n- BP 180 = Penfigoide Gestacional\n\n- Transglutaminasa epidérmica = Dermatitis herpetiforme\n\n- Desmocolina 1= Pénfigo IgA"
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Identifique la opción falsa de las siguientes asociaciones:",
+      "opciones": [
+        "Prurito y ampollas tensas en el anciano- penfigoide ampolloso.",
+        "Dermatosis Ig A lineal – Sulfona.",
+        "Erosiones orales y acrales – pénfigo paraneoplásico.",
+        "Enfermedad de Duhring- Brocq – corticoides orales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sencilla si conocemos que la Enfermedad de Duhring-Broq es la dermatitis herpetiforme y su manejo con sulfona (dapsona) + dieta estricta sin gluten (opción 4 falsa). El resto de opciones son correctas. Recuerda que la dermatosis con Ig A lineal es la enfermedad ampollosa autoinmune mas frecuente en la infancia y que a pesar de tener carácter autolimitado puede requerirse el uso de sulfona (fármaco que inhibe la quimiotaxis de los neutrófilos y puede generar anemia hemolítica importante en pacientes con déficit de glucosa 6 fosfato deshidrogenasa)."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "NO es causa de \"efluvio telogénico\":",
+      "opciones": [
+        "Parto o cirugía previos.",
+        "Tratamiento con citostáticos.",
+        "Fiebre alta o infección severa.",
+        "Endocrinopatías."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El efluvio telogénico consiste en una caída difusa del pelo del cuero cabelludo. Se produce tras ciertas situaciones que suponen un estrés físico o psicológico importante como pueden ser una enfermedad severa, fiebre, parto, cirugía, tracción del cabello etc. Existen algunos fármacos que pueden inducir un efluvio telogénico como son anfetaminas, ácido aminosalicílico, bromocriptina, captopril, cumarinas, carbamazepina, cimetidina, danazol, enalapril, etretinato, carbonato de litio, levodopa, metirapona, metoprolol, propranolol, piridostigmina y trimetadiona. Otras posibles causas son dietas severas, kwashiorkor, hipotiroidismo y diálisis renal con hipervitaminosis A secundaria. Tras estos estímulos, se produce una detención de la fase de crecimiento activo del ciclo folicular. La región inferior del folículo piloso sufre apoptosis y se desplaza hacia el nivel de la inserción del músculo erector del pelo. La caída del pelo ocurre desde 3- 5 semanas hasta 4 meses después del factor desencadenante. Este proceso suele ser autolimitado y se recupera espontáneamente. Los citostáticos suelen producir un efluvio anagénico, por lo que marcamos la opción 2 correcta."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "El pénfigo vulgar es una enfermedad autoinmune producida por la presencia de autoanticuerpos contra anticuerpos de unión de los queratinocitos, concretamente frente a la desmogleina 3. Se trata de una enfermedad grave, que en el pasado tenía una elevada tasar de mortalidad. A día de hoy disponemos de múltiples tratamiento que han conseguido reducir dicha tasa. ¿Para cuál de los siguientes seria conveniente solicitar el nivel de TPMT (tiopurina metiltransferasa)?",
+      "opciones": [
+        "Rituximab.",
+        "Ciclosporina.",
+        "Azatioprina.",
+        "Micofenolato de mofetil."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta concreta sobre el tratamiento de los pénfigos y de muchas otras enfermedades autoinmunes. Opción 3 correcta: La azatioprina es un profármaco, emparentado con la 6-mercaptopurina. Ambas se suelen denominar conjuntamente tiopurinas, y se usan como agentes inmunosupresores. Los individuos con déficit hereditario de la enzima tiopurina metiltransferasa (TPMT) o tomando fármacos que la disminuyen, presentan una exagerada sensibilidad al efecto mielosupresor de la azatioprina. Si los niveles de tiopurina metiltransferasa son inferiores a 5 unidades, no debe emplearse el fármaco a menos que un médico lo indique con causa muy justificada."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Todas las siguientes dermatosis suelen manifestarse preferentemente en áreas de extensión de extremidades EXCEPTO una. Señale cuál:",
+      "opciones": [
+        "Dermatitis herpetiforme.",
+        "Hiperqueratosis epidermolítica",
+        "Psoriasis.",
+        "Ictiosis vulgar."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta muy difícil que requiere consulta en libros especializados. La dermatitis herpetiforme es una una erupción polimorfa de pápulas, placas eritematosas y vesículas muy pruriginosas cuya distribución es muy característica con agrupación en codos, rodillas, nalgas, hombros y cuero cabelludo. El psoriasis afecta en su forma más habitual, el psoriais vulgar, a codos y rodillas. El eritema elevatum diutinum es una vasculitis leucocitoclásica de curso crónico que se caracteriza por la aparición de pápulas y placas eritematovioláceas en superficie de extensión de extremidades. La ictiosis vulgar se presenta como una descamación extensa de la piel de intensidad variable que respeta las flexuras y es más acentuada en las superficies de extensión, principalmente en las piernas. La opción 2 es la respuesta correcta, la hiperqueratosis epidermolítica o eritrodermia ictiosiforme ampular provoca eritema y descamación generalizada en pliegues de flexión y ampollas en áreas sometidas a traumatismos que dan lugar a erosiones."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuál de los siguientes tratamientos tópicos del acné polimorfo juvenil NO está indicado?",
+      "opciones": [
+        "Peróxido de benzoilo.",
+        "Ácido retinoico.",
+        "Dipropionato de betametasona.",
+        "Ácido salicílico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el tratamiento del acné se emplean antibióticos tópicos (eritromicina, clindamicina) e incluso sistémicos (tetraciclinas). También pueden ser beneficiosas ciertas sustancias queratolíticas, como el ácido salicílico o el peróxido de benzoilo (este último, además, es comedolítico y bacteriostático). Los retinoides tópicos también tienen un papel, por su carácter comedolítico y exfoliante. Sin embargo, lo que no tiene sentido es tratar el acné con corticoides, precisamente porque ellos mismos pueden producir acné (acné esteroideo). Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Paciente de 75 años que consulta por una mácula pigmentada heterocroma, de contorno irregular, de unos 2 x 3 cm de diámetro, localizada en mejilla derecha, que ha experimentando un crecimiento muy lento en los últimos años. ¿Cuál sería el diagnóstico más probable?:",
+      "opciones": [
+        "Melanoma lentiginoso acral.",
+        "Lentigo malilgno.",
+        "Nevus de Ota.",
+        "Eritema fijo pigmentario."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante una mácula pigmentada de contorno irregular que va creciendo de forma progresiva, evidentemente debemos pensar en una lesión tumoral maligna. De las opciones que te plantean, rápidamente debes descartar la opción 1, ya que nos dicen que el paciente la presenta en la mejilla. La opción 3 también tiene poco sentido, ya que se trata de una lesión benigna que se presenta en sujetos jóvenes en zonas inervadas por la 1ª y 2ª rama del trigémino, y afecta casi siempre al ojo. Menos sentido tiene la opción 4, ya que se trata de una lesión que no presenta las características clínicas que te explican en el enunciado, y además es una toxicodermia, y en el enunciado no te hablan en ningún momento del antecedente de la toma de un fármaco. La descripción clínica del tumor coincide de forma prácticamente literal con la que te hacemos en el Manual (Tema 24. Melanoma Maligno) para el léntigo maligno- melanoma. Es un tumor que aparece en personas de edad avanzada (75 años), que se caracteriza por una mancha pardonegruzca discrómica, de bordes irregulares, que crece de forma lenta, en cuestión de años. Por lo explicado en el Manual y por lo visto en clase, no debe haber ninguna duda en que el diagnóstico correcto es el léntigo maligno por lo que marcamos la opción 2 correcta."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Cuál de las siguientes células NO se encuentra en la epidermis:",
+      "opciones": [
+        "Célula de Langerhans.",
+        "Célula de Merkel.",
+        "Fibroblasto.",
+        "Queratinocito."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de formulación directa que se responde con conocimientos básicos y sin necesidad de estudio sin dificultad la opción 3, el fibroblasto, célula fundamental del tejido conectivo, por tanto no de un epitelio como la piel. Las otras opciones muestran las diversas células que la componen, el queratinocito es la célula mayoritaria de la piel, representa el 90 % de las mismas, el melanocito se encuentra situado en la capa basal en proporción 1/10 m con los queratinocitos. Las células de Langerhans son los macrófagos de la piel y la célula de Merckel es de origen neuroectodérmico que se cree que es un receptor táctil."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "¿Cuál de los siguientes tipos de epitelioma basocelular es más resistente a la radioterapia?:",
+      "opciones": [
+        "Perlado plano.",
+        "Superficial o pagetoide.",
+        "Esclerodermiforme.",
+        "Pigmentado."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aunque la radioterapia se usa cada vez menos en la práctica clínica diaria del dermatólogo, este es un concepto clásico en el cáncer de piel , y por tanto imprescindible que lo sepas. El carcinoma basocelular esclerodermiforme representa una gran dificultad diagnóstica y terapéutica. Se presenta como una placa blanquecina con límites poco definidos y consistencia indurada que recuerda a una cicatriz o una placa de morfea. Es difícil de detectar clínicamente si no lo valora un dermatólogo y por lo tanto, suele haber estado presente durante años al momento del diagnóstico. La radioterapia es ineficaz en el tratamiento de esta modalidad de carcinomas basocelulares (opción 3 correcta). Puede ser útil en el resto de tipos en determinadas ubicaciones. Recuerda que actualmente la cirugía micrográfica de Mohs se considera el tratamiento de elección de los carcinomas basocelulares, ya que es la que proporciona una menor tasa de recidivas a los 5 años (1 %). De paso la pregunta te puede servir para repasar las distintas formas clínicas de los carcinomas basocelulares. La forma clínica más frecuente y típica es la opción uno. De hecho, cuando te hablen te una pápula perlada , piensa siempre en carcinoma basocelular. La forma superficial- multicéntrica o Pagetoide se presenta a modo de una placa eritematodescamativa localizada generalmente en tronco, que puede recordar a un eccema. Su límite sobreelevado brillante y la no respuesta a corticoides tópicos te deben hacer pensar en un carcinoma basocelular y no en un eccema. Nódulo- ulcerativo o ulcus rodens es una forma agresiva, con ulceración precoz y rápida destrucción local."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Señale la relación correcta:",
+      "opciones": [
+        "Glándulas ecrinas-hidradenitis supurativa.",
+        "Glándulas apocrinas-acné.",
+        "Glándulas sebáceas-andrógenos.",
+        "Glándulas sudoríparas ecrinas-fibras parasimpáticas adrenérgicas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La piel recibe una inervación compleja formada por un sistema eferente derivado de la porción simpática del sistema nervioso autónomo (mayoritariamente colinérgico), que inerva la red vascular y los anejos cutáneos. Las glándulas de la piel pueden sebáceas o sudoríparas. Las glándulas sebáceas desembocan en el folículo piloso, su secreción depende principalmente de de andrógenos y su patología genera el conocido acné (opción 3 verdadera). Las glándulas sudoríparas pueden ser: ecrinas, (que dependen fundamentalmente de la acetilcolina, se encuentran fuera de la unidad pilosebácea y su oclusión genera la denominada periporitis o sudamina) o apocrinas (que dependen fundamentalmente de la adrenalina, se localizan junto a la unidad pilosebácea en axilas, ingles y región perianal, y su inflamación genera la denominada hidradenitis supurativa)."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Un varón de 40 años presenta a los 5 días de un contacto sexual sospechoso una úlcera en prepucio de borde congestivo, fondo sucio, doloroso y que sangra fácilmente al roce. A la exploración se objetivan adenopatías en la región inguinal derecha, voluminosas y fluctuantes. ¿Cuál es el agente etiológico de esta infección?:",
+      "opciones": [
+        "Haemophilus ducreyi.",
+        "Gonococo.",
+        "Chlamydia trachomatis.",
+        "Treponema pallidum."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta básica de dermatología. Cuando nos hablen de una úlcera genital de aparición aguda tras un contacto sexual de riesgo tenemos que plantearnos tres causas, por orden de frecuencia, un Herpes genital, un chancro sifilítico y un chancro blando. El herpes genital es la causa más frecuente de úlcera genital, esta causada en el 80% por herpesvirus tipoII, presenta vesículas agrupadas sobre base eritematosa y adenopatías bilaterales dolorosas. El chancro sifilítico es la expresión clínica de la sífilis primaria, es una úlcera de fondo limpio, dura e indolora con adenopatías bilaterales e indoloras también. El chancro blando esta causado por Haemophilus ducreyi, es blando, de fondo sucio y doloroso, con adenopatías unilaterales también dolorosas. Éste último es el caso que nos ocupa, por ello la respuesta correcta es la 1."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Ante un paciente VIH cuyos análisis muestran un leve deterioro inmune, y presenta al examen placas blanquecinas en boca y faringe que se desprenden al rascado dejando una mucosa eritematosa y edematosa al descubierto, ¿cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Leucoplasia oral vellosa.",
+        "Angiomatosis bacilar.",
+        "Candidiasis orofaríngea.",
+        "Infección por herpesvirus."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se nos pregunta por las dermatosis asociadas al VIH, un tema de creciente importancia. Esta pregunta se puede responder por dos vías:\n- Se describe a un paciente VIH con un leve deterioro inmune que presenta unas lesiones sugestivas de muguet. La candidiasis se presenta cuando la función inmune es todavía buena, lo que apoya la sospecha diagnóstica.\n- Se puede responder directamente, sabiendo que la candidiasis es la dermatosis más frecuente en el VIH, presentándola hasta el 100% de los pacientes en algún momento de su desarrollo. Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "La ruptura de los puentes del estrato espinoso es una hallazgo histológico frecuente en el pénfigo. A este hallazgo se le denomina:",
+      "opciones": [
+        "Paraqueratosis.",
+        "Disqueratosis.",
+        "Espongiosis.",
+        "Acantolísis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La ruptura de los puentes intercelulares del estrato espinoso se denomina acantolisis. (Acanto = estrato espinoso. Lisis = ruptura), por lo que la respuesta correcta es la 4. La paraqueratosis se define como la presencia de queratinocitos con núcleo en el estrato córneo y es un hallazgo histológico típico de la psoriasis.\n\nLa disqueratosis se define como la presencia de queratinocitos “abortivos” en el estrato espinoso y puede verse en múltiples patologías, entre ellas la Enfermedad de Darier. Por último, la Espongiosis es un edema intercelular que suele encontrarse en el eccema."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Paciente mujer de 50 años que presenta cuadro persistente de varios meses de evolución consistente en erosiones dolorosas en la mucosa oral. Se realiza una biopsia de una de las lesiones en la que se observa una hendidura en el espesor de la epidermis junto con la presencia de imágenes de acantólisis. Con respecto a la enfermedad que padece la paciente, señale lo INCORRECTO:",
+      "opciones": [
+        "En la inmunofluorescencia directa encontraremos IgG depositada en los espacios intercelulares de los queratinocitos",
+        "En la mayoría de los pacientes, en la inmunofluorescencia indirecta detectaremos en plasma IgG anti-sustancia intercelular de la epidermis (Anti-Desmogleína 3)",
+        "La afectación mucosa es poco frecuente y la enfermedad no suele debutar en mucosas como en el caso de la paciente",
+        "Se trata de una enfermedad grave que requiere dosis altas de corticoides u otros inmunosupresores durante períodos prolongados"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata del prototipo de pregunta que define a la perfección la frecuente afectación mucosa de esta enfermedad autoinmune que a menudo se acompaña de ampollas flácidas (mas bien EROSIONES) sobre piel sana en pacientes de edad media: el PENFIGO VULGAR. Las respuestas 1, 2 y 4 son correctas. No obstante, la respuesta número 3 es tan falsa que llama la atención, pues la afectación de la mucosa oral a modo de EROSIONES \"rebeldes\" es la forma inicial de manifestación en la mayoría de los pacientes."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "La melanina se sintetiza a partir de:",
+      "opciones": [
+        "Prolina.",
+        "Fenilalanina.",
+        "Serina.",
+        "Glicina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta relativamente sencilla y muy directa, que debes saber contestar por conocimientos generales de la carrera. Los melanocitos poseen unos orgánulos, los melanosomas, donde se produce la melanina. Esto es gracias a una enzima, una tirosinasa, que oxida el aminoácido tirosina y, tras otra serie de reacciones, acaba produciéndose la melanina. Lo importante en esta pregunta es saber que el aminoácido precursor de la Tirosina es la Fenilalanina (respuesta 2 correcta). Fallos en esta enzima tirosinasa son los que originan el Albinismo, en el cual no hay melanina y no existe pigmentación de la piel ni de otros tejidos melánicos."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Cuál de los siguientes fármacos es un inhibidor de BRAF",
+      "opciones": [
+        "Ipilimumab",
+        "Pembrolizumab",
+        "Vemurafenib",
+        "Cobimetinib"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Opción 3 correcta: Vemurafenib (y dabrafenib) son fármacos de TERAPIA DIRIGIDA (o sea que bloquean señales de \"proliferate melanocito y hazte malo\"), concretamente inhibidores de Braf. El cometinib también forma parte de la terapia dirigida pero inhibe el MEK.\n\nIpilimumab y pembrolizumab forman parte de la INMUNOTERAPIA (potencian al sistema inmune para eliminar a los melanocitos \"malos\"), actúan contra el CTLA4 y PD1 respectivamente."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Una gestante de 31 años y sin antecedentes de interés consulta al inicio del tercer trimestre por una erupción muy pruriginosa, papular y vesiculobullosa de localización periumbilical. Señale la afirmación falsa:",
+      "opciones": [
+        "El diagnóstico de sospecha de la paciente del enunciado presenta signo de Nikolsky negativo.",
+        "El fenómeno de Darier es patognomónico de mastocitosis.",
+        "La enfermedad de Darier suele presentar el fenómeno de Darier.",
+        "La necrolisis epidérmica tóxica (NET) presenta signo de Nikolsky positivo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El signo de Nikolsky consiste en el desprendimiento de la epidermis al friccionar la piel, reproduciéndose la ampolla o erosión característica de la enfermedad correspondiente. El pénfigo vulgar, la NET y el síndrome de la piel escaldada son enfermedades con signo de Nikolsky positivo. El diagnóstico de sospecha de la paciente del enunciado es de penfigoide gestacional o herpes gestationis, trastorno cutáneo con signo de Nikolsky negativo (ampolla subepidérmica). Así pues, las opción 1 y 4 son verdaderas.\n\nLas lesiones de la mastocitosis presentan un signo diagnóstico y patognomónico, conocido como el signo de Darier, que consiste en que una suave fricción desencadena una reacción urticariforme, con prurito, eritema e hinchazón local, producida por la degranulación de los mastocitos con la consiguiente liberación de mediadores inflamatorios (opción 2 verdadera). Este fenómeno no tiene nada que ver con la enfermedad del mismo nombre (opción 3 falsa). La enfermedad de Darier es una genodermatosis de herencia autosómica dominante, que se presenta como pequeñas pápulas malolientes de color marrón parduzco en áreas seborreicas y afectación ungueal. Su histología consiste en disqueratosis y acantolisis. Suele agravarse con la luz solar."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Una mujer de 56 años, con antecedentes de insuficiencia venosa crónica, acude a su consulta con tumefacción de tercio distal de pierna derecha. Refiere fiebre de 38 ºC y afectación del estado general desde hace 4 días, que cede con antitérmicos. A la exploración, destaca la presencia de placa eritematoedematosa en el maléolo y tercio distal de pierna derecha, caliente y muy dolorosa a la palpación, con aspecto en “piel de naranja”. En relación al diagnóstico de sospecha, indique la respuesta correcta:",
+      "opciones": [
+        "Una buena opción terapéutica sería mupirocina tópica 2 veces al día durante 1 semana.",
+        "La realización de una eco-doppler de extremidades inferiores nos confirmará el diagnóstico.",
+        "Se trata de una localización típica, en la que en muchos casos actúa como vía de entrada una lesión banal como una tinea pedis interdigital.",
+        "Si practicamos hemocultivos, éstos son positivos en un porcentaje elevado de pacientes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Nos encontramos frente a un caso típico de erisipela / celulitis. La pierna roja, caliente, dolorosa, con \"piel de naranja\", es sugestiva de ello. Es cierto que el diagnóstico diferencial seria con la TVP, pero en este caso es fácilmente orientable, al no tratarse de un paciente encamado o con problemas de coagulación. La insuficiencia venosa, que predispone a ulceras y heridas, la diabetes, o la presencia de lesiones cutáneas en la zona (o como en este caso señala la respuesta, una tiña interdigital) son habitualmente la puerta de entrada (Opción 3 Correcta). Por ultimo recordar que el tratamiento en estos casos debe ser oral y que los hemocultivos no suelen ser positivos."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Mujer de 68 años con antecedentes de ex fumadora, ganadera de profesión y múltiples carcinomas basocelulares. La paciente acude a nuestra consulta por presentar una nueva lesión costrosa, que “en ocasiones ha sangrado y no termina de curar”, localizada en hemilabio inferior izquierdo. Con respecto al diagnóstico de presunción ¿cuál de la siguientes afirmaciones es falsa?",
+      "opciones": [
+        "La aparición sobre lesiones premalignas (queratosis actínicas o leucoplasias) no es infrecuente.",
+        "Es típica la presentación como pápula perlada con telangiectasias superficiales.",
+        "Si palpo adenopatías cervicales, podría considerar un escáner como prueba complementaria.",
+        "El tratamiento de elección es la cirugía."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta falsa es la opción 2 puesto que dicha presentación clínica se refiere a la típica del basocelular (que como ya se sabe por otra parte, no afecta a mucosas)."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "¿Qué tipo de fibras vegetativas son las que inervan las glándulas sudoríparas y los músculos piloerectores?",
+      "opciones": [
+        "Fibras simpáticas adrenérgicas.",
+        "Fibras simpáticas colinérgicas.",
+        "Fibras parasimpáticas adrenérgicas.",
+        "Fibras parasimpáticas colinérgicas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta un tanto imprecisa, ya que no especifica el tipo de glándulas sudoríparas a las que se refiere, apocrinas o ecrinas. Probablemente, el autor de esta pregunta no considera las apocrinas como verdaderas glándulas sudoríparas, en la misma línea de pensamiento que C. Guyton. No obstante, cuando nos preguntan \"glándulas sudoríparas y músculos piloerectores\", podemos suponer que se refieren a las ecrinas, que son las que comparten inervación con estos músculos. La inervación de las glándulas ecrinas y los músculos piloerectores es simpática. La mayoría de las neuronas simpáticas postganglionares del organismo son adrenérgicas. Sin embargo, existen algunas excepciones, como las glándulas sudoríparas ecrinas, los músculos piloerectores y unos pocos vasos sanguíneos, donde son colinérgicas (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Paciente de 43 años en tratamiento por hiperuricemia con alopurinol que presenta desde hace una semana con un cuadro pseudogripal y la aparición de lesiones eritematoviolaceas que presentan una vesícula central, y además lesiones erosivas en mucosa oral. No se observa eritema diseminado por el tronco ni despegamiento epidermico ¿Cuál sería el diagnóstico más probable?",
+      "opciones": [
+        "Eritema exudativo muliforme minor",
+        "Necrolisis epidérmica tóxica",
+        "Dermatitis herpetiforme",
+        "Eritema exudativo multiforme mayor"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta correcta es la opción 4. En esta pregunta la duda razonable podría plantearse con el eritema exudativo multiforme minor (en el cual nos darían un antecedente de haber sufrido un herpes orolabial los dias previos pero NO coincidiendo con las lesiones cutáneas), o la necrosis epidermica tóxica (el cual se acompaña de importante afectación sistemica y un eritema generalizado con despegamiento epidermico, recordad el signo de Nikosky)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Mónica es una paciente de 6 años habitual de nuestra consulta. Llevamos siguiéndola desde el nacimiento por la presencia de angiofibromas faciales. Recientemente se le ha realizado una resonancia magnética por un motivo que no viene al caso. En dicha RM se ha observado una imagen compatble con un astrocitoma. Tras realizar una biopsia se confirma que se trata de un astrocitoma de células gigantes. Estos dos elementos que presenta Mónica son muy característicos de uno de los siguientes síndromes. ¿Cuál de ellos es el que MÁS PROBABLEMENTE presenta Mónica?",
+      "opciones": [
+        "Esclerosis tuberosa.",
+        "Enfermedad de von Hippel-Lindau.",
+        "Síndrome de Sturge-Weber.",
+        "Neurofibromatosis tipo II."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome que presenta nuestra paciente es la esclerosis tuberosa. La esclerosis tuberosa es una facomatosis que se caracteriza por presentar angiofibromas faciales, máculas hipopigmentadas lanceoladas, astrocitomas retinianos, astrocitomas de células gigantes (Opción 1 Correcta).\n\nEn el síndrome de Sturge-Weber es característica la presencia de una mancha en “vino de Oporto”.\n\nLa enfermedad de von Hippel-Lindau suele presentar feocromocitomas y hemangioblastomas retinianos.\n\nDe la Neurofibromatosis tipo II solo debes recordar su asociación con el neurinoma del acústico bilateral."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Acude a su consulta un paciente con lesiones en las manos. ¿Qué diagnóstico es menos probable?",
+      "opciones": [
+        "Sífilis secundaria.",
+        "Enfermedad de Kawasaki.",
+        "Varicela.",
+        "Fiebre por mordedura de rata."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La localización de las lesiones cutáneas nos puede dar muchas pistas para hacer el diagnóstico. Las enfermedades más “típicas” con afectación cutánea de palmas y plantas son: enfermedad boca-mano-pie, sarampión, Kawasaki, sífilis secundaria, fiebre botonosa mediterránea, fiebre por mordedura de rata… El exantema de la varicela puede localizarse en cualquier zona de piel o mucosas corporales, pero su localización es más frecuentemente centrípeta (zonas medias de tronco, cara y cuero cabelludo), siendo excepcional la afectación palmo-plantar."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "La dermatitis herpetiforme se considera la expresión cutánea de la intolerancia al gluten. Con respecto a esta entidad, señale la afirmación INCORRECTA:",
+      "opciones": [
+        "La mayoría de los pacientes (90%) presentan clínica de enteropatía sensible al gluten (Enfermedad celíaca), por lo que la ausencia de síntomas digestivos hace improbable el diagnóstico",
+        "Se presenta en forma de erupción pápulovesiculosa muy pruriginosa en planos de extensión y nalgas",
+        "El hallazgo de depósitos granulares de IgA en el vértice de las papilas dérmicas es típico de esta entidad",
+        "El tratamiento se basa en dos pilares: dieta exenta de gluten y la dapsona"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "A menudo la dermatitis herpetiforme (\"celiquia de la piel\") es la manifestacion inicial de una futura intolerancia al gluten, por lo que frecuentemente estos pacientes aún no han desarrollado clinica digestiva (respuesta 1 incorrecta). El resto de opciones son correctas. Recordad que puede ser suficiente el control de esta entidad con dieta exenta de gluten (!si podemos evitar dar continuamente la dapsona mejor!)."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Cuál de las siguientes binomios, fármaco-diana terapeútica, no emplearía en psoriasis?",
+      "opciones": [
+        "Etanercept-antiTNF.",
+        "Secukinumab-anti IL 17.",
+        "Ustekinumab-anti IL 12/23.",
+        "Dupilumab-anti IL 4/13."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El Etanercept al igual que el Infliximab, el Adalimumab y desde hace poco el Certolizumab son antiTNF aprobados para psoriasis. Dentro de los anti IL 17A tenemos Secukinumab, Ixekizumab y Brodalumab. Dentro de los anti IL 12/23 solo a Ustekinumab, al que hay que sumarle los anti IL 23 (Guselkumab, Risankizumab y Tildrakizumab). Dupilumab es un anti IL4/13 que se emplea para la Dermatitis atópica. (Opción 4 Correcta)"
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "La dermatitis seborreica tiene una clínica típica con eritema y descamación en las denominadas áreas seborreicas: cara (surcos nasogenianos, cejas, orejas), cuero cabelludo, área preesternal y pliegues. Se distinguen dos formas principales de dermatitis seborreica, la infantil y la del adulto. No se ha aclarado todavía si ambas formas constituyen la misma entidad, o bien son dos procesos independientes. El principal diagnóstico diferencial de la dermatitis seborreica infantil es la dermatitis atópica. Se trata de un diagnóstico diferencial de gran interés, debido al mejor pronóstico de la dermatitis seborreica infantil. En este sentido, señale la respuesta FALSA:",
+      "opciones": [
+        "El sexo masculino es factor de buen pronóstico en el eccema atópico.",
+        "El eccema seborreico suele localizarse en el centro de la cara y los pliegues.",
+        "El prurito del eccema atópico suele ser importante.",
+        "En el eccema atópico puede haber elevación serológica de IgE."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de una pregunta senciila gracias al uso de la técnica de examen. Esta clara que la localización del eccema seborreico es en centro de la cara y los pliegues (incluso la propia pregunta te lo recuerda). También que el prurito es un síntoma cardinal e importante en el eccem atópico y que en el eccema atópico, sobre todo en el subitpo extrinseco, suele existir elevación serologica de IgE. Con esto tenemos contestada la pregunta, a pesar de no conocer el detalle de que el eccema atópico es ligeramente de mejor pronostico en mujeres que en varones y a pesar de que esto sea discutible (Respuesta 1 Falsa)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Señale cuál de las siguientes asociaciones entre alteración histológica y enfermedad cutánea es FALSA:",
+      "opciones": [
+        "Hipergranulosis: verruga vulgar.",
+        "Espongiosis: eccema agudo.",
+        "Acantólisis: pénfigo vulgar.",
+        "Balonización: urticaria."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una pregunta de conocimientos básicos, que no se debe fallar. Existen hallazgos histológicos típicos que debes conocer y manejar con soltura. La Espongiosis, o edema intercelular intraepidérmico, es un hallazgo característico del Eccema agudo. La Hipergranulosis, es decir, el aumento de la capa granulosa, se produce en las Verrugas vulgares, junto con el aumento de la capa córnea (Hiperqueratosis). La enfermedad de Darier es un trastorno de la queratinización en la que ésta se produce en células aisladas del estrato espinoso (Disqueratosis). La lesión histológica típica del Pénfigo vulgar es la Acantólisis, es decir, la ruptura de los puentes intercelulares del estrato espinoso, con la aparición de ampollas intraepidérmicas. El Herpes simple es un ejemplo típico de Balonización o edema intracelular de los queratinocitos; sin embargo, la histología de la Urticaria se caracteriza por la aparición de Habones, es decir, zonas de edema intradérmicas en forma de placas eritematosas (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Un varón de 70 años acude a su consulta por presentar en dorso nasal una tumoración de 14 meses de evolución cuya exploración física muestra bordes sobreelevados, perlados y ulceración central. La biopsia revela una proliferación celular en la capa basal epidérmica. ¿Cuál de las siguientes afirmaciones describe mejor el pronóstico del paciente?",
+      "opciones": [
+        "El pronóstico es favorable con cirugía, las metástasis ocurren en un porcentaje moderado-bajo de casos.",
+        "El pronóstico es excelente con crioterapia, el tratamiento es efectivo y la recidiva infrecuente.",
+        "Este paciente tiene mal pronóstico aun realizando cirugía.",
+        "El pronóstico es excelente y las metástasis muy infrecuentes, aunque el paciente puede desarrollar más lesiones consecuencia del daño solar crónico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos presentan a un paciente con un carcinoma basocelular en dorso nasal confirmado con la histología. El pronóstico de este tumor generalmente es excelente (opción 3 falsa), ocurriendo las metástasis de forma excepcional (opción 1 falsa). El tratamiento de elección es la cirugía (opción 2 falsa), como en la mayoría de los tumores de piel. Por lo tanto, la opción verdadera es la 4."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Ante un paciente con manchas pequeñas de color rojo oscuro que no desaparecen a la vitropresión. ¿Debe pensarse en?:",
+      "opciones": [
+        "Liquen plano.",
+        "Petequias.",
+        "Parapsoriasis en gotas.",
+        "Prúrigo simple agudo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta básica acerca de las lesiones elementales en dermatología. No olvides este concepto.Las petequias son pequeñas manchas del tamaño de la cabeza de un alfiler, que tienen un color rojo, violáceo o negruzco y que no desaparecen a la vitropresión, lo que refleja la existencia de sangre extravasada. Esto las diferencia del eritema cuyas lesiones sí desaparecen con la vitropresión (Opción 2 Correcta).Las petequias pueden deberse a causas parasitarias (picaduras de insectos), mecánicas (mecanismos de succión, pinchazos, etc), infecciones que afecten a la coagulación, enfermedades hepáticas, alteraciones nerviosas como la neuritis, carencias vitamínicas como el escorbuto, etc. Recuerda que en el diagnóstico diferencial de las lesiones purpúricas es importante distinguir la púrpura no palpable (máculas por lesión no vascular como alteraciones plaquetarias o de la coagulación) de la púrpura palpable (pápulas por lesión vascular como las vasculitis)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Le avisan para valorar a un paciente ingresado en la UCI. El paciente presenta lesiones erosivas, ampollas y despegamiento epidérmico en más de un 50% de la superficie corporal, afectando también mucosas. Ante el diagnostico de sospecha ¿Qué le gustaría averiguar?",
+      "opciones": [
+        "Los fármacos que ha tomado el paciente, pues sospecha una toxicodermia.",
+        "Si el paciente ha tenido un herpes la semana previa.",
+        "Las posibles relaciones sexuales de riesgo.",
+        "Si algún miembro de su familia tiene la misma clínica, porque se trata sin duda alguna de una patología infecciosa."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Aunque fuese mi vecino y me generase mucha curiosidad sus relaciones sexuales, no cabe duda que nos encontramos ante el cuadro MAS SEVERO de la dermatología, asi que seriedad y pensar siempre en una toxicodermia (concretamente la necrolisis epidermica tóxica) (Opción 1 Correcta)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Una chica de 17 años consulta por unos nódulos eritematosos en la región anterior de las piernas, de 2 semanas de evolución. Tiene febrícula, artralgias y le duelen las lesiones. Refiere tomar anticonceptivos orales. Respecto a esta patología, indique lo incorrecto:",
+      "opciones": [
+        "Afectación predominantemente del septo del tejido celular subcutáneo en la biopsia.",
+        "La causa más frecuente es desconocida.",
+        "Observaría vasculitis en la biopsia cutánea.",
+        "Regresión espontánea de las lesiones."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata probablemente de un eritema nodoso, por lo tanto en la biopsia se observaria una paniculitis de predominio septal, sin vasculitis. El resto de opciones son correctas. (Opción 3 falsa)"
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Un varón de 64 años acude a la consulta por prurito generalizado y la aparición, varios meses antes, de una lesión eritematosa en la espalda, que ha ido extendiéndose y en la actualidad se ha hecho sobreelevada y generalizada. La TC revela afectación ganglionar abdominal y, tanto en la médula ósea como en la sangre periférica, se describe una infiltración por células de aspecto linfoide, de gran tamaño, con el núcleo \"convoluto\". El inmunofenotipo demuestra clonalidad a expensas de células CD4 positivas. El diagnóstico más probable es:",
+      "opciones": [
+        "Mieloma múltiple.",
+        "Síndrome de Sézary.",
+        "Leucemia-linfoma de células T del adulto.",
+        "Linfoma de Burkitt."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La micosis fungoide es un tema bastante rentable, pues se estudia fácilmente y siempre inciden en el mismo tipo de preguntas. Es un linfoma cutáneo de células T, de bajo grado de malignidad, cuya evolución dura muchos años. Clínicamente, evoluciona en tres fases: eccematosa o macular, en placas o infiltrativa y tumoral. Desde el punto de vista histológico, debes recordar los microabscesos de Pautrier, que son cúmulos de linfocitos intraepidérmicos, de aspecto atípico y con núcleo cerebriforme. En el caso de este paciente, se trata de un síndrome de Sézary, que es la fase leucémica de la micosis fungoide. El síndrome de Sézary se define por la tríada: eritrodermia, linfadenopatías y existencia de más del 10% de células de Sézary en sangre periférica. La célula de Sézary es un linfocito T atípico con núcleo cerebriforme (Opción 2 Correcta). En pacientes con este tipo de leucemización, el prurito es muy intenso y debes considerarlo un síntoma cardinal."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Mujer de 57 años que acude a su consulta por presentar en el pabellón auricular izquierdo una lesión nodular, costrosa y ulcerada. Recientemente ha sido diagnosticada de carcinoma de ovario, recibiendo un tratamiento quimioterápico agresivo. Una biopsia cutánea muestra queratinocitos atípicos en todo el espesor de la epidermis. Con respecto al diagnóstico de sospecha señale lo verdadero.",
+      "opciones": [
+        "La localización de nuestra paciente es la de mayor riesgo de afectación ganglionar.",
+        "Se trata del tumor cutáneo maligno más frecuente.",
+        "La radiación ultravioleta, inmunosupresión, arsénico y cicatrices o úlceras previas, son también factores de riesgo.",
+        "La localización en mucosas es excepcional."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de una paciente con un carcinoma epidermoide. El antecedente de quimioterapia agresiva y sus caracterisitcas clinicas e histológicas lo definen. Recordad que no es infrecuente la localización en mucosas (opción 4 falsa) siendo el labio la localización de mayor riesgo de afectación ganglionar (opción 1 falsa). El carcinoma epidermoide es el segundo tumor cutáneo maligno mas frecuente tras el basocelular (opción 2 falsa). La respuesta correcta por tanto es la opción 3."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Cuál es el nombre de la lesión elemental, sólida e inflamatoria, de tamaño superior a 1 cm. situada en la dermis o hipodermis y que al curar cicatriza de manera no visible?",
+      "opciones": [
+        "Pápula.",
+        "Pústula.",
+        "Nódulo.",
+        "Habón."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta básica, que no se debe fallar, sobre la Clasificación de las Lesiones Elementales, cuyos conceptos debes manejar sin ninguna duda. Esta definición corresponde a un Nódulo (respuesta 3 correcta). Una Mácula es una lesión pigmentada, que no hace relieve, menor de 1 cm. Una elevación sólida menor de 1 cm, palpable, es una Pápula. Una pequeña vesícula con contenido purulento es una Pústula. Por último, un Habón es una placa dérmica edematosa y con eritema, que desaparece en menos de 24 horas."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Respecto al eritema exudativo multiforme minor, señale la correcta:",
+      "opciones": [
+        "Siempre afecta a mucosas",
+        "Aparece normalmente a la semana, tras una infección de herpes simple",
+        "Tiene una alta mortalidad",
+        "Cursa con fiebre de más de 39ºC"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las lesiones cutáneas del eritema multiforme minor suelen tener como antecedente en los dias previos un herpes orolabial. No obstante no es así en todos los casos (respuesta 1 falsa) . La clinica sistémica es infrecuente (opción 4 falsa) asi como la mortalidad prácticamente nula (opción 3 falsa). Estas dos últimas opciones se refieren mas probablemente a un eritema multiforme mayor o una necrolisis epidérmica tóxica. La opción correcta por lo tanto es la 2."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Varón de 30 años con lesión hiperpigmentada de bordes irregulares de tiempo incierto de evolución. A la dermatoscopia presenta retículo atípico, varios colores y bordes irregulares. Ante el diagnótico de sospecha ¿Cuál será su primera actuación?",
+      "opciones": [
+        "Solicitar un estudio genético del ocogen BRAF",
+        "Biopsia con punch de una región de la lesión",
+        "Extirpación con márgenes de 1 cm",
+        "Biopsia excisional"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Ante la sospecha de melanoma debemos hacer inicialmente una biopsia EXCISIONAL (es decir, quitar toda la lesión pigmentada, sin margenes de 1 o 2 cm ni nada de esto, pues tendremos que confirmar en anatomia patologica que se trata de un melanoma y entonces ya veremos los margenes y si esta indicado o no hacer ganglio centinela) (Opción 4 Correcta). Importante, diferenciar biopsia incisional (me llevo una parte de la lesion, a esto se refiere la opción 2) de biopsia excisional (me llevo toda la lesion)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "El síndrome de inmunodeficiencia adquirida (SIDA) debe conocerse bien, hoy más que nunca, y para ello es fundamental la morfología lesional de piel y mucosas. ¿Qué dermatosis es de las más frecuentes y características?:",
+      "opciones": [
+        "El liquen plano.",
+        "La pitiriasis rubra pilar.",
+        "El chancro venéreo o blando anal.",
+        "La dermatitis seborreica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad intermedia perteneciente al tema de patología infecciosa asociada al VIH. La dermatitis seborreica es una enfermedad eritematodescamativa ya de por sí muy frecuente, llegando en el caso de los VIH a ser la dermatosis no infecciosa más predominante (Opción 4 Correcta). Se caracteriza por tener una distribución típica en cuero cabelludo, región centrofacial, axilas, ingles y línea media del tronco. Se asocia como agente infeccioso al Pityrosporum ovale, aumentando su prevalencia en ciertas patologías como ACV, enfermedad de Parkinson, alcoholismo, y SIDA. En cuanto al tratamiento, suelen emplearse antifúngicos y corticoides suaves tópicos."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Un varón de 48 años acude a su consulta por la aparición de una lesión en el ala nasal derecha. Aporta informes de alta de intervenciones quirúrgicas previas sobre esa zona en los cuales puede leer en el apartado de anatomía patológica que se trataba de un epitelioma basocelular de patrón infiltrativo. Usted percibe mucha ansiedad en el paciente, ya que se le ha intervenido previamente en 2 ocasiones en esa área, ocasionándole una distorsión anatómica considerable. Debido a la aparente complejidad del caso, usted decide realizar una interconsulta al dermatólogo. El especialista en este caso elegirá una de las siguientes opciones terapéuticas:",
+      "opciones": [
+        "Terapia tópica con imiquimod.",
+        "Terapia fotodinámica.",
+        "Cirugía micrográfica de Mohs.",
+        "Radioterapia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre el cancer cutáneo no melanona, concretamente sonre el epitelioma basocelular. En este tipo de tumores el tratamiento de elección es siempre quirúrgico, con una serie de precisiones. En basocelular superficial podria utilizarse también el imiquimod o la terapia fotodinámica como alternativas (en este caso al ser infiltrativo, estas dos opciones estan completamente descartados). La radioterapia puede ser una alternativa para aquellos pacientes cuyo tumor sea irresecable (y convertirlo asi en resecable) o para aquellos paciente, en lo que por coomorbilidades (normalmente pacientes mayores) sea menos agresiva la radioterapia que una cirugia. La radioterapia, en cambio, no estará indicada en pacientes jovenes o en aquellos casos en los que se trate de una recidiva, pues la cicatriz dificultará el buen resultado de la radioterapia. En recidivas y tumores invasivos, será de elección la cirugia y dentro de esta la cirugia de mohs, pues al ser una cirugia con control de márgenes, reduce el riesgo de una nueva recidiva (Opción 3 Correcta)."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Señale la FALSA respecto al tratamiento de la psoriasis y el liquen plano:",
+      "opciones": [
+        "El uso de corticoides sistémicos debe evitarse siempre que se pueda porque tras su retirada se puede desencadenar un brote psoriásico más grave.",
+        "En psoriasis moderadas o severas se debe instaurar tratamiento con fármacos biológicos de primera elección.",
+        "El tratamiento de elección en brotes de psoriasis leves son las cremas emolientes, queratolíticos, corticoides tópicos, análogos de la vitamina D y retinoides tópicos.",
+        "En casos graves de liquen plano están indicados los corticoides sistémicos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Podemos plantear la pregunta de la siguiente manera, ¿Te gastarias COMO PRIMERA ELECCIÓN cientos de euros mensuales en un paciente con psoriasis moderada que aún no ha probado fototerapia u otros sistemicos?. Esta claro ¿no? El sistema sanitario se hundiría en cuestión de dias. Por lo tanto, la opción incorrecta es la 2. El resto de opciones son correctas. Recuerda que en el liquen plano tenemos una gran variedad de tratamientos (entre ellos los cortioides sistemicos para casos graves, los cuales NO debemos usar nunca en la psoriasis)."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Varón de 78 años con antecedentes de alcoholismo y deterioro cognitivo, vive solo en su domicilio. Es traído al hospital por presentar un cuadro de reagudización de su insuficiencia renal secundario a una diarrea. A la exploración física presenta una piel apergaminada con un eritema en zonas fotoexpuestas así como en cuello unas máculas y pápulas hiperpigmentadas eritematodescamativas de bordes bien definidos. ¿Cuál es el diagnóstico?",
+      "opciones": [
+        "Déficit de zinc.",
+        "Déficit de vitamina B3.",
+        "Déficit de vitamina C.",
+        "Déficit de B12."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sencilla si reconocemos la clínica de la pelagra: las 3D (Diarrea, Demencia, Dermatitis) debida al déficit de niacina (vitamina B3, acido nicotínico o niacina) (opción 2 verdadera). En nuestro medio este cuadro se asocia típicamente al alcoholismo y anorexia (malnutrición). La dermatitis es característicamente fotosensible con pápulas eritematodescamativas en cuello (collar de Casal) así como una piel apergaminada (pelle agra=piel áspera). El tratamiento se basa en la fotoprotección y reposición de ese déficit administrando niacina. El resto de opciones son incorrectas, pues el déficit de zinc produce acrodermatitis enteropática, el déficit de vitamina C produce el escorbuto, y el déficit de B12 hiperpigmentacion generalizada."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "El glioma de nervio óptico aparece en un síndrome neurocutáneo de forma típica. Señálelo:",
+      "opciones": [
+        "Neurofibromatosis tipo 1.",
+        "Esclerosis tuberosa .",
+        "Síndrome de Sturge-Weber.",
+        "Enfermedad de von Hippel-Lindau."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de una pregunta directa muy sencilla sobre las facomatosis. De estas enfermedades debes recordar, además de sus manifestaciones cutáneas, las neurológicas (especialmente), ya que pueden ser objeto de pregunta tanto en dermatología como en neurología. En este caso, la opción correcta es la 1, neurofibromatosis tipo I, caracterizada por: afectación familiar, 6 o más manchas café con leche, 2 o más neurofibromas o neurofibromas plexiformes, efélides axilares o inguinales, 2 o mas hamartomas de Lisch (hamartoma del iris), glioma óptico, alteraciones óseas. Página 40. Manual CTO 4ª Edición"
+    }
+  ]
+}

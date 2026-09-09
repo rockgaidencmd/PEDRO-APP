@@ -1,0 +1,316 @@
+{
+  "materia": "bioquimica",
+  "paginaInicio": 15,
+  "paginaFin": 28,
+  "anomalias": [
+    "p15: la explicación incluye una tabla de transportadores de glucosa (Transportador / Ubicación / Función) que tuve que linealizar; cada fila se transcribe como 'Transportador | Ubicación | Función' y los dos párrafos de la celda GLUT-2 se unieron en una sola línea",
+    "p17: misma tabla de transportadores linealizada; en esta versión la celda GLUT-1 dice 'continua' (sin tilde) y la de GLUT-3 'contínua' (con tilde), y la celda GLUT-4 omite el inciso '(sarcolema)' que sí aparece en p15",
+    "p19: el comentario es internamente incoherente: describe la acidosis respiratoria diciendo 'el pH será < 7,35 y la presión parcial de PCO2< 40 mmHg' cuando en acidosis respiratoria la PCO2 está ELEVADA (el propio enunciado da PaCO2 = 50 mmHg). El signo correcto sería '>'",
+    "p20: la opción 1 (considerada verdadera, ya que la clave es la 4) dice que los hidratos de carbono deben representar 'entre el 50 y el 60%' de las Kcal diarias, pero el comentario de la misma pregunta indica '55 - 60%'",
+    "p25: misma tabla de transportadores linealizada; aquí tanto GLUT-1 como GLUT-3 dicen 'continua' (sin tilde) y la marca 'Opción 4 correcta.' está dentro de la celda de GLUT-1",
+    "p27: la clave es 1 ('Disminuye el pH'), pero el propio comentario enumera el 2,3 Bifosfoglicerato entre los factores que disminuyen la afinidad de la Hb por el O2, con lo que la opción 4 ('Aumenta la concentración de 2,3 bifosfoglicerato') también describiría una disminución de la afinidad; la pregunta queda ambigua",
+    "p27: en la última frase del comentario (que continúa en p28) la fórmula del oxígeno aparece rasterizada como '02' (cero-dos) en lugar de 'O2': 'una mayor liberación (desunión) del 02 des de la molécula de Hb'. Se transcribe tal cual"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 15,
+      "enunciado": "Respeto a la captación de glucosa por parte de los diferentes tejidos del organismo, la absorción intestinal de glucosa ocurre principalmente mediante:",
+      "opciones": [
+        "Un sistema que intercambia glucosa por calcio",
+        "Difusión simple",
+        "Un transportador dependiente de la insulina",
+        "Un simportador que utiliza un gradiente de sodio"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La absorción intestinal de glucosa se produce por el cotransportador o simportador que utiliza un gradiente de sodio-glucosa o GLUT: (opción 4 correcta)\n\nTransportador | Ubicación | Función\nGLUT-1 | Eritrocitos | Captación contínua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia\nGLUT-3 | Neuronas | Captación contínua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia. Recuerda, la glucosa es el combustible principal y cuasi-exclusivo de las neuronas.\nGLUT-4 | Tejido adiposo y Músculo | Expresión estimulada por acción de la Insulina (INS). El músculo dispone de mecanismos independientes a la INS para aumentar su expresión en las membranas celulares (sarcolema), como por ejemplo, durante el ejercicio físico.\nGLUT-2 | Hígado y Páncreas | A nivel del páncreas, juega un papel fundamental en la capacidad para sensar la glicemia del organismo y por ende estimular o inhibir la secreción de INS. A nivel de hígado, papel fundamental en el control de la glicemia del organismo. En ayunas, el hígado saca glucosa a la sangre para el resto de tejidos (especialmente las neuronas). Después de comer (postprandial) el hígado capta el exceso de glucosa y lo almacena en forma de glucógeno\nCoTransportador Na+-Glucosa (SGLT-1) | Intestino | Absorción y captación de glucosa procedente de la dieta\nGLUT-5 | Intestino | Absorción y captación de fructosa procedente de la dieta"
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Durante los estados de ayuno se mantienen las cifras normales de glucemia porque la glucosa se va liberando progresivamente desde sus centros de almacenamiento y porque se genera glucosa nueva a partir de los aminoácidos, el lactato y el glicerol procedente de los triglicéridos. La conservación de la glucemia dentro de unas márgenes normales es un proceso complejo regulado por diferentes hormonas. ¿Cómo se denomina el proceso de obtención de glucosa a partir del glucógeno almacenado?",
+      "opciones": [
+        "Glucogenólisis.",
+        "Glucofosforilación.",
+        "Gluconeogénesis.",
+        "Ninguna de las anteriores es correcta."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La glucogenólisis es el proceso mediante el que el glucógeno se degrada y se obtienen moléculas de glucosa (opción 1 correcta). Dicho proceso ocurre como método de obtención de sustrato energético durante ayunos no demasiado prolongados."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Indique la opción falsa sobre el agua:",
+      "opciones": [
+        "La función de dispersión permite facilitar las reacciones metabólicas, al ser el agua el disolvente universal.",
+        "Las moléculas de agua tienen una gran afinidad, y se unen mediante puentes de hidrógeno, conformando una estructura tetraédrica.",
+        "La molécula de agua se comporte como un dipolo eléctrico, a pesar de ser eléctricamente neutra.",
+        "Las moléculas de agua se orientan (pero no se desplazan) si se someten a la acción de un campo eléctrico, de manera que el oxígeno queda orientado hacia el polo positivo (por tener una fracción de carga negativa) y el hidrógeno hacia el negativo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La opción 1 correcta: hace referencia a la función de disolución del agua. La dispersión, función también de ésta, se refiere a que el agua actúa como el dispersante de todos los orgánulos celulares (es el medio celular).\n\nEl resto de las opciones son correctas."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Respeto a la captación de glucosa por parte de los diferentes tejidos del organismo, el transporte de glucosa a la célula beta del páncreas es mediado por el:",
+      "opciones": [
+        "GLUT1",
+        "GLUT2",
+        "GLUT3",
+        "GLUT4"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta:\n\nTransportador | Ubicación | Función\nGLUT-1 | Eritrocitos | Captación continua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia\nGLUT-3 | Neuronas | Captación contínua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia. Recuerda, la glucosa es el combustible principal y cuasi-exclusivo de las neuronas.\nGLUT-4 | Tejido adiposo y Músculo | Expresión estimulada por acción de la Insulina (INS). El músculo dispone de mecanismos independientes a la INS para aumentar su expresión en las membranas celulares durante el ejercicio físico.\nGLUT-2 | Hígado y Páncreas | A nivel del páncreas, juega un papel fundamental en la capacidad para sensar la glicemia del organismo y por ende estimular o inhibir la secreción de INS. A nivel de hígado, papel fundamental en el control de la glicemia del organismo. En ayunas, el hígado saca glucosa a la sangre para el resto de tejidos (especialmente las neuronas). Después de comer (postprandial) el hígado capta el exceso de glucosa y lo almacena en forma de glucógeno\nCoTransportador Na+-Glucosa (SGLT-1) | Intestino | Absorción y captación de glucosa procedente de la dieta\nGLUT-5 | Intestino | Absorción y captación de fructosa procedente de la dieta"
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Qué se produce cuando se introduce un hematíe en un medio hipertónico?",
+      "opciones": [
+        "Una hiperhidratación de este.",
+        "Una entrada de solutos en su interior para compensar la diferencia de osmolaridad.",
+        "Una salida de solutos de la célula, con la consiguiente hiperhidratación y hemólisis.",
+        "Una salida de agua desde el interior celular, deshidratándose el eritrocito."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que constituye un ejemplo del fenómeno que ocurre cuando dos disoluciones están separadas por una membrana semipermeable (que permite el paso de agua, pero no de solutos) llamado ósmosis que tiende a igualar su concentración. Al introducir un hematíe en un medio hipertónico el agua sale del hematíe, produciéndose una deshidratación que puede ocasionar plasmólisis (opción 4 correcta). Veamos las demás opciones de respuesta:\n1 y 3.- En caso de que el medio sea hipotónico (agua destilada), el agua entra en el interior del hematíe, produciéndose una hiperhidratación de este y una hemólisis (rotura de membrana celular).\n2.- La difusión es el movimiento espontáneo de solutos cuando las disoluciones están separadas por una membrana permeable y el soluto se desplaza hacia la solución más diluida. Se refiere a este concepto."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "La función de las proteínas es:",
+      "opciones": [
+        "Estructural, da forma a las células.",
+        "Inmunitaria, forman parte de los anticuerpos.",
+        "Actúan en la homeostasis, formando parte del tampón químico.",
+        "Todas las opciones anteriores son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que nos da a conocer las funciones de las proteínas que, como bien indica la opción de respuesta 4, van desde dar forma a las estructuras del organismo, como actuar en el sistema defensivo, como en el sistema hormonal, formando parte de enzimas y hormonas y actuando en la homeostasis, facilitando la reacción del tampón químico y los factores de coagulación."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Un tejido es un conjunto de células similares que suelen tener un origen común y que funcionan en conjunto para desarrollar actividades especializadas. ¿Qué tipo de tejido es el que MAYOR porcentaje de agua contiene?",
+      "opciones": [
+        "El de mayor actividad metabólica.",
+        "El más joven.",
+        "El más viejo.",
+        "Las opciones 1 y 2 son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: La cantidad de agua que constituye un tejido difiere de unos a otros en función de su actividad metabólica; un tejido joven y por tanto con alta actividad metabólica contiene un porcentaje mayor de agua que un tejido envejecido."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Se encuentra trabajando en una Unidad de Neumología y tiene ingresada a Josefa Martínez, mujer de 81 años, con antecedentes de hipertensión y cardiopatía, entre otros problemas de salud. Es el primer día que la atiende, ya que usted acaba de llegar de vacaciones estivales y tiene pautado realizarle una gasometría arterial a primera hora de la mañana de hoy. Realizamos la gasometría arterial, que arroja los siguientes datos: pH = 7,35, PaCO2 = 50 mmHg, HCO3 = 38 mEq/L. ¿A qué situación clínica corresponde?",
+      "opciones": [
+        "Acidosis respiratoria crónica compensada.",
+        "Alcalosis respiratoria crónica compensada.",
+        "Acidosis metabólica.",
+        "Alcalosis metabólica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los valores normales de una gasometría son:\n- pH: (7,35-7,45).\n- PO2: (80-100 mmHg).\n- PCO2: (35-45 mmHg).\n- Saturación O2: (95-100%).\n- Bicarbonato o HCO3: (22-26 mEq/L).\nEn el enunciado el pH está normalizado, pero en el mínimo rango de la normalidad. El PCO2, está elevado, cosa que nos sugiere que se trata de una acidosis respiratoria, pero el bicarbonato elevado compensatorio (compensación metabólica) nos normaliza el pH, caso que acostumbra a suceder en la acidosis respiratoria crónica (opción 1 correcta). En la acidosis respiratoria hay un exceso de ácido que se caracteriza por un exceso de ácido carbónico, desciende el pH (aumento de hidrogeniones) debido a un aumento de la PCO2, y a un aumento compensador de la cifra de bicarbonato en plasma. Por tanto, el pH será < 7,35 y la presión parcial de PCO2< 40 mmHg. Este desequilibrio puede ser agudo o crónico dependiendo del proceso base que lo origine. Una acidosis respiratoria puede ser causada por una depresión súbita del centro respiratorio que provoque hipoventilación, cuyo origen puede ser la administración de narcóticos, anestesia, etc. Otras posibles causas son: parálisis de los músculos respiratorios, obstrucción de las vías aéreas, traumatismo torácico, paro cardiorrespiratorio, ventilación mecánica ineficaz, etc."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "En un paciente con alcalosis metabólica, esperaremos encontrar la pCO2:",
+      "opciones": [
+        "36mmHg",
+        "60mmHg",
+        "40mmHg",
+        "20mmHg"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: En un paciente con alcalosis metabólica, la pCO2 aumenta de forma compensatoria."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "El ambiente extracelular que rodea a las células consta de un compartimiento líquido en el que las moléculas están disueltas, y una matriz de polisacáridos y proteínas que dan forma a los tejidos. Las interacciones entre los ambientes intracelular y extracelular ocurren a través de la membrana plasmática. ¿Cuál es el anión extracelular MÁS abundante?",
+      "opciones": [
+        "Calcio.",
+        "Cloro.",
+        "Magnesio.",
+        "Sodio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de conocimientos básicos. Debemos conocer en qué proporción se encuentra cada ion en cada compartimento y también qué anión y qué catión es el más abundante y más deficitario en cada compartimento; así pues, en el compartimento extracelular el catión más abundante es el Sodio y el anión más abundante el Cloro (opción 2 correcta). En cambio, en el espacio intracelular el catión más abundante es el Potasio."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Entre las recomendaciones dietéticas diarias, ¿Cuál de las siguientes recomendaciones es FALSA?:",
+      "opciones": [
+        "Hidratos de carbono deben representar entre el 50 y el 60% de las Kcal diarias. Siendo de especial elección aquellos alimentos con indice glucémico bajo y que contengan, mayoritariamente, polisacáridos complejos.",
+        "Debemos ingerir entre 20 - 40g/día de fibra dietética.",
+        "Las proteínas deben representar entre el 10-15% de las Kcal diarias. Entre 1 - 1,5 mg/kg/día.",
+        "Los ácidos grasos insaturados no deben representar más del 10% de las grasas presentes en la dieta."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta.\n\nLas recomendaciones nutricionales diarias:\n\n- Hidratos de Carbono: 55 - 60% de las Kcal diarias. Optando por aquellos alimentos con índice glucémico bajo y que contengan, mayoritariamente, polisacáridos complejos. Los monosacáridos o azúcares simples deberían ser < 10%. Debemos ingerir entre 20 - 40g/día de fibra dietética\n- Proteínas: Deben representar entre el 10-15% de las Kcal diarias. Entre 1 - 1,5 mg/kg/día.\n- Grasas: Deben representar < 30% de las Kcal diarias. Siendo claramente mas interesantes des del punto de vista nutricional los ácidos grasos insaturados (origen vegetal), ya sean monoinsaturados o poliinsaturados (omega-3, omega-6). Los ácidos grasos saturados (origen animal) deberían ser inferiores al 10%. El colesterol diario debería ser inferior al 5%."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "La transformación de una molécula de glucosa en dos de ácido pirúvico, se denomina:",
+      "opciones": [
+        "Glucogenólisis.",
+        "Glucólisis.",
+        "Gluconeogénesis.",
+        "Neoglucólisis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La glucólisis o glicolisis o glicólisis o ruta de EMBDEN-MEYERHOF es la secuencia metabólica consistente en 10 reacciones enzimáticas, en la que se oxida la glucosa, produciendo 2 moléculas de piruvato y 2 equivalentes reducidos de NADH o NADH2, que al introducirse en la cadena respiratoria, producirán dos moléculas de ATP. El ácido pirúvico puede seguir 2 vías: la aerobia (que es la más habitual por la que se transforma en acetil-CoA), y la anaerobia con el paso de ácido pirúvico a láctico en la fermentación láctica, principalmente en situaciones de hipoxia, y la fermentación alcohólica en la que se transforma en etanol, que no se produce en el organismo humano sino en la industria."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿Cuál de estas propiedades es correcta refiriéndonos al agua?:",
+      "opciones": [
+        "Es un buen amortiguador térmico.",
+        "Tiene una elevada constante dieléctrica.",
+        "Bajo grado de ionización.",
+        "Todas son correctas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: El agua es el elemento químico inorgánico elemental. Sus propiedades son:\n\nTiene una elevada fuerza de cohesión lo que hace tener una elevada tensión superficial (insectos que pueden andar sobre el agua), capilaridad, esto explica la capacidad de poder transportar masas de agua en contra la gravedad e incompresibilidad lo que le da función estructural en la célula, cuerpo. Se precisa mucho calor para aumentar un grado y es preciso llegar a los 100ºC para su evaporación con lo que el calor que se precisa es aun mayor. Su constante dieléctrica es debida a su polaridad lo que explica ser un buen disolvente de substancias iónicas, solvatación iónica .Solo 1 de cada 500 millones de moléculas es iónica, esto hace que sea un buen amortiguador del pH."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Usted está trabajando en la Unidad de Urgencias Hospitalarias de un hospital regional y acude a su Servicio un paciente de 67 años acompañado por su hijo con sensación mareos y disnea. Durante la valoración del paciente, además de tomar las constantes vitales, usted le realiza una extracción de sangre para una gasometría arterial. Los resultados de dicha gasometría son: pH: 7,32; PaCO2 30 mmHg; PaO2: 60 mmHg; CO3H-: 14 mEq/L. ¿Qué alteración del equilibrio ácido-base presenta?",
+      "opciones": [
+        "Acidosis respiratoria.",
+        "Alcalosis metabólica.",
+        "Alcalosis respiratoria.",
+        "Acidosis metabólica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Para contestar bien a esta pregunta primero nos fijamos en el pH = 7,32; como es < 7,35 nos encontramos ante una acidosis. Descartamos todas las opciones de respuesta, excepto la 1 y la 4. El valor de HCO3 = 14 mEq/L es < 24 mEq/L por lo que la acidosis es metabólica (respuesta 4 correcta), la PCO2 < 40 mmHg para compensar de forma respiratoria la acidosis."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuando podemos encontrar el agua en su máxima densidad?",
+      "opciones": [
+        "A 10º.",
+        "A 4º.",
+        "A -4 º.",
+        "A -10º."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La densidad del agua es de 1kg/l. La densidad del agua es mayor cuando está en estado líquido y menor cuando está en estado sólido, si bien va aumentando según disminuye la temperatura, alcanzando su máxima densidad a los 4ºC.\n\nComo ejemplo claro está que por ese motivo el hielo flota en el agua."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Durante el ayuno se estimula la gluconeogénesis hepática por varios y diversos motivos. Respecto a esta situación, señale la FALSA:",
+      "opciones": [
+        "Es necesario el aporte de glucosa a los tejidos extrahepáticos que dependen de ella",
+        "Predomina el efecto del glucagon sobre el efecto de la insulina",
+        "Aumenta la llegada de ácidos grasos al hígado",
+        "El hígado tiene unas necesidades aumentadas de glucosa"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Durante el ayuno, el órgano encargado de mantener la glicemia constante es el hígado. Por esta razón, lleva a cabo dos procesos metabólicos sinérgicos:\n\n- Gluconeogénesis (Síntesis de glucosa de novo): A partir de determinados precursores (aa, Lactato, Glicerol, ...) el hígado construye moléculas de glucosa completamente nuevas y las transfiere a la sangre para que sean aprovechadas por los tejidos que lo necesitan (Neuronas, Corazón, Musculo Esquelético, Hematíes, ...).\n- Glugenolisis (Ruptura del glucógeno): Movilización de los depósitos de glucosa presentes en el hígado (la glucosa se almacena en forma de glucógeno) y transferencia de la misma a la sangre para que sea aprovechada por los tejidos que lo necesitan (Neuronas, Corazón, Musculo Esquelético, Hematíes, ...)\n\nEsta situación, es favorecida por el glucagón (Hormona CONTRA-Insulínica). Además, si el hígado esta embarcado en la producción de grandes cantidades de glucosa para el resto de tejidos, este tendrá que sacar su energía a partir de otras biomoléculas. En este caso, el hígado sacará su energía a partir de la B-Oxidación de los ácidos grasos, por lo que marcamos la opción 4 correcta."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En referencia a las transaminasas ALT y AST, ¿Cuál de las siguientes vitaminas es fundamental para su actividad?",
+      "opciones": [
+        "Vitamina B1 o Tiamina",
+        "Vitamina B6 o Piridoxina",
+        "Vitamina B9 o Folato",
+        "Vitamina B12 o Hidroxicobalamina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "- Vitamina B1: fundamental para la acitividad de la Piruvato Deshidrogenasa (Pyr DH).\n- Vitamina B6: fundamental que utilizan como cofactor todas las transaminasas. Opción 2 correcta.\n- Vitamina B9 y B12: fundamentales para la hematopoyesis. Tambien son conocidos con el sobrenombre de factores madurativos."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Los cuerpos cetónicos son compuestos químicos sintetizados en las mitocondrias de los hepatocitos durante el ayuno. Su función es suministrar energía a los tejidos extrahepáticos (Cerebro, corazón, músculo) durante el mismo, constituyendo un importante mecanismo de ahorro de glucosa y siendo clave en la homeostasis de la misma. ¿Cuál de los siguientes NO es un cuerpo cetónico?",
+      "opciones": [
+        "Acetoacetato",
+        "B-OH Butirato",
+        "Piruvato",
+        "Acetona"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los cuerpos cetónicos propiamente dichos son el Acetoacetato y el B-OH Butirato. Por la descarboxilación espontánea del primero en la sangre, obtenemos al tercero en discordia, la Acetona.\n\nEl Pyr es el producto resultante de la degradación de la glucosa en la glicolisis citosólica (piruvato). Opción 3 correcta."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "En referencia a las proteínas y su estructura, ¿Que entendemos por el concepto de estructura primaria?",
+      "opciones": [
+        "Contenido de subunidades",
+        "Conformación tridimensional",
+        "Secuencia de aminoácidos",
+        "Contenido de alfa-hélice y hoja-plegada beta"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En referencia a la estructura de las proteínas:\n\n- Estructura primaria: corresponde a la secuencia de aminoácidos. Ej: Gly-Glu-Tyr-Asp-. Opción 3 correcta.\n- Estructura secundaria: Regiones dentro de una proteína organizadas de manera especial y/o característica en forma de Alfa-hélice, Hoja-plegada beta, Giros Beta etc.\n- Estructura terciaria: Conformación tridimensional. La proteína en su plenitud y la disposición que adopta la misma en las tres dimensiones del espacio. Es la estructura funcionalmente activa de la proteína. El término Conformación enlaza los conceptos estructura y función. Ej: Mioglobina.\n- Estructura cuaternaria: Son aquellas proteínas más grandes y complejas, constituidas por múltiples subunidades. Ej: Hemoglobina, Colágeno, etc."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Los pacientes alcohólicos crónicos, por definición, se consideran pacientes desnutridos, los cuales pueden presentar múltiples déficits vitamínicos (Vitaminas del grupo B, Vitamina C). Entre estos, uno de los déficits más característicos es la deficiencia de tiamina (vitamina B1), puesto que el alcohol inhibe su absorción intestinal. En ese caso estaría afectada la función de la siguiente enzima:",
+      "opciones": [
+        "Isocitrato deshidrogenasa",
+        "Piruvato deshidrogenasa",
+        "Malato deshidrogenasa",
+        "Glutamato deshidrogenasa"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La deficiencia de Vitamina B1 o Tiamina puede dar la cara mediante dos manifestaciones clínicas; la encefalopatía de Wernicke-Korsakoff o el Beri-Beri (siendo bastante más habitual la primera en nuestra práctica clínica diaria). Ambas patologías, tienen una explicación bioquímica en su fisiopatología.\n\nLa Tiamina, es el cofactor fundamental para la actividad de la enzima Piruvato Deshidrogenasa (Pyr DH) y otras enzimas del ciclo de Krebs. La Pyr DH es el paso previo necesario para la incorporación del Pyr (procedente de la degradación de la glucosa, recuerda 1 Glucosa -> 2 Pyr) al ciclo de Krebs (por lo que marcamos la opción 2 correcta) . Por consiguiente, si lo recordamos bien, el principal y cuasi exclusivo nutriente que utilizan nuestras neuronas es la glucosa. Por lo tanto, si tenemos un déficit de tiamina, la Pyr DH no funcionará correctamente, en consecuencia, la glucosa no podrá ser degradada completamente y no podremos obtener toda la energía/ATP que esperamos de ella. En definitiva, con poco o escaso ATP, nuestras neuronas serán completamente disfuncionales. Siendo las zonas más afectadas la sustancia gris alrededor del acueducto de Silvio, la sustancia gris alrededor del IV ventrículo cerebral y los cuerpos mamilares.\n\nEncefalopatía de Wernicke-Korsakoff: Oftalmoplejia, ataxia y síndrome confusional.\n\nBeri-Beri : Insuficiencia cardíaca con gasto cardíaco elevado."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Respecto a la captación de glucosa por parte de los diferentes tejidos del organismo, esta penetra en el eritrocito por un tipo de transporte que se caracteriza por ser:",
+      "opciones": [
+        "Facilitado por un co-transportador de sodio",
+        "Estimulado por la insulina",
+        "Difusión simple",
+        "Facilitado por el GLUT 1"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Transportador | Ubicación | Función\nGLUT-1 | Eritrocitos | Captación continua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia. Opción 4 correcta.\nGLUT-3 | Neuronas | Captación continua de glucosa, independientemente del ciclo ayuno-post prandial, independientemente de las cifras de glicemia. Recuerda, la glucosa es el combustible principal y cuasi-exclusivo de las neuronas.\nGLUT-4 | Tejido adiposo y Músculo | Expresión estimulada por acción de la Insulina (INS). El músculo dispone de mecanismos independientes a la INS para aumentar su expresión en las membranas celulares durante el ejercicio físico.\nGLUT-2 | Hígado y Páncreas | A nivel del páncreas, juega un papel fundamental en la capacidad para sensar la glicemia del organismo y por ende estimular o inhibir la secreción de INS. A nivel de hígado, papel fundamental en el control de la glicemia del organismo. En ayunas, el hígado saca glucosa a la sangre para el resto de tejidos (especialmente las neuronas). Después de comer (postprandial) el hígado capta el exceso de glucosa y lo almacena en forma de glucógeno\nCoTransportador Na+-Glucosa (SGLT-1) | Intestino | Absorción y captación de glucosa procedente de la dieta\nGLUT-5 | Intestino | Absorción y captación de fructosa procedente de la dieta"
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "En el ser humano, la mayor parte del nitrógeno amínico (NH3) se excreta en forma de:",
+      "opciones": [
+        "Ácido úrico",
+        "Bilirrubina",
+        "Creatinina",
+        "Urea"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En referencia al metabolismo del nitrógeno en el cuerpo humano, el principal metabolito para la excreción del mismo es la Urea (opción 4 correcta). La urea se sintetiza en el hígado (Ciclo de la Urea) a partir del nitrógeno amínico extraído de los aminoácidos (aa). Finalmente, pasa al torrente sanguíneo y se excreta a través de la orina.\n\n- Ácido úrico: Procedente de la degradación de los nucleótidos púricos (A,G).\n- Bilirrubina: Procedente de la degradación del grupo Hemo.\n- Creatinina: Procedente de la degradación de la Fosfocreatina muscular."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "En referencia al contenido energético de las biomoléculas presentes en los alimentos, ¿Cuántas Kcal proporciona, aproximadamente, una comida que contenga 20 gramos de proteína, 10 gramos de grasa y 50 gramos de carbohidratos?:",
+      "opciones": [
+        "370 kcal (1548.08 kj)",
+        "320 kcal (1338.88 kj)",
+        "290 kcal (1213.36 kj)",
+        "690 kcal (2886.96 kj)"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los valores energéticos de las biomoléculas presentes en los alimentos son:\n\n- Hidratos de Carbono: 1g de CH equivale, aproximadamente, a 4 Kcal.\n- Proteínas: 1g de Prot. equivale, aproximadamente, a 4 Kcal.\n- Grasas: 1 g de grasas equivale, aproximadamente, a 9 Kcal.\n- Alcohol: 1 g de etanol equivale, aproximadamente, a 7 Kcal.\n- (20x4)+(10x9)+(50x4)= 80+90+200= 370kcal. Opción 1 correcta.\n\nRecuerda la asociación del alcohol y el concepto de las denominadas \"Calorías vacías\". Todo aquello que ingiramos de alcohol, por su gran aporte energético, no lo haremos de otros alimentos muchos más ricos y diversos desde un punto de vista nutricional. El alcohol no contiene nutrientes fundamentales como pueden ser las vitaminas. Un paciente alcohólico crónico es por definición un paciente desnutrido."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Niels Henrik David Bohr fue un físico danés que contribuyó en la comprensión del átomo y la mecánica cuántica. Fue galardonado con el Premio Nobel de Física en 1922. Entre sus contribuciones al campo de la medicina destaca el conocido efecto Bohr. El efecto Bohr describe la disminución de la afinidad de la Hb por el oxígeno cuando:",
+      "opciones": [
+        "Disminuye el pH",
+        "Disminuye la pCO2",
+        "Aumenta la pO2",
+        "Aumenta la concentración de 2,3 bifosfoglicerato"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Entre los factores que provocan un desacoplamiento (desunión) entre la Hb y el Oxígeno nos encontramos:\n\n- Disminución del pH (acidificación del medio), conocido como Efecto Bohr. Opción 1 correcta.\n- El 2,3 Bifosfoglicerato\n- El aumento del CO2\n- El aumento de la temperatura\n\nTodos estos factores arriba mencionados, se conocen con el nombre de factores alostéricos negativos. La presencia de los mismos al llegar a los tejidos, favorece una mayor liberación (desunión) del 02 des de la molécula de Hb, facilitando así el aporte tisular del mismo."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Referente al metabolismo de la glucosa, en condiciones anaeróbicas el Piruvato producido en la glucólisis se convierte en:",
+      "opciones": [
+        "Dihidroxiacetona-P",
+        "2,3 - Bifosfoglicerato",
+        "Lactato",
+        "Oxalacetato"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En condiciones aeróbicas, es decir, en presencia de oxígeno (O2), la glucosa se degrada hasta Piruvato (Pyr) en el citosol (Glicolisis citosólica). El Pyr entra en la mitocondria, y, mediante la acción de la Pyr Deshidrogenasa se transforma en Acetil-CoA. Este, se incorpora en el ciclo de Krebs para ser oxidado/degradado completamente hasta CO2 y H2O. En esta situación, una molecula de glucosa nos proporciona gran cantidad de ATP (36 ATP por molécula de Glucosa)\n\nEn condiciones anaeróbicas, es decir, en ausencia de O2, la glucosa se degrada hasta Pyr en el citosol. El Pyr no puede entrar en la mitocondria dada la ausencia de O2 (Si no hay O2, que es aceptor final de los electrones, todo el metabolismo y actividad mitocondrial se inhibe). En esta situación, el Pyr se degrada a Lactato, proporcionando un pobre rendimiento energético (opción 3 correcta). En condiciones anaerobias, una molécula de glucosa tan solo genera 2 ATP."
+    }
+  ]
+}

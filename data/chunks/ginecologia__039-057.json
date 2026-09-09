@@ -1,0 +1,509 @@
+{
+  "materia": "ginecologia",
+  "paginaInicio": 39,
+  "paginaFin": 57,
+  "anomalias": [
+    "p40: en '¿Cuál de estas circunstancias NO se ha relacionado con una mayor probabilidad de embarazo ectópico?' la Resp. Correcta es 3 (conización cervical) pero el comentario cierra con '(RC: 4)'",
+    "p41: en 'Mujer de 60 años. En la revisión rutinaria se detecta una masa móvil en pelvis...' la Resp. Correcta es 3 pero el comentario dice 'Las respuestas 1, 2 y 3 se descartan' y 'Entre las opciones 4 y 5, es preferible la 4'; además cita una opción 5 que no existe (solo hay 4 opciones)",
+    "p47: en 'Mujer de 68 años que comienza con clínica de aumento del diámetro abdominal...' el comentario cita 'como dice en la respuesta 5, tras recidiva' pero solo hay 4 opciones",
+    "p50: en 'Gestante de 37 semanas a la que se le practica monitorización fetal no estresante...' la Resp. Correcta es 4 pero el comentario dice 'prueba de Pose (opción correcta la 5)'; solo hay 4 opciones y la prueba de Pose es la 4",
+    "p51: en 'La aparición de un patrón de desaceleración variable o Dip III...' la Resp. Correcta es 1 pero el comentario cierra la descripción de las deceleraciones variables con '(respuesta 2 correcta)'",
+    "p51: en esa misma pregunta el comentario remite a '(ver imagen)' al describir los DIPS tipo II, pero en la página no hay ninguna imagen ni enlace de imagen",
+    "p52: en 'En una paciente con tumoración ovárica, ascitis y derrame pleural...' el comentario dice 'Los otros cuatro síndromes son causa de amenorrea' cuando solo quedan tres opciones restantes (menciona además el síndrome de Sheehan, que no figura entre las opciones)",
+    "p53: en 'Una de las siguientes NO es complicación frecuente del abruptio' la Resp. Correcta es 4 pero el comentario dice 'excepto la pielonefritis (opción 5)'; la pielonefritis es la opción 4 y solo hay 4 opciones"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 39,
+      "enunciado": "Una paciente de 50 años se le realizó una biopsia de endometrio que tiene el siguiente informe de anatomía patológica: hiperplasia endometrial atípica. ¿Cuál de las siguientes es la conducta más adecuada?",
+      "opciones": [
+        "Tratamiento con progesterona y control con biopsias seriadas en 6 meses",
+        "Terapia de reemplazo hormonal con estrógenos solos",
+        "Terapia de reemplazo hormonal con estrógenos y progestágenos",
+        "Histerectomía"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los dos factores más importantes a tener en cuenta a la hora de elegir el tratamiento adecuado son la edad de la paciente y las características histológicas de la lesión. Hiperplasias con atipias: se realizará histerectomía por el riesgo de degeneración maligna. Hiperplasias sin atipias: Mujeres en edad fértil y con deseos de descendencia: inducir la ovulación. Mujeres en edad fértil sin deseos de gestación: se disponen de múltiples opciones que se individualizarán en cada caso. Se pueden utilizar gestágenos, DIU-levonorgestrel, tratamiento combinado estrógenos-gestágenos, danazol, análogos GnRH. Aquellas mujeres que rechacen el tratamiento médico o en las que persista la hiperplasia a pesar el tratamiento médico, se ofertará histerectomía. Mujeres perimenopáusicas o posmenopáusicas: es posible utilizar gestágenos durante tres meses o tratamiento quirúrgico (histerectomía)."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Todos los siguientes son factores de mal pronóstico en el cáncer de mama EXCEPTO uno; señálelo:",
+      "opciones": [
+        "Edad: 55 años.",
+        "Un valor alto de Ki67",
+        "Invasión vásculo-linfática (IVL)",
+        "Receptores estrogénicos negativos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los factores de mal pronóstico más relevantes en cáncer de mama son:\n\n• Afectación de ganglios axilares: es el factor pronóstico independiente más potente en cáncer de mama.\n\n• Tamaño tumoral\n\n• Grado histológico y grado nuclear\n\n• Un valor alto de Ki67 se asocia a peor pronóstico.\n\n• La invasión vásculo-linfática (IVL) Se trata de un factor de mal pronóstico.\n\n• El subtipo histológico más común de cáncer de mama es el carcinoma ductal infiltrante (CDI), que constituye hasta el 80%, siendo el segundo en frecuencia el carcinoma lobulillar infiltrante (CLI) con un 10%. Ambos tienen un comportamiento biológico distinto, aunque su valor pronóstico independiente no queda claro. Existen otros subtipos de cáncer de mama menos frecuentes como los tumores papilares, los mucinosos, los medulares y los adenoideos quísticos, que se han aso- ciado a buen pronóstico, mientras que los subtipos micropapilar y metaplásico parecen concebir un peor pronóstico.\n\nLa entidad más agresiva en cáncer de mama localizado es el cáncer de mama inflamatorio, una entidad clínica caracterizada por edema y eritema cutáneo provocado por la infiltración tumoral de la dermis, pero no se considera un subtipo histológico distinto.\n\n• La presencia de receptores estrogénicos forma parte imprescindible del estudio inicial del cáncer de mama ya que es un factor de buen pronóstico y predictivo clásico.\n\n• La amplificación y/o sobreexpresión del receptor HER2 (human epidermal growth factor receptor-2) considerado factor pronóstico negativo en pacientes con cáncer de mama. Está sobreexpresado en el 20% de los tumores de mama. Sin embargo, la introducción del tratamiento con anticuerpos monoclonales dirigidos contra HER2 (trastuzumab, pertuzumab, TDM1) y lapatinib, combinados con la quimioterapia ha atenuado estas diferencias.Por otro lado, algunos estudios sugieren que el status HER2 podría relacionarse con resistencia a diferentes citostáticos (como antraciclinas o taxanos) y a hormonoterapia.\n\n• Edad <35 años y raza negra.\n\n• Una expresión elevada de p53 se asocia a peor pronóstico."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "¿Cuál de estas circunstancias NO se ha relacionado con una mayor probabilidad de embarazo ectópico?:",
+      "opciones": [
+        "Cirugía tubárica previa.",
+        "Enfermedad inflamatoria pélvica.",
+        "Conización cervical.",
+        "Técnicas de reproducción asistida."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla sobre el embarazo ectópico.\n\nDe todas las opciones posibles, la única que no supone un factor favorecedor para una gestación ectópica es la conización cervical. (RC: 4)."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Paciente de 26 años, nulípara con amenorrea de 3 meses, acude por hemorragia vaginal moderada. En la exploración se objetiva un útero mayor del que correspondería al tiempo de amenorrea. La HCG es fuertemente positiva y la ecografía muestra una imagen semejante a los copos de nieve en la cavidad uterina. ¿Qué es FALSO en relación a esta patología?:",
+      "opciones": [
+        "Puede ser causa de preeclampsia antes de la 20ª semana.",
+        "Puede cursar con clínica de tirotoxicosis.",
+        "Puede coexistir con quistes tecaluteínicos en el ovario.",
+        "El tratamiento de elección es la histerectomía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Para decidir el tratamiento necesario, tenemos que llegar a un diagnóstico. Dentro de las hemorragias del primer trimestre, los datos clínicos (útero mayor que amenorrea) y ecográficos (imagen en “copos de nieve”) nos ayudan a sospechar una enfermedad trofoblástica. La imagen ecográfica que presentan estas pacientes es una imagen multivesicular, en ocasiones asociada a la presencia de quistes tecaluteínicos bilaterales.\n\nEl tratamiento preferido es el legrado por aspiración frente al legrado con legras cortantes, para intentar minimizar los riesgos de perforación uterina y la persistencia de restos. El estudio anatomopatológico nos confirmará el diagnóstico y precisará el tipo histológico.\n\nLa histerectomía (respuesta 4) la reservaremos para las pacientes de más de 40 años con los deseos de descendencia ya cumplidos, situación muy distinta a la que nos describen en el enunciado (nulípara de 26 años)."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cuál es el hecho más constante en el síndrome de ovario poliquístico?:",
+      "opciones": [
+        "Acné",
+        "Obesidad.",
+        "Esterilidad",
+        "Hirsutismo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El síndrome del ovario poliquístico (SOP) es la endocrinopatía más frecuente de las mujeres en edad reproductiva.\n\nSe estima que aproximadamente un 70% de las mujeres con SOP presentan hirsutismo. La segunda causa de hirsutismo, después del SOP, es la idiopática.\n\nEl acné afecta a un tercio de las mujeres con SOP.\n\nEl 70% de las mujeres con SOP presentan trastornos de la ovulación. Aunque algunos casos cursan con amenorrea primaria o secundaria de larga evolución, en la mayoría existe oligomenorrea (menos de 6-8 menstruaciones anuales) o un ritmo menstrual irregular.\n\nSe estima que un 50-60% de las mujeres con SOP serán obesas.\n\nRecuerda: Los datos de la historia clínica constituyen un pilar básico del diagnóstico. De manera que la simple asociación de alteraciones menstruales, junto al hirsutismo que podrá acompañarse de acné y/o seborrea, se considera suficiente."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Mujer de 60 años. En la revisión rutinaria se detecta una masa móvil en pelvis. El estudio ecográfico pone de manifiesto, como único hallazgo, una lesión quística de 70 mm. con proliferaciones papilares internas y dependiente de ovario derecho. El marcador tumoral Cal25 es de 70 U/mL (normal < 35 U/ml). ¿Cuál es la conducta diagnóstico/terapéutica adecuada?:",
+      "opciones": [
+        "Control evolutivo mediante seriación ecográfica y del nivel del marcador.",
+        "Estudio citológico de la lesión mediante punción aspiración con aguja fina.",
+        "Tratamiento quirúrgico: anexectomía y estudio intraoperatorio de la lesión.",
+        "Tratamiento quirúrgico: quistectomía y estudio intraoperatorio de la lesión."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cuadro que nos describen es compatible con un tumor de ovario, no sólo desde el punto de vista clínico (masa móvil en pelvis), sino también ecográfico. Por otra parte, el Ca 125 es un marcador tumoral cuya elevación respalda también este diagnóstico. En consecuencia, habría que dirigir el estudio hacia esta enfermedad. Las respuestas 1, 2 y 3 se descartan, pues necesitaremos material suficiente para un estudio histológico adecuado (la PAAF no es suficiente, pues la célula aislada no basta para caracterizar de qué tipo de tumor se trata). Entre las opciones 4 y 5, es preferible la 4, pues en una mujer de 60 años no hay motivo para extirpar sólo la masa y preservar los anejos."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "De las variedades de presentación de nalgas, ¿cuál es la más frecuente?",
+      "opciones": [
+        "Nalgas completas.",
+        "Nalgas incompletas.",
+        "Nalgas puras.",
+        "Rodillas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las nalgas puras es la variedad más frecuente. Recuerda que, junto con las nalgas completas, son las únicas en las que se permitirá el parto vaginal si el resto de los requisitos se cumplen. Las presentaciones de pies o de las rodillas se incluyen dentro de las nalgas incompletas y contraindican la vía vaginal."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "¿Cuál es la terapéutica recomendada en una paciente con cáncer de ovario?:",
+      "opciones": [
+        "Radioterapia.",
+        "Cirugía citorreductora y quimioterapia.",
+        "Hormonoterapia.",
+        "Cirugía sin tratamiento quimioterápico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Junto al objetivo fundamental de la exéresis adecuada del tumor, la cirugía en el cáncer de ovario posee un papel transcendental en la estadificación de la enfermedad.\n\nProcedimientos quirúrgicos para la estadificación del cáncer de ovario\n\n- Abordaje quirúrgico amplio: LAPAROTOMÍA( opción preferente)/ laparoscopia( opción aceptable).\n\n- Lavado peritoneal ( citología) preferiblemente por compartimentos anatómicos.\n\n- Inspección intra-abdominal y palpación de todas las superficies peritoneales y mesentéricas: hígado, estómago, vesícula, bazo y riñones.\n\n- Biopsias peritoneales de zonas sospechosas o aleatorias en su defecto.\n\n- Omentectomía.\n\n- Histerectomía total adominal con anexectomía bilateral.\n\n* En pacientes con deseo reproductivo, estadio FIGO IA/IB y bajo grado histológico ( en particular carcinomas endometrioides GI y mucinosos borderline o carcinomas GI-II) es aceptable practicar una estadificación completa preservando útero y/o ovario contralateral con finalidad reproductiva posterior\n\n- Linfadenectomía pélvica y paraórtica, a lo largo de vasos iliacos, aorta y cava entre arteria mesentérica inferior y vena renal izquierda.\n\n- Apendicectomía( en tumores mucinosos)\n\nQUIMIOTERAPIA ADYUVANTE\n\nLa mayoría de pacientes con cáncer epitelial de ovario en estadios precoces recibirán quimioterapia adyuvante.\n\n-Las pacientes de bajo riesgo, estadios IA-IB grado I y una correcta cirugía de estadifica- ción, no requieren tratamiento adyuvante.\n\n-Existe aún bastante discordancia respecto a estos mismos estadios IA-IB con moderado grado de diferenciación, moderado riesgo, para los que se puede recomendar observación o quimioterapia adyuvante.\n\n-Para el grupo de alto riesgo: estadio IA-IB mal diferenciados; los estadios IC y II o cualquier estadio con histología de células claras, el alto riesgo de recidiva (20-30%) justifica el tratamiento con quimioterapia adyuvante.\n\n- Las pautas recomendadas son las mismas que se utilizan en la enfermedad avanzada, la asociación de platino (preferentemente carboplatino) y paclitaxel (3-6 ciclos)."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Con respecto a la transmisión vertical materno-infantil del virus de la inmunodeficiencia humana, ¿cuál de las siguientes respuestas es correcta?:",
+      "opciones": [
+        "El tratamiento antirretroviral durante la gestación disminuye la trasmisión del VIH al niño.",
+        "El VIH no se transmite a través de la leche materna.",
+        "El tratamiento antirretroviral al niño tras el parto está contraindicado.",
+        "Las mujeres gestantes con infección por el VIH no deben ser tratadas con antirretrovirales."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta muy fácil sobre el tema más importante de infecciosas durante los últimos años, la infección por VIH.\n\nEl VIH tiene tres formas principales de transmisión: sexual (la más frecuente), a través de la sangre y sus derivados y vertical. Dentro de la transmisión vertical la infección se puede transmitir durante el embarazo (más frecuente en el tercer trimestre), parto y mediante la lactancia (contraindicada en los países desarrollados; respuesta 2 incorrecta). El tratamiento de la embarazada con triple terapia durante la gestación y con zidovudina durante el parto así como la realización de cesárea si la carga viral es superior a 1000 copias / ml han conseguido disminuir la transmisión materno- infantil de un 20- 30% a menos de un 1% (respuesta 4 incorrecta; respuesta 1 correcta). Además el tratamiento del recién nacido con zidovudina durante las 6 primeras semanas de vida puede disminuir aún más la viremia y por lo tanto la transmisión del VIH (respuesta 3 incorrecta)."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "En relación con los cambios metabólicos que se producen a lo largo del embarazo, señale cuál de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "El calcio, fósforo, hierro y magnesio se encuentran descendidos.",
+        "Aumenta el colesterol.",
+        "En mujeres diabéticas, durante la primera mitad del embarazo, existe un aumento de las necesidades de insulina.",
+        "Aumenta la fosfatasa alcalina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre los cambios metabólicos durante el embarazo que no entraña dificultad. Durante la gestación, la mayoría de los iones se encuentran descendidos como el calcio, fósforo, hierro y magnesio (el cobre está aumentado, y el zinc no se sabe). También está aumentada la fosfatasa alcalina ya que existe síntesis placentaria, con lo que valores del doble de la normalidad (600 U/l) no deben alarmarnos. Los lípidos también están aumentados, tanto los triglicéridos como el colesterol total. El lactógeno placentario (HPL) es una de las hormonas más importantes durante el embarazo encargada de asegurar el aporte de glucosa al feto; así, es una hormona con acción diabetógena antiinsulínica. Por lo tanto, la opción falsa es la 3; recuerda que el HPL se sintetiza a los 5- 6 días postimplantación y su curva va creciendo a lo largo del embarazo hasta un pico en las semanas 34- 36. Así, al principio de la gestación habrá menos necesidades de insulina (al haber menos HPL), siendo la primera mitad del embarazo de predominio anabólico."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "¿Cuál de las siguientes sustancias es la más adecuada para el tratamiento del hirsutismo, que se asocia a los ovarios poliquísticos?:",
+      "opciones": [
+        "Clomifeno.",
+        "Acetato de ciproterona.",
+        "Corticoides.",
+        "Gonadotrofinas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es muy importante porque debes conocer perfectamente el síndrome de ovario poliquístico y sus alteraciones hormonales. Es una afección muy frecuente en que está aumentada la LH con niveles de FSH bajos o inferiores a lo normal, por lo que aumenta la relación LH/FSH (>2,5). La LH aumentada estimula la teca, produciendo más andrógenos (también hay una sobreproducción suprarrenal), que va a provocar obesidad, hirsutismo y anovulación. Para el tratamiento sintomático del hirsutismo damos anticonceptivos orales, que disminuyen la producción de esteroides suprarrenales y ováricos, reduciendo el hirsutismo en 2/3 de los pacientes. A veces se añaden antiandrógenos como la espironolactona, acetato de ciproterona, flutamida, cimetidina, finasteride...."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "En relación con la HCG placentaria, NO es verdad:",
+      "opciones": [
+        "Se demuestra en sangre materna a los diez días del pico ovulatorio.",
+        "Se alcanzan los máximos niveles a la 10-12 semana.",
+        "Empieza a decaer en el tercer trimestre.",
+        "Las concentraciones de HCG en placenta son similares a las séricas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La hCG la hormona encargada de mantener el cuerpo lúteo. Tiene una función biológica parecida a la LH. Se detecta en sangre materna tras la implantación, lo que puede emplearse para el diagnóstico de embarazo. Sus niveles aumentan a lo largo del primer trimestre alcanzando el máximo alrededor de la 10ª semana (50.000 mUI/ml), para disminuir a partir de este momento (respuesta 3 falsa). Las acciones principales de esta hormona son:\n\n- Función luteotrófica: sin duda la más importante. Mantiene el cuerpo lúteo las primeras semanas hasta que la placenta es capaz de sintetizar progesterona.\n\n- Esteroidogénesis: interviene en la síntesis de gestágenos, andrógenos (estimulación de la secreción de testosterona por el testículo fetal, y de DHEAS por la suprarrenal), así como cierta acción FSH- like a nivel del ovario fetal. También tiene una acción tirotrópica (TSH- like), lo que justifica el aumento del tamaño del tiroides durante el embarazo."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "El protocolo de cáncer de ovario NO incluye:",
+      "opciones": [
+        "Omentectomía.",
+        "Múltiples biopsias peritoneales.",
+        "Esplenectomía.",
+        "Histerectomía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El tratamiento quirúrgico del cáncer de ovario es muy extenso, y sólo tras él podemos realizar una correcta estadificación del tumor. Incluye histerectomía con doble anexectomía, linfadenectomía pélvica (iliacas comunes y externas) y paraaórtica, omentectomía y apendicectomía, lavado y aspiración de líquido peritoneal, biopsias peritoneales y biopsia de lesiones sospechosas. Por tanto, la esplenectomía queda excluida del tratamiento quirúrgico del cáncer de ovario."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "El aumento patológico de alfafetoproteína en el suero de la gestante puede asociarse a:",
+      "opciones": [
+        "Hipertiroidismo materno.",
+        "Colestasis intrahepática del embarazo",
+        "Malformaciones fetales del SN.",
+        "Incompatibilidad Rh."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre el screening bioquímico del segundo trimestre. La alfafetoproteína está elevada característicamente en madres con fetos portadores de defectos del tubo neural (opción 3 correcta), como el mielomeningocele. Conviene aclarar que, en el embarazo gemelar, el nivel de alfafetoproteína es mayor que en la gestación única (lógicamente), pero no estará en rango patológico. Recordarte que la alfafetoproteína está muy descendida en la gestante con feto con síndrome de Down, y que la podemos encontrar elevada en mujeres con un tipo de tumor de ovario germinal como el del seno endodérmico (tumor de muy mal pronóstico)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "¿Cuál de los siguientes se sintetiza fundamentalmente en la grasa periférica?:",
+      "opciones": [
+        "Estriol.",
+        "Estrona.",
+        "Sulfato de DHEA.",
+        "17-OH-Progesterona."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La estrona es el estrógeno más importante de la menopausia porque los ovarios dejan de producir estradiol. La estrona es el estrógeno que se produce en la grasa periférica. Este conocimiento nos permite explicar otras patologías como por ejemplo que la osteoporosis sea menos frecuentes en las mujeres obesas porque van a tener más cantidad de estrógenos gracias a la estrona (justamente la falta de estrógenos es lo que produce que haya un balance negativo del calcio por aumento de la reabsorción ósea)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "El síndrome de Asherman se produce por:",
+      "opciones": [
+        "Hipoplasia uterina.",
+        "Miomatosis uterina múltiple.",
+        "Legrados uterinos repetidos.",
+        "Incompetencia cervical."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Debes recordar que el síndrome de Asherman es una causa de amenorrea secundaria (falta de menstruación de más de 3 meses en una mujer que previamente ha tenido regla), que está producida por sinequias uterinas tras legrado. En el diagnóstico diferencial se presentaría como una mujer con amenorrea con prueba de embarazo negativa, TSH y PRL normales que no menstrúa ni tras el test con progesterona ni tras el test con anovulatorios orales."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "El síndrome de Rokitansky-Küster-Hauser se caracteriza por los siguientes hechos, EXCEPTO:",
+      "opciones": [
+        "gónadas normales, funcionantes y desarrollo puberal normal",
+        "Cariotipo 46, XY.",
+        "ausencia congénita parcial o total de útero.",
+        "Malformaciones renales asociadas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "SÍNDROME DE MAYER-ROKITANSKY-KUSTER-HAUSER: es la segunda causa más frecuente de amenorrea primaria.\n\nCariotipo: 46 XX.\n\nFenotipo: femenino.\n\nConsiste en la ausencia parcial o completa del desarrollo de los conductos de Müller, lo que da lugar a la ausencia congénita parcial o total de útero y/o vagina, con gónadas normales y funcionantes y desarrollo puberal normal.\n\nSe asocia a anomalías renales (30%) y/o esqueléticas (12%)."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Una paciente de 13 años acude a la Urgencia de Pediatría por dolor hipogástrico severo, que ya le había sucedido otras veces en el último año. Se evidencia una masa de 15 cm en la pelvis menor. La ecografía la describe como quística, con contenido de ecogenicidad intermedia, y no se observa útero ni ovarios. Los genitales externos son normales, así como el vello genital. Entre los labios menores se ve una zona oscurecida a tensión. ¿Qué puede ser?:",
+      "opciones": [
+        "Tabique vaginal transverso.",
+        "Sarcoma botrioide quístico.",
+        "Quiste de Gardner.",
+        "Himen imperforado."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Lo más importante de las amenorreas es conocer su diagnóstico diferencial, además debe conocer unos datos básicos de las causas más frecuentes o más características. El diagnóstico del himen imperforado se basa en la exploración genital que se debe realizar a toda niña prepúber en la primera visita al pediatra. El acúmulo menstrual retenido puede producir dolor abdominal. Cura con la incisión y evacuación del contenido vaginal."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Mujer de 68 años que comienza con clínica de aumento del diámetro abdominal desde hace 5 meses, que se acompaña de dolor en los últimos 15 días. Tras realizar las exploraciones pertinentes, se la diagnostica de cáncer de ovario de tipo cistoadenocarcinoma seroso, en estadio IIIb. Se le realiza tratamiento quirúrgico, sin dejar ningún resto tumoral. ¿Cómo completaría el tratamiento?:",
+      "opciones": [
+        "No necesita más tratamiento.",
+        "Radioterapia abdominal.",
+        "Poliquimioterapia adyuvante.",
+        "Radioterapia más quimioterapia con cisplatino."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El tratamiento del cáncer de ovario es fundamentalmente quirúrgico, independientemente del tipo histológico. La cirugía ha de ser todo lo completa que la extensión tumoral nos permita. Recuerda la excepción del tratamiento quirúrgico en caso de estadio IA, G1 en pacientes jóvenes con deseos de descendencia. Generalmente añadimos quimioterapia, salvo en casos muy favorables (IA, IB con buena o moderada diferenciación); raramente usamos radioterapia como primera línea, como sugieren la respuestas 2 y 4. La cirugía de rescate se practicaba si tras la primera cirugía no conseguíamos extirpar por completo el tumor (no, como dice en la respuesta 5, tras recidiva). Actualmente, en desuso."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Ingresa a la guardia de obstetricia una paciente de 39 años G4 P3 cursando embarazo de 34 semanas, refiere dolor abdominal y al examen físico: FCF 100 por minuto, tono uterino aumentado, dinámica uterina negativa, sangrado que comienza bruscamente oscuro. Usted piensa en:",
+      "opciones": [
+        "Placenta Previa.",
+        "Rotura uterina.",
+        "Amenaza de parto pretérmino inminente.",
+        "Desprendimiento prematuro de placenta normoinserta."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la patología del “abruptio placentae” la sangre puede salir al exterior en forma de hemorragia vaginal escasa, o es posible que quede retenida como hematoma retroplacentario. Como consecuencia del aumento del tono de miometrio para contener la hemorragia, el útero puede no relajarse completamente entre las contracciones. Existe la posibilidad de una vaga molestia en hipogastrio y de dolor a la palpación, aunque no siempre ocurre. En algunos casos, la hemorragia externa, normalmente oscura, es el único signo."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "El tumor de Krukenberg del ovario:",
+      "opciones": [
+        "Es metastático de origen pulmonar.",
+        "Es metastático de origen en vejiga.",
+        "Es metastático de origen en aparato digestivo.",
+        "Sólo se presenta pasada la menopausia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta de tumores de ovario no es muy importante, pero no está de más que sepas el tumor de Krukenberg es la metástasis ovárica de un adenocarcinoma del aparato digestivo, normalmente estómago, que se caracteriza por células repletas de moco con aspecto de anillo sello. No todo tumor prodecedente del aparato digestivo es Krukenberg ya que la denominación tiene una base estrictamente histológica."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "¿Cuál de las siguientes patologías es contraindicación absoluta para el uso de la terapia de reemplazo hormonal vía oral?",
+      "opciones": [
+        "Enfermedad hepática aguda grave",
+        "Mastopatía fibroquística avanzada",
+        "Miomatosis uterina importante",
+        "Hipertrigliceridemia familiar"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las contraindicaciones para la terapia hormonal son: cáncer hormono-dependiente (endometrio y mama), sangrado uterino anormal no diagnosticado, Insuficiencia venosa complicada, Insuficiencia hepática, litiasis vesicular, trombofilias, antecedentes de eventos tromboembólicas y dislipemias."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Una mujer de 30 años, con antecedentes de enfermedad inflamatoria pélvica, acude a Urgencias por presentar metrorragia y dolor hipogástrico desde hace unas horas, después de 7 semanas de amenorrea, hemodinámicamente estable. En la exploración se aprecia sangrado a través del orificio cervical externo, útero levemente aumentado de tamaño y engrosamiento anexial derecho. Ante la sospecha diagnóstica más probable, señale cuál de las siguientes pruebas carece de utilidad:",
+      "opciones": [
+        "Test bioquímico de gestación.",
+        "Radiografía simple de abdomen.",
+        "Ecografía ginecológica.",
+        "Laparoscopia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante la sospecha de gestación, y hasta que se determine si esto es un aborto, una amenaza de aborto o un ectópico, (que parece lo más probable), estará contraindicada la placa de abdomen."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "¿Qué patrón es más sugestivo de un síndrome de ovario poliquístico?:",
+      "opciones": [
+        "FSH 150, LH 90, estradiol 5.",
+        "FSH 25, LH 105, estradiol 435.",
+        "FSH 10, LH 35, estradiol 15.",
+        "FSH 4, LH 5, estradiol 5."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es muy importante porque debes conocer perfectamente el síndrome de ovario poliquístico y sus alteraciones hormonales. Es una afección muy frecuente en que está aumentada la LH con niveles de FSH bajos o inferiores a los normal, por lo que aumenta la relación LH/FSH. Hay un aumento leve de andrógenos, aumento de la estrona (los andrógenos circulantes son convertidos a estrona en la grasa periférica) y descenso del estradiol. La LH aumentada estimula la teca, produciendo más andrógenos (también hay una sobreproducción suprarrenal) que va a provocar obesidad, hirsutismo y anovulación. La insulina estimula la actividad aromatasa en la granulosa, convirtiendo los andrógenos de la teca en estrógenos, pero en las mujeres con SOP hay insulinresitencia lo cual contribuye al aumento de andrógenos."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Mujer de 39 años, con antecedentes obstétricos de cuatro partos por vía vaginal, que en su embarazo actual ha sido diagnosticada de preeclampsia desde la 24ª semana, que se ha controlado adecuadamente con reposo, hidratación y sedación. Actualmente está en su 37ª semana de embarazo y en los últimos días presenta cefalea frontal, dolor epigástrico y oliguria. La T.A. es de 165/105 y hay proteinuria de 2,3 g/24 horas. Indique cuál será la conducta obstétrica más adecuada:",
+      "opciones": [
+        "Terminación del embarazo inmediatamente mediante cesárea.",
+        "Indicar terminar la gestación mediante parto vaginal.",
+        "Esperar a que se desencadene el parto espontáneamente.",
+        "Esperar hasta la 40ª semana para inducir el parto."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La finalización de la gestación constituye el único tratamiento definitivo para la preeclampsia, y el tratamiento de elección ante cualquier paciente con preeclampsia a término (independientemente del grado de severidad) o en gestación pretérmino con enfermedad grave no controlable.\n\nLa vía de parto de elección es la vaginal (salvo contraindicación obstétrica)."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Gestante de 37 semanas a la que se le practica monitorización fetal no estresante con el siguiente resultado: frecuencia cardíaca fetal 135 lpm, ondulatoria normal, movimientos fetales escasos, sin ascensos en la frecuencia cardíaca y sin deceleraciones. ¿Qué actitud adoptaría?:",
+      "opciones": [
+        "Cesárea urgente.",
+        "Amnioscopia.",
+        "Amniocentesis tardía.",
+        "Prueba de Pose."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Tenemos un caso clínico en el que se nos presenta una gestante a término que mientras se le realiza un RCTG no estresante observamos una frecuencia cardiaca normal (120- 160 lat/min), con buena variabilidad (10- 25 lat/min), ausencia de deceleraciones, pero con movimientos fetales escasos y ausencia de ascensos. En resumen, es un feto con un RAF negativo, por lo que debemos indicar una prueba de Pose (opción correcta la 5) o RCTG Estresante, y en función de su resultado se valoraría terminar la gestación (opciones 1 y 2) o no. La amniocentesis tardía no estaría indicada ya que es un feto a término con lo que se supone que sus pulmones tienen madurez. La amnioscopia (opción 3) nos podría plantear dudas, pero no es la opción correcta ya que se debe realizar por norma en todas las gestantes a término, independientemente del RAF en el RCTG."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "¿Cuál NO es un mecanismo de acción de los anticonceptivos a base de estrógenos y progesterona?:",
+      "opciones": [
+        "Suprimen los factores hipotalámicos liberadores de gonodotropinas",
+        "Evita la ovulación al suprimir liberación de LH",
+        "Evitan la secreción de moco cervical",
+        "Promueven que el endometrio sea poco favorable a la implantación"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los anticonceptivos hormonales a base de estrógeno y un progestágeno, disminuyen la GnRH, ya que producen un feedback negativo que inhibe la liberación hipotalámica de GnRH, impidiendo el pico ovulatorio de LH, ya que anulan la secreción pulsátil de GnRH, responsable del pico preovulatorio de LH. En el ovario inhiben la ovulación, puesto que no se ha producido el pico preovulatorio de LH. Cambian la capacitación espermática, espesan el moco cervical y alteran el medio vaginal. Varían la contracción uterina, dificultando el transporte de los espermatozoides."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "La aparición de un patrón de desaceleración variable o Dip III en la monitorización tocográfica de una embarazada es indicativo de:",
+      "opciones": [
+        "Compresión del cordón umbilical.",
+        "Enfermedad hemolítica perinatal.",
+        "Rotura uterina.",
+        "Sufrimiento fetal grave."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una pregunta muy importante sobre los tipos de deceleraciones. Conceptualmente, una deceleración es un desecenso de la línea de base de más de 15 lpm, durante más de 15- 20 segundos. Las deceleraciones NO deben estar presentes en condiciones normales. No obstante, el significado de cada tipo de deceleración es absolutamente distinto. Debes conocer tres:\n\n- Deceleraciones precoces (DIPS tipo I): Aparecen a la vez que la contracción uterina. Son las más frecuentes. Suelen deberse a la estimulación vagal, por compresión de la cabeza fetal.\n\n- Deceleraciones tardias (DIPS tipo II): Existe un decalaje de unos 20 segundos entre la contracción uterina y la deceleración (ver imagen). Orientan a acidosis fetal (peor pronóstico). Si ves DIPS tipo II, debes realizar una microtoma fetal para medir el pH.\n\n- Deceleraciones variables (DIPS umbilicales): Son inconstantes en morfología y sincronía. Sugieren patología de cordón, y el pronóstico es intermedio entre las I y II (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "En una paciente con tumoración ovárica, ascitis y derrame pleural, ¿cómo se denomina este cuadro?:",
+      "opciones": [
+        "Síndrome de Kallman.",
+        "Síndrome de Asherman.",
+        "Síndrome de Meigs.",
+        "Síndrome de Morris."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta no tiene mucha relevancia, pero hay ciertos síndromes con nombre propio que nos deben sonar. El cuadro que nos describen: tumoración ovárica, ascitis y derrame pleural se denomina síndrome de Meigs y su causa más frecuente es el fibroma. Los otros cuatro síndromes son causa de amenorrea. En el síndrome de Morris, conocido también como síndrome de feminización testicular o pseudohermafroditismo masculino, hay una insensibilidad a los andrógenos por déficit de sus receptores. Son individuos 46 XY con testículos no descendidos aunque bien conformados (con riesgo de disgerminoma) y fenotipo femenino. El síndrome de Asherman es la amenorrea secundaria a bridas tras legrado. En el síndrome de Kallman hay anosmia e hipogonadismo hipogonadotropo. El síndrome de Sheehan consiste en amenorrea postparto por infarto hipofisario."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Una prueba de POSE o de la oxitocina se considera positiva cuando:",
+      "opciones": [
+        "Aparecen desaceleraciones tardías o variables graves en menos del 30% de las contracciones.",
+        "Ante cualquier contracción aparece una desaceleración.",
+        "Aparición de desaceleraciones precoces con todas las contracciones.",
+        "Aparición de desaceleraciones tardías en el 30% de las contracciones o desaceleraciones variables graves con todas las contracciones."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre la monitorización fetal estresante que puede entrañar dificultad si no sabemos los rangos de normalidad. Recuerda que la prueba de Pose o de tolerancia a la oxitocina la realizamos cuando en la MFNE vemos un RAF negativo. La prueba de Pose es positiva o patológica cuando, tras conseguir 10 contracciones en el registro, aparecen tres o más deceleraciones tardías o dips II (o >30% de dips II en el registro). Por lo tanto, la opción correcta es la 4. Te recordamos que será negativa si no aparecen dips II o aparecen menos de 2 en 10 contracciones (<20% de dips II en el registro)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Una mujer de 29 años consulta por una secreción vaginal anormal con mal olor, irritación local, prurito con la ropa ajustada. NPS 4, G2 A1 P1. En la exploración se observa una abundante secreción blanco-grisácea, que no se adhiere a las paredes vaginales. Al mezclar una muestra de la secreción con una gota de hidróxido potásico al 10% se aprecia claramente el mal olor referido. ¿Cuál de los siguientes es el tratamiento de elección?",
+      "opciones": [
+        "Amoxicilina con ácido clavulánico por vía oral.",
+        "Clotrimazol por vía intravaginal.",
+        "Clindamicina por vía intravaginal.",
+        "Fluconazol por vía oral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La paciente presenta un cuadro clásico de vaginosis bacteriana, reciben tratamiento toda paciente sintomática, los recomendados sería: Metronidazol 2 gr VO dosis única o Clindamicina crema 2%, aplicador completo (5g) intravaginal cada 24 horas durante 7 días."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Una de las siguientes NO es complicación frecuente del abruptio:",
+      "opciones": [
+        "CID.",
+        "Insuficiencia renal.",
+        "Síndrome de Sheehan.",
+        "Pielonefritis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Como complicaciones del abruptio, se han descrito todas las respuestas, excepto la pielonefritis (opción 5). Las más frecuentes son la CID y la insuficiencia renal. La CID también se presenta en abortos diferidos y la patogenia es similar en ambos casos: liberación y paso de tromboplastinas fetales a circulación materna. El tratamiento consiste en una adecuada reposición de factores de coagulación y fibrinógeno, al mismo tiempo procedemos a la evacuación inmediata del útero, mediante la realización de una cesárea. El shock y el síndrome de Sheehan son complicaciones más raras y se deben a una atonía uterina secundaria a un útero de Couvelaire."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Mujer de 44 años de edad, con antecedentes de dos embarazos normales y ningún dato patológico destacable en su historia ginecológica. Acude a la consulta para revisión refiriendo que ha sido controlada en medicina interna para descartar un cáncer de colon no poliposo hereditario (síndrome de Lynch tipo II). Esta paciente tiene un elevado riesgo de padecer un cáncer de colon a lo largo de su vida, pero también tiene un mayor riesgo de padecer otros tipos de neoplasias. Señale cuál de los siguientes cánceres ginecológicos es el que implica un mayor riesgo de presentación en esta paciente:",
+      "opciones": [
+        "Cáncer de mama.",
+        "Cáncer de vulva.",
+        "Cáncer de endometrio.",
+        "Cáncer de cuello uterino."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cuando se diagnostique un cáncer de endometrio en una mujer con una edad inferior a los 50 años se deberá considerar la posibilidad de que la paciente sea portadora de un síndrome de predisposición familiar al cáncer como el síndrome de Lynch."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Todas las siguientes pacientes pueden tomar anovulatorios, EXCEPTO:",
+      "opciones": [
+        "37 años.",
+        "32 años, fumadora de 15 cig /d desde hace 10 años.",
+        "36 años, fumadora de 15 cig/d desde hace 10 años",
+        "16 años, nuligesta."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los anticonceptivos hormonales combinados no deben ser usados, es decir, están contraindicados en las siguientes situaciones:\n\n. Lactancia materna en las primeras 6 semanas.\n\n. Tabaquismo de más de 15 cigarrillos/día en mayores de 35 años.\n\n. Obesidad >40 IMC.\n\n. Múltiples factores de riesgo cardiovascular (edad, tabaco, diabetes, hipertensión, perímetro cintura >88 cm.)\n\n. Hipertensión arterial no controlada: sistólica mayor de 160 mm Hg o diastólica mayor de 100 mm Hg.\n\n. Antecedentes personales de trombosis venosa profunda (TEV) o embolismo pulmonar (EP). TEV/EP actual.\n\n. Cirugía mayor con inmovilidad prolongada. Ante la realización de tratamientos quirúrgicos que lleven asociados periodos de inmovilización se ha de suspender el uso de AHC cuatro semanas antes de la misma.\n\n. Trombofilia familiar diagnosticada: situaciones en las que existen mutaciones de genes con carácter trombogénico.\n\n. Cardiopatía isquémica. Ictus isquémico.\n\n. Valvulopatía complicada con hipertensión pulmonar, fibrilación auricular, historia de endocarditis o prótesis metálicas.\n\n. Diabetes Mellitus de más de 20 años de evolución o asociada con vasculopatía, neuropatía o nefropatía.\n\n. Cefaleas migrañosas con aura. Migraña sin aura en mayores de 35 años.\n\n. Historia actual de cáncer de mama (últimos 5 años).\n\n. Hepatitis viral activa. Cirrosis descompensada. Adenoma hepático o hepatocarcinoma."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Mujer de 59 años que acude a realizarse la mamografía del programa de screening de cáncer de mama. Se observa un nódulo de dos cm de diámetro, con bordes espiculados y con microcalcificaciones agrupadas en su interior. La anatomía patológica de la BAG confirma que se trata de un carcinoma infiltrante tipo no especial (NST/NOS), con receptores hormonales negativos, Her2 neu negativo. Se realiza PAAF de una adenopatía axilar con resultado de negativo para malignidad. Tras realizar tumorectomía de mama con B.I.O. que confirma un carcinoma infiltrante de 2,3cm con márgenes negativos para malignidad y 2 ganglios centinela positivos para metástasis. Indique cómo completaría el tratamiento:",
+      "opciones": [
+        "Radioterapia, hormonoterapia y quimioterapia.",
+        "Mastectomía con linfadenectomía y quimioterapia",
+        "Quimioterapia seguida de radioterapia.",
+        "Linfadenectomía axilar nivel I y II de Berg , quimioterapia y finalmente radioterapia"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Está claro que la mujer precisará radioterapia, como siempre que realizamos una resección conservadora.\n\nPor otra parte, ante la afectación del ganglio centinela la intervención debe completarse con linfadenectomía axilar.\n\nTambién es necesario administrar quimioterapia, ya que existen ganglios linfáticos con invasión tumoral y se trata de un tumor triple negativo.\n\nSin embargo, dada la negatividad para receptores hormonales en el tumor, no podemos tratar con hormonoterapia.Y lo mismo con trastuzumab debido a ser un tumor her2 negativo."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Una paciente de 23 años que cursa embarazo de 24 semanas, 1(G2P1), acude al control prenatal con los siguientes resultados de estudios complementarios: hematocrito: 34%, hemoglobina: 12 g/dl, plaquetas: 180.000 mm3, leucocitos: 10.500 mm3, urocultivo: negativo, serología para toxoplasmosis IgG negativa, serología para chagas negativa, VDRL positivo 2 dils. ¿Cuál es la conducta más adecuada?",
+      "opciones": [
+        "Tratamiento con Penicilina G cristalina durante 10 días debido al diagnóstico de sífilis materna y al tiempo de embarazo",
+        "Tratamiento con Penicilina benzatínica 2.400.000 semanal (3 dosis) por el diagnóstico de sífilis materna",
+        "Descartar el diagnóstico de sífilis materna ya que puede tratarse de un valor falso positivo de VDRL debido al estado gravídico",
+        "Solicitar anticuerpos treponémicos para confirmar el diagnóstico de sífilis materna"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La serología para sífilis es obligatoria en el primer trimestre. Se realizarán pruebas no treponémicas y si, éstas resultan positivas, se harán pruebas treponémicas. Si son positivas, se procederá con el tratamiento con penicilina lo más precoz posible, ya que, si se realiza antes de la semana 16, evita la sífilis congénita."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "El síndrome de feminización testicular de Morris se caracteriza por todo lo siguiente EXCEPTO:",
+      "opciones": [
+        "Cromosoma XO.",
+        "Amenorrea primaria.",
+        "Ausencia de vello axilar y pubiano",
+        "Niveles de testosterona similar a los varones, con fenotipo femenino."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "SÍNDROME DE FEMINIZACIÓN TESTICULAR (Síndrome de Morris): se caracteriza por una insensibilidad completa del órgano diana a los andrógenos. Se trata de una adolescente con cariotipo 46 XY, que posee testículo normofuncionante con secreción de testosterona en cantidades normales que se metaboliza a estrógenos y estos son los responsables del desarrollo mamario en estas pacientes.\n\nLa secreción de factor inhibidor mülleriano (MIF) es la responsable de la ausencia de útero y vagina. Se debe practicar gonadectomía una vez completado el desarrollo puberal."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "La causa más frecuente de amenorrea secundaria es:",
+      "opciones": [
+        "Amenorrea de origen central.",
+        "Síndrome del ovario poliquístico.",
+        "Hipotiroidismo.",
+        "Hiperprolactinemia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El síndrome del ovario poliquístico (SOP) es la endocrinopatía más frecuente de las mujeres en edad reproductiva, con una incidencia del 6 al 21% en población no seleccionada, representando la forma más común de anovulación crónica. Descrito por Stein y Leventhal.\n\nUn concepto cada vez más extendido es que cuando nos encontramos ante un cuadro de anovulación o disovulación crónica estaremos casi siempre ante un SOP siempre que no se demuestre lo contrario, es decir siempre que se excluyan otras patologías que cursen con alteraciones menstruales, hiperandrogenismo clínico o bioquímico y/o ovario multi/polifolicular."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Son signos de hipoxia perinatal todos, EXCEPTO:",
+      "opciones": [
+        "FC baja.",
+        "ph <7,20.",
+        "Dips tipo I.",
+        "Líquido amniótico teñido de meconio."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta fácil sobre la monitorización fetal intraparto. En esta pregunta se nos muestran distintos signos de sufrimiento fetal intraparto. La bradicardia fetal es uno de los signos más importantes de sufrimiento fetal, al igual que la taquicardia. Una disminución de la variabilidad nos hace pensar en una hipoxia, en una hipoglucemia o fármacos depresores del SNC.\n\nUna microtoma de sangre fetal menor de 7,20 indica acidosis fetal moderada- grave, por lo que existe sufrimiento fetal. Cuando existe LA meconial, debemos sospechar la existencia de sufrimiento fetal, y por ello deberemos realizar microtoma de sangre fetal que será la que nos confirme si existe o no dicho sufrimiento. Lo que no indica sufrimiento fetal son los dips de tipoI, que son debidos a estímulos del parasimpático fetal, sobretodo por compresión de la cabeza fetal en las últimas fases del parto."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "La mejor herramienta para el diagnóstico del desprendimiento prematura de la placenta normalmente inserta es:",
+      "opciones": [
+        "El ultrasonido",
+        "La monitoría fetal electrónica",
+        "La resonancia nuclear magnética",
+        "El cuadro clínico"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En esta patología obstétrica prima la clínica para realizar el diagnóstico. El ultrasonido no ha mostrado un buen rendimiento diagnóstico y teniendo en cuenta las características de la presentación y la necesidad de tomar decisiones rápidamente, es necesario tener una buena aproximación clínica para realizar el diagnóstico."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "¿Cuál de estos factores maternos NO incluiría como posible favorecedor de la placenta previa?:",
+      "opciones": [
+        "Multiparidad.",
+        "Cesáreas anteriores y cirugías uterinas.",
+        "Antecedentes de mola hidatídica.",
+        "Placenta previa anterior."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Entre los factores favorecedores de placenta previa encontramos el embarazo múltiple y el tabaquismo ya que en estos casos las placentas son hipertróficas y por tanto existe mayor riesgo de que sea previa. La paridad y la edad materna también la favorecen junto a la existencia de cicatrices uterinas ya sean por cesáreas anteriores o por otras intervenciones."
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "materia": "ginecologia",
+  "paginaInicio": 58,
+  "paginaFin": 76,
+  "anomalias": [
+    "p59: la pregunta sobre enfermedad pélvica inflamatoria tiene 4 opciones, pero el comentario cita 'respuesta 5 correcta' para Neisseria/Chlamydia y 'respuesta 3 correcta' para la promiscuidad, que no figura entre las opciones; la numeración del comentario no corresponde a las opciones listadas",
+    "p60: 'Se considera el patrón de reactividad...' tiene Resp. Correcta 4 pero el comentario afirma 'la opción 5 es la que debemos escoger' y solo hay 4 opciones",
+    "p64: '¿Qué valores de pH intraparto se consideran normales?' el comentario menciona 'Por encima de 7,45 (opciones 1 y 5)' cuando solo hay 4 opciones",
+    "p66: el comentario dice 'se puede tratar de una mola hidatidiforme completa parcial (MHP)', descripción contradictoria (completa y parcial a la vez)",
+    "p67: el comentario de 'Respecto a la fisiología del embarazo' arranca con 'Existe un del flujo plasmático renal', falta la palabra 'aumento' en el original",
+    "p70: '¿Cuál de los siguientes le hace pensar en existencia de sufrimiento fetal?' tiene Resp. Correcta 4 pero el comentario dice 'la opción a escoger es la 5, el LA meconial'; además comenta 'La variabilidad de 20 lpm es normal' sin que exista tal opción",
+    "p71: 'Dentro de las funciones de la placenta, NO se incluye' tiene Resp. Correcta 4 pero el comentario cierra con '(respuesta 5 falsa)' y solo hay 4 opciones",
+    "p72: 'Indique la respuesta INCORRECTA sobre la microtoma de sangre fetal' tiene Resp. Correcta 4 pero el comentario dice 'por tanto la respuesta 5 es la incorrecta' y numera las opciones desfasadas respecto a las 4 listadas",
+    "p76: el comentario incluye una tabla de 'Criterios de evaluacón preterapéutica' que se linealizó como lista de ítems separados por saltos de párrafo"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 58,
+      "enunciado": "Señale la afirmación ERRÓNEA sobre el oncogén C-erb B2 (Her-2-neu). Señale cuál:",
+      "opciones": [
+        "Las pacientes con cánceres que lo sobreexpresan pueden ser tratadas con trastuzumab.",
+        "Los cánceres de mama en los que se sobreexpresa tienen mejor pronóstico.",
+        "Los tumores que sobreexpresan Her 2 se benefician de la adición de Trastuzumab y Pertuzumab a la quimioterapia neoadyuvante con un porcentaje de respuesta completas de >60 %",
+        "La sobreexpresión de Her 2 se considera un factor de respuesta a la quimioterapia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El protooncogén HER2/neu, que codifica un receptor del factor de creci- miento transmembrana, está sobreexpresado en el 15-25 % de los cánceres invasivos y por encima del 80 % en los cánceres no invasivos, y su producto es homólogo con el EGFR.\n\nLa presencia de sobreexpresión o amplificación de HER2 constituye un factor pronóstico desfavorable en ausencia de tratamiento específico."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Paciente de 23 años con embarazo de 30 semanas, en el control prenatal se encuentra TA de 140/90 en la primera toma y 135/85 en la segunda toma. Se encuentra totalmente asintomática y el exámen físico y obstétrico es normal. El diagnóstico mas adecuado sería:",
+      "opciones": [
+        "Preeclampsia",
+        "Hipertensión gestacional",
+        "Hipertensión transitoria",
+        "Hipertensión crónica mas preeclampsia sobreagregada"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La hipertensión gestacional está definida como la hipertensión que se desarrolla por primera vez después de la semana 20 de gestación con TA mayor o igual a 140/90."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "¿Cuál es el tratamiento de elección para la prevención de recurrencia de convulsiones para una paciente que presenta Eclampsia?",
+      "opciones": [
+        "Fenitoina",
+        "Coctel lítico",
+        "Sulfato de Magnesio",
+        "Diazepam"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Anticonvulsivantes: el tratamiento de elección en la profilaxis y el tratamiento de las convulsiones es el sulfato de magnesio. Es un fármaco que disminuye la excitabilidad del sistema nervioso central y es un buen anticonvulsivante. Además, tiene una ligera acción hipotensora. Su acción se produce por disminución de la secreción de acetilcolina a nivel de la unión neuromuscular y al mismo tiempo, reduce la sensibilidad de la placa motora a la acetilcolina. Su vía de administración es endovenosa. Su principal problema es el estrecho margen tóxico-terapéutico por lo que se deberán controlar los signos desintoxicación materna."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la enfermedad pélvica inflamatoria es INCORRECTA?:",
+      "opciones": [
+        "La mayoría de las veces se origina por vía ascendente.",
+        "Para el diagnóstico es imprescindible la toma de cultivo por laparoscopia.",
+        "Puede tener como secuela la esterilidad.",
+        "Los gérmenes causantes de la enfermedad más frecuentes son la Neisseria gonorrhoeae y la Chlamydia trachomatis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La enfermedad inflamatoria pélvica (EIP) es una infección de útero, trompas y ovarios, de origen bacteriano, que alcanza estas regiones por vía ascendente (respuesta 1 correcta). La causa más frecuente es Chlamydia trachomatis, seguida por Neisseria gonorrhoeae (respuesta 5 correcta). Obviamente, para padecer esta enfermedad, la promiscuidad es un factor de riesgo muy importante (respuesta 3 correcta).\n\nClínicamente, se caracteriza por un dolor abdominal bajo, habitualmente bilateral, con leucorrea acompañante. Otros síntomas sistémicos, como fiebre, náuseas y/o vómitos, indican inflamación peritoneal y una afectación clínica más grave. A largo plazo, puede producir alteraciones tubáricas, con fibrosis y retracción, y secundariamente esterilidad (respuesta 4 correcta). Otra complicación, menos grave pero más frecuente, sería el dolor pélvico crónico.\n\nEl diagnóstico de EIP es fundamentalmente clínico (dolor abdominal bajo + leucorrea, con o sin fiebre). La laparoscopia es, sin duda, el método diagnóstico más seguro, pero sólo se hace en casos muy puntuales (dudas importantes, diagnóstico diferencial con otras patologías), dado que es un método caro y complejo (respuesta 2 falsa).\n\nEl tratamiento ideal es prevenir la transmisión de ETS. Una vez instaurado el cuadro, pautaríamos antibioterapia dirigida a los microorganismos más implicados (ceftriaxona + doxiciclina, por ejemplo)."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Ante una secundigesta de 32.4 semanas de amenorrea, con una cesárea anterior hace 2 años por presentación podálica, que acude a urgencias de Obstetricia por sangrado genital en cantidad similar a regla , señale en cual de las siguientes entidades sería menos probable la afectación del bienestar fetal.",
+      "opciones": [
+        "Placenta previa",
+        "DPPNI",
+        "Rotura uterina",
+        "Rotura de vasos previos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síntoma característico de la placenta previa es la hemorragia indolora de sangre roja brillante (60%) y de intensidad variable. Los episodios de sangrado pueden repetirse e ir intensificándose según avanza la gestación. Los episodios de sangrado no se suelen acompañar de signos de pérdida del bienestar fetal a no ser que la hemorragia sea tan copiosa que cause un shock hipovolémico en la gestante y por ello afecte al volumen . La rotura de vasos previos, se caracteriza por la aparición de la hemorragia justo tras la rotura de las membranas y que afecta rápidamente al feto. La frecuencia de rotura uterina durante el embarazo es muy baja. El antecedente de una operación anterior sobre el útero (cesárea, miomectomía), el cuadro de abdomen agudo, la palpación superficial de las partes fetales, el cuadro de shock, inclinarán el diagnóstico hacia la rotura uterina."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "La dismenorrea suele ceder con la administración de:",
+      "opciones": [
+        "Citrato de piperacina",
+        "Valerianato de estradiol",
+        "Gestrinona",
+        "Anticonceptivos hormonales orales"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los anticonceptivos hormonales, regulan el ciclo menstrual, por lo que resultan útiles en el manejo de las hemorragias disfuncionales. Entre otros beneficios también disminuyen el sangrado menstrual, en el tratamiento de menorragias e hipermenorreas funcionales, disminuyendo la incidencia de anemia ferropénica de origen ginecológico. Mejoran la dismenorrea y el dolor periovulatorio. En algunas mujeres pueden resultar eficaces para el síndrome premenstrual al aliviar algunos de sus síntomas."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Se considera el patrón de reactividad en la monitorización fetal no estresante cuando se cumplen todos los siguientes requisitos, EXCEPTO uno. Indique cuál:",
+      "opciones": [
+        "Línea de base de la FCF entre 120 y 160 latidos por minuto.",
+        "Variabilidad superior a 10 latidos.",
+        "Dos o más ascensos transitorios en el registro.",
+        "Aparición de un ritmo saltatorio."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre la reactividad fetal y el registro cardiotocográfico que te habrá resultado fácil. Los parámetros para definir un RAF positivo (reactividad fetal normal) son una frecuencia cardiaca normal (entre 120 y 160 lpm), variabilidad normal (de 10 a 25 lpm), presencia de dos o más ascensos transitorios en 20 minutos, movimientos fetales registrados al menos cinco veces.\n\nEn cambio, un ritmo saltatorio (variabilidad de >25 lpm) significa buena respuesta fetal ante una situación estresante no muy intensa como una hipoxia leve, hipovolemia o la fiebre materna, por lo tanto, la opción 5 es la que debemos escoger. El ritmo saltatorio es de pronóstico intermedio y, gracias a estas variaciones, el feto adapta su volumen sistólico a las necesidades de cada momento."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Como causas de la amenorrea de origen hipotálamo-hipofisario, incluiríamos todas EXCEPTO:",
+      "opciones": [
+        "Hiperprolactinemia farmacológica",
+        "Anorexia nerviosa.",
+        "Síndrome de Asherman",
+        "Antecedentes de radioterapia por tumores no hipofisarios."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Amenorrea Hipotalámica\n\n-Funcional (AHF): se clasifica como hipogonadismo hipogonadotropo y es debida a la alteración de la pulsatilidad de la GnRH. El 20-30% de las amenorreas secundarias y el 3% de las primarias son debidas a la AHF. Se asocia a malnutrición, ejercicio físico intenso, estrés emocional severo y patologías crónicas.\n\nAdemás:\n\n-cualquier masa o lesión de la silla turca puede causar una amenorrea.\n\n-Cualquier proceso infiltrante o infeccioso puede infiltrar la hipófisis y originar un hipogonadismo hipogonadotropo.\n\n-Causas genéticas: - Hipogonadismo hipogonadotropo idiopático (HHI) o la Hiperplasia suprarrenal congénita (HSC).\n\n-Causas yatrogénicas: hiperprolactinemia farmacológica, los opioides...\n\n- Radioterapia: Es una de las causas más frecuentes de hipopituitarismo. En las pacientes que reciben radioterapia por tumores no hipofisarios.\n\nEl sindrome de Asherman es una amenorrea de causa genital (no de origen central) y es debida a sinequias en la cavidad uterina."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "La hemorragia postparto (HPP) es la causa aislada más importante de mortalidad materna. La mitad de las HPP son ocurren en las primeras 24 horas posparto. Señale la afirmación INCORRECTA en su manejo:",
+      "opciones": [
+        "La oxitocina IV es un fármaco de mayor efectividad que el misoprostol a dosis de 800 µg por vía rectal",
+        "La atonía uterina es la causa más frecuente de HPP precoz.",
+        "Es imprescindible, realizar bajo anestesia una revisión sistemática del canal blando del parto.",
+        "Se recomienda la utilización de cristaloides (suero salino fisiológico o Ringer lactato)"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El misoprostol a dosis de 800 µg por vía rectal es un fármaco de mayor efectividad que la oxitocina."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "¿Cuál de las siguientes lesiones histológicas de mama incrementa el riesgo de afectación bilateral ?:",
+      "opciones": [
+        "Carcinoma infiltrante tipo no especial",
+        "Carcinoma lobulillar infiltrante.",
+        "Carcinoma ductal in situ.",
+        "Enfermedad de Paget de mama."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El carcinoma lobulillar infiltrante de mama son con gran frecuencia multifocales y multicéntricos y su presencia incrementa también el riesgo de afectación bilateral sincrónica o metacrónica.\n\nSuelen expresar receptores hormonales y ser HER 2 negativos"
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "¿Cuál de las siguientes NO es una forma de presentación del cáncer de mama?:",
+      "opciones": [
+        "Eccema de areola-pezón.",
+        "Microcalcificaciones en mamografía.",
+        "Inflamación generalizada de la mama.",
+        "Nódulo con imagen mamográfica de calcificación semilunar o en \"cáscara de huevo\"."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Como dice la opción 2, las microcalcificaciones, sobre todo si están agrupadas y con características peculiares (amorfas, pleomórficas, lineales y ramificadas) pueden ser la manifestación de un carcinoma de mama.\n\nLa enfermedad de Paget de la mama constituye una forma especial de neoplasia de mama que se caracteriza por la presencia de las células de Paget en la epidermis del complejo areola - pezón.\n\nEn un 25% de los casos la sintomatología es ulceración, prurito, eccema y dolor. Suele ser lesión unilateral.\n\nEl carcinoma inflamatorio de la mama (cT4d) debe incluir edema inflamación e induración de piel en al menos ¾ partes de la mama, debido a la presencia de émbolos tumorales en los linfáticos dérmicos. Puede ir asociado o no a masa subyacente.\n\nLa opción 4 es incorrecta porque la calcificación en cascara de huevo refleja la calcificación de la pared de un quiste oleoso o necrosis grasa secundaria a un traumatismo o cirugía previa."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Es un signo clínico de inminencia de ruptura uterina:",
+      "opciones": [
+        "Dolor abdominal severo",
+        "Sangrado vaginal",
+        "Patron ominoso en la monitoría fetal",
+        "Todos los anteriores"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Todos los signos anotados se observan en un cuadro de inminencia de ruptura uterina. Un antecedente importante que casi siempre está presente es la presencia de una cicatriz uterina previa. Son signos clásicos de una ruptura ya instaurada la desaparición del dolor de manera abrupta y el ascenso de la presentación fetal."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "La causa más frecuente de mortalidad por cáncer en las mujeres es:",
+      "opciones": [
+        "Carcinoma de colon.",
+        "Cáncer de mama.",
+        "Cáncer de ovario.",
+        "Cáncer de pulmón."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El cáncer de mama es la neoplasia más frecuente de la mujer, así como la causa más frecuente de mortalidad por cáncer"
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Cuál de las siguientes aseveraciones respecto al carcinoma in situ de mama es incorrecta:",
+      "opciones": [
+        "El CLIS tiene una multicentricidad del 90% y bilateralidad 70%. Aparece predominantemente en mujeres premenopáusicas, de entre los 40-50 años.",
+        "Alrededor del 25% de los CLIS evolucionarán a carcinoma invasor en los 20 años posteriores, siendo el carcinoma ductal invasor el más frecuente,",
+        "Se desaconseja el tratamiento con tamoxifeno en casos de CDIS con receptores hormonales positivos.",
+        "El signo radiológico típico del CDIS son microcalcificaciones lineales que siguen un conducto"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El TMX durante 5 años reduce el riesgo de recidiva local ipsilateral tanto de carcinoma in-filtrante como no infiltrante. También reduce el riesgo de carcinoma contralateral. Este beneficio sólo se ha demostrado en pacientes receptores hormonales positivos.\n\nDebido a que el TMX no mejora la supervivencia global, dicha decisión debe tomarse conjuntamente con la paciente valorando los riesgos/ beneficios."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "¿Qué valores de pH intraparto se consideran normales?:",
+      "opciones": [
+        "Por encima de 7,45.",
+        "Entre 7,25 y 7,45.",
+        "Entre 7,20 y 7,25.",
+        "Por debajo de 7,20."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta muy fácil sobre la microtoma de sangre fetal intraparto. Esta pregunta requiere que hayas memorizado los valores de la pHmetría fetal. La opción correcta es la 2, ya que los valores normales oscilan entre 7,25 y 7,45. Los valores de la opción 3 (7,20- 7,25) son prepatológicos, porque indican que existe preacidosis (acidosis leve) y deberemos repetir la toma en 15- 30 minutos. Por encima de 7,45 (opciones 1 y 5) indican alcalosis fetal, con lo que serán patológicos. Por debajo de 7,20 es patológico ya que existe al menos una acidosis moderada, y deberemos finalizar la gestación de forma inmediata."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Paciente de 16 años con menarquía a los 12. Presenta sangrado vaginal escaso a moderado, que dura 7 días y ciclos de 18 días, no refiere cantidad aumentada ¿Cómo se denomina a esta alteración menstrual?",
+      "opciones": [
+        "Polimenorrea",
+        "Amenorrea",
+        "Oligomenorrea",
+        "Dismenorrea"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En cuánto a la clasificación de las hemorragias uterinas recordemos que existen las 1. No cíclicas: cuando el sangrado es independiente de la regla. Se llama metrorragia. y cíclicas: si el sangrado es cíclico, pueden ser: 1. Hipermenorrea o menorragia: pérdidas en una cantidad superior a 180 ml o de duración de más de siete días, o ambas que ocurren con intervalos regulares. Y 2. Polimenorrea: la menstruación sucede con intervalos más frecuentes (intervalos en la regla de menos de 21 días), pero normal en cantidad y duración."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Señale, de los que a continuación se refieren, cuál es el oncogén implicado en la patogénesis del cáncer de mama que se utiliza actualmente como una diana terapéutica mediante un anticuerpo monoclonal específico frente a este oncogén:",
+      "opciones": [
+        "ERBB2 ó HER-2.",
+        "ATM.",
+        "K-RAS.",
+        "APC."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La sobrexpresión de Her 2 se observa en el 10- 15% de los cánceres de mama. Los pacientes cuyos tumores sobreexpresan Her 2 tienen una supervivencia libre de enfermedad más corta y un peor pronóstico comparado con los pacientes cuyos tumores no sobreexpresan Her 2.\n\nEl Trastuzumab es un anticuerpo monoclonal humanizado de administración parenteral, que se une y bloquea selectivamente al receptor Her 2 que se sobreexpresa en la superficie celular de células cancerosas de cáncer de mama. Cuando el Trastuzumab se une al Her 2 inhibe la proliferación celular tumoral.\n\nEl descubrimiento de este fármaco ha supuesto un punto de inflexión en el pronóstico de estas pacientes, ya que incrementa su supervivencia libre de enfermedad y su supervivencia global"
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "El cáncer femenino mas frecuente en Colombia es:",
+      "opciones": [
+        "Cáncer de cérvix uterino",
+        "Cáncer de endometrio",
+        "Cáncer de mama",
+        "Cáncer de ovario"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cáncer femenino que mas se presenta en nuestro país es el cáncer de mama seguido por el cáncer de cérvix uterino, son mucho menos frecuentes los de endometrio y ovario"
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Señale, entre los siguientes elementos, cuál sería de utilidad para establecer el estadiaje TNM del carcinoma invasor de cuello uterino:",
+      "opciones": [
+        "Metrorragia.",
+        "Dolor pélvico.",
+        "Pérdida de peso.",
+        "Afectación de los parametrios."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Recuerda la importancia de la afectación de los parametrios en los cánceres de cervix. El estadio II A tiene afectados los 2/3 superiores de la vagina sin afectar a los parametrios. Esto hace que sea susceptible de ser tratado mediante la intervención de Werthein- Meigs. Sin embargo, la afectación de los parametrios, nos pone directamente en un estadio II B que es susceptible de tratamiento con radioterapia."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Paciente con 17 años y amenorrea primaria. Vulva y cariotipo normales. Pensará en:",
+      "opciones": [
+        "Síndrome de Turner",
+        "Hipertiroidismo",
+        "Síndrome de Rokitansky.",
+        "Síndrome de Morris"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante un cariotipo normal debemos descartar el Turner y el síndrome de Morris (pues el cariotipo es 46 XY fenotípicamente mujer por el defecto que existe en los receptores de los andrógenos).\n\nEl síndrome de Rokitansky es la segunda causa más frecuente de amenorrea primaria. Consiste en la ausencia parcial o completa del desarrollo de los conductos de Muller, lo que da lugar a la ausencia congénita parcial o total de útero y/o vagina, con gónadas normales y funcionantes y desarrollo puberal normal. Se asocia a anomalías renales (30%) y/o esqueléticas (12%)."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "Mujer de 17 años, gestante sin control Obstétrico y amenorrea de 11+2 semanas, consulta por metrorragia en cantidad mayor que una menstruación, de 24 horas de evolución. A la exploración se objetiva sangrado procedente de cavidad, de cantidad mayor que una menstruación, y en la ecografía se objetiva una vesícula gestacional sin embrión, la inserción placentaria está muy engrosada y de aspecto quístico. ¿Qué actitud debemos tomar?:",
+      "opciones": [
+        "Realizar legrado con legra cortante.",
+        "Actitud expectante con reposo y abstinencia de relaciones sexuales.",
+        "Dilatación cervical y legrado por aspiración.",
+        "Histerectomía total."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En este caso de metrorragia del I trimestre, recuerda que la Ecografía transvaginal es la técnica de elección y con la que suele realizar el diagnóstico de sospecha de la enfermedad trofoblástica gestacional.\n\nEs una técnica indispensable para confirmar la presencia o ausencia de embrión.\n\nSin embargo, el aspecto quístico de la placenta, ausencia de partes embrionarias o saco gestacional deformado pueden ser signos de una gestación molar.\n\nEn este caso por tanto se puede tratar de una mola hidatidiforme completa parcial (MHP).\n\nLa clásica “tormenta de nieve” de la MH completa puede no verse durante el primer trimestre.\n\nRecuerda :La presencia de quistes teca-luteínicos en los ovarios puede aparecer hasta en un 50% de las pacientes por lo que es un signo para tener en cuenta en la ecografía inicial.\n\nTRATAMIENTO\n\nAnte la sospecha de enfermedad trofoblástica gestacional como primer paso para la confirmación diagnóstica y el tratamiento del proceso, se procederá a la EVACUACIÓN UTERINA mediante dilatación cervical y legrado por aspiración.\n\nSe realizará preferiblemente bajo control ecográfico, y se completará con legra cortante del mayor tamaño posible al final de la intervención.\n\nNo se recomienda administrar prostagladinas por vía vaginal, así como evitar fármacos uterotónicos, antes de la evacuación uterina.\n\nÉstos se administrarán una vez realizada la dilatación cervical e iniciado el legrado."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Respecto a la fisiología del embarazo, señale cuál de las siguientes afirmaciones es INCORRECTA:",
+      "opciones": [
+        "Existe un aumento del flujo plasmático renal y del filtrado glomerular.",
+        "Existe una ligera hiperventilación y alcalosis respiratoria.",
+        "El mecanismo fundamental de la anemia en el embarazo es el aumento en las necesidades de hierro.",
+        "El eje del corazón está ligeramente desviado hacia la izquierda."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre las adaptaciones materna al embarazo. Existe un del flujo plasmático renal gracias al HPL y también del filtrado glomerular en un 40%. Existe un aumento de la ventilación pulmonar sobretodo a expensas del aumento del volumen circulante, lo cual conduce a una alcalosis respiratoria. El aumento de la capacidad abdominal hace que se eleve el diafragma, y el eje del corazón se desvía a la izquierda. El aumento del volumen plasmático es responsable del descenso de las proteínas plasmáticas (aunque su síntesis pueda estar aumentada). Durante el embarazo aumenta la eritropoyesis y las necesidades del hierro, pero es el aumento del volumen plasmático el mecanismo fundamental de la anemia en el embarazo, ya que el plasma aumenta en mayor proporción que la masa erotrocitaria."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Paciente de 32 años, obesa (talla 160 cm, peso 102 kg), con antecedentes de un aborto espontáneo hace tres años y diagnosticada de síndrome de ovario poliquístico. Actualmente lleva dos años de búsqueda de embarazo sin éxito. ¿Cuál sería su primera recomendación para alcanzar dicho objetivo?",
+      "opciones": [
+        "Fecundación in vitro.",
+        "Inseminación artificial intraconyugal (IAC).",
+        "Metfonnina.",
+        "Pérdida de peso."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el síndrome de ovarios poliquísticos (SOP), uno de los factores etiopatogénicos principales es la resistencia insulínica. Esta resistencia es agravada por la obesidad, por lo que la pérdida de peso es una de las principales armas disponibles frente a esta patología. La metformina también está encaminada a luchar contra este problema, pero el papel de este fármaco debe considerarse útil en adyuvancia a la dieta y ejercicio, pero no como tratamiento principal.\n\nLa pérdida de peso tratará de disminuir la resistencia insulínica, siendo menor el hiperinsulinismo. Esta medida no sólo será beneficiosa para conseguir la ovulación, sino también desde el punto de vista cardiovascular, ya que un alto porcentaje de estas mujeres padecen el llamado síndrome X. Recuerda que este síndrome está muy ligado al hiperinsulinismo y se asocia a la obesidad, HTA, hipertrigliceridemia, DM tipo II, hipercoagulabilidad, etc."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Mujer de 32 años, quién inicia con leucorrea de 2 meses de evolución, color amarillento y olor fétido, acompañada de prurito vulvar, ardor urinario, irritación y enrojecimiento genital, coito doloroso y dispaurenia interna; los síntomas se exacerbaban después de la menstruación. A la especuloscopia, se observó eritema vulvovaginal “en empedrado” y el exocérvix con hemorragias subepiteliales puntiformes. ¿Cuál de los siguientes medicamentos es el más adecuado para el tratamiento de la paciente?",
+      "opciones": [
+        "Metronidazol",
+        "Fluconazol",
+        "Amoxicilina",
+        "Penicilina"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento de elección es metronidazol. Pueden utilizarse pautas cortas por su fácil cumplimiento, aunque también es posible que sean pautas de siete días, si bien no suele aplicarse como tratamiento inicial y se reserva para aquellos casos en que el tratamiento en dosis única no ha resultado eficaz. Al tratarse de una infección de transmisión sexual, es importante el tratamiento de la pareja sistemáticamente para evitar recidivas. Debe evitarse el consumo de alcohol por su efecto antabús."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Corresponde a los beneficios de DIU hormonal que contiene levonorgestrel:",
+      "opciones": [
+        "Bajo riesgo de cáncer de ovario.",
+        "Reduce el riesgo de un embarazo ectópico",
+        "Reduce el riesgo de cáncer endometrial.",
+        "Reduce las molestias premenstruales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los DIU liberadores de levonorgestrel (LNG) ejercen además un efecto sobre el endometrio, lo que lo hace hostil a la migración de los espermatozoides, por lo que dificulta la fertilización. Esta acción se ve reforzada por la producción de un moco cervical de características gestagénicas, barrera impenetrable para los espermatozoides. Se puede insertar a partir de las seis semanas tras el parto, ya que no afecta a la cantidad ni a la calidad de la leche materna y no ocasiona efectos negativos sobre el recién nacido. En el 20% de las mujeres, la regla desaparece por completo, lo que no entraña ningún riesgo para la mujer. Este DIU, a diferencia de los otros, permite un aumento de los niveles de hemoglobina y ferritina, reduce el riesgo de enfermedad inflamatoria pélvica y disminuye el riesgo de embarazo ectópico respecto a otros dispositivos. También reduce la incidencia de miomas y mejora la dismenorrea."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "Paciente con embarazo de 39 semanas, ingresa en trabajo de parto en fase latente, con bienestar fetal y exámen físico y obstétrico normales. Revisando los paraclínicos del control prenatal usted encuentra un reporte de cultivo vaginal y rectal para Streptococo del grupo B tomado hace 3 semanas, el cual el positivo. ¿Qué manejo se le debe dar a la paciente?",
+      "opciones": [
+        "Terminar la gestación por cesárea",
+        "Penicilina cristalina 5´000.000 UI dosis única",
+        "Clindamicina 600 mg iv cada 6 horas",
+        "Ampicilina 2 gr IV y continuar 1 gr cada 4 horas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La profilaxis antibiótica con ampicilina ayuda a prevenir la sepsis neonatal y está indicada en las pacientes asintomáticas con cultivo postivo o en las que no conociendo el cultivo tienen factores de riesgo como RPM, prematuridad, historia previa de sepsis neonatal por Streptococo, inmunodeficiencia, fiebre sin otra causa durante el trabajo de parto, entre otras."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "¿Cuál de los siguientes factores NO es un factor de riesgo para desprendimiento prematuro de placenta normalmente inserta?:",
+      "opciones": [
+        "Hipertensión arterial crónica.",
+        "Nuliparidad.",
+        "Hipofibrinogenemia congénita.",
+        "Presencia del anticoagulante lúpico en sangre."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las hemorragias del tercer trimestre son un capítulo importante, dentro del bloque de Obstetricia. Esta pregunta podría considerarse de dificultad media- baja, al ser directa y sobre un tema habitual.\n\nLa etiología del abrutio placentae (desprendimiento prematuro de la placenta normalmente inserta) es poco conocida, pero se ha asociado con los siguientes factores:\n\n- Multiparidad. Es más frecuente en multíparas que en nulíparas (respuesta 2 correcta).\n\n- Edad. Es más frecuente en mayores de 35 años.\n\n- Enfermedad vascular. La preeclampsia predispone claramente a esta complicación, sobre todo cuando existe enfermedad vasculorrenal subyacente (diabéticas, nefrópatas, hipertensas).\n\n- Traumatismos: A veces, se asocia a un traumatismo o al antecedente de amniocentesis. También se ha relacionado con la rápida reducción del tamaño uterino al romperse la bolsa amniótica en un polihidramnios.\n\n- Déficit de ácido fólico.\n\n- Tabaquismo, alcohol, cocaína.\n\n- Hipofibrinogenemia congénita."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "¿Cuál de los siguientes le hace pensar en existencia de sufrimiento fetal?:",
+      "opciones": [
+        "pH en sangre fetal de 7,30.",
+        "FCF 150 lpm.",
+        "Dips I no mantenidos.",
+        "Meconio en líquido amniótico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre el sufrimiento fetal de las fáciles. La pHmetría menor de 7,20 significa acidosis fetal, y por tanto es sufrimiento fetal. La FCF de 150 es normal, y para ser patológica debe ser >160 ó <120 lpm. Los dips I no implican mal pronóstico, sobretodo si no son mantenidos; si fueran mantenidos nos obligarían a realizar microtoma fetal. La variabilidad de 20 lpm es normal (10- 25 lpm es normal). Por descarte, la opción a escoger es la 5, el LA meconial. Decir que el meconio nos induce a pensar que existe sufrimiento fetal, pero aclarar que no siempre que haya sufrimiento fetal habrá meconio. También decir que no siempre que haya meconio quiere decir que haya sufrimiento fetal (pero sí nos hace pensar en él), porque por ejemplo en las presentaciones podálicas es mucho más frecuente el meconio y no hay sufrimiento fetal."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Una mujer embarazada de 12 semanas consulta por intensas náuseas y vómitos. En sus dos embarazos previos también padeció estos síntomas, pero de intensidad mucho menor. Por otra parte, últimamente duerme menos horas (aunque no por ello está más cansada) y ha perdido algo de peso, aunque la ingesta no ha disminuido; incluso tiene más hambre que de costumbre. En la exploración se objetiva un útero mayor que el que corresponde al tiempo de amenorrea. Sobre la enfermedad que sospecha, señale la respuesta FALSA:",
+      "opciones": [
+        "Sería esperable encontrar niveles elevados de beta-HCG.",
+        "En algunos casos, se producen quistes tecaluteínicos en el ovario, que regresan espontáneamente con el tratamiento de la enfermedad.",
+        "Es característico de esta patología el desarrollo de diabetes gestacional.",
+        "El riesgo de hipertensión es claramente superior al de un embarazo normal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El aumento del tamaño uterino superior a la época de gestación aparece por encima del 50% en las pacientes con mola completa. Estas pacientes pueden presentar hemorragia vaginal o expulsión de vesículas molares.\n\nPueden aparecer complicaciones médicas como hipertensión, hipertiroidismo, anemia e hiperemesis, que se observan con más frecuencia entre las pacientes con mola completa.\n\nAproximadamente el 15-25% de las pacientes con mola completa pueden tener quistes teca-luteínicos con ovarios agrandados por encima de 6 cms.\n\nRecuerda :\n\nLa ecografía compone la prueba diagnóstica de elección, en la cual veremos la típica imagen en \"copos de nieve\".\n\nLa aspiración previa dilatación es el método de elección para la evacuación de las molas gestacionales."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Dentro de las funciones de la placenta, NO se incluye:",
+      "opciones": [
+        "Barrera física al paso de determinadas sustancias.",
+        "Síntesis hormonal, para mantener la gestación y favorecer el crecimiento y desarrollo fetal.",
+        "Transporte por pinocitosis de moléculas de gran tamaño, como fosfolípidos o lipoproteínas.",
+        "Síntesis de inmunoglobulinas, que serán útiles como defensa del neonato."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Una pregunta bastante sencilla que no debería haberte planteado problema alguno. La placenta permite el paso de determinadas inmunoglobulinas a su través (IgG, únicamente), pero no participa en modo alguno en su síntesis, tarea que está reservada a los linfocitos B y células plasmáticas (respuesta 5 falsa)."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Las pacientes con síndrome de ovarios poliquísticos presentan un aumento de riesgo a largo plazo para los siguientes procesos, EXCEPTO:",
+      "opciones": [
+        "Diabetes mellitus tipo 2.",
+        "Hipertensión arterial.",
+        "Osteopenia.",
+        "Dislipemia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se estima que un 50-60% de las mujeres con SOP serán obesas.\n\nLa obesidad, por sí misma, constituye un factor de mal pronóstico en todos los aspectos relacionados con el SOP.\n\nLas alteraciones menstruales son hasta cuatro veces más frecuentes y también los signos y síntomas asociados al hiperandrogenismo serán más perceptibles. Todo ello estará agravado si el incremento de la grasa corporal tiene una distribución predominantemente centrípeta, troncular o androide. En estos casos la prevalencia de síndrome metabólico (dislipemia, hipertensión, intolerancia a la glucosa o diabetes tipo II) y enfermedad cardiovascular es de 3 a 5 veces superior a la de la población no afecta."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "Indique la respuesta INCORRECTA sobre la microtoma de sangre fetal:",
+      "opciones": [
+        "La muestra de sangre se obtiene a través del cérvix mediante una pequeña incisión en el cuero cabelludo del feto.",
+        "El pH fetal tiene valor pronóstico sobre el estado del recién nacido.",
+        "La diferencia de pH materno fetal en caso de feto no hipóxico es de 0,10-0,15 unidades de pH.",
+        "Cuando el pH se encuentra en valor prepatológico (7,15-7,25) se debe tratar a la madre con bicarbonato y repetir la toma a los 15-20 minutos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre la microtoma de sangre fetal bastante fácil. La microtoma se obtiene realizando una pequeña incisión en el cuero cabelludo del feto (respuesta 1 correcta) y, acto seguido, nos informan del valor del pH, siendo normal entre 7,25 y 7,45 (respuesta 2 correcta) ; prepatológico entre 7,20 y 7,25 (por tanto la respuesta 5 es la incorrecta), y patológico si es menor de 7,20.\n\nEl resto de opciones son correctas: la acidosis materna puede hacernos variar el valor del pH fetal, y habría que tenerlo en cuenta para los valores prepatológicos (respuesta 4 correcta). El enunciado de la opción 3 también es cierto, pues el pH fetal es una muestra objetiva del estado del feto; de ahí que se utilice como criterio para tomar determinadas decisiones (por ejemplo, extracción fetal inmediata cuando es inferior a 7.20)."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "Respecto a las acciones a realizar durante la asistencia prenatal a un embarazo normal, señale la afirmación incorrecta:",
+      "opciones": [
+        "La primera consulta prenatal debe realizarse en el curso de las primeras 12 semanas de gestación, idealmente antes de la 10ªsemana.",
+        "Se desaconseja la realización de citología de triple toma.",
+        "Se desaconseja el cribado rutinario universal de Enfermedad de Chagas.",
+        "Actualmente no hay datos suficientes para recomendar un cribado rutinario de vitamina D a todas las embarazadas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se debe realizar una Citología triple toma si no la tiene realizada según protocolo local de cribado del cáncer de cérvix (pero en general se recomienda realizarla si no realizada en dos años previos).\n\nEnfermedad de Chagas (Trypanosoma Cruzi): Valorar el estado de inmunidad en la pri- mera analítica de embarazo a:\n\n- mujeres de origen latinoamericano (excepto islas del Caribe)\n\n- mujeres cuya madre sea de origen latinoamericano (excepto islas del Caribe)\n\n- mujeres que hayan vivido más de un mes en países latinoamericanos (excepto islas del Caribe)\n\nVirus Zika: Valorar el estado de inmunidad en la primera analítica del embarazo a:\n\n- mujeres que provienen de un área endémica activa de virus Zika (durante el embarazo dos meses previos)\n\n- mujeres que han viajado a un área endémica activa de virus Zika (durante el embarazo o dos meses previos)\n\n- mujeres que hayan mantenido relaciones sexuales desprotegidas con una pareja procedente o que haya viajado a área endémica activa de Zika en los últimos 6 meses"
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "Ante una paciente de 28 años con un índice de masa corporal (IMC>30), baches amenorreicos, acné, hirsutismo y esterilidad de 2 años de evolución, cabría pensar en:",
+      "opciones": [
+        "Hipotiroidismo.",
+        "Fallo ovárico precoz.",
+        "Síndrome del ovario poliquístico.",
+        "Amenorrea hipogonadotropa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los datos de la historia clínica constituyen un pilar básico del diagnóstico del SOP.\n\nDe hecho, la simple asociación de alteraciones menstruales, junto al hirsutismo que podrá acompañarse de acné y/o seborrea, se considera suficiente.\n\nPor lo tanto, las pruebas complementarias sólo serán necesarias para descartar otras causas de disovulación o hiperandrogenismo."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Mujer de 30 años acude por hipermenorrea de un año de evolución, además de cansancio fácil, dentro de los antecedentes de importancia, refiere que es usuaria de anticonceptivos orales combinados. ¿Qué diagnóstico es el más probable?",
+      "opciones": [
+        "Síndrome de ovario poliquístico",
+        "Endometriosis pélvica",
+        "Hiperplasia endometrial",
+        "Miomatosis uterina"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los miomas son los tumores más frecuentes del aparato genital femenino. Alrededor de un 50-80% de los miomas son asintomáticos, por lo que supone un hallazgo casual en la exploración ginecológica o en una ecografía. Los casos sintomáticos, la clínica es variable en función del tamaño, de la localización y del número de miomas, puede ocasionar hemorragias uterinas: son las debidas a miomas submucosos aunque los miomas intramurales también pueden producir metrorragia. Suelen provocar un aumento en la cantidad y de la duración de la menstruación (menorragia)."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Mujer de 28 años G2 P1, embarazo de 31 SDG con actividad uterina regular cada 30min. En el examen ginecológico el cuello uterino se encuentra centralizado, borrado en 70%, con 3 cm de dilatación. De acuerdo al diagnóstico presuntivo, ¿cuál es la conducta más adecuada a seguir?",
+      "opciones": [
+        "Cita a control obstétrico habitual e indica pautas de alarma porque las contracciones en ese tiempo gestacional son normales",
+        "Úteros inhibidores, reposo y cita a la paciente en 48 horas",
+        "Hospitalizar, reposo, administración de líquidos, nueva evaluación en 2 horas",
+        "Hospitalizar, útero inhibición, administración de corticoides y penicilina para profilaxis Streptococcus grupo B (SGB)"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tratamiento de la amenaza de parto prematuro se basa en la eliminación de las contracciones (tocólisis) y en la aceleración de la madurez pulmonar fetal mediante corticoterapia. El tratamiento tocolítico estará indicado en pacientes con APP a partir de las 24 semanas hasta las 34 semanas. A partir de esta edad gestacional, dado que el feto será pulmonarmente maduro, no se instaurará tratamiento tocolítico y se dejará evolucionar el parto. Si se produce rotura prematura de membranas se añadirá tratamiento antibiótico."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "Mujer de 35 años que acude por amenorrea secundaria. El test de embarazo en orina es negativo y en el estudio hormonal destacan elevados niveles de FSH. Esto es compatible con:",
+      "opciones": [
+        "Síndrome de Rokitansky.",
+        "Insuficiencia Ovárica Primaria (IOP)",
+        "Anorexia nerviosa.",
+        "Tumor ovárico secretor de estrógenos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es importante conocer el diagnóstico diferencial de las amenorreas.\n\nLo primero, es realizar una prueba de embarazo.\n\nINSUFICIENCIA OVÁRICA PRIMARIA (IOP)\n\nEl fallo ovárico prematuro (FOP) se ha definido como “aquella condición caracterizada por la presencia de amenorrea primaria, o al menos 4 meses de amenorrea secundaria, hipoestrogenismo y niveles de gonadotropinas superiores a 40 mIU/mL, confirmados en dos ocasiones con al menos 1 mes de intervalo, en mujeres por debajo de 40 años de edad” ."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "Mujer de 55 años, hipertensa y diabética con IMC > 30. Acude a consulta de ginecología por sangrado vaginal de varios días de evolución tras 5 años de amenorrea. La línea endometrial medida por ecografía es de 10 mm. La biopsia tomada por histeroscopia informa de hiperplasia de endometrio compleja atípica. ¿Cuál es la mejor opción terapéutica?:",
+      "opciones": [
+        "Histerectomía total con salpingooforectomía bilateral.",
+        "Análogos de la GnRH.",
+        "Resección endometrial por histeroscopia.",
+        "Gestágenos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos presentan una hiperplasia endometrial que, según el estudio histológico, merece ser clasificada como atípica. Si no existiesen atipias, la probabilidad de desarrollar un cáncer de endometrio sería únicamente de un 2%. Sin embargo, cuando éstas aparecen (sean simples o complejas), el porcentaje de malignización alcanza casi un 25%. Por tanto, ante una hiperplasia atípica, la indicación de histerectomía es indiscutible.\n\nPor otra parte, nos hablan de una paciente de 55 años postmenopáusica. En consecuencia, la histerectomía debe asociar anexectomía bilateral (esto también le evitará el riesgo de padecer más tarde un cáncer de ovario)."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "La causa mas frecuente de hemorragia postparto es:",
+      "opciones": [
+        "Atonía uterina",
+        "Retención de restos placentarios",
+        "Lesiones del canal del parto",
+        "Coagulopatías"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La causa mas frecuente de hemorragia postparto es la atonía uterina, representa el 50% de las causas. La falta de contracción del miometrio dificulta la constricción vascular y la formación local de trombos sanguineos."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "Los factores pronósticos condicionan la evolución en el cáncer de cuello uterino. ¿Cuál de estos NO sería importante para la valoración preterapéutica del tumor?:",
+      "opciones": [
+        "Profundidad de invasión del estroma cervical",
+        "Afectación del parametrio",
+        "Invasión del espacio linfovascular",
+        "Estudio del genotipo de VPH"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Valoración preterapéutica de factores pronósticos del Cáncer de Cuello Uterino.\n\nUna correcta valoración preterapéutica permite seleccionar las pacientes candidatas a tratamiento quirúrgico o a tratamiento radio-quimioterápico; y, en este último caso, adecuar los volúmenes de irradiación en función del nivel de afectación ganglionar detectado.\n\nCriterios de evaluacón preterapéutica\n\nAfectación ganglionar\n\nTamaño tumoral\n\nInvasión del espacio linfovascular (ILV)\n\nProfundidad de invasión del estroma cervical\n\nAfectación del tejido paracervical (parametrio)\n\nPresencia de enfermedad a distancia\n\nEn función de esta evaluación preterapéutica, y en relación al tumor primario (tamaño y extensión local), se establece una primera orientación terapéutica.\n\nValoración postquirúrgica\n\nEl estudio anatomopatológico de la pieza quirúrgica permite establecer definitivamente la presencia de criterios de mal pronóstico. En función de éstos se considera el riesgo de recidiva y la indicación de tratamiento adyuvante."
+    }
+  ]
+}

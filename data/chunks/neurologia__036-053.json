@@ -1,0 +1,505 @@
+{
+  "materia": "neurologia",
+  "paginaInicio": 36,
+  "paginaFin": 53,
+  "anomalias": [
+    "p39 vs p46: la pregunta de p39 da como Resp. Correcta 1 'La secundaria a un traumatismo' para la causa más frecuente de hemorragia subaracnoidea, mientras que la pregunta de p46 (comentario en p47) afirma 'La causa más frecuente de HSA es el aneurisma cerebral en un 70-90%'. Las dos preguntas del mismo documento se contradicen entre sí",
+    "p49: el comentario de la pregunta del agujero de salida del nervio vago afirma que el X par 'nace a nivel pontino'; el núcleo del vago está en el bulbo, no en la protuberancia. El mismo comentario sitúa la salida del VII par por el agujero estilomastoideo 'en el CAI', mezclando dos referencias anatómicas distintas",
+    "p42: el comentario de la pregunta sobre las crisis generalizadas tónico-clónicas menciona 'La carbamacepina o el fenobarbital' como posiblemente útiles, pero la carbamacepina no figura entre las cuatro opciones ofrecidas",
+    "p41: la explicación de la pregunta sobre el nivel del neuroeje contiene una lista de niveles de pares craneales que se ha linealizado con saltos de línea dentro del párrafo"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 36,
+      "enunciado": "Al servicio de Urgencias es traído un paciente con status epiléptico generalizado. ¿Qué tratamiento sería el indicado en primer lugar?:",
+      "opciones": [
+        "Diacepam y fenitoína intravenosos.",
+        "Loracepam y valproico intravenosos.",
+        "Diacepam vía rectal y fenitoína oral.",
+        "Carbamacepina y valproico vía oral."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta acerca del tratamiento del status epiléptico. El tratamiento del status se realiza con diacepam iv (se utiliza para \"parar\" la crisis que el paciente está presentando en ese momento) y fenitoina intravenosa (se utiliza para que cuando el diacepam deje de hacer efecto el paciente no comience a convulsionar nuevamente). Recordamos que los únicos medicamentos antiepilépticos que se comercializan en forma intravenosa son algunas benzodiacepinas, la fenitoina y el ácido valproico."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Una madre describe a su hija de 5 años como \"inteligente\", aunque en ocasiones tienen \"lapsos\" durante los que \"no está aquí\" y \"deja de hacer lo que la tenía ocupada en ese momento\". ¿Cuál es el diagnóstico más probable?:",
+      "opciones": [
+        "Crisis de gran mal.",
+        "Crisis de petit mal.",
+        "Crisis parciales simples",
+        "Crisis conversivas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta en forma de caso clínico que nos presenta a una niña de 5 años con episodios bruscos de desconexión del medio con alteración del nivel de conciencia. Descartamos las crisis parciales simples (conservan el nivel de conciencia), descartamos las crisis de gran mal o tónico- clónicas y las mioclónicas (se acompañan de movimientos). ¿Nadie habrá contestado crisis conversivas? Lo que esta niña presenta son crisis de ausencias o petit mal. Son crisis generalizadas que aparecen en al infancia y se caracterizan por ser frecuentes a lo largo del día, de corta duración, pueden presentar automatismos, no se acompañan de confusión posterior y el paciente presenta amnesia del episodio. Tienen muy buena respuesta el tratamiento."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "¿Cual de los siguientes scaracterísticas sería menos probable encontrar en el diagnóstico de hipertensión intracraneal idiopática?",
+      "opciones": [
+        "Cefalea que mejora con el decúbito y empeora en la bipedestación",
+        "Parálisis VI par bilateral",
+        "Más frecuente en mujeres",
+        "Naúseas y vómitos"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los síntomas más frecuentemente asociados a la hipertensión intracraneal idiopática son la cefalea, naúseas, vómitos y visión borrosa. En caso extremos de afectación la hipertensión intracraneal puede cursar con parálisis oculomotora siendo el VI par el más frecuentemente afectado. Con respecto a la epidemiología es más frecuente en mujeres que en hombres.\n\nLa cefalea típica de la hipertensión intracraneal empeora con el decúbito y los esfuerzos (por aumento de la presión intracraneal; mejorando levemente en la bipedestación. Por ende la respuesta a sería la respuesta correcta"
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Una paciente aparece días después de un tce con exoftalmos pulsátil. Se objetiva un soplo audible a la auscultación ocular, además de una quemosis conjuntival. ¿cuál es el diagnóstico de sospecha?",
+      "opciones": [
+        "Fístula carótido cavernosa postraumática",
+        "Síndrome post TCE",
+        "Fístula de LCR por fractura de base de cráneo",
+        "Síndrome de Tolosa Hunt postraumática"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La fístula carótido cavernosa cursa con clínica de exoftalmos frecuentemente unilateral y pulsátil. Un soplo audible a la auscultación ocular y puede cursar con alteración de VI par craneal sobretodo, pero también de V1, V2, IV y III par (pares craneales localizados en seno cavernoso). Se diagnostica por arteriografía y se trata mediante embolización"
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "¿De entre las siguientes entidades diagnósticas cuál debería de ser su primera opción ante un paciente de 18 años, con antecedentes familiares de un cuadro neurológico que no saben precisar muy bien, que es remitido para su valoración, por un cuadro de inestabilidad progresiva, que le ha producido múltiples caídas, y en cuya exploración encuentra ausencia de reflejos en extremidades, pero con RCP extensores bilaterales?",
+      "opciones": [
+        "Ataxia Friedreich",
+        "Esclerosis Lateral Amiotrófica familiar",
+        "Ataxia espino-cerebelosa",
+        "Enfermedad de Creutzfeldt- Jakob familiar"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Como deberías sospechar por la curiosa exploración, se trata de una Ataxia Friedreich, la cual es una enfermedad con herencia autosómica recesiva, debido a una expansión del triplete GAA en el cromosoma 9, y que cursa con un debut en la adolescencia consistente en ataxia progresiva de la marcha debido a degeneración de vías cerebelosas y propioceptivas, y en la exploración una hiporreflexia asociada a signo de Babinski. Suele producir afectación de otros sistemas, produciendo cardiopatía hipertrófica, diabetes mellitus y pies cavos entre otros."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Paciente de 63 años que acude a consulta porque ha sufrido un episodio de debilidad facial derecha, que se recuperó espontáneamente a las 16 horas y 10 días después de un cuadro de pérdida de fuerza en hemicuerpo izquierdo que tardó en normalizarse cerca de 20 horas. Señale cuál de las siguientes opciones, acerca de la orientación diagnóstica de este paciente, considera INCORRECTA:",
+      "opciones": [
+        "Si se ve una lesión grave de carótida interna o bifurcación, se debe hacer arteriografía para determinar con más precisión la necesidad de intervención quirúrgica.",
+        "Se debe practicar una TC craneal para hacer diagnóstico diferencial con lesiones ocupantes de espacio como neoplasias, hematomas o malformaciones vasculares.",
+        "En la TC se puede observar un pequeño infarto cerebral, aunque la clínica sea de AIT.",
+        "La arteriografía de elección en este caso, al presentar clínica el paciente de territorio carotídeo, es de dos vasos: ambas carótidas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Este paciente ha presentado dos accidentes isquémicos transitorios en probable relación con aterotrombosis de la arteria carótida derecha. El Eco-Doppler es el procedimiento de elección para la valoración inicial de la ateroesclerosis de troncos supraaórticos pero la prueba de elección (gold standard) para evaluar la patología carotídea es la arteriografía. No obstante, no es necesario valorar ambas carótidas, si no que es suficiente con el estudio del origen de la carótida afecta y la bifurcación carotídea, que son los lugares de mayor incidencia de aterotrombosis (respuesta 4 falsa)."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "¿Cuál de los siguientes factores de riesgo vascular está más ligado a la patología cerebrovascular?",
+      "opciones": [
+        "La hipertensión arterial.",
+        "El consumo de tabaco.",
+        "La vida sedentaria.",
+        "La diabetes mellitus."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hipertensión arterial es el principal factor de riesgo cardiovascular, y el que con mayor frecuencia se liga a la patología cerebrovascular."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Cuál es la causa más frecuente de hemorragia subaracnoidea?",
+      "opciones": [
+        "La secundaria a un traumatismo",
+        "La espontánea por ruptura aneurismática",
+        "La espontánea perimesencefálica",
+        "La espontánea por ruptura de vasos fenestrados"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La causa más frecuente de hemorragia subaracnoidea es la traumática"
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "La artritis reumatoide presenta, como asociaciones más habituales a nivel de columna cervical, la luxación atloaxoidea y una de las siguientes patologías:",
+      "opciones": [
+        "Retrocollis.",
+        "Impresión basilar.",
+        "Os odontoideum.",
+        "Espina bífida."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta complicada acerca de la patología raquimedular en la que debes recordar que el tema más preguntado es el manejo del dolor lumbar agudo. La impresión basilar (opción 2 correcta) es la malformación más frecuente de la charnela occipitocervical y la segunda anomalía cervical asociada a artritis reumatoide, consistente en el descenso de la base craneal respecto al límite superior de la apófisis odontoides."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Respecto a las neuropatías inflamatorias, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Su naturaleza inmunológica hace que se afecten tanto los nervios sensitivos como motores, la clínica será siempre sensitivomotora.",
+        "Son de gran importancia por ser tratables.",
+        "Se producen por el ataque inmunológico a algún componente del sistema nervioso periférico (mielina, perineuro, axones, vasos sanguíneos,..)",
+        "El tratamiento del síndrome de Guillain –Barré es una urgencia neurológica y puede hacerse con inmunoglobulinas intravenosas o plasmaféresis pues la eficacia de ambas es similar"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta a\n\nSu condición de entidades tratables, hace que el diagnostico de las neuropatias inflamatorias sea muy importante, además requieren tratamientos complejos por lo que el diagnóstico debe ser lo más exacto posible. Pueden se sensitivas (p.e CIDP sensitiva), motoras (neuropatía motora multifocal con bloqueos de conducción) o sensitivomotoras (síndrome de Guillain Barre o CIDP clásica). El mecanismo es el ataque inmunológico a un componente del nervio o de la neurona sensitiva."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Mujer de 40 años remitida para estudio por presentar desde hace un año dificultad para conciliar el sueño, que relaciona con sensación desagradable e incómoda en miembros inferiores que nota en reposo en la cama. Refiere mejoría al mover las piernas, teniendo que levantarse con frecuencia de la cama para conseguir alivio de los síntomas. Respecto al síndrome que presenta la paciente, señale la opción incorrecta:",
+      "opciones": [
+        "Para el diagnóstico es necesario valorar el índice de movimientos periódicos de las extremidades mediante una polisomnografía nocturna.",
+        "La fisiopatología involucra factores como el genético, la regulación dopaminérgica en el SNC y el déficit de hierro.",
+        "Se recomienda tratar a los pacientes con síntomas moderados o severos con fármacos agonistas dopaminérgicos.",
+        "La prevalencia anual en la población pediátrica es de hasta un 4%."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El diagnóstico del síndrome de piernas inquietas es clínico: presencia de una necesidad imperiosa de mover las piernas, por una sensación desagradable en las mismas. Los síntomas aparecen y se agravan en situaciones de inactividad y desaparecen o mejoran con el movimiento o el estiramiento. Existe un claro ritmo circadiano, apareciendo o empeorando los síntomas especialmente al anochecer. Entre los criterios de apoyo diagnóstico, se encuentra el síndrome de movimientos periódicos de piernas durante el sueño, aunque no es imprescindible su coexistencia ni la realización de una polisomnografía para el diagnóstico."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Un paciente de 79 años consulta porque la familia refiere que en los últimos meses ha experimentado importante deterioro de su capacidad cognitiva, encontrándole cada vez más “lento” y torpe, de modo que ha presentado varias caídas en el último mes, casi siempre hacia atrás. Al examen se aprecia clara rigidez axial en brazo izquierdo y ambas piernas, así como bradicinesia en mano izquierda. No se aprecia temblor de reposo ni en relación con el movimiento. El paciente tiene limitada la infraversión y la inhibición de las sacadas reflejas. Recibió inicialmente un diagnóstico de enfermedad de Parkinson por su médico de Atención Primaria que le inició levodopa con escasa respuesta. Respecto al diagnóstico que presenta el paciente, es CIERTO que:",
+      "opciones": [
+        "El cuadro parece corresponder al debut de una enfermedad de Parkinson por lo que asociará a la levodopa agonistas dopaminérgicos.",
+        "El cuadro que padece tiene un pronóstico similar al Parkinson idiopático.",
+        "Solicitaría TC dada la sospecha de hidrocefalia crónica del adulto.",
+        "El cuadro sugiere como primera posibilidad el diagnóstico de parálisis supranuclear progresiva."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se presenta el cuadro típico de parálisis supranuclear progresiva, con un parkinsonismo atípico (sin temblor y mala respuesta a levodopa), deterioro cognitivo precoz y alteraciones óculomotoras típicas. El cuadro tiene una evolución peor que la enfermedad de Parkinson y responde escasamente a los antiparkinsonianos. La hidrocefalia del adulto cursa con una triada de Hakim. No es típico el deterioro cognitivo precoz en la atrofia multisistémica."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Mujer de 76 años con antecedentes personales de tabaquismo, hipertensión arterial, miocardiopatía hipertrófica, EPOC e insuficiencia venosa crónica. Atendida en urgencias por un cuadro agudo de afasia, parálisis facial central derecha y hemiparesia braquiocrural derecha, con evidencia de oclusión de arteria cerebral media izquierda en estudio de neuroimagen, por lo que se trata con fibrinólisis intravenosa y trombectomía mecánica. Pasadas 4 horas de la intervención, la paciente presenta mejoría quedando sólo una leve paresia del brazo derecho. Una hora más tarde presenta empeoramiento con disminución del nivel de conciencia, desviación oculocefálica a la derecha, parálisis facial central izquierda, hemiparesia e hipoestesia braquiocrural izquierdas, con reflejo cutáneo-plantar izquierdo extensor. ¿Cuál es la causa más probable del empeoramiento de la paciente?",
+      "opciones": [
+        "Transformación hemorrágica del ictus isquémico hemisférico izquierdo",
+        "Ictus isquémico secundario a oclusión de la arteria basilar",
+        "Ictus isquémico secundario a oclusión de arteria cerebral media derecha",
+        "Crisis focal sintomática secundaria a ictus isquémico"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta complicada en la que es necesario que razonemos cada una de las respuestas. Respecto a una posible transformación hemorrágica, podría ser, pero no cuadra con la clínica de la paciente (déficit hemisférico derecho), en todo caso debería presentar un empeoramiento del déficit hemisférico izquierdo y, si el sangrado intracraneal provocase herniación o desviación de línea media, podrían asociarse a otros signos como midriasis ipsilateral al hemisferio afectado (compresión del III par) o hemiplejia contralateral por compresión del mesencéfalo ipsilateral (en este caso también nos hablan de parálisis facial izquierda, lo cual cuadra más con un déficit hemisférico que con afectación de troncoencéfalo dónde la clínica sería cruzada). Respecto a la oclusión de la arteria basilar, podría cuadrar con el deterioro del nivel de conciencia pero no con la clínica hemisférica derecha (si estuviese afectada dicha arteria habría signos de afectación de pares craneales, sobre todo oculomotores y/o afectación del territorio de la arteria cerebral posterior con déficits campimétricos, síndromes sensitivos…); tampoco parece una crisis focal, ya que nos comentan clínica deficitaria de inicio agudo sin que el cuadro se haya precedido por clínica “irritativa” o signos “positivos” como son clonías, hipertonía de extremidades o movimientos tónico-clónicos. Por tanto, lo más probable es que la paciente haya presentado un nuevo ictus isquémico en un segundo tiempo por oclusión de la arteria cerebral media derecha, seguramente en el contexto de un estado protrombótico y una cardiopatía embolígena de base. Aunque en los ictus isquémicos hemisféricos no suele haber deterioro del nivel de conciencia (siendo esto típico de afectación del tronco-encéfalo, cerebelo y/o tálamo principalmente), en el caso de ictus “bihemisféricos” (simultáneos o consecutivos) si suele afectarse el nivel de conciencia."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Un individuo presenta \"debilidad muscular\" (hemiparesia espástica) de ambas extremidades derechas, con hiperreflexia y signo de Babinski, junto a una \"parálisis fláccida facial\" de la hemicara izquierda, con incapacidad para cerrar el ojo izquierdo o de retraer el lado izquierdo de la boca, además de otras alteraciones. Por los datos descritos se trata de una alteración que afecta, entre otros elementos, a los fascículos motores corticoespinal y corticonuclear, pero ¿a qué nivel del neuroeje localizaría la lesión?",
+      "opciones": [
+        "A nivel del área 4 de Brodmann de la corteza cerebral del lado derecho.",
+        "En la cápsula interna, brazo posterior del lado derecho.",
+        "En el pedúnculo cerebral izquierdo.",
+        "En la porción medial de la protuberancia caudal del lado izquierdo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Si analizamos la pregunta, tenemos que darnos cuenta de que nos están contando un síndrome cruzado, es decir afectación de un par craneal y de una vía larga contralateral. La vía larga puede ser motora, como en el caso descrito, aunque también podría ser sensitiva. Siempre que nos hablen de un síndrome cruzado tenemos que situar la lesión en el tronco del encéfalo. El lado de la lesión y el nivel nos lo va a dar el par craneal afectado, por lo que es importante conocer la localización de los núcleos de los pares craneales. No es difícil ya que salen por orden:\n- I, II: telencéfalo.\n- III, IV: mesencéfalo.\n- V, VI, VII, VIII: protuberancia.\n- IX, X, XI, XII: bulbo.\nEn la pregunta nos hablan de hemiparesia derecha (vía piramidal) y parálisis periférica (nuclear) izquierda. Nos olvidamos de la vía larga y nos centramos en la parálisis facial: afectación de VII PC izquierdo, cuyo núcleo se encuentra en la protuberancia, por lo que la lesión debe situarse en protuberancia izquierda (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Acerca del diagnóstico de la esclerosis múltiple, una de las siguientes pruebas carece de interés, señálala:",
+      "opciones": [
+        "Recuento celular en líquido cefalorraquídeo.",
+        "Radiografía craneal.",
+        "Resonancia nuclear magnética.",
+        "Búsqueda de bandas oligoclonales en líquido cefalorraquídeo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Todas las pruebas descritas tienen algún valor, mayor o menor, en el estudio de la esclerosis múltiple, menos la radiografía craneal. Esta es una prueba usada típicamente en los traumatismos craneales para descartar fracturas, aunque se ha visto ampliamente superada por la TC. Pero, en la esclerosis múltiple, las lesiones desmielinizantes en sustancia blanca difícilmente las vas a ver en una radiografía simple..."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Un paciente de 20 años ha presentado en los meses previos tres episodios de crisis generalizadas tónico-clónicas. ¿Cuál de los siguientes fármacos NO considera de utilidad para iniciar el tratamiento?",
+      "opciones": [
+        "Fenobarbital.",
+        "Etosuximida.",
+        "Levetiracetam.",
+        "Ácido valproico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Sobre la etosuximida, debes recordar que constituye el tratamiento de las ausencias típicas, y no sirve para tratar ningún otro tipo de crisis epilépticas (respuesta correcta 2). Por el contrario, el ácido vaproico es un tratamiento antiepiléptico de muy amplio espectro, por lo que puede utilizarse en muchos tipos de crisis. La carbamacepina o el fenobarbital, aunque no son la primera elección podrían ser útil en este caso."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Un paciente de 13 años refiere visión borrosa desde hace 3 semanas, demostrándose en la exploración una hemianopsia bitemporal. Un estudio por RM craneal demostró una lesión heterogénea supraselar, con marcada hiperintensidad de la señal obtenida en las imágenes ponderadas en T2. ¿Qué diagnóstico de los propuestos consideraría en primer lugar?:",
+      "opciones": [
+        "Histiocitosis X.",
+        "Sarcoidosis.",
+        "Cisticercosis racemosa.",
+        "Craneofaringioma."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta es una pregunta importante para el examen, pues el craniofaringioma ha sido preguntado en varias ocasiones, fundamentalmente aspectos referentes a la clínica. Se trata de un tumor supraselar que afecta fundamentalmente a niños y adolescentes. Suele tener un importante componente quistito de contenido aceitoso y una pared parcialmente calcificada (se describen las calcificaciones en paréntesis en la Rx lateral de cráneo). Produce clínica de disfunción neuroendocrina (talla baja y obesidad) y disfunción campimétrica (hemianopsia bitemporal o quadrantanopsia inferior) por compresión del quiasma óptico. Su tratamiento de elección es la resección quirúrgica."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Un paciente de 78 años, con enfermedad de Parkinson idiopática de 8 años de evolución acude a Urgencias por alucinaciones, delirio y agitación desde hace una semana. Su sintomatología, que había estado muy bien controlada hasta hace 2 años, comenzó por temblor en la mano y pie izquierdos. En el último año, tiene una dificultad motora creciente, con bloqueos motores, discinesias pico de dosis y síntomas no motores como deterioro cognitivo leve, estreñimiento importante y psialorrea. Recibe tratamiento por parte de su neurólogo con: levodopa-carbidopa 250/25 cuatro veces al día, parche de rotigotina de 8 mg cada 24 horas, parche de rivastigmina de 9,5 mg cada 24 horas y amantadina 100 mg cada 8 horas. Cuál es la actuación más CORRECTA en Urgencias:",
+      "opciones": [
+        "Retiro la levodopa-carbidopa porque los síntomas psicóticos pueden ser debidos a la terapia dopaminérgica",
+        "Dado que es un caso complejo, descarto una enfermedad inetcurrente con analítica y rx de torax y no modifico el tratamiento y le indico que consulte a la mayor brevedad con su neurólogo.",
+        "Retiro la amantadina y el agonista dopamiérgico (rotigotina), descarto un proceso intercurrente y prescribo, si los síntomas psicóticos no mejoran, quetiapina a la dosis mínima eficaz.",
+        "Le añado risperidona y reduzco a la mitad de dosis toda la medicación antiparkinsoniana"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta c\n\nLos síntomas psiquiátricos en un paciente con enfermedad de Parkinson pueden requerir atención urgente por la posibilidad de hetero y autoagresividad. Por tanto, se debe realizar la modificación terapéutica procedente en Urgencias.\n\nTanto la amantadina como los agonistas dopaminérgicos son los que pueden dar con mayor frecuencia sintomas psicóticos, en especial en pacientes con deterioro cognitivo previo, por lo que serían los primeros a retirar. En un primer paso se puede mantener la L-dopa pare evitar una rigidez y acinesia excesivas y en caso de no mejorar los síntomas psicóticos con esta reducción se pueden tratar con quetiapina o clozapina (este último es más complejo por los efectos secundarios graves que puede producir como agranulocitosis). El resto de los antipsicóticos pueden agravar notablemente los síntomas parkinsonianos."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "En el proceso diagnóstico de la Esclerosis Múltiple, la punción lumbar se convierte en prueba fundamental para el descarte de otras entidades nosológicas que pueden simular un proceso desmilinizante. ¿Cuál de las siguientes atipias en el LCR NO nos sugeriría una \"red flag\" en un paciente con un brote agudo de EM?",
+      "opciones": [
+        "Disminución de niveles de glucorraquia.",
+        "Cociente de albúmina elevado.",
+        "Presencia de eosinófilos y neutrófilos en abundancia.",
+        "Aumento de celularidad, pero siempre menor a 50 leucocitos por campo, y con predominio de linfocitos B."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El aumento de celularidad es preocupante cuando está por encima de 50 células por campo, y aparece predominio de eosinófilos, neutrófilos o si la linfocitosis es a costa de linfocitos T. El que veamos linfocitos B (en número de hasta 50 céls/campo), es muy sugestivo de brote de enfermedad desmilinizante. Por lo tanto, la opción 4 sería la adecuada, no debería hacernos pensar en un proceso infeccioso."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "¿Cuál de los siguientes signos o síntomas aparece raramente en la esclerosis múltiple?",
+      "opciones": [
+        "Síndrome piramidal.",
+        "Hemianopsia homónima.",
+        "Neuritis óptica.",
+        "Ataxia y temblor cerebelosos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Desde el punto de vista del curso clínico, la manifestación más frecuente de la EM es la forma recurrente- remitente, que cursa con brotes de disfunción neurológica, reversibles en mayor o menor medida, que van dejando secuelas a medida que se repiten. Respecto a los síntomas más frecuentes, cabe mencionar:\n\n- La forma de presentación más frecuente la constituyen los síntomas sensitivos: hipoestesia y parestesias. Otras manifestaciones de inicio bastante habituales son la neuritis óptica, la debilidad y otros síntomas motores.\n\n- La neuritis óptica suele ser unilateral y de carácter retrobulbar. El paciente pierde agudeza visual, sufre dolor al mover los ojos y, en la exploración destaca un fondo de ojo normal. Recuerda que los corticoides acortan su evolución, pero no cambian el pronóstico visual.\n\n- Otra manifestación oftalmológica, aunque menos común, es la oftalmoplejía internuclear, cuya manifestación principal es la diplopía. Se debe a una lesión del fascículo longitudinal medial, con buen pronóstico de recuperación.\n\n- La lesión de la vía piramidal es bastante frecuente, con clínica de afectación de primera motoneurona: espasticidad, Babinksy, etc.\n\n- Entre las lesiones medulares, es frecuente la asociación con urgencia miccional, impotencia y síndrome cordonal posterior. Cuando esta última ocurre a nivel cervical, puede aparecer una sensación de descarga eléctrica descendente al flexionar el cuello, llamada signo de L´Hermitte.\n\n- La afectación cerebelosa es relativamente común. Se traduce en manifestaciones como ataxia, disartria cerebelosa (habla escandida), nistagmo o temblor cerebeloso.\n\n- En casos avanzados, podemos encontrar disfunción cognitiva, siendo lo más frecuente la pérdida de memoria.\n\nDe las respuestas que nos ofrecen, la hemianopsia homónima no es imposible, pero sí bastante infrecuente. Cuando la esclerosis múltiple afecta a las vías visuales, suele hacerlo a nivel del nervio óptico, como se ha explicado. La hemianopsia homónima implica una afectación retroquiasmática."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Varón de 45 años con antecedente de enolismo crónico e hipertensión arterial, comienza con un cuadro progresivo de oftalmoparesia de ambos rectos externos y ataxia de la marcha, añadiéndose dos días después un cuadro confusional. ¿Cuál es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Ictus isquémico protuberancial.",
+        "Degeneración subaguda combinada medular.",
+        "Encefalopatía de Wernicke.",
+        "Síndrome de Korsakoff."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Este paciente tiene la triada clínica típica además del antecedente más importante (enolismo crónico) de la encefalopatía de Wernicke (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "De entre los fármacos que a continuación se citan, hay uno que se utiliza en el tratamiento de la neuralgia postherpética. Señálelo:",
+      "opciones": [
+        "Paracetamol.",
+        "Fluoxetina.",
+        "Capsaicina.",
+        "Vigabatrina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La neuralgia postherpética es una complicación del herpes zoster, especialmente frecuente en pacientes de más de 50 años. Se trata de un síndrome doloroso, que persiste en el dermatoma donde se ha desarrollado la erupción del herpes zoster después de haber desaparecido las vesículas herpéticas. Aparece en un 10% de los pacientes que sufren la enfermedad. Como tratamiento, han dado resultado la gabapentina, algunos otros antiepilépticos, los antidepresivos (amitriptilina) y la crema de capsaicina (respuesta 3 correcta). Su mecanismo de acción consiste en evitar el acúmulo de sustancia P en las neuronas sensoriales periféricas."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "¿Qué datos de los expuestos a continuación, no sería sugerente de una demencia de Creutzfeldt-Jakob?",
+      "opciones": [
+        "Espongiosis en la anatomía patológica",
+        "Imagen hiperintensa a nivel cortical en la RM craneal en secuencia de difusión",
+        "Presencia habitual de mioclonías en el paciente",
+        "Consumo de glucosa en LCR"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es estudio anatomo-patológico mostraría la famosa espongiosis por degeneración neuronal a nivel cerebral y la presencia de proteína priónica mutada a nivel cerebral en la inmunohistoquímica. Clínicamente debemos sospecharlo ante cualquier paciente joven con una demencia rápidamente progresiva que asocie mioclonías. En la RM craneal, pueden aparecer numerosos y variables hallazgos, entre los cuales es característico, el realce lineal cortical en secuencias FLAIR y Difusión. Los resultados de LCR a nivel celular, proteínas y glucosa suelen ser normales"
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Mujer de 55 años que consulta por cefalea de aparición brusca sin otra sintomatología. Una TAC cerebral muestra una imagen Hiperdensa en la cisura de Silvio sugerente de hemorragia subaracnoidea. La causa más probable es",
+      "opciones": [
+        "Aneurisma cerebral",
+        "Glioblastoma multiforme",
+        "Metastasis de melanoma",
+        "Cavernoma"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La causa más frecuente de HSA es el aneurisma cerebral en un 70-90%, le sigue la malformaciones arteriovenosas. Otras causas son tumores, hematomas intraparenquimatosos, abuso de drogas, alteraciones de la coagulación y patología vascular ( disección arterial,vasculitis). La HTA suele estar presente"
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "En un paciente con sospecha de encefalitis herpética, ¿cuál es la prueba de elección para establecer el diagnóstico definitivo?",
+      "opciones": [
+        "Resonancia magnética cerebral",
+        "Detección del antígeno viral en orina.",
+        "Electroencefalograma",
+        "Detección del ADN viral mediante PCR en líquido cefalorraquídeo"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La detección del ADN viral mediante PCR en LCR aporta el diagnóstico definitivo. La RMN es más sensible que la TC y ayuda a identificar el grado de edema asociado. Las lesiones suelen intensificarse tras la administración de contraste. El análisis LCR muestra una pleocitosis linfocitaria similar a la observada en el resto de encefalitis virales, con ocasionales eritrocitos. La TC puede mostrar lesiones hipodensas en áreas temporales. El EEG registra ondas lentas focales en 64% de los casos y en 50% complejos de ondas bi o trifásicas pseudoperiódicas sobre la región temporal, hallazgos que son inespecíficos."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "En la exploración clínica de un paciente afecto de una esclerosis múltiple, es insólito hallar:",
+      "opciones": [
+        "Oftalmoplejía internuclear",
+        "Abolición de los reflejos osteotendinosos.",
+        "Nistagmo.",
+        "Trastornos sensitivos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es sencilla de contestar si tenemos claro que es lo que se afecta en la EM. La EM es una enfermedad autoinmune y desmielinizante del SNC (no hay afectación del sistema nervioso periférico). Por tanto hay afectación de la primera motoneurona y no de la segunda. Después de esto nadie puede dudar que la respuesta correcta es la 2. En una afectación de primera motoneurona lo que hallaremos será un reflejo osteotendinoso exaltado y un Babinski . Sería insólito encontrar ROT abolidos."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Ante un paciente con una demencia rápidamente progresiva, que asocia mioclonias, signos visuales, cerebelosos y parkinsonianos y en la exploración detectamos piramidalismo y mutismo acinçetico, que pruebas serian mas concluyentes para el diagnostico, que dieran apoyo a la rapidez evolutivo y la suma de síntomas y signos exploratorios.",
+      "opciones": [
+        "RM Cerebral",
+        "EEG y estudio de LCR",
+        "TAC Cerebral y Potenciales evocados visuales",
+        "PET Amiloide"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La enfermedad de CREUTZFELDT-JAKOB (ECJ) es una encefalopatia por pirones que cursa con una demencia rápidamente progresiva y al menos dos de las cuatro características siguientes:\n\n- Mioclonias\n\n- Signos visuales y/o cerebelosos\n\n- Signos piramidales y/o extrapiramidales\n\n- Mutismo acinético\n\nLas pruebas más útiles es la presencia de la proteína 14-3-3 en LCR y un EEG con ritmo caótico. Para confirmarlo se puede usar la biopsia cerebral o necropsia, pero hay riesgos importrnates para el personal sanitario involucrado. El resto de pruebas pueden dar apoyo inespecífico, pero con menos ayuda que las anteriores."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "La asociación de síndrome de Horner y paresia ipsilateral del sexto par orientan hacia una lesión a nivel de:",
+      "opciones": [
+        "Protuberancia superior.",
+        "Trayecto fascicular.",
+        "Peñasco del temporal.",
+        "Seno cavernoso."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Para responder esta pregunta, debes pensar en algún tramo donde pueda existir una afectación simpática, que justifique el Horner, y a la vez el VI par. En el seno cavernoso, pueden afectarse las fibras simpáticas que rodean la carótida, aparte de que pasan junto a ellas diferentes pares craneales (III, IV, Va, VI), por lo que la respuesta correcta es la 4"
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Varón de 86 años, con antecedentes de episodio de amnesia global transitoria y cefalea desencadenada con la toma de dulces, que consulta por cefalea de localización en las sienes, de al menos 2 meses de evolución de características opresivas y no relacionadas con la ingesta, junto con cefalea diaria vespertina en zona occipital. Parece que en estos 2 meses el paciente presenta cansancio generalizado, y ha perdido 2kg de peso. La exploración neurológica es anodina. Se le realiza RM Craneal que muestra hiperintensidad en los músculos temporales, y una determinación analítica que muestra una PCR de 54 mg/l. ¿Cuál de las siguientes medidas tiene menor valor diagnóstico?",
+      "opciones": [
+        "Ecografía de la arteria temporal.",
+        "Determinación de VSG.",
+        "Realización de angioTC de troncos supraaórticos.",
+        "Biopsia de la arteria temporal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "No es necesario realizar un angioTC para el diagnóstico de una arteritis de la temporal. Todas las demás determinaciones son últiles en el diagnóstico de la arteritis de la temporal o arteritis de células gigantes, que es una vasculitis que afecta a arterias de gran calibre, con frecuencia arterias carótida interna y externa, aunque no exclusivamente. Entre los criterios diagnósticos se encuentran la ecografía de la arteria temporal, la determinación de VSG y PCR y la biopsia de la arteria de la temporal, así como la edad (>50 años), la presencia de cefalea de inicio reciente o la ausencia o hipersensibilidad en la palpación de los pulsos temporales."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Paciente de 50 años que es ingresado en Urgencias en coma, con pupilas reactivas y movimientos mioclónicos generalizados. La etiología más probable es:",
+      "opciones": [
+        "Tumoral.",
+        "Metabólica.",
+        "Vascular.",
+        "Degenerativa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "No te preocupes si has fallado esta pregunta porque el tema de coma y muerte encefálico no es rentable para el examen ( sólo en una ocasión (MIR 96- 97 F,62) salió una pregunta que hacia referencia a los reflejos oculocefálicos y óculovestibulares).En un paciente en coma la presencia de mioclonias generalizadas apunta a una lesión encefálica difusa, y en concreto casi siempre indica la existencia de un trastorno metabólico, en especial hiperazoemia, anoxia o ingestión de drogas o fármacos (litio y haloperidol en particular)."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "¿Cuál es el agujero de salida en el cráneo del nervio vago o X par craneal?",
+      "opciones": [
+        "Agujero oval",
+        "Agujero rasgado posterior",
+        "Agujero redondo menor",
+        "Agujero estilomastoideo"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es la 2. El nervio vago o X par craneal nace a nivel pontino y sale a nivel agujero rasgado posterior.\n\nEl agujero oval es la vía de salida de la 3a rama del trigémino\n\nEl agujero redonde menor es la vía salida de la arteria meníngea media\n\nEl agujero estilomastoideo es la vía de salida del VII par craneal o nervio facial en el CAI"
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Mujer de 36 años, profesora de primaria, que consulta por un cuadro de cefalea de al menos 6 meses de evolución. Se trata de un dolor difuso, que afecta a toda la cabeza, de intensidad leve-moderada, que refiere como sensación de casco en la cabeza, que inicialmente era esporádico pero que se ha hecho diario en los últimos 4 meses, cediendo parcialmente con ibuprofeno. El dolor se inicia a media mañana pero empeora siendo más intenso en las últimas horas de la tarde. No interrumpe sueño. Se le solicita un TC Craneal que es totalmente normal. ¿Cuál sería el diagnóstico más probable?",
+      "opciones": [
+        "Migraña crónica.",
+        "Cefalea trigéminoautonómica.",
+        "Cefalea tensional.",
+        "Arteritis de la arteria temporal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El diagnóstico más probable sería el de una cefalea tensional, ya que cumple los criterios diagnósticos de la IHS: cefalea de calidad opresiva, intensidad leve-moderada, bilateral, de predominio vespertino, junto con prueba de neuroimagen que no muestra lesiones que justifiquen dicho dolor."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Paciente de 50 años con diagnóstico de Enfermedad de Parkinson de 5 años de evolución y con mala respuesta a la levodopa. El tratamiento quirúrgico de elección es",
+      "opciones": [
+        "Estimulación bilateral del Núcleo subtalámico",
+        "Lesión bilateral del Núcleo subtalámico",
+        "Talamotomía",
+        "No está indicada la cirugía"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Aunque las tres son técnicas quirúrgicas de la Enfermedad de Parkinson, la estimulación subtalámica se ha demostrado efectiva en pacientes que a los cinco años la medicación empieza a ser poco efectiva, mejorando de nuevo la respuesta médica"
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Una mujer afecta de miastenia gravis y embarazada de 5 meses acude a nuesta consulta, está en tratamiento con piridostigmina a dosis de 60 mg tres veces al día y prednisona (10 mg al dia). Nos pregunta sobre la repercusión en el futuro hijo y el manejo de su enfermedad durante la gestación. Entre las siguientes afirmaciones habrá una INCORRECTA, señálela:",
+      "opciones": [
+        "La sintomatología neonatal se debe al paso transplacentario de anticuerpos, por tanto, se realizará una detección de los mismos en la madre.",
+        "La repercusión en el recién nacido, depende de la gravedad de la enfermedad en la madre.",
+        "La probabilidad de miastenia neonatal es del 10-20% para el hijo de una madre afectada",
+        "La sintomatología puede durar de una a varias semanas por lo que se requiere una especial vigilancia del neonato, pero el pronóstico a medio y largo plazo es excelente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta b\n\nLa miastenia neonatal se debe, efectivamente, a la transferencia pasiva de anticuerpos al hijo por vía transplacentaria, por tanto, si los anticuerpos están a títulos altos es más probable. Esto no quiere decir que la madre con anticuerpos a títulos más altos esté más gravemente afecta, pues el título de anticuerpos no se correlaciona con la gravedad. Sólo un 10-20% de los recién nacidos de madre con miastenia tienen debilidad neonatal, que desaparece cunado los anticuerpos desaparecen de la circulación pues el hijo no los produce. En algunos casos puede dar afectación de los músculos respiratorios o debilidad para la succión por lo que se debe vigilar estrechamente a los neonatos."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Una mujer de 42 años con cáncer de mama presenta metástasis a nivel de los agujeros intervertebrales entre la cuarta y quinta vértebras cervicales y entre la cuarta y quinta vértebras torácicas. ¿Qué nervios espinales estarán lesionados?",
+      "opciones": [
+        "Cuarto nervio cervical y cuarto torácico.",
+        "Quinto nervio cervical y quinto torácico.",
+        "Cuarto nervio cervical y quinto torácico.",
+        "Quinto nervio cervical y cuarto torácico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de anatomía disfrazada de caso clínico. Hay que recordar que, aunque las vértebras cervicales son siete, los nervios raquídeos cervicales son ocho. El primer nervio raquídeo sale entre la base del cráneo y la primera vértebra cervical, por lo que el octavo nervio cervical nace por encima de la primera vértebra dorsal. A partir de este punto, cada nervio raquídeo sale inmediatamente por debajo de la vértebra de su mismo nombre. Es decir, a nivel cervical sale la raíz cuyo nombre corresponde con la vértebra inferior que delimita el agujero de conjunción (raíz C5 en espacio C4 - C5), mientras que a nivel dorsal y lumbar sale la raíz cuyo nombre corresponde a la vértebra superior que delimita el agujero de conjunción (raíz D4 en espacio D4 - D5)."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Varón de 49 años que consulta por un cuadro de mareos y nerviosismo de varios meses de evolución, acompañado de disartria. A la exploración, se aprecian movimientos corporales continuos muy leves. La familia refiere que presenta problemas de coordinación, con dificultad para realizar tareas como conducir o cocinar. El paciente comenta que tanto su padre como su abuelo, ya fallecidos, empezaron a presentar una clínica similar después de cumplir 60 años. De las siguientes pruebas diagnósticas, ¿cuál considera más adecuada según su sospecha diagnóstica?",
+      "opciones": [
+        "Estudio de la expansión del triplete CAG en el brazo corto del cromosoma 4.",
+        "Electroneurografía.",
+        "Electromiografía.",
+        "RMN cerebral con contraste de gadolinio."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La enfermedad de Huntington es la corea hereditaria más frecuente (herencia autosómica dominante), causada por la expansión del triplete CAG en el brazo corto del cromosoma 4. Suele debutar entre la 4ª y 5ª décadas. Clínicamente, se manifiesta con trastornos del movimiento, siendo el más característico el corea (en este caso, movimientos corporales continuos muy leves), así como con deterioro cognitivo y trastornos psiquiátricos. El diagnóstico se realiza mediante el hallazgo de la expansión de tripletes. El tratamiento es sintomático (tetrabenazina)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Señale la respuesta FALSA en relación a las craneosinostosis",
+      "opciones": [
+        "La sinostosis coronal constituye el 18% y es más frecuente en mujeres",
+        "La sinostosis sagital debe operarse antes del segundo año de vida",
+        "La sinostosis metópica o Trigonocefalia se asocia con alteración del cromosoma19p",
+        "El síndrome de Apert asocia sindactilia"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tratamiento debe realizarse entre los 3 y los6 mese de vida"
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Respecto al tratamiento quirúrgico de la patología raquimedular, indique la afirmación errónea:",
+      "opciones": [
+        "El tratamiento de elección de la hernia discal lumbar es la discectomía anterior, normalmente sin colocación de artrodesis.",
+        "El tratamiento de elección de la estenosis de canal lumbar es la laminectomía lumbar",
+        "El tratamiento de elección de la listesis lumbar es la artrodesis traspedicular",
+        "El tratamiento de elección de la hernia discal cervical es la discectomía anterior, con colocación de prótesis intersomática"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Todas las opciones son correctas salvo que la vía de elección para la hernia lumbar es la posterior, imagina lo dificil que sería llegar a la columna por delanta, con todo el abdomen, intestino, órganos retroperitoneales...."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Con respecto a la prevención secundaria del ictus aterotrombótico, señale la afirmación CORRECTA:",
+      "opciones": [
+        "La estenosis sintomática < 50% debe ser manejada con endarterectomía si la placa que condiciona esta estenosis está ulcerada.",
+        "La estenosis sintomática > 70% debe ser manejada con antiagregación si la placa que condiciona dicha estenosis es lisa y regular.",
+        "La estenosis sintomática moderada (50-69%), se beneficia más de tratamiento quirúrgico si es varón, los síntomas son recientes y la afectación es hemisférica.",
+        "La anticoagulación con inhibidores de la vitamina K es el tratamiento de elección en pacientes con estenosis sintomática de carótida > 70% y presencia de placas irregulares y ulceradas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La prevención secundaria del ictus aterotrombótico se realiza en el momento actual en función del grado de estenosis de esta y es independiente de las características de las placas que condicionan la estenosis. En estenosis sintomáticas < 50% el tratamiento recomendado es la antiagregación. En estenosis sintomáticas > 70% el tratamiento recomendado es la cirugía carotídea. Las estenosis moderadas (50-69%) se benefician de tratamiento quirúrgico, más si el paciente es varón, los síntomas son recientes (inferiores a 6 meses) y son hemisféricos (respuesta 3 correcta). La anticoagulación no tiene un papel definido en la prevención del ictus aterotrombótico por estenosis carotídea."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Un motorista de 30 años de edad sufre accidente con TCE, presentando un GCS de inicio de 7/15, con estudio TC que muestra borramiento de surcos corticales y reducción del tamaño ventricular, así como una imagen puntiforme hiperdensa en unión corticosubcortical frontal derecha. Le sugiere el diagnóstico de:",
+      "opciones": [
+        "Contusión cerebral por contragolpe.",
+        "Hipotensión cerebral por fístula de LCR traumática oculta.",
+        "Hematoma epidural en intervalo intercrítico.",
+        "Daño axonal difuso."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La lesión axonal difusa es una lesión primaria del parénquima cerebral que se produce en pacientes que sufren un TCE con mecanismo rotacional de aceleración- deceleración. Produce un deterioro precoz y mantenido del nivel de la conciencia. En la TC se aprecian hemorragias puntiformes a nivel de cuerpo calloso, unión corticosubcortical cerebral y porción dorsolateral del tronco encefálico.\n\nRECORDAD: paciente con TCE en coma y con hemorragias puntiformes en el TC es una lesión axonal difusa y tiene mal pronóstico."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "La Esclerosis Lateral Amiotrófica es una enfermedad neurodegenerativa del sistema nervioso caracterizada por la afectación de las motoneuronas tanto primera como segunda. ¿Cuál de los siguientes síntomas no esperaría encontrar?",
+      "opciones": [
+        "Respuesta cutáneo plantar extensora",
+        "Hiporreflexia",
+        "Fasciculaciones",
+        "Hipoestesia"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clínica de la ELA viene condicionada por la suma de la clínica de primera y segunda motoneurona de forma exclusiva. Así como síntomas de segunda motoneurona el paciente pude tener hipo o arreflexia, respuesta cutáneo plantar normal o flexora, fasciculaciones o fibrilaciones, atrofia precoz o amiotrofía y parálisis fláccida. Como signos de primera puede tener hiperreflexia o clonus, respuesta cutáneo plantar extensora (Babinski), parálisis espástica y atrofia por desuso (amplios grupos musculares, tardía). Lo que no es propio de esta semiología es la afectación sensitiva"
+    }
+  ]
+}

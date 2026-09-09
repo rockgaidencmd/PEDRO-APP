@@ -1,0 +1,555 @@
+{
+  "materia": "otorrino",
+  "paginaInicio": 20,
+  "paginaFin": 38,
+  "anomalias": [
+    "p21: la explicación de la pregunta de rinitis termina con 'Se adjunta una tabla de la nueva clasificación de las rinitis', pero la tabla no se rasterizó (queda un hueco en blanco en p22) y la clasificación no puede consultarse.",
+    "p22: en la explicación de la pregunta de la laringitis estridulosa hay un hueco en blanco en p23 entre el párrafo del diagnóstico diferencial y 'La respuesta correcta es la 1', probablemente una tabla o imagen que no se rasterizó.",
+    "p29: el enunciado del varón de 58 años describe ambas membranas timpánicas íntegras y una masa de base de cráneo, pero la pregunta final interroga por el tratamiento quirúrgico del colesteatoma sin que ese diagnóstico se haya establecido en el caso.",
+    "p33: el comentario de la pregunta de fonomicrocirugía dice 'El tratamiento de elección de los nódulos vocales es la foliaría', término corrupto o inexistente (se esperaría foniatría/logopedia); además es la única explicación de una sola frase del bloque.",
+    "p35: el comentario de la pregunta del niño de 3 años se abre con un apartado numerado '1.' pero no continúa con los apartados 2, 3 y 4.",
+    "p37: la opción 1 de la pregunta de la mujer de 60 años dice 'Hipoacusia brusca: duración 30 dB, 3 frecuencias consecutivas', donde 30 dB es una magnitud de pérdida auditiva y no una duración."
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 20,
+      "enunciado": "Paciente de 45 días de vida, que desde los primeros días de vida presenta un ruido durante la inspiración que aumenta con el llanto, evidenciando una saturación de oxígeno constante y una coloración de las mucosas adecuadas. Acuden los padres a su consulta muy preocupados porque, a pesar de su progresiva mejoría, el ruido inspiratorio persiste. Respecto a la patología del neonato, indique lo FALSO:",
+      "opciones": [
+        "Se trata de la patología congénita laríngea más frecuente (alrededor del 75%) que se corrige espontáneamente en pocos meses, requiriendo solo en algunas ocasiones tratamiento quirúrgico.",
+        "En la exploración directa podrá objetivarse una tumoración de coloración rojiza, situada en la subglotis, provocando una clínica obstructiva en 2/3 de los casos.",
+        "En la exploración, el niño presenta un crecimiento adecuado, se ve saludable y no evidencia signos de dificultad respiratoria (aleteo nasal, tiraje supraclavicular o intercostal, cianosis).",
+        "Su etiopatogenia radica en la hiperlaxitud del esqueleto laríngeo, que ante presiones negativas se colapsa, provocando estridor inspiratorio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El caso clínico retrata el típico caso de Laringomalacia, patología laríngea congénita más frecuente. En la exploración (laringoscopia flexible) podremos hallar un alargamiento y extensión lateral de la epiglotis (en forma de omega) que se aspira en la inspiración o unos aritenoides redundantes con prolapso anteromedial. A pesar de ello, las cuerdas vocales presentarán una estructura y función normal en los pacientes con laringomalacia. La respuesta 2 corresta, se refiere a una hemangioma congénito subglótico, que es altamente infrecuente, que no mejora espontáneamente y asocia en un 70% de los casos clínica obstructiva, en forma de disnea."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Le llaman a las 2 de la madrugada porque hay un paciente en Urgencias que se está asfixiando. La enfermera le tiene preparado un gotero con teofilina y un bisturí para realizar una traqueotomía. Sin dudarlo, usted elige el bisturí porque:",
+      "opciones": [
+        "El paciente presenta estridor espiratorio y signos evidentes de edema pulmonar.",
+        "El paciente está muy cianótico.",
+        "El paciente está taquicárdico y sudoroso.",
+        "El paciente presenta estridor inspiratorio y tiraje."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El estridor inspiratorio es un signo de típico de obstrucción respiratoria alta, principalmente a nivel de la laringe, hipofaringe y orofaringe. La presencia además de tiraje hace pensar en que el paciente se está agotando, lo que conlleva un elevado riesgo de parada respiratoria, por lo que el tratamiento en estos casos en superar el nivel de la obstrucción creando una ventada traqueal (en el segundo o tercer anillo) por la que el paciente pueda respirar sin esfuerzo; es decir, realizar una traqueotomía urgente (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Paciente de 82 años, fumador y bebedor importante, que consulta porque desde hace meses nota una sensación extraña al tragar, parestesias faríngeas y una adenopatía cervical. ¿Qué debemos sospechar?",
+      "opciones": [
+        "Carcinoma de cuerda vocal.",
+        "Carcinoma supraglótico.",
+        "Cáncer de cavum.",
+        "Carcinoma subglótico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante un paciente con factores de riesgo (tabaco y alcohol) que presenta molestias faríngeas inespecíficas (parestesias, disfagia, etc.), otalgia refleja y una adenopatía cervical siempre hay que descartar un carcinoma supraglótico (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Acude a nuestra consulta una mujer de 43 años, maestra en una escuela primaria, por disfonía. En la fibrolaringoscopia apreciamos la existencia de una lesión bilateral y simétrica en la parte anterior de las cuerdas vocales. El diagnóstico más probable es:",
+      "opciones": [
+        "Edema de Reinke.",
+        "Pólipos vocales.",
+        "Paquidermia de contacto.",
+        "Nódulos vocales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta fácil sobre la patología benigna de la laringe. Nos presentan una paciente que realiza un abuso prolongado de la voz y que presenta disfonía. La imagen de una lesión bilateral en la parte anterior de las cuerdas vocales es compatible con los \"kissing nodes\" de los nódulos vocales (opción 4 correcta). No debemos confundirnos con la paquidermia de contacto, cuyas lesiones serían en la parte posterior de las cuerdas vocales."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Paciente mujer de 32 años que presenta clínica de obstrucción nasal unos 5 días a la semana, con estornudos en salvas y rino-hidrorrea desde hace 2 meses. No puede realizar ejercicio físico y le cuesta dormir. Tiene pruebas cutáneas positivas para distintos pólenes y ácaros del polvo. Según la nueva clasificación de las rinitis, el diagnóstico sería:",
+      "opciones": [
+        "Rinitis alérgica intermitente moderada-grave.",
+        "Rinitis alérgica persistente moderada-grave.",
+        "Rinitis no alérgica persistente moderada-grave.",
+        "Rinitis no alérgica intermitente moderada-grave."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una rinitis crónica alérgica que, dados los días de la semana y los meses que lleva así, con una afectación que le limita realizar deporte y el descanso, se etiqueta de rinitis crónica persistente moderada-grave (respuesta 2 correcta).\n\nSe adjunta una tabla de la nueva clasificación de las rinitis."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Varón de 60 años, fumador y bebedor habitual, que refiere odinofagia de tres semanas de evolución que no responde a tratamiento analgésico. En la exploración presenta una ulceración pequeña confinada en la amígdala derecha, que es biopsiada e informada como carcinoma epidermoide. La exploración cervical clínica y radiológica no presenta adenopatías. Respecto al tratamiento, señale lo CORRECTO:",
+      "opciones": [
+        "Se puede realizar cirugía con resección completa amigdalar + vaciamiento cervical, o radioterapia, ya que ambas tienen la misma eficacia.",
+        "Se debe realizar protocolo de organopreservación con quimiorradioterapia.",
+        "Se debe realizar quimioterapia por su menor morbilidad e igual eficacia que la cirugía en este caso.",
+        "No es necesario el tratamiento del cuello al no haber adenopatías."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento de los tumores de orofaringe en estadio precoz (estadio I y II), pueden ser tratados con radioterapia en tumor y cadenas cervicales, o con cirugía + vaciamiento cervical profiláctico (a pesar de ser N0, en los tumores de orofaringe siempre hay que tratar el cuello) por lo que marcamos la opción 1 correcta. En estadios avanzados se puede mantener el tratamiento quirúrgico, generalmente más agresivo, que requiere reconstrucciones con colgajos y en ocasiones faringolaringectomías totales, o protocolo de órgano preservación basado en quimiorradioterapia. En caso de metástasis a distancia, a nivel pulmonar casi siempre, el tratamiento es paliativo con quimioterapia."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Esta usted de guardia en Urgencias pediátricas y a la 1.30 de la madrugada llega una madre muy preocupada porque su hijo se ha desvelado con ‘pitos` al respirar. Dice que el niño ha empezado bruscamente a tener dificultad para respirar, y, en palabras de la madre, ‘parece que se va a quedar sin aire’. Anamnesis: varón de 2 años con infección respiratoria banal los días previos. EF: buen estado general, afebril y estridor inspiratorio marcado. Respecto al cuadro que usted sospecha, indique la actuación más acertada:",
+      "opciones": [
+        "Humidificación ambiental.",
+        "Humidificación ambiental + intubación.",
+        "Humidificación ambiental + penicilina.",
+        "Humidificación ambiental + ceftriaxona."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico en el que para poder contestar correctamente debemos identificar primero el cuadro que nos presentan.\n\nSe trata de una laringitis estridulosa o espasmódica o pseudocrup. Lo más importante de esta patología es saber hacer el diagnóstico diferencial con la epiglotitis (nos contarán un niño de 2 a 6 años con marcada postración , fiebre elevada, disnea intensa, babeo y posición de sedestación) y con la laringitis glotosubglótica o crup (nos contarán un niño menor de 3 años con fiebre que progresivamente comienza con disnea, voz ronca, tos perruna, estridor inspiratorio y buen estado general).\n\nLa respuesta correcta es la 1. La laringitis estridulosa cede sola o con humificación ambiental, aunque puede recurrir.\n\nVeamos opción por opción:\n\n2) A priori, el niño que nos presentan no requiere intubación. Aunque sea un cuadro muy llamativo y que asusta mucho a los padres, no existe compromiso de la vía aérea como para requerir intubación.\n\n3) La laringitis estridulosa no requiere tratamiento antibiótico. Esta opción sería correcta ante la sospecha de una laringitis diftérica.\n\n4) Repito, la laringitis estridulosa no requiere tratamiento antibiótico. La ceftriaxona es el tratamiento de la epiglotitis."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Señale la relación falsa, entre patología y tratamiento inicial, de las siguientes:",
+      "opciones": [
+        "Otitis media serosa-Tratamiento médico antibiótico",
+        "Otoesclerosis- Tratamiento quirúrgico",
+        "Presbiacusia- Adaptación audioprotésica",
+        "Otitis media aguda-Tratamiento médico antibiótico"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La otitis media serosa se suele producir como consecuencia de algún episodio de congestión nasal. Habitualmente el tratamiento de la obstrucción nasal, mediante descongestionantes y/o antinflamatorios, conlleva la mejoría progresiva de los síntomas auditivos por lo que marcamos la opción 1 correcta. La otoesclerosis es una enfermedad que provoca la fijación del estribo. El tratamiento más recomendado es la cirugía. La presbiacusia o hipoacusia por desgaste asociado a la edad requiere, según su intensidad, de adaptación audioprotésica. La otitis media aguda, es un cuadro infeccioso de la caja timpánica cuyo tratamiento precisa de terapia antibiótica."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Varón de 70 años, con antecedentes de DMNID, HTA y DL, que acude remitido a su consulta de Urgencias por sus familiares, que refieren que, desde hace dos semanas, presenta un fuerte dolor en oído derecho que tras unos días se acompañó de secreción por ese oído, que no remite con el tratamiento antibiótico oral y tópico que pautó su médico de cabecera. En su exploración clínica usted detecta una evidente desviación de la comisura labial hacia el lado izquierdo y dificultad en el cierre ocular derecho. ¿Cuál cree que sería la actitud MÁS indicada en esta situación?",
+      "opciones": [
+        "Otoscopia, ingreso, ciprofloxacino i.v.",
+        "Otoscopia, ingreso, Gammagrafía Tc-99, ciprofloxacino v.o.",
+        "Otoscopia, ingreso, TC, ciprofloxacino i.v., además de protección ocular y corticoterapia.",
+        "Otoscopia, TC, ciclo de ciprofloxacino i.v, revisión ambulatoria, además de protección ocular y corticoterapia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "No deberías haber tenido problemas para identificar el cuadro clínico, ya que se trata de una otalgia con otorrea en un anciano diabético con mal estado general y que asocia una afectación del VII par craneal. El cuadro resulta muy sugestivo de otitis externa maligna. Ante la actitud a llevar a cabo, la opción de respuesta 3 es la más acertada, ya que esta patología requiere un manejo hospitalario prolongado mediante antibioterapia, antipseudomonas intravenosa y realización de una TC para comprobación del nivel de afectación en base de cráneo. Es también importante añadir tratamiento para la mejoría de la parálisis facial (corticoterapia y protección ocular)."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Varón de 51 años que acude a Urgencias por aparición hace 2 días de lesiones vesiculosas en pabellón auricular derecho, que se acompañaban de otalgia. Desde hace unas horas nota sensación de tener la boca torcida hacia la izquierda. El diagnóstico más probable es:",
+      "opciones": [
+        "Parálisis facial de Bell izquierda.",
+        "Parálisis facial de Bell derecha.",
+        "Síndrome de Heerfordt.",
+        "Síndrome de Ramsay-Hunt."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La aparición de vesículas en el CAE o en la concha del pabellón auditivo durante una parálisis facial es diagnóstico del Síndrome de Ramsay- Hunt. Suele acompañarse de otalgia y si afecta también al VIII par se produce hipoacusia perceptiva, acúfeno y vértigo (opción 4 correcta). La parálisis de Bell, afrígore o idiomática, es la más frecuente de la parálisis faciales periféricas y no se asocia a otro síntoma salvo la parálisis. El síndrome de Heerfordt es una manifestación extrapulmonar de la sarcoidosis donde se asocia la parálisis facial periférica con uveítis y parotiditis. El síndrome de Melkersson- Rosenthal se caracteriza por parálisis faciales periféricas idiopáticas de repetición en un lado o los dos de la cara, en ocasiones de forma simultánea. Se acompaña de edema facial y lengua fisurada."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "La parálisis del nervio laríngeo superior se manifiesta por:",
+      "opciones": [
+        "Sólo disfonía",
+        "Disnea y disfonía",
+        "Episodios de aspiración por pérdida de sensibilidad larínea",
+        "Voz bitonal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El nervio laríngeo superior es la rama del nervio vago que se encarga de la sensibilidad de la laringe. Por tanto una lesión a este nivel cursará con episodios de aspiración por pérdida de sensibilidad laringe lo que impide que se desencadene el reflejo tusígeno, por lo que marcamos la opción 3 correcta."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Un paciente con parálisis facial periférica que presenta un test de lacrimación (Schirmer) normal y un reflejo estapedial abolido, sugiere una lesión en:",
+      "opciones": [
+        "La primera porción del facial.",
+        "La segunda porción del facial.",
+        "La tercera porción del facial por debajo de la salida de la cuerda del tímpano.",
+        "El nervio facial parotídeo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: Si la lesión se encontrara a nivel del CAI estaría afectado todo el nervio facial, y por tanto no tendría un test de Schirmer normal. Si la lesión estuviera en la primera porción del nervio facial ocurriría lo mismo. Si la lesión fuera distal a la cuerda del tímpano el reflejo estapedial estaría normal, puesto que la rama que va al músculo del estribo se encuentra proximal al nervio cuerda del tímpano. Si la porción alterada fuese la porción intraparotídea tanto la lacrimación como el reflejo estapedial estarían normales"
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Una exploración audiométrica en un paciente con una hipoacusia neurosensorial se caracteriza por:",
+      "opciones": [
+        "Gap óseo-aéreo.",
+        "Afectación preferente de frecuencias graves.",
+        "Buena discriminación.",
+        "Afectación preferente de frecuencias agudas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la audiometría tonal una hipoacusia de percepción o neurosensorial se caracteriza por presentar un umbral auditivo disminuido tanto de la audición por vía ósea como de la vía aérea, sin diferencia o GAP óseo- aéreo. La mayoría de las hipoacusias de percepción presentan una afectación mayor en las frecuencias agudas (la enfermedad de Meniere es la excepción al afectarse más las frecuencias graves) opción 4 correcta. La hipoacusia de transmisión presenta GAP óseo- aéreo, siendo la audición por vía ósea normal y disminuida por vía aérea. En la audiometría verbal la hipoacusia de percepción presenta una mala discriminación mientras que la de transmisión la tiene normal."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "¿Cuál de los siguientes no es un factor de riesgo para desarrollar una lesión maligna en cavidad oral?",
+      "opciones": [
+        "Tabaco",
+        "Roce crónico de prótesis dental",
+        "Consumo crónico de alcohol",
+        "Virus de Epstein-Barr"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El factor de riesgo más importante para el desarrollo de lesión maligna oral es el consumo de tabaco. El alcohol multiplica el riesgo del tabaco. También el roce crónico con una prótesis dental puede provocarlo. El virus del papiloma oral también se ha relacionado con el desarrollo de tumores orales, aunque menos frecuente que en la orofaringe. El virus de Epstein-Barr esta implicado en el desarrollo del carcinoma de cavum, por lo que marcamos la opción 4 correcta."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Mujer de 25 años que acude a Urgencias porque refiere que, de forma brusca, ha dejado de escuchar por el oído derecho al poco tiempo de despertar. Además refiere presencia de pitidos continuos en el mismo oído. A la exploración tiene una otoscopia normal, presenta una acumetría con Rinne positivo bilateral y Weber lateralizado hacía el oído izquierdo. No refiere cuadros similares. ¿Cuál es su Sospecha - Tratamiento INICIAL?",
+      "opciones": [
+        "Hipoacusia súbita - Corticoides sistémicos.",
+        "Laberintitis - Implante coclear.",
+        "Otoesclerosis - Estapedectomía.",
+        "Síndrome de Ménière - Vasodilatadores."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Opción 1 correcta: La sordera brusca o hipoacusia súbita es una entidad de causa desconocida, aunque algunos estudios la han relacionado con una infección vírica 1-2 semanas antes de su aparición. Aunque el pronóstico de recuperación es bueno y no se influye demasiado por el tratamiento, este consiste en esteroides (para disminuir el supuesto componente inflamatorio). La pista de la hipoacusia neurosensorial la da la acumetría (Rinne positivo y Weber hacia el lado sano). En consulta se debería confirmar la hipoacusia neurosensorial con una audiometría y solicitar una RMN para descartar patología del APC, como un neurinoma, que pudiera manifestarse de manera similar a esta patología."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "El reclutamiento como signo típicamente endococlear:",
+      "opciones": [
+        "Se presenta en un 12-20% de los neurinomas del acústico.",
+        "El reclutamiento es un signo de sordera retrococlear.",
+        "La existencia de reclutamiento excluye el diagnóstico de neurinoma.",
+        "El reclutamiento sólo se presenta en las sorderas cocleares."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El reclutamiento es un signo de afectación endococlear y aparece en las hipoacusias de percepción con lesión coclear. En las hipoacusias retrococleares no existe reclutamiento y sí fatiga y adaptación patológica. En el neurinoma es típica la hipoacusia retrococlear pero en un 12- 20% de los casos puede presentarse como sordera brusca con afectación coclear(Opción 1 Correcta). Esta presentación se piensa que corresponde a la isquemia coclear producida por lesión de la arteria laberíntica por edema o hemorragia intracanalicular del tumor, a veces de pequeño tamaño. Es en estos casos donde existe reclutamiento en el neurinoma."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "El escotoma en la audiometría tonal a 4000 Hz monoaural es típico de:",
+      "opciones": [
+        "Trauma acústico agudo.",
+        "Trauma acústico crónico.",
+        "Ototoxicidad.",
+        "Sordera súbita."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una hipoacusia neurosensorial con escotoma centrado en la frecuencia de 4000 Hz es casi patognomónico de trauma acústico agudo (Opción 1 correcta). En el trauma acústico crónico aparece una pérdida de audición en todas las frecuencias agudas con una curva de configuración descendente, que puede afectar en estados avanzados también a las frecuencias conversacionales. La ototoxicidad y la sordea súbita suelen tener también curvas de aspecto descendente. En la conmoción laberíntica la hipoacusia se acompaña generalmente de alteración en el equilibrio."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Paciente de 39 años que acude por parálisis facial derecha completa de instauración brusca, sin otras alteraciones acompañantes. Toda la musculatura de la hemicara derecha está afectada. La etiología MÁS probable del cuadro clínico será:",
+      "opciones": [
+        "Idiopática.",
+        "Tumoral.",
+        "Por otitis media.",
+        "Síndrome de Melkersson-Rosenthal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos presentan un claro caso de parálisis facial. Debes recordar que la causa más frecuente es idiopática (opción 1 correcta), con el epónimo de Bell o parálisis facial a frigore. Recuerda que el tratamiento es médico, con corticoides, para disminuir este edema, lo que acorta el tiempo de recuperación y protección ocular. La segunda causa más frecuente serían las de origen traumático, por fracturas temporales o heridas faciales, que afecten al nervio facial en su trayecto. También puede lesionarse durante intervenciones quirúrgicas. El síndrome de Ramsay-Hunt no es otra cosa que el herpes-zóster, ótico. Inicialmente, produce intensa otalgia, y después de 2 a 3 días aparecen las primeras vesículas en el conducto auditivo externo y en el pabellón auricular. En este caso, habría que instaurar tratamiento antivírico con aciclovir o derivados."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Una de las siguientes respuestas es falsa respecto a la neuronitis vestibular:",
+      "opciones": [
+        "Se caracteriza por una crisis de vértigo.",
+        "En la electronistagmografía hay hipo o arreflexia vestibular.",
+        "Se afecta la primera neurona del nervio vestibular.",
+        "Se acompaña de hipocusia y acúfenos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La neuronitis vestibular es un proceso que afecta sólo al nervio vestibular del VIII par craneal, por lo que presenta vértigo y no síntomas auditivos (opción 4 correcta). La etiología se piensa que puede ser vírica o infecciosa y afecta a la primera neurona del nervio vestibular que disminuye o cesa en su función provocando hipo o arreflexia vestibular. Clínicamente se presenta como una crisis intensa de aparición brusca que irá mejorando en el curso de días o semanas."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "La angina de Ludwig es:",
+      "opciones": [
+        "Una infección del suelo de la boca y espacios submandibulares potencialmente grave por el posible compromiso de la vía aérea.",
+        "Una infección del suelo de la boca y espacios submandibulares potencialmente grave por su extensión al seno cavernoso.",
+        "Una forma de amigdalitis por anaerobios.",
+        "Su origen habitual es un absceso retrofaríngeo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta muy fácil sobre la definición de la Angina de Ludwig. La angina de Ludwig (AL) es una entidad patológica, odontogénica e infecciosa que representa una situación de emergencia por comprometer la vida del paciente debido a una progresiva oclusión de la vía aérea, producto del avance de la infección de origen dentario hacia los espacios submandibulares, sublinguales y submental, lo que trae como consecuencia el colapso de la misma. Opción 1 correcta."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "El síntoma más frecuente de la otomicosis es:",
+      "opciones": [
+        "Hipoacusia.",
+        "Otorrea.",
+        "Otorragia.",
+        "Prurito."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La otomicosis o infección por hongos del conducto auditivo externo se caracteriza principalmente por el prurito ótico (opción 4 correcta). Aparece generalmente como una sobreinfección tras un tratamiento con antibióticos tópicos y se debe pensar en ella siempre que una infección no mejore con terapia antibiótica. Puede presentar un exudado algodonoso (cándidas), en ocasiones de color gris negruzco (Aspergillus). La obstrucción del CAE por este exudado puede producir hipoacusia de transmisión."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Una mujer de 30 años consulta por sordera de larga duración que empeoró en su último embarazo. En su historia destaca el antecedente familiar materno de sordera. El diagnóstico será:",
+      "opciones": [
+        "Tuberculosis ótica.",
+        "Otosclerosis.",
+        "Conmoción laberíntica.",
+        "Síndrome de Mondini."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La historia clínica habitual de la otosclerosis es la de una hipoacusia progresiva en una mujer iniciada a partir de los 20 años, que empeora con los embarazos y con historia familiar de hipoacusia (opción 2 correcta). La hipoacusia suele ser de transmisión y puede presentar acúfeno y mareo ocasional. La exploración otoscópica es normal. La tuberculosis ótica se debe sospechar ante una otitis media crónica que no responda al tratamiento habitual, la conmoción laberíntica aparece después de un traumatismo, el glomus timpánica presenta una masa rojiza pulsátil que abomba la membrana timpánica. La malformación del síndrome de Mondini cursa con hipoacusia neurosensorial severa desde etapas tempranas de la vida."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "¿Cuál de las siguientes características no aparece en la hipoacusia del neurinoma del acústico?",
+      "opciones": [
+        "Alteración de la inteligibilidad (disocación tonal-verbal)",
+        "Weber lateralizado al oído sano",
+        "Fenómeno de reclutamiento",
+        "Fenómeno de fatiga"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Si en esta pregunta usamos técnica de examen vemos que la opción 3 y 4 son muy parecidas, por lo que la duda estará entre esas dos. La opción 3 la marcamos por se la correcta, es típica de la hipoacusia de percepción coclear y la 4 de hipoacusia de percepción retrococlear. En el caso del neurinoma del acústico la hipoacusia es retrococlear, con disocación tonal-verbal, sin reclutamiento y con fenómeno de fatiga (se necesita mayor intensidad para oír bien). Las opciones 1 y 2 son típicas de todas las hipoacusias de percepción."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Una paciente con fiebre y mal estado general presenta en la exploración un empastamiento doloroso del suelo de la boca, desde hace tres días. Existe franco abombamiento de la región submentoniana. En relación a la enfermedad que sospecha, es cierto que:",
+      "opciones": [
+        "Si presenta agranulocitosis, se hablaría de angina de Schultze.",
+        "Se trata de una angina de Plaut-Vincent, producida por anaerobios y espiroquetas.",
+        "El diagnóstico más probable es el de herpangina, producida por el virus Coxsackie A.",
+        "Probablemente esté en relación con mal estado dentario."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En esta pregunta nos describen una angina de Ludwig o absceso del suelo de la boca (submentoniano). Cursa con dolor y tumefacción en el suelo de la boca y su origen suele ser un mal estado dentario. El tratamiento incluye desbridamiento quirúrgico y antibióticos de amplio espectro que cubra anaerobios. Por tanto la respuesta correcta es la 4."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Varón de 58 años, sin antecedentes personales de interés, salvo cuadros repetitivos de infecciones de vías respiratorias altas, así como secuelas de otitis media crónica, con perforación timpánica izquierda tratada quirúrgicamente, que es derivado a la consulta de ORL por presentar otorrea en tres ocasiones en los dos últimos meses de manera esporádica, escasa, de oído derecho, acompañado de hipoacusia bilateral leve no progresiva. Niega cefalea, otalgia, mareo y otros datos neurológicos. A la exploración física se observa oído izquierdo con conducto auditivo externo permeable, membrana timpánica íntegra, opaca, movilidad presente. Oído derecho con conducto auditivo externo permeable, membrana timpánica íntegra, conservando cono luminoso, coloración normal, movilidad presente. Rinne positivo bilateral y Weber central. Audiometría con hipoacusia bilateral media mixta de predominio conductivo. TC: masa en el lado derecho de la base del cráneo que erosiona el hueso occipital. Con respecto al tratamiento quirúrgico del colesteatoma, ¿cuál es la finalidad PRIMORDIAL del mismo?",
+      "opciones": [
+        "Evitar complicaciones.",
+        "Mejorar la agudeza auditiva.",
+        "Eliminar la otorrea.",
+        "Evitar la malignización."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La indicación principal para intervenir quirúrgicamente un colesteatoma es evitar complicaciones (respuesta 1 correcta). La peligrosidad del colesteatoma está relacionada con las propiedades osteolíticas y el carácter evolutivo, que puede causar complicaciones graves. El tratamiento consiste en resecar el colesteatoma y efectuar, en la mayoría de los casos, una reconstrucción del oído."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Seleccione la relación “patología-tratamiento” falsa de las siguientes.",
+      "opciones": [
+        "Síndrome de Meniere - Dieta pobre en sal",
+        "Neuritis vestibular - Corticoides",
+        "Vértigo posicional paroxístico benigno - Sedantes vestibulares",
+        "Laberintitis - Tratamiento antibiótico"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El vértigo posicional paroxístico benigno es la forma más frecuente de vértigo periférico y su tratamiento no se realiza mediante sedantes vestibulares. Dado que la causa es la presencia de una otoconia en el interior de un canal semicircular, el tratamiento más adecuado es la reubicación de dicha partícula mediante maniobras, opción 3 correcta."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Señale en cuál de los siguientes cánceres se ha demostrado una mayor asociación con el VPH",
+      "opciones": [
+        "Carcinoma epidermoide de orofaringe",
+        "Linfoepitelioma de Cavum",
+        "Adenocarcinoma de etmoides",
+        "Carcinoma epidermoide de hipofaringe"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Aunque el VPH se ha relacionado con el cáncer de laringe o hipo faringe, es en el carcinoma epidermoide de oro faringe donde se ha demostrado una mayor asociación (opción 1 correcta). El tipo de pacientes con carcinoma epidermoide asociado a VPH es más jóven (30-55 años) y con mayor afectación de varones. A pesar de una mayor agresividad (manifestada por una extensión linfática más precoz), estos tumores presentan un pronóstico más favorable que los no asociados a VPH (su respuesta al tratamiento de órgano preservación con quimiorradioterapia es más favorable), además de tener menos tendencia a desarrollar segundos tumores primarios en otras localizaciones."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "El absceso periamigdalino es la complicación más frecuente de la amigdalitis aguda. Respecto al mismo, señale la afirmación CORRECTA:",
+      "opciones": [
+        "La úvula se desplaza al lado enfermo.",
+        "Es la causa más frecuente del síndrome de Lemièrre.",
+        "El tratamiento de elección es la clindamicina.",
+        "El dolor se hace unilateral."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El absceso periamigdalino presenta odinofagia UNILATERAL (respuesta 4 correcta). El tratamiento de elección son los corticoides y la penicilina de amplio espectro. La úvula se desplaza hacia el lado sano (empujada desde el enfermo). El síndrome de Lemièrre, producido por tromboflebitis de la vena yugular interna, aparece en los abscesos/flemones parafaríngeos."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Un varón de 54 años acude a urgencias refiriendo un cuadro de vértigo con sensación de giro de objetos y cortejo vegetativo, que le sucede en decúbito lateral derecho. No refiere hipoacusia, ni acúfenos, ni otra sintomatología ORL. ¿Qué exploración deberíamos realizarle?",
+      "opciones": [
+        "Exploración ocular para ver si hay nistagmus espontáneo.",
+        "Romberg.",
+        "Maniobra de Dix Hallpike.",
+        "Todas las anteriores."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clínica de vértigo en decúbito lateral derecho nos hace pensar en un vértigo paroxístico posicional benigno que es la causa más frecuente de vértigo.\n\nPara estudiar a estos pacientes, así como a todos los que presenten un cuadro vertiginoso, deberemos explorar los oídos, el nistagmus espontáneo, Romberg, revisión de pares craneales y maniobras de Dix Hallpike, como algo básico. Opción 4 correcta."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "De los siguientes ¿cúal es más habitual que aparezca en la arteritis temporal?",
+      "opciones": [
+        "Necrosis de lengua",
+        "Claudicación mandibular",
+        "Necrosis de la nariz",
+        "Aftas orales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: La arteritis de la temporal es una vasculitis que afecta a vasos de mediano y gran calibre. Dentro de sus síntomas locales craneofaciales, además de la cefalea, y las alteraciones oculares, puede aparecer dolor al masticar en los músculos masticadores como consecuencia de una isquemia de la vascularización de esa zona."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Cuál de los siguientes signos o síntomas podría encontrar en un síndrome vertiginoso periférico?:",
+      "opciones": [
+        "Vértigo sin nistagmo.",
+        "Desviación de índices.",
+        "Dismetría.",
+        "Disdiadococinesia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un vértigo periférico las pruebas vestíbulo- espinales se dirigen hacia el lado enfermo (Romberg, Unterberger, prueba de los índices, alteración de la marcha, etc) y existe un nistagmo horizonto-rotatorio que se dirige hacia el lado sano, opción 2 correcta. La ausencia de nistagmo es muy indicativa de que es un proceso central, así como la aparición de un nistagmo que no sea horizonto- rotatorio (vertical, oblicuo o rotatorio puro). Tampoco debe aparecer déficit sensitivos, motores, de conciencia o de otros pares craneales. Las pruebas cerebelosas deben ser normales no existiendo dismetría, temblor cerebeloso, disdiadococinesia"
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Un niño de 16 meses de edad consulta por presentar, en el curso de un cuadro catarral de vías altas, fiebre, irritabilidad y llanto. Exploración física: Tª 39,6 ºC, tímpano derecho hiperémico y abombado, faringe enrojecida con exudado amarillento y secreción nasal abundante. Señale la afirmación FALSA en relación con este caso:",
+      "opciones": [
+        "La mayor incidencia de esta enfermedad se presenta entre los 6 meses y los 3 años de edad.",
+        "La hipertrofia adenoidea puede ser un factor predisponente.",
+        "La producción de betalactamasas por parte del neumococo es cada vez más frecuente.",
+        "La vía de propagación más frecuente es la tubárica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta trampa. En el manual de ORL dice que el Streptococcus pneumoniae es el germen más frecuentemente implicado en la OMA (que es lo que tiene este niño) y, por otro lado, dice que “cada vez es más frecuente la producción de GÉRMENES productores de betalactamasas”. Pero NO dice que el neumococo produzca betalactamasas, eso es falso, porque la resistencia del neumococo a betalactámicos no está mediada por betalactamasas, sino porque sintetiza PBPs (proteínas de unión a penicilina) anómalas a las que no podrían unirse los betalactámicos. Por eso, la opción 3 es falsa. El resto de opciones son correctas."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "La fonomicrocirugía endolaríngea es el tratamiento de elección de todas las siguientes patologías excepto:",
+      "opciones": [
+        "Quiste intracordal",
+        "Edema de Reinke",
+        "Nódulos vocales",
+        "Pólipo de cuerda vocal"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El tratamiento de elección de los nódulos vocales es la foliaría."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Mujer de 40 años que refiere acúfeno del oído izquierdo sincrónico con el pulso junto con hipoacusia reciente de ese mismo oído. Por otoscopia vemos una tumoración rojiza pulsátil. Indique el diagnóstico MÁS probable:",
+      "opciones": [
+        "Carcinoma de oído medio.",
+        "Glomus timpánico.",
+        "Colesteatoma.",
+        "Otosclerosis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El glomus o tumor timpánico clínicamente se manifiesta como una hipoacusia transmisiva con acúfeno pulsátil. A la exploración se observa una masa rojiza pulsátil proveniente del hipotímpano que abomba la membrana timpánica. Progresivamente puede destruir el oído interno y producir hipoacusia neurosensorial y mareo, así como también afectación del nervio facial. Si este tumor se inicia en el agujero yugular se denomina glomus yugular y sus primeros síntomas se relacionan con la compresión de los pares craneales bajos. El carcinoma de oído medio puede manifestarse como otalgia o pólipo en el oído medio y es mucho menos frecuente que el tumor glómico (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Acude a su consulta un paciente varón de 64 años de edad por presentar una lesión nodular laterocervical derecha de 3 meses de evolución. El paciente se encuentra asintomático y carece de antecedentes médicos relevantes salvo ser fumador de 50 paquetes/año. Mediante palpación se objetiva una adenopatía yugular derecha de 2 cm. de diámetro, indurada, no dolorosa y adherida a planos profundos. La exploración fibroscópica de la vía aerodigestiva superior es anodina. La PAAF ecoguiada es concluyente para carcinoma epidermoide. La tomografía contrastada objetiva la metástasis descrita pero no permite ubicar la lesión primaria. Según su criterio, ¿cuál sería el siguiente paso a seguir?:",
+      "opciones": [
+        "Realizaría la adenectomía de la lesión palpable.",
+        "Realizaría un vaciamiento cervical funcional derecho y una amigdalectomía derecha profiláctica.",
+        "Iniciaría el tratamiento con radioterapia de la lesión palpable.",
+        "Solicitaría un PET-TAC."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La presencia de una adenopatía cervical metastásica obliga a estudiar la localización del tumor primario.\n\nEste estudio se realiza habitualmente mediante exploración (inspección y palpación de cavidad oral, fibroscopia flexible, laringoscopia indirecta, etc) y TAC.\n\nSi la exploración concienzuda y la imagen no muestran una potencial localización del tumor primario estamos ante una metástasis de primario desconocido.\n\nSuele realizarse un PET-TAC para localizar las áreas de alta actividad metabólica y así tomar biopsias de la región captante. Si no se dispone de la técnica o no es orientativa puede realizarse un mapa biópsico de la vía aerodigestiva superior.\n\nSi se identifica la lesión, se tratará según su estadiaje TNM.\n\nSi no se identifica, suele realizarse un vaciamiento cervical funcional + RT + QT."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Paciente mujer de 65 años de edad con antecedentes sin interés que acude a consulta por rinorrea sanguinolenta en fosa nasal izquierda de 2 meses de evolución, además de dolor facial que en la última semana es más intenso. Se ha notado una tumoración laterocervical izquierda que no le molesta. Se le realiza una exploración ORL observando una adenopatía laterocervical izquierda mayor de 2 cm y en la fibroendoscopia se aprecia una tumoración que se ve por meato medio izquierdo, con restos hemáticos y se toma biopsia. Se solicita PAAF de la adenopatía y se solicita TC cráneo-cervical. Resultados de tumoración de fosa nasal AP: tumoración maligna. PAAF: metástasis de tumoración maligna. TC: tumoración de seno maxilar que erosiona paredes y sale hacia fosa nasal izquierda. ¿Qué extirpe anatomopatológica será la más frecuente y qué tratamiento indicaríamos?",
+      "opciones": [
+        "Será un linfoma y el tratamiento será Radio-quimioterapia.",
+        "Será un carcinoma y el tratamiento será con Radio-quimioterapia.",
+        "Será un linfoma y el tratamiento será quirúrgico.",
+        "Será un carcinoma y el tratamiento será quirúrgico con o sin Radio/Quimioterapia postcirugía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los carcinomas de senos paranasales y fosas nasales se tratan con cirugía, si se pueden resecar y se complementa con radio-quimioterapia postcirugía si se precisa, en función del estadio en el que se encuentren.\n\nLa cirugía puede ser desde una técnica endoscópica para los tumores pequeños hasta una intervención con abordaje externo o una combinación de ambas técnicas, dependiendo de la localización y extensión de la tumoración."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "El seno más frecuentemente afectado en la sinusitis del adulto es:",
+      "opciones": [
+        "Seno frontal.",
+        "Seno etmoidal.",
+        "Seno esfenoidal.",
+        "Seno maxilar."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El seno que se afecta con más frecuencia en las sinusitis del adulto es el seno maxilar (Opcion 4 correcta). En los niños es el seno etmoidal."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "¿Cuál de los siguientes es el principal factor pronóstico de los tumores ORL?",
+      "opciones": [
+        "Ganglios cervicales afectados (N+)",
+        "Tamaño tumoral",
+        "Metástasis",
+        "Edad y comorbilidades del paciente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En todos los tumores ORL, el principal factor pronóstico es la existencia de ganglios afectados (N+). Las metástasis a distancia se producen sobre todo a nivel pulmonar. (Opción 1 correcta)"
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Acude una madre, muy preocupada, porque su hijo de 3 años no oye bien desde hace varios meses. Lo más probable es que se trate de:",
+      "opciones": [
+        "Una hipoacusia mixta bilateral",
+        "Una hipoacusia neurosensorial bilateral",
+        "Una hipoacusia de transmisión bilateral",
+        "Una hipoacusia retrococlear bilateral:"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "1. La causa más frecuente de hipoacusia en la infancia es, con mucha diferencia, la otitis serosa bilateral. Es, por tanto, lo primero en lo que tenemos que pensar ante un niño con sordera. Como consecuencia del acúmulo de moco en oído medio, da lugar a una hipaocusia de transmisión bilateral."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "A un paciente de 18 años que ha presentado una parálisis facial de Bell derecha, le realizamos un timpanograma con reflejos estapediales de ambos oídos y nos salen unas curvas tipo A de Jerger sin reflejos en el oído derecho. Eso es debido a:",
+      "opciones": [
+        "El paciente tiene una otitis media crónica secretora de oído derecho.",
+        "Parálisis del músculo del estribo.",
+        "La parálisis de la musculatura de la cara impide que salga el reflejo.",
+        "La parálisis de Bell se asocia con una otitis media aguda."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cuando hay una afectación del nervio facial pueden verse afectadas distintas ramas según la zona del nervio afectada. Si no se consiguen unos reflejos estapediales con unas curvas normales de timpanograma, nos está indicando una afectación de la rama que inerva el músculo del estribo.\n\nLa parálisis facial no se asocia con una otitis media aguda.\n\nCon las curvas tipo A descartamos una otitis media crónica secretora."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Varón de 32 años que acude al Servicio de Urgencias aquejado de odinofagia de dos días de evolución, con fiebre termometrada de hasta 39 ºC. A la exploración presenta unas amígdalas hipertróficas, de aspecto hiperémico y con un exudado pultáceo bilateral. No hay abombamientos de los pilares anteriores. El paciente es alérgico a betalactámicos. Señale el antibiótico MÁS correcto en este caso:",
+      "opciones": [
+        "Gentamicina.",
+        "Amoxicilina-Clavulánico.",
+        "Claritromicina.",
+        "Cloxacilina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las amígdalas pultáceas (placas blanquecinas en el interior de las criptas amigdalinas) junto con fiebre, indican una amigdalitis aguda. El tratamiento de elección en estos casos son los betalactámicos; sin embargo, dado que el paciente es ALÉRGICO, la alternativa son los macrólidos como la claritromicina (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Paciente de 57 años, no fumador, que acude por adenopatía de 2 meses de evolución. En la exploración general no presenta otras adenopatías, y en el área ORL no tiene ninguna lesión. ¿Cuál sería el orden de las pruebas diagnósticas que debería pedir a continuación?",
+      "opciones": [
+        "Biopsia incisional de la adenopatía, TAC cervical y si son negativas, PET-TAC.",
+        "Biopsia excisional de la adenopatía, TAC cervical y si son negativas, PET-TAC.",
+        "ECO-PAAF y si sale epidermoide biopsia de la adenopatía y TAC cervical.",
+        "ECO-PAAF y si sale epidermoide y el TAC cervical es negativo, pedir PET-TAC."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: Ante una adenopatía cervical sin lesión primaria:\n\n1º ECOPAAF y TAC cervical\n\nSi el resultado es de linfoma: biopsia.\n\nSi el resultado es de carcinoma epidermoide y seguimos sin localizar lesión primaria en área ORL: PET-TAC."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "En relación con la otitis media secretoria unilateral del adulto, señalar la afirmación INCORRECTA de las que se relacionan a continuación:",
+      "opciones": [
+        "El Weber audiométrico se desplaza al oído enfermo.",
+        "El tratamiento de elección consiste en la colocación de un drenaje transtimpánico en el oído afectado.",
+        "En ocasiones, la otitis media secretoria del adulto puede ser expresión de un cáncer de Cavum.",
+        "La impedanciometría es una prueba diagnóstica definitiva."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Muy importante: Lo primero a descartar ante una otitis media secretoria unilateral del adulto es un carcinoma de cávum. El tratamiento habitual de una otitis secretoria unilateral consiste en vasoconstrictores y antiinflamatorios a los que se añade tratamiento antibiótico y si existe hipertrofia adenoidea importante, se realiza adenoidectomía. La inserción de drenaje transtimpánico está indicada en niños con otitis medias agudas recurrentes, por lo que la pregunta al tratar de un adulto nos da la respuesta incorrecta. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Mujer de 60 años que hace unos años que no oye bien. Nos explica que su madre, abuela, y hermana, ya fallecidas, también tuvieron problemas de audición. Refiere que los problemas comenzaron hacia los 25 años y la cosa fue empeorando con los años y sobre todo con sus dos embarazos. Con respecto a las hipoacusias, ¿qué relación de las siguientes es FALSA?",
+      "opciones": [
+        "Hipoacusia brusca: duración 30 dB, 3 frecuencias consecutivas.",
+        "Trauma acústico: escotoma en 4.000 Hz.",
+        "Ménière: al principio fluctuante y peor en agudos.",
+        "Neurinoma: peor en agudos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico cuyo enunciado es totalmente prescindible, recuerda siempre leer primero la última frase. Recuerda que el Ménière es la excepción a la regla \"los accidentes de conducción (conducción = transmisión) son graves\", siendo una hipoacusia neurosensorial que es peor en graves, cuando normalmente las NS son peores en agudos (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Paciente de 35 años que acude a Urgencias por parálisis facial derecha de 24 horas de evolución. Como antecedente de interés refiere una cirugía otológica del lado derecho hace dos días por un colesteatoma. El paciente insiste en que en el postoperatorio inmediato no presentaba la parálisis facial y que esta apareció al día siguiente de la cirugía. En la exploración de aprecia una parálisis facial derecha con imposibilidad para el cierre ocular y desviación de la comisura bucal al lado izquierdo. La herida quirúrgica presenta buen aspecto. A este respecto, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Se trata de una parálisis facial central.",
+        "Se trata de una parálisis facial periférica diferida, que presenta un mejor pronóstico.",
+        "El tratamiento se basa en el uso de gotas antibióticas",
+        "Con toda seguridad, el nervio facial ha sido interrumpido durante la cirugía."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico sobre una parálisis facial periférica (afectación del tercio superior y antecedente otológico). El hecho de que el paciente no presentase la parálisis facial justo después de la cirugía sino que esta apareciese a las 24 horas de la misma, habla a favor de una parálisis facial diferida. Las parálisis faciales diferidas tienen mejor pronóstico que las inmediatas y se producen principalmente por inflamación del nervio facial (por la manipulación durante la cirugía) (respuesta 2 correcta), no por interrupción del nervio (el paciente en este caso presentaría una parálisis facial inmediata). El tratamiento se basa en el uso de corticoides sistémicos."
+    }
+  ]
+}

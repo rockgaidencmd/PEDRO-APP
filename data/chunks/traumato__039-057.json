@@ -1,0 +1,600 @@
+{
+  "materia": "traumato",
+  "paginaInicio": 39,
+  "paginaFin": 57,
+  "anomalias": [
+    "p42: el comentario razona sobre \"un sistema de osteosíntesis del tipo placa y tornillos (opciones 1 y 5)\" pero la pregunta solo tiene 4 opciones",
+    "p49: el enunciado habla de \"fractura abierta grado IIB de la diáfisis femoral\"; la clasificación de Gustilo y Anderson no contempla un grado IIB (probable errata por IIIB)",
+    "p54: el comentario afirma que \"La lesión del N. cubital cursa con parestesias de 4º- 5º dedo y parálisis de la musculatura tenar\" y a renglón seguido atribuye al túnel carpiano la atrofia de la eminencia tenar; el texto es internamente incoherente (la afectación del cubital corresponde a la musculatura hipotenar/intrínseca)"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 39,
+      "enunciado": "Mujer de 65 años, obesa, que sufre una caída sobre la mano con el codo en extensión. Presenta dolor en el brazo con tumefacción e impotencia funcional del mismo y con imposibilidad para realizar la extensión de la muñeca y de los dedos. Lo MÁS probable es que presente:",
+      "opciones": [
+        "Fractura-luxación de húmero proximal.",
+        "Luxación de codo.",
+        "Fractura diafisaria de húmero asociada a fractura doble de antebrazo.",
+        "Fractura diafisaria de húmero con lesión del nervio radial."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los dos datos clave que nos dan en la pregunta – brazo con impotencia funcional e incapacidad para la extensión de muñeca y dedos – concuerdan con la opción 4. Una fractura diafisaria del húmero y la lesión del nervio radial pueden dar lugar al cuadro descrito. El resto de las lesiones traumáticas que nos proponen no producen de manera esperable una lesión del nervio radial."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "¿En cuál de las siguientes localizaciones es MENOS probable la necrosis avascular como complicación de una fractura?:",
+      "opciones": [
+        "Cuerpo del astrágalo.",
+        "Cabeza humeral.",
+        "Cabeza cubital.",
+        "Cabeza femoral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La necrosis avascular es una complicación frecuente en determinados huesos en los que una vascularización precaria hace que cualquier tipo de alteración a nivel de la microvascularización como fracturas, luxaciones o causas secundarias pueda dar lugar a esta grave complicación. De entre las opciones, la localización mas habitual es la de la cabeza femoral, y la menos frecuente, de hecho es anecdótica su incidencia, la de la cabeza del cúbito."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Varón de 48 años que se encuentra en plena crisis existencial. Decide acudir a un coach que le recomienda hacer deporte para encontrarse con su mejor yo y seguir el camino hacia una vida mejor. Cuando lleva entrenando ocho semanas, con el fin de correr su primera media maratón dos meses después, acude a su consulta con mucho dolor en el pie derecho. El dolor le impide ya correr y es continuo durante todo el día. No recuerda traumatismos, pero sí haber forzado más de la cuenta con los entrenamientos. Aporta una resonancia que se ha hecho hace una semana y las imágenes corroboran su problema. ¿Qué lesión sospecharía en PRIMER lugar?",
+      "opciones": [
+        "Metatarsalgia propulsiva.",
+        "Tendinopatía aquílea.",
+        "Fascitis plantar crónica.",
+        "Fractura de estrés del segundo metatarsiano."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta cuyo enunciado nos dirige hacia un paciente que ha aumentado mucho su actividad física y presenta un dolor en un pie. Es el escenario típico de una fractura de estrés de un metatarsiano (respuesta 4 correcta), la localización más habitual para este tipo de lesiones. El dolor puede llegar a ser incapacitante. La radiología simple no muestra la formación de callo de fractura hasta varias semanas después del inicio del dolor, pero la resonancia sí muestra pronto la alteración de señal en el metatarsiano afectado. El período ventana entre el inicio de los síntomas y la expresión radiológica es casi siempre una buena pista para pensar en fractura de estrés. El tratamiento consistirá en reposo, analgésicos y reintroducción progresiva de la actividad cuando el dolor haya cedido."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "De los siguientes factores, ¿cuál es el único que promueve la consolidación y no la inhibe?",
+      "opciones": [
+        "Corticoides.",
+        "Citostáticos.",
+        "Indometacina.",
+        "Calcitonina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La consolidación es una respuesta inflamatoria y cualquier fármaco que frene la inflamación - corticoides, citostáticos, indometacina - inhibirá la respuesta de la consolidación. Con lo que nos deja la calcitonina como único promotor de la consolidación en esta pregunta. La calcitonina disminuye la actividad osteoclástica y ayuda a la incorporación de calcio al hueso, por lo que promueve la consolidación. (Respuesta 4 correcta)"
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "La torsión del pie en posición de supinación y estando sobre una superficie irregular es una de las lesiones deportivas más frecuentes; en esta torsión suele producirse un sobreestiramiento o ruptura de alguno de los ligamentos de la articulación del tobillo. De los ligamentos citados a continuación uno de ellos es el lesionado con más frecuencia ¿Cuál es?",
+      "opciones": [
+        "Ligamento colateral medial o deltoideo.",
+        "Ligamento calcáneo cuboideo plantar o plantar corto.",
+        "Ligamento astrágalo escafoides (navicular) plantar.",
+        "Ligamento colateral lateral."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta ya ha sido preguntada en otras ocasiones, haciendo referencia al ligamento lesionado con más frecuencia en el esguince de tobillo, que es el ligamento lateral externo o colateral lateral (peroneo- astragalino anterior) como dice la respuesta 4. De hecho, el término esguince de tobillo se aplica a las lesiones del complejo ligamentoso lateral.\n\nEste complejo está formado por 3 ligamentos: peroneo - astragalino anterior,peroneo- calcáneo o fascículo medio y peroneo- astragalino posterior, lesionándose secuencialmente por este orden, de forma que, en los esguinces leves se lesiona sólo el peroneo- astragalino anterior, y en los más graves, se lesionan dos o los tres componentes del complejo ligamentoso externo.\n\nEl ligamento colateral medial o deltoideo se lesiona raramente de forma aislada, siendo necesario descartar una fractura de peroné proximal asociada (fractura de Maisonneuve) ante un paciente que presente dolor y tumefacción en la cara medial del tobillo."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cuál de los signos y/o síntomas siguientes es más precoz y constante en un síndrome compartimental?:",
+      "opciones": [
+        "Dolor intenso, superior al habitual en una lesión similar.",
+        "Parestesias en la zona correspondiente del nervio incluido en el compartimento.",
+        "Parálisis motora distal.",
+        "Alteraciones cutáneas tipo livideces."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome compartimental es un aumento de la presión en un compartimento osteofascial por encima de la presión de perfusión capilar (15- 20 mm Hg). Se trata pues de un cuadro agudo de isquemia y por tanto la primera manifestación del mismo será el dolor, un dolor desproporcionado con el tipo de lesión (respuesta 1 correcta), que se acompaña de palidez y/o cianosis, frialdad cutánea, parestesias y parálisis, siendo estas, las manifestaciones neurológicas, las mas tardías. El pulso suele estar conservado, aunque mas débil por lo general. El tratamiento debe ser inmediato, optando inicialmente por medidas antiedema, retirando todo tipo de compresiones extrínsecas o bien realizando fasciotomías, puesto que una isquemia prolongada conducirá a la necrosis de todas las estructuras del compartimento, músculos, nervios, endotelio vascular, etc. con secuelas graves por fibrosis residual."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Con respecto a la fisiopatología ósea, una de las siguientes afirmaciones es FALSA. Señálela:",
+      "opciones": [
+        "Los osteoclastos son células óseas de gran tamaño que derivan de células madre mesenquimales.",
+        "El colágeno tipo 1 constituye la mayor parte de la fracción orgánica del componente extracelular del tejido óseo.",
+        "La sustancia fundamental amorfa forma parte de la matriz extracelular del hueso y es rica en mucopolisacáridos.",
+        "La fracción inorgánica o mineral del tejido óseo constituye el 70% del peso seco del hueso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los osteoclastos no derivan de células madre mesenquimales sino de células pluripotenciales de la médula ósea del sistema monocito-macrófago. (respuesta 1 Falsa)"
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "¿Cuál sería su enfoque terapéutico en una fractura abierta grado III conminuta de fémur en un paciente adulto, una vez realizada la limpieza y desbridamiento de las partes blandas?:",
+      "opciones": [
+        "Osteosíntesis con placa y tornillos, tras reposición anatómica cuidadosa de todos los fragmentos.",
+        "Fijación externa.",
+        "Reposo simple en cama hasta la curación de los tejidos blandos.",
+        "Escisión de todos los pequeños fragmentos y síntesis con placa de los dos fragmentos mayores."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Independientemente de la localización de la fractura, hoy día, el tratamiento mas extendido de las fracturas abiertas grado III de Gustilo, una vez realizadas las medidas de limpieza y de cobertura antibiótica- antitetánica adecuadas, es la fijación externa (opción 2 correcta). En algunos casos, si se tiene seguridad de que todas estas medidas se han realizado de forma óptima, puede optarse por realizar un enclavado endomedular en fracturas diafisarias de huesos largos, pero nunca por un sistema de osteosíntesis del tipo placa y tornillos (opciones 1 y 5), que requeriría ampliar el abordaje en la zona de la herida y desperiostización extensa del hueso en la zona donde apoya la placa, lo cual, aumenta el riesgo de devascularización, y por ende, el de infección y pseudoartrosis, las dos complicaciones mas frecuentes de las fracturas abiertas. La escisión de fragmentos, puede llevarse a cabo si esto se encuentran desvitalizados y/o contaminados, como gesto asociado a la limpieza quirúrgica."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "El portero de un equipo de fútbol acude a una consulta por dolor en la muñeca de varios días de evolución, a raíz de una caída. Refiere un episodio similar hace seis meses que no fue tratado, y que cedió en el transcurso de varias semanas. Radiológicamente presenta una pseudoartrosis de escafoides con esclerosis de los bordes. Su tratamiento será:",
+      "opciones": [
+        "Inmovilización con escayola durante tres meses.",
+        "Utilización de muñequera y evitar esfuerzos.",
+        "Sustitución por prótesis de silicona.",
+        "Refrescar los bordes, aporte de injerto y osteosíntesis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El escafoides carpiano es el hueso del carpo que se fractura con mayor frecuencia, por lo general tras caídas sobre el “talón” de la mano. En ocasiones incluso con una inmovilización adecuada desde el principio y con mayor riesgo si no se diagnostica inicialmente, como es el caso de la pregunta, no se consigue la consolidación, estableciéndose una ausencia de consolidación de tipo avascular o comúnmente denominada pseudoartrosis. El tratamiento de esta complicación es quirúrgico por definición, siendo necesario en este caso realizar técnicas como la indicada en la opción de respuesta 4. El tratamiento conservador degeneraría en una artrosis postraumática a medio plazo por inestabilidad radiocarpiana, mientras que las prótesis en esta localización han dado malos resultados en el pasado."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Un paciente varón, de 55 años, acude por dolor lumbar variable y de difícil localización, que cede con la flexión del tronco. No recuerda antecedente traumático, y en la exploración presenta Lasègue positivo, sensación de pérdida de fuerza en miembros inferiores y reflejos osteotendinosos normales. La radiografía de la columna lumbar presenta signos degenerativos compatibles con artrosis, sin lesiones óseas evidentes. Señale cuál le parece el diagnóstico más probable de este paciente:",
+      "opciones": [
+        "Espondilolistesis.",
+        "Hernia discal lateral.",
+        "Espondilodiscitis.",
+        "Estenosis de canal raquídeo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La pregunta nos expone una sintomatología que es compatible con una estenosis de canal lumbar con artrosis lumbar (respuesta 4). Puede existir Lasegue si alguna raíz está afectada en el mismo contexto. No nos hablan de desplazamiento de una vértebra sobre otra (respuesta 1 incorrecta), ni sobre clínica de ciática unilateral (respuesta 2 incorrecta), ni nos dan datos infecciosos (respuesta 3 incorrecta)."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "¿Cómo se llaman los elementos que unen el periostio a la superficie externa del hueso?",
+      "opciones": [
+        "Fibras de Sharpey.",
+        "Canales de Volkmann.",
+        "Conductos de Havers.",
+        "\"Cambium\"."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La unión de la capa interna del periostio a la superficie externa del hueso cortical se hace a través de las fibras de Sharpey (Respuesta 1 Correcta)."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es verdadera sobre las deformidades vertebrales?",
+      "opciones": [
+        "El síndrome de Klippel-Feil consiste en una inestabilidad, generalmente a nivel cervical, secundaria a una alteración en la disposición anatómica de las carillas articulares, que condiciona una actitud de rigidez cervical.",
+        "La enfermedad de Scheuermann torácica tiene predominio del dolor como principal manifestación clínica.",
+        "La enfermedad de Scheuermann lumbar tiene predominio de la deformidad sobre el dolor como queja fundamental del paciente.",
+        "En la enfermedad de Scheuermann, la cirugía se indica cuando la curva es dolorosa y con una cifosis mayor de 75.º, o en curvas progresivas que no responden al tratamiento conservador."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Si analizamos las respuestas veremos que la 1) no es correcta porque el síndrome de Klippel-Feil no presenta una alteración en las carillas articulares sino una fusión de uno o más segmentos vertebrales. La enfermedad de Scheuermann torácica no se caracteriza habitualmente por dolor (la lumbar sí), luego 2 y 3 incorrectas. La respuesta 4 es correcta y resume las indicaciones de cirugía en esta patología."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Mujer de 35 años de edad que en un golpe banal, nota mucho dolor en el hombro izquierdo y se cae al suelo. Al llegar al hospital, la radiografía evidencia una fractura patológica de húmero proximal sobre una lesión lítica epifisaria. ¿Cuál sería su sospecha diagnóstica?",
+      "opciones": [
+        "Mieloma.",
+        "Osteosarcoma.",
+        "Granuloma eosinófilo.",
+        "Tumor de células gigantes."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El único tumor de localización epifisaria entre los que nos citan es el tumor de células gigantes, también conocido como osteoclastoma. Es típico de mujeres de mediana edad y el tratamiento es quirúrgico mediante curetaje, fresado de la cavidad, y relleno con cemento óseo."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "¿Cuál es la complicación aguda y crónica más frecuente tras una fractura de calcáneo?",
+      "opciones": [
+        "Embolia grasa – Necrosis astrágalo.",
+        "Síndrome de dolor regional complejo – Rigidez tobillo.",
+        "Síndrome compartimental – Artrosis subastragalina.",
+        "Infección – Molestias material osteosíntesis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La complicación aguda más importante de una fractura de calcáneo es el desarrollo de un síndrome compartimental. Por ese motivo es buena práctica dejar al paciente en observación o ingresado 24 horas después de la fractura. La artrosis subastragalina es la complicación crónica más frecuente, consecuencia del daño condral producido en el momento de la fractura y de una reducción incorrecta en el tratamiento ortopédico o quirúrgico. (Opción 3 Correcta)."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "El tratamiento de una prótesis infectada se conoce como:",
+      "opciones": [
+        "Recambio en un tiempo.",
+        "Recambio en dos tiempos.",
+        "Girdlestone.",
+        "Artroplastia de resección-interposición."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tratamiento de elección en las infecciones protésicas es el recambio en dos tiempos: una primera cirugía para extraer los componentes y realizar limpieza y desbridamiento (primer tiempo), seguido de un periodo con antibioterapia intravenosa hasta que se resuelva la infección, y una segunda cirugía una vez resuelta la infección para implantar una nueva artroplastia (segundo tiempo). Respuesta 2 Correcta."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Varón de 28 años que ingresa en el hospital tras presentar una fractura diafisaria de fémur derecho en un accidente de tráfico. Se le coloca una tracción esquelética en espera de un tratamiento quirúrgico definitivo durante los días siguientes. En los días posteriores a su ingreso presenta una afectación del nivel de conciencia, disfasia, un cuadro de insuficiencia respiratoria, y se aprecian petequias a nivel de conjuntivas, tórax y axilas. La radiografía de tórax muestra infiltrados difusos bilaterales. ¿Cuál de los siguientes le parece el diagnóstico MÁS probable?",
+      "opciones": [
+        "Edema pulmonar cardiogénico.",
+        "Shock neurogénico.",
+        "Embolia grasa.",
+        "Tromboembolismo pulmonar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico típico de un síndrome de embolia grasa: paciente con fracturas cerradas de huesos largos que tras un \"intervalo lúcido\" comienza con alteración en el nivel de conciencia, insuficiencia respiratoria y petequias conjuntivales y en hemitórax superior (respuesta 3 correcta). La radiografía de tórax presenta la imagen típica en \"torbellino de nieve\"."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "La presencia de una lesión vascular de gran vaso asociada a una fractura abierta la clasifica automáticamente en un tipo:",
+      "opciones": [
+        "IIIC",
+        "IIIA",
+        "IIIB",
+        "IV"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cuando una fractura abierta que presenta una lesión vascular asociada se clasifica en IIIC. Recuerda que es de mal pronóstico porque la isquemia (aunque sea temporal hasta una reparación o bypass) aumenta el riesgo de infección, y la afectación de vasos medianos y pequeños aumenta el riesgo de ausencia de consolidación. (Opción 1 Correcta)"
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Una paciente mujer, de 55 años, tras un traumatismo sobre el hombro, presenta dolor en la cara lateral del mismo, irradiado a la cara anterior del brazo. La sintomatología aumenta por la noche. En la exploración presenta limitación casi completa a la abducción y dolor a la abducción contrarresistencia. En la radiografía tan sólo se aprecia una distancia <6mm entre cabeza humeral y borde inferior del acromion. Ante la patología que presenta la paciente, señale lo incorrecto:",
+      "opciones": [
+        "La patología del manguito de los rotadores es la causa más frecuente de hombro doloroso en mayores de 40 años.",
+        "El tratamiento en esta fase comprende reposo articular 2 semanas, más AINE.",
+        "Se debe proceder a la reparación quirúrgica urgente, con descompresión del espacio subacromial.",
+        "Debe hacerse diagnóstico diferencial con la tendinitis bicipital."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El enunciado nos presenta un caso de tendinopatía de manguito rotador y posiblemente presente una disminución del tamaño del manguito que ha permitido que la cabeza del húmero se aproxime al acromion. La respuesta 3 NO es correcta porque la cirugía no es URGENTE en este caso. No nos cuentan si ha hecho un tratamiento conservador y el tiempo de evolución. El resto son respuestas \"blandas\" correctas."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Paciente con síndrome de dolor regional complejo de unos 7 meses de evolución tras un simple esguince de muñeca. ¿Qué fármaco tendrá menor utilidad en su tratamiento en el momento actual?",
+      "opciones": [
+        "Celecoxib.",
+        "Amitriptilina.",
+        "Gabapentina.",
+        "Tramadol."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El dolor que se mantiene durante gran parte de la evolución en un síndrome de dolor regional complejo es de tipo neuropático. La amitriptilina, la gabapentina, y el tramadol pueden tener efecto sobre ese dolor, pero no el celecoxib. Salvo en los momentos iniciales del cuadro no existe inflamación, con lo que no tiene sentido pautar antiinflamatorios en el momento actual del caso (7 meses de evolución)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "¿En cuál de las siguientes localizaciones es más esperable que aparezca una fractura abierta?",
+      "opciones": [
+        "Fractura supracondílea de fémur.",
+        "Fractura supracondílea de húmero.",
+        "Fractura de escápula.",
+        "Fractura de tibia distal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La tibia es la localización más frecuente de las fracturas abiertas ya que la diáfisis tibial en su parte anteromedial es superficial y subcutánea, siendo frecuente que se lesione la piel al producirse fracturas de este hueso. (Opción 4 Correcta)"
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "El factor más importante para la curación de una fractura es:",
+      "opciones": [
+        "Obtener la alineación ósea.",
+        "Reducción exacta de los fragmentos óseos.",
+        "Organización del hematoma fracturario.",
+        "Inmovilización."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Si revisamos las opciones de la pregunta, todas ellas son necesarias para un correcto tratamiento de la fractura. El obtener una alineación ósea, siempre es recomendable para el buen resultado funcional, pero no imprescindible para la consolidación. La reducción exacta de los fragmentos, a excepción de las fracturas intraarticulares, donde es especialmente importante, en el resto no se considera imprescindible, es suficiente con lograr una amplia superficie de contacto óseo; pero lo que si se hace imprescindible es una correcta inmovilización de los fragmentos fracturarios, ya sea por métodos quirúrgicos como ortopédicos."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "En la exploración clínica de un síndrome compartimental puro encontraremos todos estos datos EXCEPTO uno:",
+      "opciones": [
+        "Dolores muy intensos.",
+        "Edema importante del miembro.",
+        "Trastornos sensitivos.",
+        "Ausencia de pulsos distales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El síndrome compartimental es un aumento de la presión osteofascial por encima de la presión de perfusión capilar, de forma que se produce un cuadro de isquemia, con las 5 \"p\" características (pain,- dolor, pailor- palidez, parestesias, paralisis y \"púlseless\" que mas bien e el caso del compartimental debe denominarse \"pulselessness\" que quiere decir que el pulso puede ser débil, pero no desaparece, puesto que la presión compartimental aumenta, pero no hasta los 70- 80 mmHg, presión del pulso (Presión arterial diastólica). (Opción 4 correcta)"
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "¿Cuál de las siguientes fracturas NO suele precisar tratamiento quirúrgico?:",
+      "opciones": [
+        "Fractura de escafoides.",
+        "Fractura pertrocantérea de cadera.",
+        "Fractura diafisaria de fémur.",
+        "Fractura supracondílea de fémur."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "De entre las siguientes opciones, la fractura de escafoides es la única cuyo tratamiento habitual es conservador mediante yeso antebraquial incluyendo el primer dedo, durante aproximadamente 3 meses. (Opción 1 Correcta) Cuando hay un desplazamiento mayor de 1 mm de los fragmentos o ángulo escafosemilunar mayor de 60º está indicado la reducción abierta y osteosíntesis mediante tornillo o agujas. Las fracturas de cúbito y radio son inestables en la mayoría de los casos y precisan de reducción abierta y osteosíntesis mediante placa y tornillos."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Una niña con cuello corto y movilidad cervical restringida por la fusión de varias vértebras cervicales, PROBABLEMENTE padecerá:",
+      "opciones": [
+        "Artrosis cervical.",
+        "Osteomielitis cervical.",
+        "Tortícolis congénita bilateral.",
+        "Síndrome de Klippel-Feil."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El síndrome de Klippel-Feil es una rara afectación de la columna cervical. Afecta por igual a ambos sexos y se presenta mayoritariamente de forma esporádica, aunque en algunos casos es hereditario. El aspecto clínico es el de un “hombre (o en este caso niña) sin cuello”. La cabeza parece incluida entre los hombros. Tienen brevedad y rigidez cervical, implantación baja del cabello, anomalías faciales y tortícolis irreductible. Se asocia a elevación de la escápula y aparición de un hueso omovertebral y pueden aparecer trastornos neurológicos (sordera, alteraciones sensitivomotoras de miembros superiores o afectación de pares craneales). En la radiografía se aprecia a nivel cervical uno o varios bloques vertebrales, que incluyen dos o más vértebras y hemivértebras laterales, por lo que se produce una actitud en tortícolis. Estas alteraciones pueden tener dos consecuencias funcionales: oblicuidad del cuello e inestabilidad cervical. El número de agujeros de conjunción es correcto y suelen tener defectos de cierre dorsal del canal raquídeo. Cuando hay menos de tres cuerpos vertebrales fusionados, los síntomas son más leves que si existe una unión cervicoccipital o de C2- C3. Generalmente no precisa tratamiento, excepto en casos sintomáticos o con inestabilidad, precisando una fusión a ese nivel."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Tras sufrir una fractura supracondílea de codo, un niño comienza con un cuadro de dolor muy intenso en el antebrazo. Los dedos se encuentran edematosos, cianóticos y fríos. ¿Cuál de los siguientes signos NO es característico de este cuadro?:",
+      "opciones": [
+        "Aumento de la presión intracompartimental del compartimento anterior profundo del antebrazo.",
+        "Aumento del dolor con la flexión de los dedos.",
+        "Mejora de los síntomas con una fasciotomía extensa.",
+        "Aumento de LDH."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata con gran probabilidad de un síndrome compartimental del antebrazo, secundario a una fractura supracondílea del niño. La fractura, la manipulación cerrada de la fractura, la dificultad del retorno venoso y el yeso cerrado, son todos factores que pueden producir un compartimental sobre todo en el compartimento anterior profundo del antebrazo del niño, desencadenando un cuadro de dolor intenso, desproporcionado con el tipo de lesión, palidez y/o cianosis, pulso presente aunque a menudo débil, frialdad, dolor al estiramiento pasivo de la musculatura flexora antebraquial y si progresa el cuadro fibrosis y contractura muscular con secuelas sensitivo- motoras. El tratamiento definitivo ante la instauración del cuadro consiste en la fasciotomía extensa precoz. La LDH, CPK, GOT, aumentan como consecuencia de la intensa necrosis muscular que se produce con liberación de sus enzimas. Por tanto, la respuesta falsa es la 2 porque el aumento del dolor ocurriría al estirar los dedos, no con su flexión. (Opción 2 Correcta)"
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "La distrofia simpático refleja o atrofia de Sudeck, es una entidad patológica de fisiopatología incierta. Muchas teorías han sido postuladas. ¿Cuál de las siguientes afirmaciones es FALSA?:",
+      "opciones": [
+        "Clínicamente es característico el cuadro clínico de aumento de la temperatura local, dolor e inflamación desproporcionado con el tipo de lesión y momento de la evolución.",
+        "Radiográficamente presenta osteoporosis.",
+        "En los diferentes estadios la piel puede presentar trastornos tróficos, calor y sudoración profusa.",
+        "El tratamiento se basa en la inmovilización prolongada."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El Sudeck, o actualmente denominado síndrome doloroso regional complejo, es una entidad patológica local, poco conocida, asociada a múltiples circunstancias nosológicas, pero que con mayor frecuencia se asocia a inmovilizaciones prolongadas en descarga de pequeñas articulaciones (manos y pies sobre todo). Cursa inicialmente como refleja la opción 1, evolucionando hacia la distrofia y posterior atrofia, pudiendo llegar a ser muy invalidante si no se ataja precozmente el círculo vicioso mediante una intensa rehabilitación, asociada a métodos analgésicos muy variados, mediante la utilización de Calcitonina, Codeína, amitriptilina, fenitoína, fentolamina, fenoxibenzamina, clonidina, antag del calcio, infiltraciones de corticoides y otros, empleados en los casos mas leves hasta los bloqueos ganglionares con anestésicos e incluso simpatectomías químicas y/o quirúrgicas en los casos mas graves. Respuesta 4 FALSA."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Un paciente de 30 años ingresó hace tres días por una fractura subtrocantérea de fémur izquierdo, fractura de rótula derecha y fractura diafisaria conminuta de tibia izquierda, que se inmovilizaron provisionalmente, en espera de cirugía de osteosíntesis. Súbitamente, comienza con estupor, disnea, taquipnea y petequias conjuntivales, que después se extienden por el hemitórax superior. Señale la afirmación INCORRECTA en relación con esta entidad:",
+      "opciones": [
+        "El diagnóstico más probable es la embolia grasa.",
+        "Es típico de esta entidad un intervalo lúcido de 2-3 días desde el momento del traumatismo.",
+        "El tratamiento consistirá en oxigenoterapia, corticoides en altas dosis y la estabilización de las fracturas.",
+        "La imagen radiológica más probable es una Rx de tórax normal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un caso clínico típico de un síndrome de embolia grasa: paciente con fracturas cerradas de huesos largos que tras un \"intervalo lúcido\" comienza con estupor, disnea, taquipnea y petequias conjuntivales y en hemitórax superior. La radiografía de tórax típica presenta una imagen en \"torbellino de nieve\"."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Un paciente con una fractura abierta grado IIB de la diáfisis femoral lleva 3 días ingresado con una tracción transesquelética en espera de una cirugía definitiva. ¿Qué complicación es menos esperable que desarrolle?",
+      "opciones": [
+        "Embolia grasa.",
+        "Síndrome compartimental.",
+        "Infección.",
+        "Ausencia de consolidación."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cuando nos presentan un caso con una fractura de fémur diafisaria que lleva 3 días esperando cirugía con una tracción transesquelética nuestra cabeza piensa en la complicación de una embolia grasa (respuesta 1). Cuantos más días pasen desde la fractura hasta su estabilización quirúrgica definitiva (la tracción no impide la migración de émbolos grasos), más riesgo de embolia grasa. Pero si además nos dicen que la fractura es abierta, pensaremos también en las dos complicaciones típicas de las fracturas abiertas: infección y ausencia de consolidación (respuestas 3 y 4). El síndrome compartimental se desarrolla pocas horas después de una fractura cerrada y es poco esperable en el escenario de la pregunta (habrá que señalar la 2)."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "De entre los siguientes factores, señale el que NO es estimulante fisario:",
+      "opciones": [
+        "Tiroxina",
+        "Hormona paratiroidea",
+        "Calcitonina",
+        "Insulina"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "De los cuatro factores, la insulina, como también los glucocorticoides, tiene efectos negativos sobre la placa de crecimiento o fisis."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "En las fracturas abiertas, el tratamiento antibiótico debe iniciarse:",
+      "opciones": [
+        "Después de haber inmovilizado la fractura bien ortopédica o quirúrgicamente.",
+        "Después de realizar la limpieza y el Friedrich.",
+        "Después de recoger muestras para estudio bacteriológico.",
+        "Inmediatamente, cuando llega a Urgencias."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que busca enfatizar la importancia del tratamiento de las fracturas abiertas, siendo la antibioterapia intravenosa el primer gesto terapéutico a realizar (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "La principal utilidad de los fijadores externos en Traumatología es el tratamiento de:",
+      "opciones": [
+        "Fracturas vertebrales inestables.",
+        "Fracturas cerradas de fémur.",
+        "Fracturas conminutas de cabeza humeral.",
+        "Fracturas abiertas de tibia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La fijación externa es un dispositivo que permite inmovilizar fracturas sin abordar el foco de fractura, lo cual minimiza la posibilidad de infección en fracturas de alto riesgo como las fracturas abiertas o infectadas. Por tanto, en este caso la respuesta correcta es la 4, fracturas abiertas de tibia. Así mismo es de utilidad cuando queremos obtener una síntesis estable de una fractura de forma rápida y con poca morbilidad asociada, como puede ser el caso de una fractura inestable de pelvis, en la que lo prioritario es la inestabilidad hemodinámica por el sangrado de vasos retroperitoneales. Las fracturas del marco obturador son fracturas de ramas típicas del anciano y son estables."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Una joven de 16 años de edad acude a Urgencias por dolor en rodilla derecha de 2 meses de evolución, sin antecedente traumático previo, que ella describe «como por detrás de la rótula», que aumenta cuando sube escaleras o cuando permanece mucho tiempo con las rodillas flexionadas. Ante el cuadro clínico que presenta esta paciente, sospecharía que se trata de:",
+      "opciones": [
+        "Meniscopatía.",
+        "Lesión parcial del ligamento cruzado anterior.",
+        "Lesión osteocondral.",
+        "Condropatía femoropatelar."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La pregunta presenta una paciente adolescente con dolor anterior de rodilla que típicamente correspondería a una condropatia rotuliana (femoropatelar). El resto de respuestas no tienen correlación con el enunciado. (Respuesta 4 Correcta)"
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "¿Cuál de las siguientes NO corresponde al síndrome compartimental?:",
+      "opciones": [
+        "La etiología del síndrome es siempre traumática.",
+        "La presión intracompartimental es superior a 30-35 mmHg.",
+        "La presencia de pulso arterial distal no descarta la existencia del síndrome.",
+        "El tratamiento de elección de la forma aguda consiste en una fasciotomía."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome compartimental consiste en un aumento de la presión osteofascial por encima de la presión de perfusión capilar. El origen de este aunmento de presión podría dividirse en dos grandes grupos: las causas en las que hay un aumento del contenido (edema postraumático, hematomas, extravasación de sueros, edema en pacientes quemados, etc.) y las causas de disminución del continente (yesos apretados, sutura de fascias a tensión, etc.). Por tanto la etiología no es siempre traumática, aunque si es cierto que la causa mas frecuente son las fracturas y en segundo lugar las lesiones de partes blandas (opción 1 FALSA). El resto de opciones son características propias del S. compartimental."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "¿Con qué no se asocia la enfermedad de Dupuytren?",
+      "opciones": [
+        "Enfermedad de Ledderhose.",
+        "Enfermedad de la Peyronie.",
+        "Alcoholismo.",
+        "Rotura de Aquiles."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La enfermedad de Dupuytren se asocia con algunos factores de riesgo como alcoholismo, tabaquismo, EPOC, diabetes, epilepsia, etc. Además, es conocida la asociación con la enfermedad de Ledderhose (fibromatosis plantar) y de la Peyronie (pene). No hay relación aparente entre Dupuytren y roturas de Aquiles."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Un paciente de 27 años ha sufrido un accidente de tráfico, tras el cual presenta hipotensión arterial persistente. No se aprecia ninguna herida sangrante y se ha descartado que exista hemorragia intratorácica o procedente de vísceras abdominales. En la exploración, la pelvis se abre y cierra fácilmente con las manos. Señale la respuesta que considere incorrecta:",
+      "opciones": [
+        "El paciente probablemente presenta una fractura inestable de pelvis.",
+        "Las fracturas pélvicas que afectan al acetábulo sin desplazamiento pueden tratarse mediante tracción transesquelética.",
+        "Debe procederse a la reducción abierta y osteosíntesis de la fractura de forma urgente.",
+        "Es importante descartar la existencia de una lesión concomitante del plexo lumbosacro."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la pregunta nos plantean un paciente que, después de un accidente de tráfico, tiene un compromiso hemodinámico y cuya pelvis está inestable. Hay que pensar claramente en una fractura inestable de pelvis (respuesta 1 es correcta) y será importante descartar lesiones asociadas (respuesta 4 correcta). Cuando una fractura de pelvis está sin desplazar puede optarse por un tratamiento conservador (respuesta 2 correcta). Si la fractura es inestable y produce una hipotensión, la indicación de tratamiento es la utilización de un fijador externo que estabilizará la fractura y ayudará a detener el sangrado retroperitoneal (respuesta 3 es incorrecta)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Respecto de las fracturas de ramas pélvicas, señale la respuesta correcta:",
+      "opciones": [
+        "Son frecuentes en ancianos y su tratamiento es conservador.",
+        "Pocas veces se rompen las dos ramas – ilio e isquiopubiana.",
+        "Hay que mantener descarga de unos 2 meses para no dañar la cadera.",
+        "La pérdida sanguínea es elevada y suelen precisar de transfusión en muchos casos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las fracturas de ramas pélvicas (en muchas ocasiones se rompen las dos ramas – ilio e isquiopubiana) son frecuentes en ancianos y su tratamiento es conservador (Respuesta 1 Correcta). Permiten carga según tolerancia con ayuda de andador y, aunque se asocian con un hematoma en el periné, la pérdida de sangre rara vez precisa de transfusión sanguínea."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Varón de 36 años que sufre un atropello por un vehículo que impacta en la cara externa de su rodilla derecha, causándole una fractura del extremo proximal de la tibia. ¿Qué tipo de fractura espera encontrar en el estudio radiográfico?",
+      "opciones": [
+        "Fractura-arrancamiento de la tuberosidad tibial anterior.",
+        "Fractura metafisaria con tercer fragmento en ala de mariposa.",
+        "Fractura-hundimiento de la meseta tibial externa.",
+        "Fractura espiroidea del extremo proximal de la tibia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico sobre un mecanismo de compresión axial del cóndilo femoral externo sobre la meseta tibial externa al forzar el valgo, con fractura-hundimiento de la meseta tibial externa (respuesta 3 correcta). Las demás fracturas enumeradas en las opciones de respuesta obedecen a otro tipo de fuerza traumática."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Lo que más define a una fractura abierta grado IIIB es:",
+      "opciones": [
+        "Fijación externa.",
+        "Antibioterapia con desbridamiento más agresivo.",
+        "Colgajo para cobertura ósea.",
+        "Lesión vascular de gran vaso."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las fracturas abiertas grado IIIB se diferencian por la necesidad de cubrir el hueso mediante un colgajo o injerto por la pérdida de partes blandas que dejan el hueso roto expuesto, con el consiguiente mayor riesgo de infección y ausencia de consolidación (Opción 3 Correcta)."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Paciente de 28 años que ingresa en el hospital tras presentar una fractura diafisaria de fémur derecho, en un accidente de tráfico. Se coloca una tracción esquelética, en espera de tratamiento quirúrgico definitivo durante los días siguientes. En los días posteriores a su ingreso presenta una afectación del nivel de conciencia, disfasia, un cuadro de insuficiencia respiratoria, y se aprecian petequias a nivel de conjuntivas, tórax y axilas. La Rx tórax muestra infiltrados difusos bilaterales ¿Cuál de los siguientes le parece el diagnóstico más probable?",
+      "opciones": [
+        "Edema pulmonar cardiogénico.",
+        "Ictus isquémico.",
+        "Embolia grasa.",
+        "Tromboembolismo pulmonar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un caso clínico típico de un síndrome de embolia grasa: paciente con fracturas cerradas de huesos largos que tras un \"intervalo lúcido\" comienza con alteración en el nivel de conciencia, insuficiencia respiratoria y petequias conjuntivales y en hemitórax superior. La radiografía de tórax presenta la imagen típica en \"torbellino de nieve\"."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Un paciente acude a la consulta de Traumatología por edema de la mano del brazo derecho. A la exploración se demuestra cierta rigidez y una coloración más oscura que la del lado contralateral. Al preguntarle sobre sus antecedentes, nos cuenta que sufrió una fractura de Colles y que, tras el tratamiento, la mano le dolía mucho. El paciente padecerá probablemente:",
+      "opciones": [
+        "Pseudoartrosis.",
+        "Síndrome compartimental.",
+        "Atrofia de Sudeck.",
+        "Síndrome del túnel carpiano."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Con mayor probabilidad se trata de un síndrome doloroso regional complejo o sudeck, cuadro asociado a inmovilizaciones prolongadas en descarga en lesiones en pequeños articulaciones. Es un cuadro que cursa en vaias fases, todas ellas muy dolorosas, que se inician con una hiperactividad simpática, para pasar posteriormente a una fase de edema y distrofia. La pseudoartrosis no es una complicación típica de las fracturas de radio, como tampoco lo es el síndrome compartimental. La lesión del N. cubital cursa con parestesias de 4º- 5º dedo y parálisis de la musculatura tenar. El S. Tunel Carpiano cursa con parestesias y dolor nocturno cara volar de 1º a borde radial del 4º dedo así como atrofia de la eminencia tenar."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Paciente de 25 años de edad que, tras traumatismo indirecto en tobillo forzando la inversión, presenta dolor y tumefacción sobre el maléolo externo. En el estudio radiográfico (AP y Lat de tobillo) no se aprecia ninguna fractura. Sobre la patología que sospecha, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Lo más probable es que presente un esguince del ligamento lateral externo del tobillo.",
+        "Se debe explorar siempre la base del quinto metatarsiano.",
+        "Para evaluar la gravedad del cuadro se pueden realizar radiografías dinámicas.",
+        "Se debe realizar una RM, ya que, si están rotos todos los fascículos, se debería realizar una reparación quirúrgica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de un examen antiguo en el que todavía podía valorarse una lesión ligamentosa con radiografias dinámicas. No hay que realizar de entrada una RM en un esguince de tobillo. Solo aquellos esguinces que dan problemas crónicos, o los agudos en los que se sospecha una lesión condral, son subsidiarios de RM."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Chica de 16 años que sufre una torcedura en el tobillo derecho mientras jugaba al baloncesto. Es tratada en Urgencias, donde se le diagnostica un esguince de II grado y fractura de la base del quinto metatarsiano del pie derecho. Se le realiza una inmovilización con férula suropédica durante cuatro semanas y posteriormente con un vendaje elástico durante dos semanas más. Es derivada a la consulta de rehabilitación dos meses después del accidente. A su llegada nos refiere dolor difuso desde unos días después del accidente, tipo quemazón en pie y tobillo afecto, de una intensidad desproporcionada teniendo en cuenta el tipo de lesión; es de predominio nocturno y se intensifica con los movimientos y con el roce. En la exploración apreciamos que se acompaña de edema, hiperhidrosis, y observamos un aumento desproporcionado del vello. La piel está eritematosa con aumento de la temperatura. Presenta una limitación de la movilidad articular del tobillo. Con los datos aportados por la paciente y la exploración clínica, ¿cuál sería su sospecha diagnóstica?",
+      "opciones": [
+        "Trombosis venosa profunda.",
+        "Artritis infecciosa de tobillo.",
+        "Distrofia simpático refleja tipo II.",
+        "Síndrome de dolor regional complejo tipo I."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El diagnóstico que no debemos dejar escapar es el síndrome de dolor regional complejo (SDRC) (respuesta 4 correcta). Se diagnostica usualmente dentro del siguiente contexto: historia de traumatismo o cirugía en el área afecta asociada a un dolor desproporcionado desde el comienzo del cuadro y además alguno de los siguientes elementos a considerar: función anormal del sistema nervioso simpático, inflamación, trastorno del movimiento, cambios tróficos del tejido (distrofia y atrofia). En el SDRC tipo II existe como causa desencadenante obligatoria una lesión parcial o total de un nervio periférico."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "El diagnóstico más fiable de un síndrome compartimental se consigue con:",
+      "opciones": [
+        "Observación clínica.",
+        "Medición de presión intracompartimental.",
+        "Arteriografía.",
+        "Resonancia magnética."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El aumento de presión en un compartimento es el único dato definitorio de síndrome compartimental, siendo el diagnóstico más fiable una medición intracompartimental superior a 30mmHg (Opción 2 Correcta)."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "¿Cuál de las siguientes fracturas tiene un tratamiento conservador en adultos?:",
+      "opciones": [
+        "Fractura infrasindesmal aislada de tobillo.",
+        "Fractura diafisaria de fémur.",
+        "Fractura subcapital de extremidad proximal de fémur.",
+        "Fractura del cuello del astrágalo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Sin duda se trata de las fracturas infrasindesmales de tobillo, generadas por un mecanismo de inversión forzada en el que los ligamentos laterales avulsionan el maleolo peroneo y rara vez provocan fractura del maleolo tibial. Si se produce de manera aislada suele estar no desplazada y tratarse ortopédicamente (respuesta 1). El resto de fractura son quirúrgicas: fractura diafisaria de fémur- enclavado IM, fractura de Galeazzi- reducción abierta y osteosíntesis, opción 4- prótesis si está desplazada u osteosintesis con tornillos canulados si no lo está, fractura del cuello del astrágalo- reducción abierta y osteosíntesis."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Trabajando como médico rural recibimos, en la urgencia de un centro de salud situado a 100 Km del hospital, una fractura abierta de tobillo por caída en la montaña, presentando una contaminación grave por restos vegetales y tierra. Nuestra actitud terapéutica debe ser:",
+      "opciones": [
+        "Nula, evacuación inmediata solicitando transporte aéreo.",
+        "Antibioterapia, profilaxis antitetánica, retirada de contaminación grosera, lavado inicial, cobertura y estabilización provisional para traslado inmediato.",
+        "Antibioterapia, profilaxis antitetánica y traslado inmediato.",
+        "Retirada de contaminación grosera, lavado inicial y estabilización provisional para traslado inmediato."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una fractura abierta plantea dos problemas principales: la contaminación del foco de fractura por microorganismos y la pérdida de parte de la cubierta muscular y perióstica en el foco. Esto reduce la capacidad de defensa a la infección y el potencial de consolidación. Por ello, este tipo de fracturas consituyen una urgencia. El tratamiento debe consistir en las medidas siguientes.\n\n- Desbridamiento quirúrgico de todo el tejido necrótico.\n\n- Administración intravenosa de antibióticos.\n\n- Profilaxis antitetánica.\n\n- Estabilización de la fractura (normalmente, fijador externo).\n\nPor ello, la respuesta correcta es la 2. El resto de respuestas solo ofrecen soluciones parciales. La 1 es claramente incorrecta, la 3 se olvida del desbridamiento, y la 4 se olvida del antibiotico."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "¿Cuál de los siguientes signos o síntomas no es frecuente encontrar en un paciente con un síndrome compartimental en la pierna?",
+      "opciones": [
+        "Dolor desproporcionado a la movilidad pasiva.",
+        "Aumento de tensión compartimento posterior.",
+        "Ausencia de pulso tibia.",
+        "Parestesias en el pie."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las parestesias y el dolor desproporcionado son los primeros síntomas en aparecer cuando se instaura un síndrome compartimental, seguido de aumento de la tensión del compartimento. La ausencia de pulsos es un signo infrecuente y tardío. (Opción 3 falsa)"
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Aunque la pseudoartrosis es una complicación que puede aparecer en cualquier fractura, su presencia es más frecuente en determinadas localizaciones. ¿Cuál de los siguientes huesos NO suele cursar con pseudoartrosis cuando se produce una fractura del mismo?:",
+      "opciones": [
+        "Escafoides.",
+        "Clavícula.",
+        "Astrágalo.",
+        "Cabeza de fémur."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La pseudoartrosis o ausencia de consolidación, en este caso avascular, es una complicación relativamente frecuente en todas las localizaciones reflejadas en las opciones excepto la clavícula (Opción 2 correcta). La fractura de clavícula, sobre todo las de 1/3 medio, consolidan habitualmente con tratamiento conservador, con muy bajo índice de trastornos de consolidación, ya que se trata de un hueso muy bien vascularizado."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Señale cuál es la actitud más apropiada en un paciente de 55 años que, tras un accidente de tráfico, presenta una fractura abierta de tibia de 10 horas de evolución, con una herida de 5 cm que deja el hueso expuesto, y en cuya exploración se objetiva lesión del nervio tibial posterior y ausencia de pulsos pedio y tibial posterior:",
+      "opciones": [
+        "Reducción abierta urgente y osteosíntesis con placas y tornillos.",
+        "Lavados de la herida, sutura de los vasos y nervios comprometidos y tracción transcalcánea.",
+        "Estabilización con fijador externo y cobertura de las partes blandas.",
+        "Amputación por debajo de la rodilla."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En una situación de \"pierna catastrófica\" (así se llama cuando los daños son extremos), con una isquemia de 10 horas, los nervios habrán muerto y los tejidos también con lo que no procede una técnica de rescate. La amputación será la técnica de elección (respuesta 4)"
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Respecto de la luxación de cadera aguda traumática en un adulto, señale la respuesta correcta:",
+      "opciones": [
+        "Las luxaciones anteriores son más frecuentes que las posteriores.",
+        "Precisa de la colocación de una tracción transesquéletica para poder relajar la musculatura y conseguir la reducción.",
+        "Pueden asociarse a fracturas de rótula y de acetábulo.",
+        "Es frecuente que se transforme en luxación recidivante."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Por el mecanismo de producción más frecuente (trauma directo de salpicadero en rodilla en accidente con choque frontal), la luxación aguda traumática de cadera en el adulto se asocia con alguna frecuencia a fracturas de rótula y de acetábulo (respuesta 3 correcta). Las luxaciones posterior son mucho más frecuentes que las anteriores. El tratamiento es la reducción preferente bajo anestesia general, pero no se precisa de tracción transesquelética. La cadera está muy contenida por una musculatura muy potente, por lo que es infrecuente la luxación recidivante."
+    }
+  ]
+}

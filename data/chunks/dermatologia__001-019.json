@@ -1,0 +1,415 @@
+{
+  "materia": "dermatologia",
+  "paginaInicio": 1,
+  "paginaFin": 19,
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "¿Cuál de los siguientes factores NO se suele asociar a la aparición o empeoramiento de las lesiones de psoriasis?:",
+      "opciones": [
+        "Tratamiento con litio.",
+        "Estrés emocional.",
+        "Calor y humedad.",
+        "Infecciones respiratorias de vías altas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Del psoriasis es importante conocer: la clínica, su histología y el tratamiento, pero es aconsejable conocer algunos datos sobre su etiología, ya que es susceptible de ser preguntada, como en este caso, y suelen ser preguntas fáciles si al menos lo has leído una vez. Aparte de los factores genéticos relacionados con la aparición de psoriasis, encontramos factores ambientales que influyen en su desarrollo, como son: - infecciones. - Fármacos: litio, betabloqueantes, AINES, antipalúdicos - Traumatismos: fenómenos de Koebner. - Factores psicológicos (estrés). No son factores agravantes el calor, la humedad o la luz, ya que de hecho mejoran las lesiones del psoriasis. Por tanto, la opción incorrecta es la 3."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Una paciente de 56 años acude a la consulta refiriendo la aparición de unas lesiones sobreelevadas en cara, tórax y brazos, que le duelen \"al mínimo roce con la ropa\". Además, la paciente presenta una temperatura de 38,2 ºC y dolores articulares. Dice que \"no se encuentra bien, últimamente está más cansada y ha perdido peso\". Con la sospecha clínica que usted tiene, decide administrar corticoides. Las lesiones responden rápidamente. ¿Cuál es el diagnóstico que sospecha usted?",
+      "opciones": [
+        "Dermatomiositis.",
+        "Eritema necrolítico migratorio.",
+        "Síndrome de Sweet.",
+        "Signo de Lesser Trélat."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La descripción de las lesiones que presenta la paciente, junto a la fiebre y los dolores articulares conforman el cuadro clínico típico de un síndrome de Sweet (opción 3 correcta), que, recordemos, se asocia con frecuencia a la leucemia mieloide aguda (LMA). Debemos sospechar una dermatosis paraneoplásica cuando nos describan una lesión cutánea de reciente aparición en el contexto de un síndrome constitucional (pérdida de peso, astenia, malestar general, etc.)."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Un paciente de 72 años, agricultor jubilado, presenta sobre el pómulo derecho una pápula de 2 cm de diámetro, de coloración rosada y brillo perlado. Refiere que comenzó como una pequeña lesión “hace ya muchos años” y ha ido creciendo lentamente hasta alcanzar el tamaño actual. Al examinarla de cerca, observamos que tiene telangiectasias en su superficie. Señale la respuesta INCORRECTA en relación a la lesión que con más probabilidad presenta el paciente:",
+      "opciones": [
+        "El factor de riesgo más importante es la exposición solar crónica.",
+        "Pese a tratarse de una entidad maligna, su pronóstico es excelente.",
+        "Suele asentarse sobre una lesión premaligna previa.",
+        "Nunca aparece en mucosas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La descripción corresponde a un carcinoma basocelular: el tumor maligno más frecuente en la especie humana. Su principal factor etiológico es la exposición solar crónica, por lo que aparece con más frecuencia en zonas como cabeza, cuello, extremidades superiores... Como se expone en el enunciado de la pregunta, tiene aspecto de pápula rosada con brillo perlado y telangiectasias o glóbulos pigmentados en su interior. Su pronóstico es excelente debido a su lento crecimiento y a que se extiende por contigüidad, siendo excepcionales las metástasis a distancia. Suele originarse de novo sobre piel sana (RESPUESTA CORRECTA 3) y nunca aparece en mucosas."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Un niño de 12 años consulta en oftalmología por pérdida de agudeza visual en ojo derecho. En el fondo de ojo, el oftalmólogo descubre un hemangioblastoma retiniano. En la exploración física, además se objetiva hipertensión arterial. Analíticamente, destaca un HCTO del 58% y una Hb de 17 g/dL. ¿Cuál de las siguientes manifestaciones sería esperable encontrar en la evolución de esta enfermedad?",
+      "opciones": [
+        "Angiomatosis encefalotrigeminal.",
+        "Nódulos de Lisch.",
+        "Adenomas sebáceos de Pringle.",
+        "Tumores renales."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: La asociación con hipertensión, policitemia y otros tumores tipo hemangioblastoma cerebeloso (que justificaría la policitemia por secretar EPO) o Ca renal (que justificaría la HTA), así como hemangioblastoama retiniano (que suele ser la primera manifestación de la enfermedad, como este caso) es el cuadro típico de la enfermedad de Von Hippel-Lindau (angiomatosis cerebelo-retiniana). También son típicos de esta enfermedad los angiomas cutáneos. Recuerda que es una enfermedad autosómica dominante, que afecta al cromosoma 3."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Niño de 6 meses que es traído por su madre, que está asustada, porque presenta unas máculas marrón-rojizo en el tronco, y también en extremidades, que van apareciendo progresivamente en las últimas semanas. El estado general del niño es excelente. Ante la sospecha clínica, usted frota una de las lesiones, que se pone eritematosa y edematosa. Este niño padece un tipo de:",
+      "opciones": [
+        "Urticaria.",
+        "Histiocitosis.",
+        "Mastocitosis.",
+        "Dermografismo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta cuyo detalle más sugestivo son las lesiones descritas, maculosas y marronáceas, que se vuelven eritematosas y pruriginosas en las zonas de roce. Lo que pretenden describirnos con esto es el famoso signo de Darier: eritema, edema y prurito tras el rascado de las lesiones. Recuerda que, aunque solo aparece en el 75% de las mastocitosis, se considera PATOGNOMÓNICO de esta enfermedad (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Ante una lesión sobreelevada con bordes perlados y telangiectasias en superficie, hemos de pensar que se trata de:",
+      "opciones": [
+        "Queratoacantoma.",
+        "Epitelioma basocelular.",
+        "Melanoma amelanótico.",
+        "Queratosis seborreica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El carcinoma basocelular es importante dentro del capítulo de dermatología. Debes conocer bien sus características más importantes y los rasgos diferenciales con el carcinoma epidermoide. La clínica del basocelular es muy característica y no deberías haber tenido problemas para resolver esta pregunta. Se debe sospechar su existencia cuando estamos ante una pápula de aspecto blanquecino y brillo perlado, que crece progresivamente. A veces, puede ulcerarse en el centro, con formación sucesiva de costras. Es típica la aparición de alguna telangiectasia en su superficie (opción 2 correcta). En cambio, el carcinoma epidermoide o espinocelular tiene un aspecto diferente. Dado que se origina en células con cierto grado de maduración, es más monomorfo que el basocelular. Cursa como placas eritematosas o eritematodescamativas de larga evolución, que con el tiempo adoptan formas pápulo- tumorales, con frecuencia ulceradas y sangrantes."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es correcta en relación con la pitiriasis versicolor?",
+      "opciones": [
+        "Es infrecuente su aparición en pecho y espalda.",
+        "Es característico el signo de la uñada positivo.",
+        "Es una micosis relativamente infrecuente.",
+        "El microorganismo implicado con mayor frecuencia es Trychophyton rubrum."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda que la Pitiriasis versicolor es producida por la Pityrosporum ovale (Malassezia furfur), siendo una micosis frecuente en pacientes jóvenes. Afecta a las zonas seborreicas (hombros, pecho y espalda), pruduciendo máculas hipercrómicas o hipocrómicas, no pruriginosas, que descaman al rascado si la infección está activa (signo de la uñada positivo, que es característico), por lo que marcamos la opción 2 correcta."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de las siguientes afirmaciones le parece cierta respecto al nevus displásico?:",
+      "opciones": [
+        "Es un nevus melanocítico adquirido juntural que suele aparecer después de la pubertad.",
+        "El riesgo de melanoma es igual de elevado, tanto en los casos esporádicos como en los familiares.",
+        "No es especialmente importante evitar la exposición a la luz ultravioleta, ya sea artificial o natural, pues ya hay cambios atípicos en estas lesiones que no se pueden evitar.",
+        "Es primordial educar a los pacientes en cuanto a las características clínicas incipientes del melanoma."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: Los nevus displásicos implican una mayor probabilidad de desarrollar un melanoma (aunque esta probablidad es mucho mayor en los casos familiares), por lo que es importante la educación del paciente para que consulte precozmente en caso de encontrarse una lesión pigmentaria con las características siguientes:\n\n- A: Asimetría.\n\n- B: Bordes irregulares.\n\n- C: Coloración no uniforme.\n\n- D: Diámetro mayor de 5 mm.\n\n- E: Evolución\n\nPor supuesto, el diagnóstico de melanoma y nevus displásico es histológico y habría que confirmarlo con biopsia, pero estos datos son suficientes como screening."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Varón de 50 años con lesiones eritematoescamosas en la parte superior del cuerpo que confluyen, dejando zonas de piel sana en el interior, y tienen coloración amarillenta. Las palmas y plantas tienen placas queratósicas gruesas. En cara y cuero cabelludo existe descamación de la piel. Las lesiones elementales son pápulas queratósicas foliculares. ¿Qué sospecha usted?",
+      "opciones": [
+        "Enfermedad de Darier.",
+        "Psoriasis.",
+        "Pitiriasis rubra pilaris.",
+        "Dermatitis seborreica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La pitiriasis rubra pilaris (respuesta 3 correcta) obedece a un trastorno de la queratinización, que se engloba dentro de las enfermedades eritematodescamativas. Puede ser adquirida o hereditaria autosómica dominante (en este caso, aparece en la infancia). Las características clínicas más importantes son:\n\n- Placas descamativas anaranjadas, con islotes de piel normal dentro de ellas.\n\n- Pápulas queratósicas foliculares en zonas de extensión.\n\nPuede confundirse con la psoriasis, que es su principal diagnóstico diferencial. Para su tratamiento, se emplean queratolíticos y el acitretino. En alguna ocasión, responde a tratamiento con PUVA."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "En la práctica clínica habitual, la toxicodermia es una entidad sobrediagnosticada. Su forma de presentación más frecuente consiste en exantema maculopapular morbiliforme (pues se parece al morbilivirus del sarampión). Con respecto a las toxicodermias, es FALSO que:",
+      "opciones": [
+        "Antiinflamatorios, alopurinol, antibióticos, anticonceptivos y antiepilépticos son algunos de los fármacos más implicados en las toxicodermias.",
+        "El exantema fijo medicamentoso a menudo no se relaciona con fármacos.",
+        "La bleomicina y la ingesta de setas shiitake da una dermatitis flagelada.",
+        "Las quinolonas se han implicado fuertemente en la pustulosis exantemática aguda."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta tan sencilla como a priori aparenta, pues el exantema fijo medicamentoso se denomina así porque la mayoría (por no decir todos) ocurren por medicamentos (por cierto, al igual que la necrólisis epidérmica tóxica) (opción 2 falsa, por lo que la marcamos). Las demás opciones de respuesta son verdaderas."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Un niño con lesiones vesiculosas en la boca, en las manos, y en los pies, tiene una infección por:",
+      "opciones": [
+        "Coxsackie A16.",
+        "Parvovirus B19.",
+        "Rubéola.",
+        "Virus herpes 6."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad intermedia perteneciente al bloque de enfermedades infecciosas en dermatología. La enfermedad mano- pie- boca, o también denominada glosopeda, es una patología producida por el virus Coxsackie A, en especial por el A16, que cursa con la aparición de un exantema vesiculoso que afecta a la mucosa oral, manos, pies y área del pañal. Puede ser generalizado. Por lo que marcamos la opción 1 correcta."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Una joven de 23 años ha presentado episodios de dolor abdominal y edema de los labios y lengua con el estrés. Ocasionalmente ha tenido junto a éstos edema de laringe. ¿Cuál de las siguientes medidas es la más adecuada al afrontar este cuadro?:",
+      "opciones": [
+        "Medir la concentración sérica de C1-inhibidor.",
+        "Prevenir los brotes con antihistamínicos sistémicos.",
+        "Estudiar posibles causas autoinmunes o neoplásicas antes de concluir el proceso diagnóstico.",
+        "Utilizar plasma fresco o C1-inhibidor como profilaxis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aunque no sabemos si existen casos familiares similares, por la clínica y por la edad de la paciente es probable que se trate del angioedema hereditario (autosómico dominante) o edema angioneurótico familiar de Quincke. No obstante habría que tener en cuenta la posibilidad de que se trate de la forma adquirida y por ello habría que descartar posibles causas autoinmunes o neoplásicas.\n\nEl angioedema hereditario se caracteriza por la aparición de brotes de edema del tejido celular subcutáneo sobretodo en cara, manos y pies. No se acompaña de habones ni prurito. En algunos casos se produce afectación de la mucosa intestinal y respiratoria lo cual puede manifestarse en forma de vómitos, diarrea, dolor abdominal o broncoespasmos. El traumatismo tanto físico como psicológico puede desencadenar el cuadro. Opción 3 correcta.\n\nSe debe a un déficit real o funcional del C1 inhibidor. El test de screening de elección es la determinación de los niveles de C4, si estos son bajos y la clínica es compatible, se debe proceder a la determinación del C1 inhibidor. Este proceso no responde a los antihistamínicos, epinefrina o corticoides. El tratamiento de las crisis agudas se hace con concentrados de C1 inhibidor o con plasma fresco congelado y la profilaxis con danazol o estanozolol."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Eczema es un término que designa un tipo de reacción inflamatoria cutánea a diferentes estímulos, y que puede clasificarse en distintos grupos. Señale la afirmación que le parece correcta en cuanto a este tema:",
+      "opciones": [
+        "Los diferentes tipos de eczemas comparten básicamente las características clínicas, dependiendo los hallazgos histológicos de la etiopatogenia de cada una.",
+        "Los antihistamínicos, en especial los de segunda generación, son muy efectivos en el tratamiento de todos los eczemas.",
+        "El eczema alérgico de contacto es una reacción de hipersensibilidad tipo IV, por el contacto cutáneo o de las mucosas con una sustancia a la que el paciente está previamente sensibilizado.",
+        "Es raro que el eczema atópico se manifieste antes de los dos años de edad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Tal como se explica en la respuesta 3, el eccema de contacto es una reacción de hipersensibilidad retardada. El resto de las opciones son falsas, por los motivos siguientes:\n\nR1. La histología no depende del origen del eccema, sino de su evolución (agudo, subagudo, crónico).\n\nR2. Los antihistamínicos son poco eficaces para el prurito del eccema. El tratamiento de elección son los esteroides tópicos.\n\nR4. El níquel está implicado en eccemas alérgicos, no irritativos.\n\nR5. El eccema atópico es muy frecuente en la infancia. De hecho, existe la llamada forma del lactante, bastante anterior a los dos años de edad."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Mujer de 46 años, de profesión secretaria. Como antecedentes destacan una úlcera duodenal correctamente tratada hace tres años y una depresión controlada con antidepresivos tricíclicos. Desde hace siete días presenta lesiones papulosas, foliculares y queratósicas que asientan sobre una base eritematosa. Además, existe una queratodermia palmoplantar importante. El eritema tiene un tono amarillo anaranjado. El cuero cabelludo también se encuentra afectado. Con respecto a la enfermedad que presenta esta paciente, es FALSO que:",
+      "opciones": [
+        "Puede presentar fenómeno de Koebner.",
+        "A menudo existen zonas de piel sana entre las placas afectas.",
+        "El etretinato mejora la enfermedad, pero no acorta el curso clínico.",
+        "La forma circunscrita afecta al 25% de los casos y es típica de los adultos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La pitiriasis rubra pilaris obedece a un trastorno de la queratinización que se engloba dentro de las enfermedades eritemato descamativas; puede ser adquirida o hereditaria autosómica dominante (en este caso, aparece en la infancia) (opción 4 falsa, por lo que la marcamos). Las características clínicas más importantes son:\n\n- Placas descamativas anaranjadas, con islotes de piel normal dentro de ellas.\n\n- Pápulas queratósicas foliculares en zonas de extensión.\n\nPuede confundirse con la psoriasis, que es su principal diagnóstico diferencial. Para su tratamiento se emplean queratolíticos y el acitretino. En alguna ocasión, responde a tratamiento con PUVA."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Entre las siguientes, indique aquella enfermedad en que la alopecia NO es cicatricial:",
+      "opciones": [
+        "Alopecia areata.",
+        "Liquen plano.",
+        "Sarcoidosis.",
+        "Mucinosis folicular."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las alopecias cicatrizales se caracterizan por la sustitución de la unidad pilosebácea por tejido fibroso, por tanto estas alopecias son permanentes. Se dividen en dos grupos. El primero de ellos son las alopecias cicatrizales primarias cuya etiología es desconocida. El otro corresponde a las alopecias cicatrizales secundarias, que pueden deberse a procesos infiltrativos (metástasis), traumatismos (quemaduras, radioterapia) e infecciones. Todas las opciones corresponden a procesos que pueden producir alopecia cicatrizal salvo la alopecia areata que es una alopecia no cicatrizal, presumiblemente autoinmune, por lo que marcamos la opción 1 correcta."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Mujer de 40 años, peluquera de profesión, presenta desde hace años hiperqueratosis subungueal en uñas de dedos y pies. Desde hace 3 semanas refiere aparición de lesiones tipo placas, asintomáticas en codos y región glutea. Las placas desprenden escamas nacaradas tras el rascado. Señale la FALSA respecto a su enfermedad:",
+      "opciones": [
+        "Pueden presentar anemia y niveles disminuídos de folatos.",
+        "En casos severos es frecuente la hipoalbuminemia.",
+        "Las uñas de las manos se encuentran afectadas en un 10% de los pacientes.",
+        "La decoloración ungueal en mancha de aceite es característica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El caso clínico describe una paciente con psoriasis: placas en codos y rodillas, descamativas con escamas nacaradas, por lo que no deberías tener dudas en cuanto a la entidad que se trata.\n\nEn cuanto a la pregunta en cuestión es algo más compleja.\n\nEn este caso la opción correcta (respuesta FALSA es la 3). La afectación ungueal por psoriasis se describe entre un 10-70% de los pacientes con psoriasis, siendo más frecuente la afectación ungueal de las manos que la de los pies. No por tanto un 10% como afirma la respuesta.\n\nLas manifestaciones pueden variar desde distrofias ungueales, oil spots o mancha en aceite como la más característica (opción 4 verdadera), y pits como las más típicas.\n\nRespecto a la opción 1) y 2), recuerda que en el psoriasis existe un metabolismo aumentado por lo que es posible que se produzca hipoalbuminemia, además de anemia y disminución de folatos."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "La dermatitis de los prados está producida por:",
+      "opciones": [
+        "Contacto con plantas que contienen furocumarinas.",
+        "Contacto con ortigas.",
+        "Contacto con ácaros de los prados.",
+        "Contacto con cantáridas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La dermatitis de los prados es un tipo de dermatitis fototóxica y por tanto suele ocurrir con la primera exposición a la sustancia fotosensibilizante (cuando se encuentra sobre la piel en la concentración adecuada) si después va seguida de una exposición solar. No es necesaria la sensibilización previa. Las lesiones cutáneas aparecen a las pocas horas de la exposición solar y se localizan en las zonas fotoexpuestas. Las sustancias en las plantas responsables de esta reacción son las furocumarinas (opción 1 correcta), por su capacidad de absorber radiación lumínica y así causar fototoxicidad. Clínicamente consiste en la aparición de líneas y formas raras, eritematoedematosas, con vesículas y ampollas que cuando se resuelven dejan una hiperpigmentación postinflamatoria residual. El síntoma habitual suele ser una sensación de quemazón. El tratamiento depende de la intensidad del proceso y es similar al de cualquier eccema. La loción de calamina puede resultar de utilidad."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Acude a urgencias un paciente que, tras sufrir un pinchazo cortando unos rosales plantados en su jardín hace unos días, le ha aparecido fiebre junto con una pequeña úlcera en la zona del pinchazo, asociada a una inflamación linfática que sigue un trayecto hacia proximal. ¿Cuál ha sido el agente responsable del cuadro?",
+      "opciones": [
+        "Erysipelothrix rhusiopathiae",
+        "Sporothrix schenckii",
+        "Tricophyton rubrum",
+        "Tricophyton schoenleinii"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una esporotricosis causada por Sporothrix schenckii como consecuencia, generalmente, de un pinchazo con un rosal. Se trata de un hongo que se encuentra en maderas y vegetales con espinas causando el cuadro descrito en el enunciado (nódulo que se ulcera + linfangitis). Opción 2 correcta.\n\nErisipelothrix causa una afectación llamada erisipeloide, típica de carniceros o tras clavarse una espina de pescado, cuya manifestación es parecida a la descrita, pero los antecedentes serían diferentes.\n\nLas opciones 3 y 4 hacen referencia a diferentes gérmenes causantes de dermatofitosis o tiñas."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cuál sería el diagnóstico MÁS probable ante la aparición de una pápula color carne, bien delimitada, blanda y grasienta al tacto, en la región pectoral de un paciente de 53 años?",
+      "opciones": [
+        "Verruga vulgar.",
+        "Queratosis seborreica.",
+        "Xantoma eruptivo.",
+        "Queratoacantoma en fase inicial."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta cuya descripción dermatológica del enunciado no es demasiado afortunada; aun así, la pregunta se puede contestar sin problemas. Las queratosis seborreicas son tumores benignos de la piel sumamente comunes. De hecho, se puede decir que cualquier persona desarrollará una a lo largo de su vida. Solo con este dato, se podría contestar la pregunta, porque la queratosis seborreica es muchísimo más prevalente que el resto de opciones. Más claves para contestar adecuadamente serían la edad (típicamente, se da en pacientes mayores de 40 años) y la localización (el tronco es un lugar muy frecuente). Se les da el nombre de “seborreicas” por su aspecto, pero no tienen nada que ver con las glándulas sebáceas. Muestran una topografía verrucosa, con múltiples folículos obturados y arborescencias (de ahí que en el enunciado te hablen de “ grasienta o untuosa al tacto”) (respuesta 2 correcta). Las verrugas vulgares son pápulas ásperas, escamosas y espinosas (no blandas). Lo más frecuente es que se presenten en las manos. El quiste epidérmico, como su nombre indica, se presenta como un tumor sólido intradérmico (no se trata de una pápula). Los veremos como una protuberancia de la piel en forma de cúpula. Los xantomas son lesiones infrecuentes que se producen como consecuencia de alteraciones en el metabolismo de las grasas. Característicamente, presentan un color amarillento (no color carne). En concreto, los xantomas eruptivos son lesiones múltiples, características de la hiperquilomicronemia severa. El queratoacantoma es un tumor benigno que, en su mayoría, se localiza en piel expuesta al sol (por tanto, no en el área pectoral). Su apariencia y descripción es muy característica: nódulo cupuliforme con cráter queratósico central. La mayoría de los queratoacantomas regresan de forma espontánea."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Un hombre de 74 años acude a su consulta por presentar síndrome constitucional con pérdida de 5 kg de peso en el último mes, junto a astenia. Refiere que en las tres últimas semanas, además, ha observado la aparición de lesiones rojizas en piernas que en ocasiones drenan un material oleoso, asociándose también dolor abdominal y costal, así como dolor y rubor en tobillos y rodillas. Usted decide realizar una biopsia y observa que en el tejido celular subcutáneo aparecen células fantasma. Las manifestaciones clínicas del paciente y este hallazgo de la biopsia cutánea le llevará a realizar una de las siguientes pruebas para hacer el diagnóstico definitivo:",
+      "opciones": [
+        "Endoscopia digestiva: adenocarcinoma gástrico.",
+        "TC abdominal: cáncer de páncreas.",
+        "TC torácico: sarcoidosis ganglionar (síndrome de Löfgren).",
+        "Cultivo de los nódulos cutáneos: tuberculosis cutánea (lupus vulgar)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Quizás esta pregunta a priori puede presentar mayor dificultad. Requiere realizar conexión de más de un tema del manual y reflexionar un poco sobre el caso, pero si se hace esto con tranquilidad se trata de una pregunta asequible. En primer lugar la pregunta te deja claro que el paciente presenta un síndrome constitucional y eso sumado a lesiones cutáneas, ante la duda es un síndrome paraneoplásico. Es cierto que no nos hablan de pápulo vesículas de distribución perioricial, hiperglucemia, glositis, que nos podrían orientar a un glucagunoma, tal y como solemos identificarlo, en este caso las pistas son más sutiles. Nos hablan de \"lesiones rojizas\" que drenan un material oleoso. Nos están hablando de nódulos, concretamente (como casi siempre que tenemos nódulos en piernas) de una paniculitis. Fíjate además que en la biopsia te hablan de que la lesión se centra en el \"tejido celular subcutáneo\". Sabemos que existen las paniculitis pancreáticas, sabemos además que en las paniculitis hay inflamación de los adipocitos y por último sabemos que el páncreas participa en la digestión de la grasa. En estos casos, concretamente se cree que la liberación de enzimas pancreáticos (amilasa, lipasa, fosforilasa y tripsina) junto a un aumento de la permeabilidad de la microcirculación permite la entrada de esas enzimas en los lóbulos pancreáticos, con la consiguiente hidrólisis de la grasa y formación de glicerol y ácidos grasos libres, que conducirían a la necrosis grasa e inflamación, produciendo por tanto zonas de degeneración de los adipocitos (que aparecen como células anucleadas con una membrana gruesa conocidas como “células fantasma”). Además pueden presentarse artralgias y artritis con poliserositis por extensión de la necrosis enzimática a esas localizaciones (La inflamación articular del paciente). Como última pista teníamos el dolor, abdominal e irradiado a costal. Recuerda que las paniculits pancreáticas por tanto pueden presentarse de manera secundaria (como paraneoplasia) a un cáncer de páncreas, siendo el más frecuente el carcinoma de células acinares, por lo que marcamos la opción 2 correcta."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "¿Cuál de las siguientes hechos le haría plantearse como poco probable un diagnóstico de toxicodermia?",
+      "opciones": [
+        "Una puntuación alta en el algoritmo de Naranjo.",
+        "Reaparición del efecto tras reintroducción del fármaco.",
+        "Desaparición del efecto tras la retirada del fármaco.",
+        "Una puntuación baja en el algoritmo de Karch Lasagna."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta atípica y probablemente más de farmacología que de Dermatología.\n\nAun así, es muy cierto que los dermatólogos utilizan algoritmos como los de Naranjo o Karch Lasagna para plantear la probabilidad de un diagnóstico de toxicodermia. No debes conocerlos en profundidad, pero si saber que incluyen criterios como:\n\n- Secuencia temporal razonable.\n\n- Conocimiento previo de la reacción adversa.\n\n- Mejora del efecto tras la retirada del fármaco.\n\n- Reaparición del efecto tras reintroducción del fármaco.\n\n-Evidentemente cuanto mayor es la puntuación, más probable es que el fármaco sospechoso, sea el responsable, por lo que marcamos la opción 4 correcta."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Varón de 82 años que presentaba como antecedentes personales una diabetes tipo II, con control dietético, hipertensión arterial e insuficiencia cardiaca hipertensiva, e insuficiencia venosa en ambos miembros inferiores, que acude a la consulta para consultar por la aparición de una placa en el tercio medio de la tibia derecha, de 12 cm de longitud, con 9 cm de ancho en su parte más ancho y 6 cm en su parte más estrecha, de características papulosas, de color cerúleo, y áreas purpúricas que confluyen. Presenta en ambas piernas edema con fóvea. Se le realiza un estudio histológico de la lesión, que expone como resultado atrofia epidérmica, cambios propios del éxtasis venoso, presencia de mucoblastos y depósitos de un material mucinoso a nivel dérmico. La mucinosis pretibial CASI SIEMPRE se asocia a:",
+      "opciones": [
+        "Porfiria cutánea tarda.",
+        "Síndrome de Cushing.",
+        "Hipertiroidismo.",
+        "Hiperparatiroidismo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla que no debemos fallar. La lesión cutánea más característica de la enfermedad de Graves es el mixedema pretibial, también llamada dermopatía tiroidea, provocada por depósito de mucopolisacáridos en la dermis. Clínicamente, se manifiesta como placas rosado-marronáceas que suelen localizarse en cara anterior de las piernas o en el dorso de los pies. Estas lesiones evolucionan de forma independiente respecto a los niveles de las hormonas tiroideas, pudiendo persistir, aunque los mismos se normalicen. Otras alteraciones cutáneas frecuentes en el hipertiroidismo son el eritema facial, palmar y de los codos, debido a la vasodilatación periférica, hiperhidrosis, alopecia difusa y deformación cóncava de las uñas con onicólisis distal (uñas de Plummer) por lo que marcamos la opción 3 correcta.\n\nEl hipotiroidismo presenta, como alteración dermatológica más típica, el mixedema generalizado, que no debemos confundir con el mixedema pretibial antes descrito, pues, aunque ambos cursen con acúmulo dérmico de mucopolisacáridos, en el caso del hipotiroidismo las lesiones no se presentan de forma tan localizada y definida, sino que se manifiesta como piel edematosa, pálida y seca, notándose principalmente estos signos a nivel facial (cara inexpresiva, párpados edematosos, macroglosia, etc.)."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "¿Cuál de los siguientes no es un factor de riesgo para el melanoma?",
+      "opciones": [
+        "Radiación ultravioleta.",
+        "Nevus atípicos.",
+        "Espesor de la lesión medido en milímetros.",
+        "Mas de 50 nevus comunes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla si se lee con atención. Recuerda los factores de riesgo para melanoma: la radiación ultravioleta (sobre todo quemaduras intensas en la infancia y adolescencia), el fototipo I y II, >50-100 nevus comunes, AP o AF de melanoma, nevus congénitos, (sobre todo gigantes) y nevus atípicos. El espesor del melanoma medido en milímetros es el índice de Breslow, que es el factor pronóstico mas importante pero no factor de riesgo (respuesta 3 falsa)."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "La dermatosis precancerosa MÁS frecuente es:",
+      "opciones": [
+        "Queratosis actínica.",
+        "Nevus organoide o de Jaddassohn.",
+        "Leucoplasia.",
+        "Xeroderma pigmentoso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Recuerda que la queratosis actínica se relaciona con la foto-exposición y por eso se dará en zonas expuestas al sol. Son lesiones máculo-papulosas eritemato-descamativas que en un elevado porcentaje acaban desarrollando un carcinoma epidermoide. Son las lesiones precancerosas más frecuentes y por ello la opción 1 es correcta."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Señale la opción falsa con respecto al grupo de las toxicodermias:",
+      "opciones": [
+        "El Síndrome de Dress es una toxicodermia con un 10% de mortalidad en la cual hay alteración de transaminasas, esosinofilia y síntomas sistémicos.",
+        "El exantema morbiliforme, es una reacción cutánea adversa severa y constituye la forma de toxicodermia mas frecuente.",
+        "La pustulosis exantemática aguda generalizada es una toxicodermia cuya mortalidad llega al 5% de los casos. A menudo se implican antibióticos en su etiología.",
+        "El síndrome de Steven Johnson presenta una mortalidad del 5 al 15%, y en algunos casos se ha implicado el mycoplasma pneumoniae."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las reacciones adversas cutáneas a fármacos son un problema frecuente que afecta al 3% de los pacientes hospitalizados. Afortunadamente solo el 2% de esas toxicodermias se consideran graves. El espectro de esas reacciones adversas cutáneas graves incluye patologías como la pustulosas exantemáticas agudas generalizadas (PEGA), la reacción a fármacos con eosinofilia y síntomas sistémicos (acrónimo en inglés, DRESS), el síndrome de Stevens-Johnson (SSJ) y la necrólisis epidérmica tóxica (NET) (en este orden aproximado de gravedad). El exantema morbiliforme es la forma de toxicodermia mas frecuente, pero no se incluye en este espectro de reacciones cutáneas adversas severas (opción 2 falsa)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Varón de 60 años, con placas infiltradas (de aparición progresiva) en cuero cabelludo que dejan alopecia cicatricial. El informe anatomopatológico da como resultado alopecia mucinosa. ¿A qué se asocia esta dermatosis paraneoplásica?",
+      "opciones": [
+        "Carcinoma de mama.",
+        "Linfomas cutáneos de células T.",
+        "Adenocarcinoma del tubo digestivo.",
+        "Carcinoma de pulmón."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta muy difícil y específica. La alopecia mucinosa (mucinosis folicular) es una enfermedad de la unidad pilosebácea que se presenta en la clínica como pápulas o placas foliculares descamativas agrupadas, con pérdida de pelo asociada. Está causada por la infiltración mucinosa de las glándulas sebáceas y la vaina externa del folículo pilosebáceo, y afecta habitualmente al cuero cabelludo, cara y cuello. Puede ser primaria (idiopática) o secundaria a otras enfermedades, como la micosis fungoide (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Varón de 60 años, agricultor. En tercio medio de labio inferior presenta una infiltración de 0,5 cm, recubierta de costra blanquecina y cuya evolución es de un año. Te sugiere el diagnóstico de:",
+      "opciones": [
+        "Queratoacantoma.",
+        "Carcinoma espinocelular.",
+        "Papiloma oral.",
+        "Leucoplasia ulcerans."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Dado que estamos ante un tumor de la semimucosa labial, difícilmente puede tratarse de un basalioma, que por definición no aparece en mucosas. Sin embargo, teniendo en cuenta la exposición solar crónica (agricultor) y la morfología lesional (lesión costrosa, infiltrada y de larga evolución), el diagnóstico más probable es un carcinoma epidermoide. Recuerda que, en estos casos, el rico drenaje linfático del labio inferior hace que sea más probable la diseminación linfática. Opción 2 correcta."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Varón de 60 años de edad, viudo, carpintero hasta hace 1 mes, momento en el que decide dedicarse a la albañilería. Antecedentes familiares de atopia. Diabetes no insulin dependiente mal controlada desde hace 5 años. Gastrectomizado por ulcus gástrico hace 30 años. Desde hace 3 días presenta lesiones eritematosas, vesiculosas, de bordes mal definidos y localizadas en el dorso de las manos, los antebrazos y la región facial. Estas lesiones son, además, muy pruriginosas. Con respecto a esta patología señale la cierta:",
+      "opciones": [
+        "Dada la localización, hay que pensar en una atopia del adulto.",
+        "Parece una patomimia pues probablemente no esté contento con su nuevo trabajo.",
+        "El empleo de corticoides y antihistamínicos tópicos mejorarán rápidamente el cuadro.",
+        "Probablemente el cromo esté implicado en la patogenia del proceso."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clínica del proceso que padece este varón (prurito, lesiones eritematosas, vesiculosas, de bordes mal definidos), junto con la localización de las lesiones y su actual profesión, deben sugerirnos el diagnóstico de eccema de contacto (dermatitis debida a sustancias que entran en contacto con la piel), concretamente el eccema de contacto alérgico. Este es el que aparece en las personas que se han sensibilizado a un determinado producto químico. Como requiere sensibilización, este eccema no aparece en la primera exposición con el alérgeno y además puede aparecer también en zonas distantes a las del contacto. Los casos profesionales frecuentemente muestran afectación en el dorso de las manos. En este paciente lo más probable es que exista una sensibilización al cromo. Este es el alérgeno más frecuente en los varones y se encuentra en el cemento (albañilería) y también en los calzados de cuero y la bisutería por lo que marcamos la opción 4 correcta. El diagnóstico de confirmación se realiza con las pruebas epicutáneas o patch tests (en este caso el cromo daría positivo). El tratamiento consiste en eliminar el alérgeno y en la administración de antihistamínicos vía oral y corticoides tópicos y/o sistémicos, según la intensidad y extensión del proceso."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "El angioedema hereditario está en relación con:",
+      "opciones": [
+        "Bajos niveles de properdina.",
+        "Altos niveles de properdina.",
+        "Bajos niveles de inhibidor de C1.",
+        "Altos niveles de hemoglobina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El angioedema hereditario o edema angioneurótico familiar de Quincke se caracteriza por la aparición de brotes de edema del tejido celular subcutáneo sobre todo en cara, manos y pies. No se acompaña de habones ni prurito. En algunos casos se produce afectación de la mucosa intestinal y respiratoria lo cual puede manifestarse en forma de vómitos, diarrea o broncoespasmos. Se debe a un déficit real o funcional del C1 inhibidor y se hereda de forma autosómico dominante, por lo que marcamos la opción 3 correcta. Existen también formas adquiridas con una clínica similar pero de comienzo más tardío. El tratamiento de las crisis agudas se hace con concentrados de C1 inhibidor o con plasma fresco congelado y la profilaxis con danazol o estanozolol. El ácido tranexámico, un fármaco antifibrinolítico, se ha utilizado para el tratamiento de la forma aguda y crónica de la enfermedad con menos efectos secundarios."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Mujer embarazada presenta prurito, habiendo sido diagnosticado el marido de sarna hace tres semanas. ¿Cuál sería su actitud terapéutica?:",
+      "opciones": [
+        "Tratar a ambos con lindane más las medidas higiénicas habituales.",
+        "Tratar a la embarazada con azufre al 5% en vaselina o permetrina y de nuevo al marido con permetrina o lindane más medidas higiénicas habituales.",
+        "Tratar al marido con lindane y corticoides y a la mujer con ivermectina.",
+        "Medidas higiénicas habituales y crotamitón a ambos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tratamiento de la sarna es un tema preguntable. El lindano ha sido el tratamiento de elección clásico de la escabiosis, pero no se puede usar en niños/embarazadas por ser neurotóxico, en estos casos se usaba vaselina azufrada). La permetrina se ha convertido en el tratamiento de elección ya que es mucho menos tóxica y se puede usar en niños/embarazadas. El crotamitón es otro ectoparasiticida, pero que tampoco se puede usar en el niños/embarazadas. La ivermectina oral es un excelente escabicida (de elección en brotes epidemiológicos), pero no debe usarse en embarazadas. Así pues, de las opciones presentadas sólo es correcta la opción 2. Es importante tomar en cuenta las medidas higiénicas que hay que hacer con respecto al hogar, vestimenta, ropa de cama, etc, que son claves para eliminar reservorios y disminuir la tasa de reinfestación."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Un caballero de 73 años acude a una revisión de rutina de su tensión arterial. Es un ejecutivo jubilado que, aparte de su ligera hipertensión, se encuentra sano y practica deporte. Tras la exploración, mientras se está vistiendo, comenta al médico que su mujer le ha estado insistiendo para que le enseñe un pequeño \"grano\" que tiene en la nariz. Él está seguro de que esta lesión, que lleva presente varios años, no tiene importancia. El médico anota en la historia: \"pequeña pápula translúcida y endurecida, con algunas telangiectasias y su zona central deprimida\". El diagnóstico más probable de esta lesión es:",
+      "opciones": [
+        "Nevus displásico.",
+        "Acantoma de células claras.",
+        "Xantoma eruptivo.",
+        "Basalioma."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El epitelioma basocelular es importante dentro del capítulo de dermatología. Debes conocer bien sus características más importantes y los rasgos diferenciales con el carcinoma epidermoide. La clínica del basocelular es muy característica y no deberías haber tenido problemas para resolver esta pregunta. Se debe sospechar su existencia cuando estamos ante una pápula de aspecto blanquecino y brillo perlado, que crece progresivamente. A veces, puede ulcerarse en el centro, con formación sucesiva de costras. Es típica la aparición de alguna telangiectasia en su superficie (opción 4 correcta). En cambio, el carcinoma epidermoide o espinocelular tiene un aspecto diferente. Dado que se origina en células con cierto grado de maduración, es más monomorfo que el basocelular. Cursa como placas eritematosas o eritematodescamativas de larga evolución, que con el tiempo adoptan formas pápulo- tumorales, con frecuencia ulceradas y sangrantes."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "La brimonidina tópica es un vasoconstrictor empleado en la rosácea. Su uso tiene especial sentido en un tipo concreto de rosácea.",
+      "opciones": [
+        "Rosácea ocular",
+        "Rosácea eritemato-telangiectásica",
+        "Rosácea fimatosa",
+        "Rosácea vasodilatada"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta poco rentable sobre un tema poco preguntado, el tratamiento de la rosácea. La brimonidina es un tratamiento tópico que tiene el especial efecto de producir una potente vasoconstricción. Está especialmente pensado para las formas eritemato-telangiectásicas por lo que marcamos la opción 2 correcta."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Un niño de 8 años tiene febrícula, malestar y una lesión cutánea dolorosa en el área submandibular que consiste en un nódulo duro a la palpación, ulcerado en su zona central y que excreta un material necrótico amarillento al ser comprimido. Se toman muestras para cultivo y biopsia, y éstas demuestran infiltrado granulomatoso en el que crece Mycobacterium scrofulaceum. El tratamiento inicial más adecuado será:",
+      "opciones": [
+        "Observación hasta que lleguen los resultados de antibiograma.",
+        "Escisión quirúrgica de la lesión.",
+        "Rifampicina, isoniacida y etambutol.",
+        "Estreptomicina, isoniacida y pirazinamida."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta un tanto difícil. El caso se refiere a un escrofuloderma. Esto es una exteriorización a la piel de una infección micobacteriana desde un foco profundo (ej: pulmonar, ganglionar). En los adultos suele ser producida por el M tuberculosis, pero en niños suele ser responsable el M scrofulaceum o el M avium, pertenecientes a las micobacterias atípicas. En estos casos el tratamiento de elección sería el quirúrgico (opción 2 correcta)."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "La alopecia areata es frecuente en todas EXCEPTO en una de las siguientes enfermedades:",
+      "opciones": [
+        "Síndrome de Down.",
+        "Anemia perniciosa.",
+        "Enfermedad de Addison.",
+        "Hipotiroidismo yatrogénico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La alopecia areata es una alopecia no cicatrizal, presumiblemente autoinmune. Lo habitual es que esta enfermedad se presente de forma aislada. Sin embargo existe mayor incidencia en pacientes con dermatitis atópica, síndrome de Down, liquen plano, y ciertas enfermedades autoinmunes como son el lupus eritematoso sistémico, tiroiditis, miastenia gravis, vitíligo, enfermedad inflamatoria intestinal, anemia perniciosa, artritis reumatoide, polimialgia reumática y síndrome de poliendocrinopatía autoinmune tipo 1. Por tanto, es más frecuente en todas las opciones excepto en el hipotiroidismo iatrogénico. Opción 4 correcta."
+    }
+  ]
+}

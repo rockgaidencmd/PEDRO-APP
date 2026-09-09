@@ -1,0 +1,620 @@
+{
+  "materia": "histologia",
+  "paginaInicio": 18,
+  "paginaFin": 34,
+  "preguntas": [
+    {
+      "paginaPdf": 18,
+      "enunciado": "El asa gruesa ascendente está recubierto por un epitelio:",
+      "opciones": [
+        "Epitelio cúbico simple bajo sin mirovellosidades.",
+        "Epitelio pseudoestratificado ciliado.",
+        "Epitelio cúbico simple con microvellosidades.",
+        "Epitelio simple plano con microvellosidades."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. El asa gruesa ascendente está revestido por células cúbicas bajas con plegamientos basales. El asa gruesa descendente está revestida por células cúbicas bajas sin borde en chapa. Las asas delgada ascendente y descendente están revestidas por un epitelio simple plano con microvellosidades y algún plegamiento basal y lateral."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Indique cual de las siguientes afirmaciones sobre el tejido adiposo blanco es cierta:",
+      "opciones": [
+        "Es el más frecuente en la niñez.",
+        "Se localiza en la hipodermis.",
+        "El citoplasma de sus adipocitos contiene numerosas gotas lipídicas.",
+        "Contiene más lípidos y glucógeno que los adipocitos de la grasa parda."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. El tejido adiposo blanco o unilocular es el más frecuente en los adultos. Forma una capa por debajo de la piel llamada hipodermis y tiene función aislante. También se encuentra en el mesenterio, en el espacio retroperitoneal y en la médula ósea. El adipocito maduro se caracteriza por tener una única inclusión lipídica de gran tamaño rodeada por una fina capa de citoplasma con el resto de las organelas. El núcleo tiene localización periférica. Hay menos lípido saturado y menos glucógeno."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "La muscular propia del tercio superior del esófago se compone de:",
+      "opciones": [
+        "Dos capas de músculo estriado visceral.",
+        "Dos capas de músculo liso.",
+        "Una capa de músculo estriado y otra capa de músculo liso.",
+        "Dos capas de músculo estriado esquelético."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta correcta: 4. La muscular propia presenta variaciones a lo largo del recorrido del esófago. En el tercio superior se compone de dos capas de músculo estriado esquelético, una interior transversal y otra exterior longitudinal. En el tercio medio se compone de una capa interna transversal de músculo liso y otra externa longitudinal de músculo estriado esquelético. En el tercio distal se compone de dos capas de músculo liso, una interna transversal y otra externa longitudinal."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Las glándulas de Skene se localizan en:",
+      "opciones": [
+        "Cerca del meato uretral.",
+        "En la pared de la vagina.",
+        "En los labios mayores.",
+        "En los labios menores."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. El meato uretral se comunica con el exterior del cuerpo cerca del clítoris. Alrededor del meato se encuentran las glándulas parauretrales de Skene y se revisten de epitelio cilíndrico pseudoestratificado."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "En la capa plexiforme interna se producen uniones entre:",
+      "opciones": [
+        "Células horizontales, amacrinas y bipolares.",
+        "Células amacrinas, fotorreceptores y bipolares.",
+        "Células bipolares, ganglionares y horizontales.",
+        "Células amacrinas, ganglionares y bipolares."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta correcta: 4. En la capa plexiforme externa hay conexiones sinápticas entre células fotorreceptoras, las células bipolares y las células horizontales. En la capa plexiforme interna hay conexiones sinápticas entre células bipolares, amacrinas, ganglionares y bipolares."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "El epitelio de los bronquiolos terminales es de tipo:",
+      "opciones": [
+        "Cúbico ciliado.",
+        "Cilíndrico ciliado.",
+        "Pseudoestratificado ciliado.",
+        "Plano ciliado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. El conjunto de un bronquiolo terminal y la región de tejido pulmonar asociada al mismo se denomina lobulillo pulmonar. Se dividen y dan lugar a los bronquiolos respiratorios. Están recubiertos por un epitelio cúbico ciliado con células de Clara (80%). No poseen alveolos en su pared. No hay glándulas ni cartílago."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "La túnica media de las arteriolas está compuesta por:",
+      "opciones": [
+        "Una capa de células endoteliales.",
+        "Dos a cinco capas de células musculares lisas.",
+        "Fibras elásticas.",
+        "Una capa de células mesoteliales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Las arteriolas son vasos de resistencia. Su túnica íntima está formada por endotelio, subendotelio y lámina elástica interna. La túnica media comprende de dos a cinco capas concéntricas de células musculares lisas La túnica adventicia posee colágeno y no hay lámina elástica externa."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Las glándulas sebáceas se localizan en:",
+      "opciones": [
+        "Monte de Venus, axilas y región perianal.",
+        "Toda la piel excepto palmas y plantas.",
+        "Toda la piel excepto labios y glande.",
+        "Toda la piel."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Las glándulas sebáceas se localizan en toda la piel excepto palmas y plantas. Las glándulas sudoríparas ecrinas se localizan en toda la piel excepto labios y glande. Las glándulas sudoríparas apocrinas se localizan en Monte de Venus, axilas y región perianal."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "El límite anterior de la cámara anterior es:",
+      "opciones": [
+        "Córnea.",
+        "Esclera.",
+        "Iris.",
+        "Cristalino."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. La cámara anterior del ojo se sitúa entre el endotelio de la córnea y la superficie anterior de iris, se reabsorbe el humor acuoso en el conducto de Schlemm, situado en el ángulo circunferencial. Se comunica con la cámara posterior a través de la pupila."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "El ectocérvix está revestido por un epitelio:",
+      "opciones": [
+        "Cilíndrico simple.",
+        "Plano poliestratificado no queratinizado.",
+        "Plano poliestratificado queratinizado.",
+        "Pseudoestratificado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. El endocérvix está revestido por un epitelio cilíndrico simple con glándulas tubulares mucosecretoras. Están rodeadas de un estroma fibrocolágeno y células musculares lisas. La actividad de estas glándulas depende de los estrógenos y es máxima en el momento de la ovulación. Cuando se obstruyen forman los quistes de Naboth. El ectocérvix está revestido por un epitelio plano poliestratificado no queratinizado."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Indique cual de los siguientes no es un mecanismo de aumento de la absorción del intestino delgado:",
+      "opciones": [
+        "Células caliciformes.",
+        "Microvellosidades.",
+        "Criptas de Lieberkün.",
+        "Válvulas de Kerkring."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. Los cuatro mecanismos de aumento de la absorción en el intestino delgado son las válvulas de Kerkring (protrusiones permanentes de la mucosa y parte de la submucosa), las vellosidades intestinales (protrusiones de la mucosa hacia la luz), las criptas de Lieberkün (invaginaciones de la mucosa hasta la muscular de la mucosa) y las microvellosidades de los enterocitos."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "La uretra femenina está recubierta por varios epitelios a lo largo de su recorrido, excepto:",
+      "opciones": [
+        "Pseudoestratificado transicional.",
+        "Plano poliestratificado no queratinizado.",
+        "Plano poliestratificado queratinizado.",
+        "Cilíndrico simple con microvellosidades."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta correcta: 4. El epitelio más proximal es un epitelio de transición, que se continua con un epitelio plano poliestratificado no queratinizado que se va queratinizando a medida que de acerca al meato uretral. La lámina propia es también un tejido conjuntivo laxo, rico en fibras elásticas y poseen un gran plexo venoso."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Indique cual de las siguientes células no sintetiza fibras de colágeno:",
+      "opciones": [
+        "Fibroblastos.",
+        "Células epiteliales.",
+        "Células musculares esqueléticas.",
+        "Osteoblastos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. Las fibras de colágeno son sintetizadas por una variedad de células: fibroblastos, células reticulares (colágeno tipo III), osteoblastos, condroblastos, células epiteliales (colágeno tipo IV) y células musculares lisas (colágenos tipo I y II). Las fibras elásticas son sintetizadas por fibroblastos, células musuclares lisas, condroblastos y condrocitos."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Las células mesangiales poseen características de varios tipos celulares. Señale cuales:",
+      "opciones": [
+        "Músculares lisas y macrófagos.",
+        "Endoteliales y reticulares.",
+        "Linfocitos B y basófilos.",
+        "Neutrófilos y musculares esqueléticas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Las células mesangiales poseen características de células musculares lisas y macrófagos. Son células contráctiles, fagocíticas, que pueden proliferar y sintetizan matriz y colágeno."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "El epitelio de las trompas uterinas es de tipo:",
+      "opciones": [
+        "Simple plano.",
+        "Cilíndrico simple.",
+        "Cúbico poliestratificado.",
+        "Pseudoestratificado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Las trompas uterinas se revisten por un epitelio cilíndrico simple con células ciliadas y células secretoras, estimuladas por estrógenos, una lámina propia, una muscular con una capa interna circular espiral y una externa longitudinal y a la serosa."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Indique cual de las siguientes estructuras se localiza en el centro de un lobulillo portal:",
+      "opciones": [
+        "Arteria rama de la arteria hepática.",
+        "Vénula.",
+        "Ducto biliar.",
+        "Vena rama de la vena porta."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 2. Es la parte de los lobulillos hepáticos que drenan al mismo conducto biliar. Sus límites son las vénulas centrales de tres lobulillos clásicos y el centro es un conducto biliar. Se centra en la función exocrina."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Cual de los siguientes no es un cambio que se produce durante la espermiogénesis:",
+      "opciones": [
+        "Condensación nuclear.",
+        "Desarrollo del acrosoma.",
+        "Se completa la segunda división meiótica.",
+        "Desarrollo del manguito."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. Durante la Espermiogénesis se produce el desarrollo del flagelo a partir del centriolo distal, el desarrollo del acrosoma mediante la síntesis y almacenamiento de enzimas hidrolíticas en el saco acrosómico, el desarrollo del manguito y la condensación nuclear."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Cuál de las siguientes células se encuentra en las lagunas de Howship?",
+      "opciones": [
+        "Osteocito.",
+        "Osteoblasto.",
+        "Condrocito.",
+        "Osteoclasto."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta correcta: 4. En el cartílago, cuando los condroblastos se rodean completamente de matriz se denominan condrocitos y se ubican en las lagunas. En el hueso, cuando los osteoblastos se rodean completamente de matriz se denominan osteocitos. Los osteoclastos se sitúan en las lagunas de Howship o compartimento subosteoclástico. Los osteoclastos son células muy polarizadas."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Las Placas de Peyer se encuentran en la mucosa de:",
+      "opciones": [
+        "Yeyuno.",
+        "Duodeno.",
+        "Íleon.",
+        "Colon ascendente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. Las placas de Peyer son el componente principal del tejido linfoide asociada a intestino. Se localizan en la mucosa del íleon. Son folículos linfoides especializados compuestos por una cúpula y un centro germinal. Están revestidas de un epitelio asociado al folículo compuesto por células M y enterocitos."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "El epitelio de la capa parietal del espacio de Bowman es de tipo:",
+      "opciones": [
+        "Simple plano.",
+        "Simple cúbico.",
+        "Simple cilíndrico.",
+        "Pseudoestratificado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. La capa parietal de la cápsula de Bowman está revestida por una lámina basal y un epitelio simple plano que se continúa con el epitelio cúbico simple del túbulo contorneado distal. Contacta con tejido conjuntivo."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "El anillo de Waldeyer se localizan en:",
+      "opciones": [
+        "Nasofaringe.",
+        "Glotis.",
+        "Supraglotis.",
+        "Orofaringe."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. La nasofaringe está revestida por un epitelio pseudoestratificado cilíndrico parecido al de la cavidad nasal y contiene abundante tejido linfoide asociado a mucosa (anillo de Waldeyer). La orofaringe está revestida por un epitelio simple no queratinizado."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Indique cual de las siguientes afirmaciones sobre el tejido adiposo pardo es cierta:",
+      "opciones": [
+        "Es más frecuente en los fetos.",
+        "Los núcleos de los adipocitos multiloculares tienen localización periférica.",
+        "Es un tejido menos vascularizado que el tejido adiposo unilocular.",
+        "Supone una reserva de energía a largo plazo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. El tejido adiposo pardo o multilocular es más frecuente en los fetos. La mayor parte se pierde durante la niñez. En adultos se encuentra en localización retroesternal, cuello, hombros, espalda. El núcleo está en el centro, con pequeñas gotas lipídicas y numerosas mitocondrias tabicadas. La energía producida en ellos se disipa como calor ya que hay un desacoplamiento electrón- ATP. Está dividido en lobulillos por tejido conjuntivo. Posee más glucógeno, más lípidos y más enzimas oxidativas. Está más vascularizado que el tejido adiposo unilocular."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Indique cual de los siguientes órganos no está recubierto por un epitelio estratificado:",
+      "opciones": [
+        "Piel.",
+        "Estómago.",
+        "Vagina.",
+        "Conjuntiva."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Los epitelios se clasifican según el número de estratos y de la forma de las células en la capa más externa. Los epitelios simples tienen una capa de células. Los epitelios estratificados tienen dos o más capas de células. Los epitelios pseudoestratificados tienen una capa de células, todas en contacto con la lámina basal, algunas de ellas no llegan a la superficie libre y los núcleos se disponen a diferentes alturas. La piel está recubierta por un epitelio plano poliestratificado queratinizado. El estómago está revestido por un epitelio cilíndrico simple. La vagina está recubierta por un epitelio plano poliestratificado no queratinizado. La conjuntiva está recubierta por un epitelio poliestratificado cilíndrico."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Las células bipolares directas de tipo cono se caracterizan por presentar los siguientes tipos de uniones:",
+      "opciones": [
+        "A un cono y a una célula ganglionar.",
+        "A un bastón y a una célula ganglionar.",
+        "A un bastón y a varias células ganglionares.",
+        "A varios conos y una célula ganglionar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. Las células bipolares son de dos tipos. Las de tipo bastón se unen a las esférulas de los bastones y las de tipo cono se unen a los pedículos de los conos y pueden ser de tipo difuso (se unen a varios conos y a varias células ganglionares) o directo (se unen a un cono y a una célula ganglionar)."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Las glándulas endometriales durante la fase proliferativa poseen las siguientes características, excepto una, señale cual:",
+      "opciones": [
+        "Forma recta.",
+        "Varias capas de células glandulares.",
+        "Vacuolas intracitoplasmáticas.",
+        "Núcleos ovalados."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. Durante la fase proliferativa el espesor del endometrio aumenta debido a la estimulación estrogénica. Las glándulas tienen forma recta, están recubiertas por varias capas de células con núcleos ovalados pseudoestratificados con nucléolos pequeños. El estroma es denso, con células estromales con núcleo ovalado y citoplasma poco nítido. Presencia de mitosis tanto en glándulas como en estroma. Hay presencia de algunos linfocitos dispersos."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "El epicardio está compuesto por:",
+      "opciones": [
+        "Mesotelio y tejido conjuntivo con vasos y nervios.",
+        "Endotelio y tejido conjuntivo laxo.",
+        "Capas de músculo estriado cardiaco.",
+        "Fibras elásticas y colagénicas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. El epicardio es la capa más externa que recubre el corazón y está compuesto por mesotelio y tejido conjuntivo con vasos y nervios. El miocardio es la capa intermedia y está compuesto por capas de células musculares estriadas. El endocardio es la capa más interna del corazón y está compuesto por endotelio y tejido conjuntivo laxo."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "La próstata es una glándula de tipo:",
+      "opciones": [
+        "Tubulares simples.",
+        "Tubuloalveolares ramificadas.",
+        "Alveolares – acinares simples.",
+        "Acinares ramificadas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Las glándulas prostáticas pueden ser mucosas periuretrales, submucosas periuretrales o principales (ramificadas periféricas). Las glándulas son tubuloalveolares ramificadas que vierten su contenido a la uretra a través de los conductos excretores. Se revisten de un epitelio cilíndrico simple o pseudoestratificado. En la luz de las glándulas se localiza la secreción (cuerpos amiláceos)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "La glándula pineal libera:",
+      "opciones": [
+        "Prolactina.",
+        "Hormona de crecimiento.",
+        "Melatonina.",
+        "Hormona luteinizante."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. La glándula pineal está compuesta por agregados y cordones de células que secretan melatonina y células intersticiales similares a la glía. La prolactina y la hormona de crecimiento son liberadas por células acidófilas del lóbulo anterior de la hipófisis y la hormona luteinizante es liberada por células basófilas del lóbulo anterior de la hipófisis."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "La siguiente imagen histológica se corresponde con:",
+      "opciones": [
+        "Vesícula biliar.",
+        "Vejiga.",
+        "Intestino delgado.",
+        "Intestino grueso."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. En la imagen se muestran las capas de la vejiga. La mucosa está revestida por urotelio, la lámina propia y la capa muscular. El tipo de epitelio nos permite hacer un diagnóstico diferencial con las otras entidades de la pregunta, que poseen un epitelio cilíndrico. La vesícula biliar no tiene submucosa.",
+      "imagen": "histologia/p027-1.png"
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Indique cual de los siguientes es una invaginación de la mucosa del intestino delgado:",
+      "opciones": [
+        "Vellosidad intestinal.",
+        "Pliegue circular.",
+        "Microvellosidad.",
+        "Glándula intestinal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta correcta: 4. Las válvulas de Kerkring o pliegues circulares son protrusiones permanentes de la mucosa y parte de la submucosa. Las vellosidades intestinales son protrusiones de la mucosa hacia la luz. Las glándulas intestinales o criptas de Lieberkün son invaginaciones de la mucosa hasta la muscular de la mucosa. Las microvellosidades de los enterocitos son protrusiones citoplasmáticas."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Las trompas de Falopio se rodean de:",
+      "opciones": [
+        "Adventicia.",
+        "Serosa.",
+        "Adventicia en la cara superior y serosa en la cara inferior.",
+        "Ninguna de las dos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Las trompas uterinas se revisten por un epitelio cilíndrico simple con células ciliadas y células secretoras, estimuladas por estrógenos, una lámina propia, una muscular con una capa interna circular espiral y una externa longitudinal y a la serosa."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Indique cual de las siguientes estructuras de la cavidad oral está recubierta por un epitelio plano poliestratificado no queratinizado:",
+      "opciones": [
+        "Paladar blando.",
+        "Paladar duro.",
+        "Borde lateral de las encías.",
+        "Región cutánea de los labios."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. La región cutánea de los labios, el borde de las encías y el paladar duro están recubiertos por un epitelio plano poliestratificado queratinizado. La zona central de las encías y el paladar blando están recubiertas por un epitelio plano poliestratificado no queratinizado. La lengua está recubierta por un epitelio poliestratificado no queratinizado."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Las capas de la corteza cerebelosa son:",
+      "opciones": [
+        "Glomerular, fascicular y reticular.",
+        "Molecular, Purkinje y granular.",
+        "Purkinje, medular y globosa.",
+        "Glial, Purkinje y trabecular."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. La corteza del cerebelo Corteza (sustancia gris) presenta numerosos pliegues y circunvoluciones compuestas por las laminillas cerebelosas (microcircunvoluciones). Contiene una capa molecular hipocelular externa, una capa intermedia de células de Purkinje (células gruesas con REL y Golgi bien desarrollados) y una capa hipercelular interna de células granulares."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Las células de Lacis se localizan en:",
+      "opciones": [
+        "Mesangio.",
+        "Parte distal del túbulo contorneado proximal.",
+        "Parte proximal del túbulo contorneado distal.",
+        "Capa media de las arteriolas eferentes."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. El aparato yuxtaglomerular se compone de: células yuxtaglomerulares (capa media de las arteriolas aferentes. Son células musculares lisas modificadas con vesículas secretoras de renina), células mesangiales extraglomerulares o células de Lacis (junto a las arteriolas aferentes y eferentes) y células de la mácula densa (parte más proximal del túbulo contorneado distal, son células grandes y oscuras cuya polaridad está invertida, pueden presentar un cilio apical)."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Indique cual de los siguientes tipos de colágeno contiene la membrana de Descement corneal:",
+      "opciones": [
+        "Tipo I.",
+        "Tipo VII.",
+        "Tipo IV.",
+        "Tipo VI."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. La membrana de Descement contiene colágeno tipo VII dispuesto de forma hexagonal."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Cual de los siguientes tipos de células del diente se encuentran únicamente en el desarrollo dentario:",
+      "opciones": [
+        "Ameloblastos.",
+        "Odontoblastos.",
+        "Cementocitos.",
+        "Todas ellas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. Los ameloblastos sintetizan el esmalte durante el desarrollo dentario. Se localizan en el epitelio dental interno del botón del esmalte."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "El estroma intralobulillar de la mama se compone de:",
+      "opciones": [
+        "Tejido adiposo.",
+        "Tejido conjuntivo denso irregular.",
+        "Fibroblastos, colágeno, histiocitos.",
+        "Acinos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. Dentro de los lóbulos hay estroma intralobulillar (fibroblastos, colágeno, histiocitos) y entre los lóbulos hay estroma interlobulillar (tejido fibroso y adiposo). El tejido adiposo aumenta la edad y el tejido fibroso disminuye con la edad."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "La línea densa principal contiene:",
+      "opciones": [
+        "Membrana citoplasmática de las neuronas.",
+        "Citoplasma de las células de Schwann.",
+        "Espacio extracelular.",
+        "Los nódulos de Rainvier."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. La mielina es sintetizada por las células de Schwann en el SNP y por los oligodendrocitos en el SNC. La célula de Schwann rodea al axón de las neuronas y forma varias capas. La línea densa principal contiene citoplasma y la línea intraperiódica contiene espacio extracelular. Cada segmento de mielina formado por una única célula de Schwann se denomina internodo. Los espacios entre los internosos se llaman nódulos de Rainvier y no contienen mielina."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Indique cual de los siguientes tipos de colágeno es característico del cartílago hialino:",
+      "opciones": [
+        "Tipo I.",
+        "Tipo II.",
+        "Tipo III.",
+        "Tipo IV."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. El colágeno tipo II es el predominante en el cartílago hialino. Este colágeno es sintetizado por los condrocitos y los condroblastos. El colágeno tipo II es también predominante en el cartílago elástico. El cartílago tipo I es el más frecuente en el fibrocartílago. En el cartílago no encontramos colágeno tipo III ni tipo IV. Otros componentes que podemos ver son la laminina y la fibronectina."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Las arterias eferentes de las nefronas yuxtamedulares drenan directamente en:",
+      "opciones": [
+        "Venas arciformes.",
+        "Red capilar peritubular.",
+        "Vasos rectos.",
+        "Vena interlobulillar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. Las arteriolas eferentes glomerulares pueden originar una red capilar (revestida por células endoteliales fenestradas) que drena en las venas interlobulillares y luego en las venas arciformes, venas interlobulares y venas renales en las nefronas corticales o pueden originar los vasos rectos (revestidos por células endoteliales continuas) que llegan hasta la médula y vuelven a la unión cortico – medular como capilares venosos ascendentes (revestidos de células endoteliales fenestradas) en las nefronas yuxtamedulares."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "La dentina es sintetizada por:",
+      "opciones": [
+        "Ameloblasto.",
+        "Odontoblasto.",
+        "Cementocito.",
+        "Dentinocito."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Los odontoblastos sintetizan los componentes de la dentina. Los ameloblastos sintetizan en el esmalte. Los cementocitos sintetizan el cemento."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "El túnel interno del órgano de Corti está delimitado por:",
+      "opciones": [
+        "Células de Hensen.",
+        "Membrana tectoria y células de sostén.",
+        "Células pilares y células falángicas.",
+        "Células pilosas internas y externas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta correcta: 4. El órgano de Corti se sitúa sobre la membrana basilar y se compone de células pilosas con estereociliios (sin cinocilio) internas (una hilera) y externas (varias hileras); células de sostén (pilares y falángicas); membrana tectoria (se extiende desde el limbo espiral y está en contacto con los estereocilios de las células pilosas externas) y túnel interno (limitado por las células internas y externas). El túnel externo está rodeado por las células de Hensen y no contiene ni perilinfa ni endolinfa."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "La parte más cercana a la nasofaringe de las trompas de Eustaquio contiene una de las siguientes estructuras en su pared:",
+      "opciones": [
+        "Cartílago hialino.",
+        "Hueso esponjoso",
+        "Fibrocartílago.",
+        "Cartílago elástico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. La trompa auditiva o trompa de Eustaquio une el odio medio con la faringe. Está revestida por un epitelio ciliado con glándulas mucosecretoras, bajo cerca del oído y pseudoestratificado cerca de la nasofaringe. Se rodea de cartílago elástico, hueso y cartílago hialino según nos vamos acercando a la nasofaringe."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Indique en cual de los siguientes órganos no hay músculo estriado visceral:",
+      "opciones": [
+        "Faringe.",
+        "Lengua.",
+        "Útero.",
+        "Diafragma."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. El músculo se clasifica en función de si presenta estriaciones al microscopio óptico o no. Cuando no presenta esas estriaciones se denomina liso y se encuentra en la pared de vasos sanguíneos, pared de vísceras, vía urinaria, músculo erector del pelo, árbol bronquial, cuerpo ciliar del ojo, útero (miometrio), conducto bilar… Cuando presenta esas estriaciones se denomina estriado y hay tres tipos. El músculo estriado cardiaco se localiza en el corazón y en la salida de los principales vasos. El músculo estriado esquelético es el que forma los músculos que están unidos a huesos. El músculo estriado visceral es idéntico al esquelético, pero se encuentra en tejidos blandos como la lengua, faringe o el diafragma."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "La capa córnea gruesa del eponiquio que protege a la matríz ungueal se denomina:",
+      "opciones": [
+        "Hiponiquio.",
+        "Citícula.",
+        "Lámina ungueal.",
+        "Lecho ungueal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Se componen de un pliegue ungueal proximal cubierto por el eponiquio (epitelio) que se continúa con la matriz ungueal (región de la epidermis que se encarga de la formación de la sustancia de la uña) y con el lecho ungueal. La cutícula es una capa córnea gruesa del eponiquio que se extiende sobre la superficie dorsal de la placa ungueal y protege a la matriz ungueal. El lecho ungueal forma la superficie ventral de la lámina ungueal, que se forma por el aplanamiento de las células epidérmicas, la fragmentación de los núcleos y la condensación del citoplasma. La placa ungueal se localiza sobre la lámina ungueal y se compone de corneocitos, células sin núcleo ni organelas, rodeados por una matriz con proteínas con azufre, lo que hace que las uñas sean tan duras. El hiponiquio es la unión entre el lecho y la placa ungueal en la punta del dedo. Su función es la impermeabilización del lecho ungueal."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "El suero es:",
+      "opciones": [
+        "Plasma sin fibrinógeno.",
+        "Plasma sin eritrocitos.",
+        "Plasma con aminoácidos.",
+        "Plasma con proteinas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. La sangre es un tejido conjuntivo especializado constituido por células y plasma. El volumen de sangre normal en un adulto son 5 o 6 litros. Esl plasma el elemento líquido de la sangre. Está compuesto por sales y elementos orgánicos (aminoácidos, proteínas, vitaminas y hormonas). El plasma sin fibrinógeno se denomina suero."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "El endocérvix está revestido por un epitelio:",
+      "opciones": [
+        "Cilíndrico simple.",
+        "Plano poliestratificado no queratinizado.",
+        "Plano poliestratificado queratinizado.",
+        "Pseudoestratificado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. El endocérvix está revestido por un epitelio cilíndrico simple con glándulas tubulares mucosecretoras. Están rodeadas de un estroma fibrocolágeno y células musculares lisas. La actividad de estas glándulas depende de los estrógenos y es máxima en el momento de la ovulación. Cuando se obstruyen forman los quistes de Naboth. El ectocérvix está revestido por un epitelio plano poliestratificado no queratinizado."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Las glándulas que secretan el cerumen son de tipo:",
+      "opciones": [
+        "Tubulares ecrinas.",
+        "Ramificadas mixtas.",
+        "Tubulares apocrinas.",
+        "Rectas mixtas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. El pabellón auricular se compone de un eje central de cartílago elástico rodeado con piel con folículos pilosos y glándulas sebáceas. El tercio externo del conducto auditivo interno está recubierto por cartílago y los dos tercios internos están recubiertos por el hueso temporal. La piel que recubre el cartílago y el hueso contiene glándulas tubulares contorneadas apocrinas que secretan cerumen."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "El vértice de una pirámide renal es:",
+      "opciones": [
+        "Papila renal.",
+        "Unión cortico – medular.",
+        "Arteria interlobular.",
+        "Arteria interlobulillar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. La médula se compone de las pirámides medulares. Su base está la unión cortico – medular, su vértice es una papila y lateralmente se limitan por arterias interlobulares. Están compuestas por tubos medulares."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "El segmento externo de los bastones posee:",
+      "opciones": [
+        "Retículo endoplasmático y aparato de Golgi.",
+        "Pilas de discos.",
+        "Núcleo.",
+        "Esférula."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Respuesta correcta: 2. Los bastones predominan en la fóvea. Se componen de una esférula (vesículas sinápticas), un núcleo, un segmento interno (RER, aparato de Golgi y almacén de vitamina A) y un segmento externo (forma cilíndrica, pilas de discos). El segmento interno y externo se unen mediante un cilio modificado con nueve dupletes de microtúblos concéntricos sin un microtúbulo central. Su foto pigmento se llama rodopsina."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "El fotopigmento de los conos se denomina:",
+      "opciones": [
+        "Yodopsina.",
+        "Rodopsina.",
+        "Codopsina.",
+        "Freodopsina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta correcta: 1. Los conos se componen de un pedículo (vesículas sinápticas), un núcleo, un segmento interno (RER, aparato de Golgi y almacén de vitamina A) y un segmento externo (forma cónica, pilas de discos). Su fotopigmento se llama yodopsina. El fotopigmento de los bastones se denomina rodopsina."
+    }
+  ]
+}

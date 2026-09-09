@@ -1,0 +1,518 @@
+{
+  "materia": "epidemio",
+  "paginaInicio": 39,
+  "paginaFin": 57,
+  "anomalias": [
+    "p39: en la pregunta del RR estratificado por sexo, el comentario afirma que el IC 95% (1- 7) de los varones no incluye el 1 y termina diciendo que \"lo que incluiría el 1 sería (1-7)\", repitiendo el mismo intervalo; se perdió la notación (corchete) que daría sentido a la frase",
+    "p42: en la pregunta de las edades de una muestra de 300 pacientes, Resp. Correcta 2 pero el comentario dice \"la respuesta correcta es la 3\" (la descripción que da entre paréntesis corresponde en realidad a la opción 2) y luego dice que la interpretación inferencial \"se ajusta a la dada por la respuesta 4\", que corresponde a la opción 3",
+    "p43: en la pregunta del colangiocarcinoma, la clave es la opción 4 (los pacientes con cáncer están más motivados para recordar la exposición) pero el comentario dice que el sesgo de memoria \"afecta fundamentalmente a controles, que no recuerdan el antecedente a la exposición\"",
+    "p49: en la pregunta del ensayo clínico de interferón en hepatitis C, Resp. Correcta 4 pero el comentario cierra con \"Por ello la respuesta correcta es la 5\" y solo hay 4 opciones",
+    "p57: en la pregunta sobre la escala de medida que contiene más información, Resp. Correcta 4 (Razón) y el comentario dice que solo la razón es una escala de medida, pero a continuación afirma que \"Las respuestas 1 y 4 son tipos de variables\", incluyendo la propia opción correcta"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 39,
+      "enunciado": "Un fármaco no es comercializado hasta que supera la fase:",
+      "opciones": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La fase del ensayo clínico que todo fármaco debe superar para ser llevado al mercado es la fase III (evidentemente tras haber superado una fase I y fase II)."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "En un estudio que evalúa la presencia de hipertensión como factor de riesgo del accidente vascular cerebral (AVC), se observa un riesgo relativo de 6 (RR=6 intervalo de confianza 95%, 4-8). El análisis estratificado en función del sexo da los siguientes resultados: en mujeres el RR es de 8 (intervalo de confianza 95%, 5-11) y en los hombres de 4 (intervalo de confianza 95%, 1-7). ¿Cuál de las siguientes afirmaciones es CIERTA?",
+      "opciones": [
+        "La hipertensión solo es un factor de riesgo para las mujeres.",
+        "La hipertensión es un modificador del efecto, ya que el RR difiere según estratos.",
+        "La hipertensión es un factor de confusión, ya que los valores crudos y estratificados difieren.",
+        "El sexo es un factor modificador de efecto entre la hipertensión y el AVC."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Tanto en las mujeres como en los varones obtenemos un RR superior a la unidad, pero con un riesgo menor para los varones (RR = 4) que para las mujeres (RR = 8). En ambos casos, por tanto, la hipertensión arterial supone un factor de riesgo para el padecimiento de un AVC, pero en el sexo femenino esta asociación es más fuerte. Tanto en varones como en mujeres, el resultado del estudio apunta en la misma dirección, aunque el riesgo es diferente. En otras palabras, el sexo es un factor modificador del efecto de la HTA sobre el riesgo de padecer AVC (respuesta 4 es correcta). Ten cuidado y no te dejes engañar por los intervalos del riesgo relativo. Como sabes, un riesgo relativo no se considera significativo si el intervalo incluye la unidad. Presta mucha atención al de los varones: IC 95% (1- 7). ¿Dirías que incluye el 1? Si crees eso, te equivocas, pues el paréntesis no incluye el valor inferior, sino todo lo que está por encima de él, lo que incluiría el 1 sería (1-7)."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "A un paciente con frecuentes ataques agudos de asma bronquial, se le pide que lleve un registro de su actividad diaria, horas de sueño, consumo de fármacos, nivel de estrés en el trabajo y alimentación, a fin de comparar los días que presenta crisis con los días con ausencia de las mismas. Cómo se llama el estudio?",
+      "opciones": [
+        "Caso control con diseño cross over.",
+        "De intervención comunitaria.",
+        "Transversal.",
+        "De cohortes."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cuando se realiza un estudio en el que un mismo sujeto es, a la vez, caso y control, como el descrito en esta pregunta, se trata de un estudio de casos controles con diseño cross over. Los días con ataques de asma serían los casos, y los días libres de ellos, los controles. Respuesta 1 es correcta."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Un laboratorio farmacéutico le informa de que el nuevo tratamiento que han desarrollado para el cáncer de mama, disminuye la mortalidad a los 2 años de seguimiento del 12% (en los sujetos tratados con el fármaco basal) al 2% (en los sujetos tratados con el nuevo fármaco). ¿A cuántos pacientes habría que tratar con el nuevo fármaco para lograr una curación?",
+      "opciones": [
+        "A ninguno, parece que el nuevo tratamiento es un factor de riesgo.",
+        "10",
+        "20",
+        "25"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos pide el cálculo de una medida de impacto/efecto como es el NNT. La fórmula del NNT es 100/Io-Ie. La incidencia en la gente no expuesta es del 12% y en la gente expuesta del 2% por lo que el NNT es de 10."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Las pruebas de detección selectiva consisten en la realización de evaluaciones diagnósticas en personas asintomáticas, encaminadas a conseguir un diagnóstico precoz. Respecto a dicho tema, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Es preferible emplear un test muy sensible, aunque ello implique cierta pérdida de especificidad.",
+        "El valor predictivo positivo de un test se incrementa cuando aumenta la prevalencia de una enfermedad.",
+        "Una forma de aumentar el valor predictivo positivo de un test es aplicarlo a grupos de riesgo.",
+        "Los test de screening se deben emplear, independientemente de que el diagnóstico precoz modifique el pronóstico o no."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta 4 es correcta. El screening es una estrategia de detección precoz de las enfermedades. Se haría de la siguiente manera:\n\n1º paso: Lo ideal es elegir primero un test muy sensible. Con él, clasificaremos como positivos a la mayor parte de los enfermos. Esto tiene un inconveniente: habrá también pacientes sanos que serán clasificados como positivos (falsos positivos).\n\n2º paso: Ahora emplearemos un test específico, que resuelve el problema anterior. Todos los que han dado positivo en el test sensible van a someterse ahora al test específico. Este segundo test servirá para confirmar el diagnóstico de los que realmente estén enfermos.\n\nLógicamente, si el paciente no se beneficia de un diagnóstico precoz y el pronóstico sigue siendo el mismo, es absurdo realizar un test de screening, porque sólo serviría para consumir recursos sanitarios y no mejoraría el nivel de salud de la población."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "La representación más correcta de la nacionalidad de los individuos de una muestra es:",
+      "opciones": [
+        "Diagrama de barras.",
+        "Histograma.",
+        "Polígono de frecuencias.",
+        "Polígono de frecuencias acumulado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La nacionalidad es una variable cualitativa, por lo que la representación más correcta sería mediante un diagrama de sectores, pero no aparece entre las opciones. Sin embargo, podemos representarlas de otra manera:\n\n- Número de franceses: 3, 4, 5, 6…\n\n- Número de españoles: 6, 7, 8, 9…\n\nEs decir, también podría ser expresada mediante una cuantitativa discreta, por lo que la respuesta correcta es la 1. En resto de las opciones no son aplicables."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "En un estudio que compara la asociación entre la elevación del dímero D (DD) > 10.000 y la presencia en el TAC con contraste como Gold Standard de síndrome aórtico agudo B, se comprobó que: 1) De los 100 TAC en los que se observó disección B, 90 presentaron DD elevado y 2) De los 100 TAC sin disección, 40 tuvieron un test negativo. Usted puede AFIRMAR que:",
+      "opciones": [
+        "El DD es un valor útil para confirmar la presencia de síndrome aórtico B.",
+        "El DD, a partir de los datos obtenidos, podrá emplearse incluso en muestras con baja prevalencia de enfermedad.",
+        "El DD < 10.000 permite no realizar TAC en el síndrome aórtico B.",
+        "El DD no se eleva en el síndrome aórtico B."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que sirve para conocer las características útiles de un test diagnóstico a partir de los datos que nos dan. En este caso:\n- La sensibilidad es del 90%.\n- La especificidad es del 40%.\nPor tanto, como test sensible que es, el dímero D elevado permitirá descartar enfermedad en el caso de que éste sea negativo (respuesta 3 correcta). Descartada la enfermedad, no tiene sentido hacer el TAC diagnóstico. Al ser un test muy sensible, la utilidad máxima es cuando se realiza en comunidades de elevada prevalencia, ya que en poblaciones de baja prevalencia la mayoría de los considerados enfermos por el test sensible iban a tratarse realmente de falsos positivos. Y, por el contrario, el test es muy poco específico, por lo que no sirve para confirmar la presencia de disección aórtica."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "¿Cuál de las siguientes no es una diferencia entre los clásicos estudios de superioridad y los estudios de no-inferioridad?",
+      "opciones": [
+        "El análisis habitualmente utilizado entre ambos difiere, en un caso se utilizará análisis por intención de tratar mientras que en el otro se utilizará análisis por protocolo.",
+        "Con uno de los dos estudios podemos hablar de superioridad mientras que con el otro no es adecuado hacerlo.",
+        "Los estudios de no-inferioridad se realizan cuando estemos dispuestos a asumir pequeñas pérdidas de eficacia, a expensas de ganar otras características como pueden ser menores costes, menores efectos secundarios o que no interaccione.",
+        "Los estudios de superioridad suelen ser cruzados mientras que los de no-inferioridad suelen ser paralelos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las 3 primeras opciones son características diferentes entre los estudios de superioridad y los de no inferioridad. En el primero se utiliza habitualmente un análisis por intención de tratar mientras que en el segundo un análisis por protocolo. En el estudio de no-inferioridad no es adecuado hablar de superioridad de un fármaco, únicamente inferioridad, no inferioridad y equivalencia. La opción 3 es una característica fundamental de los estudios de no-inferioridad.\nLa opción 4 es la respuesta correcta, ya que el diseño del estudio en cuanto a “paralelo” o “cruzado” no constituye un factor diferencial."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Las edades de una muestra de 300 pacientes siguen una distribución normal. Su media es 50 años y su desviación estándar, 10 años. ¿Cuál es el significado de estas cifras?",
+      "opciones": [
+        "Aproximadamente, el 95% de los pacientes tienen edades entre 40 y 60 años.",
+        "Aproximadamente, el 95% de los pacientes tienen edades entre 30 y 70 años.",
+        "Existe un 95% de probabilidades de que la verdadera media de la población se sitúe entre 30 y 70 años.",
+        "Aproximadamente, el 99% de los pacientes tienen edades entre 30 y 70 años."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta conceptual que profundiza en la interpretación de los parámetros de estadística descriptiva. Es esencial no confundir su interpretación con los parámetros de inferencia.\n\nLa diferenciación es sencilla. La media y la desviación estándar describen cómo se distribuye una variable cuantitativa medida en la muestra en estudio. El cálculo de la media +/- 2 x desviación estándar permite construir el intervalo de confianza que engloba al 95% de los sujetos de dicha muestra. Teniendo esto en cuenta, la respuesta correcta es la 3 (50 +/- 2x10 = el 95% de los sujetos de la muestra experimental tiene entre 30 y 70 años). Para conseguir un intervalo de confianza que contenga al 99% de la muestra, la desviación estándar debe multiplicarse por 2,6.\n\nLa inferencia es la generalización de los resultados obtenidos al analizar la muestra experimental a la población de la que ésta procede. Para ello es fundamental calcular el error estándar de la media a partir de la desviación estándar obtenida en la muestra. Con el error estándar, y utilizando como medida de tendencia central la media muestral, se construye un intervalo de confianza cuya interpretación es totalmente distinta (media +/- 2 x eem). Éste intervalo de confianza contiene la distribución de las diferentes medias que se obtendrían el 95% de las veces que se repitiese el estudio en la misma población. Para obtener un 99% de confianza, el eem debiera multiplicarse por 2,6. Esta interpretación se ajusta a la dada por la respuesta 4. Pero como piden interpretar parámetros descriptivos, en este caso es incorrecta."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Existe un tipo de error sistemático que aparece cuando se emplean poblaciones de referencia con exceso de sujetos que han inmigrado desde otros países. Generalmente, se acepta que las personas que migran de manera formalmente electiva lo hacen para mejorar sus condiciones sociolaborales y, por tanto, los inmigrantes en un país suelen ser un grupo más sano que una población estándar. Cuando enferman o envejecen, de hecho, las personas suelen volver a su país de origen (a esto se le llama sesgo del salmón o salmon bias). ¿Qué tipo de error cometeríamos si generalizamos la información de un grupo de personas con mucha representación de sujetos migrantes?",
+      "opciones": [
+        "Error aleatorio",
+        "Error sistemático de selección",
+        "Error sistemático de medición o información diferencial",
+        "Error sistemático de medición o información no diferencial"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Todos los errores que ocurren por generalizar información de una población que tiene algo que la hace diferente o seleccionada frente a la general (por ser voluntaria, por ser personas hospitalizadas, etc.) se engloban en el grupo de sesgo de selección. Los ensayos clínicos, al aleatorizar las exposiciones, no cometen este tipo de sesgo inicialmente."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Un investigador selecciona a 120 pacientes con colangiocarcinoma y 240 sujetos sanos y estudia la exposición de ambos grupos a Clonorchis sinensis. ¿Qué podemos decir sobre el diseño de su estudio?",
+      "opciones": [
+        "Va a perder un tiempo valioso porque este estudio no es útil para enfermedades raras.",
+        "Podrá aportar datos sobre la incidencia de un tumor poco frecuente.",
+        "El investigador debió despistarse el día en que se le ocurrió esta idea, ya que este diseño es una debilidad para estudiar cánceres de desarrollo lento.",
+        "En la anamnesis de los pacientes con cáncer, estos pueden estar más motivados para recordar posibles antecedentes de exposición."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los estudios de casos y controles son los ideales para enfermedades raras y para enfermedades con largo tiempo de inducción. Al partir de una población seleccionada por su enfermedad, no permite el cálculo de incidencias. No permite establecer diversos efectos de la exposición al FR. Su posibilidad de sesgo es muy alta (por ejemplo, como en nuestro caso, el sesgo de memoria, que afecta fundamentalmente a controles, que no recuerdan el antecedente a la exposición) (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Señale la afirmación incorrecta acerca de las ventajas e inconvenientes de las diferentes técnicas de muestreo:",
+      "opciones": [
+        "Si la población está ordenada, el muestreo sistemático asegura una cobertura de unidades de todos los tipos.",
+        "El muestreo aleatorio simple requiere un listado completo y previo de la población.",
+        "El error estándar generado en un muestreo aleatorio simple es mayor que el generado en el muestreo en etapas múltiples.",
+        "El muestreo sistemático es, en la práctica, más sencillo que el muestreo aleatorio simple."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cada etapa de un proceso de muestreo probabilístico genera un error aleatorio, intrínseco al propio procedimiento. En un muestreo multietápico o en etapas múltiples, cada una de las etapas genera error, y este, globalmente, será mayor que el error generado en una única etapa de un muestreo aleatorio simple."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "En un estudio de casos y controles que analizaba la relación entre la presencia de cáncer de vejiga y diferentes exposiciones se incluyeron como casos a aquellos pacientes diagnosticados de cáncer de vejiga y se les emparejó por edad, sexo y fecha de ingreso con controles hospitalarios de los servicios de otorrinolaringología, oftalmología y traumatología y ortopedia. Los resultados del estudio mostraron que la probabilidad de cáncer de vejiga aumentaba en aquellas personas que habían trabajado en la industria (OR: 2,2; IC 95%: 1,21-4,02) o habían estado expuestas a metales (OR: 3,65; IC 95%: 1,2-11,0); sin embargo, el consumo de tabaco no se asoció a un aumento en la probabilidad de padecer cáncer de vejiga (OR: 1,3; IC 95%: 0,8-2,5). A la vista de los resultados, ¿qué es lo SIGUIENTE que se debería hacer?",
+      "opciones": [
+        "Publicar los resultados de forma inmediata, ya que se trata de un resultado relevante que contradice lo conocido sobre la epidemiología del cáncer de vejiga.",
+        "Analizar si los controles fueron clasificados de forma correcta como personas sin cáncer de vejiga.",
+        "Estratificar el análisis por edad, sexo y fecha de ingreso por si alguno de estos factores se pudiese estar comportando como factor de confusión si no está distribuido de forma homogénea entre los casos y los controles.",
+        "Analizar los resultados según las comorbilidades de los casos y los controles para detectar patologías asociadas al consumo de tabaco."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los estudios de casos y controles pueden estar sometidos a diferentes tipos de sesgos entre los que se encuentra el sesgo diagnóstico o de Berkson; este tipo de sesgo aparece cuando se seleccionan controles hospitalarios y se basa en que aquellas personas que están ingresadas es probable que tengan otras patologías, además de lo asociado a su motivo de ingreso, cuyos factores de riesgo sean similares a los de la patología en estudio. En el ejemplo de la pregunta, los autores del estudio observaron que la distribución de las comorbilidades entre los casos y los controles era similar e independiente al motivo de ingreso. Una vez eliminaron de entre los controles a aquellos pacientes con patología respiratoria asociada al consumo de tabaco, la OR de la relación entre cáncer de vejiga y tabaco se modificó y pasó a ser de 1,78 (IC 95%: 1,05-2,99). Por otro lado, es importante recordar que los controles han de ser representativos de la población que dio origen a los casos y al analizar, por ejemplo, la prevalencia de consumo de tabaco entre los controles se observó que era mucho mayor que la de la población general. Los autores concluyen que los resultados observados de forma inicial se podían explicar por el sesgo introducido al seleccionar controles hospitalarios (respuesta 4 correcta). Fíjate en que la opción de respuesta 3 no tiene sentido, ya que cuando emparejas por determinadas variables lo que consigues es que tanto los casos como los controles tengan la misma distribución de las variables por las que emparejas, por lo que no es posible que tengan algún efecto sobre el resultado y por lo tanto no tiene sentido hacer un análisis estratificado."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Bajo la hipótesis de que el tabaquismo en la embarazada produce bajo peso para la edad gestacional, se tomaron dos muestras, una de fumadoras y otra de no fumadoras, y se clasificó a los recién nacidos en tres categorías según su peso. ¿Qué prueba estadística de contraste de hipótesis emplearía para el análisis de estos datos?:",
+      "opciones": [
+        "t de Student para muestras independientes.",
+        "Test de correlación de Pearson.",
+        "Chi-cuadrado.",
+        "Análisis de la varianza."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Trataremos de identificar las dos variables que se están contrastando en el presente estudio.\n\nPor una parte tenemos una variable cualitativa dicotómica que es cada una de las muestras de recién nacidos. La otra variable es cualitativa no dicotómica de tres categorías, según su peso. Tenemos por tanto dos variables cualitativas, por lo que el test que se deberá aplicar es el de la Chi- cuadrado.\n\nEl test de la t de Student debería realizarse si una de las dos variables fuera cuantitativa, por ejemplo, si la variable peso no se subdividiera en categorías, si no que fuera manejada como una cuantitativa continua."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Un estudio observacional estudia la probabilidad de haber alcanzado una respuesta clínicamente significativa después de dos años de tratamiento con un fármaco A o con un fármaco B en la artritis reumatoide. Se realizó un análisis de regresión logística utilizando como variable dependiente la existencia de respuesta clínicamente significativa a los dos años y, como variables independientes, el grupo de tratamiento (fármaco A o fármaco B), la edad, el sexo y el tiempo de evolución de la enfermedad. Los resultados arrojan una Odds Ratio de 3,5 y un intervalo de confianza del 95% de 1,7-4,2 a favor del tratamiento A (P = 0,0001). A este respecto, es FALSO que:",
+      "opciones": [
+        "Las diferencias a favor del tratamiento A dependen de las otras variables incluidas en el análisis.",
+        "La posibilidad de obtener una respuesta clínica significativa es 3,5 veces superior para el fármaco A que para el fármaco B.",
+        "Aunque edad, sexo y tiempo de evolución de la enfermedad también podrían influir en la consecución de una respuesta significativa, los resultados referidos al fármaco son independientes de estas tres variables.",
+        "Al tratarse de un estudio no aleatorizado, no se puede descartar el efecto de otras variables no consideradas en el análisis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta sobre análisis multivariante. Tenemos una variable dependiente: respuesta clínica SÍ/NO y otras independientes. Como la variable dependiente es cualitativa, hacemos una regresión logística. Observa que, en el enunciado, la propia pregunta nos dice que el grupo de tratamiento (fármaco A o fármaco B) es una variable INDEPENDIENTE (opción 1 falsa, por lo que la marcamos). Al tratarse de una variable independiente, está claro que las diferencias a favor de uno u otro no pueden depender de las demás variables incluidas en el análisis."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Durante mucho tiempo se recomendó abandonar el uso de café a partir de cierta edad, por la creencia de que aumentaba el riesgo cardiovascular. Ahora, esa recomendación ha cambiado. Se considera que la información que orientaba la anterior posición se debía, en gran medida, a la presencia de un exceso de personas fumadoras en el grupo de los que tomaban café, frente al grupo de los que no lo toman. Consideraríamos que el tabaco se comportaba como:",
+      "opciones": [
+        "Factor de confusión",
+        "Factor de modificación",
+        "Factor de interacción",
+        "Factor modulador"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un factor de confusión es un factor que se asocia causalmente con la enfermedad a estudio y estadísticamente con el factor de riesgo a estudio, y que no está en la cadena causal entre ambos. Recuerda que se puede prevenir este factor con técnicas en la fase de diseño (aleatorizar, aparear, restringir) y en la de análisis (estratificar, análisis multivariante)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "El estudio Framingham es un diseño prospectivo en el que se siguen a sujetos en función de factores de riesgo hasta que desarrollan la enfermedad de estudio. Señale la FALSA sobre este diseño:",
+      "opciones": [
+        "Se trata de un diseño de cohortes",
+        "Muy útil para evaluar la multicausalidad",
+        "Permite el cálculo de incidencias",
+        "Baja probabilidad de sesgos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El diseño de Framingham consiste en un diseño de cohortes, es decir un diseño observacional, prospectivo y analítico. En este estudio el punto de partida es el factor de riesgo cardiovascular y el evento final el IAM/ictus y otras enfermedades cardiovasculares. En el momento de selección de las cohortes de estudio todos los sujetos son sanos, lo que posibilita el cálculo de incidencias. Se trata de un buen diseño con poca probabilidad de sesgos (buena validez interna), útil para el estudio de la multiefectividad, no de la multicausalidad que es característica de los estudios de casos y controles."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "¿Cuál de estas NO es una característica necesaria para realizar un ensayo clínico de tamaño único?:",
+      "opciones": [
+        "Enfermedad crónica.",
+        "Síntomas repetidos.",
+        "Síntomas reversibles.",
+        "Enfermedad curable."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El ensayo clínico de tamaño único se basa en modificar el tratamiento de una enfermedad de un paciente a lo largo de una serie determinada de periódos de tiempo. Por tanto la enfermedad no puede ser curable."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Estudiamos a la variable aleatoria “nivel de azúcar en sangre de un individuo (en mg/dl) ”en cierta población. A partir de una muestra, obtenemos [112,128] como intervalo de confianza para la media del 95% de nivel de confianza. Podemos afirmar que:",
+      "opciones": [
+        "El 95% de los individuos tiene un nivel de azúcar en sangre entre 112 y 128 mg/dl con un 95% de probabilidad.",
+        "La media del nivel de azúcar en sangre de la población está entre 112 y 128 mg/dl con un 95% de probabilidad.",
+        "La probabilidad de que un individuo de la población tenga un nivel de azúcar superior a 128 mg/dl es del 5%.",
+        "La media del nivel de azúcar en sangre de la población no está entre 112 y 128 mg/dl con un 95% de probabilidad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cuando uno realiza el procedimiento de inferencia de muestra a población, lo que consigue a través del error estándar es construir un intervalo en el que, con cierta confianza, que nunca es completa, estará el verdadero valor de la media de la población, a la que nos es imposible acceder por error aleatorio."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Se realiza un estudio de cohortes donde compara la incidencia de cirrosis entre fumadores y no fumadores. El resultado sugiere que la cirrosis es más frecuente en fumadores, siendo estadísticamente significativo (p = 0,001). Sin embargo, revisando el estudio posteriormente, usted se da cuenta de que, en el grupo de fumadores, el alcohol estaba presente con mucha mayor frecuencia que en los no fumadores, por lo que probablemente el estudio esté sesgado. ¿Cuál de las siguientes medidas NO contribuye a evitar la aparición de este tipo de sesgos?",
+      "opciones": [
+        "Técnicas de enmascaramiento.",
+        "Análisis multivariante.",
+        "Apareamiento.",
+        "Restricción."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos están describiendo un error sistemático del tipo factor de confusión. Las técnicas para prevenir el factor de confusión son, por un lado, aleatorización, apareamiento y restricción durante el diseño del estudio, y por otro, el análisis estadístico multivariante y el estratificado. La opción 1 es falsa porque las técnicas de enmascaramiento sirven para evitar errores sistemáticos de información o clasificación, no para evitar factores de confusión."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Se realiza un estudio de cohortes para comparar la mortalidad por infarto agudo de miocardio (IAM) en pacientes fumadores, respecto a no fumadores. Se incluyen 300 pacientes en cada grupo. La variable de interés es el tiempo que transcurre desde el comienzo del estudio hasta que se produce un fallecimiento por IAM. En el análisis de los datos, la técnica más adecuada será:",
+      "opciones": [
+        "La t de Student para datos independientes.",
+        "Kaplan-Meier.",
+        "Chi-cuadrado.",
+        "F de Snedecor."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se nos plantea un estudio en que la variable de interés es “el tiempo que transcurre desde que se inicia el estudio hasta el evento X”, es decir, se nos está pidiendo que llevemos a cabo un análisis de supervivencia.\n\nUno de los análisis estadísticos más frecuentemente empleados, para el análisis de supervivencia, es el test de Kaplan-Meier. La característica distintiva del análisis con este método es que la proporción acumulada que sobrevive se calcula para el tiempo de supervivencia individual de cada paciente.\n\nPara saber si existen diferencias en el tiempo en el que se produce el evento para los dos grupos de tratamiento hay que usar test específicos parta tal fin, como son el test de Breslow o el LogRank.\n\nEn este caso, el único test válido de los que nos presentan para el análisis de supervivencia es la opción 2) Kaplan-Meier."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "¿Cuál es la diferencia entre un histograma y un diagrama de barras?",
+      "opciones": [
+        "El histograma se usa para variables cuantitativas y el diagrama de barras para cualitativas.",
+        "El histograma se representa sobre un sistema de ejes perpendiculares y el diagrama de barras no.",
+        "El histograma es útil solamente para variables cuantitativas continuas, mientras que en el diagrama de barras se pueden representar las cuantitativas discretas.",
+        "En el diagrama de barras se representan las frecuencias absolutas y en el histograma las rela-tivas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta sobre un tema poco importante, los métodos de representación gráfica.\n\nUna variable cualitativa representa cualidades (rojo, azul, amarillo), mientras que una cuantitativa se aplica a valores numéricos. Dentro de las cuantitativas, las hay discretas y continuas. Las discretas representan valores que sólo se miden como unidades enteras (una vida, dos vidas, representables mediante diagramas de barras). En cambio, las cuantitativas continuas pueden tener valores intermedios (1.5 Kg, 1.92 m…). Para representar cuantitativas continuas, suele recurrirse al histograma y al polígono de frecuencias."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Se ha realizado un estudio de distribución aleatoria (ensayo clínico) sin enmascaramiento de los tratamientos del estudio en más de 1000 pacientes con hepatitis C en el que se comparó la administración de interferón y ribavirina frente a interferón pegilado y ribavirina. En el primer grupo, la proporción de respuesta virológica sostenida (variable principal del estudio) fue de 40%, y en el segundo del 45%: los límites del intervalo de confianza al 95% de la reducción absoluta del riesgo oscilaron entre -12% y -3%. ¿Cuál es la interpretación del resultado?:",
+      "opciones": [
+        "El estudio sugiere que ambos tratamientos son similares.",
+        "Dada la ausencia de enmascaramiento, los resultados no se pueden interpretar.",
+        "La ausencia de un valor de p inferior a 0.005 impide valorar los resultados del estudio con la información disponible.",
+        "El estudio demuestra que la diferencia observada es estadísticamente significativa con un nivel de confianza del 95%."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre la interpretación de resultados de un estudio epidemiológico. En este ensayo clínico se obtiene como resultado una reducción absoluta de riesgo del 5% a favor del tratamiento con interferón pegilado ribavirina, con un intervalo de confianza entre -12% y -3%. Este intervalo de confianza expresa que en el 95% de los casos en que se repitiera el estudio, el interferón pegilado combinado con ribavirina sería más eficaz que el interferón simple asociado al mismo fármaco, al no sobrepasar su límite superior el valor 0%. Por tanto, se asume con suficiente seguridad (mayor de un 95%) que el tratamiento experimental con pegi-interferón es más eficaz que el tratamiento control. Por ello la respuesta correcta es la 5.\n\nCabe concretar que el hecho de que no se hayan empleado técnicas de enmascaramiento incrementa el riesgo de cometer un sesgo de información, pero de ningún modo impide la interpretación de resultados."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "El sesgo amnésico que puede producirse en los estudios de casos y controles:",
+      "opciones": [
+        "Es un sesgo de selección.",
+        "Es un sesgo de clasificación diferencial.",
+        "Es un sesgo de confusión.",
+        "No es realmente un sesgo sino un error que acontece en estudios con ancianos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El sesgo de memoria, también conocido como sesgo amnésico, es típico de los estudios de casos y controles. En este tipo de estudios, los casos, al saber que padecen la enfermedad, están más motivados para recordar posibles exposiciones a factores de riesgo que los que no la padecen. Este tipo de sesgo se engloba en los de información o clasificación, y dentro de ellos, serían de clasificación incorrecta diferencial (respuesta 2 correcta).\n\nRecuerda que, en este tipo de sesgos, la medición incorrecta afecta solamente a uno de los grupos de estudio (de ahí el nombre de “diferencial”, ya que les afecta de forma diferente). Si ambos grupos se afectasen de la misma forma, que no es el caso, se trataría de una clasificación incorrecta no diferencial."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Se desea conocer el grado de asociación que existe entre el síndrome metabólico y el déficit de vitamina D en la población general. Para ello se selecciona una muestra de un centro de salud entre los pacientes mayores de 18 años, se les cita y en la visita se les hace un examen clínico para determinar si cumplen los criterios de síndrome metabólico y se les extrae sangre para medir las concentraciones séricas de 25 hidoxivitamina D. ¿Cuál es el diseño de este estudio?:",
+      "opciones": [
+        "Estudio de cohorte prospectivo.",
+        "Estudio de corte transversal.",
+        "Estudio de casos y controles.",
+        "Estudio caso-cruzado ( o “case-crossover”)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las respuestas 1 y 3 son incorrectas, ya que tanto en los estudios de cohortes como en los de casos y controles existe un seguimiento, son estudios longitudinales. En el ejemplo que nos dan hablan de la relación entre el síndrome metabólico y el déficit de vit D en un momento concreto, por lo que se trata de un estudio de corte, prevalencia o transversal (respuesta 2 correcta). Por último, en los estudios de casos cruzados sólo se seleccionan casos, no hay sujetos control, ya que los controles son los mismos sujetos caso pero en un momento diferente del evento, existiendo también un seguimiento."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Sobre el diseño y realización de los ensayos clínicos, señale la afirmación ERRÓNEA:",
+      "opciones": [
+        "El propósito de un estudio doble ciego es evitar los sesgos de información debidos al \"observador\" y a los participantes en el estudio.",
+        "El diseño factorial permite evaluar la interacción entre los dos fármacos que se comparan, aunque a priori se asume que no interactúan.",
+        "Realizar un número excesivo de análisis intermedios aumenta la probabilidad de incurrir en un error tipo II.",
+        "El denominado \"análisis por protocolo\" puede incurrir en sesgos debido a las pérdidas durante el estudio."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción de respuesta 3 es errónea porque los análisis intermedios aumentan la probabilidad de cometer un error de tipo I, no de tipo II. Cuantas más comparaciones realizas, más aumenta la probabilidad de que, en algún momento, y por efecto del azar, encuentres una que sea estadísticamente significativa (falso positivo)."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Si en un meta-análisis de ensayos clínicos controlados con placebo se obtiene que el fármaco A presenta un NNT (número de sujetos que necesitamos tratar para evitar un evento) de 10, y en otro meta-análisis de ensayos clínicos de características similares se obtiene que el fármaco B presenta un NNT de 50. ¿Cuál de los fármacos sería de primera elección si consideramos que no existen diferencias en la seguridad?:",
+      "opciones": [
+        "Necesitamos conocer el riesgo relativo para poder saber cuál de los dos fármacos es más eficaz.",
+        "Hasta que no se realice un ensayo clínico que compare el fármaco A con el fármaco B, es mejor no utilizar ninguno de los dos porque la eficacia de ambos parece pequeña.",
+        "El fármaco A, porque es más eficaz.",
+        "El fármaco B, porque es cinco veces más eficaz que el fármaco A."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta intuible incluso sin el manual. El NNT es el número de pacientes que se deben tratar para prevenir un suceso indeseable adicional. Se obtiene como el inverso de la RAR multiplicado por 100. El RAR se calcula con la diferencia entre el porcentaje de eventos en el grupo control y el porcentaje de eventos en el grupo experimental. Por ello el fármaco de elección sería el A ya que necesitamos tratar a un número menor de pacientes para evitar una incidencia indeseable adicional."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Se comparan tres tratamientos en cuanto a eficacia en la reducción de los niveles de triglicéridos en sangre. ¿Qué tipo de test estadístico aplicaremos?:",
+      "opciones": [
+        "Análisis de la varianza.",
+        "Regresión lineal.",
+        "Chi cuadrado.",
+        "Coeficiente de correlación de Pearson."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Tenemos dos variables, que son en primer lugar el tipo de tratamiento, que se trata de una variable cualitativa no dicotómica de tres categorías (tres tratamientos), y en segundo lugar los niveles de triglicéridos en sangre, que es una cuantitativa continua. Deberemos relizar por tanto el test de ANOVA o del análisis de la varianza, que no debemos confundir con el análisis multivariante, en el que se investiga la asociación entre más de dos variables."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "En una prueba de significación estadística, el valor de p indica la probabilidad de:",
+      "opciones": [
+        "Rechazar la hipótesis nula cuando es cierta.",
+        "No rechazar la hipótesis nula cuando es falsa.",
+        "Aceptar la hipótesis alternativa cuando es cierta.",
+        "Rechazar la hipótesis nula cuando es falsa."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El error tipo I o alfa es el que se comete cuando, no habiendo diferencias entre dos tratamientos, llegamos a la conclusión de que sí las hay. Es decir, consiste en detectar diferencias que no existen en la realidad. En otras palabras, implicaría rechazar la hipótesis nula cuando es cierta. Recuerda que coincide con el valor de “p”. Por otra parte, el error tipo II consiste en que, cuando hay diferencias en realidad, no llegamos a detectarlas.\n\nRecuerda que ambos errores pueden disminuirse si se aumenta el tamaño muestral del estudio."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "¿Cuál de las siguientes variables sigue una escala cuantitativa continua?:",
+      "opciones": [
+        "Gradiente sistólico, transvalvular aórtico medido mediante eco-doppler.",
+        "Distribución de razas en una población.",
+        "Clasificación de disnea mediante la escala de grados funcionales de la New York Heart Association.",
+        "Clasificación del resultado de un tratamiento según éxito o fracaso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los tipos de variables en estadística es un tema que debes dominar, pues aunque no es frecuente que lo pregunten de forma directa, necesitarás tener los conceptos claros para contestar de forma correcta las preguntas acerca de contraste de hipótesis.\n\nExisten varios tipos de variables:\n\n1: Variables cualitativas: se refieren a características o cualidades que no pueden ser medidas con números.\n\n- Cualitativa dicotómica: cuando sólo admite dos alternativas (ej:clasificación del resultado de un tratamiento según éxito o fracaso).\n\n- Cualitativa no dicotómica: cuando existen más de dos alternativas posibles (ej: distribución de razas en una población).\n\n- Cualitativa ordinal: presenta modalidades no númericas, en las que existe un orden (ej: clasificación de la disnea según la NYHA). En Medicina se utilizan las escalas cualitativas ordinales, que son aquellas en las que las categorías se ordenan de una forma determinada, ya sea de mayor a menor o viceversa (ej: test de Apgar, escala de Glasgow...).\n\n2: Variables cuantitativas: se expresan mediante un número, por tanto, se pueden realizar operaciones aritméticas con ellas.\n\n- Cuantitativa discreta: toma valores aislados, es decir, no admite valores intermedios entre dos valores específicos (ej: número de recién nacidos vivos a término durante un año en una población determinada).\n\n- Cuantitativa contínua: la variable puede tomar valores a lo largo de un continuo; puede tomar valores comprendidos entre dos números (ej: gradiente sistólico transvalvular según eco- doppler)."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "¿Qué diseño sería INADECUADO en un ensayo clínico para evaluar la eficacia de un nuevo tratamiento antibiótico en una infección aguda con parámetros objetivos de respuesta clínica?:",
+      "opciones": [
+        "Controlado, que compara el nuevo antibiótico asociado al tratamiento estándar con el tratamiento estándar más placebo, aleatorizado, paralelo, doble ciego.",
+        "Aleatorizado, cruzado, comparado con el tratamiento antibiótico habitual.",
+        "Doble ciego, aleatorizado, paralelo, controlado con el tratamiento antibiótico habitual.",
+        "Aleatorizado, no ciego, con otro antibiótico estándar como control y paralelo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Incluso antes de leer las opciones podíais haber adivinado que cuando nos están planteando estudiar la eficacia de un tratamiento para una infección AGUDA, la respuesta falsa va a ser aquella en la que nos propongan un estudio de diseño CRUZADO, porque este diseño sólo vale para enfermedades crónicas. Si hago un diseño cruzado sobre una enfermedad aguda curable, y llevo a cabo la primera asignación, al terminar los individuos estarían curados y no podría hacer el “cruce” para asignar a cada grupo la medida que les quedaba por probar."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Se quiere valorar la concordancia entre dos técnicas diagnósticas para la determinación de la carga viral en pacientes VIH. El análisis más apropiado, sería:",
+      "opciones": [
+        "Coeficiente kappa",
+        "Coeficiente kappa ponderado",
+        "Coeficiente de correlación intraclase",
+        "“r” de Pearson"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta directa acerca de la concordancia diagnóstica. Cuando queremos estudiar variables cualitativas utilizamos el coeficiente kappa (si además son ordinales, utilizaríamos el kappa ponderado ya que es el más apropiado y tiene en cuenta el peso de las diferencias) y si nuestra variable es cuantitativa, como en este caso, se utiliza el coeficiente de correlación intraclase. Recordad que la \"r\" de Pearson, únicamente mide el grado de asociación lineal entre dos variables, no su concordancia."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Con objeto de comprobar la eficacia de un tratamiento para dejar de fumar se compara un grupo de control (con placebo) con un grupo tratado. Para que los grupos sean comparables es importante que no difieran mucho en la edad de los participantes. Nos informan de que la media de edad en el grupo control es de 52 años y que en el grupo tratado también es de 52 años. A partir de dicha información, podemos decir que:",
+      "opciones": [
+        "Los grupos no difieren respecto a la distribución de la variable edad.",
+        "Si el estudio está bien diseñado, no nos puede dar la misma media de edad en ambos grupos.",
+        "Para comparar la distribución de la variable edad en ambos grupos, sería conveniente conocer una medida de dispersión como la desviación típica, además de la media.",
+        "Para la conclusión final no importa la distribución de la edad en ambos grupos, solo si el tratamiento es efectivo o no."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Para poder comparar la distribución de una variable en dos muestras, necesitamos conocer la dispersión de esta variable, es decir, no solo su medida de tendencia central (media), sino también cómo se alejan de ese punto central, en otras palabras, su medida de dispersión (desviación típica). Recuerda que la dispersión de una muestra se mide con el coeficiente de variación de Pearson, que relaciona la media y la desviación típica (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "En un estudio transversal se estudia la asociación entre una determinada enfermedad y 20 factores ambientales, encontrándose una asociación significativa con uno de ellos. De las siguientes, ¿qué afirmación es CORRECTA?",
+      "opciones": [
+        "La asociación existe, ya que es estadísticamente significativa.",
+        "El factor ambiental asociado puede ser considerado como un factor causal de la enfermedad.",
+        "Al realizar 20 comparaciones, aumenta la probabilidad de encontrar un falso positivo.",
+        "El resultado es concluyente."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Si se estuviese comparando UNA sola variable, en caso de alcanzar significación estadística, lo más probable sería que las diferencias fueran reales y no explicables por el azar. Si asumimos el riesgo alfa habitual (5%), ésta sería la probabilidad de encontrar una diferencia que, en realidad, no existiese. Imagínate que, en lugar de una comparación, estuviésemos realizando CIEN. Indudablemente, esto aumenta la probabilidad de que aparezca el error tipo I en alguna de ellas (detectar diferencias cuando realmente no existen). De hecho, estadísticamente, cabría esperar que, por lo menos, apareciesen cinco asociaciones como significativas, que en realidad serían falsas (5%). Centrándonos en esta pregunta, observa que hacen 20 comparaciones. Asumiendo el error alfa habitual, estadísticamente deberíamos encontrar, al menos, una asociación falsa (porque 1 es el 5% de 20). La opción correcta es, por lo tanto, la 3: aumenta la probabilidad de encontrar un falso positivo."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Se desea comprobar la consistencia de una escala de calidad de vida que valora 85 ítems. La prueba IDÓNEA para validar esa consistencia se denomina:",
+      "opciones": [
+        "El coeficiente alfa de Cronbach.",
+        "La prueba de Cohen.",
+        "El análisis de la covarianza.",
+        "EL coeficiente de correlación intraclase."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para validar escalas de consistencia utilizamos el coeficiente alfa de Cronbach (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Señale la afirmación CORRECTA acerca de los estudios ecológicos:",
+      "opciones": [
+        "Son estudios descriptivos que informan sobre las características de un grupo de enfermos a nivel individual. Son estudios longitudinales, ya que contienen la información adquirida a lo largo del tiempo. Su principal ventaja es que permiten generar nuevas hipótesis, mientras que el mayor inconveniente es que no presentan grupo control, por lo que cualquier FR puede ser un hallazgo casual.",
+        "Son útiles para hacer la medición de la exposición de manera individual, considerando la variación interindividuo para cada miembro del grupo.",
+        "Es posible discernir los eventos que presentaron los sujetos expuestos de los que ocurrieron en los no expuestos.",
+        "Los estudios ecológicos utilizan generalmente estadísticas existentes recolectadas para otros fines."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Repasemos las distintas opciones de respuesta:\n1.- Es la definición exacta de los estudios tipo serie de casos clínicos.\n2.- Es falsa, ya que precisamente los estudios ecológicos no miden la variación individual, sino la grupal, de tal modo que asignan la misma exposición a todo el grupo, despreciando la variación interindividuo.\n3.- No se pueden discernir dentro de una población los eventos de los expuestos frente a los no expuestos, ya que se registra el promedio de la totalidad de eventos de la población.\n4.- Normalmente permiten estudiar grandes grupos poblacionales en poco tiempo, ya que emplean variables secundarias y estadísticas existentes previas que se realizaron para otros fines (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Respecto al ensayo clínico controlado, indique cuál de las siguientes afirmaciones es cierta:",
+      "opciones": [
+        "Es un método experimental.",
+        "Su característica fundamental es el enmascaramiento del estudio.",
+        "Es un método observacional.",
+        "Debe incluir como mínimo 100 pacientes."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los ensayos clínicos se consideran estudios experimentales, habitualmente aleatorios y controlados.\n\nAunque no es condición obligada, sí es conveniente que se realice enmascaramiento con el fin de minimizar sesgos.\n\nEl tamaño del estudio es variable en función de la fase del ensayo, de las características de los fármacos, de los posibles efectos secundarios..."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Una compañía farmacéutica, expirada la patente de un antihipertensivo, quiere realizar un estudio para producir un genérico, ¿qué afirmación es INCORRECTA?",
+      "opciones": [
+        "El genérico podrá contener hasta un 20% del principio activo que la marca de referencia.",
+        "Medirá variables farmacocinéticas (como el área bajo la curva o la concentración máxima alcanzada).",
+        "Suelen participar voluntarios sanos.",
+        "Suele ser un ensayo clínico aleatorizado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para que dos fármacos sean bioequivalentes, se establece un IC del 90% entre los cocientes de las medias del área bajo la curva y la concentración máxima entre el fármaco de marca y del genérico. Esto se ha interpretado erróneamente como diferencias en el 20% en la cantidad de principio activo."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "En un estudio sobre mortalidad materno-infantil se informa de que el peso de la madre en el momento del parto sigue una distribución normal, con una media de 52kg y una desviación típica de 3. ¿Cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        "Se tiene un 68% de confianza de que el verdadero peso materno se encuentre entre 49 y 55kg",
+        "El 68% de las mujeres de la muestra pesaban entre 49 y 55kg en el momento de parto",
+        "El 95% de las mujeres de la muestra pesaban entre 43 y 61kg",
+        "El rango de valores de peso materno encontrados en la muestra oscila entre 29 y 55 kg"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El porcentaje de observaciones que se encuentra comprendido en el intervalo (media +/- una desviación estándar) es el 68%."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "En la evaluación de un ensayo clínico que pretenda comparar la eficacia de un nuevo antiepiléptico en dosis crecientes individualizadas, frente a fenitoína en dosis fijas de 150 mg/día en adultos con crisis generalizadas, ¿cuál es el principal problema?:",
+      "opciones": [
+        "Relevancia clínica.",
+        "Validez interna.",
+        "Reclutamiento.",
+        "Análisis de la respuesta."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Debes entender bien el concepto de relevancia clínica.\n\nUn ensayo clínico puede ser metodológicamente perfecto, pero si sus resultados carecen de aplicación práctica, carecería de relevancia clínica, como es este caso. Los antiepiléticos, en el mundo real, se utilizan a dosis variables de un paciente a otro. Por esto, la comparación que nos plantean es absurda. Es indiferente que el fármaco nuevo (a dosis variables) supere a una dosis fija de fenitoína; no se utiliza así. Pese a que, por lo demás, el método fuese perfecto, le falta relevancia clínica, ya que la forma habitual de utilizar fenitoína es distinta a la del estudio. Para solucionar este problema, deberían haber comparado el nuevo fármaco (dosis variables) con la fenitoína, a dosis variables también."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "La escala de medida de una variable que contiene más información es:",
+      "opciones": [
+        "Nominal dicotómica.",
+        "Intervalo.",
+        "Nominal no dicotómica.",
+        "Razón."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta bastante sencilla, porque de las 4 respuestas sólo una es una escala de medida, la razón.\n\nLa razón es un cociente en el que el numerador no está incluido en el denominador, es decir, cociente entre 2 entidades que poseen caracteres distintos. Un ejemplo es razón de hombres/ mujeres.\n\nLas respuestas 1 y 4 son tipos de variables. Una variable es una característica observable que se desea estudiar en una muestra de individuos, pudiendo tomar distintos valores.\n\nY el intervalo es un parámetro de dispersión que indica si los valores de la variable están muy dispersos o se concentran alrededor de una medida de centralización."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "¿Cuál de las siguientes situaciones provocaría de manera más directa un aumento de la incidencia de ébola?",
+      "opciones": [
+        "El descubrimiento de un tratamiento que cronifique la enfermedad.",
+        "La revelación de la cadena epidemiológica causal de la patología.",
+        "La implantación de un nuevo test diagnóstico que diagnostique más casos.",
+        "Conseguir controlar los focos de infección y reducir su transmisibilidad en los países con mayor riesgo de transmisión."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "De las 4 situaciones la única que podría aumentar la incidencia de ébola sería un aumento de los casos nuevos, porque haya más enfermedad o porque se diagnostique mejor. La primera opción aumentaría la prevalencia. La 2ª no tiene nada que ver y la 4ª teóricamente reduciría los casos nuevos y por tanto la incidencia."
+    }
+  ]
+}

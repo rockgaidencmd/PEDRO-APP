@@ -1,0 +1,539 @@
+{
+  "materia": "endocrino",
+  "paginaInicio": 36,
+  "paginaFin": 52,
+  "anomalias": [
+    "p45: Resp. Correcta 3 (Dieta pobre en potasio) pero el comentario cierra con 'no hay razón para disminuir la ingesta de potasio (respuesta 4 falsa)', numerando mal la opción",
+    "p45-p46: la opción marcada como correcta (3) dice que un niño de 35 kg debería ingerir 60 g de proteínas al día, pero el comentario cierra con el cálculo '(35 Kg*2=70 g al día)', que no coincide con los 60 g de la opción"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 36,
+      "enunciado": "Entre los métodos de control glucémico que se mencionan a continuación, ¿cuál de ellos ha demostrado ser MENOS útil?:",
+      "opciones": [
+        "Glucosuria fraccionada.",
+        "Cetonuria.",
+        "Hemoglobina glicada.",
+        "Glucemia capilar."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El método de control glucémico menos útil es la glucosuria fraccionada porque da escasa información del control habitual del paciente y además el dintel renal de glucosa en orina es muy variable (180- 200 mg/dl). Lo más útil es el autocontrol de la glucemia capilar con reflectómetro en distintos momentos del día, de forma que podamos modificar el tratamiento. Hay que individualizar la frecuencia de realización de la glucemia capilar pero al menos se recomiendan 4 determinaciones al día, sobre todos en diabéticos tipo 1. La hemoglobina glicada (HbA1c) refleja el control medio de la glucemia en los 2- 3 meses previos. La integración de la glucemia capilar y la HbA1c son los métodos más utilizados para el control de los diabéticos. La fructosamina nos estima el control glucémico en las 2- 3 semanas previas. Se utiliza poco. Por último la cetonuria es de utilidad en la diabetes gestacional y en diabéticos tipo 1 con hiperglucemia o enfermedad intercurrente."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Respecto al Bocio señale la respuesta incorrecta:",
+      "opciones": [
+        "El Bocio endémico es aquel que se presenta en más del 5 % de la población.",
+        "El Bocio simple se caracteriza por un aumento difuso del tiroides, hipotiroidismo y no está producido por causa inflamatoria, ni tumoral.",
+        "La causa más frecuente es el déficit de yodo.",
+        "La clínica compresiva es indicación de tratamiento quirúrgico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta incorrecta es la 2 el Bocio Simple tiene que ser por definición eutiroideo, se deben solicitar autoanticuerpos antitioideos para descartar causa autoinmunitaria en fase de eutiroidismo. El resto de las respuestas son correctas. Recordad que la clínica compresiva es siempre indicación de tratamiento quirúrgico. No la disfonía, que nos debe hacer pensar en malignidad."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Respecto a la genética del MEN I, señale la respuesta falsa:",
+      "opciones": [
+        "Se trata de una mutación AD del gen de menin.",
+        "La mutación se localiza en el cromosoma 11",
+        "El MEN 4 (tumores del MEN 1 pero con angiomiolipoma renal) se asocia a mutaciones del gen CDKN1B",
+        "Tiene baja penetrancia"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El MEN 1 o síndrome de Wermer tiene como manifestaciones clínicas típicas el hiperparatiroidismo primario, los tumores neuroendocrinos enteropancreáticos y los adenomas hipofisarios. Se debe a la presencia de una mutación inactivadora que afecta al gen menin localizado en el cromosoma 11 que codifica la menina (sin una función claramente establecida). La enfermedad se hereda con carácter autosómico dominante ya que, aunque precisa una segunda mutación a nivel somático para que aparezca el tumor, tiene una alta penetrancia.\n\nRecientemente se ha descrito que un pequeño número de pacientes que presentan tumores que forman parte del MEN-1 con estudio genético negativo y en los que coexisten otras manifestaciones clínicas (angiomiolipoma renal) pueden asociar mutaciones en el gen CDKN1B (inhibidor de ciclina dependiente de cinasa) y se ha denominado MEN-4."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Mujer de 23 años sin antecedentes patológicos relevantes a la que diagnosticamos un hipotiroidismo primario con TSH 86.4 uU/mL (0.35-5.50), T4 libre 0.56 ng/dL (0.78-1.81). Respecto al tratamiento, cuál de las siguientes es correcta.",
+      "opciones": [
+        "Iniciaremos tratamiento con levotiroxina a dosis bajas (25-50mcg/día) para reducir la probabilidad de efectos secundarios.",
+        "Tendremos que esperar para iniciar el tratamiento al menos 6 semanas, repitiendo la analítica para confirmar el resultado.",
+        "Se puede iniciar el tratamiento a dosis sustitutivas, repitiendo la analítica en aproximadamente 6 semanas para ajustar la dosis.",
+        "No precisa tratamiento salvo que refiera deseo genésico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla sobre el manejo del hipotiroidismo. La presencia de T4 libre baja y TSH elevada hará sospecha hipotiroidismo primario, siendo la patología autoinmune la más frecuente en nuestro medio. En pacientes jóvenes y sin enfermedad cardiológica, iniciaremos levotiroxina a una dosis aproximada de 1.7 mcg/kg de peso/día, por lo que generalmente la dosis inicial suele ser 75-150 mcg/día. Sólo en aquellos pacientes con probabilidad de efectos secundarios a dosis altas de levotiroxina (ancianos, cardiópatas…etc) iniciaremos con dosis no mayores a 25 mcg/día."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Con respecto a los métodos de cribado de desnutrición, es FALSO que:",
+      "opciones": [
+        "Dentro de los parámetros que incluye el test de screening MUST, se encuentra el índice de masa corporal (IMC).",
+        "El Mini Nutritional Assesment (MNA) es un test especialmente validado para la población anciana.",
+        "El NRS-2002 es el test de cribado nutricional indicado especialmente en los adultos hospitalizados.",
+        "La albúmina es un buen marcador nutricional que debemos tener en cuenta en los pacientes hospitalizados."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La albúmina no es un buen marcador nutricional en los pacientes hospitalizados. Debido a su larga vida media (20 días) es un mal monitor de cambios agudos. Por otra parte, su valor puede estar alterado en numerosos procesos, independientemente del estado nutricional del paciente: cambios en la volemia, hepatopatías, infecciones, etc., comportándose como un reactante de fase aguda inverso (opción 4 falsa, por lo que la marcamos). El test de cribado MUST tiene en cuenta distintos parámetros, como el IMC, la pérdida de peso en los últimos meses y la gravedad de la enfermedad. Las principales sociedades científicas de nutrición, como la ESPEN, recomiendan el test de cribado NRS-2002, especialmente para pacientes hospitalizados y el MNA para población anciana."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "El gemfibrozilo es un hipolipemiante que está indicado en todas, MENOS una de las siguientes:",
+      "opciones": [
+        "Hiperquilomicronemia.",
+        "Hiperlipemia IIa.",
+        "Hiperlipemia IIb.",
+        "Hiperlipemia IV."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las hiperlipemias se pueden clasificar según la fracción de lípidos que esté elevada (Clasificación de Frederickson): La tipo I o hiperquilomicronemia y la tipo IV asocia hipertrigliceridemia. La tipo IIa presenta aumento de los niveles de colesterol. La tipo IIb, III y V presenta hipercolesterolemia e hipertrigliceridemia. El gemfibrozilo es un fibrato cuya indicación principal son las hipertrigliceridemias y las dislipemias mixtas pero no la hipercolesterolemia aislada, por tanto no están indicados en la hiperlipemia tipo IIa."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "¿Cuál es la causa más frecuente de síndrome de Cushing?:",
+      "opciones": [
+        "Carcinoma pulmonar de células de avena.",
+        "Carcinoma suprarrenal.",
+        "Administración exógena de esteroides.",
+        "Macroadenoma hipofisario productor de ACTH."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se deben conocer las distintas causas de Síndrome de Cushing y su frecuencia. Recordar que la primera causa es la administración exógena prolongada de esteroides. Dentro de las causas endógenas de Síndrome de Cushing, la más frecuente es la existencia de un microadenoma hipofisario productor de ACTH, seguida del macroadenoma hipofisario. Otras causas más infrecuentes son la existencia de un adenoma o hiperplasia suprarrenal productor de cortisol (el carcinoma suprarrenal es muy infrecuente), y el Cushing ectópico por secreción de ACTH, al que se asocian especialmente, el carcinoma microcítico de pulmón y los tumores carcinoides."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "En una mujer de 42 años aparecen sed intensa y poliuria 5 días después de una hipofisectomía transesfenoidal por una enfermedad de Cushing. El volumen de orina ha sido de aproximadamente 6 litros al día, con una densidad de 1.010. La paciente ha sido capaz de consumir grandes cantidades de agua fría. Los electrolitos séricos y la glucosa están dentro de los límites normales. La forma óptima de establecer el diagnóstico en este caso es:",
+      "opciones": [
+        "Determinación de la vasopresina-arginina plasmática.",
+        "Determinación de la vasopresina-arginina urinaria.",
+        "Comparación de la osmolaridad urinaria tras la deshidratación, antes y después de la administración de vasopresina.",
+        "Administración de solución salina hipertónica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante un paciente con poliuria y polidipsia bruscas, no causado por otra patología como el debut de una diabetes mellitus, debemos descartar la presencia de una diabetes insípida. En este caso, incluso nos dan una buena razón para que pueda padecerla: cirugía hipofisaria reciente.\n\nLa diabetes insípida se caracteriza por la presencia de una osmolaridad plasmática aumentada (OSMp > 295 mOSM/Kg), que puede ser normal en aquellos pacientes que tienen un acceso libre al agua, y una osmolaridad urinaria anormalmente disminuida (OSMo < 300 mOSM/kg). La prueba diagnóstica de elección es el test de deshidratación o prueba de la sed, con administración posterior de vasopresina SC, que nos permite diferenciar entre una diabetes insípida central, nefrogénica y la polidipsia primaria. Una vez deshidratado el paciente una elevación de la osmolaridad urinaria superior al 9% de la basal es diagnóstico de diabetes insípida central. Si ésta se confirma, a continuación debemos realizar una resonancia magnética del área hipotálamo- hipofisaria con el objetivo de descartar patología estructural a dicho nivel."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "En el síndrome de Turner, el trastorno de la diferenciación sexual se localiza a nivel:",
+      "opciones": [
+        "Sexo genético o cromosómico",
+        "Sexo gonadal",
+        "Sexo fenotipico",
+        "Sexo psicosocial"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el síndrome de Turner, el trastorno del desarrollo sexual se localiza a nivel del sexo genético o cromosómico (45X)"
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "La vida media de la albúmina es de:",
+      "opciones": [
+        "2 días.",
+        "20 días.",
+        "10 días.",
+        "1 mes."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta difícil, dado que puede pasarse por alto, aunque viene reflejada claramente en el manual. Para la valoración del estado nutricional empleamos diversas proteínas. Dentro de las proteínas de vida media larga encontramos la albúmina (20 días) y transferrina (10 días). Entre las de vida media corta aparece la prealbúmina (2 días) y la proteína ligada al retinol (10 horas)."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Ante un paciente con un nódulo tiroideo, la actitud a seguir según el resultado de la PAAF es la siguiente:",
+      "opciones": [
+        "Bethesda VI, intentar tratamiento con levotiroxina",
+        "Bethesda I, repetir PAAF",
+        "Bethesda II, seguimiento",
+        "Bethesda IV, repetir la PAAF"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La clasificación de Bethesda nos indica el riesgo de malignidad en función del resultado citopatológico obtenido en la PAAF. Bethesda II corresponde con un nódulo benigno, por lo tanto requiere seguimiento del paciente."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Mujer de 59 años con antecedente de bocio. En las sucesivas revisiones ha estado asintomática y con normofunción tiroidea. En la última revisión refiere disfagia a sólidos y episodios de atragantamiento con ciertas comidas. ¿Cuál debe ser la actitud con esta paciente?",
+      "opciones": [
+        "Hormona tiroidea en dosis supresoras.",
+        "Yodo radioactivo.",
+        "Suplementos de yodo a dosis elevadas.",
+        "Tiroidectomía."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tratamiento de elección para el bocio con clínica compresiva (disnea, disfagia, tos, etc.) es la cirugía (respuesta 4 correcta). Ninguna de las demás opciones de respuesta conseguiría hacer regresar el tamaño del bocio."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "Paciente varón de 68 años que acude traído por su familia porque le encuentran deprimido, apático y \"lento de ideas\". Usted le explora y, al tomarle el pulso, se lo nota irregular. Le pide una analítica y un ECG. El ECG lo hace usted mismo y detecta una fibrilación auricular. Antes de que llegue la analítica, usted ya tiene que descartar una patología, para lo cual su siguiente acción diagnóstica es:",
+      "opciones": [
+        "Ecocardiograma.",
+        "Avisar al neurólogo.",
+        "Pedir hormonas tiroideas.",
+        "Esperar la analítica pedida, porque seguro que nos orienta el diagnóstico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La forma de hipertiroidismo apático puede darse en los ancianos, en los que predominan los síntomas de decaimiento, depresión y miopatía tirotóxica. También el hipertiroidismo en los ancianos suele producir complicaciones cardiovasculares, como es el caso de la pregunta. Es característico del hipertiroidismo la fibrilación auricular u otras arritmias supraventriculares, que pueden producir insuficiencia cardíaca (o descompensarla, si ya existía). Es típica la resistencia a la digital en estos casos, requiriéndose dosis altas que a veces obligan a monitorizar los niveles para evitar la intoxicación. El tratamiento adecuado sería el control del hipertiroidismo y los betabloqueantes, siempre y cuando no exista una insuficiencia cardíaca aguda, y en casos más graves el bloqueo de la conversión periférica de T4 en T3 con corticoides o contrastes yodados. El radioyodo se plantearía como tratamiento definitivo una vez controlada la crisis."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Sobre el bocio nodular tóxico, señale la afirmación ERRÓNEA:",
+      "opciones": [
+        "El tratamiento de elección son los antitiroideos, ya que el radioyodo aumenta la incidencia de carcinoma papilar de tiroides.",
+        "Es la causa más frecuente de hipertiroidismo en el anciano.",
+        "Aparece con mayor frecuencia en zonas con déficit de yodo.",
+        "Predomina en el sexo femenino."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento de elección en el bocio multinodular tóxico es el radioyodo, dada la avanzada edad de los pacientes que la presentan. El resto de opciones son correctas."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cuál de los siguientes procesos es el más INFRECUENTE en la enfermedad de Graves-Basedow?:",
+      "opciones": [
+        "Oftalmopatía infiltrativa.",
+        "Oftalmopatía no infiltrativa.",
+        "Mixedema pretibial.",
+        "Hipertiroidismo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La enfermedad de Graves es la causa más frecuente de hipertiroidismo en personas jóvenes. Se caracteriza por la existencia de hipertiroidismo debido a la aparición de anticuerpos estimulantes del receptor de TSH (TSI). En esta enfermedad aparecen una serie de síntomas y signos típicos. Los síntomas más frecuentes son la hiperactividad, intolerancia al calor, palpitaciones, fatiga y pérdida de peso, siendo más infrecuentes la diarrea, oligomenorrea y pérdida de libido. Entre los signos físicos destacan la taquicardia, temblor distal, bocio, piel caliente, debilidad muscular, oftalmopatía. De todos los signos y síntomas mencionados en la pregunta, el más infrecuente es el mixedema pretibial."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "¿Cuál de los siguientes datos no es típico de la Diabetes Insípida Central?",
+      "opciones": [
+        "Poliuria",
+        "Osmolaridad urinaria > 300 mosm/kg",
+        "Osmolaridad plasmética normal",
+        "Polidipsia"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante una DIC (diabetes insípida central) tendremos un fallo en la producción o liberación de ADH, por lo que el problema fundamental de estos pacientes es la incapacidad para la concentración urinaria, presentando una osmolaridad urinaria < 300 mosm/kg (orina diluída)."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Mujer de 34 años que ha ganado peso en los últimos 6 meses, a pesar de una disminución de su apetito, consulta por parestesias en manos y pies, rigidez y contracturas musculares. También refiere ser estreñida y tener alteraciones del ciclo menstrual. ¿Qué enfermedad endocrina descartaría en primer lugar?:",
+      "opciones": [
+        "Enf. de Addison.",
+        "Hiperaldosteronismo.",
+        "Hipotiroidismo.",
+        "Amiloidosis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El déficit de yodo es la causa más frecuente de bocio y de hipotiroidismo en el mundo. Sin embargo, la causa más frecuente de hipotiroidismo en las áreas con ingesta de yodo adecuada es la patología tiroidea autoinmune en la actualidad. La clínica se caracteriza por aumento de peso con disminución del apetito, estreñimiento, piel seca, caída del pelo, amenorrea, engrosamiento de la piel, edemas, etc. El tratamiento sustitutivo del hipotiroidismo se realiza en la actualidad con tiroxina (T4) oral. El objetivo del tratamiento es la normalización de los niveles de TSH en caso de hipotiroidismo primario y de los niveles de T4 libre en el caso de hipotiroidismo central."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Paciente varón de 27 años de edad, que tras ser diagnosticado hace 2 meses de un feocromocitoma, se le descubre un nódulo tiroideo frío en una gammagrafía tiroidea. En la analítica resalta un aumento desproporcionado de calcitonina plasmática. ¿En qué patología habría que pensar?:",
+      "opciones": [
+        "Carcinoma medular de tiroides.",
+        "Carcinoma papilar de tiroides.",
+        "Carcinoma folicular de tiroides.",
+        "Carcinoma paratoideo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de una pregunta relativamente sencilla. Debes estudiar algo sobre los MEN, principalmente que tipo de enfermedades engloba cada uno. En la pregunta nos informan que el sujeto sufre un feocromocitoma y además un nódulo tiroideo con niveles de calcitonina altos. Con esto debes pensar que se trata de un carcinoma medular de tiroides, respuesta 1. Además deberíamos sospechar que estamos ante un MEN2 y pedir un estudio del RET- protoncogén al individuo."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "En unos análisis de rutina de una mujer de 59 años, fumadora de 20 cigarrillos/día desde hace 25 años, se detecta una hipercalcemia de 11,3 mg/dL con un fósforo de 3,4 mg/dL. NO resultaría eficiente de entrada:",
+      "opciones": [
+        "Determinar niveles séricos de PTH.",
+        "Determinar niveles séricos de vitamina D.",
+        "Determinación de hidroxiprolinuria.",
+        "Una radiografía simple de tórax."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sencilla sobre trastornos del metabolismo del calcio. Nos preguntan acerca de las pruebas a solicitar de inicio en una paciente con elevación del calcio plasmático y niveles normales de fosfato; ante esta situación, lo indicado es iniciar el estudio solicitando la determinación de las dos principales hormonas responsables del equilibrio del calcio plasmático, que son la vitamina D y la PTHi. Dado que se trata de una paciente fumadora de larga evolución y que una de las causas de hipercalcemia es la tumoral (asociación de carcinomas epidermoides con secreción de PTHrp), la radiografía de tórax estaría también indicada; no obstante, la hidroxiprolinuria es un marcador de resorción ósea pero no la causa en sí de las altas concentraciones de calcio en plasma, por lo que no está indicada su determinación para el enfoque diagnóstico inicial."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Son contraindicaciones para la cirugía laparoscópica suprarrenal todas MENOS una:",
+      "opciones": [
+        "Sospecha de feocromocitoma maligno.",
+        "Nefrectomía previa.",
+        "Masa suprarrenal de 10 cm.",
+        "Masa suprarrenal bilateral."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta hace referencia a las contraindicaciones de la cirugía laparoscópica. Esta técnica, que se viene empleando en los últimos años y que ofrece un menor número de complicaciones, es la técnica de elección para la intervención de cualquier patología suprarrenal. Lo único que se debe recordar es que se encuentra contraindicada en tumores grandes, pacientes monorrenos o sospecha de malignidad. La existencia de un tumor bilateral no es una contraindicación de la técnica."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Señale de entre los siguientes antígenos HLA aquellos que estén relacionados estrechamente con la diabetes mellitus tipo 1:",
+      "opciones": [
+        "B 27, B 29.",
+        "DR 8, DR 9.",
+        "DR 3, DR 4.",
+        "B 10, B 12."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la diabetes mellitus tipo 1 participan muchos genes y el mecanismo herediartio no está bien conocido. El principal gen de predisposición a la DM- 1se localiza en la región HLA del cromosoma 6. la mayoría de los diabéticos tiene el haplotipo HLA DR3, HLA DR4 o ambos. Sin embargo, la mayoría de los individuos portadores de estos haplotipos no padecen diabetes y la mayoría de los individuos afectos de esta enfermedad carece de pacientes de primer grado que la sufran. El DR2 puede tener papel protector"
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "En relación la pubertad precoz, cuál de las siguientes considera incorrecta:",
+      "opciones": [
+        "Es más frecuente en niños que en niñas",
+        "La velocidad de crecimiento está aumentada",
+        "La edad ósea está aumentada",
+        "Debemos realizar una prueba de imagen del SNC"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "A diferencia del retraso de la pubertad, la pubertad precoz es más frecuente en niñas."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "En el control de la diabetes mellitus, la hemoglobina glucosilada se utiliza como:",
+      "opciones": [
+        "Marcador de complicaciones microvasculares.",
+        "Control glucémico de los 3 meses previos.",
+        "Está actualmente en desuso.",
+        "Es sólo útil en DMID."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La hemoglobina glicosilada (HbA1c) es un parámetro de gran utilidad para el control glucémico a largo plazo. Cuando se eleva la glucosa plasmática de forma crónica, aumenta la glicosilación no enzimática de la hemoglobina; esta alteración refleja las glucemias de los 2- 3 meses previos, porque la supervivencia de la hemoglobina es de unos 120 días. Es útil en el seguimiento de todos los pacientes diabéticos. Algunas enfermedades como la uremia, las hemoglobinopatías y la anemia hemolítica pueden interferir los resultados."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Mujer de 43 años que presenta episodios repetidos de hipoglucemia (glucemias < 40 mg/dL) con síntomas neuroglucopénicos. Los niveles de insulina y péptido C se encuentran inhibidos, así como los de hormona de crecimiento y factor de crecimiento similar a la insulina tipo I (IGF-I). Lo PRIMERO que habría que descartar sería:",
+      "opciones": [
+        "Insulinoma.",
+        "Tumor mesenquimal productor de sustancias tales como IGF-II.",
+        "Hipoglucemia facticia por ingesta de antidiabéticos orales.",
+        "Hipoglucemia facticia por consumo de insulina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Repasemos las opciones de respuesta:\n\n1.- El descenso de la insulina y el péptido C nos descartan el insulinoma.\n\n2.- El factor de crecimiento tipo insulina de tipo II (IGF- II) es una hormona peptídica monocatenaria de estructura similar a la de la insulina. El IGF- II tiene un papel importante en el crecimiento fetal. A veces, también se produce en células de determinados tumores, produciendo hipoglucemia, como sucede en esta pregunta (respuesta 2 correcta). Esta situación es conocida como síndrome de Doege-Potter.\n\n3.- Si se tratase de una hipoglucemia por antidiabéticos orales, podríamos haberla encontrado normal o aumentada, pero no descendida.\n\n4.- Una hipoglucemia facticia por consumo de insulina no sería lógica, ya que habríamos encontrado unos niveles de insulina elevados."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "¿Cuál de las siguientes recomendaciones dietéticas NO le daría a un paciente con enfermedad de Crohn?",
+      "opciones": [
+        "Dieta pobre en oxalatos, para disminuir la malabsorción en los pacientes con esteatorrea.",
+        "Dieta pobre en fósforo si hay litiasis renal por oxalatos, por reducir su concentración urinaria.",
+        "Dieta pobre en potasio.",
+        "Dieta pobre en fibra y residuos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la enfermedad de Crohn, no se recomienda una dieta oral específica, sino que se hace hincapié en mantener una nutrición completa y equilibrada, con alimentos ajustados a la tolerancia del paciente. Hay que individualizar, porque influyen tanto la extensión como la localización de la enfermedad, y si existe resección intestinal previa o no. Está indicada una dieta pobre en residuos para aquellos que tienen riesgo de obstrucción intestinal (p.e. estenosis). En las resecciones ileales extensas, puede existir esteatorrea, y en estos casos está indicada una dieta pobre en grasas. También en resecciones intestinales extensas que presenten síndrome de intestino corto, pero mantienen integridad del colon, se instaurará una dieta pobre en oxalato. Estos enfermos suelen necesitar suplementos de vitaminas y minerales. Sin embargo, no hay razón para disminuir la ingesta de potasio (respuesta 4 falsa)."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Elija la opción correcta respecto a las necesidades diarias de proteínas:",
+      "opciones": [
+        "Un adulto de 70 kg de peso debería ingerir un promedio de 120 g de proteínas al día.",
+        "Se recomienda que al menos un 70% de las proteínas de la dieta sea de origen vegetal.",
+        "Un niño de 35 kg de peso debería ingerir un promedio de 60 g de proteínas al día.",
+        "Los aminoácidos esenciales son aquellos que no pueden ser aportados por las proteínas de origen vegetal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las proteínas están formadas por aminoácidos. Dentro de éstos, los aminoácidos esenciales son aquellos que no pueden ser sintetizados por nuestro organismo y han de ingerirse con los alimentos. El valor biológico de las proteínas depende de su contenido en aminoácidos esenciales y sólo las proteínas de origen animal contienen todos los aminoácidos esenciales (alto valor biológico), mientras que las proteínas vegetales carecen de alguno de los aminoácidos esenciales. Para tener una alimentación equilibrada con todas las fuentes proteicas, el 40- 50% de las proteínas de nuestra alimentación debe de ser de origen animal. Si la dieta aporta un contenido proteico insuficiente se origina un balance nitrogenado negativo y, como consecuencia, un estado de desnutrición proteica manifestado por disminución de la masa muscular, menor resistencia ante las infecciones, astenia, etc. La ingesta de proteínas recomendada para los adultos sanos es de 0,8 g/Kg de peso/día. En niños, adolescentes, mujeres embarazadas o en periodo de lactancia las necesidades aumentan entre 1,5- 2 g/Kg/día (35 Kg*2=70 g al día)"
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "¿Cuál de estos fármacos es el que produce mayor hiperprolactinemia?",
+      "opciones": [
+        "Bupropion",
+        "Antagonistas del calcio",
+        "Fluoxetina",
+        "Risperidona"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Aunque el número de fármacos relacionados con hiperprolactinemia es enorme, debes recordar por ser muy importantes los antipsicóticos como el haloperidol o la risperidona y antieméticos como la metoclopramida o la domperidona."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "¿Cuál es el tumor maligno MÁS frecuente del tiroides?",
+      "opciones": [
+        "Carcinoma papilar.",
+        "Carcinoma folicular.",
+        "Carcinoma anaplásico.",
+        "Carcinoma medular."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de dificultad baja que se explica en clase y que está detallado en el manual CTO. El cáncer papilar de tiroides es la tumoración maligna más frecuente (70%), y su incidencia está aumentando, en buena parte debido al aumento de ecografías cervicales realizadas, que permiten diagnosticar micropapilares (tumores < 1 cm) que antes pasaban desapercibidos."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Varón de 39 años que ingresó por persistencia de dos úlceras duodenales tras ocho semanas de tratamiento con omeprazol, y habiendo completado previamente un ciclo de 10 días con omeprazol, claritromicina y amoxicilina. No tenía antecedentes de alcoholismo, consumo de tabaco o fármacos gastroerosivos. En las últimas tres semanas se había añadido diarrea de 3 a 4 deposiciones al día. En la analítica destacaba: Hb 10,2 mg/dL y vitamina B12 de 57 pg/mL (normal > 200 pg/mL), grasas fecales de 24 horas: 10 g. Una prueba de la D-Xilosa fue normal. Una sigmoidocolonoscopia fue normal. Se le realizó un TC abdominal, cuyo estudio fue informado como dentro de la normalidad. Entre las siguientes medidas, ¿cuál le aportaría una MAYOR rentabilidad para obtener el diagnóstico de este paciente?",
+      "opciones": [
+        "Determinación de gastrina basal.",
+        "Niveles de polipéptido pancreático.",
+        "Ensayo durante una semana con enzimas pancreáticas.",
+        "Determinación de colecistoquinina postestímulo con pentagastrina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ante la presencia de úlceras duodenales múltiples, refractarias al tratamiento habitual, sería posible un síndrome de Zollinger-Ellison. Existen además otros datos orientativos:\n\n- Existe diarrea con esteatorrea. En esta enfermedad, se debe a la hiperacidez duodenal, que impide la correcta función de las enzimas pancreáticas (que precisan pH alcalino).\n\n- Existe déficit asociado de B12: Como consecuencia de la excesiva acidez duodenal, se desnaturaliza el factor intrínseco previamente secretado a nivel gástrico, lo que impide la correcta absorción de la B12.\n\nLa TC abdominal normal no debe engañarte. En ocasiones, los gastrinomas son tan pequeños que es difícil detectarlos incluso mediante una TC de abdomen; por ello, no debes descartar esta enfermedad y has de solicitar el nivel de gastrina (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "En el diagnóstico de insuficiencia suprarrenal secundaria, la hipoglucemia insulínica se debe utilizar:",
+      "opciones": [
+        "En todas las ocasiones.",
+        "Cuando los niveles plasmáticos de ACTH sean bajos.",
+        "Cuando los niveles plasmáticos de ACTH estén en el límite inferior de la normalidad.",
+        "Cuando los títulos plasmáticos de cortisol son bajos, pero no concluyentes, y haya la respuesta suprarrenal a la ACTH, pero sea parcial"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta compleja en relación con el diagnóstico de la insuficiencia suprarrenal secundaria. Recordad que la prueba diagnóstica de elección de esta patología es la hipoglucemia insulínica, en especial cuando se sospeche un déficit de ACTH de corta duración. Cuando la enfermedad está evolucionada, se produce una atrofia de la suprarrenal, y se puede emplear otro test menos agresivo como el de ACTH para cortisol. El diagnóstico se realizará demostrando una ausencia de respuesta del cortisol a la ACTH, pero como en ocasiones puede existir una atrofia incompleta de la suprarrenal, podremos encontrar una elevación del cortisol casi normal. Por lo tanto, en estos casos en los que existe una sospecha clínica de déficit de ACTH con una respuesta al test dudosa, está indicada la realización de una hipoglucemia insulínica."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Mujer de 55 años diagnosticada de enfermedad de Cushing secundaria a un macroadenoma hipofisario, pendiente de cirugía transesfenoidal. Refiere haber padecido un episodio de cefalea retroocular intensa por el que no acudió al Hospital. Se realiza una evaluación funcional en la que se objetiva una cortisoluria normal, un ritmo de cortisol normal y una supresión con 2 mg de dexametasona. ¿Cómo explicaría este suceso?:",
+      "opciones": [
+        "Deberían repetirse los test funcionales pues debe haber un falso negativo.",
+        "El diagnóstico inicial de síndrome de Cushing era incorrecto.",
+        "Curación por una necrosis tumoral.",
+        "Probablemente se trata de un Cushing yatrógeno."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico en relación con el síndrome de Cushing. Nos describen a un paciente con un macroadenoma, en el que tras presentar un episodio brusco de cefalea se normalizan las alteraciones hormonales previas. Esto puede ser debido a la necrosis de las células tumorales por hipoperfusión, al igual que puede ocurrir en pacientes embarazadas con un prolactinoma. De cualquier manera, aunque la opción correcta es la 3, el caso clínico es bastante inverosímil, y esto no ocurre prácticamente nunca en el Cushing. El resto de las opciones no justifican la curación del tumor."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "En relación al tratamiento del hipertiroidismo con antitiroideos, ¿cuál considera el efecto secundario MÁS habitual de este grupo de fármacos?",
+      "opciones": [
+        "Agranulocitosis.",
+        "Hepatitis.",
+        "Hipotiroidismo y alteraciones cutáneas",
+        "Hipoglucemia"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta referida a los efectos secundarios de los antitiroideos. Los efectos adversos más frecuentes son el hipotiroidismo por exceso de dosis y distintos tipos de reacciones cutáneas (rash, eritodermia, etc.). Los efectos secundarios más graves son la agranulocitosis y la hepatitis fulminante."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "¿Qué prueba funcional puede ser de utilidad en ocasiones para diferenciar el hiperaldosteronismo primario por adenoma suprarrenal del producido por hiperplasia?",
+      "opciones": [
+        "Test postural.",
+        "Test de furosemida.",
+        "Sobrecarga intravenosa de suero salino.",
+        "Test de captopril."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la actualidad la mejor manera de distinguir un adenoma de una hiperplasia suprarrenal son las pruebas de imagen (TC abdominal). No obstante, hay que contestar a la pregunta, así que analicemos las opciones de respuesta:\n\n1.- El test postural consiste en mantener el ortostatismo 2-4 horas tras reposo en cama nocturno. En personas sanas, esto eleva la renina, y secundariamente la aldosterona. Se ha visto que en pacientes con aldosteronoma, la actividad de la renina permanece suprimida, por la aldosterona producida por el adenoma, y esto no ocurre en la hiperplasia (respuesta 1 correcta).\n\n2.- La furosemida suele emplearse para estimular todavía más intensamente la renina en combinación con la bipedestación, pero es infrecuente utilizarla de forma aislada.\n\n3.- La sobrecarga intravenosa de suero salino fisiológico se utiliza para confirmar el diagnóstico de hiperaldosteronismo, pero no nos orienta hacia la posible etiología.\n\n4.- En los pacientes en los que está contraindicada la infusión de volumen se podría utilizar, con el mismo fin, el test del captopril, pero tampoco nos orienta a ninguna causa concreta."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Acude a urgencias un paciente de 68 años con clínica de confusión, irritabilidad e inestabilidad. En analítica se objetiva un sodio de 125 mmol/l. No realiza tratamiento con diuréticos.Tras valorar estado de hidratación del paciente tu sospecha es de SIADH así que solicitas osmolaridad plasmática y urinaria ¿Qué esperarías encontrar en el estudio?",
+      "opciones": [
+        "Osmolaridad plasmática normal, orina diluida y estado de hidratación normal.",
+        "Osmolaridad plasmática baja, orina normal y edemas, ya que el paciente retiene agua.",
+        "Osmolaridad plasmática baja, orina concentrada, estado de hidratación normal.",
+        "Osmolaridad plasmática alta, orina concentrada, signos de deshidratación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El SIADH debe sospecharse en todo paciente con hiponatremia (<135mmol/l), hiposmolaridad plasmática (<275mOsm/kg), volumen extracelular normal (sin edema ni signos de deshidratación) y orina sin máxima dilución (>100mOsm/kg)."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "La hiperplasia suprarrenal congénita por déficit de 11-hidroxilasa no se caracteriza por:",
+      "opciones": [
+        "Virilización en fetos femeninos.",
+        "Tendencia a la hipotensión de las pacientes",
+        "Tendencia a la hipopotasemia de las pacientes",
+        "Acumulación de 11-desoxicortisol"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En el défici de 11-hidroxilasa se acumula DOCA que tiene efecto mineral-corticoides por lo que los pacientes tienen tendencia a la hipertensión e hipopotasemia."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "En pacientes con enfermedad renal diabética no dependiente de diálisis se recomienda:",
+      "opciones": [
+        "Una ingesta de proteínas de 0,5 g/kg/día",
+        "Una ingesta de proteínas de 0,8 g/Kg/día",
+        "Una ingesta de proteínas de 1,5 g/Kg/día",
+        "Ninguna de las anteriores es cierta"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En el paciente con nefropatía diabética no dependiente de diálisis se aconseja disminuir el aporte de proteínas hasta el límite bajo recomendado de manera general (0,8 g/Kg/día)"
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "En el síndrome del eutiroideo enfermo se caracteriza por:",
+      "opciones": [
+        "Niveles de T3 libres bajos con T3r elevados",
+        "Disminución de TSH y T4L",
+        "Normalidad en la función tiroidea",
+        "TSH suprimida y T3L alta"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el síndrome del eutiroideo enfermo existe un descenso del paso periférico de T4 a T3 (desyodación periférica) por lo que los nieveles de T3 disminuirán, mientras que aumentarán los de T3r (hormona inactiva)"
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Las características clínicas típicas del somatostatinoma son:",
+      "opciones": [
+        "Dolor abdominal por úlceras gástricas y duodenales",
+        "Diarrea secretora",
+        "Diabetes, depresión, dermatitis y trombosis venosa profunda",
+        "Diabetes, diarrea-esteatorrea y colelitiasis"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las características clínicas típicas del somatostatinoma son la diabetes con diarrea-esteatorrea y colelitiasis."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Varón de 75 años, con antecedente de fibrilación auricular e hipertensión arterial, con diagnóstico reciente de bocio multinodular sin síntomas compresivos, con hallazgos en análisis compatibles con hipertiroidismo primario. Indique el tratamiento definitivo de elección que indicaría en este paciente:",
+      "opciones": [
+        "Tiroidectomía total.",
+        "Antititoideos de síntesis.",
+        "Dosis ablativa con radioyodo.",
+        "Vigilancia y control analítico en 3 meses restringiendo sal yodada de la alimentación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante la existencia de bocio multinodular tóxico, el tratamiento de elección consiste en administración de yodo radioactivo. La tiroidectomía se reserva en casos de sospecha de patología tumoral de alguno de los nódulos o existencia de clínica compresiva. El uso de antitiroideos, a diferencia de en la enfermedad de Graves, no se suelen emplear de entrada al no conseguir curación del cuadro en la mayoría de los casos. La existencia de antecedentes cardiológicos y el hallazgo de hipertiroidismo, no deben demorar en el tiempo la toma de decisión terapéutica en este paciente."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "¿Cuál considera que es la causa más probable de hiperprolactinemia en una paciente de 25 años con amenorrea y galactorrea que presenta valores de prolactina mayores de 250 ng/dl (normal menor de 25 ng/dl)?",
+      "opciones": [
+        "Compresión del tallo hipofisario",
+        "Embarazo",
+        "Fármacos",
+        "Macroprolactinoma"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Unos valores de prolactina menores de 100 pueden deberse a cualquier causa (embarazo, fármacos, compresión del tallo hipofisario o prolactinomas) pero unos valores mayores de 250 ng/dl suelen relacionarse con la presencia de un macroprolactinoma. Además, la presencia de clínica de galactorrea haría poco probable otras etiologías como el embarazo."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Los parámetros más importantes que el médico debe vigilar en el tratamiento de la cetoacidosis diabética son:",
+      "opciones": [
+        "Glucosa capilar y pH.",
+        "Glucosa plasmática, pH e iones.",
+        "Cuerpos cetónicos en sangre y pH.",
+        "Bicarbonato y glucosa plasmáticos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La cetoacidosis diabética se caracteriza por hiperglucemia, acidosis metabólica y cuerpos cetónicos positivos. El seguimiento analítico de la CAD se realiza por determinaciones seriadas de glucemia, pH, bicarbonato e iones. Como respuesta al tratamiento, la glucosa debe disminuir a ritmo de 75 mg/dl/hora, resolviéndose más rápido que la acidosis y la cetosis. La mejoría del pH y del bicarbonato debe manifestarse a las 4- 6 horas tras haber iniciado un tratamiento adecuado, si no es así debemos pensar en una resistencia a la insulina y duplicar la dosis de la misma. La normalización del pH nos va a marcar el fin del tratamiento con insulina i.v. y la resolución del cuadro. Los cuerpos cetónicos no son útiles para el seguimiento puesto que pueden tardar días en desaparecer."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Acude a consulta un paciente de 40 años refiriendo polidipsia y poliuria. A la exploración destaca obesidad grado 1. En la analítica presenta una glucemia de 357 mg/dL y cetonuria débilmente positiva. Señale la respuesta correcta",
+      "opciones": [
+        "Al ser obeso es obligatoriamente una diabetes mellitus tipo 2",
+        "Al tener solo una determinación, es preciso confirmar el resultado en otra determinación distinta, por ejemplo solicitando una sobrecarga oral de glucosa.",
+        "Al existir algo de cetonuria es obligatoriamente una diabetes tipo 1",
+        "Necesitaremos más pruebas o esperar a ver la evolución para diferenciar mejor el tipo de diabetes"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sobre diagnóstico y características de la diabetes más importante. Respecto al diagnóstico, se debe recordar que la clínica cardinal acompañada de hiperglucemia plasmática (> 200 mg/dl) es diagnóstico de diabetes sin necesidad de confirmación con otra prueba. Respecto al tipo de diabetes, las dudas serían diabetes tipo 2 (a favor la obesidad) o bien una diabetes autoinmune (a favor la forma de debut brusca y la presencia de cetonuria). Ninguno de estos dos últimos datos nos sirven para diagnosticar DM autoinmune (el debut brusco puede verse también en la DM tipo 2 y la presencia de cetonuria débil puede deberse al ayuno). Para aclarar el tipo de DM, habrá que pedir Abs de DM y solicitar péptido C para ver la reserva pancreática. La evolución del paciente también nos da información sobre el tipo de DM."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Hombre de 52 años, bebedor importante, que consulta por presentar lesiones ampollosas y erosiones tras exposición solar. El laboratorio nos informa de la existencia de un discreto aumento de transaminasas, siendo la excreción urinaria de uroporfirina superior a 200 ug/dL. Ante este cuadro, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Se trata de una enfermedad de herencia autosómica recesiva.",
+        "El tratamiento incluye la realización de flebotomías periódicas.",
+        "La absorción intestinal del hierro estará probablemente incrementada.",
+        "La fotosensibilidad no encaja en el diagnóstico de hemocromatosis primaria, lo que descarta la sobrecarga férrica a nivel hepático."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda la siguiente descripción: alcohólico con pelos en la cara y ampollas en las manos: porfiria cutánea tarda. Se trata de una enfermedad adquirida que produce una mala gestión hepática del hierro y que requiere tratamiento con flebotomías periódicas (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Con respecto a los efectos fisiológicos de los glucocorticoides, es INCORRECTO que:",
+      "opciones": [
+        "Tienen efectos antiinflamatorios, inhibiendo la inmunidad humoral y la celular.",
+        "Contribuyen a mantener el volumen del líquido extracelular, favoreciendo el aclaramiento de agua libre (inhiben ADH y estimulan PAN).",
+        "Disminuyen la eliminación de nitrógeno.",
+        "Al inhibir la liberación de insulina y dificultar la captación de glucosa a nivel periférico, la glucemia tiende a aumentar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta que se acierta por descarte. Los glucocorticoides aumentan el catabolismo proteico y por consiguiente la eliminación de nitrógeno (opción 3 incorrecta, por lo que la marcamos)."
+    }
+  ]
+}

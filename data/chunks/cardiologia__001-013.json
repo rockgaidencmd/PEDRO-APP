@@ -1,0 +1,283 @@
+{
+  "materia": "cardiologia",
+  "paginaInicio": 1,
+  "paginaFin": 13,
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "En relación a la monitorización del shock no es cierto:",
+      "opciones": [
+        "La presión venosa central es un buen indicador de la precarga.",
+        "Con un catéter de Swan-Ganz se puede estimar la presión capilar pulmonar.",
+        "La diuresis debe medirse con frecuencia, incluso horaria.",
+        "En el caso de shock cardiogénico el gasto cardíaco estará disminuido y las resistencias periféricas serán bajas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el shock cardiogénico las resistencias vasculares periféricas estarán aumentadas y el indice cardiaco disminuido, a diferencia de los shock del tipo distributivo."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Varón de 49 años, con antecedente patológico de ángor inestable, que ingresa hace cuatro días por haber presentado un infarto agudo de miocardio. Bruscamente, presenta un empeoramiento de su estado general, con disnea importante. Se realiza monitorización con catéter de Swan-Ganz, observándose un salto oximétrico en el ventrículo derecho. ¿Cuál es el diagnóstico MÁS probable de este paciente?",
+      "opciones": [
+        "Comunicación interventricular posinfarto.",
+        "Insuficiencia mitral aguda isquémica.",
+        "Rotura cardíaca.",
+        "Aneurisma roto del ventrículo izquierdo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La comunicación interventricular es una complicación relativamente frecuente de los IAM con elevación del segmento ST (respuesta 1 correcta) que se manifiesta como un soplo sistólico claramente audible que aparece generalmente entre los días 2 y 10 de evolución del IAM acompañado de insuficiencia cardíaca progresiva. El ecocardiograma suele ser diagnóstico observando el paso turbulento de flujo del lado izquierdo de mayor presión al derecho, permitiendo descartar otras complicaciones. Si se introduce un catéter de Swan-Ganz se objetiva la existencia de un salto oximétrico entre la aurícula derecha y el VD o la arteria pulmonar ya que está pasando sangre oxigenada desde el lado izquierdo al VD que enriquece la muestra. El tratamiento es quirúrgico precoz (en los casos en que la CIV es pequeña y el paciente está muy estable suele ser recomendado esperar unos días a la intervención para tener bordes más cicatrizados y que la cirugía tenga un mejor resultado."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Uno de los siguientes NO es un factor que predisponga a la disección de aorta:",
+      "opciones": [
+        "Ectasia anuloaórtica.",
+        "Síndrome de Marfan.",
+        "Hipotensión arterial.",
+        "Embarazo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Puesto que la disección de la aorta es uno de los temas más preguntados dentro de las enfermedades arteriales, es fundamental que domines todos sus aspectos, desde su etiología hasta su tratamiento. Respecto a la primera, recuerda que la disección de aorta se asocia en un 70% de los casos a HTA y es, con mucho, el agente etiológico más importante. Otras causas pueden ser el síndrome de Marfan con necrosis quística de la media, el embarazo y las enfermedades cardiovasculares congénitas tales como la coartación de la aorta o la válvula aórtica bicúspide."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "De las siguientes enfermedades, una de ellas puede manifestarse con ausencia de pulso venoso yugular. Señálela:",
+      "opciones": [
+        "Pericarditis constrictiva.",
+        "Síndrome de vena cava superior.",
+        "Insuficiencia tricúspide.",
+        "Insuficiencia cardiaca."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El estudio del pulso venoso yugular nos permite valorar los cambios de presión de la aurícula derecha durante todas las fases del ciclo cardiaco, dado que no hay ninguna válvula entre la unión de las venas cavas y la aurícula. Asimismo, nos permite estudiar los cambios de presiones en el ventrículo derecho únicamente durante la diástole dado que en este momento la válvula tricúspide está abierta. Consta de dos ondas positivas, la onda \"a\" debida a la contracción auricular y la onda \"v\" que se debe a la contracción ventricular y dos ondas negativas, el seno \"x\" que se debe a la relajación auricular y el seno \"y\" que se debe a la apertura de la tricúspide. En aquellas patologías en las que hay una alteración del llenado de cavidades derechas (como en la pericarditis constrictiva) se producirá alteración en las ondas \"x\" e \"y\" que se harán más profundas produciendo un patrón llamado en \"W\". En la insuficiencia tricuspidea tendremos un aumento de la onda \"v\" y en insuficiencia cardiaca los parámetros también suelen estar modificados en función de la causa de esta.\n\nEn el síndrome de la vena cava superior tenemos una compresión extrínseca de este vaso, por lo que la vena yugular, que es distal a dicha compresión, dejará de estar conectada con la aurícula derecha (por lo que no hallaremos pulso yugular). OJO, ingurgitación yugular en el síndrome de vena cava habrá, exagerada, solo que los cambios de presiones en las cavidades cardiacas (lo que es el PULSO venoso yugular) desaparecerán, ya que no conseguirán transmitirse a la yugular."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Un paciente de 70 años ingresa por un infarto inferior revascularizado. En su 4º día y de manera progresiva se observa un deterioro hemodinámico significativo con escasez de diuresis. Sin embargo, no se objetiva nada de congestión pulmonar, y tiene una presión venosa yugular muy elevada. La complicación que sospecha usted es:",
+      "opciones": [
+        "Rotura del tabique interventricular",
+        "Rotura de papilar",
+        "Infarto de VD",
+        "Rotura de pared libre"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La tríada de mala situación hemodinámica con pulmones limpios y elevación de la presión venosa yugular es muy características del infarto de ventrículo derecho."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Un varón de 60 años ha consultado por su quinto episodio de fibrilación auricular en 8 meses. Usted ha probado ya la prevención de recurrencias con fármacos IC, dronedarona y amiodarona, siendo infructuosa en todos los casos. Con vistas a intentar prolongar el ritmo sinusal, usted recomendaría:",
+      "opciones": [
+        "Ablación de nodo AV e implante de marcapasos",
+        "Dofetilide",
+        "Ablación de venas pulmonares",
+        "Estrategia de control de frecuencia"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cuando han fallado todas las medidas farmacológicas, lo mejor para intentar mantener el ritmo sinusal es la ablación de venas pulmonares. Se debe recordar que la ablación de nodo AV no previene recurrencias de FA, sino que es el último recurso para el control de frecuencia en pacientes en los que ha sido imposible frenarles con medicación. El dofetilide es un fármaco con una eficacia inferior a la amiodarona que además no está disponible en Europa, por lo que no se recomendaría bajo ningún concepto si la amiodarona ha fracasado ya."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "La diferencia fundamental entre la reimplantación de la válvula aórtica (operación de David) y el remodelado de la raíz aórtica (operación de Yacoub) es:",
+      "opciones": [
+        "En la operación de David se reemplaza la válvula aórtica y en la operación de Yacoub la raíz aórtica completa.",
+        "En la operación de David se estabiliza la raíz con un anillo protésico y en la operación de Yacoub se estabiliza con una prótesis tubular.",
+        "En la operación de David se reimplantan los senos de valsalva remanentes en el interior de un tubo de dacron y en la operación de Yacoub se suturan dichos remanentes a un tubo de dacron festoneado previamente.",
+        "No hay diferencias porque son la misma operación descrita por dos cirujanos diferentes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ambas son técnicas de preservación de la válvula aórtica nativa en casos de dilatación de raíz aórtica. En el reimplante de válvula aórtica de David se reimplanta la válvula aórtica nativa mediante la sutura de los remanentes de los senos con sutura continua en el interior de un tubo protésico de dacron, que se sujeta al plano subanular mediante suturas sueltas apliadas por debajo del anillo aórtico. En la técnica de Yacoub, los remanentes de raíz aórtica que rodean a los velos nativos aórticos se suturan a una prótesis vascular previamente festoneada con la forma de la raíz aórtica, con lo que la línea de sutura, a diferencia del David, queda expuesta al exterior y aumenta el riesgo de sangrado."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "La primera fase diastólica con cambio en los volúmenes ventriculares es:",
+      "opciones": [
+        "Tiempo de relajación isovolumétrico",
+        "Llenado rápido",
+        "Diástasis",
+        "Contracción auricular"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Cuando la presión intraventricular se hace inferior a la auricular, se abre la válvula auriculoventricular correspondiente y comienza el llenado ventricular: una primera fase de llenado rápido, seguido por una fase de llenado lento (diástasis) y, al final, se origina la sístole auricular (precedida por la onda P del ECG), que produce el llenado dependiente de la contracción auricular, ausente en la fibrilación auricular."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "De las siguientes, ¿en qué situación NO se encontraría un desdoblamiento invertido o paradójico del segundo ruido?:",
+      "opciones": [
+        "Ritmos extrasistólicos con foco inicial en el ventrículo derecho.",
+        "Estenosis aórtica.",
+        "Bloqueo completo de la rama derecha.",
+        "Hipertensión arterial."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta de dificultad moderada sobre un tema bastante habitual: la semiología cardíaca.\n\nEl segundo ruido es producido por el cierre de las válvulas semilunares (aórtica y pulmonar, por este orden). Se produce un pequeño desdoblamiento fisiológico del 2R durante la inspiración, ya que en esta fase se produce una disminución de la cantidad de sangre que llega al ventrículo izquierdo. El desdoblamiento del 2R se hace mayor cuando existe un retraso en la eyección del VD, como en el bloqueo de rama derecha, en la estenosis pulmonar o en la CIA.\n\nCuando el cierre de la válvula aórtica es más tardío que el de la pulmonar, se produce un desdoblamiento invertido del 2R. Se observa en el bloqueo de la rama izquierda, en presencia de extrasístoles ventriculares, en la estenosis aórtica, o cuando el VD tiene un tiempo de eyección corto, como ocurre en la HTP con fallo ventricular derecho. También podría verse en la HTA, ya que el aumento de la postcarga hace que el ventrículo izquierdo se vacíe más lentamente."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Un paciente diabético es diagnosticado de hipertensión arterial. ¿Qué fármacos cree que son particularmente útiles en este tipo de pacientes?:",
+      "opciones": [
+        "Betabloqueantes.",
+        "Inhibidores de la ECA.",
+        "Antagonistas del calcio.",
+        "Hidralacina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda que, aunque los únicos fármacos que han demostrado aumentar la supervivencia en pacientes hipertensos son los betabloquenates y los diuréticos, se considera que la mayor parte de los fármacos disponibles en la actualidad cumplen los requisitos para ser utilizados como primera elección, por lo que la mayoría de las veces serán las características individuales del paciente las que nos ayuden a decidirnos por un fármaco u otro. Así, los IECA están especialmente indicados en pacientes hipertensos con INSUFICIENCIA CARDIACA, CARDIOPATIA ISQUÉMICA O DIABÉTICOS; los betabloqueantes se emplean sobre todo en hipertensos con taquiarritmias o hipertiroidismo; los calcioantagonistas, en pacientes con angina o HTA sistólica aislada."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Neonato varón que a la exploración presenta taquicardia a 150 lpm, taquipnea, oliguria, tiraje intercostal y aleteo nasal, acidosis y abolición de pulsos femorales. En ecocardiograma presenta ductus permeable y gradiente pico en istmo aórtico de 50mmHg por doppler. El fármaco que puede permitir estabilizar al paciente hasta su tratamiento definitivo es:",
+      "opciones": [
+        "Alprostadil.",
+        "Digoxina.",
+        "Propranolol.",
+        "Indometacina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El paciente presenta una coartación de aorta con insuficiencia cardiaca severa. El tratamiento consiste en prostaglandina E1 (alprostadil) para mantener el ductus permeable, inotrópicos y corrección de las alteraciones metabólicas, hipoxemia, anemia, etc., para estabilizar al paciente y permitir la realización de la cirugía o dilatación percutánea de la coartación. La indometacina está totalmente contraindicada en estos pacientes ya que su indicación es precisamente favorecer el cierre espontáneo del ductus arterioso."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Hombre de 60 años, con antecedentes de hipertensión arterial y dislipemia, que ha sido recientemente diagnosticado de insuficiencia cardiaca. Tras realizar las pruebas pertinentes se objetiva que conserva la fracción de eyección del ventrículo izquierdo (> 50%). Con respecto al tratamiento, es INCORRECTO que:",
+      "opciones": [
+        "El tratamiento inicial debería dirigirse al proceso patológico subyacente.",
+        "El tratamiento con diuréticos debe iniciarse en dosis altas.",
+        "En caso de precisar tratamiento con nitratos, debe iniciarse en dosis bajas.",
+        "La disnea puede tratarse reduciendo la activación neurohormonal con inhibidores de la enzima convertidora de la angiotensina o antagonistas de los receptores de angiotensina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta que trata sobre el tratamiento de la insuficiencia cardiaca con fracción de eyección conservada (FEVI mayor del 50%). Veamos las opciones de respuesta:\n\n1.- Dado que la causa de su insuficiencia cardiaca es la mala relajación cardiaca debido al aumento del grosor miocárdico que se ha producido por el aumento de la postcarga debido a la hipertensión arterial, por lo que el tratamiento de esta disminuirá la postcarga disminuyendo la progresión de la hipertrofia y mejorando la función diastólica del ventrículo.\n\n2.- Ten en cuenta que los pacientes con insuficiencia cardiaca diastólica tienen dificultad en el llenado ventricular, por lo que es muy importante un control muy cuidadoso de la precarga (sangre que llega al corazón). En caso de una disminución rápida de la precarga se podría producir una bajada importante del gasto cardiaco que sería mal tolerado. El tratamiento diurético en estos pacientes se inicia a dosis bajas y se ajusta de forma paulatina (opción 2 incorrecta, por lo que la marcamos).\n\n3.- Puesto que el tratamiento con vasodilatadores como los nitratos transdérmicos se inicia a dosis bajas para no desajustar bruscamente la precarga con reducción del gasto cardiaco secundariamente.\n\n4.- La inhibición del eje renina-angiotensina-aldosterona reducirá la presión arterial y la postcarga, mejorando de esta manera la situación funcional de los pacientes. Recuerda que en los pacientes con insuficiencia cardiaca con FEVI conservada no se ha demostrado ningún tratamiento que mejore la supervivencia. La base del tratamiento son aquellos fármacos bradicardizantes como los betabloqueantes y los calcioantagonistas no dihidropiridínicos (verapamilo y diltiazem) que aumentan el tiempo de duración de la diástole mejorando el llenado ventricular. Los ionotrópicos positivos no están indicados en estos enfermos, ya que no hay un problema de fuerza muscular."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "¿Cuál de las siguientes medidas educacionales le parece menos adecuada en el paciente con insuficiencia cardíaca crónica estable?:",
+      "opciones": [
+        "Realizar una dieta hiposódica.",
+        "Realizar ejercicio físico a diario.",
+        "Tomar ibuprofeno, si presenta dolor lumbar.",
+        "Contactar con un médico, si aparece hinchazón de piernas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta bastante asequible. Veamos la opciones:\n\n1.- Esta opción es CORRECTA. Realizar una dieta hiposódica es una de las medidas más básicas en el tratamiento de la insuficiencia cardíaca.\n\n2.- Esta opción es CORRECTA. Realizar ejercicio físico a diario adaptado a las posibilidades del paciente es beneficioso.\n\n3.- Esta opción es FALSA. El ibuprofeno puede ser peligroso en pacientes con insuficiencia cardíaca. Las arteriolas renales aferentes se mantienen abiertas, entre otros estímulos, gracias a las prostaglandinas. Este fármaco disminuye sus niveles, con lo que pueden inducir una crisis de insuficiencia renal aguda. Por ello, es desaconsejable en la insuficiencia cardíaca, ya que el flujo renal se hace muy dependiente de las prostaglandinas, ante la hipovolemia relativa que les producen sus edemas.\n\n4.- Esta opción es CORRECTA. Si el paciente nota algún síntoma debe solicitar asistencia médica."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Paciente de 60 años, fumador, con fibrilación auricular y en tratamiento con digoxina. Consulta por un dolor brusco, intenso e impotencia funcional en extremidad inferior izquierda, con sensación de acorchamiento. La exploración física revela palidez y frialdad de esta extremidad. Conserva el pulso femoral, pero no el pedio. Sobre su tratamiento, señale la medida CONTRAINDICADA:",
+      "opciones": [
+        "Elevar las piernas.",
+        "Trombolíticos.",
+        "Analgésicos.",
+        "Tratamiento quirúrgico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El cuadro que nos presentan corresponde a una embolia arterial periférica, donde la palidez, las parestesias, el dolor y la ausencia de pulsos son características. Lógicamente, no será aconsejable la elevación de miembros inferiores, ya que disminuiría todavía más la perfusión de los tejidos afectos, empeorando el cuadro clínico."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿Cuál de las siguientes aseveraciones sobre la exploración clínica del sistema venoso es FALSA?:",
+      "opciones": [
+        "La exploración clínica del sistema venoso se iniciará en todos los casos con el paciente de pie y nunca en decúbito.",
+        "La prueba de Perthes no sirve para valorar la permeabilidad del sistema venoso profundo.",
+        "La prueba de Trendelemburg sirve para valorar la insuficiencia valvular de las perforantes y del cayado de la safena interna.",
+        "La prueba de Schwartz (signo de la oleada) sirve para valorar el estado valvular de la safena interna y externa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta de gran dificultad acerca de la exploración del sistema venoso. Todas las respuestas escritas son enunciados ciertos que no requieren mayor explicación, salvo el número 2 que es la respuesta incorrecta.\n\nLa prueba de Perthes sirve para valorar la permeabilidad del sistema venoso profundo. Se coloca un torniquete a nivel del tercio medio del muslo comprimiendo el sistema venosa superficial y se invita al paciente a caminar, de forma que si las varices se hacen prominente hay una dificultad al retorno venoso profundo al excluirse es sistema superficial por el torniquete."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "¿Qué marcadores de daño miocárdico tienen el mejor perfil de sensibilidad y especificidad y por tanto están recomendados para su uso en paciente con SCA?",
+      "opciones": [
+        "Creatin-kinasa MB",
+        "Troponinas",
+        "Mioglobina",
+        "LDH"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "ComentarIo: Pregunta fácil sobre las mal-llamadas enzimas de daño miocárdico (no todas son enzimas). Actualmente se recomienda de manera sistemática la utilización de las troponinas (T e I) por su mayor sensibilidad y especificidad."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Una de las siguientes afirmaciones sobre el aneurisma de la aorta torácica es correcta:",
+      "opciones": [
+        "Una dilatación aneurismática menor de 5-6 cm implica un riesgo muy bajo de rotura a los cinco años, aumentando drásticamente a partir de este nivel de dilatación.",
+        "Los hombres presentan aneurismas, como promedio, en edad superior a las mujeres.",
+        "La mayor edad no se asocia a un mayor riesgo de rotura.",
+        "No se ha demostrado una relación significativa entre el tamaño del aneurisma y la probabilidad de rotura."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta correcta es la 1, y por este motivo, los pacientes con aneurismas de aorta ascendente tiene indicación de cirugía a partir de los 5.5 cm con algunas excepciones, y los de aorta descendente a partir de los 6 cm.\n\nLos aneurismas son más frecuentes en varones, a partir de los 50 años y a mayor tamaño mayor riesgo de rotura."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Con respecto al cuadro clínico de la comunicación interauricular (CIA), es FALSO que:",
+      "opciones": [
+        "Los síntomas suelen aparecer durante la adolescencia.",
+        "Los primeros síntomas son disnea, fatiga o palpitaciones.",
+        "Los pacientes suelen ser de talla normal, aunque de peso reducido (\"hábito grácil\").",
+        "La palpación puede detectar la presencia de dos latidos precordiales."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Puesto que el tema de las cardiopatías congénitas es muy amplio, debes quedarte con las características principales más frecuentemente preguntadas y, entre ellas, se encuentra la CIA. Lo más importante que debes recordar de esta cardiopatía es que se caracteriza por el desdoblamiento amplio y fijo del segundo ruido, lo que te ayudará a identificar muchos casos clínicos. Debes saber que la mayoría de las CIAs son asintomáticas y suelen diagnosticarse por casualidad. Es al llegar a la edad adulta y no en la adolescencia cuando empieza la clínica de insuficiencia cardíaca (opción 1 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Señale cuál de las siguientes afirmaciones sobre el músculo liso vascular es FALSA:",
+      "opciones": [
+        "Su principal función es mantener el tono de los vasos.",
+        "Se contrae por un aumento en la concentración intracelular de calcio.",
+        "Su contracción está controlada por la unión del calcio a la troponina.",
+        "El endotelio modula el tono del músculo liso vascular."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El músculo liso carece de troponina (opción 3 falsa, por lo que la marcamos). La troponina es la proteína reguladora de la contracción del músculo esquelético y cardiaco, que se activa al unir calcio. Repasemos las demás opciones:\n1.- La principal función del músculo liso vascular es mantener el tono de los vasos y, en consecuencia, la presión arterial.\n2.- En el músculo liso, como en el músculo esquelético, la contracción se inicia por un aumento del calcio intracelular pero, en este caso, la proteína que activa el calcio es la calmodulina. La activación de la calmodulina favorece la unión de la miosina a la actina, que lleva a la contracción del músculo liso.\n4.- El endotelio modula el tono del músculo liso vascular mediante la liberación de sustancias vasodilatadoras (NO, prostaciclina), y vasoconstrictoras (endotelina, tromboxano A2, etc.)."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "La cirugía de Jatene consiste en:",
+      "opciones": [
+        "Anastomosis de la Cava superior a la arteria pulmonar derecha.",
+        "Anastomosis de la cava inferior a la arteria pulmonar derecha.",
+        "Anastomosis de la arteria subclavia a la arteria pulmonar derecha.",
+        "Intercambio arterial entre la aorta y la pulmonar (\"switch arterial\")."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La cirugía de Jatene se utiliza para corregir la D-Transposición de Grandes Vasos, intentando colocar la pulmonar \"en su sitio\" y \"la aorta en el suyo\". Exige reimplante de las arterias coronarias. La opción (a) describe la cirugía de Glen. La opción (b) describe la cirugía de Fontan. La opción (c) describe la fístula de Blalock."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Mujer de 64 años que acude a consulta refiriendo una historia de dificultad respiratoria, progresiva con el ejercicio, a la que en los últimos meses se le ha unido dolor opresivo centrotorácico irradiado al cuello que aparece a los cinco minutos de un ejercicio y cede con el reposo. En la última semana ha perdido dos veces el conocimiento mientras corría a tomar el autobús. Con respecto a la patología que probablemente padece nuestra paciente, es FALSO que:",
+      "opciones": [
+        "El pulso arterial probablemente muestre las características de pulso Corrigan.",
+        "En la auscultación probablemente destaque un soplo sistólico irradiado a carótidas.",
+        "Puede auscultarse un cuarto tono en el ápex.",
+        "La hipertensión arterial significativa es poco probable si la patología que padece es muy marcada."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Por la historia que se nos cuentan (disnea + síncopes + angina), lo más probable es que nuestra paciente tenga una estenosis aórtica. Es típico de esta enfermedad:\n\n- Soplo sistólico irradiado a carótidas.\n\n- Cuarto tono en ápex.\n\n- Pulso parvus et tardus.\n\nLa hipertensión es rara. El pulso de Corrigan es característico de la insuficiencia aórtica, no de la estenosis (opción 1 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Mujer de 40 años que tuvo infecciones amigdalares bacterianas repetidas en la infancia, diagnosticada hace 10 años de estenosis mitral reumática. Actualmente acude a urgencias por presentar palpitaciones irregulares acompañada de disnea importante con expectoración rosada, edema importante de extremidades inferiores e ingurgitación yugular. El factor desencadenante más probable de este empeoramiento será:",
+      "opciones": [
+        "Endocarditis infecciosa.",
+        "Taquicardia supraventricular paroxística.",
+        "Fibrilación auricular.",
+        "Anemia intensa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un paciente con estenosis mitral, probablemente significativa y de larga evolución, que ha caído en fibrilación auricular. Esto es prácticamente la norma en las estenosis mitrales importantes, ya que la aurícula se va agrandando progresivamente y está sometida a mucha presión, lo que la hace eléctricamente inestable. Por otro lado, en los pacientes con estenosis mitral, el mantener la contracción auricular es de extraordinaria importancia, ya que necesita que alguien \"empuje\" la sangre a través de la válvula estenótica, que supone una dificultad para el llenado ventricular izquierdo. Por ello, suelen tolerar muy mal la FA, porque supone la pérdida de esta contribución de la aurícula al llenado."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Un hombre de 34 años, previamente asintomático, se somete a una manipulación por un podólogo con ulterior infección (panadizo) en dedo gordo del pie. Diez días más tarde comienza con afectación del estado general y fiebre de 38,5 ºC, por lo que ingresa. En la exploración se encuentra una insuficiencia aórtica moderada. Tres días después, está aquejado de disnea creciente, fiebre de 39,5 ºC, 30 rpm y TA de 130/50 mmHg. Los tres hemocultivos tomados a su ingreso son positivos con crecimiento de Staphylococcus aureus. Señale cuál de los siguientes hallazgos exploratorios es MENOS probable encontrar:",
+      "opciones": [
+        "Soplo de Austin Flint.",
+        "Aumento en la intensidad del segundo ruido.",
+        "Clic sistólico de eyección.",
+        "Soplo diastólico precoz."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El cuadro sugiere una insuficiencia aórtica por una endocarditis infecciosa, lo que explicaría las opciones de respuesta 1 y 4. La duda quedaría entre las opciones 2 y 3. El clic protosistólico es el hallazgo más característico en la exploración física de la válvula aórtica bicúspide, que no sería raro encontrar en un paciente joven con endocarditis sobre la válvula aórtica, ya que dicha malformación predispone a la endocarditis, sin embargo en la insuficiencia aórtica el segundo ruido (su componente aórtico) está disminuido, dado que los velos no coaptan adecuadamente al cerrarse la válvula (respuesta 2 correcta)."
+    }
+  ]
+}

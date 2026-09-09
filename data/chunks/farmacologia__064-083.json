@@ -1,0 +1,571 @@
+{
+  "materia": "farmacologia",
+  "paginaInicio": 64,
+  "paginaFin": 83,
+  "anomalias": [
+    "p69: en el comentario de la pregunta del eritema difuso no se rasterizaron comillas ni guiones: aparece '?precisamente esta ha sido preguntada- ,' y '?síndrome del hombre rojo?'. Lo mismo ocurre en el comentario de los glucopéptidos (p73)",
+    "p69: el comentario de la digoxina dice 'es efectiva en el control de la frecuencia en reposo, pero durante el ejercicio, por ello se emplea...': falta la negación ('pero no durante el ejercicio') y la frase queda incoherente con la opción 3 marcada como correcta",
+    "p70: el comentario de los ésteres de la colina contiene una tabla (columnas Cardiovascular / Gastrointestinal / Vías urinarias / Pupila / Nicotínica) que hubo que linealizar en la explicación",
+    "p71: en el caso clínico del varón de 58 años la analítica indica 'K 74 mmol/L', valor de potasio imposible (incompatible con la vida); además el comentario afirma que hay hipopotasemia",
+    "p71: el comentario del mismo caso describe una cetoacidosis diabética pero justifica la respuesta (metformina) por acidosis láctica, y cierra diciendo que el resto de fármacos no tienen descrita la cetoacidosis como reacción adversa",
+    "p74: en el enunciado 'intoxicación aguda por un opioide agonista m puro' la letra µ (mu) no se rasterizó y aparece como 'm'",
+    "p76: el comentario del síndrome miasténico habla de 'los otros cuatro antiepilépticos' cuando solo hay 3 opciones distintas de la correcta, y comenta el fenobarbital, que no figura entre las opciones",
+    "p77: el enunciado de la pregunta de la neumonía comunitaria empieza truncado ('días después de comenzar el tratamiento...'), falta el número de días que debía precederlo",
+    "p79: el comentario de 'Señale la respuesta INCORRECTA' analiza la anfotericina B, que no figura entre las opciones (la opción 4 es la colistina)",
+    "p83: el comentario afirma que 'el porcentaje corporal de agua y el de grasa es menor en niños que en adultos', lo que contradice la justificación de la opción 1 (mayor volumen de distribución de los hidrosolubles en niños)"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 64,
+      "enunciado": "Señale cuál de las siguientes cefalosporinas es más activa frente a Pseudomonas aeruginosa:",
+      "opciones": [
+        "Ceftriaxona.",
+        "Cefoxitina.",
+        "Cefotaxima.",
+        "Ceftazidima."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Por lo general, las cefalosporinas, incluidas las de tercera generación más comunes (cefotaxima, ceftriaxona), no tienen buena actividad frente a Pseudomonas. Sin embargo, algunas cefalosporinas de tercera generación, de las que debes recordar solo la ceftazidima, destacan por su gran actividad sobre Pseudomonas y se utilizan como tratamiento de elección asociadas a aminoglucósidos en las infecciones por este germen (opción 4 correcta). En cuanto a las cefalosporinas de cuarta generación, el espectro de la cefepima es similar al de cefotaxima y ceftriaxona, pero además posee una actividad antipseudomonas comparable a ceftazidima, por lo que se utiliza en monoterapia."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Ante un paciente con clínica de crisis generalizadas tónico-clónicas usted decide iniciar un tratamiento con valproato. Entre las recomendaciones que debe darle, no se incluye:",
+      "opciones": [
+        "Debe tomar el fármaco con alimentos para minimizar la incidencia de náuseas, vómitos y anorexia.",
+        "Puede provocar caída del cabello.",
+        "Puede causar irregularidades del ciclo menstrual.",
+        "Es muy probable que el paciente pierda peso, sobre todo a dosis elevadas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 4 correcta: Un efecto frecuente del tratamiento con valproato es el aumento de peso, que es dosis-dependiente."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "En caso de intoxicación todas las benzodiacepinas comparten el mismo. De los siguientes, indique de cual se trata.",
+      "opciones": [
+        "Naltrexona.",
+        "Flumacenilo.",
+        "Ácido tranexámico.",
+        "Sulfato de protamina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta: El antídoto indicado para las intoxicaciones por benzodiacepinas es el flumacenilo, independientemente del fármaco causante de la intoxicación."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Mujer de 35 años de edad que acude a urgencias por presentar orina turbio-hemática y síndrome miccional agudo. El laboratorio de microbiología informa en la tinción de Gram de la orina de cocos gram positivos en cadenas. A las 24 horas el cultivo indica la presencia del microorganismo Enterococcus faecalis. Si no dispone de antibiograma ¿qué antibiótico administraría?",
+      "opciones": [
+        "Estreptomicina.",
+        "Cefuroxima.",
+        "Quinupristina-dalfopristina.",
+        "Ampicilina."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Si tienes que recordar algún detalle sobre este microorganismo grampositivo, debería ser su resistencia a los antibióticos. Por ejemplo, posee una resistencia intrínseca a las cefalosporinas que hace que no pueda ser tratado con ningún antibiótico de este grupo, incluyendo los de última generación. Sin embargo, sí suele ser sensible a ampicilina (respuesta correcta 4). Lo habitual es utilizarla junto a un aminoglucósido, que suele ser la gentamicina, buscando la sinergia antibiótica."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Mujer de 72 años en tratamiento crónico para HTA e insuficiencia cardiaca leve que acude a consulta por presentar diversas áreas con edema indurado, bien demarcado, eritematoso pero no pruriginoso, sin descamación y de rápida instauración. Refiere que le ha pasado varias veces, sobretodo en lengua y labios, y que normalmente le desaparece sin más. No comenta ningún desencadenante de interés de los episodios. ¿Qué fármaco es el que más probablemente provoca esta reacción adversa?",
+      "opciones": [
+        "Propanolol",
+        "Furosemida",
+        "Enalapril",
+        "Digoxina"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta es el enalapril (opción 3), ya que nos están describiendo un caso de angioedema provocado por el uso de este fármaco. A pesar de no ser una reacción adversa muy frecuente, ya se ha preguntado hasta la saciedad otros de los efectos secundarios más frecuentes de los IECA como son la tos seca, la hiperpotasemia y la insuficiencia renal en pacientes monorrenos, por lo que no sería extraño que nos preguntasen por esta reacción adversa no tan frecuente, pero sí bastante típica."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "A la hora de administrar fármacos a mujeres gestantes es necesario recordar que se producen una serie de cambios que van a alterar la absorción y eliminación de los mismos en estas pacientes. Respecto a los cambios fisiológicos en el embarazo, señale la opción falsa.",
+      "opciones": [
+        "Disminuye la filtración glomerular.",
+        "Aumenta el flujo sanguíneo en piel, mucosas y músculo.",
+        "Aumenta el agua corporal.",
+        "Disminuye la grasa subcutánea."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Elegiremos la opción 1: Entre los cambios fisiológicos que ocurren en el embarazo se encuentra el aumento del filtrado glomerular. El resto de opciones son correctas."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "¿Qué tienen en común los fármacos vincristina, vindesina, paclitaxel y docetaxel?",
+      "opciones": [
+        "Son alcaloides de la vinca.",
+        "Están catalogados como fármacos antimetabolitos.",
+        "Son fármacos que se fijan a la tubulina.",
+        "Todos son productos naturales."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los fármacos que se citan en el enunciado tienen en común que su acción farmacológica se fundamenta en su capacidad de unión a la tubulina (respuesta 3 correcta) y no en la alteración de la síntesis de ARN y ADN propia de los fármacos antimetabolitos. Sin embargo, sólo la vincristina y la vindesina son alcaloides de la vinca; el paclitaxel y el docetaxel son taxanos (taxoides).\n\nAunque el origen de estos fármacos es vegetal, la vindesina es un análogo semisintético de la vincristina; el paclitaxel es un producto natural, pero el docetaxel es un producto semisintético."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "El hígado o la pared intestinal metabolizan algunos fármacos con tanta eficacia que la cantidad de los mismos que alcanza la circulación sistémica es considerablemente inferior a la cantidad absorbida. De los siguientes, indique cuál es el fármaco que con menor probabilidad sufrirá dicho efecto:",
+      "opciones": [
+        "Ácido acetilsalicílico",
+        "Propanolol",
+        "Heparina no fraccionada",
+        "Levodopa"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La heparina no fraccionada (respuesta 3 correcta) se administra en la mayoría de los casos por vía intravenosa o intraarterial, de forma que apenas sufrirá efecto de primer paso y su biodisponibilidad en dichas situaciones será del 100%, mientras que el resto de fármacos son generalmente administrados por vía oral."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "¿Cuál de los siguientes grupos de antibióticos produce con más frecuencia colitis pseudomembranosa?:",
+      "opciones": [
+        "Lincosamidas.",
+        "Macrólidos.",
+        "Aminoglucósidos.",
+        "Polimixinas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es importante ya que la colitis pseudomembranosa es un efecto adverso de los antbióticos muy preguntable en todos sus aspectos. Está producida por las toxinas A y B del Clostridium difficile, un anaerobio saprófito del colon cuyo crecimiento se ve favorecido por la supresión de la microflora normal como consecuencia de un tratamiento farmacológico. Aunque casi todos los antibióticos pueden producir este síndrome, debes recordar que la clindamicina (que es una lincosamina) es el causante más común. Recuerda también que se trata con metronidazol o con vancomicina por vía oral."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "La FDA ha creado una clasificación de los fármacos en base a la evidencia disponible sobre ellos respecto a su toxicidad fetal. ¿Qué categoría tendría un fármaco con riesgo fetal confirmado?",
+      "opciones": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El riesgo de toxicidad fetal de los fármacos se clasifica en las siguientes categorías (FDA):\n\nA. Fármacos seguros. Ausencia de teratogenicidad comprobada.\n\nB. Poco riesgo, se pueden utilizar con relativa seguridad.\n\nC. Mayor riesgo, aunque sólo se haya demostrado teratogenicidad animal, pero no humana.\n\nD. Riesgo fetal confirmado, sólo deben utilizarse si el beneficio supera con mucho al riesgo.\n\nE. Contraindicados, ya que su beneficio nunca supera el riesgo."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "El mecanismo de acción del cotrimoxazol (trimetoprim + sulfametoxazol) es:",
+      "opciones": [
+        "Inhibición del metabolismo celular por interferencia en la utilización del ácido fólico.",
+        "Inhibición de la síntesis de la pared celular.",
+        "Creación de poros en la membrana celular.",
+        "Interferencia en la síntesis proteica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los mecanismos de acción de los principales antibióticos es un tema bastante preguntado, por lo que es importante conocerlos. Los dos componentes del cotrimoxazol bloquean la síntesis de ácido fólicoen dos etapas diferentes. El sulfametoxazol y las sulfamidas, por su estructura análoga a la del ácido para- aminobenzoico (PABA), inhiben competitivamente la incorporación del PABA para formar el ácido tetrahidropteroico, ejerciendo una acción bacteriostática. A su vez, el trimetroprim inhibe la dihidrofolato-reductasa y de este modo interfiere en la transformación de dihidrofolato en tetrahidrofolato, que es el producto final de la vía. También es solo bacteriostático. Con su asociación se consigue un bloqueo secuencial de la cascada de síntesis y se potencia la acción de cada componente, siendo bactericida. Es un ejemplo de sinergia antibiótica."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Paciente de 80 años diagnosticado de cáncer de próstata estadio IV con múltiples metástasis óseas en columna vertebral y pelvis, actualmente en seguimiento por paliativos y en tratamiento con opioides para controlar el dolor. De los efectos que se nombran a continuación, señale cuál NO es producido frecuentemente por dicha familia de fármacos:",
+      "opciones": [
+        "Efecto analgésico.",
+        "Miosis.",
+        "Elevación de la tensión intracraneal.",
+        "Activación de la respuesta inmunitaria."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los opioides son unos fármacos con uso ampliamente extendido tanto en la atención al paciente en cuidados paliativos como alivio sintomático del dolor. Entre sus efectos destacan la analgesia (propiedad terapéutica más importante), depresión respiratoria con aumento de la PCO2, miosis, hipotermia de origen hipotalámico, náuseas y vómitos, elevación de la tensión intracraneal, retención aguda de orina, tolerancia y dependencia física; sin embargo, sobre el sistema inmunitario, lo que producen los opioides son una acción DEPRESORA (marcamos la opción de respuesta 4)."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Un varón de 67 años, ingresado por una colecistectomía, presenta fiebre sin clara focalidad. En el hemocultivo extraído crecen cocos Grampositivos. El cirujano que trata a este enfermo le instaura un tratamiento antibiótico tras el cual el paciente presenta un eritema difuso. ¿Qué antibiótico pautó adecuadamente el cirujano?:",
+      "opciones": [
+        "Cotrimoxazol.",
+        "Aztreonam.",
+        "Vacomicina.",
+        "Ceftacidima."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las reacciones adversas más frecuentes de los principales antibióticos es un tema bastante preguntado ?precisamente esta ha sido preguntada- , por lo que debes conocerlas. La reacción que presenta el enfermo del caso es el denominado ?síndrome del hombre rojo? y es el efecto adverso más frecuente de la vancomicina. Consiste en una eritrodermia de cara y tronco superior y tiene relación con la liberación de histamina. No ocurre con otros glucopéptidos como la teicoplanina. Otros efectos son la ototoxicidad y la nefrotoxidad, que se potencian con el uso concomitante de aminoglucósidos. Además, recuerda que el antibiótico estaba bien pautado porque el espectro de la vancomicina se limita a cocos grampositivos."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "El Tolvaptán es un diurético que actúa a nivel del túbulo colector medular, inhibiendo a la acuaporina 2 y reduciendo la reabsorción de agua a este nivel. Recientemente, se ha demostrado su utilidad en una enfermedad crónica renal, ¿sabría indicar cuál entre las siguientes opciones?",
+      "opciones": [
+        "Nefropatía Diabética",
+        "Enfermedad poliquística del adulto",
+        "Glomerulonefritis mesangiocapilar tipo I",
+        "Nefropatía lúpica"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La enfermedad poliquística del adulto es una enfermedad hereditaria autosómica dominante, crónica y progresiva que conlleva a la pérdida de la funcionalidad de los riñones. El tolvaptán ha demostrado recientemente retrasar la progresión de esta enfermedad y de la insuficiencia renal crónica, así como la disminución de otros síntomas, siendo el primer fármaco específico comercializado para esta patología."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "¿Qué caracteriza a la digoxina respecto al resto de fármacos frenadores?",
+      "opciones": [
+        "Tiene un rango terapéutico amplio.",
+        "Su principal efecto adverso es afectación del SNC.",
+        "Controla la frecuencia cardiaca en reposo, pero no durante el ejercicio.",
+        "Suele ser de elección en pacientes jóvenes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La digoxina es efectiva en el control de la frecuencia en reposo, pero durante el ejercicio, por ello se emplea generalmente en pacientes ancianos. Es un fármaco que requiere una monitorización estrecha por el estrecho intervalo terapéutico que posee."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Los ésteres de la colina son fármacos colinérgicos de acción directa, cuya acción farmacológica es consecuencia de la activación de receptores colinérgicos (bien periféricos o bien centrales) y de su capacidad de activar los receptores muscarínicos, nicotínicos o ambos. Señale cuál de los siguientes fármacos NO presenta actividad farmacológica en el sistema indicado.",
+      "opciones": [
+        "Metacolina: Fuerte acción a nivel cardiovascular.",
+        "Carbacol: Fuerte acción a nivel gastrointestinal.",
+        "Betanecol: Fuerte acción a nivel gastrointestinal.",
+        "Betanecol: Fuerte acción cardiovascular."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la tabla que se muestra a continuación se detalla la acción farmacológica de diversos ésteres de la colina con su respectiva acción farmacológica.\n\nCardiovascular Gastrointestinal Vías urinarias Pupila Nicotínica\nAcetilcolina ++ ++ ++ + ++\nMetacolina +++ ++ ++ + +\nCarbacol + +++ +++ ++ +++\nBetanecol - +++ +++ ++ -"
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Uno de los siguientes mecanismos NO es propio de la resistencia a betalactámicos:",
+      "opciones": [
+        "Alteración del receptor ribosómico.",
+        "Producción de enzimas inactivantes.",
+        "Alteración de la permeabilidad de las cubiertas externas.",
+        "Alteración de los sistemas autolíticos celulares."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los mecanismos de resistencia bacteriana a los antibióticos han sido preguntados alguna vez en los últimos años, concretamente sobre los betalactámicos y aminoglucósidos. Recuerda que la producción de betalactamasas es el mecanismo de resistencia a los betalactámicos más frecuente e importante. Estas enzimas hidrolizan el anillo betalactámico e inactivan el antibiótico. Otro mecanismo importante es la alteración de las PBPs, donde se fijan los betalactámicos para ejercer su acción. El otro mecanismo menos importante es la alteración de la permeabilidad de las cubiertas celulares, mediante el cual los gramnegativos pierden las porinas que transportan el antibiótico hasta su punto de fijación (PBPs). En cambio, la alteración del receptor ribosómico es un mecanismo de resistencia a los antibióticos que actúan inhibiendo la síntesis proteica mediante su unión al ribosoma bacteriano, como los macrólidos, las tetraciclinas o la clindamicina. Los betalactámicos, como actúan inhibiendo la síntesis de pared bacteriana, no se verían afectados por esta alteración."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "¿Cuál de las siguientes vías de administración tiene mayor metabolismo de primer paso?",
+      "opciones": [
+        "Rectal.",
+        "Sublingual.",
+        "Intramuscular.",
+        "Subcutánea."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta de características puramente memorística. A la hora de elegir la forma de administrar un fármaco hay que conocer que por razones anatómicas la vía rectal de forma análoga a la oral son vías que van a parar a la circulación portal, por ello en fármacos que son inactivados en gran medida por el primer paso hepático habrá que elegir una vía donde esto no ocurra, como cualquiera de las otras opciones para aumentar su biodisponibilidad,"
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Señale la respuesta CORRECTA. En pacientes metabolizadores lentos del CYP2D6 se esperaría encontrar:",
+      "opciones": [
+        "Una reducción de la eficacia analgésica de codeína.",
+        "Ineficacia del tratamiento con acenocumarol.",
+        "Potenciación del efecto sinérgico de codeína con paracetamol.",
+        "Requerimiento de una dosis superior de amitriptilina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta muy compleja y completamente memorística, nos hablan de los metabolizadores lentos del CYP2D6 (relacionado con el citocromo p450) y el metabolismo de los fármacos a nivel hepático, concretamente con las reacciones de oxidación. La opción correcta es la 1, disminución de la eficacia analgésica de la codeína."
+    },
+    {
+      "paginaPdf": 71,
+      "enunciado": "Varón de 58 años de edad. En los antecedentes personales presenta HTA en tratamiento con valsartan y verapamilo; Diabetes Mellitus tipo 2 en tratamiento con metformina; hiperlipemia en tratamiento con gemfibrozilo. Acude a urgencias con cuadro de horas de evolución con sensación de mareo y cansancio clínico acompañado de importante cortejo vegetativo. Exploración física: TA 90/70, glucemia capilar 190. Paciente cianótico y muy afectado, con un ritmo sinusal a 48 lpm. taquipneico a 46 rpm, ausencia de pulsos periféricos y dolor abdominal. generalizado sin focalidad ni signos de irritación peritoneal. Gasometría arterial: pH 7,21, pO2 61, pCO2 46, HCO3 18, SatO2 86 y un exceso de base (EAB) de -10. Analítica de sangre: glucosa 551, Urea 40, Creatinina 1,9, ASAT 231, ALAT 270, CPK 20, troponina 0,0, K 74 mmol/L, Na 131 mmol/L y un anión GAP de 29,3. Analítica de orina: cuerpos cetónicos positivos. Indique el fármaco causante del cuadro clínco.",
+      "opciones": [
+        "Gemfibrozilo",
+        "Valsartan",
+        "Metformina",
+        "Verapamilo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cuadro clínico que presenta el paciente es una cetoacidosis diabética caracterizada por un inicio brusco acompañado de hiperventilación, dolor abdominal, somnolencia y coma, pudiendo llegar a PCR. La cetoacidosis diabética (CAD) es la forma de debut de casi el 30% de los diabéticos. También puede aparecer como complicación durante el tratamiento habitual de un diabético ya conocido. Su causa es una deficiencia absoluta o relativa de insulina junto a un incremento de hormonas contrareguladoras, produciéndose un estado catabólico acelerado que condiciona una hiperglucemia y cetonemia mantenidas. La hiperosmolaridad resultante produce una diuresis osmótica con deshidratación y perdida de electrolitos. Así, los hallazgos bioquímicos más frecuentes son: hiperglucemia, acidosis metabólica con anión GAP aumentado), hiponatremia e hipopotasemia.\n\nLa metformina (junto a fenformina y la butformina) es un antidiabético oral dentro de la familia de Biguanidas, utilizado en el tratamiento de la diabetes mellitus no insulíndependiente. En algunos pacientes su uso puede predisponer a acidosis láctica, especialmente en aquellos que presentan factores predisponentes asociados (insuficiencia respiratoria, insuficiencia hepática o enfermedades cardiovasculares) y/o empleo de dosis elevadas del fármaco. (Respuesta 3 correcta). El resto de fármacos mencionados no tienen descritos la cetoacidosis diabética como reacción medicamentosa adversa."
+    },
+    {
+      "paginaPdf": 72,
+      "enunciado": "De entre los siguientes mecanismos de acción señale aquél que NO es utilizado por ningún agente antibacteriano:",
+      "opciones": [
+        "Inhibición de la síntesis de la pared celular.",
+        "Inhibición de la síntesis proteica.",
+        "Inhibición de la síntesis de ácidos nucleicos.",
+        "Alteración de la permeabilidad de la membrana nuclear."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El mecanismo de acción de los principales antibióticos ha sido preguntado varias veces en los últimos años, por lo que es importante conocerlos. Excepto el último enunciado, todos son mecanismos de acción de los antibacterianos. La inhibición de la síntesis de pared celular es el mecanismo de los betalactámicos, los glucopéptidos y algunos antibióticos tópicos. Mediante la inhibición de la síntesis proteica actúan los aminoglucósidos, los macrólidos, la clindamicina, el cloranfenicol, las tetraciclinas, etc. Otros inhiben la síntesis de ácidos nucleicos como las quinolonas, las rifampicinas, el metronidazol o el etambutol. También hay algún antibacteriano que actúa alterando la permeabilidad de la membrana celular como las polimixinas, aunque este mecanismo es más propio de los antifúngicos. Sin embargo, ningún antibacteriano altera la permeabilidad de la membrana nuclear, principalmente porque las bacterias son procariotas y carecen de núcleo celular estructurado."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "Un paciente de 64 años ingresa por insuficiencia cardíaca izquierda. Se le realiza un ecocardiograma, en el que destaca la existencia de una fracción de eyección normal, un aumento de los espesores de la pared del ventrículo izquierdo, de predominio en el tabique del mismo. Uno de los siguientes fármacos NO empeorará el estado hemodinámico del paciente:",
+      "opciones": [
+        "Dobutamina.",
+        "Nifedipina.",
+        "Prazosín.",
+        "Verapamilo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Una pregunta muy importante sobre la insuficiencia cardíaca y su tratamiento. No debes fallar preguntas como ésta, ya que hace referencia a un concepto fundamental.\n\nEl paciente que nos presentan tiene una insuficiencia cardíaca DIASTÓLICA, dato que podemos deducir de su fracción de eyección, que es normal. Si fuese una insuficiencia sistólica, este parámetro estaría deprimido. Por tanto, dado que el problema es la diástole, lo que debemos hacer es PROLONGARLA, para favorecer el llenado ventricular. La forma de conseguirlo es disminuir la frecuencia cardíaca, para lo que podríamos emplear verapamilo. Date cuenta de que este fármaco es inotropo negativo, por lo que estaría contraindicado si se tratase de una insuficiencia cardíaca sistólica.\n\nEl resto de las opciones empeorarían la clínica, ya que producen taquicardia, acortan la duración de diástole y reducirían aún más el llenado del ventrículo."
+    },
+    {
+      "paginaPdf": 73,
+      "enunciado": "Respecto a los glucopeptidos señale la FALSA:",
+      "opciones": [
+        "Son bactericidas, al interferir en la adición de nuevas subunidades en la pared celular.",
+        "La versatilidad de sus vías de administración favorece su indicación y uso.",
+        "La teicoplanina tiene una vida media más larga que la vancomicina.",
+        "Tienen sinergia bactericida con los aminoglucosidos y la rifampicina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es interesante porque repasa las principales características de los glucopéptidos: vancomicina y teicoplanina. Actúan inhibiendo la síntesis de pared celular interfiriendo en la adición de nuevas subunidades, por lo que son bactericidas. Su espectro se limita a cocos grampositivos incluyendo estafilococos meticilin- resistentes (MRSA), frente a los que son el tratamiento de elección. Sin embargo, su uso está restringido porque se utilizan por vía parenteral: por vía iv la vancomicina y por vía iv e im la teicoplanina. Esta última, además, tiene una vida media más larga que la vancomicina, por lo que se usa intramuscularmente en infecciones crónicas por MRSA. Tienen sinergia bactericida con los aminoglucósidos y la rifampicina, por lo que se suelen utilizar pautas combinándolos con éstos para poder utilizar dosis menores. Finalmente, recuerda que la reacción adversa más frecuente de la vancomicina es el ?síndrome del hombre rojo?, que consiste en una eritrodermia de cara y tercio superior de tronco relacionada con la liberación de histamina. Otros efectos son la ototoxicidad y la nefrotoxidad, que se potencian con el uso concomitante de aminoglucósidos."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "El volumen de distribución aparente (Vd) es el volumen teórico en el que necesitaríamos distribuir uniformemente una cantidad conocida de un fármaco para que cualquier compartimento del organismo tenga la misma concentración que el plasma. En relación con este concepto, marque la opción INCORRECTA:",
+      "opciones": [
+        "Las moléculas grandes o ionizadas difunden peor.",
+        "Si un antibiótico (ej Levofloxacino) tiene un Vd muy alto (ej Vd=100L), nos indica que el fármaco es liposoluble, por lo que servirá para tratar bacterias intracelulares.",
+        "Si un fármaco tiene un volumen de distribución aparente elevado, tendrá una vida media más corta.",
+        "Si un fármaco tiene una alta unión a proteínas, el volumen de distribución será bajo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción 3 es incorrecta, ya que si un fármaco tiene un elevado volumen de distribución aparente implica que la concentración en plasma será más baja y que el fármaco tendrá mayor penetración a los tejidos. Si el fármaco está más repartido por el organismo, el cuerpo tardará más tiempo en recogerlo de los distintos tejidos y eliminarlo. Por tanto, el volumen de distribución del fármaco influye en la vida media de forma directamente proporcional.\n\nLos fármacos grandes, con alta unión a proteínas o ionizados tendrán un menor volumen de distribución aparente.\n\nEl volumen de distribución en el organismo es un volumen aparente, no se trata de un valor real sino de un parámetro farmacocinético que proporciona un valor matemático indicativo del grado de distribución tisular del fármaco.\n\nDiversos factores fisiológicos y patológicos, como la edad, el embarazo o la insuficiencia renal pueden variar la cantidad distribuida en los diferentes tejidos del organismo y, por lo tanto, modificar la respuesta terapéutica."
+    },
+    {
+      "paginaPdf": 74,
+      "enunciado": "¿Cuáles de las siguientes son manifestaciones clínicas típicas de la intoxicación aguda por un opioide agonista m puro?:",
+      "opciones": [
+        "Miosis, depresión respiratoria y coma.",
+        "Depresión respiratoria, hipertensión arterial y miosis.",
+        "Midriasis, hipotermia, hipotensión, bradicardias.",
+        "Depresión respiratoria, hipertermia y taquiarritmias."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta fácil sobre la intoxicación por opiáceos. Se explica en clase. La combinación de Miosis y depresión respiratoria y neurológica es clásica."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "Cuál de las siguientes no se consideraría una reacción adversa medicamentosa (RAM):",
+      "opciones": [
+        "Hipopotasemia secundaria a diuréticos de asa.",
+        "Hepatitis aguda fulminante secundaria a sobredosis de paracetamol.",
+        "Fracaso renal agudo secundario a antiinflamatorios no esteroideos.",
+        "Necrólisis epidérmica tóxica secundaria a lamotrigina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las reacciones adversas medicamentosas (RAM) consisten en cualquier efecto indeseado derivado del uso de medicamentos a dosis correctas, por lo que una intoxicación y sus consecuencias no se consideran RAM (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "¿Cuál es el mecanismo de acción del trimetoprim?:",
+      "opciones": [
+        "Evitar la reducción de dihidrofolato a tetrahidrofolato.",
+        "Inhibición de la síntesis proteica.",
+        "Unión a la subunidad 50 s ribosomal.",
+        "Inhibición de la síntesis de DNA."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El mecanismo de acción de los principales antibióticos ha sido preguntado varias veces en los últimos años, por lo que es importante conocerlos. El trimetoprim actúa inhibiendo la última reacción de la vía de síntesis de ácido fólico, ya que es un inhibidor competitivo de la dihidrofolato reductasa, que reduce el dihidrofolato a tetrahidrofolato. Las sulfamidas también inhiben la síntesis de folatos, aunque a otro nivel de la vía."
+    },
+    {
+      "paginaPdf": 75,
+      "enunciado": "¿Cuál de los siguientes fármacos es un INDUCTOR enzimático?",
+      "opciones": [
+        "Carbamazepina",
+        "Claritromicina",
+        "Ciclosporina",
+        "Ketoconazol"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un INDUCTOR enzimático es una sustancia o fármaco que al unirse a una enzima provoca un aumento en su actividad. En este caso la opción correcta es la 1. Carbamazepina. Existen otros ejemplos de inductores dentro del grupo de antiepilépticos, como la Fenitoína o el Fenobarbital. También la Rifampicina y el alcohol forman parte de este grupo.\n\nEl resto de las opciones son, por el contrario, ejemplos de INHIBIDORES enzimáticos. Los macrólidos tienen esta peculiaridad, grupo en el que encontramos tanto antibióticos como la Eritromicina y la Claritromicina, pero también macrólidos no antibióticos como la Ciclosporina. Otro grupo de inhibidores lo constituyen los antifúngicos imidazólicos (Ketoconazol, fluconazol, itraconazol…) o antirretrovirales como el Ritonavir, muy empleado para potenciar la acción de otros antirretrovirales al aumentar sus concentraciones plasmáticas."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "¿Cuál de estos fármacos puede producir un síndrome miasténico?:",
+      "opciones": [
+        "Valproato.",
+        "Fenitoína.",
+        "Carbamazepina.",
+        "Trimetadiona."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta es muy difícil y no debe preocuparte haberla fallado. De los antiepilépticos, debes conocer sus indicaciones más importantes y los efectos secundarios más típicos. La trimetadiona se usa para tratar un tipo de crisis llamadas ausencias típicas (petit mal) cuando otros medicamentos no han logrado tener efecto. La aparición de un síndrome miasténico es un raro efecto secundario de este fármaco (respuesta 4 correcta). Quizá podrías haber intuido que la respuesta correcta era ésta si piensas que los otros cuatro antiepilépticos son mucho más conocidos y, en caso de tener tal efecto adverso, al menos debería \"sonarte\". De la fenitoína, debes recordar que a veces produce hipertrofia gingival, hipertricosis y ataxia. El ácido valproico puede ser causa de alopecia, edemas y ganancia de peso. La carbamacepina es capaz de producir agranulocitosis en algunos pacientes, como reacción idiosincrásica. En el caso del fenobarbital, el efecto secundario más frecuente es la sedación."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "Le traen a Urgencias un varón de 55 años, con antecedentes de varios intentos autolíticos, al que le han encontrado en su domicilio en el suelo con varios blísteres de paracetamol vacíos. Tras administrarle carbón activado, ¿Qué tratamiento es el más adecuado?",
+      "opciones": [
+        "Sulfato de protamina.",
+        "N-acetilcisteína.",
+        "Flumacenilo.",
+        "Naloxona."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El antídoto empleado para la intoxicación por paracetamol es N-acetilcisteína, dado que favorece la regeneración de glutatión hepático, fundamental para su metabolismo."
+    },
+    {
+      "paginaPdf": 76,
+      "enunciado": "¿Cuál es la reacción adversa más típica de la vancomicina?",
+      "opciones": [
+        "Angioedema.",
+        "Hepatitis aguda.",
+        "Síndrome de Reye.",
+        "Síndrome del hombre rojo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "EL efecto secundario más característico de la vancomicina es el síndrome del hombre rojo, que se produce principalmente por la administración rápida de dicho fármaco. Se resuelve con la administración a un flujo más lento, o bien retirándola."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "días después de comenzar el tratamiento de una neumonía comunitaria, un paciente acude a nuestra consulta por, reaparición de la fiebre, ictericia y mal estar general, objetivándose en la analítica hepática: GOT, 150; GPT, 220; GGT, 680; y fosfatasa alcalina 1200: ¿Sospecharía que fue tratado con?:",
+      "opciones": [
+        "Amoxicilina.",
+        "Tetraciclinas.",
+        "Eritromicina-estolato.",
+        "Azitromicina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es importante que conozcas los efectos adversos más frecuentes de los antibióticos más comunes, ya que prácticamente cada año cae una pregunta. Aunque los macrólidos se caracterizan por su escasa toxicidad, hay algunas reacciones adversas, especialmente de la eritromicina, significativas. Las más frecuentes son las gastrointestinales (hasta en un 50%), ya que la eritromicina estimuila la motilidad gastrointestinal. También produce flebitis con la administración iv. Como en el caso de la pregunta, puede causar hepatitis colestásica, especialmente si se administra en forma de estolato, con dolor abdominal, náuseas y vómitos, seguidos por ictericia, fiebre y aumento de las transaminasas. A dosis altas también puede producir ototoxicidad. Finalmente, la eritromicina es uno de los inhibidores del sistema de citocromo p450 que hay que recordar. El resto de macrólidos, más modernos, tienen mejor tolerancia."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "Un paciente acude a las urgencias de un hospital con una fuerte diarrea. El paciente se encuentra en tratamiento con antibióticos. ¿Cuál de los siguientes enunciados se ajusta mejor a esta situación?",
+      "opciones": [
+        "La diarrea posiblemente esté causada por una intoxicación alimentaria.",
+        "Es necesario considerar la posible relación entre el tratamiento con antibióticos y la diarrea.",
+        "La diarrea es una reacción alérgica que puede desencadenarse al tomar algunos antibióticos.",
+        "La diarrea es un efecto colateral de algunos antibióticos orales, por lo que muy posiblemente el paciente la sufra a causa del tratamiento."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tratamiento con antibióticos muy posiblemente tenga relación la diarrea que sufre el paciente, ya que, como indica el enunciado número 4, es un efecto colateral de muchos antibióticos orales.\n\nAdemás del efecto terapéutico, los fármacos pueden causar distintas reacciones adversas, que pueden clasificarse en cinco grandes grupos:\n\nEFECTOS COLATERALES: efectos que suelen aparecer después de la aplicación de dosis terapéuticas, y que en una situación determinada son indeseables.\n\nREACCIÓN TÓXICA: surge cuando se utilizan dosis superiores de un fármaco a las que indica el margen terapéutico para un paciente determinado.\n\nIDIOSINCRASIA: respuesta anormal que surge en un número muy reducido de pacientes como consecuencia de la administración de un fármaco, determinadas por sus características genéticas.\n\nREACCIÓN ALÉRGICA: respuesta anormal que surge tras la exposición a una dosis normal de fármaco debido a una respuesta inmunológica anómala.\n\nINTERACCIONES ADVERSAS FARMACOLÓGICAS: se deben a la utilización simultánea de dos o más fármacos."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Son efectos secundarios del tratamiento con captopril, EXCEPTO:",
+      "opciones": [
+        "Tos.",
+        "GN membranosa.",
+        "Estimulación de la producción de eritropoyetina.",
+        "Angioedema."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El captopril es un IECA. Son efectos secundarios de los IECAS: tos, insuficiencia renal en pacientes con estenosis bilateral de las arterias renales o en estenosis de la arteria renal principal en un monorreno, rara vez angioedema (algo más frecuente con el enalapril), glomerulonefritis membranosa e hiperpotasemia. Estos efectos son reversibles y desaparecen con la retirada del fármaco. Se ha descrito también neutropenia (principalmente con el captopril). Sin embargo, la estimulación de la producción de eritropoyetina no es un efecto secundario del captopril (respuesta 3 incorrecta)"
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Las nuevas quinolonas actúan:",
+      "opciones": [
+        "Sobre las PBPs.",
+        "Sobre la RNA polimerasa.",
+        "Alterando la DNA girasa.",
+        "Inhibición competitiva con el PABA."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El mecanismo de acción de los principales antibióticos ha sido preguntado varias veces en los últimos años, por lo que es importante conocerlos. Las quinolonas actúan inhibiendo la subunidad A de la DNA- girasa bacteriana, una enzima que regula el superenrollamiento del DNA y la separación de las cadenas de nucleótidos durante la replicación del genoma. Por tanto, interfieren en la replicación del DNA bacteriano y son bactericidas."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Respecto a la escalera analgésica de la OMS es falso:",
+      "opciones": [
+        "Consta de cuatro escalones, donde se encuadran los no opioides, los opioides débiles, opioides fuertes y coadyuvantes.",
+        "Se denominan coanalgésicos a aquellos fármacos que tienen un efecto directo sobre el control del dolor, relacionado específicamente con su causa y/o mecanismo de producción.",
+        "Se denominan coadyuvantes a aquellos fármacos que no tienen un efecto analgésico propio, pero que modifican los factores que pueden aumentar el umbral del dolor.",
+        "Para el tratamiento del dolor neuropático lancinante son de primera elección los anticonvulsionantes como la carbamacepina, la fenitoína o el valproato."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta falsa es la 1 porque la escalera es más corta de lo que dice: tiene tres escalones, y no cuatro. En el primer escalón es donde se encuentran los analgésicos no opiáceos, como los AINEs. En el segundo escalón, los protagonistas son los opiáceos débiles, mientras que en el tercero están los más potentes. Pueden usarse coadyuvantes en cualquiera de los tres escalones. Recuerda que también es posible la combinación de AINEs con opiáceos menores o mayores. Lo que nunca debes hacer es combinar un opiáceo menor con uno mayor, puesto que compiten por el mismo receptor."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Señale la respuesta INCORRECTA:",
+      "opciones": [
+        "El cloranfenicol puede ocasionar trastornos hematológicos importantes.",
+        "La eritromicina puede ser utilizada en determinados casos como droga de sustitución en pacientes alérgicos a la penicilina.",
+        "El metronidazol es una droga exclusivamente antiparasitaria, con la que no se obtienen niveles sanguíneos terapéuticos cuando se administra por vía oral.",
+        "La colistina es un antibiótico polipeptídico activo frente a numerosas bacterias Gram negativas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es importante porque hace hincapié en dos características del metronidazol que debes recordar. En primer lugar, el espectro del metronidazol: es activo frente a anaerobios, pero tanto sean bacterias como protozoos. También se caracteriza por una muy buena biodisponibilidad por vía oral y una distribución que alcanza niveles bactericidas en todos los tejidos del organismo. Además atraviesa muy bien la barrera hematoencefálica, por lo que se utiliza en el tratamiento del absceso cerebral.En cuanto al cloranfenicol, las alteraciones hematológicas son los efectos adversos más importantes, ya que puede causar mielosupresión y hemólisis en pacientes con déficit de G6PD. La eritromicina y otros macrólidos son, en efecto, alternativa en alérgicos a la penicilina en el tratamiento de la neumonía neumocócica, la amigdalitis pultácea y las infecciones de tejidos blandos por S. pyogenes. Finalmente, la anfotericina B no tiene actividad frente a bacterias ya que actúa uniéndose a esteroides de membrana, de los cuales las células procariotas (bacterias) carecen. Por eso su espectro se limita a eucariotas, fundamentalmente a hongos, aunque es activa también frente a algún protozoo como la Leishmania."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Paciente que acude a Urgencias inquieto, tembloroso, que acusa vértigo, acúfenos y tinnitus. Su temperatura corporal es de 39,2 ºC. Pide una gasometría que arroja los siguientes datos: pH 7,43, PaCO2 27 mmHg, bicarbonato = 26 mEq/L, PaO2 82 mmHg. Extrañado por estos datos, decide repetir la gasometría (tras estar hora y media esperándola) y los resultados son: pH 7,32, PaCO2 31 mmHg, PaO2 83 mmHg y bicarbonato = 13 mEq/L. Debemos sospechar:",
+      "opciones": [
+        "Sobredosis por opiáceos.",
+        "Cetoacidosis diabética.",
+        "Abstinencia de opiáceos.",
+        "Salicilismo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta que nos presenta de un modo bastante ilustrativo la clínica de la intoxicación por ácido salicílico (salicilismo). Desde el punto de vista respiratorio, es típica la aparición de dos fases:\n\n1) Alcalosis respiratoria (hiperventilación).\n\n2) Acidosis metabólica, porque se acaba produciendo una acidosis láctica en los casos más graves.\n\nEn el caso expuesto, también aparece su manifestación neurológica más típica y precoz: los acúfenos y el tinnitus. Por otro lado, existe un dato que nos da una pista más: la temperatura de 39,2 ºC. Lo que probablemente ha ocurrido es que este paciente se haya sobredosificado con ácido salicílico en el contexto de un cuadro febril (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Dada su vía de administración, en cuál de los siguientes fármacos esperaría un mayor efecto de primer paso o eliminación presistémica:",
+      "opciones": [
+        "Penicilina G Benzatina.",
+        "Azitromicina.",
+        "Vancomicina.",
+        "Enoxaparina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para responder esta pregunta, debemos conocer cómo se administran los fármacos señalados. La vancomicina es de uso exclusivo intravenoso (salvo para diarrea para C. difficile) por lo que la biodisponibilidad es del 100% y no hay eliminación presistémica. La penicilina G Benzatina es un preparado intramuscular y la enoxaparina una heparina de bajo peso molecular de administración subcutánea; ambas son de administración parenteral y su drenaje venoso no pasa por el hígado, de manera que la eliminación presistémica será baja y la biodisponibilidad alta. La azitromicina, de administración oral, sí tendrá eliminación presistémica intensa a nivel hepático, presentando una biodisponibilidad menor (del 40% aproximadamente). Como idea general, la vía oral o enteral tendrá peor biodisponibilidad que las vías parenterales. Por tanto, respuesta 2 correcta."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Señale cuál de las siguientes afirmaciones es incorrecta:",
+      "opciones": [
+        "La semivida de absorción [t1/2a] es el tiempo que tarda en reducirse a la mitad el número de moléculas que quedan por absorberse y es la inversa de la constante de absorción.",
+        "La fracción de extracción hepática es la fracción del fármaco que hay en el cuerpo que se metaliza en un solo paso por el hígado.",
+        "El efecto de primer paso hepático es el único motivo por el que ciertos fármacos no son absorbidos de forma completa.",
+        "Los fármacos con primer paso hepático poseen una fracción de extracción alta (mayor de 0.7), lo que significa que menos del 30% de la dosis absorbida alcanzará la circulación sistémica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Todas las afirmaciones son correctas a excepción de la respuesta número 3.\n\nLa administración de un fármaco por cualquier vía que no sea la intravenosa puede sufrir una eliminación presistémica y efecto de primer paso, provocando la absorción incompleta a causa de la eliminación o degradación antes de llegar a la circulación sistémica. Por ejemplo, por vía oral un fármaco puede eliminarse por las heces antes de que se complete su absorción, puede ser quelado, degradado por la acción del pH ácido del estómago o de las enzimas digestivas y metabolizado por las bacterias de la luz intestinal. Una vez absorbido en el tracto gastrointestinal puede llegar al hígado a través de la vena porta y ser metabolizado (total o parcialmente) antes de incorporarse a la circulación sistémica."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "¿En cuántas vidas medias de un fármaco se consigue alcanzar el equilibrio estacionario?",
+      "opciones": [
+        "4.",
+        "5.",
+        "6.",
+        "7."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El equilibrio estacionario se alcanza a la 5º vida media, independientemente de la dosis que se administre."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Cuál de las siguientes familias de proteínas llevan a cabo gran parte del metabolismo de los fármacos y son importantes por el gran número de interacciones que protagonizan:",
+      "opciones": [
+        "Citocromos.",
+        "Monooxigenasas.",
+        "Hidrolasas.",
+        "Sulfotransferasas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la farmacocinética, el metabolismo o biotransformación ocurre principalmente en el hígado y es llevado a cabo por una familia de proteínas denominadas citocromos, caracterizadas por contener hierro en forma de grupo hemo, como la hemoglobina. Son muy importantes porque a este nivel ocurren gran número de interacciones farmacológicas por el potencial inductor o inhibidor de algunos fármacos. Por tanto, respuesta 1 correcta. El resto de enzimas recogidas en las opciones 2, 3 y 4 también participan en el metabolismo de fármacos, pero con menor protagonismo."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "El primer paso del metabolismo de muchos fármacos es catalizado por un grupo de oxidasas del citocromo P450. Existen fármacos que pueden inducir la síntesis de estos enzimas. De los siguientes, ¿Cuál no es un inductor enzimático?",
+      "opciones": [
+        "Eritromicina.",
+        "Fenitoína.",
+        "Rifampicina.",
+        "Fenobarbital."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Tanto los barbitúricos como la rifampicina son importantes inductores del citocromo P450."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "Sobre los antibióticos, NO es cierto que:",
+      "opciones": [
+        "La eritromicina es bacteriostática.",
+        "Aminoglucósidos, tetraciclinas y espectinomicina se unen a la subunidad 30S de los ribosomas.",
+        "El cloramfenicol es bacteriostático.",
+        "La rifampicina se une a la subunidad B de la DNA polimerasa."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El mecanismo de acción de los principales antibióticos ha sido preguntado varias veces en los últimos años, por lo que es importante conocerlos. La rifampicina inhibe la RNA- polimerasa dependiente de DNA mediante su unión a la subunidad B de dicha enzima. La eritriomicina y el resto de macrólidos, el cloranfenicol y la clindamicina actúan inhibiendo la síntesis proteica mediante su unión a la subunidad 50S del ribosoma bacteriano. Son todos bacteriostáticos. Finalmente, los aminoglucósidos, las tetraciclinas y la espectinomicina también actúan inhibiendo la síntesis proteica, pero uniéndose a la subunidad 30S."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "¿Cuál de estos fármacos es una succinimida?:",
+      "opciones": [
+        "Etosuximida.",
+        "Etotoína.",
+        "Fenitoína.",
+        "Fenobarbital."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es muy difícil y no debe preocuparte el fallarla. No necesitas conocer los antiepilépticos hasta el punto de saberte los grupos químicos a los que pertenecen. Basta su indicación y su efecto secundario más importante. En el caso de la etosuximida, igual que el ácido valproico, el mecanismo de acción consiste en inhibir los canales de calcio tipo T en el tálamo. Su indicación principal son las crisis de ausencia típicas. En ocasiones, se producen efectos adversos dermatológicos (síndrome de Stevens-Johnson, erupciones lupus- like) y anemias aplásicas. Otro posible efecto adverso es la aparición de parkinsonismo."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "¿Cuál de los siguientes enunciados es correcto?",
+      "opciones": [
+        "Los fármacos hidrosolubles tienen un volumen de distribución (Vd) mayor en niños (en relación con el tamaño de su cuerpo) que en adultos.",
+        "Los fármacos hidrosolubles tienen un volumen de distribución (Vd) menor en niños (en relación con el tamaño de su cuerpo) que en adultos.",
+        "Los fármacos hidrosolubles tienen un volumen de distribución (Vd) igual en niños (en relación con el tamaño de su cuerpo) que en adultos.",
+        "Los fármacos liposolubles tienen un volumen de distribución (Vd) mayor en niños (en relación con el tamaño de su cuerpo) que en adultos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El volumen de distribución se define como el volumen de medio o de líquido hipotético en el que un fármaco se puede distribuir, o el espacio corporal en apariencia disponible para contener un medicamento.\n\nTeniendo en cuenta que el porcentaje corporal de agua y el de grasa es menor en niños que en adultos, el enunciado correcto sería el número 1: \" Los fármacos hidrosolubles tienen un volumen de distribución mayor en niños que en adultos\"."
+    }
+  ]
+}

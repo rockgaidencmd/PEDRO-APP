@@ -1,0 +1,506 @@
+{
+  "materia": "endocrino",
+  "paginaInicio": 19,
+  "paginaFin": 35,
+  "anomalias": [
+    "p21-p22: la µ de microgramos no se rasterizó en la pregunta del carcinoma papilar; el enunciado y las opciones 1 y 2 dicen '200 g/dl', '1,6 g/ml' y '225 g/dl' donde debería leerse µg (además la unidad de una dosis de levotiroxina no es g/dl).",
+    "p25: en la analítica del varón de 29 años el rango de referencia del Colesterol-HDL aparece como '(40.0 - 0.0)', un intervalo invertido e imposible.",
+    "p26: el comentario de la respuesta 4 es internamente incoherente: dice 'sin complicaciones, sin lesiones de órgano diana no factores de riesgo, se puede clasificar en altos riesgo y habrá que mantener un LDL < 100'.",
+    "p29: Resp. Correcta 3 pero el comentario cierra con '(respuesta correcta 4)'; además razona sobre 'La supresión con 8mg DXT', dosis que no figura en ninguna de las cuatro opciones.",
+    "p30: el enunciado de la gestante con Graves dice que 'está en la 20 semana de gestación' y a continuación que 'En la analítica del tercer trimestre se detecta un brote'; la semana 20 corresponde al segundo trimestre."
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 19,
+      "enunciado": "Varón de 17 años con hipertiroidismo por adenoma tóxico de 4 cm en tiroides derecho. ¿Qué tratamiento emplearía?:",
+      "opciones": [
+        "Antitiroideos y Cirugía.",
+        "Antitiroideos y betabloqueantes.",
+        "Betabloqueantes sólo.",
+        "Levotiroxina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Nos presentan a un paciente de 17 años con un cuadro de hipertiroidismo por adenoma tóxico de 4 cms. El tratamiento de esta patología se puede realizar bien con radioyodo (aunque quizás por la edad del paciente en este caso se podría evitar), o la cirugía con extirpación del adenoma. Dado el grado de hipertiroidismo del paciente, de forma previa a la cirugía se deben administrar antitiroideos a dosis elevadas para intentar normalizar las hormonas. Los antitiroideos no deben ser empleados como tratamiento único y definitivo, ya que no curan la patología. Los betabloqueantes deben emplearse como tratamiento sintomático, pero nunca como monoterapia. La levotiroxina nunca está indicada en esta situación."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Respecto a las complicaciones agudas asociadas a la Diabetes señale la respuesta incorrecta:",
+      "opciones": [
+        "La Cetoacidosis Diabética es una forma habitual de complicación aguda de la Diabetes Mellitus tipo 1.",
+        "El Síndrome Hiperglucémico Hiperosmolar es típico de pacientes ancianos diabéticos y está desencadenado por una enfermedad aguda generalmente infecciosa.",
+        "En la Cetoacidosis diabética hay que corregir la acidosis siempre con bicarbonato i.v. independientemente del valor del PH.",
+        "En el Síndrome Hiperglucémico Hiperosmolar, la hidratación es la medida más importante aunque también precisan insulina para mejorar la diuresis osmótica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta incorrecta sería la 3. En la Cetoacidosis diabética no está indicado el tratamiento sistemático con bicarbonato iv. Sólo en casos de acidosis grave con pH < o igual a 6.9."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Con respecto a las incretinas, es INCORRECTO que:",
+      "opciones": [
+        "Las incretinas son péptidos gastrointestinales que estimulan directamente la liberación de insulina.",
+        "Se denomina \"efecto incretina\" a la mayor secreción de insulina tras la administración oral de una cantidad de glucosa que con la misma cantidad administrada por vía intravenosa.",
+        "El GLP-1 se sintetiza en el estómago y tiene una vida media muy corta.",
+        "La enzima dipeptidilpeptidasa-IV es la encargada de degradar el GLP-1."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El GLP-1 se sintetiza en las células L del intestino delgado (opción 3 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "A un niño de tres años con histiocitosis X se le realiza una prueba de deshidratación. Después de tres horas sin beber, presenta una densidad urinaria de 1005 y una osmolaridad plasmática de 300 mOsm/kg. ¿Qué complicación asociada a su enfermedad de base debería sospechar?:",
+      "opciones": [
+        "Polidipsia psicógena.",
+        "Secreción inadecuada de ADH.",
+        "Diabetes insípida de origen central.",
+        "Diabetes insípida de origen nefrogénico."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La prueba de la deshidratación ha dado un resultado positivo: el niño es incapaz de concentrar la orina (osmolaridad urinaria menor de 300 mOsm o densidad menor a 1005) cuando no se le ofrecen líquidos. Esto descarta la polidipsia psicógena y nos hace sospechar una diabetes insípida. Para distinguir si es central o nefrogénica, habría que administrar ADH y comprobar si concentra o no la orina, pero en este caso no tenemos este dato. Sin embargo, nos dicen que tiene una histiocitosis X, enfermedad que a veces afecta al eje hipotálamo - hipofisario, por lo que seguramente la diabetes insípida será central."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Una paciente de 65 años acude a nuestra consulta con un informe médico en el que consta el diagnóstico de bocio multinodular con hipertiroidismo subclínico. ¿Cuál de los siguientes patrones hormonales le corresponde?",
+      "opciones": [
+        "T3 libre normal, T4 libre normal, TSH aumentada.",
+        "T3 libre aumentada, T4 libre aumentada, TSH suprimida.",
+        "T3 libre normal, T4 libre normal, TSH suprimida.",
+        "T3 libre baja, T4 libre baja, TSH aumentada."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Recuerda que en el hipertiroidismo subclínico, la tiroides no necesita la estimulación fisiológica por parte de la TSH para mantener unas concentraciones normales de hormonas tiroideas. Por tanto, la T4 y T3 libre estarán normales con unos niveles suprimidos de TSH."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Un paciente que ingresa en Urgencias por un cuadro de cetoacidosis diabética grave es tratado en la UCI con sueroterapia agresiva, insulina a dosis de 10 UI/h y monitorización. ¿Cuál de las siguientes mediciones considera MENOS útil de cara a las próximas 8 horas?:",
+      "opciones": [
+        "Cetonuria.",
+        "pH y HCO3.",
+        "Na+ y Cl-.",
+        "K+."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El seguimiento analítico de la CAD se realiza mediate las determinaciones seriadas de glucemia, pH, bicarbonato, anión gap e iones, y, si está disponible, beta-hidroxibutirato sérico. La determinación seriada de cuerpos cetónicos en orina no es útil, pues tarda horas o incluso días en desaparecer, pese a la corrección de la acidosis."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "La dieta es uno de los pilares del tratamiento de la diabetes. Sin embargo, puede haber puntos confusos acerca de su verdadero papel. ¿Cuál de los siguientes es cierto?",
+      "opciones": [
+        "Los hidratos de carbono deben evitarse dentro de lo posible, aunque casi nunca se consiguen dietas en que representen menos del 35-40% del aporte calórico total.",
+        "Lo más importante es que se mantenga una dieta adecuada a largo plazo, más que el hecho de que una o dos comidas no se ajusten a ella.",
+        "La composición de la dieta puede ser más flexible en los pacientes con diabetes mellitus tipo 1. Sin embargo, debe ser estricta en la tipo 2, aunque el paciente se trate con insulina.",
+        "La ingesta energética diaria total se calcula en función del grado de hiperglucemia del paciente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La distribución de los principios inmediatos del paciente diabético debe ser igual que la de un individuo no diabético: 55% de H d C, 30% de grasas y 15% de proteínas. El aporte calórico de la dieta depende del peso del paciente y tiene que llevar al paciente a su peso ideal. Lo importante es que la dieta sea seguida a largo plazo, por lo tanto habrá que adaptarla a los gustos del paciente. Se puede ser más flexible en los pacientes tratados con insulina (no sólo los tipo 1) porque podemos adaptar las dosis para cubrir las variaciones. Sin embargo, los pacientes no insulindependientes deben ser mucho más estrictos porque si hacen una ingesta muy importante, no van a tener suficiente reserva de insulina endógena para compensarla."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Varón 56 años, intervenido de carcinoma papilar de tiroides con tiroidectomía total hace 2 años y posterior ablación con I131 en dos ocasiones a los 6 meses posquirúrgicos (100 mC) y un año después (85 mC) por presentar restos tiroideos y metástasis locorregionales. Las cifras de tiroglobulina han ido descendiendo en sucesivos controles. Actualmente en tratamiento con 200 g/dl, de T4, las hormonas tiroideas son: T4: 1,6 g/ml. TSH 2 mU/ml. El paciente está asintomático. Cifras de tiroglobulina indetectables, similares a la de 6 meses anteriores. ¿Cuál sería la actitud con el paciente?",
+      "opciones": [
+        "Aumentar dosis de hormona tiroidea a 225 g/dl para mantener niveles TSH < 0,1 mU/ml. No es necesario hacer más rastreos con I131 ya que la tiroglobulina es normal.",
+        "Aumentar la dosis de hormona tiroidea a 225 g/dl y realizar un nuevo rastreo con I131 pasados 12 meses del previo, administrando dosis adicionales de I131 si persisten metástasis.",
+        "Mantener la misma dosis de T4 ya que está en normofunción tiroidea y la TGB es normal. Controles periódicos de TGB solamente.",
+        "Tras una 2ª dosis de I131 ya no hacen falta más rastreos. Unicamente radiografía de tórax periódica, aumentando la dosis de T4."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En un paciente intervenido por cáncer de tiroides, debemos mantener una TSH suprimida, al menos, hasta tener confirmación de la ausencia de persistencia de la enfermedad. Por este motivo, habría que incrementar la dosis de hormonas tiroideas. En cuanto a los rastreos con radioyodo, estaría indicado continuar realizándolos anualmente hasta que no se detecten zonas hipercaptantes. El carcinoma papilar de tiroides puede producir recidivas muy tardías, incluso a más de 10 años del tratamiento."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Respecto al carcinoma de tiroides, señala la asociación FALSA:",
+      "opciones": [
+        "Frecuencia: papilar mayor que folicular, folicular mayor que anaplásico",
+        "Papilar: diseminación linfática; folicular: diseminación hematógena",
+        "Antecedentes de radiación cervical en el carcinoma papilar",
+        "Carcinomas del epitelio folicular: papilar, folicular, medular y anaplásico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El carcinoma medular deriva de las células C o parafoliculares."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "¿Cuál es la forma MÁS común de presentación del feocromocitoma?",
+      "opciones": [
+        "Hipotensión.",
+        "Hipertensión arterial.",
+        "Taquicardia.",
+        "Diabetes mellitus."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta muy sencilla sobre la clínica del feocromocitoma. La manifestación más frecuente es la hipertensión arterial, bien en forma de HTA aislada, crisis hipertensivas solamente o ambas a la vez. Un 10% de los feocromocitomas no presenta clínica alguna. Las catecolaminas son hormonas contrainsulares, por lo que no resulta infrecuente la aparición de hiperglucemia en estos pacientes. En ocasiones raras, se presenta como hipotensión ortostática y taquicardia, debido a las acciones de las catecolaminas sobre los receptores beta."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Varón de 49 años, hipertenso en tratamiento con diuréticos y dieta pobre en sal,acude a revisión. Presenta debilidad y fatiga, TA=140/110, Na=143, K=3,1, estando el resto en límites normales. ¿Cúal sería la actitud más correcta?:",
+      "opciones": [
+        "Medir APR (actividad de renina plasmática).",
+        "Sobrecarga salina y posterior medición de aldosterona.",
+        "TAC abdominal para descartar masa suprarrenal.",
+        "Suspender diuréticos y administrar KCl oral durante 10 días."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos presentan el caso clínico de un paciente hipertenso en tratamiento con diuréticos que presenta una hipopotasemia. La causa más frecuente de hipopotasemia en estos pacientes no es el hiperaldosteronismo primario, sino el tratamiento con diuréticos tiazídicos o de asa. La actitud más correcta en este tipo de pacientes es la suspensión del tratamiento diurético, administración de suplementos de cloruro potásico y reevaluación analítica a los 10- 14 días. Si pasado ese tiempo persiste la hipopotasemia, entonces estaría indicado la realización del test de screening de hiperaldosteronismo primario, que es el cociente aldosterona/ARP. La determinación de la ARP en ese momento no está indicada, ya que sus niveles podrían estar falsamente elevados por el empleo de diuréticos. El resto de opciones no están indicadas en este tipo de pacientes."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En una paciente de 40 años se encuentra una cifra de calcio de 11,8 mg/dl (normal menos de 10,5) en un análisis realizado por otro motivo. La determinación de PTH solicitada en el estudio de hipercalcemia arrojó una cifra de 115 pg/ml (límite superior de la normalidad 45 pg/ml). La densidad ósea, el aclaramiento de creatinina y la calciuria son normales. ¿Cuál debe ser la conducta a seguir?",
+      "opciones": [
+        "Administración de bifosfonatos",
+        "Paratiroidectomía",
+        "Observación",
+        "Administración de diuréticos perdedores de calcio (furosemida)"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos presentan una paciente de 40 años de edad con hipercalcemia debida a un hiperparatiroidismo primario y nos piden nuestra actitud ante la paciente. Para poder contestar a la pregunta debemos recordar, cuáles son los criterios de cirugía en el hiperparatiroidism primario. En este caso, la edad de la paciente nos indica que la actitud debe ser quirúrgica."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Cuál de los siguientes trastornos se asocia a la hipocalcemia, pero NO a una concentración sérica elevada de hormona paratiroidea?",
+      "opciones": [
+        "Hipomagnesemia intensa.",
+        "Osteomalacia secundaria a resistencia a la vitamina D.",
+        "Insuficiencia renal.",
+        "Pseudohipoparatiroidismo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta sencilla donde no debes encontrar dificultad. En la osteomalacia existe un defecto de vitamina D, bien por carencia de esta, o bien por falta de acción. En la insuficiencia renal hay también déficit de vitamina D, que no se sintetiza por falta de hidroxilación renal. En todas estas situaciones se produce un aumento compensador de la PTH. Por otro lado, en el pseudohipoparatiroidismo, también hay un aumento de esta debido a la resistencia en los órganos diana por un trastorno del receptor. En cambio, en la hipomagnesemia intensa, además de producirse una disminución de la respuesta periférica a la PTH, se producen alteraciones en su secreción, de tal manera que podemos encontrar una PTH normal o incluso disminuida (marcamos la opción de respuesta 1)."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Paciente de 60 años, diagnosticada del DM tipo 2 que controla con dieta. Es traida a urgencias por sus familiares por encontrarla en coma. Realizada analítica presenta glucemia 720, cetonuria +/+++, creatinina 2,1, urea 120, sodio 145, potasio 6,2, pH 7,35, bicarbonato 20. En la exploración destaca deshidratación severa. Señale la afirmación FALSA:",
+      "opciones": [
+        "El tratamiento inicial debe corregir el déficit de volumen y tratar la hiperglucemia con insulina.",
+        "La osmolaridad plasmática está disminuida.",
+        "Si el paciente estaba tomando glucocorticoides, éstos deben reducirse progresivamente.",
+        "Es necesario identificar el factor desencadenante y tratarlo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Es un caso de coma hiperosmolar en una paciente diabética tipo 2 descompensada. Es característica en este cuadro la presencia de hiperglucemia importante y una deshidratación muy severa (hiperosmolaridad plasmática) por lo tanto, el tratamiento fundamental es el aporte de líquido en grandes cantidades y la insulina para controlar la hiperglucemia. Suele existir déficit de potasio y sobre todo tras iniciar el tratamiento con insulina pues el potasio plasmático pasa rápidamente al medio intracelular. Antes de reponer el potasio hay que asegurar una diuresis eficaz. Lógicamente, es importante identificar la causa desdencadenante y tratarla. Si es por toma de glucocorticoides, éstos no se pueden suspender bruscamente si el tratamiento ha sido crónico por el riesgo de desencadenar una insuficiencia suprarrenal aguda. ."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Varón de 38 años, DM tipo 1 de 20 años de evolución, sin complicaciones crónicas conocidas y en tratamiento con insulina NPH 16 unidades antes de cenar, e insulina regular 10 unidades antes del desayuno, 8 antes de la comida y 8 antes de la cena. Aporta controles glucémicos basales > 190, antes de la comida 110-150, antes de la cena 100-150 y a las 0 horas 60-90. ¿Qué actitud tomaría frente al control metabólico?:",
+      "opciones": [
+        "Disminuiría la insulina regular antes de cenar para evitar hipoglucemias.",
+        "Haría una determinación del glucemia a las 3 A.M. para descartar hipoglucemia y disminuir así la dosis de NPH de la cena.",
+        "Disminuiría la dosis de insulina regular de la comida.",
+        "Aumentaría la insulina regular del desayuno dado los controles basales más elevados."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para este tipo de preguntas hay que tener en cuenta el efecto que hacen los distintos tipos de insulina y los objetivos de control glucémico. En este paciente destaca la hiperglucemia habitual de primera hora de la mañana y la tendencia a la hipoglucemia de después de la cena. En este caso tenemos que descartar un fenómeno de Somogyi, que consiste en la aparición de hiperglucemia matutina como consecuencia de una hipoglucemia nocturna por efecto de las hormonas contrarreguladoras. El diagnóstico nos lo va a dar la glucemia de las 3 a. m., pues es la hora del pico máximo de acción de la NPH. Si confirmamos la hipoglucemia, habrá que reducir la dosis de NPH nocturna"
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "¿Cuál de las siguientes características NO es típica de la diabetes mellitus tipo 2?",
+      "opciones": [
+        "Asociación con otros factores de riesgo cardiovascular",
+        "Destrucción de la célula beta por mecanismos autoinmunes",
+        "Presencia de resistencia a la insulina en algún momento de la evolución",
+        "Presencia de déficit de secreción de insulina en algún momento de la evolución"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sencilla sobre las patogenia de la DM tipo 2. Recuerda que es una enfermedad que aparece en edades medias/avanzadas de la vida, por lo que es típico que puedan presentar otros factores de riesgo cardiovascular. En la patogenia de la diabetes tipo 2 se produce una resistencia a la acción de la insulina que hace que la insulina no sea eficaz en tejidos periféricos, por lo que se produce una hipersecreción inicial que llevará a un agotamiento pancreático (déficit de secreción de insulina) en algún momento de su evolución."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Varón de 29 años, DM tipo 1 diagnosticado en abril de 2012 y en tratamiento actual con insulina glargina 12 ui a las 23 horas e insulina glulisina antes de desayuno, comida y cena. No fuma. El paciente realiza dieta por raciones. Fondo de fondo de ojo a los 5 años del diagnóstico, sin retinopatía. Acude a revisión. El paciente no refiere ingresos por descompensación aguda ni hipoglucemias graves. Realiza poco ejercicio. Aporta controles dentro de objetivos tanto basales como postprandiales. No hipoglucemias. Analítica de control: Glucosa 82 mg/dl (70.0 - 110.0), Creatinina 0.74 mg/dl (0.7 - 1.3), FGE > 90 ml/min, Ac. Urico 4.4 mg/dl (2.5 - 8.0), Colesterol 159 mg/dl (0.0 - 200.0), Colesterol-HDL 40 mg/dl (40.0 - 0.0), Colesterol LDL (Calculado) 108 mg/dl (0.0 - 130.0), Triglicéridos 66 mg/dl (0.0 - 150.0), HbA1c (NGSP) 5.2 % (4.4 - 5.6), Cociente Alb / Creat < 30 por tira mg/dl. Respecto a los objetivos de control del paciente, señale lo correcto:",
+      "opciones": [
+        "Un adecuado control de HbA1c evita de forma completa la aparición de complicaciones microangiopáticas.",
+        "Sería adecuado recomendar aumentar el ejercicio físico para aumentar el HDL-c",
+        "Debemos disminuir la dosis de insulina dado que la HbA1c está muy baja.",
+        "Debemos valorar el uso de estatinas para conseguir un objetivo de LDL < 70."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una pregunta de objetivos de control del paciente diabético. Vamos a ver las opciones una a una:\n\nRespuesta 1 (falsa). El buen control de HbA1c disminuye el riesgo de complicaciones microangiopatías, pero no las reduce al 100% porque también influyen otros factores, como los genéticos en su aparición.\n\nRespuesta 2 (correcta). No existe ningún tratamiento médico que aumente el HDL. Actualmente podemos recomendar al paciente, dieta, ejercicio y abandono del hábito tabáquico (si lo hace)\n\nRespuesta 3 (falsa). El paciente presenta una Hba1c en rangos de no diabetes, pero no nos dice que tenga hipoglucemias. Por lo tanto, si no las presenta, mantendríamos el tratamiento con insulinas a igual dosis.\n\nRespuesta 4 (falsa). Este paciente, al tratarse de un DM 1 joven, sin complicaciones, sin lesiones de órgano diana no factores de riesgo, se puede clasificar en altos riesgo y habrá que mantener un LDL < 100."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Varón de 63 años con antecedentes de diabetes mellitus tipo 2, hipercolesterolemia e hiperplasia benigna de próstata, que es remitido a consultas externas de Endocrinología desde Nefrología por hallazgo en ecografía solicitada en el contexto de estudio de enfermedad renal crónica estadio 3, de incidentaloma suprarrenal derecho de 30 mm, de carácter ecográfico benigno. Dentro de las pruebas complementarias a solicitar, NO estaría:",
+      "opciones": [
+        "Supresión con 1 mg de dexametasona nocturna.",
+        "Aldosterona y actividad de renina plasmática basal (ARP).",
+        "Prueba de imagen de control en seis meses, si estudio hormonal normal.",
+        "Metanefrinas en orina de 24 horas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Ante un incidentaloma suprarrenal, lo primero que hay que hacer es valorar la funcionalidad de la masa realizando test de Screening de síndrome de Cushing y feocromocitoma (catecolaminas y/o metanefrinas en orina de 24 horas). Solo está indicada la determinación de aldosterona y ARP en pacientes hipertensos (marcamos la opción de respuesta 2). Si el estudio funcional es negativo y la imagen no presenta criterios radiológicos sospechosos de malignidad, habrá que repetir una prueba de imagen (puede ser TAC o RMN o ecografía, si en esta última el incidentaloma es correctamente valorable, como en esta pregunta) en 6 y 12 meses."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Le llega a urgencias un paciente confuso, aletargado, sin signos de deshidratación, sin edemas y normotenso. En la analítica destaca una hiponatremia y una orina con una osmolaridad de 470 mOsm/kg. Lo más probable es:",
+      "opciones": [
+        "Insuficiencia suprarrenal.",
+        "Polidipsia primaria.",
+        "Hipotiroidismo.",
+        "SIADH."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El SIADH debe sospecharse siempre en todo paciente con hiponatremia (<135 mmol/l), hipoosmolaridad plasmática (<275 mosm/Kg) y orina sin máxima dilución (>100 mosm/Kg), pero sin edemas ni HTA, ni hipotensión ortostática ni signos de deshidratación, ni de hipofunción tiroidea o suprarrenal. Otros hallazgos son la detección de niveles bajos de nitrógeno ureico, creatinina, ácido úrico y albúmina en presencia de función renal normal\n\nEl diagnóstico de SIADH se establece tras la exclusión de otras causas de hiponatremia La prueba de supresión en el SIADH es la sobrecarga hídrica, en la que se administra 1,5 litros de agua en 15- 20 minutos. Es normal si a las 5 horas se elimina el 80% de lo ingerido. Está contraindicada su realización con Na+<125, porque podríamos agravar la hiponatremia.\n\nEn este pregunta, debemos ser capaces de descartar el resto de las pociones:\n\nR1: No nos hablan de hipotensión o acidosis metabólica, ni tampoco aparecen signos que nos sugieran esta enfermedad (hiperpigmentación).\n\nR2: La orina debería estar más diluida. El paciente no estaría aletargado ni confuso. No se justifica la hiponatremia.\n\nR3: Si un hipotiroidismo produjese confusión e hiponatremia, se trataría probablemente de un coma mixedematoso. Sin embargo, en este caso habría hipotermia, hipoventilación y antecedentes de hipotiroidismo, de lo que no nos hablan."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "La ingestión de ácido glicirricínico (regaliz) es una conocida causa de pseudohiperaldosteronismo. En él se encuentra todo, EXCEPTO:",
+      "opciones": [
+        "Niveles de aldosterona elevados y bajos de renina.",
+        "Hipopotasemia.",
+        "Inhibición de la enzima 11-beta-hidroxiesteroide deshidrogenasa.",
+        "Aumento de cortisol."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Tanto la ingesta de regaliz como la de carbenoxolona produce un cuadro conocido como pseudohiperaldosteronismo. Este cuadro se produce por la inhibición del enzima 11 OH esteroide deshidrogenasa que se encarga de transformar el cortisol en cortisona. Al no producirse dicha transformación, el cortisol libre se eleva, uniéndose tanto al receptor tipo 2 como al tipo 1, que es el receptor de mineralocorticoides, produciendo una sintomatología de hiperaldosteronismo (hipopotasemia, HTA). Al producirse la unión al receptor de la aldosterona y al existir hipopotasemia, se produce una inhibición de la síntesis de aldosterona y renina, cuyas cifras se encontrarán disminuidas."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "El tratamiento de elección de una paciente de 25 años con una enfermedad de Graves de inicio reciente, con bocio pequeño y posibilidades de seguir control regularmente, será:",
+      "opciones": [
+        "Hemitiroidectomía.",
+        "Tiroidectomía subtotal.",
+        "Tiroidectomía radical.",
+        "Metimazol."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La enfermedad de Graves- Basedow es la causa más frecuente de hipertiroidismo, más frecuente en mujeres y que suele debutar en jóvenes y adultos en edades medias de la vida. Se caracteriza por un curso crónico con brotes de hipertiroidismo. El tratamiento de elección en nuestro medio ante un primer brote sin complicaciones es la administración de antitiroideos por períodos prolongados (entre 12 y 18 meses) ya que aproximadamente el 30% de los pacientes entran en remisión prolongada tras esta terapia. En casos de bocio grande, edad avanzada, complicaciones del hipertiroidismo o imposibilidad para el seguimiento se prefiere la terapia ablativo con radioyodo o cirugía."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Teniendo en cuenta el gran número de efectos fisiológicos producidos por las hormonas tiroideas señale cuál de las siguientes alteraciones NO esperaría encontrar en un paciente hipertiroideo:",
+      "opciones": [
+        "Nerviosismo y ansiedad.",
+        "Aumento del peristaltismo.",
+        "Aumento del colesterol.",
+        "Temblor muscular."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El aumento de hormonas tiroideas produce una serie de síntomas y alteraciones características. Desde el punto de vista clínico, es típico la existencia de nerviosismo, palpitaciones, taquicardia, intolerancia al calor, hiperdefecación y la pérdida de peso. Desde el punto de vista metabólico, podremos encontrar un aumento del metabolismo basal y de la neoglucogénesis. La hipercolesterolemia es un hallazgo frecuente del hipotiroidismo primario y no del hipertiroidismo, aunque el mecanismo por el que aparece no esté muy aclarado."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "¿Qué cree que es FALSO respecto al tratamiento del hipotiroidismo?:",
+      "opciones": [
+        "Se comienza con una dosis inferior a la de mantenimiento, y se va aumentando cada 4 días hasta llegar a la definitiva.",
+        "En caso de coma mixedematoso, el tratamiento debe ser inmediato, con hidrocortisona IV y luego, a las 2 horas T4 IV.",
+        "Para el control del tratamiento del hipotiroidismo se utiliza la determinación de TSH en los casos primarios, y la de T3 y T4 en los casos secundarios.",
+        "El tratamiento debe instaurarse de forma progresiva, especialmente en ancianos, cardiópatas e hipotiroidismos de larga evolución."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento sustitutivo del hipotiroidismo se realiza en la actualidad con tiroxina (T4) oral. El objetivo del tratamiento es la normalización de los niveles de TSH en caso de hipotiroidismo primario y de los niveles de T4 libre en el caso de hipotiroidismo central. En adultos y jóvenes sanos se puede comenzar con dosis de entre 50 y 100 mcg/d, pero en ancianos y cardiópatas hay que comenzar con dosis de 25 o menos y aumentar poco a poco. El coma mixedematoso es la situación de disminución del nivel de conciencia en el seno de un hipotiroidismo extremadamente grave en el que se dan 4 manifestaciones principales: coma, hipotermia, aumento de CK y la presencia de un factor precipitante del cuadro. El tratamiento es urgente y requiere la administración de glucocorticoides IV seguido dos horas después de T3 por sonda nasogástrica o T4 intravenosa. Tiene una elevada mortalidad y debe diagnosticarse y tratarse lo más precozmente posible."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "¿Qué dato nos haría pensar en una enfermedad de Cushing?:",
+      "opciones": [
+        "Cortisol libre urinario elevado con ACTH disminuida.",
+        "No supresión de cortisol tras la administración de 0,5 mg de dexametasona cada 6 horas durante dos días.",
+        "Supresión de los niveles de cortisol con dexametasona en dosis de 2mg cada 6 horas durante 2 días.",
+        "Ausencia de respuesta del cortisol tras la administración de CRH."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta compleja hace referencia al diagnóstico diferencial del síndrome de Cushing. Primero hay que recordar que se conoce como Enfermedad de Cushing al exceso de producción de cortisol debido a la existencia de un tumor hipofisario productor de ACTH. El CLU elevado con ACTH suprimida orienta hacia un origen suprarrenal. El test de 1 mg de DXT se emplea como screening de Cushing, por lo que no nos ayuda en el diagnóstico diferencial. Ocurre igual con el test de 2mg DXT, que es de elección para realizar el diagnóstico bioquímico de la enfermedad, sin informarnos sobre el origen de la misma. La ausencia de respuesta al CRH indica que el eje hipotálamo- hipofiso- adrenal no está conservado, luego orienta hacia un Cushing ectópico. La supresión con 8mg DXT sugiere la existencia de un microadenoma hipofisario, dado que los tumores ectópicos no suelen suprimir con este test. (respuesta correcta 4)"
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Paciente de 39 años con diarrea de semanas de evolución, de más de 10 deposiciones líquidas al día. Glucosa: 189 mg/dL, Cr: 2,1 mg/dL, K: 2,9 mEq/L, 5-HIAA en rango de normalidad, hipoclorhidria. Señale el diagnóstico de MAYOR sospecha:",
+      "opciones": [
+        "Glucagonoma.",
+        "Tumor carcinoide.",
+        "Síndrome de WernerMorrison.",
+        "Neoplasia endocrina múltiple 2B."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Sospechamos un tumor productor de VIP (péptido intestinal vasoactivo) que da lugar al síndrome de Werner-Morrison (respuesta 3 correcta). El exceso de VIP característicamente suele producir: diarrea secretora, que persiste durante el ayuno (en nuestro caso clínico no respeta el descanso nocturno), hipopotasemia (presente), y deshidratación (el paciente presenta una insuficiencia renal aguda prerrenal, con discreta hipernatremia). Además, pueden asociar hiperglucemia derivada de la glucogenólisis (inducida por el VIP y por la propia hipopotasemia). Como en el tumor carcinoide, los pacientes pueden asociar rubefacción facial, aunque en menor medida (solo en el 20% de los casos), pero en el caso del primero, el 5-hidroxiindolacético urinario suele estar elevado."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "¿Cuál es el mecanismo de acción de la atorvastatina?:",
+      "opciones": [
+        "Aumento de la liberación de esteroles.",
+        "Inhibición de la HMG-CoA reductasa.",
+        "Aumento de la eliminación de sodio.",
+        "Bloqueo de receptores a2."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La atorvasatatina pertenece al grupo de las estatinas que actúan inhibiendo la HMG- CoA reductasa, (enzima limitante en la síntesis de colesterol). Por este mecanismo reducen el contenido hepático de colesterol aumentando los receptores de LDL, acelerando el aclaramiento de LDLy reduciendo entre un 25- 60% el LDLc (colesterol transportado por las LDL). También pueden reducir los niveles de triglicéridos (aunque este efecto es más potente en la rosuvastatina, también es característico de la atorvastatina), al disminuir la producción hepática de VLDL. Los niveles de HDLc se elevan moderadamente. Además de efecto sobre los lípidos, actualmente se ha visto que las estatinas tienen acción \"pleiotrópica\" pues mejora la función endotelial y vasomotora, inhiben la agregabilidad plaquetaria y modulan la respuesta inflamatoria.\n\nLas estatinas NUNCA se deben dar ni en niños ni en embarazadas."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Una mujer de 30 años con antecedentes de Enfermedad de Graves en remisión desde hace 2 años, que recibió tratamiento con metimazol durante 18 meses está en la 20 semana de gestación, con un feto normal en los controles ecográficos. En la analítica del tercer trimestre se detecta un brote de hipertiroidismo moderado por recidiva de su patología de base. En esta situación, ¿cuál sería el tratamiento de elección inicialmente?:",
+      "opciones": [
+        "Es preferible el no tratar ya que lo tolera bien la paciente.",
+        "Metimazol a la dosis que permita mantener una T4L en el límite alto de la normalidad.",
+        "Metimazol a la dosis para mantener la TSH en el límite alto de la normalidad.",
+        "Tiroidectomía subtotal en el 2º trimestre."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta es importante dado que repasa el tratamiento de la enfermedad de Graves. El tratamiento de esta patología depende de la situación clínica de cada paciente. En este caso nos presentan a una gestante que ya ha sido tratada con metimazol, y que en el tercer trimestre de la gestación presenta un brote de hipertiroidismo. El tratamiento de elección en esta situación es la administación de antitiroideos en dosis bajas para mantener concentraciones de T4 en el límite alto. Recordad que la administración de radioyodo está contraindicada en el embarazo, y que la cirugía se realiza en caso de presentar efectos secundarios con la medicación o no control de la enfermedad. Una vez terminada la gestación, en este caso y dado que es un segundo brote de la enfermedad, estaría indicada la administración de radioyodo."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Con respecto a la acromegalia, señale la afirmación FALSA:",
+      "opciones": [
+        "Los pacientes presentan una mayor mortalidad que la población sana.",
+        "La apnea obstructiva del sueño es un hallazgo común en estos pacientes.",
+        "La causa más frecuente es la existencia de un microadenoma hipofisario productor de GH.",
+        "La hipercalcemia es un hallazgo poco habitual en estos pacientes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La acromegalia se caracteriza por un exceso de hormona de crecimiento, siendo la causa más frecuente la existencia de un macroadenoma hipofisario secretor de GH (no microadenoma - opción 3 falsa, por lo que la marcamos -). Estos pacientes presentan unas alteraciones metabólicas, cardiovasculares, una elevada prevalencia de SAOS, que les confiere una mayor mortalidad que la población sana. También parecen presentar un mayor riesgo de neoplasias de colon, motivo por el que al diagnóstico está indicada la realización de una colonoscopia. En cuanto a las acciones de la GH sobre el metabolismo fosfocálcico, produce un descenso en la reabsorción tubular de calcio (induce hipercalciuria) y aumenta la de fósforo. La hipercalcemia en estos pacientes obligar a sospechar un MEN tipo 1."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Señale en cuál de las siguientes situaciones existe un descenso de la globulina transportadora de hormonas tiroideas (TBG):",
+      "opciones": [
+        "Embarazo.",
+        "Hiperandrogenismo.",
+        "Administración de anticonceptivos.",
+        "Hepatitis crónica activa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las hormonas tiroideas son transportadas en plasma a través de la TBG, albúmina y prealbúmina. Existen situaciones, denominadas hipertiroxinemia eutiroidea, en las que, debido a un aumento de la TBG, la concentración de T4 total se encuentra aumentada, si bien las concentraciones de T4 libre son normales y por tanto el paciente está asintomático. La síntesis de TBG se estimula por los estrógenos (embarazo, anticonceptivos, tamoxifeno), y en determinadas situaciones como la hepatitis crónica activa o la cirrosis biliar. Sin embargo, los andrógenos disminuyen su producción hepática (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Varón de 40 años que, en un control rutinario en su empresa, presenta una glucemia de 130 mg/dl en una toma de plasma venoso cogida en ayunas. ¿Cuál es la correcta?",
+      "opciones": [
+        "Como una muestra de plasma tiene un 15% menos de glucosa que la de sangre total, no hay que hacer nada.",
+        "Diagnóstico de intolerancia hidrocarbonada.",
+        "Diagnóstico de glucemia en ayunas alterada.",
+        "Hay que descartar el diagnóstico de DM, por lo que necesito confirmarlo con una prueba de sobrecarga oral de glucosa alterada o con otra analítica equivalente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Como sabes, el diagnóstico de diabetes mellitus podría establecerse si el paciente tuviese una glucemia de 126 mg/dL y, al menos, pudiésemos confirmarla en un día distinto mediante otra determinación. Otra alternativa sería realizar una sobrecarga oral de glucosa (>200 mg/dL a las dos horas tendría el mismo valor confirmatorio). Lo que tiene que quedar claro en esta pregunta es que, con una medición aislada en un paciente asintomático (revisión rutinaria, como en este caso), no podemos establecer el diagnóstico de diabetes mellitus."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Que hallazgo encontraría usted en el campo visual de un paciente que tiene una masa hipofisiaria que comprime el quiasma óptico?",
+      "opciones": [
+        "Hemianopsia binasal",
+        "Cuadrantanopsia homonia superior bilaterial",
+        "Hemianopsia bitemporal",
+        "Cuadrantanopsia homonima inferior bilateral"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta no debes fallarla y debes grabarte esta asociación. ADENOMA HIPOFISIARIO = HEMIANOPSIA BITEMPORAL.\n\nEl resto de opciones de la pregunta son distractores."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Cuál de los siguientes es menos compatible con el diagnóstico de coma mixedematoso?:",
+      "opciones": [
+        "Hipernatremia.",
+        "Hipercolesterolemia.",
+        "Elevación de CPK",
+        "Hipertransaminasemia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las características clínicas que nos harían sospechar un coma mixedematoso son coma, hipotermia y bradicardia. Recordar que esta situación de urgencia va a aparecer en aquello pacientes, generalmente ancianos, con un déficit severo de hormonas tiroideas. Como datos analíticos en estos pacientes podemos encontrar elevación de las transaminasas y de CPK. También es típico del hipotiroidismo el aumento del colesterol. Lo que no va a ser posible es la presencia de hipernatremia, dado que el hipotiroidismo es una de las causas de hiponatremia con volumen efectivo normal."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "NO es una contraindicación al tratamiento de la enfermedad de Graves-Basedow con yodo radioactivo:",
+      "opciones": [
+        "Anciano",
+        "Embarazo",
+        "Bocio muy grande retroesternal",
+        "Nódulo frío en la gammagrafía tiroidea."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento con I-131 es muy útil en el hipertiroidismo pero tiene algunas limitaciones. Está completamente contraindicado en embarazadas y suele evitarse en niños. Tampoco será la opción más razonable si el paciente presenta un bocio importante con posibilidad de producir clínica compresiva si se inflama de manera inmediata tras el tratamiento con yodo. Tampoco será la mejor opción si tenemos dudas sobre la benignidad de un nódulo tiroidea."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "En relación al tratamiento de la acromegalia señale la opción incorrecta:",
+      "opciones": [
+        "La normalización de los niveles de IGF-1 tras la cirugía inicial implica que la enfermedad está controlada.",
+        "La radioterapia se considera un tratamiento de segunda o tercera línea, cuando la cirugía está contraindicada o el paciente la rechaza.",
+        "Los análogos de somastotatina son más eficaces para la normalización de los niveles de IGF-1 que el pegvisomant (fármaco antagonista del receptor de la GH).",
+        "Los agonistas dopaminérgicos, fundamentalmente la cabergolina, pueden utilizarse como tratamiento coadyuvante en combinación con agonistas de somastostatina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Recuerda que el pregvisomant es un fármaco que impide la unión de la GH a su receptor hepático, con lo que es el fármaco más eficaz bloqueando la producción de IGF1, aunque no controla GH y puede producir crecimiento de restos tumorales hipofisarios."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "¿Que enfermedad no cursa con gammagrafia de tiroides hipercaptante?",
+      "opciones": [
+        "Tiroiditis subaguda",
+        "Enfermedad de Graves",
+        "Bocio multinodular tóxico",
+        "Coriocarcinoma"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La gammagrafía tiroidea es una prueba muy útil a la hora de clasificar el hipertiroidismo. Por un lado tenemos las gammagrafía hipercaptante (que indican hiperfuncion tiroidea), como el Graves, BMNT y adenoma tóxico. El coriocarcinoma produce una gamma muy parecida a la enfermedad de Graves por liberación de HCG (que estimula el tiroides). Por otro lado, las gammagrafía hipocaptantes indican un tiroides no hiperfuncionante, y son ejemplos las tiroiditis, el estroma ovario y la intoxicación de hormonas tiroideas."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Varón de 18 años que fue ingresado por coma cetoacidótico y en quien, tras iniciar el tratamiento adecuado, se objetiva que la glucemia a las 3-4 horas ha descendido a 220 mg/dl; potasio 3,5 mEq/l, pH 7,2 y la cetonuria es más intensa (>80 mg/dl). ¿Cuál sería la actitud ahora?:",
+      "opciones": [
+        "Seguir con la perfusión de insulina i.v. + suero glucosado al 5 % + suspender el bicarbonato y añadir suplemento de potasio i.v.",
+        "Continuar con igual pauta de insulina y bicarbonato y cambiar el suero salino a glucosado.",
+        "El empeoramiento de la cetonuria indica mala evolución del tratamiento y es necesario doblar la dosis de insulina.",
+        "Debemos cambiar a insulina s.c. y a suero glucosado, así como suspender el bicarbonato."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El tratamiento de la cetoacidosis diabética se basa fundamentalmente en la insulina y reposición de líquidos por vía intravenosa. Debemos mantener la insulina i.v. en perfusión continua hasta que se corrija el pH y bicarbonato. El descenso de la glucemia debe ser progresivo, unos 75- 100 mg/dl por hora y cuando la glucemia baje por debajo de 250- 300 mg/dl, se debe añadir al tratamiento suero glucosado para poder continuar con la infusión de insulina y evitar las hipoglucemias. Aunque en el momento del diagnóstico los niveles de potasio pueden ser normales o incluso estar elevados, suele existir un déficit de potasio corporal total, por tanto la reposición debe comenzar cuando se demuestre una diuresis adecuada y el potasio sérico sea normal. A pesar del déficit de bicarbonato, no se recomienda su reposición, salvo cuando exista una acidosis grave (pH<7) y sólo hasta que el pH sea=7,2. Los cuerpos cetónicos no son un indicador para el tratamiento porque en algunos casos pueden tardar unos días en desaparecer. De hecho, como en este caso al iniciar el tratamiento pueden aumentar porque el hidroxibutirato se transforma en cetoacetato, y nosotros lo que medimos en el laboratorio es este último."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Señale cuál de los siguientes NO es un objetivo de tratamiento en los pacientes con diabetes según las recomendaciones de la ADA:",
+      "opciones": [
+        "Tensión arterial menor de 140/90 mmHg.",
+        "HbA1c menor de 7%.",
+        "Glucemia capilar preprandial entre 80 y 130 mg/dL.",
+        "Glucemia capilar posprandial menor de 200 mg/dL."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La ADA establece como objetivo de glucemia posprandial a las 2 horas de comenzar la ingesta un valor menor de 180 mg/dL (marcamos la opción de respuesta 4). El resto de los objetivos de control (TA, glucemia preprandial y hbA1c) son correctos."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "En un paciente varón en el que encontramos la siguiente analítica: testosterona total 0,27 ng/mL (1,71-5,79), FSH 37,9 mUi/mL (1,4-18,1) y LH 27,60 mUi/mL (7-24). ¿Qué prueba deberíamos realizar?",
+      "opciones": [
+        "RMN hipofisaria para descartar un tumor hipofisario.",
+        "Cariotipo para descartar un síndrome de Klinefelter.",
+        "TC suprarrenal para descartar un tumor virilizante.",
+        "Edad ósea por sospecha de un retraso constitucional del crecimiento y desarrollo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda que aquel paciente con niveles de testosterona bajos que tenga elevación de gonadotropinas presenta un hipogonadismo hipergonadotropo (fallo testicular), y habrá que realizar un cariotipo para descartar un síndrome de Klinefelter (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Un niño de 4 años diagnosticado de diabetes mellitus tipo 1 hace dos meses tras un debut con cetoacidosis diabética, acude a su consulta refiriendo reducción importante de las necesidades de insulina, hasta la dosis actual de 4 unidades de insulina glargina y entre 1 y 2 unidades de insulina lispro. ¿Cuál es la opción CORRECTA?",
+      "opciones": [
+        "Habría que replantearse el diagnóstico de diabetes y realizar una SOG.",
+        "Suspendería la insulina porque a esas dosis tan bajas no le está haciendo prácticamente efecto.",
+        "Se trata de la fase de \"luna de miel\", en la que las necesidades insulínicas son bajas.",
+        "Recomendaría aumentar la ingesta."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es frecuente que tras el diagnóstico de una diabetes 1 haya un período llamado luna de miel, que puede durar hasta dos años, en el que las necesidades insulínicas son mínimas. Esto se debe a una reserva pancreática aún mantenida. Las dosis de insulina serán bajas, pero no se recomienda suspender los bolos de insulina, ya que con el tratamiento insulínico intensivo podemos prolongar esta fase."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Las lipoproteínas encontradas elevadas en la diabetes mellitus son FUNDAMENTALMENTE:",
+      "opciones": [
+        "VLDL.",
+        "LDL.",
+        "HDL.",
+        "IDL."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Debes tener especial cuidado con la opción de respuesta 2. Lo que se eleva en la DM son fundamentalmente los triglicéridos, en forma de VLDL (respuesta 1 correcta). La cantidad total de LDL no se altera o apenas lo hace. El problema de las LDL del diabético es que se vuelven pequeñas y densas, por lo que son más aterogénicas que en la población no diabética, pero no más abundantes."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "La tríada, cefalea, sudoración y taquicardia en un paciente con historia de hipertensión arterial, debe sugerir:",
+      "opciones": [
+        "Síndrome carcinoide.",
+        "Feocromocitoma.",
+        "Hiperparatiroidismo.",
+        "Hiperaldosteronismo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Dentro de los síntomas que pueden aparecer en el feocromocitoma, la HTA es el más frecuente, bien en forma de HTA mantenida, crisis hipertensivas más HTA mantenida o sólo crisis hipertensivas. Sin embargo, la existencia de hipertensión arterial es frecuente en otras patologías como las que se describen en la pregunta. La triada cefalea, taquicardia y sudoración son muy sugestivos de la existencia de un feocromocitoma, y vienen a representar un aumento en la actividad adrenérgica propia de este tumor."
+    }
+  ]
+}

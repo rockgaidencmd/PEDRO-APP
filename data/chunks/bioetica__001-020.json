@@ -1,0 +1,469 @@
+{
+  "materia": "bioetica",
+  "paginaInicio": 1,
+  "paginaFin": 20,
+  "anomalias": [
+    "p18: el comentario dice 'El cisplatino es un derivado del paciente'; debería decir 'derivado del platino'",
+    "p12: las opciones 2 y 4 dicen 'Alimentación enteral a través de vía venosa central' y 'Alimentación enteral a través de vía venosa periférica', combinación imposible (la nutrición enteral no se administra por vía venosa); el comentario solo explica la parenteral",
+    "p15: el enunciado dice 'Se observa ua masa en ciego que corresponde a un adenocarcinoma de colona' y la opción 3 acaba en 'evitando la palabra cáncer la explicación'; ambas frases están truncadas en el original",
+    "p13: el IMC figura con un 2 en superíndice (kg/m²); se ha linealizado como 'kg/m2'"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Usted es el psiquiatra de una paciente con esquizofrenia paranoide. ¿Considera NECESARIO informar sobre los posibles efectos secundarios de los antipsicóticos que le va a prescribir, como pueden ser el síndrome parkinsoniano o la discinesia tardía?",
+      "opciones": [
+        "No, porque se corre el riesgo de que la paciente rechace el tratamiento y cause daño a sí misma o a terceros.",
+        "Se debe evaluar su capacidad de toma de decisiones y, si no es adecuada, se le proporcionará la información a sus familiares o allegados cercanos, así como al paciente en función de su competencia.",
+        "Sí, ya que si no se violaría el principio de autonomía del paciente.",
+        "Idealmente se debería proporcionar esta información solamente a la familia, allegados o representante legal, ya que el paciente psiquiátrico se encuentra como normal general incapacitado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Un paciente psiquiátrico NO debe ser considerado incapaz en todas las situaciones (marcamos la opción de respuesta 2)."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Mujer con enfermedad neurodegenerativa en fase avanzada que llega al Servicio de Urgencias del hospital con una infección respiratoria, que ha desencadenado una insuficiencia respiratoria global aguda. La paciente tiene registrada una directriz anticipada. En dichas instrucciones previas señala que no quiere ser sometida a ventilación mecánica. También dejó establecido que nombra como su representante a su amigo Pedro. El médico que valora a la paciente en Urgencias y ha leído la directriz anticipada plantea a Pedro sus dudas sobre la misma, ya que el cuadro es agudo y potencialmente reversible tras tratamiento que incluye la ventilación mecánica, y parece que el documento está redactado pensando en una situación crónica, no en la actual. Usted considera CIERTO que:",
+      "opciones": [
+        "El representante puede cambiar la directriz anticipada de la paciente, en su mejor interés.",
+        "El médico por ser una situación de urgencia no está obligado a seguir la directriz anticipada ni consultar con el representante.",
+        "El representante no puede cambiar la directriz anticipada. Su finalidad es garantizar el respeto a los valores de la paciente y el cumplimiento de la instrucción.",
+        "Los familiares directos presentes pueden hacer una decisión de sustitución en su mejor interés, no importando la opinión del representante."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "A través de las instrucciones previas se pretende situar al paciente en el centro de las decisiones sobre su atención sanitaria; con ellas se intenta respetar sus valores y preferencias y evitar medidas desproporcionadas, lo que también disminuye gastos sanitarios innecesarios en el final de la vida. Las decisiones incluidas en los documentos de instrucciones previas son vinculantes (respuesta 3 correcta), y pueden incluir tanto medidas positivas (qué hacer o qué medidas llevar a cabo, por ejemplo, pautar tratamiento paliativo) como negativas (qué no se debe hacer, por ejemplo, mantener la vida artificialmente y por tanto retirar el soporte vital)."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Paciente de 15 años, afecta de una leucemia mieloide aguda de reciente diagnóstico, que presenta unos niveles de hemoglobina de 4,4 g/dL. El médico de guardia que valora la analítica indica que la paciente debe recibir una transfusión sanguínea de forma preferente, pero las convicciones religiosas de la paciente y de su familia le impiden recibir dicho tratamiento. El médico debe:",
+      "opciones": [
+        "Contactar con el juez de guardia para ponerle en conocimiento de la situación y que ordene la realización del tratamiento.",
+        "Abstenerse de realizar la transfusión e iniciar una sedación paliativa para que la paciente no sufra.",
+        "Proceder a realizar la transfusión a pesar de la negativa de la paciente y de sus padres.",
+        "Engañar a la paciente y a su familia diciéndoles que va a realizar un tratamiento distinto. Y proceder con la transfusión."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según el artículo 31 del código deontológico, el médico nunca dejará de prestar asistencia al paciente que lo necesite por intento de suicidio, huelga de hambre o rechazo al tratamiento. Por otro lado, según la reforma de la Ley de Autonomía (vigente desde marzo de 2016), en el artículo 9.6 se especifica que: “En los casos en los que el consentimiento haya de otorgarlo el representante legal o las personas vinculadas por razones familiares o de hecho” (como es el caso de los menores de 18 años en caso de grave riesgo para su salud) […] “la decisión deberá adoptarse atendiendo siempre al mayor beneficio para la vida o salud del paciente. Aquellas decisiones que sean contrarias a dichos intereses deberán ponerse en conocimiento de la autoridad judicial, directamente o a través del Ministerio Fiscal, para que adopte la resolución correspondiente, salvo que, por razones de urgencia, no fuera posible recabar la autorización judicial, en cuyo caso los profesionales sanitarios adoptarán las medidas necesarias en salvaguarda de la vida o salud del paciente, amparados por las causas de justificación de cumplimiento de un deber y de estado de necesidad”. Por tanto, en los menores de 18 años con grave riesgo para su salud, prevalece el mayor beneficio para la vida o salud del paciente y, si es posible y da tiempo para ello (como es el caso que se plantea), se debe contar con autorización judicial para actuar (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Mujer de 80 años que ingresa en el hospital para estudio de anemia tras ser llevada por sus hijos a Urgencias por rectorragia y decaimiento físico. Clínicamente se encuentra estable. Está diagnosticada de deterioro cognitivo, con ideación y juicio frecuentemente incoherentes y alteraciones conductuales, para lo que toma risperidona. Se sospecha neoplasia maligna de colon y se plantea realizar una colonoscopia. Usted verifica que la paciente es incapaz de entender adecuadamente lo que se le explica sobre tal prueba, su naturaleza, objetivos, posibles complicaciones o sus consecuencias diagnósticas y eventualmente terapéuticas. A este respecto, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Queda relevado de presentar un consentimiento informado a la paciente y se considera suficiente su criterio como médico para que se realice la colonoscopia.",
+        "Solicita la comparecencia del juez para que autorice la prueba, ante la incapacidad intelectual de la enferma para decidir convenientemente por sí misma.",
+        "Por no tener capacidad para decidir, deben hacerlo por ella sus familiares, debiendo quedar constancia escrita de la aceptación de la colonoscopia en el impreso de consentimiento informado.",
+        "Es jurídicamente aceptable un acuerdo entre el médico y los familiares de la enferma basado en un consentimiento informado verbal para que se practique la colonoscopia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El consentimiento informado es el acto de elección libre y sin coacción realizado por una persona dotada de capacidad y bien informada. Para que se produzca el consentimiento informado se ha de establecer un proceso comunicativo y deliberativo entre el profesional sanitario y el paciente, donde ambos toman conjuntamente las decisiones sobre la manera más adecuada de abordar el problema concreto de salud. El derecho al consentimiento informado obliga a los profesionales sanitarios a informar al paciente de todo aquello que pueda ser relevante en su proceso de toma de decisiones. Tras ello, para que el paciente pueda elegir, debe ejercer su voluntad en libertad y en pleno uso de sus facultades mentales. No obstante, el consentimiento informado tiene sus límites y excepciones. Una de ellas es el consentimiento por representación, el cual se puede llevar a cabo:\n\n1) Cuando el paciente no sea capaz de tomar decisiones, a criterio del médico responsable de la asistencia. Si el paciente carece de representante legal, el consentimiento lo prestarán las personas vinculadas (familiares, en el caso de la pregunta) (respuesta 3 correcta).\n\n2) Cuando el paciente tenga la capacidad modificada judicialmente.\n\n3) Cuando el paciente menor de edad no sea capaz intelectual ni emocionalmente de comprender el alcance de la intervención. El consentimiento lo dará el representante legal, después de haber escuchado su opinión."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Son excepciones al consentimiento informado todas las siguientes EXCEPTO una. Señálela:",
+      "opciones": [
+        "Imperativo legal por riesgo para la salud pública.",
+        "Paciente incapacitado legalmente.",
+        "Situaciones de máxima urgencia.",
+        "Convicciones religiosas del paciente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las convicciones religiosas individuales no eximen de la cumplimentación del consentimiento informado. El resto de opciones son correctas."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "Con respecto a la capacidad en Sanidad, es FALSO que:",
+      "opciones": [
+        "Se adquiere en general a los 18 años.",
+        "Se adquiere en general a los 16 años.",
+        "Se adquiere a los 18 años para situaciones de riesgo grave.",
+        "En menores de 18 en situaciones de riesgo grave, los que deciden son los tutores o responsables."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La capacidad de obrar en sanidad es un término jurídico. Adquiere graduaciones: 16 años en general se considera mayoría de edad en Sanidad (opción 1 falsa, por lo que la marcamos). En situaciones de riesgo grave se considera capaz a partir de los 18 años. Las decisiones que implican gravedad en los menores de 18 son tomadas por sus tutores o responsables."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de los siguientes principios NO pertenece a los principios básicos de la bioética propuestos por Beauchamp y Childress?",
+      "opciones": [
+        "No maleficencia.",
+        "Igualdad.",
+        "Autonomía.",
+        "Beneficencia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta básica que intenta confundirnos con el concepto de igualdad y justicia. El principio de igualdad no es uno de los principios básicos de la bioética propuestos por Beauchamp y Childress (marcamos la opción de respuesta 2)."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Paciente de 17 años, afecta de una leucemia mieloide aguda de reciente diagnóstico, que acude a Urgencias con muy mal estado general, presentando unos niveles de hemoglobina de 3,9 g/dL. El médico de guardia que valora al paciente indica que la paciente debe recibir una transfusión sanguínea de forma emergente, aunque las convicciones religiosas de esta paciente y de su familia le impiden recibir dicho tratamiento. Señale la actitud MÁS adecuada por parte del médico:",
+      "opciones": [
+        "Proceder a realizar la trasfusión a pesar de la negativa de la paciente y de sus padres y poner el caso en conocimiento del juez.",
+        "Contactar con el juez de guardia para ponerle en conocimiento de la situación y que ordene la realización del tratamiento.",
+        "Abstenerse de realizar la trasfusión e iniciar una sedación paliativa para que la paciente no sufra.",
+        "Intentar persuadir al paciente y a su familia de que reciba la trasfusión."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Según el artículo 31 del código deontológico, el médico nunca dejará de prestar asistencia al paciente que lo necesite por intento de suicidio, huelga de hambre o rechazo al tratamiento. En situaciones límites, previo requerimiento judicial, se aplicará la imprescindible asistencia médica, ya que la preservación de la vida prevalece sobre el principio de autonomía de la persona (según sentencia 121/1990 del Tribunal Constitucional). En este caso, ya que la necesidad de realización de la transfusión es emergente, lo apropiado es primero ayudar a la paciente y después debemos poner el caso en conocimiento del juez (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "El principio que implica abstenerse intencionadamente de realizar acciones que puedan causar daño o perjudicar a otros, se denomina:",
+      "opciones": [
+        "Principio de justicia.",
+        "Principio de beneficencia.",
+        "Principio de no maleficencia.",
+        "Principio de no discriminación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El principio de no maleficencia consiste en abstenerse intencionadamente de realizar acciones que puedan causar daño o perjudicar a otros (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "¿Cuál de los siguientes NO es uno de los cuatro principios de la bioética propuestos por Beauchamp y Childress?",
+      "opciones": [
+        "No maleficencia.",
+        "Confidencialidad.",
+        "Justicia.",
+        "Autonomía."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La confidencialidad no es uno de los principios de la bioética. El resto son ciertas y se completarían con la beneficencia."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Mujer de 70 años que fue diagnosticada hace dos de un carcinoma lobulillar infiltrante de mama derecha estadio T2N2M1 (enfermedad ósea) de inicio que recibió cuatro ciclos de quimioterapia con taxotere y epirrubicina y posteriormente otras tres líneas diferentes de tratamiento por evidencia de progresión a nivel cutáneo y óseo. Ingresa con clínica de dolor en columna dorsal y se realiza RM que evidencia la presencia de una masa expansiva con compresión medular a nivel de T4 y T6. Inicia radioterapia paliativa y dexametasona sin mejoría del dolor y con agravamiento progresivo de la clínica con pérdida de fuerza en pierna izquierda. A la semana comienza con disnea, evidenciándose en Rx de tórax derrame pleural bilateral. Ante esta situación, la MEJOR actitud médica a seguir sería:",
+      "opciones": [
+        "Informar al paciente (y a la familia si el paciente lo autoriza) del mal pronóstico a corto plazo y dar prioridad al control sintomático, planteando si es necesario la sedación paliativa.",
+        "Informar a la familia y prepararla para la fase de duelo, dado que nos encontramos ante una situación premortem.",
+        "Colocar tubo de tórax para toracocentesis y, si persiste la disnea asociada a agitación y angustia, plantear a la familia la conveniencia de sedación.",
+        "Descartar que la disnea se deba a insuficiencia respiratoria aguda por neumonía complicada y comenzar con el tratamiento antibiótico correspondiente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La disnea es frecuente en las últimas horas de la vida y genera gran angustia en el paciente y su familia. En aquellos pacientes en los que se prevé el fallecimiento próximo, la sedación es una alternativa lícita cuando no se logra el control sintomático con otros procedimientos. Debe informarse al paciente y si es preciso (si el paciente lo autoriza o si no está en condiciones de tomar decisiones) a los familiares del pronóstico (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Señale la afirmación FALSA respecto a la sedación paliativa:",
+      "opciones": [
+        "No es preciso que el paciente presente síntomas refractarios.",
+        "Debe haber consentimiento explícito, implícito o delegado del paciente.",
+        "Los fármacos han de ponerse en las dosis y combinaciones requeridas.",
+        "Es la disminución o supresión del nivel de consciencia inducida por fármacos para conseguir un adecuado control sintomático."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para que se paute sedación terminal en un paciente con enfermedad terminal debe haber al menos un síntoma refractario. Los fármacos han de ponerse en dosis y combinaciones requeridas a la situación clínica para paliar el síntoma refractario."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Ante un paciente oncológico en cuidados paliativos que presenta anorexia, indique la medida terapéutica MENOS indicada:",
+      "opciones": [
+        "Amitriptilina.",
+        "Medroxiprogesterona.",
+        "Dexametasona.",
+        "Acetato de megestrol."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La anorexia es la incapacidad del paciente para comer normalmente. La causa principal es la propia carga tumoral, pero también influyen el miedo al vómito, la saciedad precoz, disfunción autonómica, estreñimiento, dolor, fatiga, alteraciones en la boca, hipercalcemia, ansiedad, depresión y efectos secundarios del tratamiento. El tratamiento se basa en medidas generales, preparación adecuada de los alimentos, platos pequeños, raciones pequeñas, medidas farmacológicas, dexametasona, acetato de megestrol, medroxiprogesterona. La amitriptilina no tiene indicación, y se utiliza como coadyuvante en el dolor de tipo neuropático (marcamos la opción de respuesta 1)."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Juan, residente de segundo año, atiende en urgencias a Sofía, una muchacha de 15 años que, al parecer, se ha desmayado en la escuela, sin llegar a perder la conciencia. La paciente cuenta que estaba pendiente de realizar un examen, lo que le causaba mucha ansiedad. Por el interrogatorio, parece entreverse una situación de cierto acoso por parte de sus compañeros y la posibilidad de que sufra un trastorno alimentario. Las constantes vitales y la exploración neurológica son normales. Juan mantiene a Sofía en observación a la espera de que sus padres acudan al servicio, echando periódicamente una ojeada para comprobar cómo se encuentra la paciente. Tras el susto inicial, la paciente parece encontrarse cada vez mas animada y es muy simpática. En una ocasión, Juan la encuentra chateando activamente con su móvil. Juan le indica que sería mejor que dejase el móvil y descansase y, para tranquilizarla, le cuenta que él también utiliza mucho las redes sociales desde la facultad. Sofía pide perdón por desconocer que tenía que tener el móvil apagado y, tras apagarlo, le pregunta si podría hacerle una solicitud de amistad en Facebook. ¿Cuál cree que es la mejor respuesta de Juan?",
+      "opciones": [
+        "Decirle que haga la solicitud de amistad y que la aceptará, pues está seguro de que en su página no hay elementos inapropiados para una chica de la edad de Sofía.",
+        "Dado que considera a Sofía una paciente vulnerable y le preocupa que pueda interpretar mal un rechazo, aceptar que haga la solicitud, pero solamente permitirle el acceso a determinados contenidos de su página.",
+        "Contestarle que es importante mantener unos ciertos límites profesionales entre pacientes y facultativos y que, desafortunadamente, si hace la petición, no podrá aceptarla, por lo que es mejor que no la haga.",
+        "Decirle que haga la petición, pero sin intención de aceptarla."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La actitud correcta a tomar en esta situación consistiría en marcar los límites de la relación médico-paciente de manera respetuosa (respuesta 3 correcta). El resto de respuestas son incorrectas."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "La exigencia que obliga a que las determinaciones diagnósticas y terapéuticas que se tomen con los pacientes respeten escrupulosamente el balance riesgo-beneficio (siendo mayor el beneficio que los posibles riesgos y daños) y que además estén avaladas por la evidencia clínica. ¿A qué principio bioético corresponde esta afirmación?",
+      "opciones": [
+        "Autonomía.",
+        "No maleficencia.",
+        "Beneficencia.",
+        "Justicia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta cuyo enunciado es exactamente la definición principio bioético de no maleficencia (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Con respecto a la información que recuerda el paciente de la que le trasmite el médico, es CIERTO que:",
+      "opciones": [
+        "El material que se presenta primero es el mejor recordado.",
+        "El recuerdo del paciente coincide con la información real trasmitida por el médico.",
+        "Es esencial ser meticuloso para detallar las posibles cuestiones técnicas que puedan surgir a lo largo del proceso de tratamiento (como, por ejemplo, efectos secundarios de tratamiento) en la primera visita.",
+        "Cuanto más alto es el nivel intelectual del médico peor es lo que recuerda el paciente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El material que se presenta primero es el mejor recordado (respuesta 1 correcta). En términos coloquiales, la información que llega primero y la que llega última es más recordable, mientras que el mensaje del medio es fácilmente olvidado; esto también se conoce como \"efecto de posición serial\"."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Paciente de 80 años con EPOC severa y oxígeno a domicilio, que ingresa en el hospital para estudio de pérdida de peso y deterioro general. La Historia Clínica se realiza fundamentalmente a través de los hijos, ya que el paciente es muy poco comunicativo y además parece presentar cierto deterioro cognitivo, con una puntuación de 26 en el Minimental Test. Tras las pruebas realizadas, existe una sospecha justificada de cáncer de colon, por lo que habla con los hijos para tomar la decisión sobre realizar una colonoscopia. Uno de los hijos dice que \"por supuesto, hay que hacer todo por papá\", mientras que otro hijo, médico, tiene sus dudas, argumentando que \"de todas formas no se le va a operar tal y como está\". Las otras dos hijas tienen también dudas, aunque son más proclives a realizar la colonoscopia. A lo largo del ingreso el paciente se ha deteriorado. Usted verifica que es incapaz de entender adecuadamente lo que se le explica sobre la colonoscopia, su naturaleza, objetivos, posibles complicaciones o sus consecuencias. ¿Qué debe hacer ante esta situación?",
+      "opciones": [
+        "Exponer el caso en la sesión de cáncer de colon para saber si en la situación actual al paciente se le trataría del cáncer de colon e informar a la familia de lo que se haya acordado en dicha sesión.",
+        "Realizar la colonoscopia, ya que es prioritario establecer un diagnóstico. Si es preciso solicitar autorización judicial.",
+        "Hacer caso del hijo médico ya que seguro que sabe mucho mejor que los otros hijos qué es lo mejor para su padre.",
+        "Consultar al Comité de Ética, ya que sus decisiones son vinculantes."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Antes de someter a un paciente con una patología grave y/o con mala calidad de vida a una medida invasiva, debemos determinar si dicha medida realmente será beneficiosa para dicho paciente. En este caso, es fundamental saber si el paciente va a ser tratado activamente (cirugía, QT, etc.) en caso de llegar al diagnóstico (respuesta 1 correcta). Si no es así, hay que reconsiderar realizar la colonoscopia."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Paciente de 54 años, competente y capaz, diagnosticado de VIH con carga indetectable, que acude a su médico de Atención Primaria debido a un cuadro progresivo de pérdida de peso de 11 kg en los diez últimos meses, así como dolor abdominal y síndrome depresivo. Se le realiza una TC abdominal que evidencia la presencia de una masa de 3 cm en el proceso uncinado. No se observan adenopatías locorregionales significativas ni otras lesiones sugerentes de afectación metastásica. Se le realiza una biopsia guiada por ecografía que confirma la presencia de un adenocarcinoma acinar. Tras presentar el caso en un comité multidisciplinar, se decide la realización de duodenopancreatectomía cefálica. El paciente rechaza de forma vehemente cualquier tipo de intervención quirúrgica, así como el tratamiento farmacológico. A este respecto, señale la opción más adecuada en esta situación:",
+      "opciones": [
+        "Aceptar la decisión del paciente y citarlo nuevamente para revisión en una semana.",
+        "Descartar la intervención quirúrgica y el tratamiento sistémico e iniciar tratamiento con radioterapia sobre la lesión.",
+        "Poner el caso en conocimiento de su familia para que autoricen la intervención.",
+        "Remitir al paciente a la Unidad de Cuidados Paliativos para realizar un adecuado tratamiento sintomático."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico sobre un rechazo al tratamiento en un paciente capaz y competente. Lo ideal es realizar una comunicación persuasiva: se debe argumentar y aconsejar con sinceridad, evitando actitudes profesionales pasivas y acríticas. Con la persuasión se intenta que el paciente reconsidere la negativa al tratamiento. En muchos casos puede ser eficaz reevaluar al paciente en un corto período de tiempo para volver a plantear la situación e intentar convencerle (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Ante un paciente con un carcinoma en base de lengua con metástasis ganglionares múltiples bilaterales y pulmonares, en tratamiento paliativo con quimioterapia sistémica, que presenta una mucositis orofaríngea grado 4, indique cuál de las siguientes actitudes le parece MÁS adecuada para garantizar un aporte diario adecuado de nutrientes:",
+      "opciones": [
+        "Alimentación parenteral a través de vía venosa periférica.",
+        "Alimentación enteral a través de vía venosa central.",
+        "Alimentación parenteral a través de vía venosa yugular externa derecha.",
+        "Alimentación enteral a través de vía venosa periférica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La alimentación parenteral se utiliza en pacientes en los que, por alteraciones del tipo digestivo, no es posible una ingesta directa (mucositis, fístulas, etc.). El acceso es la vía venosa central, yugular externa o subclavia. Las soluciones contienen aminoácidos, glucosa, lípidos, vitaminas, minerales, oligoelementos y agua. Su administración requiere un control hidroelectrolítico riguroso."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Un hombre de 80 años es llevado a Urgencias por la policía al encontrarle por la noche, en la calle, a varios bloques de su domicilio, algo perdido. Dice al medico de urgencias: “Me encuentro bien; estaba paseando y me he perdido”. La revisión por sistemas es anodina. Al preguntarle por medicaciones, no recuerda. En su historial constan glipzida, atenolol y acenocumarol. Ha estado tres veces en urgencias en los últimos tres meses por “mareo”, dolor lumbar y un INR de 5,0. Refiere independencia en las actividades básicas e instrumentales de la vida diaria. No hay evidencias de familiares o amigos cercanos. Varias referencias del trabajo social del área indican que rechaza ayudas o visitas médicas o de enfermería. En la exploración física, únicamente destaca temperatura de 37,7 ºC; IMC de 16 kg/m2; PA 160/90 mmHg; frecuencia cardíaca de 90 lpm y saturación de oxígeno del 99%. Tiene pérdida global de masa muscular. Está vestido con la bata de casa y huele a orina. Rechaza contestar a las preguntas del Mini-Mental. En las pruebas de laboratorio, destaca: leucocitos 13.000/microL, glucemia 300 mg/dL, hemoglobina A1c 11%, INR 0,9. Orina: más de 50 leucocitos/campo y nitritos +. Urocultivo: > 100.000 colonias de bacilos gramnegativos. Es ingresado en el hospital, recibe antibióticos, insulina y se reinicia acenocumarol con buena evolución. Está estable y quiere irse a su domicilio. La enfermera de planta refiere que es incapaz de autoadministrarse la insulina. ¿Cuál de los siguientes es el próximo paso para determinar la seguridad del paciente en su domicilio?",
+      "opciones": [
+        "Referir a Atención Primaria y trabajo social del área para determinar la seguridad en el domicilio.",
+        "Evaluación formal de la capacidad para tomar decisiones concernientes a su salud.",
+        "Evaluación para descartar demencia.",
+        "Evaluación para descartar depresión."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos presentan un caso de un paciente con un posible deterioro cognitivo no diagnosticado. Ante estas situaciones es imprescindible evaluar la capacidad volitiva del paciente, para discernir si es capaz de tomar decisiones sobre su salud y su persona (respuesta 2 correcta). Una vez determinado esto ya se proseguiría con el pertinente estudio (averiguar si la causa del cuadro de incapacidad se debe a patología neurológica, psiquiátrica, etc.), pero en ningún caso se le podría dar el alta (ni irse de alta voluntaria), hasta haber sido valorada su capacidad de toma de decisiones."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Paciente de 47 años que es diagnosticada de carcinoma lobulillar infiltrante de mama con metástasis suprarrenales y óseas. Tras ser informada de las opciones terapéuticas y su pronóstico, decide no someterse al tratamiento. Todas las siguientes actuaciones estarían indicadas, EXCEPTO:",
+      "opciones": [
+        "Intentar convencerle de que se someta al tratamiento con argumentos sólidos y estructurados.",
+        "Poner el caso en conocimiento de su familia para que ellos le obliguen a someterse al tratamiento.",
+        "Respetar la decisión de la paciente de no recibir el tratamiento, aunque su pronóstico vital empeore a corto plazo.",
+        "Intentar buscar otras opciones terapéuticas que pudieran ser efectivas en este caso."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso en el que es fundamental respetar el principio de autonomía de la paciente. El médico debe intentar convencer al paciente con argumento sólidos y estructurados, así como buscar otras posibles opciones que pudieran ser útiles en este caso, pero en ningún momento debe obligar al propio paciente o intentar que sus familiares le obliguen a someterse al tratamiento, lo que vulneraría el principio de autonomía (marcamos la opción de respuesta 2)."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Entramos en la habitación de Pilar, mujer de 92 años diagnosticada de demencia leve. No está incapacitada legalmente y es independiente. Ha ingresado con una sospecha de cáncer de pulmón, por lo que habría que hacerle una TC y probablemente una broncoscopia. Mantiene sin problema una conversación y está orientada. Está en la habitación con su hija. A la hora de dar la información y decidir la actitud a tomar sobre las pruebas a realizar:",
+      "opciones": [
+        "Informaremos a su hija y que sea ella quien informe a la paciente, pues es quien mejor la conoce y sabe cómo reaccionará.",
+        "Debemos dar la información a la paciente, de acuerdo a la capacidad de comprensión.",
+        "Como médicos responsables de la paciente, sabemos cuál es el mejor tratamiento. Dado que la paciente no es capaz de comprenderlo, la decisión es exclusivamente nuestra.",
+        "Ya hablamos con su hija ayer y decidimos ocultarle la sospecha diagnóstica para que no sufriera, así que no le daremos más información, independientemente de lo que ella nos pregunte."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los pacientes, de acuerdo con su capacidad cognitiva, tienen derecho a conocer toda la información disponible respecto a cualquier actuación en el ámbito de su salud y será el médico responsable del paciente quién garantice el cumplimiento de dicho derecho. Aunque una persona tenga reducida la compentecia, debe ser informada y se le debe hacer partícipe de la toma de decisiones. Los médicos por tanto están obligados a dar al paciente toda la información relevante sobre su problema clínico. La información clínica formará parte de todas las actuaciones asistenciales, será verdadera, se comunicará al paciente de forma comprensible y adecuada a sus necesidades."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Una de las siguientes funciones no es competencia de los comités de ética para la investigación, señálela:",
+      "opciones": [
+        "Aprobación de estudios farmacoepidémicos",
+        "Valoración y aprobación de estudios post-autorización",
+        "Evaluar la privacidad de los sujetos implicados en un ensayo.",
+        "Resolución de conflictos profesionales en el contexto de la realización de un ensayo clínico."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La resolución de conflictos profesionales no es competencia de los comités de ética para la investigación. El resto de opciones son correctas."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Un paciente de 59 años, acude a su consulta de atención primaria con un cuadro de dolor abdominal y estreñimiento. Se realiza una ecografía abdominal y colonoscopia. Se observa ua masa en ciego que corresponde a un adenocarcinoma de colona. Señale cuál es la actitud más adecuada:",
+      "opciones": [
+        "Informar al paciente de su diagnóstico si éste lo desea, intentando resolver sus dudas iniciales sobre la enfermedad y el proceso de tratamiento.",
+        "Derivar al paciente a una consulta de oncología para que le comuniquen el diagnóstico y todo lo que necesite saber a cerca de la enfermedad y del tratamiento.",
+        "No decirle la verdad acerca del diagnóstico y pronóstico de la enfermedad, evitando la palabra cáncer la explicación.",
+        "Preguntar a la familia si quieren que el paciente conozca su diagnóstico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ante un nuevo diagnóstico de cáncer debemos explicar rigurosamente todo lo que el paciente desee y necesite conocer sobre la enfermedad y las actitudes terapéuticas. La respuesta 2 no se puede considerar correcta de inicio, ya que no se debe demorar la comunicación sobre el diagnóstico a que el paciente acuda a la consulta de oncología, ya que esto genera una gran ansiedad en los pacientes, el médico de atención primaria debe intentar responder las dudas iniciales del paciente, siempre acorde a sus conocimientos sobre una materia determinada."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Con respecto a la doctrina actual del derecho respecto a los casos de rechazo, señale la afirmación CORRECTA:",
+      "opciones": [
+        "El respecto a la decisión del médico es el criterio jurídico fundamental, puesto que siempre pretende un beneficio del paciente.",
+        "La decisión del paciente está por encima de la decisión del médico en toda situación, incluyendo las situaciones de riesgo vital, solamente cuando el paciente sea perfectamente capaz de tomar la decisión y en ausencia de imposiciones externas.",
+        "La decisión del paciente y por tanto el respeto a su autonomía es el principio jurídico fundamental. Se deberá respetar la decisión del paciente en todos los casos, aunque no esté probada su perfecta capacidad para tomar decisiones.",
+        "El respeto a la autonomía del paciente es el principio jurídico fundamental y hay que respetar siempre las decisiones de rechazo excepto en situaciones de riesgo vital."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Diferentes sentencias del tribunal constitucional establecen que el derecho a la vida o a la protección de la salud, a pesar de ser derechos protegidos por la Constitución, no son superiores a la libertad de elegir por parte del paciente, por lo que no se pueden imponer, por parte de los poderes públicos, medidas dirigidas a proteger la vida en contra de la libre voluntad del paciente si este no tiene ninguna merma en su capacidad de tomar decisiones (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Un paciente acude a Urgencias debido a un cuadro de hematemesis. Es ingresado para una observación y la realización de una gastroscopia diagnóstica al día siguiente. Cuando el paciente llega a la sala de endoscopias, se niega a someterse a la prueba. Señale la opción CORRECTA:",
+      "opciones": [
+        "Respetar la decisión del paciente, pero intentar convencerlo de que reconsidere esta decisión.",
+        "El paciente puede tener cáncer no diagnosticado, con lo que se procederá a realizar la prueba bajo anestesia general.",
+        "Poner el caso en conocimiento del juez de guardia para que el paciente se someta a la prueba bajo imperativo judicial.",
+        "Dar de alta al paciente inmediatamente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El paciente tienel derecho a negarse a recibir un tratamiento, pero debe asegurarse que está bien informado (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Cuánto dura la obligación de secreto profesional?",
+      "opciones": [
+        "Toda la vida del paciente.",
+        "Toda la vida laboral del profesional sanitario.",
+        "Toda la vida del profesional sanitario.",
+        "Mientras al paciente no se le dé el alta hospitalaria."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La obligación de secreto profesional dura toda la vida del profesional sanitario."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Varón de 71 años, fumador y bebedor habitual, que hace seis meses fue diagnosticado de carcinoma epidermoide supraglótico estadio T3 N3 M0 tras la cirugía. Sigue revisiones mensuales en el Servicio de Otorrinolaringología, en la última de las cuales el paciente refiere hemoptisis por el orificio de la traqueostomía. Los estudios de imagen confirman la presencia de recidiva local con masa vegetante, ulcerada y sangrante. Se procede al ingreso del paciente para control sintomático y se presenta el caso en el comité de tumores del hospital, decidiéndose tratamiento mediante radioterapia con intención paliativa. A las 24 horas del inicio del mismo, comienza con sangrado incoercible que le genera gran ansiedad. ¿Qué medida debería adoptar el médico de guardia del Servicio de Oncología?",
+      "opciones": [
+        "Expansores de plasma y transfusión de varios concentrados de hematíes taponando la zona de sangrado.",
+        "Si permanece consciente, hablar con el paciente y plantearle iniciar sedación con midazolam para control sintomático.",
+        "Intentar una sesión urgente de radioterapia para frenar el sangrado.",
+        "Taponamiento del traqueostoma y si persiste la hemorragia meter al paciente en quirófano para cirugía paliativa urgente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La hemorragia masiva puede ser el evento final en tumores del aparato respiratorio. Si el paciente está consciente suele ser una situación muy impactante tanto para él como para su familia, por lo que es necesario, tras hablar con el paciente, plantear el inicio de una sedación con 5-10 mg i.v. o 10-20 mg s.c. de midazolam (respuesta 2 correcta). No debes olvidar que para realizar una sedación paliativa deberíamos contar con el consentimiento del paciente. Si no puede dar el consentimiento porque en ese momento no es competente, se debería obtener el \"consentimiento delegado\" de sus allegados (de sus representantes). Solo en caso de no poder obtener el consentimiento por ninguna de estas vías podríamos actuar sin el consentimiento del paciente o de los allegados con una sedación paliativa."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Señale la respuesta CORRECTA en relación con los comités de ética para la asistencia sanitaria:",
+      "opciones": [
+        "Dan recomendaciones respecto a cómo tiene que hacerse la investigación con seres humanos.",
+        "\"Los comités de ética asistencial median, apoyan y hacen recomendaciones sobre los aspectos y conflictos éticos de la asistencia sanitaria.\"",
+        "\"Regulan especialmente los ensayos clínicos. \"",
+        "Se sitúan en la consejería de Sanidad específica para cada autonomía."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los CEAS no revisan la investigación con seres humanos: aconsejan ante posibles conflictos éticos en la práctica asistencial"
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "¿Qué profesional sanitario tiene la obligación de prestar un socorro inmediato y urgente?",
+      "opciones": [
+        "El que se encuentre prestando servicios profesionales en esos momentos",
+        "Sólo los médicos",
+        "Los médicos especializados en la atención que la situación requiere",
+        "Cualquier profesional sanitario"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Compromete a todo profesional sanitario como persona indicada para prestar un socorro inmediato y urgente"
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "El consentimiento informado se obtiene por escrito en la mayoría de las intervenciones diagnósticas o terapéuticas llevadas a cabo en un centro sanitario, con algunas excepciones. Todas las siguientes situaciones están exentas de obtener el documento por escrito por parte del paciente, excepto una:",
+      "opciones": [
+        "Cuando la no intervención suponga un riesgo para la salud pública.",
+        "Cuando el paciente voluntariamente se presta a la donación de embriones.",
+        "Cuando el paciente no esté capacitado para tomar decisiones, en cuyo caso, el derecho corresponderá a sus familiares o personas allegadas a él.",
+        "Cuando la urgencia no permita demoras por poder ocasionar lesiones irreversible o existir peligro de fallecimiento."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se pregunta cuándo no es necesario que el propio paciente tenga que firmar el consentimiento escrito."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "De los siguientes fármacos quimioterápicos, indique cuál tiene un MAYOR potencial emético:",
+      "opciones": [
+        "Docetaxel.",
+        "Cisplatino.",
+        "Carboplatino.",
+        "5-Fluorouracilo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El cisplatino es un derivado del paciente utilizado en el tratamiento de múltiples patologías oncológicas (cérvix, faringe, etc.), y de entre todas las opciones es el que presenta un mayor potencial emético."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "El establecer una comunicación abierta con el enfermo en situación terminal es para los profesionales sanitarios un escollo difícil de salvar en la práctica diaria. Con relación a la comunicación médico-paciente en esta situación, una de las siguientes afirmaciones NO es correcta. Señálela:",
+      "opciones": [
+        "El 93% de la comunicación es no verbal.",
+        "La actitud de escucha adecuada es de pie al lado de la cama del enfermo.",
+        "La comunicación de la verdad no se alcanza en una sola entrevista, sino en múltiples.",
+        "La honestidad del mensaje nunca debe cambiarse para mejorar su aceptación."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La actitud de escucha adecuada es sentado al lado o en la cama del enfermo, nunca de pie y nunca con los brazos cruzados (opción 2 incorrecta, por lo que la marcamos). Las demás opciones de respuesta son correctas."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "La agonía es el estado que precede a la muerte en el contexto de un deterioro progresivo en el paciente terminal. Solo uno de los siguientes signos y síntomas pueden formar parte del contexto clínico del paciente en dicha situación, señálelo:",
+      "opciones": [
+        "Capacidad deglutoria conservada para la administración oral de medicación y suplementos.",
+        "Función esfinteriana y motilidad conservadas.",
+        "Evidencia o percepción de la realidad de la situación alterada.",
+        "Alteración del nivel de conciencia y desorientación."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El enfermo en fase de agonía presenta disminución del nivel de conciencia, aunque tiene percepciones de la realidad (Respuesta 4 correcta, respuesta 3 falsa), por lo que es posible comunicarse con él y preguntarle sobre su confort o problemas que pueda manifestar. Es habitual la utilización de comunicación no verbal, indicando a la familia que eviten hacer comentarios inapropiados en presencia del paciente. La función esfinteriana y la capacidad deglutoria están alteradas."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Paciente de 80 años en situación terminal que presenta dolores lancinantes en extremidad inferior derecha siguiendo el dermatoma de L5. El paciente solo responde parcialmente al tratamiento con morfina oral. Indique cuál de las siguientes actitudes le parece MÁS adecuada para mejorar su sintomatología:",
+      "opciones": [
+        "Morfina intravenosa.",
+        "Gabapentina.",
+        "Fentanilo transdérmico.",
+        "Codeína."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El dolor neuropático lancinante no suele responder a los opioides y en estos casos es necesario añadir un tratamiento con un antiepiléptico como la gabapentina, fenitoína, pregabalina o carbamazepina (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "A la hora de atender pacientes en situaciones graves y complejas, ¿cuáles son las dos actitudes esenciales para una buena relación médico-paciente?",
+      "opciones": [
+        "Demostrar buenos conocimientos y asertividad.",
+        "Tenacidad y constancia.",
+        "Empatía y compasión.",
+        "Seguridad y destreza."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta extraña sobre la relación médico-paciente, en la que nos piden que indiquemos las dos actitudes esenciales para una buena relación médico-paciente. Las respuestas 1,2 y 4 hacen referencia a habilidades cognitivas y laborales, mientras que la 3(opción 3 correcta) hace referencia a habilidades emocionales. Es necesario recordar que para una adecuada relación médico-paciente es necesario ser capaz de ponerse en el lugar del paciente."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "¿Cuál de los siguientes sistemas de prescripción terapéutica le parece el MÁS adecuado para evitar errores en el tratamiento del paciente hospitalizado?",
+      "opciones": [
+        "Informar directamente a la enfermera de más confianza.",
+        "Escribir de puño y letra todos los pormenores del tratamiento.",
+        "Dictar el tratamiento a la secretaria para que lo pase a la enfermera/o.",
+        "Cumplimentar el registro de prescripción electrónica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El método más adecuado consistiría en registrarlo correctamente en el sistema de prescripción electrónica, de tal forma que quede constancia de ello (respuesta 4 correcta). También es importante comentárselo a la enfermera/o (puesto que no siempre pueden mirar las actualizaciones realizadas); sin olvidar que siempre debe quedar registrado en el sistema."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "En cuanto a las complicaciones intercurrentes que pueden definir una situación de terminalidad en el seno de una demencia avanzada, es CIERTO que:",
+      "opciones": [
+        "Generalmente la disfagia orofaríngea es un signo que aparece en fases tempranas de la enfermedad.",
+        "Las neumonías por mecanismo broncoaspirativo definen una situación de terminalidad desde su primer episodio.",
+        "La aparición de úlceras por presión es consecuencia de una situación de inmovilidad, desnutrición y pérdida del autocuidado.",
+        "La desnutrición que aparece en la demencia avanzada frecuentemente mejora con suplementos dietéticos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las úlceras por presión son una complicación de origen multifactorial, y aparecen por la confluencia de inmovilidad, pérdida de autocuidado y desnutrición (respuesta 3 correcta). Repasemos las demás opciones de respuesta:\n\n1.- Ninguna situación debe definirse como terminal por la aparición de un único episodio intercurrente de complicación.\n\n2.- Las complicaciones más frecuentes en la demencia avanzada son de índole infecciosa, derivadas del síndrome confusional o asociadas a otros síndromes geriátricos clásicos.\n\n4.- La desnutrición generalmente no responde al uso de suplementos."
+    }
+  ]
+}

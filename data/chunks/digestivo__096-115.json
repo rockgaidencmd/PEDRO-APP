@@ -1,0 +1,511 @@
+{
+  "materia": "digestivo",
+  "paginaInicio": 96,
+  "paginaFin": 115,
+  "anomalias": [
+    "p96: sodio y potasio se expresan en mg/dl ('sodio 140 mg/dl, potasio 4 mg/dl') en lugar de mEq/L",
+    "p98: el enunciado dice 'diagnosticado de colitis ulcerosa desde hace 11' y falta la unidad (años)",
+    "p105-p106: el comentario remite a '(ver imagen en sección inferior)' pero no hay ninguna imagen ni enlace; en p106 el espacio correspondiente está completamente en blanco",
+    "p106: el enunciado del caso de pancolitis ulcerosa intercala la frase suelta 'ADVP acude por malestar general, astenia y ligera ictericia.' que no encaja con el resto del caso",
+    "p106: la pregunta 'Una mujer de 35 años, con ingesta de alcohol importante...' está duplicada (ya aparece en p103) con la misma clave (4) pero con comentarios distintos y parcialmente contradictorios: en p103 se dice que ni transaminasas ni bilirrubina son indicadores pronósticos, y en p106 que 'el pronóstico es bueno'",
+    "p108: Resp. Correcta 4 ('Los niveles de coproporfirinas séricos estarán incrementados') pero el comentario afirma lo contrario: 'Los niveles de coproporfirinas séricos estarán normales pero a expensas de las de tipo I'",
+    "p108: sodio y potasio se expresan en mEq/ml ('sodio 142 mEq/ml, potasio 4.1 mEq/ml') en lugar de mEq/L",
+    "p110: el comentario dice 'ni presencia de fiatulas'; la palabra está corrompida y debe leerse 'fístulas', dato clave para diferenciar colitis ulcerosa de enfermedad de Crohn",
+    "p111: el enunciado y el comentario traen palabras fusionadas sin espacio: 'SAMUR pordesorientación', 'H. pylories un bacilo', 'sobrevivir alH. pylorien medio ácido'",
+    "p112: el comentario trae palabras fusionadas sin espacio: 'Ellíquido presenta unos valores'"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 96,
+      "enunciado": "Varón de 56 años con cirrosis alcohólica en seguimiento por digestivo, asintomático e independiente para las actividades de la vida diaria, en el que en una ecografía de control presenta un nódulo hipoecogénico de 7 cm en segmento VII hepático y liquido libre abdominal. La analítica mostraba: Hb 12.2 g/dl, leucocitos 5000/mm3, plaquetas 80.000/mm3, glucosa 90 mg/dl, urea 35 mg/dl, creatinina 0.9 mg/dl, GOT 65 U/L, GPT 48 U/L, GGT 66 U/L, bilirrubina total 1.5 mg/dl, fosfatasa alcalina 30 U/L, LDH 150 U/L, amilasa 30 U/ml, sodio 140 mg/dl, potasio 4 mg/dl. El TC con contraste confirmó dicho nódulo con realce en fase arterial y lavado precoz en fase venosa. ¿Cuál sería el tratamiento más adecuado?:",
+      "opciones": [
+        "Segmentectomía hepática",
+        "Trasplante hepático",
+        "Quimioembolización",
+        "Sorafenib oral"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se describe un paciente cirrótico alcohólico con vida normal y una lesión ocupante de espacio sólida cuyo comportamiento con contraste en las pruebas de imagen es típico de hepatocarcinoma (marcado realce en fase arterial y aclaramiento rápido en fase venosa). Dado que presenta un tamaño mayor de 5 cm y datos sugerentes de hipertensión portal (ascitis), se trataría de un estadío B de la BCLC y requeriría quimioembolización."
+    },
+    {
+      "paginaPdf": 96,
+      "enunciado": "En el tratamiento de mantenimiento a largo plazo en pacientes con enfermedad inflamatoria intestinal, ¿cuál de los siguientes fármacos es el MENOS recomendable?",
+      "opciones": [
+        "Azatioprina.",
+        "Mesalazina.",
+        "Prednisona.",
+        "6-Mercaptopurina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta muy clásica sobre el tratamiento médico de la enfermedad inflamatoria intestinal. Nunca se debe utilizar tratamiento con corticosteroides (prednisona) como mantenimiento por el riesgo de efectos secundarios asociados a los mismos. Estos solo se deben utilizar en el manejo del brote."
+    },
+    {
+      "paginaPdf": 97,
+      "enunciado": "¿Quién realiza la activación de tripsinógeno a tripsina en duodeno?",
+      "opciones": [
+        "La colecistoquinina",
+        "La secretina",
+        "La enterocinasa",
+        "la lipasa"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La enterocinasa duodenal realiza la activación de tripsinógeno a tripsina siendo esta última la que activa al resto de enzimas pancreáticos"
+    },
+    {
+      "paginaPdf": 97,
+      "enunciado": "En un programa de cribado de cáncer de colon, a un paciente de 52 años se le realiza una colonoscopia. Todo el colon es de aspecto normal, salvo el hallazgo de un pólipo pediculado de 2 cm en sigma que se extirpa con asa de diatermia. El resultado anatomopatológico nos indica que existe un carcinoma “in situ” limitado a la cabeza del pólipo. Tiene una TC toracoabdominal informada como normal. Indique cuál sería la conducta correcta a seguir:",
+      "opciones": [
+        "Resección segmentaria del colon afecto.",
+        "Vigilancia periódica endoscópica.",
+        "Resección local de la base del pólipo.",
+        "Sigmoidectomía más linfadenectomía."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Un pólipo con un carcinoma in situ implica que la lesión maligna está limitada a la capa mucosa. Por ello, la resección completa del pólipo implicaría su curación. Lo más importante es tener la certeza en el informe anatomopatológico de que los márgenes están libres y por tanto no nos hemos dejado ningún resto tumoral. En el caso, nos informan de que es un pólipo pediculado que se reseca de forma completa, y que el carcinoma in situ se encuentra sólo en la cabeza del pólipo, por lo que los márgenes están respetados. Encima nos dan el dato de que en el TC no se ven otras alteraciones, como adenopatías que podría orientar a que el tumor se hubiera extendido. Por ello, la indicación es la vigilancia endoscópica (opción 2 correcta)."
+    },
+    {
+      "paginaPdf": 97,
+      "enunciado": "A un paciente de 24 años con antecedente de sinusitis de repetición se le ha realizado una biopsia intestinal por síndrome de malabsorción. Se ha demostrado atrofia subtotal de las vellosidades con un infiltrado linfocitario en lámina propia sin evidencia de células plasmáticas. Cinco meses después de la retirada del gluten, continúa con síntomas. Lo más probable es que:",
+      "opciones": [
+        "Incumpla la dieta.",
+        "Presente un linfoma.",
+        "Padezca una hipogammaglobulinemia.",
+        "Haya desarrollado un adenocarcinoma."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La hipogammaglobulinemia es una de las pocas entidades en que la biopsia intestinal es patognomónica, y aporta el dignóstico. En el estudio anatomopatológico, se observa ausencia de células plasmáticas. Otras enfermedades en las que la biopsia intestinal es diagnóstica son: linfangiectasia intestinal (dilataciones tortuosas de los vasos linfáticos), enfermedad de Whipple (macrófagos con inclusiones PAS+), abetalipoproteinemia (enterocitos cargados de gotas lipídicas). Por lo que es evidente que no se trata de una enfermedad celíaca y que, por tanto, no haya mejoría tras una dieta sin gluten."
+    },
+    {
+      "paginaPdf": 98,
+      "enunciado": "Un joven de 30 años está diagnosticado de colitis ulcerosa desde hace 11. En los dos últimos análisis de sangre se ha determinado una elevación de la fosfatasa alcalina en sangre. En base a la enfermedad que se debe sospechar, ¿cuál de las siguientes afirmaciones le parece INCORRECTA?",
+      "opciones": [
+        "El diagnóstico se realiza con colangioRM o CPRE.",
+        "El paciente puede presentar prurito, ictericia y episodios de fiebre con dolor en hipocondrio derecho.",
+        "El pronóstico de la enfermedad es bueno.",
+        "La imagen radiológica típica consiste en un arrosariamiento de la vía biliar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La presencia de colestasis en un paciente varón en la edad media de la vida y con colitis ulcerosa nos debe hacer sospechar una colangitis esclerosante primaria (CEP). El diagnóstico de elección en la CEP es la colangioRM (previamente era la CPRE, aunque es invasiva con mayor tasa de complicaciones, reservándose para casos dudosos), que muestra dilataciones y ensanchamientos múltiples de la vía biliar extra e intrahepática. Esta enfermedad puede presentarse con episodios similares a una colangitis bacteriana, con síntomas similares. El pronóstico de esta enfermedad no es bueno, ya que la supervivencia es de unos 9 a 12 años tras el diagnóstico; además, tienen una mayor incidencia de colangiocarcinoma."
+    },
+    {
+      "paginaPdf": 98,
+      "enunciado": "Varón de 12 años con al menos 6 episodios de pancreatitis aguda de carácter leve de origen idiopático desde los 8 años. Acude nuevamente consulta por un nuevo episodio de pancreatitis aguda. El estudio con Colangio-RMN, ecoendoscopia y microscópico de bilis fueron normales. En relación con una de las entidades que debería sospechar, señale la que considera incorrecta:",
+      "opciones": [
+        "Es una posible causa de pancreatitis crónica.",
+        "Tienen un riesgo muy elevado de cáncer de páncreas.",
+        "Se debe normalmente a la mutación del gen inhibidor de la tripsina.",
+        "Se produce por aumento de la activación del tripsinógeno en tripsina activa."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En un paciente muy joven con pancreatitis de repetición y sin otras etiologías debe considerarse la posibilidad de una pancreatitis hereditaria. El gen inhibidor de la tripsina (SPINK1) aunque esta implicado, no es el más frecuente. La mutación más frecuente es la del gen que codifica para el tripsinógeno catiónico (PRSS1)."
+    },
+    {
+      "paginaPdf": 99,
+      "enunciado": "¿Cuál de las siguientes características NO le parece que corresponda a los síntomas de una úlcera duodenal?:",
+      "opciones": [
+        "Dolor agudo quemante en el epigástrio.",
+        "El dolor aparece entre hora y media y tres horas después de las comidas.",
+        "No suele ser nocturno.",
+        "El dolor puede localizarse en hipocondrio derecho."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aunque no hay ningún dato patognomónico en la clínica para diferenciar úlcera gástrica de duodenal, sí puede haber síntomas y signos característicos de una u otra localización.\n\nEn la úlcera duodenal, el dolor aparece entre una hora y media a tres horas depués de las comidas, y que se alivia con los alimentos o con antiácidos/antisecretores, típicamente despierta por la noche al paciente entre las 00h y las 3 a.m. El dolor es inducido por el ácido. Mientras que la úlcera gástrica, tiene un patrón menos típico y más irregular para el dolor, aunque es más frecuente la presencia de vómitos."
+    },
+    {
+      "paginaPdf": 99,
+      "enunciado": "Paciente de 23 años que refiere malestar postprandial con dolor leve de tipo cólico, digestión pesada y sensación de distensión abdominal. Acerca del cuadro que presenta el paciente, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Se realizará gastroscopia para descartar organicidad.",
+        "La asociación a H. pylori es excepcional, por lo que no es necesario investigar ni erradicar en caso de ser positivo.",
+        "Si presenta estreñimiento asociado, el diagnóstico más probable hace que deba descartarse una obstrucción intestinal con colonoscopia.",
+        "No tiene datos de alarma, lo que permite el tratamiento directo del paciente sin realizar más pruebas complementarias."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La dispepsia funcional es un proceso frecuentemente asociado al Síndrome de intestino irritable que puede cursar con sensación de ardor o de digestiones pesadas. El estreñimiento que nos relatan puede formar parte de ese intestino irritable y no obligatoriamente de una estenosis que condicione una obstrucción. En pacientes jóvenes sin signos de alarma puede tratarse según los síntomas sin necesidad de realizar más exploraciones. El estudio de H. pylori en estos casos está recogido en los últimos consensos y algunos pacientes se benefician de la erradicación. El tratamiento suele realizarse con IBPs o anti-H2, procinéticos y fármacos para flatulencia tipo simeticona. El tratamiento con antiácidos y protectores de mucosa mejora solo a algunos pacientes con dispepsia de tipo ulceroso y de forma sintomática no mantenida."
+    },
+    {
+      "paginaPdf": 99,
+      "enunciado": "¿Cuál de los siguientes tratamientos NO se considera como potencialmente curativo del carcinoma hepatocelular?:",
+      "opciones": [
+        "Cirugía resectiva",
+        "Radiofrecuencia",
+        "Sorafenib",
+        "Trasplante hepático"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El Sorafenib es un quimioterapia oral que aumenta la supervivencia de pacientes con hepatocarcinoma avanzado pero no curativo. El resto de opciones si lo son."
+    },
+    {
+      "paginaPdf": 100,
+      "enunciado": "Varón de 62 años, fumador, diabético y bebedor diario, acude traído por su familia por astenia e ictericia marcada en la ultima semana. La analítica mostraba los siguientes resultados: Hb 16.2 g/dl, leucocitos 12500/mm3, PMN 75%, plaquetas 180.000/mm3, actividad de protrombina 35%, glucosa 160 mg/dl, urea 36 mg/dl, creatinina 1.2 mg/dl, GOT 237 U/L, GPT 138 U/L, GGT 1520 U/L, bilirrubina total 9.6 mg/dl, fosfatasa alcalina 170 U/L, LDH 390 U/L, amilasa 40 U/ml, sodio 140 mEq/L, potasio 4 mEq/L. El estudio especifico de hepatopatía fue: anti-VHA IgM negativo, anti-VHA IgG positivo, AgHBs -, antiHBs +, antiHBc +, AgHBe -, antiHBe -, Ag-VHD -, Ac-VHC -, ANA -, Ac anti- musculo liso -, anti-LKM -, pANCAs -, Ac anti-citosol hepático -, AMA -, inmunoglobulina G 800 mg/dl (Valores normales 700-1700 mg/dl). La ecografía fue normal salvo mínima cantidad de liquido perihepático. En base a su diagnóstico de presunción, ¿cuál sería el tratamiento más adecuado?:",
+      "opciones": [
+        "Silibinina oral.",
+        "Esteroides orales.",
+        "N-acetilcisteina oral.",
+        "Trasplante hepático urgente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se presenta el caso de un paciente bebedor y que presenta un cuadro compatible con una hepatitis aguda alcohólica, puesto que presenta leucocitosis leve hipertransaminasemia moderada y marcada ictericia y deterioro de la coagulación. Si se realizará el índice de Maddrey, dado el marcado deterioro de la coagulación y la elevada hiperbilirrubinemia, se encontrará seguramente con un valor superior a 32. Ello le confiere que sea una hepatitis grave y por tanto, se beneficia del uso de esteroides orales."
+    },
+    {
+      "paginaPdf": 100,
+      "enunciado": "¿Quién degrada el pepsinógeno a pepsina en la cavidad gástrica?",
+      "opciones": [
+        "H pylori",
+        "El ácido clorhídrico",
+        "la gastrina",
+        "la histamina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El ácido clorhídrico es el responsable de la degradación del pepsinógeno a pepsina (actividad proteolítica)"
+    },
+    {
+      "paginaPdf": 101,
+      "enunciado": "Mujer de 40 años que presenta diarrea de hasta 10 deposiciones al día de dos meses de evolución. La grasa en heces de 24 horas es de 9 g. Se realizó un test de D-xilosa con niveles bajos en orina a las cinco horas. La alfa-1-antitripsina fecal es alta. ¿Cuál, de entre los siguientes, es el diagnóstico MÁS probable?",
+      "opciones": [
+        "Enfermedad de Whipple.",
+        "Sobrecrecimiento bacteriano.",
+        "Insuficiencia pancreática.",
+        "Esclerodermia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico sobre una diarrea crónica en el que el test de grasa en heces y el test de D-xilosa son patológicos. Ello hace que ya pueda descartarse una maldigestión y, por tanto, la insuficiencia pancreática. La alfa-1-antitripsina fecal elevada indica que hay una enteropatía pierde-proteínas, por lo que la causa de esteatorrea es una malabsorción por enteropatía que, entre las que se citan, aparece en la enfermedad de Whipple (respuesta 1 correcta), que produce una enteropatía (afectación de la pared intestinal) cuya biopsia es patognomónica (macrófagos con inclusiones PAS+). El sobrecrecimiento bacteriano no altera la pared intestinal."
+    },
+    {
+      "paginaPdf": 101,
+      "enunciado": "Paciente diagnosticado de fibrosis retroperitoneal que presenta astenia, prurito e ictericia. En la analítica se observa elevación de la fosfatasa alcalina, GGT y bilirrubina, con ALT normal. En la CPRE se observan estrechamientos y dilataciones multifocales de los conductos biliares intra y extrahepáticos, y en la biopsia se objetiva disminución de los conductos biliares normales e imágenes en piel de cebolla. El diagnóstico de este paciente es:",
+      "opciones": [
+        "Colangitis esclerosante primaria.",
+        "Cirrosis biliar primaria.",
+        "Síndrome de Dubin-Johnson.",
+        "Enfermedad de Wilson."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ante la presencia de un cuadro de colestasis y una CPRE con semejantes hallazgos, el diagnóstico más probable es el de colangitis esclerosante primaria. Esta enfermedad se asocia a colitis ulcerosa en un altísimo porcentaje de casos, pero también puede relacionarse con otras patologías con un componente autoinmune (observa que, en este caso, nos hablan de fibrosis retroperitoneal, con la que también se asocia). Por otra parte, en la biopsia nos mencionan imágenes en piel de cebolla en los conductos biliares. Esto nos confirma el diagnóstico, puesto que este hallazgo es patognomónico de la colangitis esclerosante primaria. De todas formas, recuerda que, en general, la prueba más útil es la CPRE (aunque actualmente se prefiere la colangioRM al evitar las complicaciones de la CPRE que es una prueba invasiva, ya que aporta información anatómica muy precisa de la vía biliar), porque las imágenes en piel de cebolla solo se aprecian en un escaso porcentaje de casos. Por ello, la biopsia no es práctica habitual en esta enfermedad."
+    },
+    {
+      "paginaPdf": 102,
+      "enunciado": "Un paciente de 18 años acude a urgencias por haber ingerido lejía dos horas antes. No hay evidencia de perforación. En la esofagoscopia se observa que la mucosa esofágica está edematosa y eritematosa. ¿Cuál de las siguientes actitudes es más correcta?",
+      "opciones": [
+        "Tratamiento esteroideo.",
+        "Exploración quirúrgica del mediastino.",
+        "Iniciar alimentación oral a las 48 horas.",
+        "Administrar alimentación parenteral durante 10 días."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La esofagitis por cáusticos puede aparecer tras la ingestión de ácidos o bases fuertes. La sintomatología depende de la severidad de la esofagitis. Oscila desde el paciente asintomático hasta una intensa odinofagia, con disfagia, hemorragia o perforación. No existe una buena correlación entre los síntomas y los hallazgos de la exploración física con la severidad de las lesiones en esófago o estómago.\n\nEn cuanto al manejo diagnóstico, está indicado hacer una laringoscopia directa, una radiografía de tórax para descartar perforación y, en las primeras 24 horas, una endoscopia. Respecto al manejo terapéutico, las bases fuertes no deben ni neutralizarse ni diluirse; los ácidos fuertes tampoco deben neutralizarse, pero sí que pueden diluirse. La mayoría de los autores recomiendan profilaxis antibiótica, pues la sobreinfección incrementa el riesgo de estenosis. Los esteroides, en cambio, no han demostrado utilidad (ni tampoco la ACTH, con el mismo propósito). Se recomienda iniciar la alimentación oral cuanto antes. Sólo se recurre a la alimentación parenteral en caso de perforación esofágica o estenosis tardías severas.\n\nEn el caso de estenosis como complicación tardía, el tratamiento es la dilatación, aunque en bastantes casos hay que llegar a la esofaguectomía. Los pacientes con esofagitis cáustica tienen un aumento de riesgo de carcinoma epidermoide de esófago hasta 40 años después del episodio."
+    },
+    {
+      "paginaPdf": 102,
+      "enunciado": "Varón de 40 años diagnosticado de enfermedad de Crohn ileocólica hacía 20 años y en tratamiento con Azatioprina de mantenimiento con buena evolución. Acude por astenia y aumento de numero de deposiciones a mínimo 15 al día, algunas nocturnas. Había perdido unos 6 kg. Ante esta situación el paciente inició tratamiento con Prednisona con escasa respuesta tras 3 semanas de tratamiento. La exploración física era anodina y la analítica mostraba: Hb 9.2 g/dl, leucocitos 18500/mm3, plaquetas 550.000/mm3, glucosa 90 mg/dl, urea 40 mg/dl, creatinina 1.2 mg/dl, GOT 10 U/L, GPT 15 U/L, GGT 16 U/L, bilirrubina total 1.2 mg/dl, fosfatasa alcalina 50 U/L, LDH 100 U/L, anti-VHA IgM -, anti-VHA IgG +, AgHBs +, antiHBs -, antiHBc +, AgHBe -, antiHBe +, DNA-VHB indetectable, Ag-VHD -, Ac-VHC -, RNA-VHC indetectable, Ac antiVEB IgG positivos, Ac anti VEB IgM negativos, Ac anti-CMV IgG -, Ac anti-CMV IgM -. Los estudios microbiológicos en heces fueron negativos con disbacteriosis. En este momento señale cual sería la actitud que tomaría en primer lugar:",
+      "opciones": [
+        "Iniciar Rifaximina oral.",
+        "Iniciar Tenofovir oral.",
+        "Iniciar Infliximab i.v.",
+        "Iniciar Aciclovir oral."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de un paciente con una enfermedad de Crohn que presenta un nuevo brote con criterios de corticorrefractariedad. Por ello es previsible que precise iniciar biológico. Sin embargo presenta una hepatitis crónica B no replicativa (estadío portador). Antes de ello debe iniciarse tratamiento antiviral para evitar una reactivación."
+    },
+    {
+      "paginaPdf": 103,
+      "enunciado": "Una mujer de 35 años, con ingesta de alcohol importante desde hace años, acude a Urgencias por ictericia y malestar general. En la analítica efectuada se observa lo siguiente: GPT 3.358 mU/ml; GOT 2.855 mU/ml, bilirrubina total 8 mg/dl. ¿Cuál de estas afirmaciones es CORRECTA?:",
+      "opciones": [
+        "El pronóstico de la hepatopatía es grave.",
+        "Probablemente sufre una hepatitis alcohólica.",
+        "Probablemente se trata de una ictericia obstructiva.",
+        "La analítica es sugestiva de necrosis hepática extensa."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una paciente con elevación importante de las transaminasas, lo que traduce una intensa citolisis (necrosis) hepática. Además, presenta ictericia, que es un hallazgo que puede asociarse en las hepatitis agudas. Con una elevación tan intensa de las transaminasas es poco probable que se trate de una ictericia obstructiva, además una obstrucción biliar las enzimas que suele elevar son las de colestasis (GGT y FA). La hepatitis alcohólica suele cursar con elevación moderada de las transaminasas (menos de 300 mU/ml, generalmente).\n\nRecuerda que ni la cifra de transaminasas ni la cifra de bilirrubina son indicadores pronósticos en la hepatitis aguda y lo que define la gravedad es la presencia de coagulopatía y encefalopatía (hepatitis aguda fulminante)."
+    },
+    {
+      "paginaPdf": 103,
+      "enunciado": "El síndrome portopulmonar que aparece en pacientes cirróticos NO se caracteriza por una de las siguientes afirmaciones. Señálela:",
+      "opciones": [
+        "Se trata de una hipertensión pulmonar como consecuencia de la hipertensión portal.",
+        "Presenta ortodeoxia.",
+        "Es una complicación grave que en ocasiones contraindica el trasplante hepático.",
+        "Generalmente se presenta en cirrosis avanzada."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El síndrome portopulmonar es una complicación generalmente en pacientes con cirrosis avanzada y que se caracteriza por una hipertensión pulmonar por vasoconstricción y posterior fibrosis a nivel pulmonar precapilar. En casos graves contraindica un trasplante hepático y debe diferenciarse del síndrome hepatopulmonar, que se caracteriza por ortodeoxia, consecuencia de una redistribución vascular del riego pulmonar."
+    },
+    {
+      "paginaPdf": 104,
+      "enunciado": "Varón de 45 años que consulta por dolor abdominal epigástrico. Una endoscopia demuestra una úlcera gástrica a nivel del antro. Las biopsias descartan malignidad. Se inicia tratamiento con 20 mg/día de omeprazol. A las cuatro semanas se le hace un control endoscópico que demuestra que el lecho ulceroso persiste, aunque se ha reducido en un 75%. Se mide la gastrina sérica, que está claramente elevada. ¿Qué haría con este paciente?",
+      "opciones": [
+        "Aumentar omeprazol a 40 mg/día.",
+        "Cirugía.",
+        "Le haría un TAC pancreático.",
+        "Seguiría con el mismo tratamiento."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Algunos tumores gástricos pueden debutar como úlceras gástricas, por lo que es obligatorio, al hacer un diagnóstico por imagen de un ulcus gástrico, tomar biopsias para descartar malignidad. Además, las úlceras gástricas, en general, suelen ser más grandes que las duodenales, y por ello su tiempo necesario para la cicatrización es mayor. Los fármacos que se emplean son los antisecretores, fundamentalmente inhibidores de la bomba de protones, como el omeprazol. El tiempo estimado de tratamiento con omeprazol necesario para la cicatrización de una úlcera gástrica es de unas 4-8 semanas. En este caso, parece que el tratamiento está siendo correcto, aunque aún habría que mantenerlo 4 semanas más (respuesta 4 correcta). En cuanto a la gastrina, es normal que se eleve mientras estamos en tratamiento con un IBP ya que, al inhibir la bomba de protones, aumenta el pH gástrico por disminuir la secreción ácida en el estómago (hipoclorhidria) y estimula las células G productoras de gastrina para activar a las células parietales; este es el mecanismo fisiológico de regulación de la secreción ácida y no hay que pensar en la presencia de un gastrinoma."
+    },
+    {
+      "paginaPdf": 104,
+      "enunciado": "Varón de 45 años, cirrótico VHC y fumador de 10 cigarrillos/día. Entre sus antecedentes, destaca episodio de encefalopatía hace cuatro meses. Ingresa en Urgencias por melenas, donde se observa una hemorragia por varices tratada con somatostatina y esclerosis con oleato de etanolamina. A los cinco días no presenta recidiva hemorrágica. ¿Cuál es la actitud MÁS eficaz para mejorar la evolución a continuación?",
+      "opciones": [
+        "Iniciar tratamiento espironolactona 100 mg/día.",
+        "Iniciar propranolol y nitratos.",
+        "Ligadura endoscópica con bandas.",
+        "Propranolol, nitratos y ligadura endoscópica con bandas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un paciente cirrótico VHC en el que se nos pregunta sobre la profilaxis segunda de una HDA por varices esofágicas. En los últimos estudios se ha demostrado que lo más eficaz es la combinación de betabloqueantes no cardioselectivos, nitratos y ligadura endoscópica con bandas hasta conseguir la erradicación de las varices."
+    },
+    {
+      "paginaPdf": 105,
+      "enunciado": "La panproctocolectomía con reservorio ileal es el tratamiento de elección en:",
+      "opciones": [
+        "Poliposis adenomatosa familiar.",
+        "Poliposis colónica familiar atenuada.",
+        "Cáncer de colon localizado en colon ascendente.",
+        "Enfermedad de Crohn colónica refractaria al tratamiento."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La panproctocolectomía consiste en la extirpación de todo el colon y el recto, por lo que debe reservarse a pacientes que presenten patología a dicho nivel, fundamentalmente poliposis familiares y enfermedades inflamatorias. El problema de la resección del recto se presenta en la frecuencia defecatoria, ya que actúa como mecanismo de continencia. Para mejorar dicho síntoma se les puede ofrecer a estos pacientes, sobre todo si son jóvenes, la creación de un reservorio, que consiste en que un asa de intestino delgado, plegada, generalmente en J, adquiera la función de contener temporalmente las heces. Así consiguen frecuencias defecatorias aceptables (4- 5 diurnas y 1- 2 nocturnas), mejorando su calidad de vida. Dicha opción no debe ofrecerse en pacientes con enfermedad de Crohn, ya que implica alto riesgo de reservoritis. La poliposis atenuada presenta pólipos en un número menor y fundamentalmente en el colon derecho, con lo que podría ser susceptible de colectomía, preservando el recto si este presenta un número de pólipos razonablemente controlables mediante rectoscopia."
+    },
+    {
+      "paginaPdf": 105,
+      "enunciado": "Niño de 2 años de edad que acude al Servicio de Pediatría del Hospital por retraso ponderoestatural, heces pastosas y malolientes, alteraciones del equilibrio y dificultad para hablar. En un frotis de sangre se observan eritrocitos espinosos. Señale el diagnóstico más probable de entre los siguientes:",
+      "opciones": [
+        "Enfermedad celíaca.",
+        "Abetalipoproteinemia.",
+        "Agammaglobulinemia.",
+        "Infección por Tropheryma Whippelii."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La abetalipoproteinemia o enfermedad de Bassen y Kornzweig es un trastorno autosómico recesivo que afecta con más frecuencia a varones, aunque también afecta a las niñas, causado por un defecto en el gen de la proteína de transferencia de triglicéridos microsómicos (MTP). Este defecto hace que el organismo sea incapaz de fabricar lipoproteínas (VLDL y quilomicrones) impidiendo la digestión y absorción apropiada de grasas y vitaminas esenciales. De ello se deriva el retraso ponderoestatural (por el déficit de nutrientes y grasas) y las heces estatorreicas. En estos niños también son frecuentes las alteraciones neurológicas, tanto por el déficit vitamínico, como por el déficit de grasas que impide la correcta mielinización de los axones neuronales. Un dato característico en la enfermedad, aunque no exclusivo de ella, es la presencia de eritrocitos espinosos o acantocitos, que son eritrocitos con prolongaciones citoplasmáticas formados como consecuencia del depósito de ácidos grasos libres en la membrana de los mismos (ver imagen en sección inferior). Por eso la RESPUESTA 2 CORRECTA. En la agammaglobulinemia nos hablarían de una ausencia de células plasmáticas en una biopsia intestinal [RESPUESTA 3 INCORRECTA]. En la enfermedad de Whipple de un síndrome de malabsorción junto con artritis no deformante (que puede preceder en años a las manifestaciones intestinales), fiebre, linfadenopatía periférica, trastornos neurológicos, enteropatía pierde-proteínas, manifestaciones cardíacas y melanosis cutánea [RESPUESTA 4 INCORRECTA]. La enfermedad celíaca podría dar manifestaciones similares a las de este cuadro clínico pero no nos hablarían de eritrocitos espinosos y nos faltarían los datos de los anticuerpos antiendomisio y antitransglutaminasa tisular [RESPUESTA 1 INCORRECTA]."
+    },
+    {
+      "paginaPdf": 106,
+      "enunciado": "Una mujer de 35 años, con ingesta de alcohol importante desde hace años, acude a Urgencias por ictericia y malestar general. En la analítica efectuada se observa lo siguiente: GPT 3.358 mU/ml; GOT 2.855 mU/ml, bilirrubina total 8 mg/dl. ¿Cuál de estas afirmaciones es correcta?",
+      "opciones": [
+        "El pronóstico de la hepatopatía es grave.",
+        "Probablemente sufre una hepatitis alcohólica.",
+        "Probablemente se trata de una ictericia obstructiva.",
+        "La analítica es sugestiva de necrosis hepática extensa."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una paciente con elevación importante de las transaminasas, lo que traduce una intensa citolisis hepática. Además, presenta ictericia, que es un hallazgo que puede asociarse en las hepatitis agudas. La hepatitis aguda es un cuadro auto limitado que se resuelve por lo que el pronóstico es bueno. La ecografía abdominal es necesaria para descartar patología biliar, si bien con una elevación tan intensa de las transaminasas es poco probable que se trate de ictericia obstructiva. La hepatitis alcohólica suele cursar con elevación moderada de las transaminasas (menos de 300 mU/ml, generalmente)."
+    },
+    {
+      "paginaPdf": 106,
+      "enunciado": "Mujer de 42 años, trabajadora social y con diagnostico previo de una pancolitis ulcerosa corticodependiente por lo que esta en tratamiento con mesalazina y Azatioprina. Acude por empeoramiento del estado general, diarrea de incontables deposiciones con sangre y fiebre de 39ºC. La exploración física mostraba una ligera palidez de piel y mucosas y una abdomen doloroso a la palpación, especialmente en flanco izquierdo e hipogastrio. ADVP acude por malestar general, astenia y ligera ictericia. En este caso se instauró tratamiento con metilprednisolona i.v. pero con escasa respuesta a los 15 días. Se plantea iniciar biológico y, por ello, se solicita mantoux, Rx tórax, serologías de VHB, VHC y HIV. En caso de resultar alguno positivo, señale el diagnóstico que menor se vería afectado si iniciáramos directamente Infliximab:",
+      "opciones": [
+        "Tuberculosis latente.",
+        "Hepatitis crónica B.",
+        "Hepatitis crónica C.",
+        "HIV +."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Aunque antes de iniciar biológico se requiere estudio de las infecciones señaladas en el caso clínico, la hepatitis C no se ha demostrado que empeore al iniciar biológico. El HIV si tendría que estar controlado. La hepatitis crónica B requiere obligatoriamente iniciar antivirales para evitar reactivación y la tuberculosis latente iniciar quimioprofilaxis para evitar tuberculosis diseminada."
+    },
+    {
+      "paginaPdf": 107,
+      "enunciado": "Una mujer de 55 años ingresa en el hospital con el diagnóstico de pancreatitis aguda. ¿Cuál de las siguientes pruebas o determinaciones analíticas NO es útil para predecir la gravedad de esta enfermedad?",
+      "opciones": [
+        "Tomografía axial computarizada (TAC) del abdomen.",
+        "Niveles de amilasa y lipasa en sangre.",
+        "Hematocrito.",
+        "Nitrógeno ureico en sangre (BUN)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pueden usarse diversos índices de gravedad, si bien los más utilizados son los clínico-analíticos de Ransom y APACHE II o el radiológico de Baltazar. Los valores de BUN y hematocrito forman parte de los criterios de Ransom. El TC abdominal nos permite saber si existe necrosis asociada o no, lo que es un factor predictivo independiente de mortalidad. Los niveles de amilasa y lipasa no son predictivos de gravedad."
+    },
+    {
+      "paginaPdf": 107,
+      "enunciado": "Mujer de 40 años consulta por diarrea crónica acuosa fluctuante, sin esteatorrea ni sangre. La colonoscopia es macroscópicamente normal y en la biopsia se objetiva infiltrado por linfocitos y células plasmáticas en la lámina propia e intraepitelial. Respecto a la enfermedad que probablemente presenta esta paciente, señale la opción FALSA:",
+      "opciones": [
+        "En la evolución de la enfermedad de esta paciente podría observarse engrosamiento de la banda subepitelial de colágeno.",
+        "Tiene un curso crónico recidivante y se han descrito casos de remisión espontánea.",
+        "Debe instaurarse tratamiento con dieta sin gluten.",
+        "El pronóstico, en general, es bueno y no hay evidencia de predisposición a cáncer."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta nos presenta un caso de colitis linfocítica/colágena. Vamos a resumir sus características principales:\n- Principal síntoma: Diarrea acuosa crónica.\n- Otros: Pérdida de peso fluctuante que luego se estabiliza.\n- Es más frecuente en mujeres.\n- Asociación con enfermedades autoinmunes.\n- Colonoscopia normal.\n- Histología característica: Aumento de fibras colágenas o infiltrado linfocitario (colitis linfocitaria, en este caso, que por lo demás son iguales).\n- Tratamiento: Sintomático (antidiarreico en principio). Solo en ocasiones se utilizan AINEs y corticoides.\n- No predispone a cáncer.\nLógicamente no precisa dieta sin gluten, porque no se trata de una enfermedad celíaca."
+    },
+    {
+      "paginaPdf": 108,
+      "enunciado": "Mujer de 22 años sin antecedentes personales de interés que consulta por ictericia y astenia leve. La exploración física no mostraba alteraciones relevantes salvo la citada coloración amarillenta de piel y mucosas. En la analítica se observaban los siguientes datos: Hb 14,2 g/dl, VCM 80 fl, leucocitos 8000/mm3, plaquetas 250.000/mm3, glucemia 98 mg/dl, urea 34 mg/dl, creatinina 1.2 mg/dl, bilirrubina 8 mg/dl (conjugada 6.3), GOT 30 U/L, GPT 42 U/L, GGT 48 U/L, fosfatasa alcalina 50 U/L, sodio 142 mEq/ml, potasio 4.1 mEq/ml. Relación con el proceso que debería sospechar, señale la opción que considere correcta:",
+      "opciones": [
+        "Cursa con patrón de herencia autosómico dominante.",
+        "Se produce por una alteración en el almacenamiento vacuolar intracitoplasmático de bilirrubina.",
+        "La curva de eliminación de bromosulftaleína mostrará un segundo pico a los 90 minutos aproximadamente.",
+        "Los niveles de coproporfirinas séricos estarán incrementados."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Un paciente con hiperbilirrubinemia a expensas de fracción directa y que presenta un segundo pico a los 90 minutos en la curva de eliminación de bromosulftaleína, debe hacernos sospechar un síndrome de Dubin-Johnson. Es un proceso que tiene una herencia autosómica recesivo se debe a una alteración del transporte de bilirrubina de los hepatocitos al canalículo biliar. Los niveles de coproporfirinas séricos estarán normales pero a expensas de las de tipo I (normalmente predominan las de tipo 3)."
+    },
+    {
+      "paginaPdf": 108,
+      "enunciado": "Varón de 49 años, bebedor de 50 g/día de alcohol y fumador de 20 cigarrillos/día, que acude a su consulta por dolor abdominal y diarrea de tres meses de evolución. La exploración física demostró la existencia de dolor abdominal en hemiabdomen superior a la palpación, sin peritonismo. La radiografía simple de abdomen mostraba un patrón gaseoso inespecífico con pequeñas calcificaciones en región central de abdomen superior. La analítica realizada fue la siguiente: Hb 12,2 g/dL, leucocitos 7.900/mm³, plaquetas 159.000/mm³, glucosa 103 mg/dL, urea 55 mg/dL, creatinina 0,9 mg/dL, albúmina 5,1 g/dL, GOT 97 U/L, GPT 40 U/L, GGT 65 U/L, bilirrubina total 0,7 mg/dL, fosfatasa alcalina 180 U/L, LDH 100 U/L, amilasa 8 U/mL, sodio 140, potasio 4. ¿Cuál sería el tratamiento MÁS adecuado para la diarrea?",
+      "opciones": [
+        "Pancreatina.",
+        "Loperamida.",
+        "Mesalazina.",
+        "Metronidazol."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Se trata de un paciente bebedor y fumador que tiene clínica y radiología simple diagnósticas de pancreatitis crónica, por lo que la diarrea se produce por probable esteatorrea y, por tanto, el tratamiento más eficaz consistirá en la administración de enzimas pancreáticos."
+    },
+    {
+      "paginaPdf": 109,
+      "enunciado": "Los hepatocitos en vidrio esmerilado son CARACTERÍSTICOS de la:",
+      "opciones": [
+        "Hepatitis crónica por VHB.",
+        "Hepatitis crónica por VHC.",
+        "Hepatitis crónica por VH delta.",
+        "Hepatitis por alcohol."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Histológicamente, la hepatitis C se caracteriza por:\n- Folículos linfoides en los espacios porta.\n- Daño de ductos biliares.\n- Presencia de cuerpos apoptóticos.\n- Esteatosis macrovesicular.\n- Linfocitos en los sinusoides.\n\nHistológicamente, la hepatitis B se caracteriza por:\n- Hepatocitos en vidrio esmerilado.\n- Inmunotinción positiva para el antígeno de superficie B.\n\nHistológicamente, el daño por alcohol se caracteriza por:\n- Daño celular (degeneración balonante con o sin evidencia de necrosis).\n- Infiltrado inflamatorio (predominio de neutrófilos).\n- Fibrosis (imagen en malla de alambre).\n- Hialina de Mallory.\n\nLas hepatitis delta produce hepatitis fibronecrótica sin datos histológicos característicos."
+    },
+    {
+      "paginaPdf": 109,
+      "enunciado": "Sobre la anatomía patológica de la colitis ulcerosa, señale la FALSA:",
+      "opciones": [
+        "Existe correlación entre el grado de actividad de la enfermedad y el de inflamación.",
+        "La afectación colónica se limita a la mucosa, con un aspecto muy friable.",
+        "La inflamación y necrosis frecuentemente profundiza y forma fistulas.",
+        "Con el tiempo pueden aparecer áreas de displasia que pueden evolucionar a adenocarcinoma."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la colitis ulcerosa, la afectación suele ser continua de las capas más superficiales (mucosa y, en casos graves, también submucosa). Esto le confiere una gran frabilidad a la pared colónica, con congestión vascular y riesgo de hemorragias superficiales. En la mucosa afectada, con el tiempo, pueden aparecer áreas de displasia y evolucionar a adenocarcinoma. Sin embargo, no hay afectación transmural ni presencia de fiatulas (característico esto último de la enfermedad de Crohn)."
+    },
+    {
+      "paginaPdf": 110,
+      "enunciado": "Varón de 70 años, que consulta por disfagia progresiva que se acompaña, tres meses después de su inicio, de regurgitación alimenticia posingesta. Refiere pérdida de 10 kg de peso. Con respecto a estos datos, señale cuál de las siguientes afirmaciones NO es correcta:",
+      "opciones": [
+        "Ha de indicarse una endoscopia oral para descartar el cáncer de esófago.",
+        "Si en la endoscopia se encuentra un esófago dilatado y sin peristaltismo, está excluido el cáncer, porque se trata de una acalasia.",
+        "Si en la endoscopia no se ha encontrado tumor, debe indicarse una manometría esofágica, porque podría tratarse de un trastorno motor primario.",
+        "La manometría normal excluye el diagnóstico de acalasia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La acalasia puede deberse a una alteración primaria del esfínter esofágico inferior (acalasia primaria), cuya capacidad de relajación disminuye. Pero también puede obedecer a una infiltración tumoral maligna, habitualmente por un adenocarcinoma gástrico. El estudio manométrico daría exactamente los mismos datos y, desde el punto de vista endoscópico, en ambos casos encontraríamos un esófago dilatado y sin peristaltismo, por lo que la respuesta falsa es la 2. Es importante revisar bien el estómago para descartar cáncer a este nivel que simule una acalasia."
+    },
+    {
+      "paginaPdf": 110,
+      "enunciado": "Acude a tu consulta un paciente varón, de 31 años, remitido desde atención primaria por presentar distensión y dolor abdominal, además de flatulencia, desde hace tiempo. La analítica realizada al inicio del estudio muestra una anemia ferropénica y elevación leve de las transaminasas hepáticas. Teniendo en cuenta el diagnóstico de sospecha, ¿qué prueba diagnóstica realizaría en primer lugar?",
+      "opciones": [
+        "Serología Ac antitransglutaminasa IgA + IgA total.",
+        "Estudio genético",
+        "Biopsia de duodeno proximal",
+        "Serología Ac antitransglutaminasa IgG"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ante un paciente con alta probabilidad diagnóstica de enfermedad celíaca, como es el caso de nuestro paciente, primero se debe realizar una serología en busca de los anticuerpos antitransglutaminasa de tipo IgA, además de solicitar la IgA total por si hubiera un déficit de dicha inmunoglobulina que falseara los resultados."
+    },
+    {
+      "paginaPdf": 111,
+      "enunciado": "Señale lo FALSO respecto al megacolon tóxico que aparece en la colitis ulcerosa:",
+      "opciones": [
+        "Su perforación puede cursar con signos mínimos locales.",
+        "El tratamiento es siempre médico.",
+        "La hipopotasemia puede contribuir a la aparición de esta complicación.",
+        "Puede ser la forma de inicio de la enfermedad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El megacolon tóxico se trata de una complicación muy grave de la colitis ulcerosa. A veces, hay dolor abdominal pero con escasos signos de peritonitis, lo que puede confundir al clínico. Su diagnóstico se basa en una clínica compatible, junto con una radiografía simple de abdomen en la que se observe una dilatación mayor de 6 cm en colon transverso. La hipopotasemia, al favorecer la hipomotilidad intestinal, puede contribuir a su aparición. Incluso se han descrito casos de debut de colitis ulcerosa con un megacolon tóxico. Lo que es incuestionable es que el tratamiento se basa en medidas de soporte vital, y cirugía con intención curativa (colectomía total, según diversas técnicas quirúrgicas)."
+    },
+    {
+      "paginaPdf": 111,
+      "enunciado": "En relación al Helicobacter pylori, ¿cuál de las siguientes afirmaciones es FALSA?",
+      "opciones": [
+        "La transmisión es por vía oral-oral o fecal-oral.",
+        "Es un microorganismo microaerófilo gramnegativo.",
+        "Está diseñado para vivir en el medio ácido del estómago.",
+        "El test de ureasa para el diagnóstico del H. pylori presenta una sensibilidad y especificidad inferior al 50%."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "H. pylories un bacilo Gram negativo microaerófilo curvado que puede sobrevivir en medio ácido gracias a que posee un enzima llamada ureasa. La ureasa fracciona la urea en dióxido de carbono y amoniaco. Este último es un álcali que permite sobrevivir alH. pylorien medio ácido, pero es extremadamente irritante para la mucosa gástrica y la inflama produciendo gastritis. No existe una clara evidencia acerca de cuál es la ruta predominante de transmisión del H. pylori. El hecho que es ampliamente aceptado es que la bacteria debe llegar al estómago humano por la boca como vía de entrada, por lo que lo más aceptado es la transmisión oral-oral o fecal-oral. Entre los test diagnósticos se encuentra el test rápido de la ureasa. Es un test rápido y sencillo. Se basa en la capacidad del H. pylori de producir ureasa. Se realiza con una biopsia del antro gástrico, tomada durante la endoscopia, que se coloca en un tubo con urea y un indicador. Si la muestra contiene ureasa, aumenta el pH y cambia el color de la solución. Pueden producirse resultados falsos negativos si la cantidad de bacterias en el estómago es pequeña, y en casos de hemorragia digestiva. Su sensibilidad es del 90% al 95% y la especificidad del 95% al 100%."
+    },
+    {
+      "paginaPdf": 111,
+      "enunciado": "Varón de 55 años, alcohólico, acude traído por el SAMUR pordesorientación y lenguaje incoherente. En la exploración física se observaba moderada ictericia y abdomen globuloso y con signos de ascitis. Flapping positivo. La analítica de urgencias fue: Hb 10.1 g/dl, leucocitos 3100/dl, plaquetas 52.000, actividad de protrombina 44%, glucosa 190 mg/dl, urea 59 mg/dl, creatinina 1.1 mg/dl, GOT 160 UI/L, GPT 62 UI/L, bilirrubina 2.5 mg/dl, GGT 1380 UI/L, amilasa 40 U/ml, proteínas totales 4.8 g/dl, albúmina 2 g/dl, LDH 38 U/L, sodio 139 mEq/L, potasio 4.3 mEq/L. La paracentesis mostraba un líquido con los siguientes resultados: leucocitos 1900/mm3, neutrófilos 70%, glucosa 140 mg/dl, LDH 80 U/L, albumina 0.6. El estudio toxicológico fue negativo salvo etanol en sangre elevado. ¿Cuál sería su actitud a continuación?:",
+      "opciones": [
+        "Realizar TC abdominal.",
+        "Aumentar la dosis de diurético.",
+        "Paracentesis evacuadora con reposición de albumina.",
+        "Ceftriaxona i.v."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se describe un varón alcohólico que acude por encefalopatía hepática. Ellíquido presenta unos valores de más de 250 neutrófilos/mm3, lo que debe hacernos sospechar una peritonitis bacteriana primaria. Por consiguiente lo más adecuado sería tratar con antibiótico que cubra gram negativos con una cefalosporina de 3ª generación."
+    },
+    {
+      "paginaPdf": 112,
+      "enunciado": "Varón de 54 años, consumidor habitual de alcohol, que acude a revisión de su hepatopatía de base. Una ecografía abdominal demostró la existencia de un hígado heterogéneo e irregular con una porta de 18 mm con flujo hepatópeto y líquido perihepático y periesplénico. La analítica demostró los siguientes parámetros: Hb 11,2, VCM 102 fL, leucocitos 5.500/mm³, plaquetas 85.000, actividad protrombina 40%, urea 34 mg/dL, creatinina 1,4 mg/dL, GOT 300 UI/L, GPT 200 UI/L, GGT 890 UI/L, bilirrubina total 2,4 mg/dL, proteínas totales 4 g/dL, albúmina 2,2 g/dL, fosfatasa alcalina 50 U/L, LDH 100 UI/L, sodio 140 mEq/L, potasio 4,1 mEq/L. ¿Qué estadio de Child tiene este paciente?",
+      "opciones": [
+        "Grado A: 6 puntos.",
+        "Grado B: 9 puntos.",
+        "Grado C: 10 puntos.",
+        "Grado C: 15 puntos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El paciente del caso clínico tiene una probable cirrosis hepática alcohólica. No relatan encefalopatía hepática (1 punto), tiene ascitis leve (2 puntos), tiene una actividad protrombina de entre 30 y 50% (2 puntos), bilirrubina entre 2 y 3 mg/dL (2 puntos) y albúmina < 2,8 g/dL (3 puntos), por lo que la opción de respuesta más correcta es la 3."
+    },
+    {
+      "paginaPdf": 112,
+      "enunciado": "Varón de 60 años de edad sin antecedentes previos de interés, acude por prurito e ictericia, dolor abdominal epigástrico leve. En la exploración física destacaba únicamente la citada ictericia de piel y mucosas. La analítica presentaba Hb 13 mg/d, plaquetas 240.000/mm3, leucocitos 11.000/mm3, glucosa 180 mg/dl, urea 40 mg/dl, creatinina 1.2 mg/dl, bilirrubina total 8,2 mg/dl, bilirrubina directa 6.1 mg/dl, GOT 70 U/L GPT 92 U/l, GGT 60 U/l, Fosfatasa alcalina 488 U/l, amilasa 780 U/l, LDH 342 U/l, PCR 40 mg/l, serologías de VHB y VHC negativos. ANA -, anti-LKM -, ANCA -. La ecografía abdominal demostró dilatación de vía biliar intra y extrahepática y engrosamiento de cabeza de páncreas. El TC abdominal objetivó la presencia de una masa en cabeza de 2 cm y dilatación de la vía biliar intra y extrahepática. La PAAF de la lesión demostró la existencia de un intenso infiltrado linfoplasmocitario. En relación con la entidad que debería sospechar, cual sería el dato que menos cuadraría con su sospecha?:",
+      "opciones": [
+        "Hipergammaglobulinemia IgG de 2500 mg/dl.",
+        "IgG4 de 400 mg/dl.",
+        "Ca 19.9 de 7 UI/ml.",
+        "CEA 150 UI/ml."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de un paciente con una masa de cabeza de páncreas, lo que podría hacer pensar nos encontramos ante un cáncer de páncreas. Sin embargo, se trata de una pancreatitis autoinmune. Lo que nos da la pista es una persona con una lesión nodular (pancreatitis focal) con intenso infiltrado inflamatorio. Se caracteriza normalmente por aumento de inmunoglobulinas (especialmente la IgG4) y biomarcadores negativos. Los niveles de CEA elevados no se relacionan con esta entidad."
+    },
+    {
+      "paginaPdf": 113,
+      "enunciado": "Indique la situación clínica que, en relación con la infección por virus de la hepatitis B, presenta un paciente de 5 años procedente de Nigeria, con exploración física normal y con la siguiente serología frente a hepatitis B: HBsAg + / ANTI-HBs - / HBeAg - / ANTI-HBe + / ANTI-HBc IgM - / ANTI-HBc IgG + / DNA VHB +:",
+      "opciones": [
+        "Infección aguda.",
+        "Infección crónica.",
+        "Paciente vacunado.",
+        "Portador asintomático."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta directa sobre serología del VHB. La serología que nos describen es la de una hepatitis crónica (AntiHbc IgG+ y AgHbs+) replicativa (DNA +) mutante precore (AgHbe negativo pero DNA positivo). Recuerda que la 1 es falsa porque el AntiHbc IgM es negativo. La 3 es falsa porque el paciente no tiene AntiHbs y además tiene una infección crónica. La 4 es falsa porque el paciente tiene DNA positivo."
+    },
+    {
+      "paginaPdf": 113,
+      "enunciado": "En uno de los siguientes trastornos NO se ha demostrado todavía una relación con el H. pylori como agente causal. Señálelo:",
+      "opciones": [
+        "Úlcera de estrés.",
+        "Úlcera gástrica.",
+        "Adenocarcinoma gástrico.",
+        "Gastritis antral."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "H.pylori se ha demostrado que guarda una relación muy estrecha con la aparición de gastritis antral y atrofia gástrico, y sobre ellas pueden desarrollarse úlceras pépticas crónicas, gástricas y duodenales. Además, se asocia a linfoma y adenocarcinoma gástrico, sobre todo tipo intestinal. No se reconoce una asociación con la úlcera de estrés, que, a su vez, guarda relación con la hipoperfusión propia de las situaciones de extrema gravedad, como politraumatizados, sépticos o grandes quemados."
+    },
+    {
+      "paginaPdf": 114,
+      "enunciado": "Andrés es un paciente de 43 años de edad que padece enfermedad de Crohn desde los 16 años. Ha sido tratado con múltiples tratamientos manteniéndose durante años con mesalacina y azatioprina. Tras sufrir hace unos meses un divorcio y comenzar a fumar diariamente ha sufrido un brote de su enfermedad que le ha llevado a estar 1 mes ingresado en el hospital. Andrés mejora adecuadamente pero su médico digestivo le recomienda un fármaco llamado Adalimumab. Le explica que es un nuevo fármaco muy cómodo de usar que no ha utilizado antes pero que está teniendo muy buenos resultados. ¿Cuál de las siguientes infecciones no es necesaria descartar antes de someter al paciente al tratamiento de anti-TNF como el Adalimumab?",
+      "opciones": [
+        "VIH",
+        "VHC",
+        "Streptococcus pneumoniae",
+        "M.Tuberculosis"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El tratamiento con anti-TNF es cada vez más frecuente en pacientes con enfermedad de Crohn tanto en brotes corticorresistentes como de mantenimiento. Sin embargo no debemos olvidar que antes de comenzarlo deberemos descartar que el paciente posea VIH porque no podremos usar estos fármacos. VHB o VHC porque deberemos tratar estas infecciones a la vez que damos el fármaco. M. Tuberculosis donde también deberemos de tratarla. El motivo es porque el fármaco produce una depleción de linfocitos T que provoca que estas infecciones que se encontraban latentes se reactiven o avancen con dicho déficit de la inmunidad celular. No es necesario descartar el neumococo (respuesta correcta 3). Si no recordabas esto podrías haber acertado la pregunta por técnica de examen con “oveja negra”. VIH,VHC y tuberculosis son controladas por la inmunidad celular sin embargo el neumococo pertenece más a la inmunidad humoral."
+    },
+    {
+      "paginaPdf": 114,
+      "enunciado": "Nos encontramos ante un varón de 60 años diagnosticado de cirrosis hepática con serología positiva para el virus C y ascitis que no responde al tratamiento con 400 mg de espironolactona con restricción de sal (< 800 mg de sodio). ¿Cuál debe ser nuestra actitud si queremos controlar la ascitis?",
+      "opciones": [
+        "Estableceremos un cortocircuito portocava laterolateral.",
+        "Dispondremos un shunt peritoneovenoso, conscientes de las complicaciones infecciosas y de coagulación que puede tener el enfermo.",
+        "Duplicaremos la dosis de espironolactona con especial atención al nivel de potasio en sangre.",
+        "Añadiremos al tratamiento furosemida, aumentando dosis progresivamente (desde 40 hasta 160 mg al día como máximo)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el tratamiento escalonado de la ascitis se debe iniciar con restricción de sodio. A continuación se deben añadir diuréticos, aumentando progresivamente la dosis hasta llegar al máximo permitido. Aunque la espironolactona es el diurético de elección, su inicio de acción es lento, y tiene potencia diurética baja; por ello, se debe asociarse furosemida, aumentando la dosis progresivamente hasta llegar al máximo tolerado o hasta 160 mg al día."
+    }
+  ]
+}

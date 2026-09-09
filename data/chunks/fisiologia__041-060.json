@@ -1,0 +1,558 @@
+{
+  "materia": "fisiologia",
+  "paginaInicio": 41,
+  "paginaFin": 60,
+  "anomalias": [
+    "p41 y p43: las opciones de \"Respecto a la fisiología cardiaca...\" y de \"La fase cefálica de la actividad gástrica...\" llevan el número repetido dentro del propio texto (\"1. 1. Existe un grupo de células marcapasos...\"); se transcribe tal cual",
+    "p42: en la pregunta sobre las membranas del músculo cardíaco y esquelético la clave es \"Resp. Correcta: 3\" pero el comentario afirma que \"Las dos primeras opciones son ciertas\" cuando las opciones 1 y 2 se contradicen entre sí (calcio del retículo frente a calcio extracelular) y además cierra señalando \"(opción 4 falsa)\"",
+    "p42: en la gasometría del paciente de 37 años el bicarbonato aparece como \"HCO3: 44 mm Hg\"; el bicarbonato se expresa en mEq/L, no en mm Hg",
+    "p43: la pregunta de fármacos que producen hipercaliemia tiene 4 opciones, pero el comentario dice \"Justificar las otras cuatro respuestas no es tan sencillo\" y razona sobre la ciclosporina, que no figura entre las opciones",
+    "p47: Resp. Correcta 4 en la pregunta del \"chasquido de apertura\" pero el comentario cierra con \"se deduce fácilmente que la opción correcta es la 5\" y solo hay 4 opciones",
+    "p50: el comentario de \"¿De qué forma se almacena el glucógeno en el hígado?\" se refiere a las opciones con letras b), c) y d) aunque en el enunciado están numeradas del 1 al 4",
+    "p53: en el caso de la paciente de 25 años la gasometría del enunciado da pH 7.55 y el comentario razona \"ya que el pH es > 7.55\"",
+    "p58: la pregunta de la Ley de Ohm repite la etiqueta \"Comentario:\" dos veces (la segunda dentro del propio párrafo); se omite la repetición en la explicación",
+    "p60-p61: el comentario de la pregunta sobre gasto cardiaco afirma que \"En la anemia, aumenta el hematocrito por lo que aumenta la viscosidad de la sangre\"; en la anemia el hematocrito y la viscosidad sanguínea descienden"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 41,
+      "enunciado": "¿Cuál sería de entre los siguientes, el único agente que NO presenta correlación entre inhibición ácido gástrica e inhibición del pepsinógeno?",
+      "opciones": [
+        "Gastrina",
+        "Histamina",
+        "Secretina",
+        "Somatostatina"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta correcta sería la secretina, ya que ésta ejerce un efecto de inhibición de la secreción ácida gástrica y a su vez, estimula la secreción de pepsinógeno. Se debe recordar que existe una correlación entre la secreción máxima gástrica y los niveles plasmáticos de pepsinógeno. La gastrina y la histamina son mediadores de la producción de HCl por el estómago y con ello de la secreción ácida, sin ejercer un efecto estimulador sobre el pepsinógeno. Por último, la somatostina tampoco ejerce un efecto estimulador de la secreción del pepsinógeno y su efecto es inhibidor sobre la secreción ácida del estómago."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Respecto a la fisiología cardiaca, señale la correcta entre las siguientes opciones:",
+      "opciones": [
+        "1. Existe un grupo de células marcapasos localizadas en la parte posterior del techo de la aurícula izquierda",
+        "2. Presenta dos circuitos de igual presión",
+        "3. En reposo la frecuencia latido es la de las células de Purkinje",
+        "4. La presión arterial diastólica es algo mayor que la venosa"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La presión arterial diastólica es mayor que la venosa puesto que de lo contrario no podría discurrir la sangre y completar el circuito sistémico de manera que siempre existe una diferencia de presiones, esto también explica por qué las arterias disponen de una capa muscular que permite regular el diámetro del vaso y con ello aumentar o disminuir la presión arterial mientras que las venas destacan únicamente por tener una capa íntima.\n\nLa respuesta 1 es incorrecta puesto que toda la frase es verdad salvo que se encuentra en la aurícula derecha\n\nLa respuesta 2 es incorrecta puesto que el circuito sistémico tiene una mayor presión respecto del circuito pulmonar\n\nLa respuesta 3 es incorrecta ya que la frecuencia latido corresponde a las células marcapasos del nodo sinoauricular."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Las propiedades de las membranas del músculo cardíaco y el músculo esquelético tienen ciertas características diferentes. De las siguientes afirmaciones respecto a este punto, señale la que le parece INCORRECTA:",
+      "opciones": [
+        "La potencia de contracción del músculo esquelético depende principalmente de la acción de los iones calcio liberados desde el retículo endoplámico de la propia célula.",
+        "La potencia de contracción del músculo esquelético depende principalmente de la acción de los iones calcio de los líquidos extracelulares.",
+        "En el músculo cardíaco el potencial de membrana de reposo se recupera gracias a la salida de Na+ al espacio extracelular.",
+        "El potencial de acción del músculo esquelético depende totalmente de la apertura de canales rápidos de Na+, interviniendo además en el cardíaco, canales lentos de Na+ y Ca2+."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta acerca de la fisiología de la contracción. Se contesta con algunas nociones de las distintas fases del potencial de acción. Las dos primeras opciones son ciertas y constituyen una diferencia importante entre estos dos tipos de músculo. Recuerda la existencia en el músculo cardíaco de los túbulos T (prolongaciones de la membrana y de su relación con las cisternas del retículo). La recuperación del potencial de membrana de reposo se produce gracias a la salida de potasio de la célula hacia el medio extracelular, de esta manera se restablece la distribución desigual de cargas positivas a ambos lados de la membrana. Recuerda que la responsable de la existencia de este potencial es la bomba Na- K (opción 4 falsa). Recuerda que la fase 0 del potencial de accion del musculo cardiaco depende sobre todo de los canales lentos de Na-Ca."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Paciente de 37 años que acude a urgencias. A nivel analítico destacan los siguientes valores: pH: 7,25, pCO2: 63 mm Hg, pO2: 107 mm Hg, HCO3: 44 mm Hg. De las siguientes causas, ¿cuál de ellas sería más probable que presentara el paciente con únicamente esta información?",
+      "opciones": [
+        "Cetoacidosis diabética",
+        "EPOC reagudizado.",
+        "Exceso de náuseas y vómitos.",
+        "Crisis de ansiedad."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El paciente presenta una acidosis respiratoria. De las opciones propuestas, la única causa posible de acidosis respiratoria corresponde a exacerbación de la EPOC."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Los siguientes fármacos pueden producir hipercaliemia, EXCEPTO:",
+      "opciones": [
+        "Antiinflamatorios no esteroideos.",
+        "Trimetoprim.",
+        "Pentamidina.",
+        "Beta-agonistas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta es difícil y no debes preocuparte por fallarla. Lo que no debes olvidar es que, así como los betabloqueantes son una causa potencial de hiperpotasemia, los fármacos cuya acción es opuesta (betaagonistas, como el salbutamol) facilitarán la aparición de hipopotasemia (respuesta 4 cierta). Justificar las otras cuatro respuestas no es tan sencillo. Por mecanismos relacionados con la inhibición de la síntesis de prostaglandinas, los AINEs facilitan la retención de Na+, éste llega en menor cuantía a los túbulos distales y, como consecuencia, se intercambia menos con el K+, aumentando éste en sangre. La ciclosporina puede causar una hipertensión volumen- dependiente, porque favorece la retención de líquidos. Al aumentar la volemia, disminuye la actividad del eje renina- angiotensina- aldosterona. Al disminuir la aldosterona, se intercambia menos Na+ por K+ en el túbulo distal, reteniéndose K+. Por último, tanto el trimetoprim como la pentamidina inhiben la excreción de K+ en el túbulo distal. Esto se debe a que impiden la reabsorción de Na+ y su intercambio por K+, es decir, tienen un efecto que antagoniza a la aldosterona."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "¿Cuál es el mecanismo esencial de reabsorción de proteínas desde el filtrado glomerular al interior de la célula tubular?:",
+      "opciones": [
+        "Pinocitosis.",
+        "Transporte activo.",
+        "Difusión facilitada.",
+        "Difusión simple."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Aunque el glomérulo impide la filtración de la mayor parte de las proteínas, existe una pequeña fracción que sí se filtra, pero que después resulta reabsorbida por un mecanismo de pinocitosis a nivel tubular."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "La fase cefálica de la actividad gástrica comprende la activación del núcleo dorsal del vago a nivel troncoencefálico que finalmente resulta actuando en los receptores muscarínicos M3 a nivel periférico en la:",
+      "opciones": [
+        "1. reducción de la secreción de acido en el estómago",
+        "2. liberación de somatostatina en el antro del estómago",
+        "3. liberación de gastrina actuando sobre las células G antrales",
+        "4. estimulación de la bomba hidrogenión potasio presente en las células parietales"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El núcleo dorsal del nervio vago durante la fase cefálica de la actividad gástrica libera acetilcolina la cual se une a los receptores muscarinicos M3 de las células oxinticas/parietales presentes en el cuerpo del estómago favoreciendo la secreción de hidrogeniones al lumen gástrico.\n\nLa respuesta 1 es incorrecta ya que la produce el efecto totalmente contrario\n\nLa respuesta 2 es incorrecta puesto que la somatostatina es una hormona proteica que reduce la liberación de acido por parte de las células parietales\n\nLa respuesta 3 es incorrecta porque la liberación de gastrina por parte de las células G antrales depende del pH presente. Es independiente de la liberación de acetilcolina"
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Vemos en consulta de atención primaria a una joven de 21 años que nos consulta acerca de una reciente visita con su ginecólogo. Nos explica que ha sido diagnosticada de síndrome del ovario poliquístico, y que le han recetado anticonceptivos orales. La paciente ha ido a la farmacia y los ha comprado, pero ha visto que están compuestos de estrógenos y de progestágenos y se ha asustado un poco porque no tiene claro que efectos pueden tener sobre su cuerpo. En relación a estas hormonas, señale cuál de las siguientes es FALSA:",
+      "opciones": [
+        "El pico de estrógenos de la fase lútea es menor que el de la fase proliferativa.",
+        "Los progestágenos tienen una liberación bimodal.",
+        "Los progestágenos inhiben la contracción del miometrio, así como del músculo liso digestivo, uretral y de los vasos sanguíneos.",
+        "Los estrógenos bloquean el efecto de la prolactina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los estrógenos tienen una liberación bimodal, con un primer pico mayor preovulatorio durante la fase proliferativa y un segundo menor durante la fase lútea. En cambio, la progesterona sólo se produce durante la fase lútea, ya que es sintetizada por el cuerpo lúteo, que solo existe durante esta fase. Como comenta la respuesta 3, los gestágenos son miorrelajantes, y contribuyen al mantenimiento de la relajación uterina y a la disminución de las resistencias vasculares. Finalmente, los estrógenos bloquean el efecto de la prolactina sobre las glándulas mamarias, razón por la que las gestantes no producen leche hasta después del parto, cuando disminuyen los estrógenos circulantes."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "La fórmula utilizada para calcular la Presión Arterial Media (PAM) se aplica a una frecuencia cardiaca típica en reposo de entre 60 y 80 latidos/minuto. Si la frecuencia cardiaca aumenta, ¿disminuiría o aumentaría la contribución de la presión sistólica a la presión arterial media y disminuiría o aumentaría la PAM?",
+      "opciones": [
+        "La contribución de la presión sistólica a la PAM aumenta y la PAM disminuye.",
+        "La contribución de la presión sistólica a la PAM disminuye y la PAM aumenta.",
+        "Ambas aumentan.",
+        "Ambas disminuyen."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Si la frecuencia cardiaca aumenta, la duración relativa de la diástole disminuye. En ese caso, la contribución de la presión sistólica a la PAM aumenta, y la PAM también aumenta."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "A una mujer de 48 años, fumadora de un paquete al día, clínicamente asintomática, si se le realizara un estudio de la función respiratoria encontrariamos alterado en primer lugar uno de los siguientes parámetros:",
+      "opciones": [
+        "Flujo mesoespiratorio.",
+        "Volumen espiratorio forzado en el primer segundo (VEMS).",
+        "Indice de Tiffeneau.",
+        "Capacidad vital (CV)."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Los cambios más precoces como consecuencia del tabaco se producen en vías de pequeño tamaño, y se detectan espirométricamente como una alteración en la parte media de la espiración (flujos mesoespiratorios, opción 1 correcta). Los flujos mesoespiratorios también podrían haber aparecido como FEF 25%- 75%, o MMEF. Si se abandona el hábito tabáquico, estos cambios son reversibles. Otra prueba para detectar obstrucción precozmente es la determinación del volumen de cierre pulmonar mediante el lavado de nitrógeno."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Hombre de 62 años con antecedente de estenosis mitral. Acude a urgencias por aumento de disnea en la última semana hasta hacerse de mínimos esfuerzos, ortopnea y oliguria. A la exploración física: crepitantes en ambas bases, tonos cardiacos arritmicos a 130lpm, y edemas pretibiales. En el ECG se aprecia una fibrilación auricular a 130lpm. Su juicio clínico es: Insuficiencia Cardiaca descompensada debido a Fibrilación auricular de novo sobre un paciente con estenosis mitral previa. A nivel fisiológico, ¿Cuál de las siguientes afirmaciones no ha ocurrido?",
+      "opciones": [
+        "El llenado del ventrículo izquierdo se ha reducido.",
+        "La presión del ventrículo derecho está disminuida.",
+        "El gasto cardiaco se ha visto disminuido.",
+        "La presión en la circulación pulmonar ha aumentado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta 1 es verdadera. La taquicardia, o en este caso la fibrilación auricular rápida acorta la diástole y esto disminuye el llenado del ventrículo izquierdo. Además, con la estenosis mitral ya lo tendría reducido. Al haber menos sangre en el ventrículo (disminuye la precarga), ha disminuido el gasto cardiaco, y la perfusión en otros órganos (ej. Oliguria) R3 verdadera. La respuesta 4 es verdadera, dado que refluye la sangre pasivamente hacia la aurícula y de ahí a los vasos pulmonares. Esto condiciona que la presión del ventrículo derecho aumente (R2 falsa), al igual que la presión auricula derecha y el resto del sistema venoso."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "En la composición de los líquidos orgánicos, señalar la FALSA:",
+      "opciones": [
+        "Más de la mitad del agua orgánica total (AOT) está en el líquido extracelular.",
+        "La cantidad de agua en el organismo es mayor a menor cantidad de grasa.",
+        "El catión predominante en el plasma es el Na+.",
+        "El anión predominante en el líquido intracelular (LIC) son los fosfatos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es bastante sencilla sobre aspectos muy básicos sobre agua e iones. No deberías haberla fallado, si lo has hecho. La primera de las opciones es incorrecta porque, del total de agua que hay en el organismo, el compartimento INTRACELULAR representa más de la mitad de la misma. En cuanto a los iones, debes recordar que el catión más importante en el plasma es el sodio, mientras que en el interior de la célula sería el potasio. Los aniones (electronegativos, al contrario que los cationes) más importantes son el cloro y los fosfatos. El cloro es más importante a nivel extracelular que intracelular, mientras que, como dice la opción 4, el anión más importante a nivel del líquido intracelular son los fosfatos. Aprovechamos para recordarte los valores normales de estos iones, que aparecen con frecuencia en los casos clínicos (sodio: 135- 145 mEq/L, potasio: 3- 4.5 mEq/L, cloro: 80- 100 mEq/L)."
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "La cianosis es debida a una coloración azulada de mucosas o piel. ¿Cuál de las siguientes características de la cianosis es cierta?",
+      "opciones": [
+        "La metahemoglobinemia puede producir cianosis.",
+        "La intoxicación por monóxido de carbono puede producir cianosis.",
+        "Para que exista cianosis central, es necesaria una cantidad de hemoglobina oxidada por encima de 5 gr/dl en sangre arterial.",
+        "Es más frecuente la cianosis en pacientes con anemia que con policitemia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para que se produzca cianosis central es necesario que haya hemoglobina reducida de hasta 5 gramos por cada 100ml de sangre. (R3 falsa). El hecho de que haya hemoglobina que no va unida al oxígeno da la imagen a través de la piel de ser azulado. La cianosis viene determinada principalmente por la cantidad de hemoglobina reducida, no tanto por el porcentaje; por eso, la cianosis es más frecuente en pacientes con policitemia que con anemia (R4 incorrecta).\n\nLa metahemoglobinemia es una hemoglobina que tiene una afinidad por el oxígeno alterada, dado que está incrementada en sitios hemos de la hemoglobina que están en estado ferroso. De este modo, no se libera oxígeno en los tejidos periféricos, y puede haber hipoxia periférica. Al haber esta forma de hemoglobina, hay hemoglobina sin oxígeno, reducida, que produce la cianosis. La metahemoglobinemia puede ser congénita o adquirida (más frecuente).\n\nLa intoxicación por monóxido de carbono suele producir color rojo cereza en la piel (R2 incorrecta). Esto ocurre porque la carboxihemoglobina no permite la unión de oxígeno y hay hipoxia tisular, que condiciona una vasodilatación local con coloración rojiza de la piel. Es un síntoma clásico, si bien no tan frecuente."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "La máxima cantidad de aire que es exhalada de manera forzada después de una inspiración normal y una espiración normal se corresponde con la definición de:",
+      "opciones": [
+        "Volumen residual (VR).",
+        "Capacidad residual funcional (CRF).",
+        "Volumen de reserva espiratorio (VRE).",
+        "Volumen de reserva inspiratorio (VRI)."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El VR es la cantidad de aire que queda en los pulmones tras una espiración máxima y la CRF la que queda tras una espiración normal. Esta está determinada principalmente por la interacción entre la relación elástica del tórax y los pulmones. El VRI es el volumen de aire que se puede inhalar más allá del volumen corriente durante una inspiración forzada."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "¿Cuál es la definición de \"chasquido de apertura \" en cuanto a la auscultación cardíaca?:",
+      "opciones": [
+        "Es un ruido posterior a la eyección ventricular, de las insuficiencias de las válvulas sigmoideas.",
+        "Es un tono sistólico tardío de alta frecuencia, por apertura de las válvulas sigmoideas estenóticas.",
+        "Es un tono sistólico precoz de alta frecuencia, por apertura de las válvulas sigmoideas estenóticas.",
+        "Es un tono diastólico precoz, breve y de alta frecuencia, normalmente por estenosis de la válvula mitral."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El chasquido de apertura es un fenómeno auscultatorio típico de la estenosis mitral. Repasemos las características de esta valvulopatía. La válvula mitral debe estar abierta durante la diástole y por ser estrecha en esta valvulopatía da lugar a un soplo diastólico. Si el paciente mantiene el ritmo sinusal (algo raro en estos pacientes por la importante dilatación auricular) se puede apreciar un aumento de la intensidad del soplo al final de diástole provocado por el llenado adicional a expensas de la contracción auricular (refuerzo presistólico). Además del soplo a veces encontramos un chasquido de apertura que precede al soplo y se produce por tanto en la diástole precoz (se oye mejor en la espiración y está tanto más próximo al segundo ruido cuanto más severa es la estenosis). Por último, en la estenosis mitral es típico el encontrar un primer ruido aumentado de intensidad. De lo comentado se deduce fácilmente que la opción correcta es la 5."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Señale cuál de las siguientes alteraciones NO esperaría usted encontrar en un paciente con lesión cerebelosa:",
+      "opciones": [
+        "Dismetría.",
+        "Hipertonía.",
+        "Temblor intencional.",
+        "Adiadococinesia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos preguntan acerca de las características de la lesión cerebelosa. En primer lugar, tenemos que recordar que el cerebelo, junto con los ganglios basales, juega un papel fundamental en la coordinación y correcta ejecución de las secuencias motoras. Recuerda además que el cerebelo está a su vez dividido en dos regiones funcionales: el vermis (movimientos axiales) y los hemisferios (movimientos de extremidades y finos).\n\nLa ataxia de la marcha es característica de las lesiones vermianas. Es típico de la lesión de los hemisferios cerebelosos la dismetría (es un trastorno de la amplitud del movimiento: en la prueba dedo- nariz, no acierta a tocarse la nariz) y la disdiadococinesia (es la incapacidad para realizar movimientos alternantes). En el síndrome hemisférico, se afecta la extremidad ipsilateral a la lesión y suele acompañarse de nistagmo, disartria, hipotonía y temblor cinético (que se produce durante el movimiento, a diferencia del Parkinson)."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "La motilidad del tubo digestivo tiene unas peculiaridades dadas por la presencia de músculo liso en su pared. En relación a la motilidad del tubo digestivo, indique la opción falsa:",
+      "opciones": [
+        "El potencial de membrana del músculo liso se despolariza ante la acción de la noradrenalina.",
+        "La pared del tubo digestivo está formado por una capa longitudinal y una transversal, unidas por uniones en hendidura, que permiten a las señales eléctricas viajar rápidamente.",
+        "La distensión del tubo digestivo despolariza la membrana celular del músculo liso.",
+        "Las ondas lentas rítmicas del tubo digestivo, tienen su origen en las células intersticiales de Cajal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta 1 es falsa, dado que la noradrenalina, secretada por el simpático produce una hiperpolarización del potencial de membrana del músculo liso. Es la Acetilcolina, secretada por el parasimpático el que produce la despolarización celular.\n\nLa opción 3 es verdadera. Los principales estímulos para la despolarización del miocito del músculo liso son: la Ach, la distensión del músculo liso.\n\nLa respuesta 2 es verdadera, las GAP junctions permiten viajar rápidamente estas señales eléctricas, lo hacen más rápido en la capa longitudinal que en la transversal.\n\nRespuesta 4 V: No se conoce con exactitud el origen de las ondas lentas (ondas rítmicas lentas que se propulsan por el tubo digestivo), pero se cree que las Celulas intersticiales de Cajal actúan como marcapasos eléctrico."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Usted es médico de atención primaria. Uno de sus pacientes, un varón de 38 años, auxiliar administrativo, le comunica que va a prepararse una maratón a un año vista. En relación a los cambios ejercidos por el deporte sobre el cuerpo humano a largo plazo, señale la opción que considera falsa:",
+      "opciones": [
+        "Usted le recomendaría una dieta rica en carbohidratos, sin olvidar las grasas y las proteínas",
+        "Es presumible que sus cifras de presión arterial disminuyan a largo plazo.",
+        "Es presumible que el gasto cardiaco en reposo sea mayor que el de un individuo de igual edad, sexo, pero no entrenado.",
+        "Es presumible que exista hipertrofia de fibras rojas en mayor proporción que fibras blancas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción 1 es verdadera. En un ejercicio de resistencia, como el maratón, se necesita grandes aportes energéticos. El metabolismo que se utiliza es aerobio, y procederá de carbohidratos, grasas y proteínas. Procede fundamentalmente del glucógeno muscular, y del glucógeno hepático. Generalmente esto se agota a las 3-4 horas, donde comienza a tener mayor importancia las reservas grasas y proteicas.\n\nLa opción 2 es verdadera, es uno de los efectos beneficiosos a largo plazo del ejercicio físico aeróbico.\n\nLa opción 3 es falsa. Un individuo entrenado físicamente, presenta un mayor volumen sistólico (a expensas sobre todo de mayor contractilidad por hipertrofia de ventrículo izquierdo), y una disminución de la frecuencia cardiaca en reposo; lo que ocasiona que el gasto cardiaco sea similar a un sujeto no entrenado estando en reposo.\n\nLa opción 4 es verdadera. En una persona con entrenamiento de resistencia, es presumible que aumente su cantidad de fibras rojas."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "El intercambio gaseoso que ocurre en gran parte por la relación ventilación/perfusión en el pulmón. Marque cual de las opciones siguientes le parece incorrecta:",
+      "opciones": [
+        "Cuando el cociente ventilación/perfusión está alterado por una ausencia de ventilación, la pCO2 de los capilares pulmonares es de 45mmHg.",
+        "Cuando el cociente ventilación/perfusión está alterado por una ausencia de perfusión la pCO2 del alveolo es de 0 mmHG.",
+        "En los vértices pulmonares el cociente ventilación/perfusión es menor que en las bases.",
+        "La PaO2 (PO2 arterial) debe ser siempre inferior a la PAO2 (presión alveolar de O2)."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La respuesta 1 es correcta. En situaciones en las que no hay ventilación, pero si hay perfusión, la sangre que llega a los capilares pulmonares es venosa, y no se oxigena, por lo que la pO2 es en torno a 40mmHg y la pCO2 en torno a 45mmHg.\n\nLa respuesta 2 es correcta. Al no haber perfusión, la presión gaseosa del alveolo es la misma que la del aire inspirado, que tiene una pO2 de 149mmHg y una pCO2 de 0mmHg.\n\nLa respuesta 3 es incorrecta: tanto el flujo como la ventilación son menores en los vértices que en las bases pulmonares. Sin embargo, el flujo sanguíneo es mucho más bajo en proporción que la ventilación. Por esto, los vértices tienen una relación ventilación perfusión mayor que las bases, actuando como un “espacio muerto fisiológico”.\n\nLa respuesta 4 es verdadera. El intercambio gaseoso se produce por la diferencia de presión parcial de gases a uno y otro lado de la membrana respiratoria (alveolo vs capilar). En esa parte se iguala. Sin embargo, en personas sanas para el intercambio gaseoso, se utiliza un tercio de la superficie alveolar; por ello, si calculas la presión alveolar de oxígeno será mayor (esos 2/3 restantes no ceden oxígeno a la sangre) que la presión arterial de oxígeno."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "En relación con el metabolismo del glucagón, señale la respuesta falsa:",
+      "opciones": [
+        "La hiperglucemia produce disminución de la síntesis de glucagón.",
+        "La somatostatina produce un aumento de la síntesis de glucagón.",
+        "El glucagón inhibe la glucolisis.",
+        "El glucagón es sintetizado por las células alfa del páncreas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El glucagón es una hormona sintetizada por las células alfa del páncreas (R4 V), cuando existe hipoglucemia o en el ayuno. En cambio, en la hiperglucemia aumenta la insulina y disminuye el glucagón (R1 verdadera). Su secreción disminuye tras la ingesta alimenticia, por lo que la somatostatina, que es una hormona sintetizada por las células Delta del páncreas ante la presencia de contenido alimenticio en el intestino delgado; produce disminución de síntesis de glucagón (R2 Falsa). Las funciones del glucagón, consisten en favorecer la gluconeogénesis y la glucogenolisis para aumentar la glucemia sanguínea y la lipidolisis. Por lo tanto, inhibe la glucolisis (R3 verdadera)."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "¿De qué forma se almacena el glucógeno en el hígado?",
+      "opciones": [
+        "Hidratado",
+        "Ionizado",
+        "Esterificado",
+        "Desnaturalizado"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El glucógeno se almacena con agua (hidratado), pero podías haber sacado esta pregunta por descarte y pensando un poco. Vamos opción por opción: b) ionizado no suena a algo que se haga con macromoléculas (como el glucógeno), sino a los iones que todos conocemos: sodio, potasio… c) el enlace tipo ester suena a grasas (los ácidos grasos se esterifican…, las hormonas esteroideas…) d) las proteínas se desnaturalizan. Por otra parte, si has hecho dieta lo sabrás: al principio se pierde mucho peso y luego te estabilizas. Ese peso que pierdes es el agua que se utilizaba para almacenar el glucógeno y que ya no es necesaria."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "En el ayuno precoz, existen una serie de estímulos y cambios hormonales. De los siguientes, indique cual es la FALSA:",
+      "opciones": [
+        "Cuando el estómago se encuentra vacío durante unas horas, las células oxínticas del estómago secretan leptina.",
+        "El neuropéptido Y se encuentra elevado en el ayuno precoz.",
+        "La glucogenolisis hepática es la principal fuente de energía durante el ayuno precoz.",
+        "En el ayuno precoz existe estimulación de cortisol."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Respuesta 1 es falsa. La leptina es una hormona anorexígena, secretada por el tejido adiposo. En el ayuno precoz, se sintetiza grelina por las células oxínticas del estomago, enzima orexígena.\n\nRespuesta 2 es verdadera. El neuropéptido Y es una molécula sintetizada por el hipotálamo, y tiene efecto orexígeno. Existe un feedback negativo en su regulación, dado que la insulina y la leptina inhiben la formación de neuropéptido Y. En cambio, en el ayuno, hay hipoleptinemia e hipoinsulinemia, por lo que aumentan las concentraciones de neuropéptido Y.\n\nRespuesta 3 es verdaderas. Lo primero que intenta hacer el organismo es usar el glucógeno almacenado en el hígado.\n\nRespuesta 4 es verdadera. La hipoglucemia produce estimulo de las hormonas que intentan aumentar la glucemia (tanto el glucagón, como el resto de hormonas contra reguladoras (cortisol, adrenalina…). El cortisol favorece resistencia a insulina (menor consumo energético), además de estimular la lipolisis y proteólisis."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "¿Cuál es la localización anatómica del nódulo AV?:",
+      "opciones": [
+        "La parte media del tabique interauricular, anteriormente a la fosa oval.",
+        "La unión entre la vena cava superior y la aurícula derecha.",
+        "La porción membranosa del tabique interventricular.",
+        "La base del tabique interauricular por encima del anillo de la tricúspide y anterior al seno coronario."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una pregunta sencilla que podemos contestar con los conocimientos de la carrera. El nodo AV forma parte del sistema de conducción- excitación del corazón que es un tejido especializado en la génesis y conducción de los estímulos eléctricos. Se localiza en la parte baja de la aurícula derecha, en el surco interauricular próximo a la porción intramembranosa del tabique en una zona que se denomina triángulo de Koch (entre el seno coronario y la valva septal de la tricúspide). La respuesta correcta es por tanto la número 4. La opción 2 describe la localización del nodo sinusal y la opción 3 el trayecto del haz de His."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "El control del ciclo ovárico por parte del hipotálamo se realiza a través de la secreción pulsátil de GnRH, un pulso lento de GnRh producirá la liberación de:",
+      "opciones": [
+        "FSH",
+        "LH",
+        "Estrógenos",
+        "DHEA"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La opción correcta es la número 1 los pulsos rápidos de GnRh estimulan la LH y los lentos a la FSH. Sin embargo, una liberación continua desensibiliza a las células provocando una situación de hipoestrogenismo. Los análogos de la GnRh se pueden utilizar como tratamiento de múltiples patologías como la endometriosis, los miomas, la pubertad precoz o para la estimulación ovárica en técnicas de reproducción asistida."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Sobre la relación ventilación-perfusión en el parénquima pulmonar, señalar la opción correcta:",
+      "opciones": [
+        "La ventilación es mayor en vértices.",
+        "La perfusión igual.",
+        "La relación V/Q es mayor en los ápices que en las bases.",
+        "La relación V/Q normal en la totalidad del parénquima pulmonar en una persona normal y sana es de 2."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es sumamente sencilla y, para su resolución, basta haber estudiado los aspectos más básicos del tema de fisiología. Tanto la ventilación como la perfusión son mayores en bases que en vértices, lo que hace que sean falsas las dos primeras respuestas. Lo que sucede es que la relación entre ellas está invertida, siendo mayor en los vértices que en las bases (opción 3 correcta). La relación V/Q normal en el parénquima pulmonar de una persona sana es V/Q=1, es decir, lo ideal es que estén equilibrados (en vértices, esta relación pasa de la unidad, mientras que en las bases es inferior), por lo que la 4 es falsa."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "El glucagón tiene un efecto catabólico predominante, al contrario de la insulina. La regulación del glucagón también es diferente a la de la insulina. Marque cual de las siguientes sustancias no produce un aumento de la síntesis del glucagón por las células alfa del páncreas.",
+      "opciones": [
+        "Hipoglucemia.",
+        "Aminoácidos",
+        "Ácidos grasos libres",
+        "Noradrenalina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El principal estímulo para la síntesis de glucagón por las células alfa del páncreas es los niveles bajos de glucemia (Respuesta 1 verdadera). Los aminoácidos libres también favorecen la síntesis de glucagón, en especial en dietas ricas en proteínas, porque así el glucagón favorece la gluconeogénesis a partir de aminoácidos (Respuesta 2 verdadera). Las hormonas contrarreguladoras, entre las que se encuentra la noradrenalina producen aumento de la síntesis de glucagón (Respuesta 4 verdadera).\n\nEn cambio, los ácidos grasos libres producen una inhibición de la síntesis de glucagón (Respuesta 3 falsa)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Señale la afirmación FALSA en relación al transporte de gases por sangre y líquidos corporales:",
+      "opciones": [
+        "La pO2 del líquido intersticial aumenta si disminuye el metabolismo tisular.",
+        "En sangre venosa, la saturación de la hemoglobina es cercana al 75%.",
+        "La saturación de la hemoglobina en sangre arterial es de un 97%.",
+        "Las variaciones en el flujo sanguíneo recibido por un tejido no alteran la pO2 tisular."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La respuesta falsa es la 4, puesto que la oxigenación del tejido (pO2 tisular) aumenta cuanto mayor sea el flujo sanguíneo que recibe. De hecho, a nivel de la circulación sistémica, se produce una vasodilatación en respuesta a la hipoxia, para contrarrestar el déficit de oxígeno (recuerda que en el caso de los vasos pulmonares sucede lo contrario, se produce vasoconstricción ante la hipoxia alveolar). Cuando el metabolismo tisular disminuye, existen menos requerimientos de oxígeno por parte de las células y, en consecuencia, aumenta la pO2 del líquido intersticial, ya que se consume menos O2 (respuesta 1 cierta). La saturación de la sangre venosa es del 75% (corresponde a unos 40 mmHg) y la arterial es de más del 95% (opciones 2 y 3 correctas)."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Acude a urgencias una paciente de 25 años acompañada por su pareja. Refiere que hace una hora ha tenido una acalorada discusión con su novio y desde entonces no se encuentra nada bien. Usted la observa muy nerviosa y comprueba en su historia clínica que ha acudido en otras ocasiones por el mismo motivo. A la exploración está traquipneica. Al ver el estado de la paciente, decide pedir una gasometría que muestra los siguientes resultados: PCO2: 19 mmHg, pH: 7.55, [HCO3-]: 22 mEq/L. ¿Qué trastorno cree que presenta la paciente?",
+      "opciones": [
+        "Alcalosis respiratoria aguda.",
+        "Alcalosis respiratoria crónica.",
+        "Alcalosis metabólica aguda.",
+        "Alcalosis metabólica crónica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Caso clínico típico de una paciente que acude a urgencias con una crisis de ansiedad, provocada en este caso por el antecedente que nos comentan. La gasometría muestra una alcalosis respiratoria ya que el pH es > 7.55. Además podemos decir que es aguda ya que el bicarbonato todavía no ha bajado lo suficiente como para compensar el descenso de la PCO2."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Señale la respuesta INCORRECTA acerca de los soplos cardíacos:",
+      "opciones": [
+        "Los soplos holosistólicos de regurgitación mitral y de la comunicación interventricular, disminuyen con la inhalación de nitrito de amilo.",
+        "La mayoría de los soplos funcionales benignos son mesosistólicos y se originan en la vía de expulsión pulmonar.",
+        "El soplo mesosistólico de estenosis subvalvular aórtica en la miocardiopatía hipertrófica es máximo en la parte inferior del borde esternal izquierdo y la punta.",
+        "Los soplos mesosistólicos comienzan con la apertura de las válvulas semilunares y terminan con su cierre."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una pregunta muy sencilla aunque en un principio pueda parecer compleja. Una vez más se contesta dominando las fases y acontecimientos que se producen en el ciclo cardíaco. La respuesta incorrecta se identifica fácilmente leyendo las opciones. Por definición un soplo mesosistólico solo se oye en el centro de la sístole y por tanto, no borra ni el primer ni el segundo ruido. Por otro lado, conviene que reparemos la opción 1. Es lógico pensar que la inhalación de nitrito de amilo produce vasodilatación y esto se traduce en una disminución de las resistencias vasculares periféricas o lo que es lo mismo, en la postcarga. Si la postcarga está disminuida se reducirá el volumen de sangre regurgitante y la intensidad del soplo (como ves casi todo en la semiología cardíaca se puede razonar)."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Respecto a las proteínas señale la respuesta FALSA:",
+      "opciones": [
+        "La función principal de la albúmina es proporcionar presión coloidosmótica al plasma.",
+        "La mayoría de las proteínas plasmáticas se sintetizan en el hígado.",
+        "La testosterona aumenta el depósito de proteínas en todos los tejidos, en especial el de proteínas contráctiles en los músculos.",
+        "El ácido pirúvico es un aminoácido esencial."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta directa sobre las proteínas. Las respuestas 1, 2 y 3 son correctas; mientras que la respuesta 4 es la falsa porque el ácido pirúvico no es un aminoácido, sino un cetoácido precursor de un aminoácido no esencial, la alanina."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "En relación a las enfermedades por trastorno en el metabolismo del glucógeno, marque la respuesta que sea FALSA:",
+      "opciones": [
+        "Todas las glucogenosis ocurren por un fallo en el mecanismo de glucogenolisis.",
+        "La glucogenosis de tipo Ia, o enfermedad de von Gierke, produce hepatomegalia e hipoglucemia.",
+        "La glucogenosis tipo V, o enfermedad de McArdle, produce acúmulo de glucógeno en el músculo esquelético.",
+        "La glucogenosis de tipo II, o enfermedad de Pompe, tiene un tratamiento de reemplazo enzimático que puede ser útil en casos seleccionados."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "R1 Falsa. La mayoría de enfermedades del glucógeno ocurren por fallo en enzimas de glucogenolisis (por ejemplo la de tipo Ia), pero hay otras que está afectado la síntesis del glucógeno (por ejemplo la glucogenosis tipo 0) y otras que están afectado el metabolismo en músculo cardiaco o esquelético (ejemplo McArdle). La opción 2, 3 y 4 son verdaderas."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "En la fisiología de la producción de las hormonas tiroideas, existe una enzima muy importante que se encarga tanto de oxidar el yoduro en el proceso de organificación uniéndose éste a la tiroglobulina y además posteriormente cataliza el acoplamiento de DIT y MIT para formar T3 y T4. ¿De qué enzima se trata?",
+      "opciones": [
+        "La lipasa",
+        "La pendrina",
+        "La peroxidasa",
+        "La pepsina"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Respuesta correcta: 3. La peroxidasa. La enzima que lleva a cabo las funciones descritas en el enunciado es la peroxidasa. Respecto al resto de opciones:\n\n-Las lipasas: tanto gástricas como pancreáticas, son enzimas que favorecen la hidrólisis de los lípidos para facilitar su absorción en el tracto digestivo.\n\n-La pendrina: La pendrina es un transportador de membrana localizado en la membrana apical de las células foliculares del tiroides que permite el paso del yodo desde dicha célula hasta el coloide para que se produzca su organificación. Mutaciones en esta proteína generan el síndrome de PENDRED (de herencia autosómica recesiva que cursa con bocio, hipotiroidismo y sordera neurosensorial- ya que la pendrina también está presente en el oído interno-)\n\n-La pepsina: enzima del tracto digestivo, con actividad proteolítica, que procede de la degradación del pepsinógeno por la acción del ácido gástrico."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "¿Cuál de los siguientes factores NO estimula la liberación de renina?",
+      "opciones": [
+        "Disminución de la concentración de cloro o sodio en el túbulo distal inicial.",
+        "Bipedestación.",
+        "Aumento de potasio.",
+        "Disminución del volumen circulante."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La renina es una enzima producida en las células yuxtaglomerulares renales que actúa sobre el angiotensinógeno produciendo angiotensina I. ésta se transforma por la enzima de conversión (ECA) hacia angiotensina II, que estimula la síntesis de aldosterona en la zona glomerular de la corteza suprarrenal. La liberación de la renina se controla por diversos factores:\n\n- Estímulos de presión, vehiculizados por las células yuxtaglomerulares, que actúan como barorreceptores. La disminución de la presión de perfusión renal estimula a síntesis de renina, siendo el factor más importante. Por lo tanto una disminución del volumen circulante estimularía los barrorreceptores en las células yuxtaglomerulares estimulando la liberación de renina (Respuesta 4 incorrecta).\n\n- La células de la mácula densa, íntimamente relacionadas con las células yuxtaglomerulares, actúan como quimiorreceptores siendo sensibles a la concentración de sodio o cloro en el túbulo distal inicial. Si llega mucho sodio en el líquido tubular se inhibe la producción de renina, mientras que por el contrario la disminución de la concentración de cloro o sodio en este segmento estimularía su producción (Respuesta 1 incorrecta).\n\n- El sistema nervioso simpático estimula la liberación de renina en respuesta a la bipedestación (Respuesta 2 incorrecta).\n\n- El aumento de potasio disminuye directamente la liberación de renina y viceversa (Respuesta 3 correcta). El aumento de potasio va a actuar como estimulador de la liberación de aldosterona, ya que ésta controla el metabolismo del potasio aumentando la eliminación de potasio a nivel del túbulo contorneado distal.\n\nOtros factores que controlan la liberación de renina serían el péptido natriurético atrial que inhibe su liberación y la angiotenina II que ejerce un feedback negativo"
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Un varón de 73 años acude a urgencias por presentar dolor abdominal que, finalmente, es diagnosticado de colecistitis. En el estudio preoperatorio se le realiza una gasometría donde aparece PaCO2 65 mmHg, pH 7,35 y HCO3 34 mEq. Estamos ante:",
+      "opciones": [
+        "Estudio normal.",
+        "Acidosis metabólica.",
+        "Acidosis respiratoria aguda.",
+        "Acidosis respiratoria crónica."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En este caso clínico, el pH se encuentra en el límite bajo de la normalidad, aceptando como normales las cifras comprendidas entre 7.35 y 7.45. Sin embargo, tenemos un aumento del bicarbonato y de la PaCO2, con lo que se excluye la respuesta 1. La opción 2 es imposible, puesto que una acidosis metabólica exige un bicarbonato disminuido, y en este caso está aumentado.\n\nLas principales dudas están entre las respuestas 3 y 4. Está claro que esta acidosis tiene un componente respiratorio, porque la PaCO2 está aumentada. La forma de saber si es aguda o crónica es fijarse en el bicarbonato, que sólo aumenta en las crónicas. Cuando una acidosis respiratoria se prolonga en el tiempo, el riñón comienza a retener bicarbonato, de forma que el descenso del pH queda compensado, como en este caso. Para que se produzca este efecto, es necesario que pasen unos cuantos días, por lo que aparece en las crónicas, y no en las agudas."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Una de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "La hipertonía simpática estimula la reabsorción tubular de sodio.",
+        "La administración oral de potasio en una persona normal aumenta la eliminación urinaria de potasio.",
+        "La alcalosis inhibe la eliminación de potasio por la orina.",
+        "La hipervolemia inhibe la reabsorción tubular de calcio."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los iones y el equilibrio ácido- base son los temas más importantes del bloque de fisiología renal. De todas formas, esta pregunta es difícil y puedes permitirte el fallarla. Las variaciones de la tasa de potasio sérico y del capital potásico no siempre son paralelos. Numerosas influencias pueden hacer variar la kaliemia, independientemente de las modificaciones del potasio total. Así, una alcalosis metabólica, una sobrecarga de insulina con glucosa, los agentes betaadrenérgicos y ciertas intoxicaciones tienden a desplazar el potasio extracelular hacia las células y disminuir la kaliemia. La alcalosis, además, aumenta las pérdidas urinarias de potasio (respuesta 3 falsa). La tolerancia clínica de la hipokaliemia depende tanto de la velocidad de su instalación como de la circunstancia subyacente. Las hipokaliemias sintomáticas graves se ven sobre todo entre los pacientes de edad avanzada, cardiópatas, multitratados o enfermos que tienen varios factores asociados favorecedores."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "El potasio es un catión muy abundante en el organismo, y su localización es eminentemente:",
+      "opciones": [
+        "Intracelular.",
+        "Extracelular.",
+        "Intravascular.",
+        "Ligado a proteínas séricas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Esta pregunta es muy sencilla y esperamos que no hayas tenido problemas para acertarla. Respecto a los principales iones, debes saber que cuando están cargados positivamente se dice que son cationes. Al contrario, los que son electronegativos reciben el nombre de aniones.\n\nEl K+ es, por tanto, un catión, y su localización más importante es el interior de la célula. Por ese motivo, cuando se produce una importante lisis celular (por ejemplo, en situaciones de hemólisis masiva o de rabdomiólisis), se libera una cantidad importante de K+ y puede aparecer hiperpotasemia. Otro catión importante es el sodio, cuya localización es principalmente extracelular.\n\nObserva que las cifras normales de K+ en sangre son muy bajas, de 3.5- 4.5 mEq/L, precisamente por ser intracelular. Al contrario, el Na+ está mucho más presente en sangre, siendo sus niveles normales 135- 145 mEq/L."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "El área motora suplementaria se encuentra localizada en el lóbulo frontal. La función del área motora suplementaria es:",
+      "opciones": [
+        "Regulación de funciones motoras reflejas",
+        "Regulación de la actividad de la médula espinal.",
+        "Programación de movimientos.",
+        "Ejecución de movimientos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La función principal del área motora suplementarias es la planificación de movimientos complejos, en muchas ocasiones movimientos que involucren actividad de ambas manos. (Respuesta 3 es correcta)."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Indique cuál de los siguientes factores NO desencadena un aumento de la secreción de K+ en el túbulo distal:",
+      "opciones": [
+        "Aumento de ingesta diaria.",
+        "Aldosterona.",
+        "Acidosis aguda.",
+        "Aumento de reabsorción de Na en el nefrón distal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es una pregunta dificil. No te preocupes si la fallaste, pero estudia bien el siguiente comentario para aclarar algunas ideas. Uno de los mecanismos de defensa que tiene el organismo ante la acidosis es intercambiar H+ del espacio extracelular por iones K+ intracelulares. Además, a nivel del túbulo distal existe una competitividad entre la eliminación de iones H+ y K+, lo que se conoce como \"efecto Berliner\". De este modo, cuando aumentan los H+, como sucede en una acidosis, el túbulo distal tiende a eliminar más cantidad de ellos que de K+, ya que compiten entre sí por su eliminación, por lo que la opción correcta es la 3. Al contrario, el aumento de la ingesta diaria de K+ aumenta la disponibilidad de los mismos a nivel del túbulo distal, de forma que se produce un aumento de su eliminación (respuesta 1 incorrecta). El papel de la aldosterona es favorecer el intercambio Na+/K+ a nivel del túbulo distal (opción 2 falsa). Cuando aumenta la cantidad de sodio que llega a la nefrona distal, se intercambian por iones K+ en mayor cantidad (opción 4 falsa)"
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "La Ley de Ohm establece las relaciones existentes entre flujo a través de un vaso, diferencia de presiones entre los extremos del vaso y resistencia vascular para la circulación de sangre por el mismo. Con respecto a dicha ley seleccione la afirmación CORRECTA:",
+      "opciones": [
+        "El aumento del flujo y/o el aumento de las resistencias repercutirán en un aumento de la diferencia de presiones entre los dos extremos del vaso.",
+        "Si el flujo aumenta se produce un aumento paralelo de las resistencias.",
+        "El flujo que pasa a través de un vaso es inversamente proporcional a la diferencia de presiones establecida entre los dos extremos del vaso.",
+        "El flujo que pasa a través de un vaso es directamente proporcional a las resistencias existentes al paso de la sangre por ese vaso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Ley de Ohm: Q = dP/R. El flujo (Q) depende de la diferencia de presiones (dP) entre los extremos del vaso (relación directa) y de la resistencia vascular (R) (relación inversa)."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Respecto a las acciones fisiológicas de la calcitonina, señale la respuesta incorrecta:",
+      "opciones": [
+        "Es una hormona secretada por las células C, que son células especializadas de los folículos tiroideos.",
+        "Su acción principal es la inhibición de la resolución ósea.",
+        "Estimulan a los osteoclastos.",
+        "Tiene efectos a nivel renal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La opción incorrecta es la 3. La calcitonina es una hormona producida por las células C, que se une a receptores específicos de los osteoclastos, bloqueando su función, por lo que inhibe la resorción ósea (lo mismo hacen los estrógenos a nivel óseo).\n\nEn el riñón disminuye la reabsorción de calcio y fosfato en los túbulos proximales (acción contraria a la de la vitamina D), teniendo un efecto global de disminución de las concentraciones plasmáticas de calcio. Su secreción depende principalmente de la concentración plasmática de calcio."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "De igual forma que existen mecanismos hormonales que regulan el filtrado glomerular, existen mecanismos hormonales que regulan la función tubular. De los siguientes señale la FALSA:",
+      "opciones": [
+        "La aldosterona aumenta la reabsorción de sodio en el túbulo distal/colector.",
+        "La angiotensina II provoca reabsorción de sodio en el túbulo proximal.",
+        "La ADH reabsorbe agua en el túbulo distal/colector.",
+        "La PTH disminuye la reabsorción de magnesio en el asa de Henle."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En las porciones más distales de la nefrona, la aldosterona favorece la reabsorción de sodio y la secreción de K+ y H+ (respuesta 1 correcta). A nivel del túbulo proximal, uno de los estímulos que favorecen la reabsorción de sodio es la angiotensina II (respuesta 2 es correcta). La ADH actúa a nivel renal sobre los receptores V2, favoreciendo la reabsorción de agua, produciéndose entonces una orina más concentrada (respuesta 3 correcta).\n\nLa regulación renal del magnesio tiene lugar fundamentalmente en el asa de Henle, AUMENTANDO su reabsorción en respuesta a la PTH (respuesta 4 falsa). Recuerda que otras acciones de la PTH a nivel renal, más conocidas e importantes, son la reabsorción de calcio y aumentar la eliminación de fosfato."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "La secreción de insulina cuando la hiperglucemia en plasma se produce tras la toma oral de glucosa es mayor que cuando se alcanzan los mismos niveles de glucemia tras la administración intravenosa de la misma. Esto es lo que se conoce como efecto incretina. Respecto a este, señale la afirmación que usted considere FALSA:",
+      "opciones": [
+        "Está producido por la liberación de GLP-1 y GIP en respuesta al paso de alimentos por el tubo digestivo.",
+        "GLP-1 aumenta la liberación de insulina y glucagón, produce un enlentecimiento del vaciado gástrico y disminuye la ingesta.",
+        "Ciertos antidiabéticos orales basan su función en el efecto incretina.",
+        "La vida media del GLP-1 es de aproximadamente 1-2 minutos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta que nos sirve para repasar el efecto incretina y como se relaciona con los ADO. Veamos las diferentes opciones:\n\n1. Es correcta, el efecto incretina se fundamenta en la secerción de estas dos péptidos cuando los nutrientes pasan por el tubo digestivo.\n\n2. Incorrecta. Cuidado!! Tenemos que fijarnos en el detalle del glucagón. GLP-1 aumenta la liberación de insulina PERO inhibe la liberación posprandial de glucagón ya que estamos en una situación de hiperglucemia. En este momento es la insulina la que actúa para introducir glucosa en nuestras células.\n\n3. Correcta. Tanto los 'Inhibidores de DPP-IV' como los 'Agonistas del receptor de GLP-1' son dos grupos de antidiabéticos que basan su mecanismo en el efecto incretina. Recordad que DPP-IV es la enzima encargada de degradar el GLP-1.\n\n4. Es correcta. GLP-1 tiene una vida media muy corta."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Un paciente tiene una concentración plasmática de una sustancia de 0,1 g por 100 ml. En la orina de ese mismo paciente se recogen también 0,1 g de esa sustancia cada minuto. ¿Cuál es el valor del aclaramiento plasmático de esa sustancia?",
+      "opciones": [
+        "Uno.",
+        "0,1 gramos.",
+        "100 mililitros por minuto.",
+        "0,1 gramos multiplicado por el peso del paciente expresado en kilos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta se puede reponder simplemente conociendo la definición de aclaramiento de una sustancia: VOLUMEN de plasma que queda completamente libre de una sustancia a su paso por el riñón por unidad de tiempo. La única respuesta que indica un volumen es la respuesta 3. Si el tóxico se depura vía renal únicamente, y tenemos una concentración de 0,1 g cada 100 ml de plasma, encontrando en orina 0,1 g por minuto de la sustancia, el volumen depurado es precisamente 100 ml por minuto."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Las fibras musculares de tipo II o rápidas, con respecto a las de tipo I o lentas:",
+      "opciones": [
+        "Son más ricas en glucógeno.",
+        "Tienen mayor cantidad de mioglobina.",
+        "Son más ricas en grasa.",
+        "Presentan un color más rojizo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las fibras musculares tipo I o lentas tienen más cantidad de mioglobina (y, por ello, son más rojas) y mayor proporción de grasa que las tipo II o rápidas, mientras que estas últimas son más ricas en glucógeno."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Existen varias anomalías clínicas que producen alteraciones patológicas en el gasto cardiaco. De las siguientes parejas, marque la que es falsa:",
+      "opciones": [
+        "Hipertiroidismo – Aumento de gasto cardiaco.",
+        "Obstrucción de las venas suprahepáticas- Aumento de gasto cardiaco",
+        "Beriberi-Aumento de gasto cardiaco.",
+        "Anemia- Aumento de gasto cardiaco."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta es la 2. Cuando existe cualquier proceso que produzca una disminución del retorno venoso, el gasto cardiaco disminuirá.\n\nExisten ciertas enfermedades en las que se produce un aumento del gasto cardiaco de origen no cardiogénico. Uno de ellos es el beriberi, enfermedad en la que existe déficit de vitaminas del grupo B1 (tiamina). Ante la falta de estas vitaminas, no se produce un correcto metabolismo local tisular y se produce una relajación vascular periférica. Como consecuencia aumenta el gasto cardiaco (Respuesta 3 es verdadera). En el hipertiroidismo, existe hipermetabolismo periférico y se produce un aumento de los metabolitos en sangre, que tienen efecto vasodilatador local, y por ello disminuye las resistencias periféricas, y aumenta el gasto cardiaco (Respuesta 1 es verdadera). En la anemia, aumenta el hematocrito por lo que aumenta la viscosidad de la sangre. Para poder compensar esto, es necesario aumentar la distensibilidad del vaso. Además, en la anemia, no hay una adecuada perfusión de nutrientes en los tejidos periféricos, y el mecanismo compensador local es la vasodilatación, por tanto , la disminución de resistencias periféricas y el aumento de gasto cardiaco (Respuesta 4 es verdadera)."
+    }
+  ]
+}

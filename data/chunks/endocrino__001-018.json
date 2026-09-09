@@ -1,0 +1,436 @@
+{
+  "materia": "endocrino",
+  "paginaInicio": 1,
+  "paginaFin": 18,
+  "anomalias": [
+    "p4: la HbA1c del enunciado no se rasterizó bien y aparece como \"Hb Ale de 8%\"; se transcribe tal cual",
+    "p4: la opción 2 aparece como \"Análogos GLPI.\" (la cifra 1 de GLP1 se rasterizó como I)",
+    "p9: la opción 2 está truncada en el original: \"Determinación de calcio en sangre y orina, i.\"",
+    "p9: la opción 4 dice \"dosis ablativa de 1-131\"; el isótopo es I-131 y en el original la I aparece como el dígito 1",
+    "p12: el símbolo µ de las unidades de TSH está mal rasterizado y se solapa con la U (se lee como un trazo vertical pegado a la U); se transcribe µU/ml en las 4 opciones y en el comentario",
+    "p13: la opción 4 del síndrome de realimentación conserva el guión de partición de palabra (\"fallo mul-tiorgánico\") y no termina en punto",
+    "p18: en el comentario del síndrome hiperglucémico hiperosmolar (que continúa en la p19) se lee \"el déficit de líquidos es de 10-2 litros\", rango imposible; probablemente 10-12 litros"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 4,
+      "enunciado": "Son causas de aumento de los niveles de proteínas transportadoras de hormonas tiroideas (TBG) todas menos:",
+      "opciones": [
+        "Hiperestrogenismo",
+        "Tamoxifeno",
+        "Patologías hepáticas",
+        "Corticoides a dosis altas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Los niveles de TBG disminuyen en el tratamiento con dosis altas de corticoides."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Una mujer de 55 años, diabética tipo 2 y obesa, en tratamiento con metformina, con Hb Ale de 8%, cuenta historia de infecciones urinarias de repetición. ¿Cuál de las siguientes opciones terapéuticas para asociar a la metformina considera la MENOS adecuada?",
+      "opciones": [
+        "Inhibidores DPP4.",
+        "Análogos GLPI.",
+        "Insulina basal.",
+        "Inhibidores SGLT2."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sencilla que hace referencia al efecto secundario más típico y frecuente de los inhibidores de SGLT-2. Este grupo farmacológico produce una disminución de la recaptación de la glucosa filtrada a nivel renal ocasionando un aumento de la excreción de glucosa por la orina que se asocia a un aumento de las infecciones del tracto genital y urinario."
+    },
+    {
+      "paginaPdf": 4,
+      "enunciado": "Mujer embarazada que es remitida por el ginecólogo al haberse detectado en una analítica una T4 total aumentada con una TSH normal. La paciente se encuentra clínicamente eutiroidea a pesar de palpar un bocio grado 1a. ¿Cuál sería su actitud con dicha paciente?",
+      "opciones": [
+        "Repetir la determinación hormonal y, si se confirma, tratar con antitiroideos.",
+        "No es necesario solicitar pruebas complementarias.",
+        "Pedir T3 libre.",
+        "Pedir anticuerpos antitiroideos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Existen ciertas situaciones, entre ellas el embarazo, donde aumenta la cantidad de TBG (proteína transportadora de hormonas tiroideas), con lo que estas aumentan si se cuantifican analíticamente, aunque la fracción libre permanece normal; esta situación se conoce como hipertiroxinemia eutiroidea y no produce ninguna sintomatología ni precisa tratamiento alguno (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "¿Cuál sería la localización más probable al diagnóstico de un tumor cuyas manifestaciones principales son diabetes mellitus, esteatorrea, y colelitiasis?:",
+      "opciones": [
+        "Localización única en intestino delgado.",
+        "Localización multifocal en páncreas e intestino delgado.",
+        "Localización única pancreática del tumor primario con metástasis a distancia.",
+        "Diseminación tumoral microfocal en el tracto digestivo inlocalizable por técnicas de imagen."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es difícil. La triada clásica del somatostatinoma es diabetes mellitus, esteatorrea, y colelitiasis, secundarias a la acción inhibitoria respectiva de la somatostatina sobre la insulina, las enzimas pancreáticas y la motilidad de la vesícula biliar. Estos tumores suelen ser únicos, grandes y con metástasis al dco. El 60% proceden de las células D del páncreas. Del 40% restante, los más frecuentes son los de intestino delgado, por tanto, la correcta es la opción 3, lo más probable es que al diagnóstico la localización del tumor sea única pancreática y con Mt a distancia."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "Un varón de 42 años que pesa 172 kg se somete a un bypass gástrico para el tratamiento de su obesidad. ¿Cuál será la PRINCIPAL complicación precoz de esta cirugía?",
+      "opciones": [
+        "Hepatopatía progresiva.",
+        "Vómitos.",
+        "Diarrea.",
+        "Nefrolitiasis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Recuerda que el bypass gástrico a día de hoy es la técnica quirúrgica de elección en los pacientes sometidos a cirugía bariátrica. La capacidad de almacenamiento queda muy reducida, produciéndose típicamente vómitos y saciedad precoz en la mayoría de los pacientes. Al evitar el paso de los alimentos por gran parte del intestino delgado, además de un componente restrictivo, aporta también un componente malabsortivo."
+    },
+    {
+      "paginaPdf": 5,
+      "enunciado": "No se encuentra en la insuficiencia suprarrenal secundaria:",
+      "opciones": [
+        "Hipoglucemia",
+        "Hipotensión",
+        "Astenia",
+        "Hiperpigmentación mucocutánea"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la insuficiencia suprarrenal secundaria se produce un déficit de ACTH a nivel hipofisario. Estos pacientes van a presentar datos clínicos y analíticos que se deban al déficit de cortisol (astenia, pérdida de peso, hipotensión, hipoglucemia... etc), pero no van a presentar hiperpigmentación, dado que ésta se debe a un exceso de ACTH."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "¿Cuál de los siguientes hallazgos sirve para hacer el diagnóstico de certeza de aldosteronismo primario?:",
+      "opciones": [
+        "Niveles de actividad plasmática de renina reducidos.",
+        "Ausencia de incremento de la actividad plasmática de renina en pruebas de depleción de volumen.",
+        "Hipersecreción de aldosterona que no se suprime con la sobrecarga de suero salino.",
+        "Hipopotasemia tras dos semanas después de la retirada del tratamiento diurético."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta en relación al diagnóstico del hiperaldosteronismo primario. En estos pacientes primero se realizará una prueba de screening que es el cociente aldosterona/ARP, en donde se demostrará que la renina se encuentra suprimida y la aldosterona aumentada. Dado que sospechamos un exceso de producción de aldosterona, la prueba diagnóstica de elección será un test de supresión de la aldosterona en donde se demuestren cifras aumentadas de ésta a pesar del test. Esta prueba es la supresión con suero salino. Otras pruebas de segunda elección que también se podrían realizar serían test de estimulación de la renina, en donde se aprecia una ausencia de elevación de la misma tras realizar el test. Estas son el test de deambulación más furosemida o el test de captopril, pero siempre se prefiere el test de supresión de la aldosterona con el suero salino."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "En la ecografía abdominal que se le realiza a una paciente de 56 años con motivo de un episodio de cólico biliar, detecta usted una masa en el polo renal derecho. ¿Cuál sería la SIGUIENTE actuación para llegar al diagnóstico?",
+      "opciones": [
+        "TC abdominal y, si se trata de un tumor suprarrenal, pruebas de detección selectiva para descartar o no su funcionalidad.",
+        "TC abdominal y, si se detecta tumor suprarrenal, extirparlo, pues si se tratara de un adenoma benigno lo más probable es que hubiera dado síntomas por su secreción hormonal.",
+        "Determinación de 17-cetosteroides urinarios y sulfato de DHEA plasmáticos, que estarían elevados en caso de carcinoma suprarrenal.",
+        "Pruebas de detección selectiva para detectar un posible adenoma funcionante suprarrenal y después RM para calcular el tamaño de la masa, decidiendo el tratamiento en función de esto último."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una masa en polo renal puede corresponder a un tumor suprarrenal, pero también podría tener su origen en el riñón. Dado que la ecografía muchas veces no es capaz de discriminar su origen, el siguiente paso sería la TC para definir su procedencia. En caso de tratarse de un tumor suprarrenal, extirparlo o no, depende del tamaño, pero primero (siempre) debemos descartar funcionalidad (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 6,
+      "enunciado": "En un paciente varón con reciente debut de DM tipo 1, de 18 años de edad, estudiante, con buena formación cultural, intelectual y con recursos económicos, ¿cuál sería el tratamiento más aconsejado?",
+      "opciones": [
+        "Insulina NPH antes de la cena e insulina regular antes de desayuno, comida y cena.",
+        "Insulina glargina en desayuno y análogos de insulina rápida antes de desayuno, comida y cena, sólo si la glucemia preprandial está elevada.",
+        "Mezcla de insulina NPH en desayuno y cena, junto con sulfonilureas para mantener glucemias basales adecuadas.",
+        "Insulina NPH antes del desayuno y cena, y solamente insulina regular, si la glucemia preprandial es mayor de 120 mg/dl en desayuno, comida y/o cena."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta correcta es la 1. En este paciente está indicado un tratamiento intensivo con insulina, en este caso como múltiples dosis de insulina (insulina de acción rápida preprandial e insulina de acción intermedia o prolongada para cubrir el espacio entre comidas). Se realizó un ensayo multicéntrico con diabéticos tipo 1, el DCCT (Diabetes Control and Complications Trial) que demostró que un control estricto de la glucemia conseguía reducir las complicaciones microvasculares de la diabetes (retinopatía, nefropatía y neuropatía). La protección era debida a un mejor control glucémico. El principal efecto adverso del tratamiento intensivo fue un aumento del número de hipoglucemias y un aumento en el peso de estos pacientes. El tratamiento intensivo con insulina también se puede realizar mediante la infusión subcutánea continua de insulina mediante una bomba que libera una dosis de insulina basal a lo largo del día y el paciente, en función de las necesidades, se pondría un bolo antes de cada comida. El resto de las respuestas no se corresponden con un tratamiento intensivo."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "Las personas obesas tienen mayor riesgo de padecer todos los procesos siguientes, EXCEPTO:",
+      "opciones": [
+        "Hipotiroidismo.",
+        "Colelitiasis.",
+        "Hipertensión arterial.",
+        "Hipertrigliceridemia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La obesidad predispone a todos los factores que se mencionan, excepto el hipotiroidismo. La opción 1 es falsa porque lo que sucede es precisamente lo contrario: es el hipotiroidismo el que predispone a la obesidad, no al revés."
+    },
+    {
+      "paginaPdf": 7,
+      "enunciado": "¿Cuál de las siguientes enfermedades es MENOS probable que produzca un hipertiroidismo asociado a una captación baja de yodo radiactivo por el tiroides?:",
+      "opciones": [
+        "Tiroiditis subaguda.",
+        "Coriocarcinoma.",
+        "Ingestión de levotiroxina exógena.",
+        "Pielografía intravenosa reciente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La gammagrafía es una prueba útil para aproximarse al diagnóstico de hipertiroidismo ya que nos separa las causas producidas por hiperfunción autónoma del tiroides (gammagrafía hipercaptante) de las que tienen otra fisiopatología (gammagrafía silente). En este sentido cabe recordar que el coriocarcinoma produce un hipertiroidismo en el que la gammagrafía es de hipercaptación difusa, como en la enfermedad de Graves. En el caso del coriocarcinoma es la beta- hCG la que estimula el receptor de TSH, mientras que en la enfermedad de Graves son los anticuerpos estimuladores del receptor de TSH. Otros patrones gammagráficos hipercaptantes con el adenoma tóxico y el BMNT. En los casos de hipocaptación gammagráfica, debemos descartar como primeras posibilidades la existencia de un hipertiroidismo en el seno de una tiroiditis (subaguda, indolora o por una Hashitoxicosis) o una tirotoxicosis facticia. Otras causas menos probables sería el estruma ovarii (teratoma ovárico con tejido tiroideo diferenciado que produce hipertiroidismo), etc. Los niveles de tiroglobulina pueden ser útiles en casos de dudoso diagnóstico diferencial, ya que estarán aumentados en las tiroiditis, normales o levemente altos en el estruma ovario y bajos o suprimidos en los casos de tirotoxicosis facticia."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "En relación con la enfermedad de Addison, indique la respuesta correcta:",
+      "opciones": [
+        "La enfermedad de Addison de etiología autoinmune se asocia sistemáticamente a anemia perniciosa.",
+        "La tuberculosis produce en sus etapas tardías agrandamiento de las glándulas adrenales.",
+        "La hemorragia adrenal bilateral es una causa excepcional de enfermedad de Addison.",
+        "La presencia de calcificaciones en las glándulas suprarrenales es sugestiva de tuberculosis."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es una pregunta de poca dificultad sobre la etiología de la enfermedad de Addison. La enfermedad subyacente más común en los casos de insuficiencia suprarrenal primaria es la adrenalitis autoinmune que se puede asociar a otras endocrinopatías y procesos autoinmunes, pero no de forma sistemática, como a la diabetes, el hipogonadismo, los trastornos tiroideos...La segunda causa es yatrogénica por extirpación quirúrgica y la tercera es la tuberculosis que típicamente se asociará a calcificaciones en la glándula. La hemorragia se encuentra en cuarto lugar sobretodo asociada a la toma de anticoagulantes.\nManual CTO 9ª Edición Endocrinología página 53-54."
+    },
+    {
+      "paginaPdf": 8,
+      "enunciado": "Varón de 21 años, hijo de paciente con carcinoma medular de tiroides y feocromocitoma. Destaca por su elevada estatura y por su delgadez. La exploración pone de manifiesto neuromas mucosos. Señale el diagnóstico MÁS probable:",
+      "opciones": [
+        "MEN 1.",
+        "Síndrome pluriglandular autoinmune tipo 2.",
+        "MEN 2a.",
+        "MEN 2b."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Caso clínico que describe un MEN 2b (respuesta 4 correcta). Este síndrome comparte la predisposición al carcinoma medular de tiroides del MEN 2a pero asocia además neuromas mucosos, ganglioneuromas intestinales y, a veces, hábito marfanoide; sin embargo, no estará presente la hiperplasia paratiroidea. El carcinoma medular es el componente más frecuente del MEN 2b y aparece a edades más tempranas y es más agresivo que en el MEN 2a. Recuerda que el MEN 2a presenta carcinoma medular, hiperplasia paratiroidea, feocromocitoma y, en algunas familias, amiloidosis cutánea."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Ante el diagnóstico citológico de carcinoma medular de tiroides en una punción-aspiración con aguja fina (PAAF) realizada en el estudio de un nodulo tiroideo asintomático, el siguiente paso debería ser:",
+      "opciones": [
+        "Repetir PAAF para confirmar el diagnóstico.",
+        "Determinación de calcio en sangre y orina, i.",
+        "Descartar feocromocitoma asociado.",
+        "Tiroidectomía total lo antes posible y dosis ablativa de 1-131."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La pregunta, en forma de caso clínico, tiene una dificultad media- baja, puesto que este detalle se ha preguntado en múltiples ocasiones.\n\nAnte el hallazgo de un carcinoma medular de tiroides, cuyo tratamiento será quirúrgico, siempre debemos descartar la existencia de un feocromocitoma, planteándonos la posibilidad de que se trate de un síndrome de neoplasia endocrina múltiple (MEN) 2. Los MEN 2 se caracterizan por el desarrollo de un feocromocitoma y cáncer medular de tiroides (respuesta 3 correcta). Se producen por mutaciones, en el protooncogén RET en el cromosoma 10, cuya herencia suele ser autosómica dominante.\n\nRecuerda que, dentro del MEN 2A, además podríamos encontrarnos hiperplasia o adenomas en paratiroides. Sin embargo, en el MEN 2B podría haber un fenotipo marfanoide, con neuromas mucosos."
+    },
+    {
+      "paginaPdf": 9,
+      "enunciado": "Una mujer de 19 años, diagnosticada a los 13 de DM tipo 1 y en tratamiento actual con insulina detemir 16 unidades en el desayuno y 12 unidades en la cena, así como 3 unidades de insulina glulisina en desayuno, 8 en comida y 6 en cena, presenta los siguientes controles: glucemia antes del desayuno entre 60 y 70 mg/dL, después del desayuno entre 140 y 160 mg/dL, antes de la comida entre 50 y 80 mg/dL, después de la comida entre 120 y 140 mg/dL, antes de la cena entre 60 y 80 mg/dL y después de la cena entre 220 y 240 mg/dL. En función de los controles, ¿cómo modificaría el tratamiento?",
+      "opciones": [
+        "Disminuiría la cantidad total de insulina porque es preferible que esté un poco alta pare evitar la aparición de hipoglucemias graves.",
+        "Disminuiría la insulina detemir del desayuno y la cena y aumentaría la insulina glulisina de la cena.",
+        "Recomendaría eliminar la insulina glulisina del desayuno para evitar las hipoglucemias de antes de comer.",
+        "Cambiaría la insulina glulisina por insulina rápida cristalina, ya que produce menos hipoglucemias."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En primer lugar, es importante tener claros cuáles son los objetivos de control glucémico de la paciente, y en el caso de una paciente joven sin complicaciones crónicas conocidas, serán una glucemia preprandial entre 70 y 130 mg/dL y una glucemia postprandial < 180 mg/dL. Teniendo en cuenta estos objetivos, vemos que la glucemia de antes del desayuno, comida y cena, está por debajo del nivel mínimo de glucemia recomendable y la glucemia de después de la cena está muy por encima del objetivo marcado. Por ese motivo, deberemos bajar la insulina detemir de la cena (que es la que controla la glucemia de antes del desayuno), y también la detemir del desayuno, para evitar las hipoglucemias de ayuno que hace a lo largo del día (antes de comida y cena). De las postprandiales, la única que está descontrolada es la glucemia de después de la cena, así que tendremos que subir la dosis de insulina glulisina que se pincha antes de cenar."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Las siguientes enfermedades causan diabetes secundaria EXCEPTO:",
+      "opciones": [
+        "Feocromocitoma.",
+        "Síndrome de Cushing.",
+        "Enfermedad de Addison.",
+        "Acromegalia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La enfermedad de Addison no se asocia a diabetes mellitus. En la insuficiencia suprarrenal primaria, es característica incluso la presencia de hipoglucemia por déficit de cortisol. El resto de las patologías pueden cursar con diabetes porque existe aumento de hormonas contrarreguladoras que estimulan la neoglucogénesis. En el síndrome de Cushing aparece intolerancia glucídica hasta en el 80% de los casos. En la acromegalia en el 80% existe resistencia insulínica, en el 40% intolerancia a la glucosa y diabetes mellitus en el 20%. En el feocromocitoma, por el efecto de las catecolaminas, existe intolerancia glucídica en más del 50% de los pacientes aunque no suele precisar insulina. En los tumores productores de glucagón la hiperglucemia es una de las características principales del cuadro, aunque también puede ser leve."
+    },
+    {
+      "paginaPdf": 10,
+      "enunciado": "Varón de 59 años que acude a su consulta remitido por el médico de Atención Primaria al haberle detectado en una analítica de rutina una glucemia de 138 mg/dL. Usted, como su endocrinólogo de área, le plantea repetirse la analítica en ayunas incluyendo una nueva determinación de glucemia y de HbA1c. Los datos que aportan esta nueva analítica son: una glucemia en ayunas de 143 mg/dL y una HbA1c de 7,3%. Ante estos hallazgos usted decide diagnosticarle diabetes mellitus tipo 2, si bien esto lo hace después de una anamnesis completa y de haber descartado otras causas de DM. Le recomienda una exploración oftalmológica, así como una determinación de albuminuria y una exploración completa que incluye el uso del monofilamento. Decide igualmente iniciar tratamiento con dieta, ejercicio y metformina. Con respecto a la diabetes mellitus tipo 2, NO es cierto que:",
+      "opciones": [
+        "El riesgo para la descendencia y los hermanos de los pacientes con diabetes tipo 2 es mayor que en la diabetes tipo 1.",
+        "El trastorno primario es una resistencia a la insulina. La capacidad secretora de insulina del páncreas se mantiene intacta a lo largo del tiempo.",
+        "En los pacientes con diabetes mellitus tipo 2 de larga evolución se han observado depósitos de amiloide en los islotes pancreáticos.",
+        "Los niveles de insulina plasmática son normales o altos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La diabetes mellitus tipo 2 es una enfermedad poligénica y multifactorial que posee una gran influencia genética (la concordancia entre gemelos homocigotos roza el 90%, mayor que en la DM tipo 1). Fisiopatológicamente, al principio se caracteriza por una resistencia a la insulina, con hiperinsulinemia compensadora. A medida que avanza la enfermedad, los islotes se vuelven incapaces de mantener el estado de hiperinsulinismo, apareciendo un déficit en la secreción de insulina (marcamos la opción de respuesta 2), lo que produce intolerancia hidrocarbonada e hiperglucemia posprandial. Finalmente, se acaba agotando la capacidad de la célula beta y da lugar a la hiperglucemia en ayunas. En los mecanismos del fallo de la célula beta se han relacionado una pérdida de masa, depósitos de amiloide en los islotes pancreáticos y mecanismos de glucotoxicidad (la hiperglucemia crónica empeora la funcionalidad)."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "¿Cuál sería la orientación diagnóstica correcta ante un paciente diagnosticado de insuficiencia suprarrenal primaria y que en el TC abdominal muestra glándulas aumentadas de tamaño y con calcificaciones?",
+      "opciones": [
+        "Adrenalitis autoimune.",
+        "Adrenalitis tuberculosa.",
+        "Linfoma diseminado.",
+        "Carcinoma suprarrenal."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La causa más frecuente de insuficiencia suprarrenal primaria es, en la actualidad, la de origen autoinmune. Sin embargo, la presencia de calcificaciones en las glándulas suprarrenales es fuertemente sugestiva de tuberculosis suprarrenal, por lo que la opción correcta es la 2."
+    },
+    {
+      "paginaPdf": 11,
+      "enunciado": "Paciente de 50 años con antecedentes personales de Hipertensión y Diabetes Mellitus que consulta por mal control metabólico, al observarle presenta engrosamiento de partes acras y nos comenta exceso de sudoración, por la sospecha clínica solicitamos IGF -1 que está elevada y posteriormente GH tras SOG (75 gramos) > 1 mcg/L. Se realiza una RM hipofisaria y se detecta un macroadenoma de 2.3 cm que invade senos cavernosos, sin comprometer quiasma óptico. Enviamos a nuestro paciente a Valoración por Neurocirugía para cirugía transesfenoidal. Y le solicitaremos al mismo tiempo del diagnóstico cuáles de las siguientes exploraciones complementarias:",
+      "opciones": [
+        "Estudio de función hipofisaria, campimetría, colonoscopia, descartar comorbilidades asociadas (Síndrome de apnea del sueño, osteoartropatía y miocardiopatía).",
+        "Estudio de función hipofisaria, colonoscopia, ecocardio transtorácico y Holter.",
+        "No son necesarias más exploraciones, se solicitan una vez realizada la cirugía.",
+        "Inicialmente con un estudio de función hipofisaria y campimetría sería suficiente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La respuesta correcta sería la 1 habría que solicitar estudio de función hipofisaria para descartar un panhipopituitarismo por efecto masa puesto que la mayor parte de los Adenomas hipofisarios productores de GH se diagnostican habitualmente cuando ya son macroadenomas, colonoscopia por el riesgo elevado de pólipos, descartar comorbilidades asociadas (Diabetes Mellitus, Hipertensión, Síndrome de apnea del sueño, osteoartropatía y miocardiopatía) es fundamental porque la morbimortalidad de nuestros pacientes está incrementada sobre todo por causa cardiovascular."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "¿Cual de las siguientes situaciones de hipotiroidismo subclínico no representa indicación absoluta de inicio de tratamiento con levotiroxina?",
+      "opciones": [
+        "Mujer de 26 años con deseo de gestación y TSH de 6.4 µU/ml.",
+        "Adolescente de 15 años y TSH de 8.2 µU/ml.",
+        "Varón de 44 años y TSH de 13.1 µU/ml.",
+        "Mujer de 79 años y TSH de 9.6 µU/ml."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El manejo del hipotiroidismo subclínico debe ser siempre individualizado. Se recomienda su tratamiento en el caso de mujeres embarazadas o con deseo gestacional, población en edad de crecimiento o en aquellos casos que cursen con niveles de TSH > 10 µU/ml. Por el contrario no se recomienda tratar si la TSH se encuentra entre 5 y 10 µU/ml, especialmente en población anciana o pacientes con antecedentes de cardiopatía."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Respecto a la insuficiencia suprarrenal primaria, es FALSO que:",
+      "opciones": [
+        "Puede aparecer hipercalcemia en los datos de laboratorio.",
+        "En la de origen autoinmune, se suele afectar primero la capa fasciculorreticular y, posteriormente, la glomerular.",
+        "La causa más frecuente es la tuberculosis suprarrenal.",
+        "Puede asociarse a otras enfermedades endocrinas autoinmunes."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la actualidad la enfermedad subyacente más común en los casos de insuficiencia suprarrenal primaria es la adrenalitis autoinmune (aproximadamente 70% de los casos). Puede aparecer sola o asociada a otras endocrinopatías (diabetes mellitus, enfermedad tiroidea autoinmune, hipogonadismo, etc., en el llamado síndrome poliglandular autoinmune tipo 2 o síndrome de Schmidt, o bien asociado a candidiasis mucocutánea e hipoparatiroidismo en el síndrome poliglandular autoinmune tipo 1). Estos pacientes presentan anticuerpos antisuprarrenales en un 50%, y pueden tener también anticuerpos antitiroideos, antigonadales, etc. La tuberculosis era la causa más frecuente de insuficiencia suprarrenal en las series antiguas; hoy en día, solo es responsable del 10-20% (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 12,
+      "enunciado": "Acude a su consulta una paciente de 25 años de edad por presentar taquicardia, temblor, sudoración, nerviosismo e hiperdefecación. Aporta unas hormonas tiroideas con T4 baja, T3 alta y TSH suprimida, así como una gammagrafía tiroidea en la que no se objetiva captación. ¿Cuál es el diagnóstico más probable?:",
+      "opciones": [
+        "Tumor hipofisario productor de TSH.",
+        "Enfermedad de Graves.",
+        "Mola.",
+        "Tirotoxicosis facticia."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En esta pregunta se repasa el diagnóstico diferencial del hipertiroidismo. Nos presentan a un paciente con sintomatología típica de hipertiroidismo, que además se confirma en la determinación hormonal. Para distinguir entre las distintas causas de hipertiroidismo es importante la realización de una gammagrafía. En este caso el paciente presenta una hipocaptación global de la glándula. La única opción de las respuestas que presenta una gammagrafñia hipocaptante es la tirotoxicosis facticia. En este caso se produce un hipertiroidismo por la administración de hormonas, que suprimen la TSH y la producción de hormonas por el tiroides. En los tumores productores de TSH existe una hipercaptación global de la glándula, al igual que en la enfermedad de Graves y en la mola . En el adenoma tóxico existe una hipercaptación por parte del adenoma, presentando el resto de la glándula una ausencia de captación."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Una mujer de 34 años consulta por dolor en la región anterior del cuello de aproximadamente un mes de evolución, que, ocasionalmente, también se irradia hacia el oído. Ha tenido fiebre de 38,4 ºC, pérdida de peso sin reducción de la ingesta, temblor distal y diarrea. Desde el punto de vista analítico, destaca una elevación de la VSG y la TSH abolida. La T4 libre está elevada. Captación tiroidea deprimida. Señale cuál de las siguientes afirmaciones es FALSA en relación con el cuadro que padece:",
+      "opciones": [
+        "En casos graves, puede recurrirse a los corticoides.",
+        "El tratamiento de elección son los antiinflamatorios no esteroideos.",
+        "Como en la enfermedad de Graves, la TSH está suprimida.",
+        "Una buena opción terapéutica serían los antitiroideos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clínica de fiebre y dolor de oído, acompañados de datos de hipertiroidismo en una mujer joven, deben hacernos sospechar una tiroiditis subaguda, secundaria a una infección viral de vías respiratorias altas. En su tratamiento los antitiroideos no están indicados (opción 4 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 13,
+      "enunciado": "Señale lo incorrecto respecto al síndrome de realimentación:",
+      "opciones": [
+        "Se trata de una complicación rara de la nutrición enteral, apareciendo fundamentalmente en paciente con NPT.",
+        "Para evitarla, deberemos iniciar con menos calorías a los pacientes que tengan desnutrición previa.",
+        "Las alteraciones analíticas típicas cuando aparece son la hipopotasemia y la hipofosfatemia.",
+        "El cuadro puede producir insuficiencia cardio-respiratoria, alteraciones neurológicas (convulsiones, coma) y fallo mul-tiorgánico"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El síndrome de realimentación puede producirse en los pacientes desnutridos tanto si se administra nutrición enteral como parenteral. Respuesta 1 falsa.\n\nEl resto de las respuestas son verdaderas."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "Respecto al acceso vascular para la nutrición parenteral en un paciente, señale la opción VERDADERA:",
+      "opciones": [
+        "La vía femoral es una buena opción por su fácil acceso y baja tasa de complicaciones.",
+        "Teniendo en cuenta los requerimientos del paciente, no es necesario la obtención de un catéter venoso central, pudiéndose administrar también por vía periférica.",
+        "El acceso de elección es el lateral bajo de vena yugular interna, no siendo aconsejable el uso de ultrasonidos para su canalización.",
+        "En algunas situaciones, los catéteres centrales de inserción periférica pueden ser una alternativa válida."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Para la administración de la nutrición parenteral necesitamos una vía central de gran calibre. Un acceso venoso periférico limitaría la osmolaridad de la nutrición a < 800-850 mOsm/L, no pudiéndose cubrir los requerimientos energético-proteicos de nuestro paciente. Como estimamos un tiempo de duración corto (< 30 días), optaríamos por catéteres de corta duración, no tunelizados, preferiblemente con acceso en yugular interna o subclavia, aconsejándose el uso de ultrasonidos para su canalización. La vía femoral está contraindicada por su alto riesgo de complicaciones (infección y trombosis principalmente). En algunas situaciones en las que el acceso de una vía central yugular o subclavia es complicado, la utilización de catéteres centrales de inserción periférica (PICCS) son una alternativa válida (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 14,
+      "enunciado": "De todos los valores analíticos que se pueden utilizar para hacer seguimiento de las glucemias en un largo período de tiempo en diabéticos, el de mayor uso en gestantes y el margen de su valoración es:",
+      "opciones": [
+        "Hemoglobina glicosilada, que estima 2-3 meses de glucemia.",
+        "Cetonuria en orina, que informa sobre los 6 últimos días.",
+        "Glucosurias seriadas todos los días.",
+        "Fructosamina, 2-3 semanas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el control glucémico de las mujeres gestantes es de gran utilidad la fructosamina porque traduce el control glucémico de las 2- 3 últimas semanas, sin embargo se utiliza poco. Utilizamos mucho los niveles de glucosa capilar, determinada en varios momentos del día, lo que nos permite conocer como está el control glucémico pre y postpandrial. La cetonuria matutina también es útil durante la gestación porque es habitual la formación de cuerpos cetónicos. En estas mujeres, la HbA1c es de menor utilidad pues nos traduce la glucemia de los 2- 3 meses previos y en las diabéticas gestacionales sobre todo es un periodo de tiempo muy amplio."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "La existencia de mutaciones en el gen BRAF es CARACTERÍSTICA de uno de los siguientes tumores tiroideos. Señálelo:",
+      "opciones": [
+        "Carcinoma papilar.",
+        "Carcinoma folicular.",
+        "Carcinoma medular.",
+        "Carcinoma anaplásico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las mutaciones en el gen BRAF se encuentran en cerca del 50-75% de los tumores papilares de tiroides (respuesta 1 correcta). En algunos estudios su existencia se ha asociado a una mayor agresividad y peor pronóstico del cáncer papilar de tiroides."
+    },
+    {
+      "paginaPdf": 15,
+      "enunciado": "Paciente que presenta desde hace algunos meses molestias vagas abdominales, sensación de plenitud gástrica precoz, diarrea acuosa y debilidad muscular marcada. En un ECG que se le realizó recientemente por los equipos médicos de su empresa como estudio rutinario destaca la presencia de onda U y aplanamiento de la onda T. ¿Cuál de las siguientes cree que sería MENOS probable en este caso?",
+      "opciones": [
+        "Masa pancreática detectada en la ecografía abdominal.",
+        "Hiperglucemia debida a la destrucción insular pancreática producida por la proliferación de la masa tumoral.",
+        "Presencia de metástasis al diagnóstico.",
+        "Aumento de la concentración plasmática de VIP y volumen de heces de al menos 1l/ día."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los tumores de los islotes pancreáticos es un tema poco preguntado. Basta con que sepas reconocerlos en forma de caso clínico.\n\nAquí nos describen un caso clínico de vipoma.\n\nEl vipoma deriva de las células D pancreáticas y suelen ser de gran tamaño (responsable de la sensación de plenitud gástrica), de comportamiento maligno y con metástasis en el 60% de los casos al momento del diagnóstico.\n\nLas manifestaciones clínicas de este tumor son diarrea secretora (cólera pancreático), debilidad, hipercalcemia, hipofosfatemia, hipopotasemia e hipocloremia.\n\nEl tratamiento consiste en la extirpación quirúrgica; sin embargo, dada la alta frecuencia de metástasis, a veces esto no es posible."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Mujer de 30 años de edad remitida desde Oftalmología por hemianopsia bitemporal. Se ha realizado RM en la que se objetiva un adenoma hipofisario de 4 cm. En la analítica destaca un valor de prolactina de 80 ng/dl. ¿Cuál es el abordaje correcto?:",
+      "opciones": [
+        "Agonistas dopaminérgicos",
+        "Cirugía transesfenoidal",
+        "Radioterapia",
+        "Análogos de somatostatina"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una lesión igual o mayor a 1 cm con valores de prolactina por debajo de 100 ng/dl son sugestivo de adenoma hipofisario (no productor de prolactinoma, los valores de prolactina serían más altos). Por tanto, mi sospecha diagnóstica es un adenoma hipofisario que comprime tallo e impide la acción inhibitoria de la dopamina sobre la prolactina, produciendo un leve aumento de la misma. Por tanto, el tratamiento no será agonistas dopaminérgicos sino cirugía transesfenoidal."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "Respecto a las estatinas, NO es cierto que:",
+      "opciones": [
+        "Se pueden dar con seguridad en embarazadas.",
+        "Interaccionan con la eritromicina y cimetidina.",
+        "Pueden producir miositis.",
+        "La mayoría se metabolizan por el citocromo P450 3A4."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las estatinas son inhibidoras de la HMG-CoA-reductasa, la enzima limitante para la síntesis de colesterol endógeno. Esta disminución de síntesis estimula el aumento de receptores de LDL, que favorece la eliminación plasmática de colesterol. Atorvastatina y rosuvastatina son las más potentes y además producen disminución concomitante de los niveles de triglicéridos. La combinación de estatinas con fibratos aumenta el riesgo de aparición de miopatía grave, incluso rabdomiólisis, siendo menos frecuente con el empleo de pravastatina y fluvastatina, y/o con la combinación con fenofibrato frente al gemfibrozilo. Estos fármacos están contraindicados en niños y embarazadas (opción 1 incorrecta, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 16,
+      "enunciado": "¿Qué patología sospecharía en un varón de 40 años, hipertenso, con hipopotasemia persistente sin edemas, con ingestión normal de sal y que no recibe ningún tratamiento farmacológico?",
+      "opciones": [
+        "Hipotiroidismo.",
+        "Síndrome de Cushing.",
+        "Hiperaldosteronismo primario.",
+        "Diabetes insípida."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Entre las opciones de respuesta que nos ofrecen, solamente la 2 y la 3 podrían justificar la hipertensión. En ambos casos podríamos encontrar hipopotasemia y ausencia de edemas, pero una de las dos es mejor, en este caso la 3. Si se tratase de un síndrome de Cushing, deberíamos haber encontrado algún dato en la exploración física (cara de luna llena, obesidad troncular, erupción acneiforme, estrías, hiperpigmentación si es ACTH- dependiente, etc.). Por otra parte, analíticamente cabría esperar hiperglucemia. Estos datos no aparecen en un hiperaldosteronismo primario, y dada la ausencia de ellos, debemos inclinarnos por la opción 3 (hiperaldosteronismo primario)."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Una paciente joven y soltera acude a consulta por presentar astenia, debilidad, que dice que ha ido a más; ha adelgazado y anda fastidiada con náuseas, vómitos y dolores abdominales. Su madre comenta que a veces coge el salero y come sal ansiosamente, y que alguna vez al levantarse de ver la televisión, se ha caído de repente. Nota que la piel se le ha oscurecido, aunque tiene manchas muy blancas en las manos. Ha perdido pelo en las axilas y pubis y comenta que \"se le han quedado las orejas duras\". Respecto a esta entidad señale qué sería FALSO en su analítica:",
+      "opciones": [
+        "Es frecuente la hipoglucemia.",
+        "Un 10-20% presentan hipercalcemia de causa poco clara.",
+        "Es frecuente la linfocitosis con eosinofilia.",
+        "El bicarbonato plasmático está elevado."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La dificultad de esta pregunta reside en realizar el diagnóstico correcto ante una pregunta con un enunciado tan largo. Lo más importante de los datos que aparecen en el caso clínico es que la paciente presenta astenia, nauseas, vómitos, dolor abdominal, hipotensión ortostática, hiperpigmentación cutánea y posiblemente vitíligo en manos. Ante estas características se debe realizar el diagnóstico de insuficiencia suprarrenal primaria. En esta patología se puede encontrar en la analítica hipoglucemia, hipercalcemia, linfocitosis con eosinofilía, hiperpotasemia y acidosis metabólica, con lo que la opción incorrecta es la 4, ya que las cifras de bicarbonato se encuentran disminuidas."
+    },
+    {
+      "paginaPdf": 17,
+      "enunciado": "Varón 48 años, con obesidad mórbida (IMC 45) sin ninguna otra enfermedad asociada que consulta por una glucemia basal de 145 mg/dl confirmada posteriormente con HbA1c de 6.6%. En este paciente, cuál sería el tratamiento de elección:",
+      "opciones": [
+        "Modificación en los estilos de vida para conseguir una pérdida adecuada de peso y metformina.",
+        "Iniciar tratamiento dietético junto con sulfonilureas.",
+        "Insulinización con pauta convencional.",
+        "Tratamiento con metformina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Este paciente ya tiene diagnóstico de diabetes. El tratamiento de la diabetes tipo 2 debe empezar por dieta y modificaciones del estilo de vida para fomentar la pérdida de peso. Desde el diagnóstico el paciente debe también comenzar con metformina, pero este tratamiento nunca es una alternativa a los cambios en los estilos de vida que siempre son un paso fundamental."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Una paciente con hipotiroidismo, en tratamiento desde hace 3 años, acude a su endocrino antes de su revisión periódica, por presentar en las últimas semanas cansancio prácticamente durante todo el día, estreñimiento y molestias abdominales frecuentes. Además dice que se nota más morena últimamente a pesar de no haber tomado el sol. El médico solicita una analítica elemental y unos niveles hormonales para descartar una posible acentuación de su problema tiroideo que requiera un ajuste del tratamiento. Los niveles de TSH son normales, y lo que llama la atención es una hiperpotasemia marcada, una reducción de los niveles plasmáticos de Na+, Cl- y HCO-3, así como una leve hipercalcemia. Señale lo correcto sobre el diagnóstico que sospecha:",
+      "opciones": [
+        "Probablemente este cuadro, y el tiroideo, tengan un origen común a nivel hipofisario.",
+        "Sería probable encontrar anemia normocítica, linfocitosis y eosinofilia moderada.",
+        "No sería raro encontrar un aumento del vello en esta paciente.",
+        "En estos casos suele haber hipotensión arterial y trastornos del ritmo cardíaco, que consisten típicamente en extrasístoles ventriculares con QT alargado."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos presentan a un paciente con antecedentes de enfermedad tiroidea autoinmune, y que refiere un cuadro de astenia intensa, destacando en la analítica la existencia de hiponatremia, hiperpotasemia y acidosis metabólica. Con estos datos, se debe sospechar un adrenalitis autoinmune en el contexto de un síndrome pluriglandular tipo 2. En estos pacientes, puede existir una disminución del vello corporal por disminución de los andrógenos suprarrenales. Por la falta de acción de los glucocorticoides sobre las células sanguíneas, se puede encontrar anemia, linfocitosis y eosinofilia (opción correcta 2). La existencia de hipocalcemia nos podría orientar hacia un síndrome pluriglandular tipo 1. La hiperpotasemia produciría en el EKG un ensanchamiento del QRS y aparición de ondas T picudas."
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "Varón de 73 años, que acude al Servicio de Urgencias estuporoso. En la exploración destaca fiebre, deshidratación mucocutánea importante, con signo del pliegue positivo. Analíticamente: glucemia venosa: 870 mg/dL, osmolaridad plasmática 320 mOsm/kg, Na 155 mEq/l, K 3,5 mEq/l, pH 7,30 con bicarbonato normal y cuerpos cetónicos negativos. ¿Cuál de las siguientes opciones es FALSA?",
+      "opciones": [
+        "Es necesario descartar la presencia de un foco infeccioso desencadenante del cuadro.",
+        "La hidratación del paciente es la medida más importante, aunque también es recomendable el tratamiento con insulina en perfusión continua para disminuir la hiperglucemia y la diuresis osmótica.",
+        "Este cuadro tiene una elevada mortalidad, entre el 5%-20%.",
+        "El cuadro no justifica que el paciente esté estuporoso, por lo que de forma inmediata deberemos solicitar una TC craneal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Lo que el paciente tiene es un síndrome hiperglucémico hiperosmolar, que se define como una glucemia > 600 mg/dL, cuerpos cetónicos negativos o ligeramente positivos, pH arterial > 7,30, Osm sérica efectiva > 320 mOsm/kg y bicarbonato plasmático > 18 mEq/l. Es más frecuente en ancianos diabéticos con un factor desencadenante, que en un 60% de los casos será infeccioso. El tratamiento debe ser precoz, con sueroterapia intensiva, ya que el déficit de líquidos es de 10-2 litros. La insulina no es imprescindible, pero reduce el tiempo de tratamiento al disminuir la diuresis osmótica provocada por la hiperglucemia. Los suplementos de potasio suelen ser necesarios de forma más precoz que en la CAD, y el bicarbonato solo es preciso si hay acidosis láctica concomitante."
+    }
+  ]
+}

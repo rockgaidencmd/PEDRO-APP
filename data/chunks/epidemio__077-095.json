@@ -1,0 +1,497 @@
+{
+  "materia": "epidemio",
+  "paginaInicio": 77,
+  "paginaFin": 95,
+  "anomalias": [
+    "p78: en 'Usted dispone de una prueba diagnóstica de sífilis...' la tabla de contingencia del comentario (que continúa en p79) tuve que linealizarla: 'Enfermo Sano / Positivo 0,95 51 / Negativo 0,05 949 / 1 999'",
+    "p78: en 'Usted dispone de una prueba diagnóstica de sífilis...' los números de la tabla son incoherentes: la columna 'Sano' suma 51+949=1.000 pero su total figura como 999, y el texto calcula el VPP como 0,95/50,95 (usando 50 falsos positivos, no los 51 de la tabla)",
+    "p80: en 'Hemos realizado un estudio en una población de 100 sujetos...' la tabla de contingencia del comentario (que continúa en p81) tuve que linealizarla: filas 'Test positivo', 'Test negativo' y 'Total' con columnas 'Enfermos', 'Sanos' y 'Total'",
+    "p80: en 'Hemos realizado un estudio en una población de 100 sujetos...' la celda 'Enfermos / Test negativo' aparece como '0 (1 x 1)', operación que da 1 y no 0; el resultado 0 sí es el correcto para el razonamiento",
+    "p82: en 'Respecto al análisis de la varianza, señale la respuesta FALSA' la clave es 'Resp. Correcta: 3' pero el comentario afirma 'lo que dice la respuesta 4 es falsa' y añade 'no debes preocuparte si has dudado entre la 2 y la 4'; el contenido descrito como falso corresponde en realidad a la opción 3",
+    "p85: en 'Un estudio en el que se seleccionan sujetos libre de enfermedad...' el comentario dice 'Esto nos permite descartar estudios descriptivos (opciones 3 y 4)', pero la opción 4 es precisamente la respuesta correcta según la clave",
+    "p86: en 'En un ensayo clínico se pre-define que el fármaco experimental será no-inferior...' el enunciado da un 52% de eventos en el grupo experimental frente a un 68% en el control, lo que corresponde a un RR de 0,76 y no al RR = 0,90 que declara el propio enunciado",
+    "p90: en 'En un estudio realizado sobre un grupo de adultos varones...' el comentario dice 'Esto invalida las opciones 1 y 3, donde no existe tal intervalo' cuando la opción 3 sí enuncia un intervalo (175-185); después descarta 'la opción 4' por estar construida con un solo error estándar, descripción que corresponde a la opción 3. La numeración del comentario está desplazada"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 77,
+      "enunciado": "La escala CHA2DS2VASc es pronóstica en cuanto el riesgo de ictus en pacientes con fibrilación auricular. Disponemos de un grupo de pacientes con fibrilación auricular (CHA2DS2VASc>1) anticoagulados. Se dividen dichos pacientes en dos grupos: grupo A (CHA2DS2VASc 2-3) y grupo B (CHA2DS2VASc >3). Se investiga la incidencia de ictus en ambos grupos a los 3 años de seguimiento. ¿Qué tipo de estudio estamos realizando?",
+      "opciones": [
+        "Estudio transversal",
+        "Estudio de cohortes",
+        "Estudio de casos y controles",
+        "Ensayo clínico aleatorizado"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Disponemos de dos grupos de pacientes. Uno de mayor riesgo de ictus (CHA2DS2VASc >3) que sería el grupo expuesto y otra de menor riesgo de ictus (CHA2DS2VASc 2-3) que sería el grupo control. Se evalúa la incidencia de enfermedad a los 3 años, por tanto, estamos realizando un estudio de cohortes."
+    },
+    {
+      "paginaPdf": 77,
+      "enunciado": "Se realiza un estudio con el objetivo de valorar las diferencias entre la puntuación de la Escala de Glasgow de un grupo de pacientes que han sufrido un traumatismo craneoencefálico y ha sido atendido por el servicio de emergencias médicas y posteriormente en una unidad de críticos. Se compara la evolución de la puntuación del Glasglow a la llegada de los servicios de emergencias, a la llegada a la unidad de críticos y a las 24 horas del traumatismo. ¿Qué test de contraste de hipótesis utilizarías?",
+      "opciones": [
+        "ANOVA",
+        "Wilcoxon",
+        "Friedman",
+        "Kruskal-Wallis"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un estudio en el que únicamente tenemos un grupo de pacientes, por tanto, se deberá utilizar datos apareados y la variable independiente dependerá del número de veces que se mida la variable dependiente (Escala de Glasgow). Por tanto, la variable independiente será cualitativa de más de dos categorías (porque el Glasgow se mide 3 veces: a la llegada del SEM, a la llegada a UCI y a las 24h). La variable dependiente se trata de una ordinal (escala de Glasgow) que en el contraste de hipótesis se lee como una cuantitativa y obliga al uso de test no paramétricos. En resumen, variable independiente (cualitativa >2 categorías) + variable dependiente (cuantitativa, por ser ordinal) + datos apareados (sí, por ser un único grupo) + test no paramétrico (sí, por ser ordinal) = Test de Friedman (es el test no paramétrico de la ANOVA para datos apareados; que es la que realizaríamos si la variable dependiente hubiera sido cuantitativa y no ordinal)."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Se ha realizado un estudio de no-inferioridad comparando A frente a B en cuanto a la reducción del número de fracturas en pacientes con osteoporosis. Se fija el límite de no-inferioridad en -3%. Los resultados muestran una diferencia entre ambos de +5% a favor de A, IC 95% (-2% a +8%):",
+      "opciones": [
+        "A es no inferior",
+        "A es superior",
+        "A es equivalente terapéutico",
+        "El resultado no es concluyente"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Todo el intervalo queda al mismo lado de la no-inferioridad, sin resultar interrumpido por el valor delta (respuesta 4 falsa). Dado que, a partir de este diseño, no podemos concluir superioridad (respuesta 2 falsa), no quedan la opción 1 y la 3. Si elegimos la imagen especular de delta (+3%) para juzgar si son equivalentes terapéuticos, vemos como no todo el intervalo estará ente ambos límites (respuesta 3 falsa). Por ello, tan solo podemos afirmar que nos encontramos ante un fármaco no-inferior."
+    },
+    {
+      "paginaPdf": 78,
+      "enunciado": "Usted dispone de una prueba diagnóstica de sífilis y decide hacer un despistaje de la enfermedad en la población que atiende. Sabemos que la sensibilidad de la prueba es de 0,95 y la especificidad de 0,95. Si la prevalencia de la sífilis en su población es de 1/1.000 aproximadamente, ¿cuál será el valor predictivo positivo?",
+      "opciones": [
+        "0,02 (2%).",
+        "0,95 (95%).",
+        "1,0 (100%).",
+        "Con estos datos no se puede saber."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta muy ilustrativa. En ella podremos comprobar en qué medida la prevalencia puede afectar al valor predictivo positivo. Para resolverla, debemos construir la tabla de contingencia, como en la mayoría de los problemas de este tipo. Es MUY IMPORTANTE utilizar los datos de prevalencia que nos dan en el enunciado, pues de lo contrario no es posible llegar a la solución correcta. Ten presente que existe un enfermo por cada 1.000 sanos, según los datos que nos ofrecen:\n\nEnfermo Sano\nPositivo 0,95 51\nNegativo 0,05 949\n1 999\n\nNos piden el valor predictivo positivo, es decir, cuántos enfermos existen realmente dentro del grupo que ha dado positivo en el test. Sería 0,95/50,95. Si realizas la división, aproximadamente sería un 2% (respuesta 1 correcta)."
+    },
+    {
+      "paginaPdf": 79,
+      "enunciado": "Estamos planeando hacer un ensayo clínico para comparar la eficacia de dos antibióticos para el tratamiento de la neumonía. ¿Cuál de los siguientes datos NO es útil para calcular el tamaño de la muestra?:",
+      "opciones": [
+        "El número de pacientes que ingresan con diagnóstico de neumonía en nuestro centro, que es de 5 a la semana.",
+        "La probabilidad de obtener un resultado falso positivo (error tipo 1), que la fijamos en un 5%.",
+        "La proporción de pérdidas de pacientes previstas, que en otros estudios similares de la literatura era de un 10%.",
+        "La diferencia mínima clínicamente relevante entre los dos fármacos, que la consideramos de un 10%."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La predeterminación del tamaño muestral es también un tema clásico que se ha preguntado en las 3 últimas convocatorias. Para contestar esta pregunta, lo primero que tenemos que analizar es el tipo de estudio o diseño que nos plantean. Como se trata de un ensayo clínico, sabemos que comportará una comparación de los grupos de tratamiento. Así sabemos que tenemos que tener en cuenta:\n\n- Objetivo del estudio y la variable principal.\n\n- Magnitud del efecto que queremos detectar.\n\n- Variabilidad de la variable principal.\n\n- Errores tipo I y II.\n\n- Poder o potencia estadística.\n\n- Proporción de pacientes en ambos grupos.\n\n- Pérdidas esperadas.\n\n- Tipo de contraste.\n\n-\n\nCon esto fácilmente podemos deducir que la respuesta a la pregunta es la opción 1, ya que no está en nuestra lista. Este aspecto hace referencia a las dificultades que podemos encontrar en el reclutamiento. Si nuestro Hospital atiende muchas neumonías, dicho reclutamiento será más fácil. Por último, un breve comentario en relación a la magnitud del efecto. En condiciones ideales, lo mejor sería ser capaces con nuestro diseño de detectar cualquier diferencia que pudiera haber entre los tratamientos, por pequeña que ésta fuera. En la práctica, hay que llegar a un equilibrio entre esto (haría necesario grandes tamaños muestrales, incrementando los costes) y las diferencias que son clínicamente relevantes y, por tanto, pueden modificar nuestra actitud. Por eso, la magnitud del efecto que queremos detectar se hace corresponder con la diferencia que consideramos relevante desde el punto de vista clínico."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "En un estudio sobre la prevención secundaria de accidentes cerebrovasculares con ácido acetil salicílico se encontró que la proporción de eventos en el grupo control fue control fue 0,07 y en grupo que recibió el antiagregante fue 0,09, lo que supuso una reducción de -29% del riesgo relativo. Los límites del intervalo de confianza al 95% de dicha reducción fueron -100% y +43%. ¿Cuál es la interpretación de este resultado?:",
+      "opciones": [
+        "Es igualmente probable que el fármaco doble el riesgo, que lo aumente en un 29% o que lo reduzca en un 43%, por lo que es estudio no aclara si el fármaco es eficaz.",
+        "Se puede concluir que los pacientes que recibiesen el fármaco tendrían un riesgo de un 29% mayor.",
+        "El 95% de los estudios iguales a éste mostraría una reducción del riesgo relativo de -100% a +43%, aunque serían más frecuentes los valores más próximos a -29% que los más próximos a -100% o a +43%. Por tanto, el estudio no ha sido concluyente.",
+        "Para poder interpretar estos resultados es imprescindible conocer el número de pacientes que se incluyeron en el estudio."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Un intervalo de confianza al 95% de una reducción del RR de - 100% y +43 se interpreta como sigue: El 95% de los estudios iguales a éste mostraría una reducción del riesgo relativo de - 100% a +43%, así que, al incluir al 0, el estudio no ha sido concluyente."
+    },
+    {
+      "paginaPdf": 80,
+      "enunciado": "Hemos realizado un estudio en una población de 100 sujetos en la que conocemos que existe una prevalencia de 1% de infección por VIH, con una prueba que tiene una sensibilidad prácticamente de 1, y una especificidad de 0,95. Hemos obtenido seis tests positivos. Señale cuál de las siguientes afirmaciones es probabilísticamente correcta:",
+      "opciones": [
+        "Los 6 son verdaderos positivos.",
+        "5 de los 6 son falsos positivos.",
+        "5 de los 6 son verdaderos positivos.",
+        "1 de los 6 es un falso positivo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Lo que en realidad nos están preguntando es el valor predictivo positivo del test (proporción de valores positivos de dicho test que corresponden a verdaderos positivos o personas realmente enfermas) aplicado a esta población. La prevalencia de la enfermedad es de 1%, por lo que en una muestra de 100 individuos, sólo 1 tendría la enfermedad. Con estos datos (prevalencia 1%, sensibilidad 100% y especificidad 95%) podemos elaborar la siguiente tabla:\n\nEnfermos | Sanos | Total\nTest positivo | 1 | 5 | 6\nTest negativo | 0 (1 x 1) | 94 (0,95 x 99) | 94\nTotal | 1 | 99 | 100\n\nEl VPP sería: 1/6 (verdaderos positivos / total de positivos), por lo que esperamos que de cada 6 valores positivos sólo 1 de ellos sea un verdadero positivo y podemos concluir que la respuesta correcta es la 2 (cinco de seis serían falsos positivos). Como puedes ver, aunque el test tiene alta sensibilidad y especificidad, la baja prevalencia hace que se produzcan bastantes falsos positivos."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "¿Cuál de las siguientes características es propia de los ensayos clínicos pragmáticos o naturalísticos?:",
+      "opciones": [
+        "Evalúa la efectividad de las intervenciones más que su eficacia.",
+        "Necesita un número menor de pacientes que los ensayos clínicos explicativos.",
+        "Incluye una población muy homogénea.",
+        "Tiene unos criterios de inclusión muy estrictos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En función de los criterios de inclusión, podemos dividir los ensayos clínicos en dos grandes grupos:\n\n- Ensayos clínicos pragmáticos. En ellos, los criterios de inclusión son muy laxos. De este modo, los participantes se acercan lo más posible a la población general (mayor validez externa).\n\n- Ensayos clínicos explicativos. Los criterios de inclusión son muy estrictos. Por tanto, los participantes pueden no ser representativos de la población general (pérdida de validez externa).\n\nTeniendo en cuenta que la efectividad es un concepto que hace referencia a los resultados obtenidos en condiciones reales, esto es precisamente lo que se evalúa en un ensayo pragmático (respuesta 1 correcta). Por el contrario, dado lo restrictivo de los criterios de inclusión, los ensayos explicativos se aproximan más a la medición de la eficacia (resultados en condiciones ideales o experimentales)."
+    },
+    {
+      "paginaPdf": 81,
+      "enunciado": "Está usted comparando la distinta supervivencia de pacientes con cáncer de páncreas en estado avanzado con dos nuevos fármacos. ¿Qué test de contraste de hipótesis utilizaría en este caso?",
+      "opciones": [
+        "Logaritmo del rango.",
+        "U de Mann-Whitney.",
+        "Friedman.",
+        "Chi-cuadrado."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Para comparar si las diferencias observadas en dos curvas de supervivencia pueden ser o no explicadas por el azar, debemos realizar un test estadístico. Hay diversas pruebas para comparar distribuciones de supervivencia. En este caso, la que nos permite comparar dos curvas de supervivencia es el logaritmo del rango."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "Respecto al análisis de la varianza, señale la respuesta FALSA:",
+      "opciones": [
+        "Es útil para estudiar la relación entre una variable cualitativa con más de dos categorías y otra variable cuantitativa.",
+        "Compara la dispersión debida al azar con la dispersión debida al factor en estudio.",
+        "Determina cuál de las categorías de la variable cualitativa se asocia con mayores valores de la variable cuantitativa.",
+        "Existe una variante de esta prueba para datos apareados."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El análisis de la varianza (ANOVA) es un test de contraste de hipótesis. Como tal, se utiliza para comprobar si la asociación entre dos variables es estadísticamente significativa. Para emplear este test, una de las variables debe ser cualitativa no dicotómica (es decir, con más de dos categorías; por ejemplo, tres grupos de tratamiento). La otra variable debe ser cuantitativa. Igual que sucede con la t de Student, existe un ANOVA para datos independientes y otro para datos apareados.\n\nEl fundamento del ANOVA es la comparación de la dispersión debida al azar con la producida por el factor de estudio (esto es más o menos lo que hacen todas las pruebas, por ejemplo la Chi- cuadrado compara los casos observados con los esperados). Por ello, la prueba se llama “análisis de la varianza”, porque es precisamente lo que hace: comparar un parámetro de dispersión, que es la varianza. Cuando las varianzas difieren más de lo que sería esperable por azar, p será menor de 0.05 (estadísticamente significativo). Sin embargo, lo que dice la respuesta 4 es falsa, porque el ANOVA no es capaz de determinar cuál de las categorías se asocia con mayores valores de la variable cuantitativa. En cualquier caso, no debes preocuparte si has dudado entre la 2 y la 4. Hasta ahora, no han preguntado detalles sobre el funcionamiento interno de la prueba."
+    },
+    {
+      "paginaPdf": 82,
+      "enunciado": "Estamos diseñando un ensayo clínico controlado para evaluar el efecto de un nuevo fármaco antihipertensivo sobre la morbimortalidad cardiovascular. No obstante, sabemos que la presencia de elevación del colesterol LDL es un factor pronóstico muy relevante. Si pretendemos que los niveles de LDL se distribuyan por igual en ambos grupos de tratamiento, debemos elegir el siguiente tipo de aleatorización:",
+      "opciones": [
+        "Asignación aleatoria simple.",
+        "Asignación aleatoria restrictiva.",
+        "Aleatorización por bloques.",
+        "Asignación aleatoria estratificada."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Si queremos que una variable que no es la de estudio esté distribuida homogéneamente en los dos grupos (tratamiento y control), lo que tenemos que hacer es estratificar la muestra a partir de esa variable. Podemos hacer submuestras definidas por intervalos de LDL- colesterolemia, y posteriormente, ir asignando aleatoriamente a todos los individuos de cada submuestra al grupo tratamiento o al control. De este modo, el grupo tratamiento tendrá unos valores de colesterolemia homogéneos con los del grupo control. Este tipo de aleatorización se llama estratificada, y no tiene nada que ver con la aleatorización por bloques, no os confundáis."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "Mujer de 26 años, sin antecedentes de interés, con 5 semanas de amenorrea. Tiene pareja estable y no utiliza métodos anticonceptivos, por lo que, ante la amenorrea, decide realizar un test de embarazo. Al comprar el test de orina para embarazo en la farmacia, le comentan que estos test tienen un alto valor predictivo positivo y un bajo valor predictivo negativo. El valor predictivo positivo de una prueba diagnóstica se define como:",
+      "opciones": [
+        "Una cantidad = 1 menos la sensibilidad.",
+        "La proporción de falsos positivos entre los pacientes con resultado negativo en el test.",
+        "La probabilidad de que un individuo enfermo tenga un resultado positivo.",
+        "La probabilidad de una enfermedad, dado un resultado positivo en el test."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El valor predictivo positivo representa el número de “aciertos diagnósticos” del test, es decir, de entre todos los diagnosticados como positivos por el test, cuántos son verdaderamente enfermos (respuesta 4 correcta). Veamos las demás opciones de respuesta:\n1.- Alude a los falsos negativos.\n2.- No define ninguna magnitud real, puesto que no hay positivos (ni verdaderos ni falsos) entre los negativos, está puesta para confundir.\n3.- Define la sensibilidad."
+    },
+    {
+      "paginaPdf": 83,
+      "enunciado": "Respecto al análisis de los resultados de un estudio epidemiológico de cohorte mediante el riesgo relativo es cierto que:",
+      "opciones": [
+        "Se calcula dividiendo la incidencia de enfermedad en lo no expuestos entre la incidencia de la enfermedad en los expuestos.",
+        "Carece de unidades.",
+        "Es una medida del efecto absoluto del factor de riesgo que produce la enfermedad.",
+        "En los estudios de cohorte tiene el mismo valor que el \"odds ratio\"."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El riesgo relativo es el cociente entre la incidencia en expuestos y la incidencia en no expuestos y carece de unidad. Oscila entre cero y + infinito."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "En un ensayo clínico realizado sobre pacientes con infarto agudo de miocardio, se ha observado que la mortalidad del grupo que ha recibido el nuevo tratamiento es menor que la del grupo de referencia, con un riesgo relativo (RR) de 0,90 (intervalo de confianza del 95%: 0,75-1,05. ¿Cuál de las siguientes afirmaciones es CIERTA?",
+      "opciones": [
+        "El resultado es estadísticamente significativo, ya que el intervalo de confianza excluye el valor RR = 0.",
+        "Debe recomendarse el nuevo tratamiento, ya que la mortalidad del grupo que lo ha recibido ha sido menor.",
+        "El nuevo tratamiento es más eficaz.",
+        "El resultado no es estadísticamente significativo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La clave para la interpretación de este estudio está en el intervalo de confianza sobre la estimación del riesgo relativo (IC al 95%, 0,75-1,05). Si el intervalo de confianza incluye el 1 (efecto neutro del factor de estudio), se habla de un resultado no significativo. En otras palabras, dentro del intervalo están comprendidas dos posibilidades opuestas: < 1 (factor de protección) y > 1 (factor de riesgo)."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "¿A qué propiedad de una medida se refieren los términos sensibilidad y especificidad?",
+      "opciones": [
+        "Validez de criterio.",
+        "Precisión.",
+        "Fiabilidad.",
+        "Validez de contenido."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La validez de criterio es el grado en el que una prueba diagnóstica coincide con otra prueba que utilizamos como referencia, a la que se llama criterio. Por ejemplo, si queremos evaluar la mamografía para el diagnóstico del cáncer de mama, la compararíamos con otra prueba que consideraríamos como criterio o gold estándar (por ejemplo, con la biopsia). Así, consideraríamos enfermos o sanos en función del resultado histológico, y comprobaríamos cuántas veces ha “acertado” nuestra prueba: cuántos positivos ha dado en el grupo de enfermos (sensibilidad) y cuántos negativos en el grupo de sanos (especificidad). Es decir, la validez de criterio no es sino el grado de sensibilidad y especificidad de una prueba.\n\nOtro parámetro referente a la validez de criterio es el valor global de un test, que mide la proporción de resultados válidos entre el total de resultados."
+    },
+    {
+      "paginaPdf": 84,
+      "enunciado": "Se han realizado dos ensayos clínicos controlados con placebo para comprobar el beneficio del metoprolol en pacientes que han sufrido un infarto agudo de miocardio. En el primero se incluyó a pacientes de alto riesgo y la mortalidad se redujo de un 40% con placebo a un 20% con metoprolol. En el segundo se incluyó a pacientes de bajo riesgo y la mortalidad se redujo de un 10% con placebo a un 5% con metoprolol. A la hora de interpretar estos resultados, ¿cuál de las siguientes afirmaciones NO es correcta?:",
+      "opciones": [
+        "El metoprolol reduce la mortalidad un 50% en los dos tipos de pacientes.",
+        "El metoprolol es más eficaz en los pacientes de alto riesgo porque reduce el riesgo relativo de mortalidad un 20% en los pacientes de alto riesgo y sólo un 5% en los de bajo riesgo.",
+        "El beneficio absoluto es mayor en los de alto riesgo porque evita 20 muertes por cada 100 pacientes tratados frente a sólo 5 muertes por cada 100 pacientes tratados de bajo riesgo.",
+        "Si los recursos son limitados, es más rentable tratar a los pacientes de mayor riesgo porque se obtiene un beneficio absoluto mayor."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta de dificultad media sobre la interpretación de los datos de ensayos clínicos. Analicemos opción por opción:\n\n- Es cierto que el metoprolol reduce la mortalidad en un 50%, es decir, a la mitad (con placebo, 40%; con este fármaco, 20%). Respuesta 1 correcta.\n\n- En términos de riesgo relativo, la respuesta 3 tiene razón; sólo tenemos que dividir incidencias o riesgos.\n\n- La respuesta 4 es evidente. Los pacientes de alto riesgo se benefician más, porque estaríamos salvando 20 vidas por cada 100 pacientes tratados (ya no muere el 40%, sino únicamente el 20%). Sin embargo, en los de bajo riesgo salvamos solamente 5 vidas por cada 100 tratamientos.\n\nLa opción falsa es la 2. El riesgo relativo desciende por igual en ambos grupos (20/40=0.5; 5/10=0.5). Lo que sí cambia de un grupo a otro es lo que dice la respuesta 4: el beneficio absoluto, entendido como número de vidas salvadas por cada 100 pacientes tratados."
+    },
+    {
+      "paginaPdf": 85,
+      "enunciado": "Un estudio en el que se seleccionan sujetos libre de enfermedad que son clasificados según el nivel de exposición a posibles factores de riesgo y son seguidos para observar la incidencia de enfermedad a lo largo del tiempo es un:",
+      "opciones": [
+        "Estudio de casos y controles.",
+        "Ensayo clínico.",
+        "Estudio de una serie de casos.",
+        "Estudio de cohortes."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una pregunta sencilla y clásica. Casi todos los años caen preguntas de este tipo. Nos dan información sobre el diseño de un estudio epidemiológico y nos piden que identifiquemos con cuál se corresponde. Vemos que se trata de un estudio analítico, el investigador pretende estudiar la relación entre distintos factores de riesgo y la aparición de enfermedad. Esto nos permite descartar estudios descriptivos (opciones 3 y 4). Vemos que si bien el investigador desempeña un papel pasivo, ya que no ha decidido a qué factores de riesgo se van a exponer los participantes ni el nivel de exposición. Tan solo se limita a observar lo que ocurre a lo largo del tiempo. Es, por tanto, un estudio de tipo observacional (opción 2 incorrecta). Una vez llegados a este punto, solo nos queda fijarnos en el criterio utilizado para la selección de los sujetos. En relación a esto, vemos que se han seleccionado en función del factor de riesgo, estando todos sanos al inicio del estudio. En el seguimiento se pretende estudiar la aparición de enfermedad. La pregunta nos está describiendo claramente un diseño de cohortes (opción 4 correcta)."
+    },
+    {
+      "paginaPdf": 86,
+      "enunciado": "En un histograma, la frecuencia absoluta de las medidas de cada intervalo es directamente proporcional a:",
+      "opciones": [
+        "El área de cada rectángulo.",
+        "La altura de cada rectángulo.",
+        "La base de cada rectángulo.",
+        "La suma de las áreas de todos los rectángulos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta básica sobre la interpretación del histograma, el gráfico usado para la representación descriptiva de variables cuantitativas continuas. En un histograma, la base de cada rectángulo representa a cada uno de los intervalos, y la frecuencia de cada intervalo es proporcional a la superficie del rectángulo (respuesta 1 correcta), no a la altura (dado que la amplitud del intervalo puede ser variable)."
+    },
+    {
+      "paginaPdf": 86,
+      "enunciado": "En un ensayo clínico se pre-define que el fármaco experimental será no-inferior al fármaco control si el límite superior del intervalo de confianza (lC) del riesgo relativo (RR) para la variable principal (infarto de miocardio) no supera el 1,20 (Diferencia clínicamente relevante: 20% en términos relativos). La variable principal ocurre en un 52% de los pacientes en el grupo experimental y 68% en el grupo control (RR = 0,90; lC 95% = 0,69 a 1,18). Señale la respuesta FALSA:",
+      "opciones": [
+        "El fármaco experimental no es superior al fármaco control en la reducción de la incidencia de infarto de miocardio en este estudio.",
+        "El fármaco control no es superior al fármaco experimental en la reducción de la incidencia de infarto de miocardio en este estudio.",
+        "El fármaco experimental es no-inferior al fármaco control bajo las condiciones del estudio.",
+        "Ambos tratamientos son equivalentes con un 95% de confianza."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Cuando nos hacen una pregunta de no-inferioridad, tenemos que tener en cuenta que:\n\n1. Si el IC no incluye el RR + límete de no inferioridad (1,2 en este caso), afirmamos que es no-inferior.\n\n2. Si el IC no incluye RR +/- límite de no inferioridad (0,8 aproximadamente-1,2 en este caso), diremos que son fármacos equivalentes.\n\n3. Hablaremos de superioridad si el IC 95% no incluye el valor nulo, el 1 en este caso al tratarse de un RR.\n\nPor lo anterior sí se puede hablar de no inferioridad pero no de equivalencia terapéutica, ya que límite inferior de nuestro intervalo (0,69 - 1,18) rebasa el valor del intervalo para la equivalencia (0,8-1,2)."
+    },
+    {
+      "paginaPdf": 87,
+      "enunciado": "En un ensayo clínico de no inferioridad se ha establecido como límite máximo para considerar el nuevo tratamiento como no inferior una diferencia de un 10% más de ictus isquémico respecto del tratamiento habitual. Los resultados del estudio muestran un RR de ictus isquémico del nuevo tratamiento respecto del tratamiento habitual de 1,03 (IC 95%: 0,96-1,11). ¿Qué conclusión se puede extraer de estos resultados?",
+      "opciones": [
+        "El RR es > 1, lo que indica que el nuevo tratamiento aumenta el riesgo de ictus isquémico.",
+        "Dentro del rango de valores más probables se incluye la posibilidad de un riesgo de ictus isquémico superior al límite establecido de no inferioridad.",
+        "Como el IC 95% incluye el valor 1, se puede concluir que el nuevo tratamiento es no inferior.",
+        "No se puede concluir nada, ya que el intervalo de confianza incluye tanto valores superiores como inferiores a 1."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Para interpretar los resultados de un ensayo clínico de no inferioridad es necesario tener en cuenta siempre el intervalo de confianza de la estimación. Para considerar un tratamiento como no inferior, el intervalo debería incluir el valor del tratamiento con el que se lleva a cabo la comparación, y no rebasar el límite máximo establecido. En nuestro caso se cumple la primera condición, pero no la segunda, ya que el riesgo podría llegar a ser de un 11% del nuevo tratamiento respecto al tratamiento habitual, lo que es superior al límite superior que se había establecido a priori (un 10% de RR 1, que sería 1,10)."
+    },
+    {
+      "paginaPdf": 87,
+      "enunciado": "Se considera que dos fármacos son bioequivalentes, cuando:",
+      "opciones": [
+        "Contienen el mismo principio activo, aunque cambien los excipientes.",
+        "Su vida media biológica, semivida o t ½ no difiere en más de un 5%.",
+        "Los procesos de biotransformación metabólica tienen lugar a través de las mismas isoformas enzimáticas.",
+        "Presentan una biodisponibilidad similar."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Esta pregunta se contesta literalmente con las primeras palabras de nuestro manual CTO sobre los estudios de bioequivalencia. Son ensayos clínicos en los que su objetivo es la demostración de la similitud en biodisponibilidad de dos formulaciones de un mismo principio activo a partir de la comparación de sus características farmacocinéticas. La demostración de bioequivalencia se obtiene mediante la comparación de los perfiles farmacocinéticos de los fármacos estudiados. Para ello, después de la administración de cada formulación, es necesario saber qué cantidad de fármaco existe en el organismo y cómo va variando a lo largo del tiempo. El procedimiento más habitual consiste en la obtención de sucesivas muestras, habitualmente de sangre. Como medida de la cantidad de fármaco absorbido, se utiliza el área bajo la curva concentración-tiempo (AUC), y como indicador de la velocidad de absorción, se mide la concentración máxima (Cmax) alcanzada en la curva concentración-tiempo y el tiempo que tarda en alcanzarse (Tmax). Se entiende por bioequivalencia entre dos productos cuando presentan una biodisponibilidad comparable en condiciones experimentales apropiadas. Se considera que dos formulaciones son bioequivalentes cuando la diferencia en la velocidad y la magnitud de la absorción entre ellas es inferior al 20% (diferencias medias entre formulaciones comprendidas entre 80% y 125%), en términos del intervalo de confianza (IC 90%) para la proporción entre las medias de las dos formulaciones comparadas (AUC test/AUC referencia y Cmax test/Cmax referencia)."
+    },
+    {
+      "paginaPdf": 88,
+      "enunciado": "Disponemos de un nuevo antiagregante que presenta un NNT = 95 para la prevención de trombosis del stent y un NNH = 8 para la aparición de una hemorragia grave. El clopidogrel, fármaco utilizado habitualmente, presenta un NNT = 100 y una NNH = 75. A este respecto, señale la afirmación CORRECTA:",
+      "opciones": [
+        "El nuevo antiagregante es más potente y más seguro que clopidogrel.",
+        "El nuevo antiagregante es menos potente y menos seguro que clopidogrel.",
+        "Valorando riesgo-beneficio, parece que la administración del nuevo antiagregante no está indicada.",
+        "Valorando riesgo-beneficio, parece que la administración del nuevo antiagregante está indicada."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El NNT (Número de pacientes a tratar) se define como el número de pacientes a tratar con el nuevo fármaco para evitar un evento adverso (por ejemplo, trombosis stent). El NNH (Número de pacientes a dañar -hurt-) se define como el número de pacientes a tratar con el nuevo fármaco para que aparezca un evento adverso (por ejemplo, hemorragia grave). El fármaco más eficaz será el que tenga una NNT más baja (fármaco nuevo) y el más seguro el que tenga una NNH más alta (clopidogrel). Dado que las NNT son muy parecidas y la NNH es mucho más segura para clopidogrel, se podría concluir a favor del clopidogrel, dado que el mínimo aumento de la eficacia del nuevo fármaco no compensa el gran aumento de hemorragias (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 88,
+      "enunciado": "En la actualidad, la clasificación DSM-5 de los trastornos mentales requiere la presencia de 5 o más síntomas, de una lista de 9, para el diagnóstico de trastorno depresivo mayor. Deben estar presentes durante 2 semanas y producir un malestar significativo en un área del funcionamiento. Además, no pueden deberse al consumo de sustancias o a una enfermedad médica. ¿Cuál de las siguientes estrategias permitiría un aumento de la especificidad del diagnóstico de trastorno depresivo mayor?",
+      "opciones": [
+        "Requerir para el diagnóstico un mínimo de 6 síntomas de la lista de 9.",
+        "Requerir para el diagnóstico un mínimo de 1 semana de duración.",
+        "Permitir el diagnóstico aunque exista un consumo activo de gran cantidad de alcohol.",
+        "Permitir el diagnóstico aunque exista un excelente funcionamiento en todas las áreas del funcionamiento."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Cuando modificamos un test diagnóstico para que incluya a más sujetos como positivos para el test, estamos aumentando la sensibilidad del mismo. Por ejemplo, si reducimos el nivel de glucemia en sangre necesaria para un diagnóstico de diabetes o, como en este caso, si realizamos el diagnóstico de depresión mayor exigiendo un menor tiempo de duración, menor repercusión funcional o permitiendo que coexista una condición (consumo de alcohol) que explica los síntomas per se. Sin embargo, si aumentamos el requerimiento para obtener un test positivo (en este caso: exigir no 5 sino 6 o más síntomas de la lista original del DSM) estamos modificando el test para hacerlo más específico."
+    },
+    {
+      "paginaPdf": 89,
+      "enunciado": "Un estudio tiene por objeto evaluar el efecto de un tratamiento sobre la intensidad de las crisis de asma bronquial en adultos. ¿Cuál es el factor de estudio?",
+      "opciones": [
+        "Asma bronquial.",
+        "Intensidad de crisis asmáticas.",
+        "Tratamiento estudiado.",
+        "No puede identificarse."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El factor de estudio es lo mismo que la intervención que se va a llevar a cabo. A la hora de diseñar un estudio debemos fijar cuál es el objetivo general (evaluación de eficacia), así como los objetivos concretos (reducción de la TA, disminución de la mortalidad cardiovascular, etc.). De los objetivos concretos se obtienen las variables de evaluación (TAS, TAD, etc.). En el caso de la pregunta, el factor de estudio es el fármaco para el asma bronquial (respuesta 3 correcta). La frecuencia e intensidad de las crisis asmáticas serían variables de evaluación; y los objetivos, la reducción de estas."
+    },
+    {
+      "paginaPdf": 89,
+      "enunciado": "Con respecto al estudio de cohortes, señale la opción FALSA:",
+      "opciones": [
+        "Se selecciona a los individuos según su exposición a determinado factor.",
+        "La posibilidad de sesgos es mayor que en los estudios casos y controles.",
+        "Permiten valorar una gama de efectos.",
+        "Se obtienen estimaciones directas de la incidencia de la enfermedad, tanto en los sujetos expuestos como en los no expuestos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En los estudios de cohortes los grupos se conforman según la exposición de los participantes a un supuesto factor de riesgo. La probabilidad de sesgos es mucho menor que en los estudios de casos y controles. Permiten valorar distintos efectos de un mismo factor y son muy apropiados para estudiar factores de riesgo infrecuentes. Al partir de sujetos sanos, los enfermos serán enfermos nuevos, lo que permite calcular incidencias."
+    },
+    {
+      "paginaPdf": 89,
+      "enunciado": "En un ensayo de no inferioridad se nos dice que las diferencias que se consideran clínicamente no relevantes son de hasta un 10%. Se fija un límite delta de no inferioridad de 0,90 al comparar el porcentaje de curaciones con el fármaco nuevo y con el fármaco de referencia. Al realizar el estudio el RR es de 1,23 y el intervalo de confianza es de 0,83 a 1,89. ¿Qué afirmación es correcta?",
+      "opciones": [
+        "Podemos concluir la no inferioridad del nuevo fármaco.",
+        "Parece que el estudio era muy potente para demostrar la hipótesis de no inferioridad.",
+        "En el estudio se han encontrado diferencias a favor del nuevo fármaco que, sin embargo, no han alcanzado la significación estadística.",
+        "El intervalo de confianza dice que son posibles diferencias de hasta un 17% a favor del fármaco nuevo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El intervalo de confianza es muy poco preciso, muy amplio. Al fijar delta en 0,90 sabemos que los valores inferiores a 1 hablan de mejores resultados con el control y, análogamente, valores superiores a 1 traducen mejores resultados con el experimental. Por tanto se han encontrado diferencias a favor del experimental (RR 1,23), pero no alcanzan la significación estadística (1 incluido en el IC). El IC nos describe valores de hasta un 17% a favor del control y de hasta un 89% a favor del experimental."
+    },
+    {
+      "paginaPdf": 90,
+      "enunciado": "En una muestra de 36 sujetos, la media de puntuaciones en una escala EVA de dolor es 3, con una desviación estándar de 1. ¿En qué intervalo se encuentra el verdadero valor poblacional de la media de la escala, con P<0.05?",
+      "opciones": [
+        "(1 - 5)",
+        "(2 - 4)",
+        "(2,5 - 3,5)",
+        "(2,68 - 3,32)"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Lo primero, como en todas las preguntas de inferencia, es obtener el EEM. En este caso EEM=1/raíz de 36=1/6. Dado que el IC que solicitan es al 95%, tendré que multiplicar el EEM por 2 y sumarlo/restarlo a la media muestral para construir el intervalo. Es decir que 3 +/- 2/6 es la respuesta correcta. 2/6=0,32, por lo que elijo la 4."
+    },
+    {
+      "paginaPdf": 90,
+      "enunciado": "Si en la aleatorización de pacientes de un ensayo clínico se procura que los diferentes niveles de cierta variable que tiene relevancia para el pronóstico de la enfermedad estudiada (por ejemplo, los grupos \"fumador\", \"nunca fumador\" y \"ex-fumador\" en un estudio de cardiopatía) se repartan por igual en los diferentes brazos del estudio, estos grupos se están considerando:",
+      "opciones": [
+        "bloques",
+        "conglomerados",
+        "factores",
+        "estratos"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La diferencia entre bloque/conglomerado y estrato es que los diferentes bloques son intercambiables entre sí (porque entre sí son similares), mientras que los estratos son marcadamente diferentes y es necesario que estén representados en cada uno de los brazos del tratamiento. Si construyo 3 bloques, todos contienen frecuencias comparables de las variables de interés (por ejemplo, mismo número de fumadores, de jóvenes, de varones, etc.) y, por tanto, me da igual qué bloque cae en qué brazo. Si tengo 3 estratos, al ser completamente distintos entre sí, debo forzar que los 3 estratos estén representados en cada brazo de investigación."
+    },
+    {
+      "paginaPdf": 90,
+      "enunciado": "En un estudio realizado sobre un grupo de adultos varones, se observa que su cifra de tensión arterial sistólica (TAS), tras haber realizado determinado ejercicio, es de 180 mmHg, con un error estándar de 5 mmHg. ¿Cuál de las siguientes afirmaciones es CIERTA?",
+      "opciones": [
+        "Las cifras normales de TAS en varones adultos después del ejercicio, oscilan entre 170 y 190 mmHg.",
+        "Existe una confianza del 95% de que la media de TAS en varones adultos después del ejercicio se sitúe entre 170 y 190 mmHg.",
+        "Existe una confianza del 95% de que la media de TAS en varones adultos después del ejercicio se sitúe entre 175 y 185 mmHg.",
+        "El 95% de los varones adultos tienen cifras de TAS entre 170 y 190 mmHg después del ejercicio."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El error estándar de la media nos permite inferir un dato poblacional a partir de una muestra. Por lo tanto, dado que se trata de una estimación, el resultado tendrá que expresarse mediante un intervalo de confianza, que nos dice el margen de error de la estimación. Esto invalida las opciones 1 y 3, donde no existe tal intervalo. Si tenemos en cuenta las propiedades del error estándar de la media, sabemos que sumándolo y restándolo dos veces a la media poblacional, el intervalo así construido tendría un margen de error de aproximadamente un 5%, lo que nos deja una confianza del 95% de que el verdadero valor estará entre 170 y 190 mmHg (respuesta 2 correcta). No sirve la opción 4 tampoco, ya que dicho intervalo se ha construido con un solo error estándar, y por lo tanto no sería al 95%, sino al 68%."
+    },
+    {
+      "paginaPdf": 91,
+      "enunciado": "Le encargan un estudio sobre la prevalencia de hepatopatía alcohólica en su comunidad autónoma. Vd. determinaría este parámetro mediante:",
+      "opciones": [
+        "Estudio de casos y controles.",
+        "Estudio de corte o transversal.",
+        "Ensayo clínico cruzado.",
+        "Análisis de la varianza."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debes conocer en qué consisten los distintos tipos de los estudios epidemiológicos.\n\nLos estudios de corte o transversales son estudios descriptivos. Estudian la relación entre una enfermedad y algunas variables en un momento concreto del tiempo. Buscan hallar una posible relación entre un FR y una enfermedad, que luego habrá de ser verificada por estudios analíticos, es decir, sirven de base para los estudios analíticos.\n\nTienen la ventaja de no tener problemas éticos, son de duración mínima, su coste es bajo y son de fácil reproductibilidad.\n\nSon especialmente útiles para el estudio de enfermedad crónicas en la población (RC- 2)."
+    },
+    {
+      "paginaPdf": 91,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es FALSA con respecto al proceso de cribado (screening) poblacional?",
+      "opciones": [
+        "Identifica a un subgrupo de personas con riesgo elevado de padecer enfermedad.",
+        "Se refiere al período asintomático de la enfermedad.",
+        "Requiere confirmación de los resultados negativos encontrados.",
+        "Es diferente de la búsqueda oportunista de casos o \"case finding\"."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En general, en los procesos habituales de screening se utilizan pruebas muy sensibles, pero no tan específicas. Por este motivo, se produce un número considerable de falsos positivos. Por ello, son los resultados POSITIVOS los que después deben ser confirmados, y no los negativos (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 92,
+      "enunciado": "¿Qué tipo de análisis de evaluación económica debe utilizarse para comparar dos intervenciones sanitarias cuyos resultados son iguales?:",
+      "opciones": [
+        "Análisis coste-efectividad.",
+        "Análisis coste-utilidad.",
+        "Análisis de minimización de costos.",
+        "Análisis de coste-consecuencia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta contestable con el manual. Los estudios de minimización de costes identifican y cuantifican los costes de procedimientos alternativos para alcanzar un objetivo de consecuencias similares (población atendida, diagnósticos realizados, tratamientos aplicados... medidos en unidades naturales o físicas). Los costos se miden en unidades monetarias (costos directos), de tal forma que ante dos intervenciones sanitarias de resultados similares se compararía costo 1 vs costo 2."
+    },
+    {
+      "paginaPdf": 92,
+      "enunciado": "El minoxidil es un vasodilatador que, en su origen, se usaba de forma oral exclusivamente para tratar a pacientes con casos graves y resistentes de hipertensión, resultando eficaz en sujetos con HTA grave y resistente. Durante su uso clínico, se descubrió que algunos pacientes presentaban aumento del vello corporal, por lo que desde hace 30 años aproximadamente, este fármaco se utiliza para el tratamiento de la calvicie. Señale la opción falsa:",
+      "opciones": [
+        "La nueva indicación del minoxidil se ha encontrado en una fase IV del ensayo clínico.",
+        "Para encontrar una nueva indicación de un fármaco es necesario volver a realizar el ensayo clínico desde fase I con el nuevo evento a estudio.",
+        "La fase IV de los ensayos clínicos se engloba dentro de lo que se denomina farmacovigilancia.",
+        "Se ha encontrado una nueva indicación, pero la fase IV de un ensayo clínico también permitiría encontrar efectos adversos infrecuentes."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La opción 2 es incorrecta, la fase I del ensayo clínico valora toxicidad, por lo que no es necesario volver a pasarla para aceptar una nueva indicación. Las otras 3 opciones son correctas (recordad que la fase IV del ensayo clínico –farmacovigilancia- nos permite encontrar nuevas indicaciones de fármacos y efectos adversos infrecuentes."
+    },
+    {
+      "paginaPdf": 93,
+      "enunciado": "Si aplicamos una prueba de laboratorio para el diagnóstico de una determinada enfermedad que es dos veces más frecuente en hombres que en mujeres, ¿cuál de los siguientes parámetros será MÁS elevado en la población femenina que en la masculina?",
+      "opciones": [
+        "La prevalencia de la enfermedad.",
+        "La especificidad de la prueba.",
+        "El valor predictivo positivo de la prueba.",
+        "El valor predictivo negativo de la prueba."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La prevalencia es una medida de frecuencia de la enfermedad, por lo tanto si la enfermedad es más frecuente en hombres, la prevalencia será más elevada en la población masculina. La sensibilidad y la especificidad de una prueba son características propias del test y no se ven influidas por los parámetros de frecuencia. Distinto es lo que ocurre con el VPP y el VPN que dependen de la prevalencia. Si la prevalencia aumenta, el VPP aumenta y el VPN disminuye y viceversa. En este caso como la enfermedad es menos frecuente en mujeres, en éstas la prevalencia es menor y por lo tanto el VPN de la prueba será mayor."
+    },
+    {
+      "paginaPdf": 93,
+      "enunciado": "Los resultados de validación de una prueba son los que se detallan: VP 15, FP 5, VN 40, FN 10. Señale cuál es el valor de la especificidad de dicha prueba:",
+      "opciones": [
+        "15/25",
+        "40/45",
+        "15/20",
+        "40/50"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta fácil sobre los diferentes parámetros que pueden calcularse a partir de una tabla de contingencia. Recordemos que S y E se calculan a partir de columnas, mientras que los valores predictivos, de filas. De esta forma, podemos concluir que:\n\nS= 15/25\n\nE= 40/45\n\nVPP= 15/20\n\nVPN= 40/50"
+    },
+    {
+      "paginaPdf": 94,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre las medidas de localización es FALSA?",
+      "opciones": [
+        "La media aritmética es de fácil manejo matemático.",
+        "La moda es el valor de presentación más frecuente.",
+        "La media aritmética deja la mitad de los valores por encima y la mitad por debajo.",
+        "La media aritmética, la mediana y la moda coinciden en una distribución unimodal simétrica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La magnitud que deja la mitad de los valores por encima y la otra mitad por debajo es la mediana (percentil 50). En el caso de la media, esta propiedad sólo se cumple cuando las distribuciones son simétricas, por lo que la respuesta falsa es la 3, al no ser generalizable en todos los posibles supuestos. En cambio, el resto de las opciones no tienen ningún problema y por lo tanto podemos considerarlas correctas."
+    },
+    {
+      "paginaPdf": 94,
+      "enunciado": "Se comparan los resultados académicos (aprobado/suspenso) de dos colegios, uno privado y el otro público. ¿Qué test sería el MÁS apropiado?",
+      "opciones": [
+        "ANOVA.",
+        "Chi-cuadrado.",
+        "Regresión lineal.",
+        "t de Student."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Debes dominar qué tipo de test es el más adecuado en cada caso clínico para realizar el contraste de hipótesis. Lo primero que debemos hacer es identificar de qué tipo son las variables. En este caso, se trata de dos variables cualitativas: resultados académicos (aprobado o suspenso) y colegios (público y privado). Y el test más adecuado para el análisis de dos variables cualitativas, es el Chi-cuadrado. Recuerda que las prevalencias son variables cualitativas."
+    },
+    {
+      "paginaPdf": 94,
+      "enunciado": "Indique la prueba de significación estadística que se debe utilizar para la comparación de las medias de dos muestras independientes cuando las varianzas son distintas:",
+      "opciones": [
+        "t de Student.",
+        "Test de Welch.",
+        "Chi-cuadrado.",
+        "Test exacto de Fisher."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "No te preocupes si has fallado esta pregunta. La clave está en que las varianzas de las dos muestras son distintas; si fuesen similares, la opción de respuesta correcta sería la 1 (t de Student), pero cuando las varianzas son diferentes, debemos utilizar el test de Welch (respuesta 2 correcta)."
+    },
+    {
+      "paginaPdf": 95,
+      "enunciado": "Se desea conocer el grado de asociación que existe entre el síndrome metabólico y el déficit de vitamina D en la población general. Para ello se selecciona una muestra de un Centro de Salud entre los pacientes mayores de 18 años; se les cita y en la visita se les hace un examen clínico para determinar si cumplen los criterios de síndrome metabólico y se les extrae sangre para medir las concentraciones séricas de 25 hidroxivitamina-D. ¿Cuál es el diseño de este estudio?",
+      "opciones": [
+        "Estudio de cohorte prospectivo.",
+        "Estudio de corte transversal.",
+        "Estudio de casos y controles.",
+        "Estudio caso-cruzado ( o “case-crossover”)."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las respuestas 1 y 3 son incorrectas, ya que tanto en los estudios de cohortes como en los de casos y controles existe un seguimiento, son estudios longitudinales. En el ejemplo que nos dan hablan de la relación entre el síndrome metabólico y el déficit de vit D en un momento concreto, por lo que se trata de un estudio de corte, prevalencia o transversal (respuesta 2 correcta). Por último, en los estudios de casos cruzados sólo se seleccionan casos, no hay sujetos control, ya que los controles son los mismos sujetos caso pero en un momento diferente del evento, existiendo también un seguimiento."
+    },
+    {
+      "paginaPdf": 95,
+      "enunciado": "¿Cuál sería la estrategia IDEAL a la hora de realizar un programa de screening para una enfermedad?",
+      "opciones": [
+        "Usar dos test muy sensibles consecutivamente.",
+        "Usar primero un test muy específico y después uno muy sensible.",
+        "Usar primero un test muy sensible y después uno muy específico.",
+        "Usar primero un test muy específico y después uno con alto valor predictivo positivo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El screening es una estrategia de detección precoz de las enfermedades. Se haría de la siguiente manera:\n1º paso: Lo ideal es elegir primero un test muy sensible. Con él, clasificaremos como positivos a la mayor parte de los enfermos. Esto tiene un inconveniente: habrá también pacientes sanos que serán clasificados como positivos (falsos positivos).\n2º paso: Ahora emplearemos un test específico, que resuelve el problema anterior. Todos los que han dado positivo en el test sensible van a someterse ahora al test específico. Este segundo test servirá para confirmar el diagnóstico de los que realmente estén enfermos.\nLógicamente, si el paciente no se beneficia de un diagnóstico precoz y el pronóstico sigue siendo el mismo, es absurdo realizar un test de screening, ya que solo serviría para consumir recursos sanitarios y no mejoraría el nivel de salud de la población."
+    }
+  ]
+}

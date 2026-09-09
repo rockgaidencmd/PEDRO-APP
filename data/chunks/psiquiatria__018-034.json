@@ -1,0 +1,446 @@
+{
+  "materia": "psiquiatria",
+  "paginaInicio": 18,
+  "paginaFin": 34,
+  "anomalias": [
+    "p18: el comentario de la pregunta sobre efectos adversos extrapiramidales es un esquema de viñetas anidadas (hasta 4 niveles) que hubo que linealizar con guiones e indentación",
+    "p18: la pregunta sobre parkinsonismo yatrogénico tiene solo 4 opciones, pero el comentario habla de 'las opciones 3, 4 y 5' y menciona la quetiapina, que no figura entre las opciones",
+    "p23: pseudodemencia depresiva, Resp. Correcta 1, pero el comentario usa una numeración incoherente: cita R5 (solo hay 4 opciones) y asocia 'es irreversible' a R2 en vez de a la opción 1",
+    "p24: terror nocturno y pesadillas, Resp. Correcta 4 pero el comentario cierra con '(respuesta falsa- 5)' y solo hay 4 opciones",
+    "p31: el comentario de la pregunta sobre prevención del síndrome de abstinencia alcohólica es un esquema de viñetas anidadas que hubo que linealizar"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 18,
+      "enunciado": "Una de las asociaciones siguientes entre efecto adverso extrapiramidal de los antipsicóticos y medicamento para corregirlo es incorrecta:",
+      "opciones": [
+        "Distonía aguda - biperideno.",
+        "Acatisia - propranolol.",
+        "Discinesias tardías - lorazepam.",
+        "Síndrome neuroléptico maligno - dantroleno."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los distintos efectos adversos extrapiramidales que inducen los antipsicóticos (antidopaminérgicos) van cambiando según el tiempo de exposición al fármaco:\n\n- Efectos agudos (horas, días):\n  - DISTONÍAS (contracturas musculares)\n    - ANTICOLINÉRGICOS (parenterales)... BIPERIDENO\n  - SÍNDROME NEUROLÉPTICO MALIGNO (fiebre, rigidez, delirium)\n    - Suspender el fármaco responsable\n    - Monitorización, soporte vital\n    - Correctores:\n      - BROMOCRIPTINA (agonista dopaminérgico)\n      - DANTROLENO (relajante muscular de acción directa)\n- Efectos subagudos (semanas, meses):\n  - PARKINSONISMO (síndrome acinético-rígido)\n    - Reducir la dosis del fármaco responsable\n    - Correctores:\n      - ANTICOLINÉRGICOS (orales)... BIPERIDENO, TRIHEXIFENIDILO\n      - AMANTADINA\n  - ACATISIA (inquietud)\n    - Reducir la dosis del fármaco responsable\n    - Correctores:\n      - BETABLOQUEANTES (propranolol)\n      - BENZODIAZEPINAS (lorazepam)\n- Efectos tardíos (años): DISCINESIAS TARDÍAS\n  - COREAS o DISTONÍAS\n    - Suspender el fármaco responsable\n    - ¿Clozapina?\n    - Correctores:\n      - Tetrabenacina (deplecionante dopaminérgico)\n      - Toxica botulínica"
+    },
+    {
+      "paginaPdf": 18,
+      "enunciado": "¿Cuál de los siguientes fármacos cree que tiene más posibilidades de inducir un parkinsonismo yatrogénico?:",
+      "opciones": [
+        "Omeprazol.",
+        "Cisapride.",
+        "Risperidona.",
+        "Clozapina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Existen multitud de fármacos que pueden producir un síndrome parkinsoniano, pero los más importantes son los antipsicóticos tradicionales. Su mecanismo de acción consiste en un antagonismo competitivo sobre los receptores dopaminérgicos D2. Esto permite una franca mejoría de la clínica psicótica, pero al precio de una alta tasa de efectos extrapiramidales. También es característico el aumento de la prolactina (recuerda que el PIF, “factor inhibidor de la prolactina”, es la dopamina). Si entre las opciones hubiera aparecido, por ejemplo, el haloperidol, hubiera sido la respuesta correcta.\n\nLas opciones que podrían hacerte dudar son la 3, 4 y 5, que corresponden a neurolépticos atípicos. Entre ellos, el más probable es la risperidona, puesto que actúa sobre dos receptores: el dopaminérgico D2 y el serotoninérgico. Es poco probable que el parkinsonismo se deba a la quetiapina o a la clozapina, puesto que su acción es más intensa sobre los receptores D1 y D4 (también actúan sobre los serotoninérgicos).\n\nDe cara al futuro, recuerda que el haloPERIDOl tiene algo en común con la risPERIDOna. Existe cierta analogía estructural, de ahí que esta última, aun siendo un antipsicótico atípico, pueda producir clínica extrapiramidal."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "Señale la opción FALSA respecto a las crisis de angustia:",
+      "opciones": [
+        "Se presentan por el día, pues son suprimidas por el sueño.",
+        "Pueden tratarse con antidepresivos.",
+        "Suelen durar menos de 30 minutos.",
+        "Pueden estar causadas por la cafeína o por otras drogas."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un pregunta teórica sobre el trastorno por angustia. Ésta es sencilla de resolver por descarte, pues es de cultura básica médica que las crisis de angustia son autolimitadas y duran “minutos “ (R3), su tratamiento preventivo son los antidepresivos (R2) y pueden ser causadas por sustancias estimulantes (R4).\n\nPor lo tanto la R1 es falsa, puesto que no es infrecuente que se produzcan durante el sueño, llegando a despertar al paciente por las noches."
+    },
+    {
+      "paginaPdf": 19,
+      "enunciado": "¿Cuál, entre las siguientes alteraciones, puede encuadrarse como un trastorno distímico?:",
+      "opciones": [
+        "Un cuadro crónico de la hipocondria.",
+        "La persistencia de una depresión mayor a lo largo de más de un año.",
+        "Un trastorno bipolar tipo II atípico.",
+        "Un humor crónicamente deprimido (o irritable en niños y adolescentes)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Recuerda que se considera distimia a un trastorno depresivo de intensidad leve que cursa de forma crónica (típicamente más de 2 años de duración,aunque en niños y adolescentes la duración mínima se rebaja a 1 año).\n\nEn estos cuadros crónicos podemos ver más irritabilidad (disforia) que tristeza, sobre todo en niños y adolescentes.\n\nAunque ningún fármaco ni terapia están oficialmente aprobados para este diagnóstico solemos usar distintos psicofármacos (antidepresivos, ansiolíticos) y diferentes terapias (cognitivas, interpersonales)."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Varón que llega a Urgencias refiriendo tener un problema sexual; en concreto, lleva en erección seis horas y, tras una inicial euforia, comienza a preocuparse, pues además de no ceder, presenta dolor local intenso. Descartada la toma de Viagra, el paciente refiere haber iniciado hace dos semanas un tratamiento para el insomnio. Señale el medicamento RESPONSABLE de este efecto adverso:",
+      "opciones": [
+        "Zolpidem.",
+        "Amitriptilina.",
+        "Hidroxicina.",
+        "Trazodona."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Nos cuentan un caso de priapismo, un efecto secundario grave, aunque poco frecuente con el uso de trazodona como hipnótico (respuesta 4 correcta). La trazodona es un antidepresivo “atípico” poco potente, pero muy eficaz como hipnosedante sin riesgo de depresión respiratoria, ni tolerancia o dependencia, a diferencia de las benzodiacepinas. Tiene débil acción como inhibidor de la recaptación de serotonina, antagonismo alfa-1 (hipotensión ortostática), antagonismo histamínico-1 (sedante, aumento del apetito) y antagonista del receptor postsináptico de serotonina 5HT-2A. El zolpidem es un hipnótico análogo a las benzodiacepinas y de vida media corta que se asocia con amnesia anterógrada (como las benzodiacepinas de ese perfil: midazolam, triazolam). La amitriptilina es un tricíclico con potente acción antihistamínica y la hidroxicina un antihistamínico clásico y, en ambos casos, la acción antihistamínica induce sueño."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Un hombre de 56 años, con antecedentes de consumo excesivo de alcohol desde su adolescencia, acude a Urgencias porque oye voces que le insultan y le amenazan con hacerle daño; aunque se da cuenta de que los demás no son capaces de oirlas, está empezando a pensar que tal vez haya sido sometido a algún tipo de manipulación física, cuando le hicieron una gastroscopia hace unos meses tras un episodio de hemorragia digestiva alta derivada del sangrado de las varices esofágicas que complican su hepatopatía crónica. A la exploración tiene un buen nivel de conciencia y está orientado en tiempo y espacio; no se aprecian síntomas psiquiátricos, más allá de una ansiedad intensa que relaciona con sus temores; no hay signos físicos de abstinencia. ¿Qué diagnóstico parece más probable?:",
+      "opciones": [
+        "Intoxicación patológica por alcohol.",
+        "Delirium tremens.",
+        "Trastorno psicótico inducido por alcohol.",
+        "Psicosis de Korsakov."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La aparición de fenómenos alucinatorios auditivos en el contexto de un consumo crónico excesivo de alcohol y en ausencia de síntomas de abstinencia es lo que define a la \"alucinosis alcohólica\", un cuadro descrito por Wernicke hace más de un siglo y probablemente la forma más habitual de trastorno psicótico inducido por alcohol.\n\nLa llamada \"psicosis de Korsakov\" es en realidad un trastorno amnésico crónico, que puede aparecer como complicación de una encefalopatía de Wernicke. Descartamos delirium tremens por la ausencia de síntomas abstinenciales e intoxicación patológica porque la cantidad consumida es claramente excesiva."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "¿Cuál de las siguientes características NO es típica de los contenidos de las ideas obsesivas?",
+      "opciones": [
+        "Fonemas.",
+        "Necesidad de simetría.",
+        "Duda patológica.",
+        "Contaminación."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Una pregunta de PSICOPATOLOGÍA no demasiado enrevesada. Nos hacen referencia a los temas habituales que aparecen en las ideas obsesivas del trastorno obsesivo-compulsivo. Desde luego, los dos más frecuentes son la contaminación/contagio (“lavadores”) y la duda (“comprobadores”). Muy típica también es la necesidad de orden y simetría. Lo de los fonemas no tiene nada que ver con esta enfermedad (opción 1 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Varón de 35 años que, desde la adolescencia, muestra un patrón de conducta caracterizado por: tendencia a intentar ser el centro de la atención de los demás, actitudes seductoras y provocadoras, expresión emocional superficial y excesivamente subjetiva, gran teatralidad y fácil sugestionabilidad. Corresponde a una personalidad de tipo:",
+      "opciones": [
+        "Antisocial.",
+        "Histriónico.",
+        "Límite.",
+        "Paranoide."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El caso corresponde a una paciente con un trastorno de personalidad de tipo histriónico. Este tipo de trastorno es más frecuente en mujeres, y se caracteriza por su dependencia y necesidad constante de apoyo. No suelen establecer relaciones profundas, a pesar de que aparentemente son “el alma de las fiestas”. En su comportamiento, son teatrales, seductoras y manipuladoras. Ante la frustración, tienden a reaccionar de forma inmadura, a veces con manifestaciones que encajan en el concepto clásico de histeria."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Señale qué tipo de trastorno se ajusta MEJOR a la siguiente descripción clínica: Desarrollo insidioso, aunque progresivo de un comportamiento extravagante, con incapacidad para satisfacer las demandas de la vida social y de una disminución del rendimiento general. No hay evidencia de alucinaciones ni ideas delirantes. Aparecen rasgos “negativos” sin haber estado precedidos de síntomas psicóticos claramente manifiestos:",
+      "opciones": [
+        "Esquizofrenia residual.",
+        "Esquizofrenia paranoide.",
+        "Esquizofrenia simple.",
+        "Esquizofrenia hebefrénica."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico en el que nos dicen que se han ido desarrollando de forma insidiosa y progresiva síntomas “negativos” sin que haya habido síntomas psicóticos previos. Es la definición que ofrece la CIE-10 de la forma SIMPLE de esquizofrenia (respuesta 3 correcta). Repasemos las demás opciones de respuesta:\n1.- En la forma RESIDUAL debe haber episodios psicóticos previos, con síntomas “positivos” claros.\n2.- En la forma PARANOIDE destaca la presencia de síntomas psicóticos intensos (delirios, alucinaciones).\n4.- En la forma HEBEFRÉNICA o DESORGANIZADA se produce una desestructuración de los procesos mentales (pensamiento disgregado, afectividad incoherente) y del comportamiento."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Una mujer de 62 años es traída a urgencias por su hija tras padecer convulsiones en domicilio. Tras revisar el historial médico de la paciente, constata que sigue tratamiento con litio por un trastorno bipolar de tipo II. La hija nos cuenta que la paciente , lleva 4 días con fuertes vómitos, pero que no le dieron mayor importancia considerándolo una gastroenteritis, ya que más miembros de la familia habían sufrido un proceso similar la semana previa. La paciente se muestra algo aletargada y con algo de hiperreflexia ¿cual de los siguientes tratamiento estarían contraindicados en este caso?",
+      "opciones": [
+        "Hidratacion intensa",
+        "Dialisis.",
+        "Furosemida",
+        "Retirada del fármaco"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Lo que claramente nos muestra el enunciado es una intoxicación por litio. Es un problema que puede llegar a causar la muerte en caso de alcanzar concentraciones superiores a 2,5 mEq/l.\n\nLa causa más frecuente es la perdida de sodio y agua (vómitos en este caso).\n\nLos síntomas más frecuentes consisten en temblor y diarrea. Pueden también existir nauseas y vómitos. Si progresa aparecerán hiperreflexia, convulsiones, disminución del nivel de conciencia e incluso muerte por insuficiencia renal aguda.\n\nLo más importante para el tratamiento, es la hidratación abundante y la retirada del fármaco. si la intoxicación es grave se procederá a la diálisis.\n\nlos diuréticos están absolutamente contraindicados por aumentar la deplección hidrosalina"
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "La pseudodemencia depresiva (señalar la FALSA):",
+      "opciones": [
+        "Es irreversible.",
+        "Cursa con un predominio de quejas mnésicas subjetivas en combinación con sintomatología depresiva.",
+        "Se trata con fármacos antidepresivos.",
+        "Su inicio es rápido."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "No le des más vueltas, está clara la respuesta y necesitarás tiempo para otras preguntas. Por poco que conozcamos sobre la pseudodemencia depresiva, si sabemos que se basa en alteraciones mnésicas, concentración y orientación (R1) secundarias a un trastorno depresivo (R3), por lo que su inicio es rápido (R5, en comparación con un cuadro demencial), se trata con antidepresivos (R4, es una depresión, ¿cómo se iba a tratar sino?), por lo que se contradice con R2, es reversible, sino deberíamos sospechar una demencia.\n\nBibliografía: Manual Psiquiatría CTO- Medicina 9ªEd, pág 60"
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Hombre de 26 años de edad, diagnosticado de trastorno obsesivo compulsivo. Refiere que, cuando está en el metro, tiene intenso temor a perder el control y empujar a alguien a la vía, cuando el tren está a punto de llegar. Es capaz de reconocer y criticar lo absurdo de este temor. Para evitarlo, espera a que llegue desde las escaleras mecánicas, y entonces entra en el tren cuando escucha que se ha detenido. ¿Qué nombre recibe este fenómeno?",
+      "opciones": [
+        "Ideas de referencia.",
+        "Fobia de impulsión.",
+        "Delirio de influencia.",
+        "Nosofobia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La fobia de impulsión es un síntoma muy curioso del trastorno obsesivo-compulsivo. Aparece en nuestra cabeza una idea desagradable, centrada en la posibilidad de hacerle daño a alguien o a uno mismo.\n\nUna idea concreta como la de empujar a alguien al metro, solo por el hecho de haber venido a nuestro pensamiento, crea un gran rechazo y se genera un círculo vicioso donde, cuanta más fuerza hago para no pensarlo, más frecuentemente vuelve la idea a mi cabeza. La persona afectada suele recurrir a evitar enfrentarse a las situaciones que le han provocado la fobia (por ejemplo, esperando al tren en las escaleras mecánicas). El cuadro está dominado por el temor intenso a perder el control de sí mismo.\n\nOtras fobias de impulsión son el miedo a arrojarse desde una altura, hacerse daño con cuchillos, echar sustancias tóxicas al cocinar, etc."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Niño de 7 años que acude a consulta con sus padres que se quejan de que no para quieto. Siempre ha sido así, hablador, interrumpiendo a los demás, corriendo por la casa y por la calle, incapaz de permanecer sentado, con problemas para jugar con otros niños, perdiendo cosas continuamente, etc. Carece de antecedentes médicos importantes. La exploración física es normal, sin anomalías neurológicas relevantes. ¿Qué actitud es MÁS correcta ante este caso?",
+      "opciones": [
+        "Iniciar tratamiento con metilfenidato.",
+        "Derivar el caso para intervención psicológica sobre la familia.",
+        "Solicitar información al tutor escolar.",
+        "Pedir una resonancia magnética cerebral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico cuya descripción sugiere la existencia de un trastorno por déficit de atención con hiperactividad. Sin embargo, para poder asegurar el diagnóstico, es necesario demostrar que el comportamiento está presente en todos los ámbitos donde se mueve el niño, sobre todo en la escuela (respuesta 3 correcta). Si el informe del tutor escolar apoya el relato de los padres y la exploración psicopatológica en la consulta indica igualmente la existencia de un problema atencional, el tratamiento deberá ser multidisciplinar, pudiendo combinarse apoyo psicopedagógico, intervención familiar, terapias cognitivoconductuales y medicación."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Señale la FALSA respecto al terror nocturno y las pesadillas:",
+      "opciones": [
+        "Las pesadillas suceden durante la fase REM, lo que hace más fácil despertar al paciente.",
+        "Las pesadillas se pueden asociar al trastorno por estrés postraumático.",
+        "En el caso del terror nocturno suele existir un cortejo vegetativo, que no aparece en las pesadillas.",
+        "Se suelen tratar con benzodiacepinas de vida media corta como el midazolam o el triazolam."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Dentro de los trastornos del sueño, es importante saber las diferencias entre pesadillas y terrores nocturnos.\n\nLas pesadillas aparecen durante el sueño REM. El paciente se despierta fácilmente, con recuerdo del episodio como un sueño desagradable. Son más frecuentes en el tercio final de la noche.\n\nLos terrores nocturnos son típicos del sueño profundo (fases III- IV). El paciente se muestra agitado, con una descarga vegetativa intensa y sensación de pánico. Cuesta despertarle, y no recuerda nada de lo sucedido al despertarse. Aparecen sobre todo en el tercio inicial de la noche.\n\nNinguna de las 2 suele precisar tratamiento médico (respuesta falsa- 5)."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "El fenómeno más característico de la esquizofrenia es:",
+      "opciones": [
+        "Alteración del pensamiento.",
+        "Alteración de la memoria.",
+        "Alteraciones psicomotoras.",
+        "Alteraciones de la conciencia."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La esquizofrenia es una enfermedad multisintomática pero los fenómenos más característicos son los que afectan al pensamiento (delirios) y a la percepción (alucinaciones). Se puede ver cualquier tipo de delirio; los más frecuentes (sensibles) son los de persecución y perjuicio, pero los más típicos (específicos) son los de control e influencia. La forma más frecuente (sensible) de aparecer el delirio es mediante la interpretación delirante de lo que sucede a su alrededor, pero la más típica (específica) es la percepción o intuición delirante (en la que se pierde cualquier conexión lógica entre lo sucedido y lo delirado). Así mismo se puede ver cualquier tipo de alucinación pero las más frecuentes (sensibles) son las auditivas, en concreto oír voces de otras personas; lo más frecuente (sensible) es que las voces insulten al paciente o le den órdenes, pero lo más típico (específico) es que comenten entre sí su comportamiento o sus pensamientos."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "La fluoxetina es uno de los antidepresivos más usados. Entre sus indicaciones NO se incluye:",
+      "opciones": [
+        "Trastorno obsesivo.",
+        "Bulimia nerviosa.",
+        "Trastorno conversivo.",
+        "Trastorno de estrés postraumático."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los ISRS y la clorimipramina son los más serotoninérgicos de los antidepresivos. La fluoxetina fue el primer ISRS, y es el más célebre. Cuadros específicamente respondedores a fármacos serotoninérgicos, y no a otros, son el Trastorno Obsesivo- Compulsivo y ciertos trastornos del espectro compulsivo- impulsivo como la bulimia nerviosa (el ISRS además tiene un efecto hipo- orexígeno que ayuda en la bulimia). Todos los cuadros neuróticos de ansiedad responden tanto a ISRS como a tricíclicos, pero se prefiere usar primero un ISRS por su inocuidad: Trastorno de Ansiedad Generalizada, Trastorno de Pánico, Trastorno de Estrés Postraumático, Trastorno adaptativo. El Trastorno Conversivo es básicamente psicorreactivo, y su tratamiento es la psicoterapia (aunque podemos usar psicotropos como coadyuvantes si adivinamos un fondo ansioso o depresivo en la recaída en los episodios conversivos, estos psicotropos no constituyen el tratamiento de primera línea)."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Hablando de la depresión neurótica, reactiva, o psicógena, ¿cuál de las siguientes aseveraciones es FALSA?:",
+      "opciones": [
+        "Es menos frecuente que haya historia familiar.",
+        "La respuesta a medicación es menor que en las formas endógenas.",
+        "El suicidio es muy frecuente.",
+        "El curso es fluctuante con tendencia a la cronicidad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la depresión de perfil distímico/neurótico los antecedentes familiares son mucho menos frecuentes que las depresiones melancólico/endógenas o bipolares; además la respuesta a medicación es claramente inferior como también lo es el riesgo de suicidio. Tienden a cronificarse, con persistencia de síntomas durante meses o años."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Joven de 25 años que es traído a Urgencias por su hermano porque se muestra agresivo hacia la familia. Dice que sus padres planean matarlo; lo sabe porque unos ángeles con los que habla mentalmente desde hace meses se lo han contado; cree que es un ser especial, destinado a la salvación del mundo, por lo que muchas personas están interesadas en eliminarlo. Pasa gran parte del tiempo en su cuarto y se le oye hablar solo. Estudió Derecho y lleva dos años preparando una oposición, aunque ha dejado de ir a clase. Siempre ha sido retraído, pero últimamente no tiene relación con nadie fuera de su casa. En la consulta se muestra tenso e inquieto; agacha la cabeza y se tapa los oídos porque dice que la conversación le impide comunicarse con sus salvadores, que controlan sus actos para poder cumplir con su misión. No hay antecedentes médicos relevantes; no toma medicación ni consume más que tabaco. ¿Qué diagnóstico de sospecha emitiríamos?",
+      "opciones": [
+        "Trastorno por ideas delirantes persistentes.",
+        "Trastorno esquizoafectivo, depresivo.",
+        "Esquizofrenia (paranoide).",
+        "Trastorno esquizotípico de la personalidad."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Caso clínico sobre un paciente que presenta delirios complicados (de perjuicio, mesiánicos) y alucinaciones auditivas (voces en su cabeza que le comentan cosas), además de posibles experiencias de control corporal; lleva así meses y se ido aislado de su entorno social, perdiendo su capacidad de funcionar con normalidad. Todo sugiere una esquizofrenia paranoide (respuesta 3 correcta). Veamos las demás opciones de respuesta:\n\n1.- En el trastorno delirante hay un delirio mucho más comprensible y sistematizado que no se acompaña de alucinaciones auditivas, ni otros síntomas psicóticos; los pacientes son capaces de mantener un funcionamiento razonable.\n\n2.- En el trastorno esquizoafectivo tienen que coexistir síntomas suficientes para el diagnóstico de esquizofrenia y síntomas de un episodio afectivo (maníaco o depresivo), que aquí no aparecen.\n\n4.- El trastorno esquizotípico de la personalidad se caracteriza por presentar muchas rarezas, tendencia a un pensamiento mágico y un comportamiento extravagante, pero no tiene porqué presentar síntomas psicóticos."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "¿Cuál de las siguientes asociaciones NO es correcta?:",
+      "opciones": [
+        "Encefalopatía de Wernicke - síndrome confusional agudo.",
+        "Síndrome de Korsakoff - amnesia anterógrada.",
+        "\"Black-outs\" - amnesia lacunar.",
+        "Celotipia - buena respuesta al tratamiento."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es una pregunta de dificultad media, muy directa y que se responde rápidamente si recordamos las principales complicaciones psiquiátricas asociadas al alcohol.\n\nLos delirios de celos responden mal al tratamiento, tanto por la baja adherencia de los pacientes al mismo, como por la escasa eficacia de la medicación."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "El delirio puede definirse como un trastorno del contenido del pensamiento que presenta varias modalidades. Señale cuál de las siguientes es la modalidad MÁS frecuente de delirio:",
+      "opciones": [
+        "Delirio persecutorio.",
+        "Delirio celotípico.",
+        "Delirio megalomaníaco.",
+        "Delirio místico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Un delirio es una falsa creencia relativa a la realidad externa, que es firmemente sostenida. Va en contra de lo que casi todo el mundo cree y no es rebatible a pesar de existir pruebas evidentes de lo contrario. Hay multitud de temas delirantes. Sin embargo, ninguno de ellos es patognomónico de ninguna enfermedad, aunque algunos de ellos son más frecuentes que otros en determinadas patologías.\n\nEl tema delirante más frecuente en Psiquiatría es el de persecución- perjuicio. Puede verse en esquizofrenias, paranoias, depresiones o manías psicóticas, demencias o delirium, psicosis por drogas, etc. Los delirios de celos o pasionales forman parte de las variantes de paranoia (aunque se pueden ver en otras enfermedades). Algunos libros clásicos los relacionaban con el alcoholismo crónico, pero esta asociación no ha sido demostrada científicamente. Los delirios de grandeza o megalomaníacos son típicos de la manía psicótica; pueden verse también en la paranoia (como el que tenía Don Quijote) y en esquizofrenias. Los delirios místicos se pueden ver en manías psicóticas o esquizofrenias (sobre todo en las formas tardías o parafrenias). En la depresión psicótica, vemos delirios de culpa, ruina-catástrofe o enfermedad. El delirio de enfermedad también puede verse en pacientes con esquizofrenia o paranoia (llamadas también psicosis hipocondríacas monosintomáticas, como los delirios de parasitosis de Ekbom)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Acude a Urgencias un hombre de 41 años, diagnosticado de trastorno bipolar, que ha realizado una sobreingesta de carbonato de litio. A la exploración destaca temblor intenso, ataxia, disartria y un nistagmus vertical. Se le realiza un litemia que resulta de 4,1 mEq/L. ¿Cuál es la MEJOR opción terapéutica?",
+      "opciones": [
+        "Hidratación.",
+        "Hemodiálisis.",
+        "Lavado gástrico.",
+        "Aminofilina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta directa sobre el tratamiento de una intoxicación grave por litio. Ante la presencia de síntomas neurológicos severos y la evidencia de una litemia muy elevada (4,1 mEq/L) el tratamiento indicado es la diálisis (respuesta 2 correcta). Repasemos las demás opciones de respuesta:\n1.- La diuresis forzada (con hidratación y diuréticos) se reserva para pacientes sin clínica neurológica relevante y con litemias menos altas.\n3.- El lavado gástrico podría evitar la absorción de parte del fármaco si es que la ingesta ha sido reciente pero no tendría efecto alguno sobre la clínica ni sobre la litemia.\n4.- La aminofilina (como todas las metilxantinas) puede aumentar la eliminación renal de litio cuando se usan de forma combinada a largo plazo, pero carece de efecto en una intoxicación aguda grave."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "No es probable que aparezcan síntomas psicóticos transitorios en las personalidades:",
+      "opciones": [
+        "Paranoides.",
+        "Esquizotípicas.",
+        "Límites.",
+        "Evitativas."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La complicación con episodios o síntomas psicóticos es típica de los trastornos de la personalidad del grupo A (paranoides, esquizoides y esquizotípicos), que claramente se relacionan con los trastornos psicóticos clásicos (esquizofrenia, trastorno delirante).\n\nEn algunos trastornos de la personalidad del grupo B (límites sobre todo, histriónicos a veces) podemos ver síntomas psicóticos transitorios, sobre todo \"reactivos\" a situaciones estresantes."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Sobre los IMAO, ¿cuál de los siguientes efectos adversos NO se suele observar con el manejo de los mismos?:",
+      "opciones": [
+        "Hipotensión postural.",
+        "Hepatotoxicidad.",
+        "Parestesias.",
+        "Prolongación del QT."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El QT se puede alargar con todos los psicotropos teóricamente, pero es muy raro que realmente ocurra con los ISRS y con los IMAO, dado que apenas son cardiotóxicos, a diferencia de los tricíclicos, los neurolépticos y el litio. Las parestesias no son raras, y se asocian al déficit de piridoxina provocado por los IMAOs. La crisis hipertensiva es un efecto secundario muy característico pero poco frecuente en comparación con la hipotensión postural, que es el efecto secundario más frecuente. La hepatotoxicidad es infrecuente, pero hay que monitorizar al paciente, sobre todo si se trata de IMAOs hidrazínicos como la tranilcipromina. Bibliografía: Manual Psiquiatría CTO- Medicina 9ªEd, pág 25"
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Un paciente diagnosticado de un primer episodio de un trastorno esquizofreniforme presenta una buena respuesta al tratamiento psicofarmacológico con antipsicóticos en el plazo de un mes, objetivándose una remisión total de la sintomatología psicótica. Llegados a este punto, la actitud MÁS recomendable, entre las siguientes, es:",
+      "opciones": [
+        "Suspender el tratamiento psicofarmacológico, puesto que el episodio ha cedido y el riesgo de recidiva es bajo.",
+        "Suspender el tratamiento psicofarmacológico e iniciar un tratamiento psicoterapéutico específico que minimice el riesgo de recidiva a medio o largo plazo.",
+        "Buscar la mínima dosis eficaz de antipsicótico que mantenga al paciente asintomático y mantener el tratamiento durante un mínimo de un año, momento en el cual se puede plantear su interrupción gradual.",
+        "Buscar la mínima dosis eficaz de antipsicótico que mantenga al paciente asintomático y mantener el tratamiento de forma indefinida puesto que la esquizofrenia es una enfermedad crónica y muy desestructurante."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "A pesar de la buena respuesta en pocas semanas, esto no significa que no exista riesgo de recidiva; por este motivo no se puede suspender el tratamiento, sino que es conveniente mantenerlo durante varios meses más, suspendiéndolo gradualmente. Al no tratarse de una esquizofrenia las pautas temporales no están claras, aunque un año de mantenimiento parece un tiempo razonable. La decisión de mantener de forma indefinida un antipsicótico dependerá del riesgo de recaídas."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Señale la respuesta INCORRECTA en relación con el tratamiento de la esquizofrenia:",
+      "opciones": [
+        "Los antipsicóticos atípicos parecen tener mayor efecto sobre los síntomas negativos que los típicos.",
+        "La clozapina es el más potente de los antipsicóticos atípicos, pero también es el que más hiperprolactinemia produce.",
+        "El tratamiento de la distonía aguda por neurolépticos son los fármacos anticolinérgicos.",
+        "En un paciente resistente a varios antipsicóticos, incluyendo la clozapina, una vez verificado el cumplimiento terapéutico, la terapia electroconvulsiva puede ser una opción."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La clozapina es un antipsicótico atípico que ejerce su efecto, bloqueando receptores dopaminérgicos y serotoninérgicos. Es el antipsicótico más eficaz y también el de menor tasa de efectos extrapiramidales. Tiene escasos efectos sobre la prolactina, por lo que son poco frecuentes las reacciones adversas de tipo ginecomastia, amenorrea, galactorrea e impotencia. Por el contrario tiene importantes acciones anticolinérgicas, antihistamínicas y antiadrenérgicas. Una reacción adversa grave que debemos conocer de este fármaco es la agranulocitosis, motivo por el cuál está sometido a protocolo de fármacovigilancia."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "El consumo diario de cannabis produce todos los siguientes síntomas, MENOS uno. Señale cuál:",
+      "opciones": [
+        "Enrojecimiento conjuntival.",
+        "Síndrome amotivacional.",
+        "Obnubilación de la conciencia.",
+        "Cuadros psicóticos similares a la cocaína."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es muy sencilla y directa, con cultura general se puede contestar. La única opción que no corresponde es la opción 4, cuadros psicóticos similares a la cocaína, esto lo producen las anfetaminas, la psicosis por cannabis se ha publicado pero puede ser debida a un trastorno psicótico subyacente que el cannabis ayuda a su debut. Todas las demás son ciertas. A dosis bajas, produce desinhibición, ansiedad y a dosis altas confusión, vivencias alucinatorias, crisis de pánico. El enrojecimiento conjuntival es un buen indicador del consumo reciente. Bibliografía: Manual Psiquiatría CTO- Medicina 9ªEd, pág 53"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Una de las siguientes afirmaciones con respecto al tratamiento de los trastornos de la conducta alimentaria es INCORRECTA. Señálela:",
+      "opciones": [
+        "En la hospitalización de una paciente con anorexia nerviosa con un índice de masa corporal (IMC) de 12, el objetivo principal es el de restablecer lo antes posible el equilibrio nutricional mediante la ganancia de peso.",
+        "Es sumamente difícil lograr cambios conductuales mediante psicoterapia en un paciente que padece los efectos psicológicos de la delgadez extrema.",
+        "La terapia cognitivoconductual suele ser un tratamiento con frecuencia en pacientes hospitalizados que sufren bulimia nerviosa.",
+        "La hospitalización suele ser necesaria con más frecuencia en la bulimia nerviosa que en la anorexia, en general por las frecuentes complicaciones derivadas de las conductas purgativas como el vómito autoprovocado o el abuso de laxantes."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La bulimia nerviosa precisa con mucha menor frecuencia de ingreso hospitalario ante la ausencia de desnutrición grave. Es cierto que a veces las conductas de compensación de tipo purgativo pueden provocar complicaciones físicas (alteraciones hidroelectrolíticas, sobre todo), pero, aun así, la necesidad de ingreso es claramente menor que con la anorexia (opción 4 incorrecta, por lo que la marcamos). Durante la hospitalización de una anorexia nerviosa con desnutrición grave el objetivo fundamental es recuperar una situación nutricional más estable. La persistencia de una desnutrición grave afecta al funcionamiento cerebral y dificulta la psicoterapia en los pacientes con TCA. Las terapias de tipo cognitivoconductual son las más eficaces en estos pacientes, tanto en régimen de ingreso como ambulatoriamente, y resultan más exitosas en bulimia nerviosa que en anorexia."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Un paciente alcohólico solicita tratamiento para abandonar el consumo; ¿qué fármaco elegiría para prevenir la aparición de un síndrome de abstinencia?:",
+      "opciones": [
+        "Naltrexona.",
+        "Acamprosato.",
+        "Loracepam.",
+        "Disulfiram."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Sólo disponemos de fármacos específicos (y oficialmente aprobados) para la prevención y tratamiento de los síndromes de abstinencia inducidos por el alcohol y los opioides:\n\n- En el caso del alcohol lo habitual es usar benzodiacepinas, prefiriéndose las de vida-media larga pues controlar mejor los síntomas; en caso de hepatopatía se recurrirá al loracepam, pues carece de metabolismo hepático.\n  - Otras alternativas menos usadas son el clometiazol (un potenciador GABAérgico) o el tiapride (un antipsicótico de baja potencia)\n- Para los opioides lo habitual es utilizar un opioide de sustitución, como la metadona.\n  - Una alternativa es un tratamiento sintomático con AINE, benzodiacepinas o un agonista alfa-2 adrenérgico como la clonidina, la guanfacina o la lofexidina."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Si un paciente con un TOC (trastorno obsesivo-compulsivo) le contara que el fármaco que le prescriben le produce una gran sequedad de boca y un estreñimiento tremendo, posiblemente esté tomando:",
+      "opciones": [
+        "Fenelcina.",
+        "Escitalopram.",
+        "Clomipramina.",
+        "Aripiprazol."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En el tratamiento farmacológico del TOC los fármacos de elección son los antidepresivos con fuerte acción serotoninérgica. Como primera opción tenemos los distintos ISRS, fármacos bien tolerados y cuyos efectos adversos son fundamentalmente debidos al aumento de serotonina. La sequedad de boca y el estreñimiento sugieren un efecto anticolinérgico, algo más habitual con un antidepresivo tricíclico como la clomipramina. Este fármaco se utiliza sobre todo cuando fallan los ISRS ya que, a pesar de ser más potente como anti-obsesivo, tiene muchos más efectos adversos. Ten en cuenta, además que para el TOC suelen prescribirse dosis altas de antidepresivos, dos o tres veces superiores a las dosis utilizadas para la depresión o la ansiedad.\n\nLa fenelcina es un IMAO que podría usarse en pacientes refractarios a los tratamientos anterior; el aripiprazol es uno de los antipsicóticos atípicos que alguna vez se han usado para potenciar los efectos de los antidepresivos serotoninérgicos cuando hay una respuesta parcial, sobre todo si coexisten tics."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "En el tratamiento del trastorno del pánico se utilizan todos los siguientes tratamientos, EXCEPTO uno:",
+      "opciones": [
+        "Psicoterapia.",
+        "Benzodiacepinas.",
+        "Sales de litio.",
+        "Antidepresivos tricíclicos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La terapéutica de trastorno del pánico ya ha sido preguntada en alguna ocasión no muy lejana (MIR 01- 02, 160). Existen dos tipos de tratamientos, para la crisis en si, y como mantenimiento. En crisis, se suelen utilizar las BZD, incluso existen técnicas psicológicas para favorecer el control en esas situaciones. Sin embargo, el objetivo real es la desaparición de estas crisis, para lo cual se precisan tratamientos de continuación. Se tiene constancia de la efectividad de los antidepresivos en general ( ADT, IMAOs, ISRS) y de psicoterapia, pero no de litio, su indicación se centra en el trastorno bipolar. Bibliografía: Manual Psiquiatría CTO- Medicina 4ªEd, pág 4"
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Kevin le ha demostrado a su psiquiatra que tiene 23 personalidades diferentes, pero teme que pueda aparecer una personalidad nueva que quiera dominar a todas las demás. Con respecto a este trastorno señale la afirmación INCORRECTA:",
+      "opciones": [
+        "Es obligado descartar abuso de alcohol o causar orgánicas",
+        "Es habitual que coexista con otros trastornos de ansiedad",
+        "No tiene tratamiento específico",
+        "No existe asociación con traumas infantiles"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El trastorno de identidad disociativo o trastorno de la personalidad múltiple es un tipo de enfermedad disociativa en la que el enfermo tiene dos o más personalidades. Como ante todo trastorno somatomorfo es imprescindible descartar causas orgánicas que puedan justificar el cuadro. Es conocida la asociación de este trastorno abusos o traumas en la infancia, por lo que también pueden ser ansiedad en relación con dichos acontecimientos, como si de un trastorno de estrés postraumático se tratara. Como en casi todos los trastornos somatomorfos, el tratamiento es bastante genérico basado en psicoterapia y ansiolíticos, aunque es característico el uso de la hipnosis en los trastornos disociativos."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Con respecto a la asociación entre trastornos del estado de ánimo y esquizofrenia, es FALSO que:",
+      "opciones": [
+        "Cuando los síntomas psicóticos se presentan exclusivamente durante los episodios depresivos, sugieren un trastorno del estado de ánimo.",
+        "La presencia de antecedentes familiares de depresión es un factor de mal pronóstico para la esquizofrenia.",
+        "En el trastorno esquizoafectivo, los síntomas psicóticos duran más que la alteración del estado de ánimo.",
+        "La depresión postpsicótica es un factor de alto riesgo de suicidio en pacientes con esquizofrenia."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "No es raro que en un paciente coexistan síntomas psicóticos y síntomas afectivos (depresivos o maníacos). Cuando los síntomas psicóticos solo aparecen durante los episodios depresivos o maníacos, lo más probable es que se trate de trastorno afectivo, incluso aunque los delirios o alucinaciones no traten sobre los típicos temas depresivos (culpa, ruina, enfermedad) o maníacos (grandeza). Cuando los síntomas psicóticos aparecen, tanto asociados con episodios afectivos, como de forma independiente, probablemente se trate de un trastorno esquizoafectivo, un trastorno mental de pronóstico intermedio entre la esquizofrenia y los trastornos afectivos. Cuando lo que aparecen son claros síntomas depresivos en un paciente diagnosticado de esquizofrenia una vez recuperado de un episodio psicótico, probablemente se trate de una depresión postpsicótica, especialmente frecuente en los primeros años de la enfermedad y con un elevado riesgo de suicidio. Por otro lado, tanto en los trastornos afectivos graves como en la esquizofrenia, pueden verse antecedentes familiares de ambos tipos de enfermedades, sin que la presencia de antecedentes familiares de trastornos depresivos sea un factor de mal pronóstico en la esquizofrenia (lo malo es tener antecedentes familiares de esquizofrenia - opción 2 falsa, por lo que la marcamos -)."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Como indicadores de mal pronóstico del trastorno obsesivo-compulsivo se encuentran los siguientes, EXCEPTO:",
+      "opciones": [
+        "Atipicidad.",
+        "Síntomas motores.",
+        "Formas monosintomáticas.",
+        "Soltería."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Precaución, el TOC es una patología muy preguntada dentro de las neurosis, probablemente por la alta prevalencia que tiene (se calcula un 1% de la población). Esta pregunta es fácilmente contestable con la tabla 6, aunque como habrás comprobado tiene truco, pues la intuición nos hará contestar R3, monosintomáticas. Es importante que tengas este dato en cuenta, pues sería una pregunta posible, y donde fallaría mucha gente. Recuerda, atipicidad y sin síntomas motores = buen pronóstico; monosintomática y/o síntomas motores = pronóstico desfavorable. Bibliografía: Manual Psiquiatría CTO- Medicina 4ªEd, pág 5"
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Con respecto a la anorexia nerviosa, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Nunca presenta un curso progresivo hasta la muerte.",
+        "Normalmente comienza antes de la pubertad.",
+        "Suele iniciarse con pérdida de apetito.",
+        "La amenorrea puede preceder a la pérdida apreciable de peso."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Dentro de los trastornos de la alimentación, lo más importante son los criterios diagnósticos de la anorexia y la bulimia, así como las complicaciones médicas típicas de la desnutrición y las conductas purgativas. En la anorexia nerviosa se produce un comportamiento alimentario anormal centrado en la restricción de la ingesta (sin que haya una verdadera pérdida del apetito), como consecuencia de una serie de ideas sobrevaloradas acerca de la importancia del peso y la figura en la vida del paciente. Con frecuencia hay, además, una clara distorsión de la imagen corporal. Se inicia después de la pubertad, en la época de los cambios físicos sexualmente diferenciadores, que son vividos de forma traumática. La paciente pierde peso, considerándose como límite de desnutrición un IMC < 17,5. Como consecuencia de la desnutrición se produce un hipogonadismo hipotalámico que se manifiesta como amenorrea, que puede preceder a la pérdida apreciable de peso. Puede llevar a la muerte a consecuencia de la desnutrición."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Varón de 52 años que ha presentado varias recurrencias de un trastorno depresivo a pesar de seguir correctamente un tratamiento de mantenimiento con antidepresivos. Antes de añadir litio, deben realizarse las pruebas siguientes, EXCEPTO:",
+      "opciones": [
+        "Ionograma.",
+        "Electrocardiograma.",
+        "TAC craneal.",
+        "Estudio de función tiroidea y renal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Cuando hay un episodio depresivo endógeno, la probabilidad de tener otro es del 60%. Si se han tenido dos episodios, la probabilidad es del 80%. Si se han tenido tres, la probabilidad de tener otro asciende al 95%: a partir del tercer episodio se recomienda un tratamiento profiláctico de por vida. En la depresión bipolar está claro que el litio es lo mejor. En la depresión unipolar no está claro si es mejor un antidepresivo de mantenimiento o el litio. Antes de poner litio hay que valorar función renal (aclaración de creatinina de 24 horas, y si es posible también creatininemia, deprivación hídrica de 12 horas para comprobar capacidad de concentración basal, BUN y volumen de orina en 24 horas), función cardíaca (electrocardiograma basal, y para descartar bradiarritmias y bloqueos que contraindicasen el litio), función tiroidea (TSH basal, y si se puede T3, T4 y anticuerpos antitiroideos), función paratiroidea (calcemia), ionograma, hemograma (que sirva de medida basal para que luego la leucocitosis por litio no enmascare otras discrasias), y test del embarazo en las mujeres. No se precisa EEG ni neuroimagen cerebral, ni perfil hepático. En el seguimiento se pide: litemia 12 horas después de la última toma, creatininemia, TSH a los 6 meses y al año, ionograma con calcio, hemograma y ECG anual."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Una paciente consulta, pues tiene dificultades para usar los transportes públicos, sobre todo el Metro, que evita siempre, dado que se pone muy nerviosa, con una sensación indefinida de que algo grave puede pasarle. Tampoco puede ir a una sala de cine o de teatro, y le cuesta mucho entrar en grandes centros comerciales. Estos problemas comenzaron cuando tenía 15 años, y poco a poco han ido limitando su vida. No presenta ansiedad cuando está sola en casa y mejora mucho cuando sale acompañada a la calle. ¿Qué tratamiento de los siguientes ofrece los MEJORES resultados en estos casos?",
+      "opciones": [
+        "Paroxetina.",
+        "Lorazepam.",
+        "Terapia de conducta.",
+        "Psicoanálisis."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La paciente presenta agorafobia, un trastorno ansioso caracterizado por la aparición de ansiedad en situaciones donde no sea fácil escapar o buscar ayuda en caso de precisarlo. La agorafobia puede llegar a ser tan incapacitante como los trastornos mentales más graves, dado que limita mucho la actividad del sujeto. La mayoría de los casos son secundarios a un trastorno de angustia/pánico, pero también hay agorafobias primarias, en las que el paciente no ha sufrido nunca crisis espontáneas (como parece que es este caso, dado que en casa no presenta ansiedad). Como en el resto de las fobias, los mejores resultados se obtienen con los abordajes conductuales, sobre todo la exposición en vivo (no con el psicoanálisis). Los fármacos (ISRS, benzodiacepinas) pueden ser necesarios en los casos más graves, sobre todo si derivan de un trastorno de angustia, siempre complementando a la psicoterapia."
+    }
+  ]
+}

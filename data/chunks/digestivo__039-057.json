@@ -1,0 +1,540 @@
+{
+  "materia": "digestivo",
+  "paginaInicio": 39,
+  "paginaFin": 57,
+  "anomalias": [
+    "p44: Resp. Correcta 3 (betabloqueantes) pero el comentario cierra con 'el uso de betabloqueantes para disminuir la presión portal no se relaciona con este problema (respuesta 4)', citando un número de opción que no corresponde",
+    "p43: la explicación abre con una frase incompleta: 'El paciente dado que tiene actividad persistente en todo el colon.'",
+    "p49: el enunciado describe a un 'Varón de 45 años' pero el comentario habla de 'una paciente con hipertransaminasemia leve'"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 39,
+      "enunciado": "¿cuál es el mecanismo de acción de los fármacos betabloqueantes en la hipertensión portal cirrótica?",
+      "opciones": [
+        "aumentan la presión portal por vasoconstricción esplácnica",
+        "disminuyen la presión portal por vasoconstricción esplácnica",
+        "aumentan la presión portal por vasoconstricción sistémica",
+        "aumentan la presión portal por vasodilatación sistémica"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los betabloqueantes reducen la presión portal al disminuir el flujo sanguíneo esplácnico por vasoconstricción de la circulación esplácnica."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "A un paciente de unos 30 años se le descubre una hernia hiatal. El paciente no refiere síntomas ni molestias relacionadas. En sus antecedentes personales tan solo aparece una colitis ulcerosa de la que está siendo tratado. ¿Qué debería hacer con el paciente?",
+      "opciones": [
+        "No hacer nada.",
+        "Programar una pHmetría ambulatoria de 24 horas.",
+        "Tratar al paciente con IBP durante 4 semanas y citar para revisión.",
+        "Implantar medidas higiénico-dietéticas como disminución del tabaco, alcohol, chocolate, menta y comidas grasas. Evitar hacer comidas copiosas y elevar el cabecero de la cama."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La hernia hiatal (protrusión del estomago a través del hiato diafragmático) se relaciona con la aparición de ERGE al favorecer la hipotonía del EEI, sus relajaciones anómalas y el inadecuado aclaramiento de la parte más distal del esófago. No obstante, la mera presencia de hernia hiatal no implica necesariamente que exista RGE: puede haber hernia hiatal sin RGE y RGE sin hernia. Por consiguiente, el hallazgo de una hernia asintomática no requiere tratamiento."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "Se identificó un pólipo de aspecto benigno de 2,5 cm de diámetro, en el colon sigmoide de una mujer de 55 años mediante el enema de bario. Aunque la escisión intentada con la sigmoidoscopia flexible fue incompleta, se extrajeron varias porciones de tejido adenomatoso que, en el examen histológico, no pareció maligno. El plan terapéutico MÁS apropiado sería:",
+      "opciones": [
+        "Colectomía sigmoide.",
+        "Colostomía y polipectomía sigmoides.",
+        "Resección segmentaria del pólipo con escisión de un margen de 3 cm de colon normal.",
+        "Sigmoidoscopia repetida para completar la escisión del pólipo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Existen varios factores que influyen en la probabilidad de malignización de los pólipos adenomatosos. Uno de ellos es el tamaño, con el que existe una relación casi directa. Cuando un pólipo supera los 2 cm, el riesgo de malignización supera el 50%. Por tanto, si persisten restos de pólipo, sería como dejarle en el abdomen una bomba de relojería. Está claro que habrá que marcar una opción que permita extirparlo y, entre las opciones de respuesta que nos ofrecen, la única correcta es la 4. Dado que el estudio histológico no ha demostrado malignidad, habría que hacer una resección lo más conservadora posible (escisión del pólipo, simplemente, y vía endoscópica al ser la opción menos agresiva). En caso de que los restos del pólipo fuesen tumorales, posteriormente podría plantearse una ampliación en función del resultado."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "En relación al adenoma hepático, señale la opción que considere CORRECTA:",
+      "opciones": [
+        "Tiene bajo potencial de malignización.",
+        "Es más frecuente en el lóbulo hepático izquierdo.",
+        "La suspensión de anticonceptivos orales puede conseguir disminuir su tamaño.",
+        "Es un tumor poco vascularizado, por lo que no es útil el TC abdominal, sino la RMN."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El adenoma hepatocelular es un tumor que puede malignizar, siendo más frecuente en mujeres jóvenes y en el lóbulo hepático derecho. Son tumores muy vascularizados y dentro de su tratamiento debe considerarse la suspensión de anticonceptivos orales, a cuyo uso se asocian, ya que puede disminuir el tamaño de los mismos."
+    },
+    {
+      "paginaPdf": 40,
+      "enunciado": "La presencia de úlceras gástricas o duodenales puede observarse en las siguientes entidades, EXCEPTO:",
+      "opciones": [
+        "Colitis ulcerosa.",
+        "Enfermedad de Behçet.",
+        "Zollinger-Ellison.",
+        "Sífilis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En la colitis ulcerosa, la afectación del tubo digestivo queda limitada al colon. Puede afectar a todo el territorio colónico (pancolitis), o sólo a una parte, normalmente la más distal (proctitis). Sin embargo, no se observan lesiones ulcerosas a otros niveles del tracto digestivo, a diferencia de la enfermedad de Crohn, que puede afectar, de forma parcheada, desde la boca hasta el ano. El resto de las entidades descritas sí pueden manifestarse con úlceras gástricas o duodenales."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Un paciente con cirrosis hepática grado C de Child acude a Urgencias por presentar febrícula de 37,8 ºC, dolor abdominal localizado en ambos vacíos, continuo, sin náuseas ni vómitos. A la exploración destaca la presencia de ictericia cutaneomucosa, un hematoma en muslo derecho que el paciente relaciona con una caída casual hace dos días, el abdomen es blando y depresible, doloroso a la palpación de forma difusa sin signos de irritación peritoneal, con matidez a la percusión en ambos flancos. Se le realizó una paracentesis diagnóstica en la que la cifra de leucocitos era de 1.334/mm³ con 45% de neutrófilos. Señale la afirmación CORRECTA respecto a la patología que presenta este paciente:",
+      "opciones": [
+        "Se debe esperar al resultado del cultivo de líquido ascítico para iniciar el tratamiento.",
+        "La presencia de esta complicación no empeora el pronóstico del enfermo.",
+        "La coexistencia de insuficiencia renal aumenta la mortalidad.",
+        "La presencia en líquido ascítico de proteínas > 1 g/dL, aumenta el riesgo de presentar esta complicación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pregunta evidente, que podrías haber resuelto incluso sin saber nada del tema. Como sabes, la insuficiencia renal por sí sola, puede ser suficiente como para comprometer la vida del que la padece. Pues bien, si tienes un cuadro como el que nos plantean (peritonitis bacteriana espontánea), ¿cuándo tendrás más probabilidades de morir? ¿Con insuficiencia renal o sin ella? Aunque no supieses de qué enfermedad se trata, la insuficiencia renal es un agravante, con lo que la opción de respuesta 3 es correcta de forma forzosa."
+    },
+    {
+      "paginaPdf": 41,
+      "enunciado": "Varón de 48 años de origen nigeriano y con cirrosis por hepatitis crónica B acude a consulta de revisión. Se encontraba prácticamente asintomático. En la exploración física destacaba ictericia conjuntival y leves edemas de miembros inferiores. La exploración cardiopulmonar y abdominal fueron normales salvo leve hepatomegalia. La analítica de rutina mostraba los siguientes resultados: Hb 11.2 g/dl, VCM 101 fl, leucocitos 9.000/mm3 con 60% neutrófilos, plaquetas 120.000/mm3, actividad protrombina 60%, glucosa 89 mg/dl, urea 55 mg/dl, creatinina 1.1 mg/dl, albúmina 3.0 g/dl, GOT 96 U/L, GPT 175 U/L, GGT 308 U/L, bilirrubina total 2.6 mg/dl, fosfatasa alcalina 58 U/L, LDH 107 U/L, sodio 138 mEq/L, potasio 4.2 mEq/L. Se realiza una ecografía abdominal en la que se observa un hígado heterogéneo e irregular con una lesión nodular de 8 cm. Se realiza un TC donde se confirman estos hallazgos siendo la lesión de 82 mm con realce en fase arterial y lavado precoz en fase venosa. ¿En que estadío de la BCLC se encontraría este paciente?:",
+      "opciones": [
+        "Estadio A1 - BCLC.",
+        "Estadío A3 - BCLC.",
+        "Estadío B - BCLC.",
+        "Estadío C – BCLC."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de un paciente hepatópata con una lesión única de más de 5 cm (no cumple criterios de Milán) y que además presenta ictericia. Su estado general es bueno dado que se encuentra asintomático (Performance Status de la OMS de 0). Por todo ello, se encuentra en un estadío B de la BCLC. Si no hubiera presentado ictericia o hipertensión portal, hoy día se trataría de un estadio A1."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Señale cuál de las siguientes enfermedades se caracteriza por presentar en la lámina propia macrófagos PAS + con bacilos intracelulares:",
+      "opciones": [
+        "Enfermedad de Crohn.",
+        "Colitis ulcerosa.",
+        "Enfermedad de Whipple.",
+        "Histiocitosis duodenal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La biopsia es necesaria para realizar el diagnóstico de la enfermedad de Whipple. Se caracteriza por presentar macrófagos PAS + en la lámina propia. Hay bacilos intracelulares Zhiel – Nissen negativos, a diferencia de las infecciones por Micobacterium Avium Intracellulare."
+    },
+    {
+      "paginaPdf": 42,
+      "enunciado": "Paciente de 67 años hipertenso, diabético e intervenido de hipertrofia benigna de próstata, acude por vómitos de repetición y sensación continua de plenitud abdominal. Relataba pérdida de 12 kg en los últimos 3 meses y estreñimiento. Se realizó una gastroscopia que tuvo que interrumpirse por bezoar y restos alimentarios abundantes en cavidad gástrica. La colonoscopia únicamente demostró la existencia de divertículos aislados en sigma. Con la información de la que disponemos, señale cual de las siguientes afirmación consideraría correcta:",
+      "opciones": [
+        "La causa más frecuente suele ser idiopática.",
+        "Se recomienda el uso de refresco de cola o celulasa para pacientes con sintomatología leve.",
+        "El TC puede claramente descartar neoplasia subyacente.",
+        "Actualmente el uso de Eritromicina esta contraindicado por la alta incidencia de colestasis hepática que provocaba."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Por los datos de diabetes (causa más frecuente) y restos alimentarios en la gastroscopia debería sospecharse una gastroparesia. Esta puede a su vez llevar al desarrollo de bezoares. En técnicas de imagen estos bezoares pueden confundirse con neoplasias. La Eritromicina sigue utilizándose como procinético en estos pacientes. La correcta sería la segunda opción ya que tanto el refresco de cola como la celulasa pueden utilizarse para bezoares con síntomas leves."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "El marcador serológico MÁS útil para el diagnóstico de una pancreatitis autoinmune tipo I es:",
+      "opciones": [
+        "El anticuerpo anticitoplasma de los neutrófilos (ANCA).",
+        "El anticuerpo antimitocondrial (AMA).",
+        "El anticuerpo antimicrosomal.",
+        "El nivel de Ig G4."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta sencilla en relación con la pancreatitis autoinmune (PAI). La elevación de IgG4 es el parámetro más sensible (95%) y específico (97%) para el diagnóstico de la PAI tipo I. Además es el parámetro más útil para determinar la actividad y predecir el curso de la enfermedad. Es importante recordar que puede encontrarse elevado en el cáncer de páncreas o la pancreatitis crónica (respuesta 4 correcta). Las demás opciones de respuesta hacen referencia a autoanticuerpos detectados en colitis ulcerosa y CEP (ANCA), cirrosis biliar primaria (CBP) y enfermedades tiroideas (antimicrosomales)."
+    },
+    {
+      "paginaPdf": 43,
+      "enunciado": "Varón de 36 años que acude por diarrea de hasta 12 deposiciones al día con sangre, moco y pus de 3 meses de evolución. Asimismo refería pérdida marcada de peso y fiebre de hasta 39.4 ºC. En la exploración física destacaba ligera palidez de mucosas y bajo peso. Los coprocultivos y parásitos en heces fueron negativos. La analítica mostraba anemia ferropénica moderada, VSG 70 mm, y calprotectina 980 mg/g. Se realizó una colonoscopia donde se observaba una mucosa con patrón vascular ausente, friable, algunas ulceras profundas y con sangrado espontáneo desde recto hasta ciego. Tras tratamiento con esteroides y mesalazina mejoró significativamente quedando prácticamente asintomático y con tratamiento de mantenimiento con mesalazina. La colonoscopia de control a los 6 meses mostraba actividad muy leve a lo largo de todo el trayecto y pseudopólipos inflamatorios residuales postcicatrización. Le pregunta dado que su padre a los 62 años tuvo cáncer de colon izquierdo y porque ha leído que existe un riesgo incrementado de neoplasia de colon en esta entidad. Señale de entre los siguientes, cuál sería la actitud correcta respecto al cribado de displasia:",
+      "opciones": [
+        "Iniciar cribado con colonoscopias a los 8 años de enfermedad y de forma anual.",
+        "Iniciar cribado con colonoscopias a los 14 años de enfermedad y de forma anual.",
+        "Iniciar cribado con colonoscopias en este momento y cada 2-3 años.",
+        "Iniciar cribado con colonoscopias a los 8 años de enfermedad y cada 2-3 años."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El paciente dado que tiene actividad persistente en todo el colon. Dado que tiene una pancolitis, este es un factor de alto riesgo para desarrollo de displasia y, por consiguiente debe iniciar cribado con colonoscopias a los 8 años de enfermedad y de forma anual."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Un paciente de 48 años, etílico crónico y diagnosticado de cirrosis hepática ingresa en Urgencias con un cuadro de confusión moderada y asterixis de varias horas de evolución. ¿Cuál de estas circunstancias cree que NO influyó en el desencadenamiento de esta complicación?",
+      "opciones": [
+        "Tratamiento con un ansiolítico los días previos.",
+        "Tratamiento diurético por su hepatopatía.",
+        "Tratamiento con betabloqueantes para profilaxis de hemorragias por varices.",
+        "Estreñimiento pertinaz en los últimos días."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Un paciente cirrótico con confusión y asterixis padece, casi con total seguridad, un cuadro de encefalopatía hepática. Lo que nos preguntan, por tanto, es que señalemos el factor que no es capaz de desencadenarla. Algunos tratamientos relativamente frecuentes en los pacientes cirróticos, como los diuréticos del asa (que a veces se usan para el control de la ascitis) pueden producir encefalopatía hepática por las alteraciones del medio interno que producen (alcalosis metabólica). El estreñimiento permite una mayor producción de amonio, ya que permite un mayor contacto de las bacterias y las sustancias nitrogenadas. Sin embargo, el uso de betabloqueantes para disminuir la presión portal no se relaciona con este problema (respuesta 4)."
+    },
+    {
+      "paginaPdf": 44,
+      "enunciado": "Un paciente de 28 años, adicto a drogas por vía parenteral presenta un cuadro gripal seguido de ictericia. La analítica muestra ALT 950 U/l AST 825 U/l, fosfatasa alcalina y gamma GT dentro de la normalidad, bilirrubina total 4,64 mg/dl directa 3,94 mg/dl. Serologías: HBs Ag negativo, Anti HBc IgM negativo. Anti VHC negativo, Anti VHA IgM negativo. ¿Cuál de los siguientes exámenes debe incluirse en la siguiente aproximación diagnóstica?",
+      "opciones": [
+        "Anti VHA IgG.",
+        "Anti Hepatitis D IgM.",
+        "Anti HBc IgG.",
+        "RNA del virus C."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El cuadro que nos describen corresponde a una hepatitis aguda. En realidad, esta pregunta no ofrece ninguna dificultad, si tienes unas pocas nociones sobre la interpretación de las distintas serologías para virus hepatotropos.\n\n- Dado que el HBsAg es negativo, este paciente no puede tener, en este momento, una hepatitis B. Por tanto, carece de sentido solicitar anticuerpos IgG anti- HBc: Se descarta respuesta 3\n\n- Donde no hay virus B, no puede haber nunca virus D. Opción 2 incorrecta.\n\n- Si no existe IgM positivo para VHA, difícilmente tendrá una hepatitis A. Se excluye, en consecuencia, la opción 1.\n\nLa respuesta correcta es la 4. A pesar de que los anticuerpos anti- VHC son negativos, esto no descarta una hepatitis C. Recuerda que este virus tarda semanas, e incluso meses, en producir la seroconversión. Teniendo esto en cuenta, habría que demostrar la infección buscando el genoma del virus, que en este caso sería RNA.\n\nSi además consideras que el paciente es ADVP (factor de riesgo para contraer esta infección), no queda otra respuesta posible."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Señale, de entre las siguientes, cuál es causa de diarrea motora:",
+      "opciones": [
+        "Hidróxido de magnesio.",
+        "Enfermedad de Crohn.",
+        "Vipoma.",
+        "Hipertiroidismo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El hipertiroidismo, dado que aumenta la velocidad de tránsito intestinal es una causa de diarrea motora. El hidróxido de magnesia provocaría diarrea osmótica. La enfermedad de Crohn es causa de diarrea inflamatoria. El Vipoma es un tumor que produce una diarrea secretora."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "¿Cuál de estas alteraciones NO se asocia a un aumento aislado de la fracción indirecta de la bilirrubina del suero?",
+      "opciones": [
+        "Ictericia fisiológica del recien nacido.",
+        "Ictericia hemolítica.",
+        "Síndrome de Gilbert.",
+        "Síndrome de Dubin-Johnson."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "De entre las que se citan, el síndrome de Dubin- Johnson no cursa con aumento de la fracción indirecta, sino de la directa, como consecuencia de una alteración en la excreción de la bilirrubina ya conjugada.\n\nLa ictericia fisiológica del recién nacidos se produce por inmadurez del sistema enzimático encargado de la glucuronoconjugación, mientras que la producida por lactancia por la secreción en la leche de pregnano- 3- beta- 20- alfa- diol, que inhibe dicho sistema.\nEl síndrome de Gilbert sería un trastorno caracterizado por una alteración cualitativa de la UDP-glucuroniltransferasa, que eleva la bilirrubina indirecta.\nLa ictericia hemolítica aumentaría el pool de hemoglobina destruida y por tanto de bilirrubina indirecta, que llega a saturar los sistemas enzimáticos y, por tanto, a acumularse."
+    },
+    {
+      "paginaPdf": 45,
+      "enunciado": "Varón de 40 años, cirrótico por VHC con varios episodios de encefalopatía hepática y en tratamiento con espironolactona 200 mg/día y furosemida 80 mg/día. Acude a Urgencias por fiebre de 38 ºC y tos productiva herrumbrosa. En la exploración física destacaba disminución de murmullo vesicular en base pulmonar derecha que, tras la realización de una Rx de tórax, se confirmó como un foco neumónico a ese nivel. A las 48 horas comienza con oliguria, y en la analítica practicada en planta se observaba: Hb 11,5 g/dL, VCM 81,5 fL, leucocitos 18.000/mm³ con 92% neutrófilos, plaquetas 68.000/mm³, glucosa 101 mg/dL, urea 214 mg/dL, creatinina 3,1 mg/dL, proteínas totales 4,4 g/dL, albúmina 2,7 g/dL. GOT 92 U/L, GPT 168 U/L, GGT 121 U/L, bilirrubina total 3,8 mg/dL, fosfatasa alcalina 148 U/L, LDH 387 U/L, sodio 149, potasio 3,5. Tras retirada de diurético y administración de sueroterapia 3.000 cc/24 horas, continúa con diuresis 300 cc/día y la analítica no demostró cambios relevantes. ¿Cuál sería la actitud MENOS adecuada a continuación?",
+      "opciones": [
+        "Terlipresina i.v.",
+        "Albúmina i.v.",
+        "Reiniciar diurético para reiniciar diuresis.",
+        "Sedimento orina."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante un caso de síndrome hepatorrenal (paciente con insuficiencia renal que no mejora con expansión de volumen y con escaso sodio en orina), lo menos indicado sería reiniciar los diuréticos para intentar reiniciar la diuresis, ya que provocaría empeoramiento de la insuficiencia renal. El sedimento permitiría comprobar la escasa cantidad de sodio en la orina y descartar otras causas de insuficiencia renal, y las demás opciones de respuesta son tratamientos aceptados del síndrome hepatorrenal tipo 1.\n\nEn el síndrome hepatorrenal, el tratamiento de primera elección es la expansión de volumen con albúmina combinado con fármacos vasoconstrictores, siendo de elección la terlipresina"
+    },
+    {
+      "paginaPdf": 46,
+      "enunciado": "Mujer de 54 años con cuadro de tres meses de evolución manifestado por prurito, ictericia, coluria y pérdida de peso de aproximadamente 9 kg en el mismo período. Se le realizan pruebas de laboratorio que muestran: bilirrubina 9 mg/dL, bilirrubina directa 6 mg/dL, GOT 53 U/L, GPT 60 U/L, GGT 66 U/L, FA 301 U/L, Amilasa 189 U/L, LDH 257 U/L. En la ecografía abdominal se observó dilatación de vía biliar intra y extrahepática, por lo que se realizó TAC abdominal que objetivó la presencia de una masa en cabeza de páncreas. Se decide laparotomía exploradora evidenciándose tumoración de consistencia dura de 3-4 cm en cabeza de páncreas que, biopsiada intraoperatoriamente, se informa de: marcada fibrosis interlobular y prominente infiltración de linfocitos y células plasmáticas IgG4+ en el área periductal. ¿Cuál sería su actitud INICIAL?",
+      "opciones": [
+        "Resección quirúrgica de la masa.",
+        "Prednisona.",
+        "Ácido ursodesoxicólico.",
+        "Somatostatina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico sobre la pancreatitis autoinmune (PAI), preguntada en la última convocatoria. Recuerda su asociación a otras enfermedades autoinmunes y, como dato especifico, el incremento de la IgG4. El tratamiento inicial de la PAI se basa en corticoides, con una respuesta espectacular a estos. No hay un consenso acerca de la dosis y el tiempo de tratamiento. Se recomienda iniciar con prednisona 40 mg/día durante 4 semanas, seguido de un descenso progresivo de 5 mg/semana."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "En el síndrome de Gardner NO suelen hallarse:",
+      "opciones": [
+        "Quistes epidermoides.",
+        "Fibromas.",
+        "Tumores desmoides.",
+        "Papilomas vellosos múltiples."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El síndrome de Gardner cursa con pólipos adenomatosos como la poliposis colónica familiar pero también con manifestaciones extraintestinales como osteomas en cráneo, mandíbula y huesos largos, tumores desmoides, anormalidades dentales, quistes epidermoides y sebáceos, lipomas, fibromas, tumores de tiroides, glándulas suprarrenales arbol biliar e hígado pero no cursa con papilomas vellosos."
+    },
+    {
+      "paginaPdf": 47,
+      "enunciado": "Con respecto a las enfermedades por reflujo gastroesofágico, todas las afirmaciones siguientes son falsas, EXCEPTO:",
+      "opciones": [
+        "Cuando existe una esofagitis química, se debe colocar una sonda nasogástrica para aspirar el contenido gástrico.",
+        "Los pacientes con acalasia presentan con frecuencia síntomas de reflujo gastroesofágico.",
+        "El principal síntoma inicial de la esofagitis química es el dolor retroesternal.",
+        "Uno de los tratamientos más eficaces de los cuerpos extraños en el esófago es la administración de sustancias gastrocinéticas (por ejemplo: metoclopramida)."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta en la que es importante que sepas el motivo que invalida cada una de las opciones de respuesta. Veámoslas:\n\n1.- Debes evitar el sondaje nasogástrico ante una esofagitis química, debido al riesgo que implica producir el vómito, lo que podría implicar una segunda exposición de la mucosa esofágica al cáustico o al ácido ingerido.\n\n2.- La acalasia se caracteriza por una falta de relajación del esfínter esofágico inferior. Sería extraordinario que se produjese reflujo, cuyo fundamento es, precisamente, lo contrario.\n\n3.- El principal síntoma inicial de la esofagitis química es el dolor retroesternal (respuesta 3 correcta).\n\n4.- El uso de procinéticos podría incrementar la motilidad esofágica y, en presencia de un cuerpo extraño, sería hasta peligroso."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "¿En qué enfermedad pensaría usted ante una enferma de 50 años, diagnosticada de hipotiroidismo hace 8 años, y que presenta sequedad de boca, picor de ojos, de palmas de las manos y plantas de los pies?",
+      "opciones": [
+        "El diagnóstico más probable es un fracaso renal agudo.",
+        "Pensaría que son síntomas inexplicables y que corresponden a una enferma funcional.",
+        "Sería interesante la determinación de fosfatasa alcalina.",
+        "Debe realizarse un TC cerebral con urgencia, ya que hay tumores cerebrales que se presentan con prurito."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La causa más frecuente de hipotiroidismo en nuestro medio es autoinmune… Y las enfermedades autoinmunes se asocian entre sí con cierta frecuencia. Teniendo en cuenta la clínica, que es una mujer de mediana edad y que tiene antecedentes de hipotiroidismo, habría que pensar en una posible cirrosis biliar primaria. El prurito puede ser el síntoma inicial, y la sequedad de boca y picor de ojos pueden orientar a un síndrome seco asociado, que no es infrecuente. Todos los pacientes con esta enfermedad presentan elevación de la fosfatasa alcalina desde el principio de la enfermedad, por lo que la determinación de ésta sería la primera prueba de laboratorio que solicitaríamos, antes de realizar otras más específicas (como los AMA)."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "Señale la afirmación que considere correcta en relación con la hepatitis fulminante:",
+      "opciones": [
+        "La causa más frecuente en nuestro medio es la intoxicación por paracetamol.",
+        "No puede considerarse indicación de trasplante hepático ortotópico hasta llegar a una encefalopatía grado IV.",
+        "El tiempo de protrombina suele estar alargado en consonancia con una actividad de protrombina inferior al 80%.",
+        "Ante un paciente con hepatitis fulminante y una anemia hemolítica coombs negativa debe sospecharse en primer lugar una enfermedad de Wilson."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En hepatitis fulminante es característica la presencia de encefalopatía y disminución de la actividad del tiempo de protrombina por debajo del 40% en un hígado previamente sano. La causa mas frecuente en nuestro medio es la hepatitis B (sobre todo, sobreinfección D e infección B por mutantes precore). Estos pacientes deben remitirse a un centro de trasplante a la mayor brevedad para instaurar tratamiento intensivo de mantenimiento e indicar trasplante urgente (urgencia cero) cuando tienen encefalopatía grado II-III."
+    },
+    {
+      "paginaPdf": 48,
+      "enunciado": "El diagnóstico de gastritis crónica se realiza FUNDAMENTALMENTE mediante:",
+      "opciones": [
+        "Valoración de Helicobacter pylori.",
+        "Determinación de la vitamina B12.",
+        "Estudio histológico.",
+        "Estudios radiológicos."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La gastritis es un diagnóstico histológico que requiere la realización de endoscopia con toma de biopsias."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "Varón de 45 años que acude a su consulta al observarse en analítica de rutina de empresa la siguiente analítica: Hb 16,5 g/dL, VCM 80,5 fL, HCM 30,1 pg, leucocitos 7.100/mm³ con 62% neutrófilos, plaquetas 199.000/mm³, glucosa 102 mg/dL, urea 23 mg/dL, creatinina 0,7 mg/dL, proteínas totales 7,6 g/dL, albúmina 4,5 g/dL, GOT 47 U/L, GPT 45 U/L, GGT 67 U/L, bilirrubina total 0,9 mg/dL, fosfatasa alcalina 158 U/L, LDH 190 U/L, sodio 139, potasio 3,9, ferritina 654 ng/ml, IST 49%, ANA-, anti-LKM-, AMA-, antimúsculo liso-, anti-Sm-. Serología viral: antiHBs+, AgHBs-, AntiHBc+, AgHBe-, antiHBe+, anti-VHC-, AgVHD-, anti-VHD IgM-, anti-VHD IgG-, IgG VHA+. Sobre el diagnóstico que usted sospecha, señale la opción que considere CORRECTA:",
+      "opciones": [
+        "El hipogonadismo es un síntoma constate en esta entidad.",
+        "Es más frecuente en África que en Europa.",
+        "Un análisis genético posible podría ser el siguiente: H63D+/C282Y+.",
+        "Presenta característicamente HLA-DQ2."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de una paciente con hipertransaminasemia leve en probable relación con una hemocromatosis (dado que tiene aumento de ferritina con IST > 45%). Los genotipos posibles que confieren la enfermedad en el análisis del gen HFE son la homocigosis C282Y/C282Y y la heterocigosis compuesta C282Y/H63D. La mutación C282Y (la más frecuente) es más frecuente en poblaciones nórdicas de origen celta. El hipogonadismo es un síntoma típico, pero no aparece en el 100% de los pacientes. El HLA-DQ2 es típico de la enfermedad celíaca."
+    },
+    {
+      "paginaPdf": 49,
+      "enunciado": "En relación con los efectos secundarios del tratamiento médico de la enfermedad inflamatoria intestinal, es INCORRECTO:",
+      "opciones": [
+        "La azatioprina puede asociase a pancreatitis aguda que, en caso de producirse, precisa suspenderse, aunque puede reiniciarse una vez solucionado el proceso.",
+        "El metronidazol debe evitarse a largo plazo por asociarse a neuropatía periférica irreversible.",
+        "Los biológicos pueden provocar una reactivación de tuberculosis latente.",
+        "La mesalazina puede asociarse a insuficiencia renal."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La azatioprina puede asociarse a pancreatitis aguda por mecanismo inmunoalérgico por lo que no puede volverse a reiniciar nunca más en caso de producirse. Los inmunosupresores como la azatioprina/6 mercaptopurina en estudios recientes se han demostrado que son seguros durante el embarazo. Antes de utilizar un fármaco biológico es preciso investigar el estado portador de tuberculosis para evitar el desarrollo de una tuberculosis clínica grave."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Una mujer de 46 años acude al servicio de Urgencias por presentar desde hace 4 días deposiciones negras. Refiere en la última semana intensa pirosis y ocasionalmente dolor retroesternal. En la exploración presenta palidez cutáneo-mucosa y en la analítica, anemia microcítica, Hb 8,9, hto 26% VCM 70. La endoscopia evidencia erosiones longitudinales confluentes en el tercio inferior del esófago con alguna ulceración cubierta de fibrina. ¿Cuál de las siguientes afirmaciones es FALSA?:",
+      "opciones": [
+        "Iniciar tratamiento con omeprazol.",
+        "No es necesario realizar endoscopia de control para toma de biopsias.",
+        "Reposo relativo.",
+        "Dieta blanda durante los primeros días."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La presencia de una hemorragia digestiva obliga siempre a una endoscopia urgente. Esta técnica será diagnóstica y, en ocasiones, terapéutica. Esta situación también obliga a endoscopias de control. El tratamiento médico de elección es el omeprazol a alta dosis y la presencia de anemia, si se constata ferropénica, requiere tratamiento con suplementos de hierro."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Una mujer de 47 años acude por presentar ascitis de nueva aparición, junto con ictericia y encefalopatía. Las pruebas de laboratorio revelaron los siguientes resultados: GOT 756, GPT 987, bilirrubina 7,6 mg/dl, INR 1,7; Ig M Hbc negativo, Ag Hbs negativo, RNA-VHC negativo, IgM VHA negativo, AMA 1:40, ANA 1:40, ASMA 1:320, LKM-1 1:40. ¿Cuál sería su actitud terapeútica?:",
+      "opciones": [
+        "Propiltiuracilo.",
+        "Prednisona.",
+        "D-penicilamina.",
+        "Colchicina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Nos presentan un paciente con un cuadro de hepatopatía con cierto grado de evolución y con serología viral negativa y que se asocia a determinados autoanticuerpos, lo que nos hará pensar en una hepatitis autoinmune. La hepatitis autoinmune tipo 1 cursa con ANA y anti- músculo liso positivos mientras que la tipo 2 cursa con anticuerpos anti- KLM y anti- citosol hepático. El tratamiento de las hepatitis autoinmunes serían, como en el resto de procesos autoinmunitarios en general, con corticoides y en caso de falta de respuesta podríamos añadir inmunosupresores."
+    },
+    {
+      "paginaPdf": 50,
+      "enunciado": "Mujer de 67 años, bebedora de 65 g/día de alcohol y fumadora, que acude a su consulta por aumento de perímetro abdominal e ictericia conjuntival leve. En la exploración física se observó ligera disminución de murmullo vesicular en ambos campos pulmonares inferiores, leve dolor en hipocondrio derecho a la palpación profunda y matidez en región inferior de ambos flancos que desaparece con el cambio a decúbito lateral. En la analítica destacaba: Hb 14.0 g/dL, VCM 88.5 fl, HCM 31.1 pg, leucocitos 8000/mm³ con 65% neutrófilos, plaquetas 78.000/mm³, glucosa 105 mg/dl, urea 78 mg/dl, creatinina 2.1 mg/dL, GOT 175 U/L, GPT 98 U/L, GGT 301 U/L, bilirrubina total 2.7 mg/dL, proteínas totales 5.9 g/dL, albúmina 3.1 g/dL, fosfatasa alcalina 188 U/L, LDH 87 U/L, sodio 149, potasio 3.4. ¿Cuál sería la actitud MÁS correcta a continuación?",
+      "opciones": [
+        "Paracentesis evacuadora.",
+        "Tratamiento diurético con espironolactona 300 mg/día oral.",
+        "Paracentesis diagnóstica.",
+        "TIPS."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante esa exploración física, debe sospecharse una ascitis. En caso de paciente que acude con ascitis (matidez cambiante en flancos), debe realizarse siempre una paracentesis diagnóstica para descartar peritonitis bacteriana espontánea. No debe realizarse en este momento ni una paracentesis evacuadora (porque no tiene ascitis a tensión), ni iniciar diuréticos a dosis altas, ya que tiene además insuficiencia renal (por ello sería recomendable iniciar tratamiento con albúmina i.v. ahora para mejorar la función renal). El TIPS, pese a tener deteriorada la función renal, no se coloca en este momento al no considerarse una ascitis refractaria."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "Señale la asociación FALSA entre el fármaco utilizado en el tratamiento de la úlcera péptica y su mecanismo de acción:",
+      "opciones": [
+        "Omeprazol - inhibidor de la bomba de protones.",
+        "Hidróxido de aluminio-protector de la mucosa gástrica.",
+        "Famotidina - antagonista de los receptores histamínicos.",
+        "Sucralfato - protector de la mucosa gástrica."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El hidróxido de aluminio es un fármaco antiácido, que únicamente es útil para el alivio sintomático, fundamentalmente de la pirosis. No tiene efecto protector de la mucosa gástrica, ni efecto antisecretor. Por tanto, no puede ser empleado en las terapias erradicadoras del Helicobacter pylori, ni en la cicatrización de la úlcera."
+    },
+    {
+      "paginaPdf": 51,
+      "enunciado": "¿Cuál de los siguientes fármacos NO se emplea en el tratamiento de la hepatitis autoinmune?",
+      "opciones": [
+        "Prednisona.",
+        "Budesonida.",
+        "Lamivudina.",
+        "Micofenolato mofetil."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Se trata de una pregunta fácil de resolver aunque no conozcamos todas las opciones de tratamiento de la hepatitis autoinmune. Al ser una enfermedad de origen autoinmune, utilizaremos fármacos con efecto inmunosupresor, siendo los más comunes los que se describen en las opciones de respuesta 1, 2 y 4. Sin embargo la lamivudina es un antiviral utilizado en la hepatitis B (opción 3 falsa, por lo que la marcamos)."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Un varón de 32 años es remitido para estudio diagnóstico al presentar en una analítica de rutina, en el reconocimiento de su empresa, unas pruebas de función hepática alteradas. Está asintomático y no toma medicamentos. Presenta durante más de seis meses discreta hipertransaminasemia GOT 75, GPT 89, colesterol 221, el resto de la analítica fue normal. Una correcta evaluación del paciente incluiría lo siguiente, EXCEPTO:",
+      "opciones": [
+        "Determinación de alfa-1 antitripsina.",
+        "CPRE.",
+        "Ecografía abdominal.",
+        "Serología virus hepatitis."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En este caso, la prueba diagnóstica que no tiene sentido es la CPRE. Date cuenta de que la analítica revela cierto grado de citolisis, pero no de colestasis, por lo que resultaría muy improbable encontrarnos una alteración morfológica de las vías biliares extrahepáticas."
+    },
+    {
+      "paginaPdf": 52,
+      "enunciado": "Varón de 60 años con EPOC que ha ingresado por neumonía y reagudización grave de la insuficiencia respiratoria, precisando tratamiento con esteroides e ingreso en UCI. En el 5º día de ingreso, el paciente presenta episodio de hemorragia digestiva alta. Lo más probable es que la endoscopia muestre:",
+      "opciones": [
+        "Erosiones gástricas que afectan a cuerpo y fundus.",
+        "Erosiones gástricas en antro.",
+        "Úlcera duodenal.",
+        "Tumor gástrico."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Las gastritis agudas de estrés suelen expresarse clínicamente en forma de hemorragia digestiva, sea en forma de hematemesis, melenas o anemización súbita. Aunque su localización puede ser difusa, predominan en fundus. El mecanismo de la lesión es por isquemia y alteración de la barrera mucosa gástrica, como sucede en las úlceras de Curling (grandes quemados) y en las relacionadas con otras causas. La excepción a esta regla son las úlceras de Cushing. Éstas se relacionan con la hipertensión intracraneal, sobre todo cuando es aguda, ya que produce una hiperestimulación vagal y, como resultado, hipersecreción ácida gástrica.\n\nDebes recordar que, aunque se habla coloquialmente de “úlceras de estrés”, en realidad se trata de erosiones (la profundidad de la lesión no sería, propiamente, una úlcera)."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "¿De cuál de los siguientes trastornos es característica la hipertrofia del lóbulo caudado hepático?",
+      "opciones": [
+        "Hepatitis crónica persistente.",
+        "Hepatitis crónica activa.",
+        "Cirrosis biliar primaria.",
+        "Síndrome de Budd-Chiari."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El síndrome de Budd- Chiari se debe a una trombosis de las venas suprahepáticas. Dado que el lóbulo caudado drena directamente a cava inferior, a diferencia del resto del hígado, puede hipertrofiarse con el paso del tiempo debido a la necrosis del resto del parénquima."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "Un enfermo con cirrosis hepática, con ascitis importante, que está ingresado desde ayer en el servicio de Digestivo, se encuentra en encefalopatía hepática grado 3. ¿Cuál de las siguientes actitudes le parece INCORRECTA?",
+      "opciones": [
+        "Realizar al enfermo un tacto rectal.",
+        "Realizar una paracentesis diagnóstica.",
+        "Incrementar la dosis de furosemida.",
+        "Iniciar un tratamiento con enemas cada 12 horas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los diuréticos del asa son una de las posibles causas que pueden descompensar la encefalopatía hepática. Ten en cuenta que, desde el punto de vista del equilibrio ácido base, tienden a aumentar la pérdida urinaria de potasio y cloro. Esto conlleva una alcalosis metabólica y, como consecuencia de ello, un incremento de la amoniogénesis renal, lo que contribuye a empeorar la encefalopatía hepática.\n\nEl resto de las opciones son correctas. Ante un paciente con encefalopatía hepática, estaría indicado descartar sangrado digestivo, para lo que puede ser útil el tacto rectal (respuesta 1). Otro factor que habría que evitar es el estreñimiento, ya que es un posible desencadenante de la encefalopatía hepática, y para ello tienen sentido los enemas y la paromomicina (aminoglucósido, que disminuirá la carga intestinal de bacterias). Por último, la paracentesis diagnóstica también debería realizarse, ya que una peritonitis bacteriana espontánea podría descompensar una encefalopatía hepática."
+    },
+    {
+      "paginaPdf": 53,
+      "enunciado": "El misoprostol está indicado en:",
+      "opciones": [
+        "Prevención de lesiones agudas de la mucosa gástrica por AINE.",
+        "Tratamiento erradicador del Helicobacter pylori.",
+        "Prevención de cualquier tipo de úlcera duodenal.",
+        "En la profilaxis de úlceras de Curling."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El misoprostol es un fármaco análogo de prostaglandinas. Por tanto, se puede emplear en el tratamiento de la gastropatía por AINEs, e incluso del ulcus provocado por los AINEs (que inhiben la acción protectora de la mucosa gástrica que tienen las prostaglandinas). Sin embargo, aunque este fármaco es eficaz, son necesarias 3 ó 4 dosis al día, por lo que actualmente su uso es bastante escaso. Por ello, son mucho más utilizados los inhibidores de la bomba de protones."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Paciente ingresado por hematoma epidural secundario a traumatismo craneoencefálico que presenta episodio de hemorragia digestiva alta, observándose en la gastroscopia una úlcera única sangrante. Señale la afirmación CORRECTA respecto a la complicación que Ud sospecha:",
+      "opciones": [
+        "Se trata de una úlcera de Curling y está causada por la hipovolemia.",
+        "No es una úlcera verdadera sino una erosión de estrés.",
+        "El factor patogénico principal es la hipersecreción de ácido.",
+        "El hallazgo de una úlcera única descarta que se trate de una gastritis aguda de estrés."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Las úlceras y erosiones agudas son provocadas por la hipoperfusión tisular, que ocurre en enfermos en situación crítica, por sepsis, insuficiencia respiratoria o grandes quemados. En esta última situación, se denominan úlceras de Curling. Cuando la causa es un traumatismo que afecta al sistema nervioso central, más que por hipoperfusión lo que se produce es úlceras agudas por hiperacidez y reciben el nombre de úlceras de Cushing. Las úlceras agudas o de estrés son múltiples, poco profundas y, por tanto, causan poco dolor y se expresan clínicamente por sangrado múltiple. Suelen afectar a cuerpo y antro gástrico."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "Ante un paciente con un cuadro consistente en demencia, diarrea, oligoartritis migratoria y miorritmia oculomasticatoria, ¿cuál de las siguientes exploraciones realizaría en PRIMER lugar?",
+      "opciones": [
+        "Biopsia cerebral.",
+        "Biopsia hepática.",
+        "Biopsia cutánea.",
+        "Biopsia del intestino delgado."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La asociación clínica de diarrea, oligoartritis migratoria y alteraciones del sistema nervioso central (demencia, miorritmia oculomasticatoria), deben hacernos sospechar como primera posibilidad diagnóstica la enfermedad de Whipple; por tanto, estaría indicada la biopsia de intestino delgado (respuesta 4 correcta) ya que sería diagnóstica: se observarían macrófagos con inclusiones PAS+ en su interior, que corresponden a las propias bacterias."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "El estómago contribuye al control del peso corporal a través de:",
+      "opciones": [
+        "Síntesis de grelina en el periodo postprandial",
+        "Síntesis de leptina en el periodo de ayuno",
+        "La síntesis de leptina en el periodo postprandial",
+        "La síntesis de grelina y leptina en el periodo de ayuno"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El estómago libera grelina durante el ayuno y leptina durante el periodo postprandial regulando así la ingesta alimentaria y, por lo tanto, el peso corporal"
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Mujer de 22 años con diagnóstico previo de epilepsia desde hacía tres meses y amigdalectomizada, que acude nuevamente por cuadro de tos productiva desde hace 15 días. En la exploración física se observa una aparente disminución del murmullo vesicular en base pulmonar derecha. Se realizó una Rx de tórax en la que se comprobó la existencia de una neumonía basal derecha, instaurándose tratamiento antibiótico, antipirético y mucolítico. La analítica solicitada mostró los siguientes resultados: Hb 13,2 g/dL, leucocitos 18.000/mm³ con aumento de neutrófilos y eosinófilos, plaquetas 380.000/mm³, glucosa 98 mg/dL, urea 50 mg/dL, creatinina 1,1 mg/dL, GOT 220 U/L, GPT 352 U/L, GGT 538 U/L, bilirrubina total 1 mg/dL, fosfatasa alcalina 45 U/L, LDH 102 U/L, amilasa 60 U/mL, aumento de inmunoglobulina E total, proteinograma normal. A raíz de estos resultados, se amplió el estudio. La serología viral y el estudio de autoinmunidad fueron negativos. Señale, de entre los siguientes, cuál le parece el que con MAYOR probabilidad podría ser responsable del cuadro de la paciente:",
+      "opciones": [
+        "Paracetamol.",
+        "Fenitoína.",
+        "Eritromicina.",
+        "Codeína."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La fenitoína se puede asociar a cuadro de hepatitis inmunoalérgica (fíjate en que los eosinófilos y la IgE están elevados en este cuadro de hepatitis - respuesta 2 correcta -). Veamos las demás opciones de respuesta:\n1.- El paracetamol daría un cuadro de citólisis pura.\n3.- La eritromicina daría un cuadro de colestasis.\n4.- La Codeína muy raramente también daría un cuadro de colestasis."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "La mayoría de las reacciones adversas de la sulfasalazina se deben a:",
+      "opciones": [
+        "El ácido 4-aminosalicílico.",
+        "La sulfapiridina.",
+        "La mesalazina.",
+        "La olsalazina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La sulfasalazina pertenece al grupo de los salicilatos, que se emplean en los brotes leves-moderados de la colitis ulcerosa y de la enfermedad de Crohn. Aunque se usan principalmente en el tratamiento de mantenimiento de estas enfermedades. Las reacciones adversas provocadas por la sulfasalazina se deben fundamentalmente a la molécula derivada de las sulfamidas, la sulfapiridina, que puede desencadenar reacciones alérgicas importantes."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Durante tu guardia en urgencias, atiendes a Carmen, una joven de 23 años que acude por presentar un cuadro agudo de diarrea, con expulsión de moco y sangre, además de dolor abdominal. La exploración física de la zona anal y perianal es anodina. Le solicitas una analítica básica cuyos resultados son: leucocitosis con desviación izquierda, anemia ferropénica, VSG y PCR elevadas e hipopotasemia. La sospecha diagnóstica inicial es de una colitis ulcerosa. Respecto a esta entidad, señale la respuesta falsa:",
+      "opciones": [
+        "Las principales manifestaciones clínicas son la diarrea, la emisión de sangre, moco o pus por vía rectal y el dolor abdominal.",
+        "La CU parece exhibir un perfil de citocinas tipo Th2, aunque existe un solapamiento de citocinas con la enfermedad de Crohn",
+        "En muchos de los casos, el recto no está afecto.",
+        "La inflamación recurrente de la mucosa puede dar lugar a la aparición de cambios permanentes característicos como fibrosis, desaparición de haustras y retracción longitudinal de colon, produciendo un aspecto característico en cañería de plomo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La colitis ulcerosa es una enfermedad que afecta fundamentalmente a la mucosa de colon, con participación casi constante de la mucosa rectal y una extensión proximal más variable. Por esto, dado que en más de un 95% de las ocasiones el recto sí se ve afecto, la respuesta falsa entre las opciones es la opción 3."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Las úlceras gástricas que tienen predilección por la zona de transición del antro al cuerpo con producción baja de ácido, se conocen como:",
+      "opciones": [
+        "Tipo II de Johnson.",
+        "Tipo I de Johnson.",
+        "Tipo V de Johnson.",
+        "Tipo IV de Johnson."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "De las úlceras gástricas, las que tienen predilección por la zona de transición del antro al cuerpo y que presentan una producción de ácido baja, se denominan tipo I de Johnson (respuesta 2 correcta). Distinguiéndose de otros tipos de úlceras gástricas que cursan con hipersecreción ácida, parecidas en su fisiopatología a las duodenales:\n- Si se acompañan de una úlcera duodenal se denominan tipo II.\n- Si la úlcera gástrica es prepilórica se denominan tipo III.\nLas úlceras tipo IV, con hiposecreción de ácido (como las de tipo I), se sitúan en la curvatura menor, cercanas a la unión gastroesofágica."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Acude a tu consulta una mujer de 55 años por ardor retroesternal y sensación de que la comida \"se le vuelve a la boca\", lleva aproximadamente 1 mes con los síntomas. En la exploración no hay datos que llamen la atención, excepto obesidad. Recomendarías:",
+      "opciones": [
+        "Tratamiento con omeprazol 4 semanas",
+        "pHmetría de 24 horas.",
+        "Cirugía porque la clínica es muy sugerente de hernia de hiato.",
+        "Dieta hipocalórica."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La presencia de pirosis y regurgitación ácida es altamente sugestiva de enfermedad por reflujo gastroesofágico ácido y es suficiente como para instaurar directamente tratamiento con omeprazol u otro inhibidor de la bomba de protones; si hubiera remisión de los síntomas quedaría además confirmado el diagnóstico de esta enfermedad. La endoscopia se indicaría en caso de otros síntomas asociados o falta de respuesta al tratamiento."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "¿Cual de los siguientes fármacos utilizados en la enfermedad inflamatoria intestinal crónica no se corresponde con un anti factor de necrosis tumor al alfa?.",
+      "opciones": [
+        "Infliximab",
+        "Vedolizumab",
+        "Golimumab",
+        "Adalimumab"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El Vedolizumab es un anticuerpo anti-integrina alfa4-beta7. Los demás si son anti-TNF."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "¿Cuál de los siguientes enunciados es VERDADERO?",
+      "opciones": [
+        "Maldigestión: déficit de las enzimas responsables de la hidrólisis de los principios activos.",
+        "Malabsorción: déficit de las enzimas responsables de la hidrólisis de los principios activos.",
+        "Maldigestión: daño del epitelio absortivo intestinal.",
+        "Malabsorción: exceso de grasa en las heces."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La maldigestión aparece cuando las enzimas responsables de la hidrólisis de los principios activos son deficitarias, como en la insuficiencia pancreática. La malabsorción traduce un daño del epitelio absortivo intestinal, es decir un problema a nivel de los enterocitos, como en la enfermedad de Whipple."
+    }
+  ]
+}

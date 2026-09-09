@@ -1,0 +1,627 @@
+{
+  "materia": "embriologia",
+  "paginaInicio": 21,
+  "paginaFin": 39,
+  "anomalias": [
+    "p29: la opción 4 aparece rasterizada como \"Células de Bol!.\"; en la pregunta equivalente de la p23 la misma opción figura como \"Células de Boll.\"",
+    "p29: la pregunta sobre las glándulas sebáceas de la areola mamaria es un duplicado de la que ya aparece en la p23 (mismas opciones, misma clave y comentario casi idéntico)",
+    "p31: la opción 4 dice \"Las opciones a y b son ciertas\" pero las opciones están numeradas del 1 al 4, no con letras",
+    "p26: la opción 3 de la pregunta sobre la licencia de conducir está rasterizada con una tipografía monoespaciada distinta al resto del documento (el texto se lee completo)",
+    "p23 y p36: las opciones llevan un prefijo redundante \"A/ B/ C/ D/\" además de la numeración 1-4; se transcribe tal cual",
+    "p37: las opciones de la pregunta sobre la córnea llevan el número repetido dentro del propio texto (\"1. 1. Tiene cinco capas...\"); se transcribe tal cual"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 21,
+      "enunciado": "El ciclo menstrual es el proceso que prepara el útero de la mujer para el embarazo todos los meses mediante el desarrollo de los gametos femeninos y una serie de cambios fisiológicos. Se considera un ciclo contando desde el primer día de un periodo o menstruación hasta el primer día del periodo siguiente. La hormona que ha de aumentar en forma de pico para que se pueda dar la ovulación:",
+      "opciones": [
+        "Son los estrógenos.",
+        "Es la hormona estimulante del folículo (FSH).",
+        "Son los progestágenos.",
+        "Es la hormona luteinizante (LH)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La hormona luteinizante (LH) es producida por hipófisis y, junto con la hormona estimulante del folículo (FSH).se encarga principalmente de regular el ciclo menstrual. Hacia el final de la fase folicular, cuando uno de los folículos (folículo dominante), estimulado por la hormona FSH ha alcanzado un tamaño adecuado, la hipófisis eleva su secreción de LH (RC:4), dando lugar al llamado pico de LH, provocando así la ovulación."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Acude una madre con su hijo a su consulta porque ha notado que “la niña del ojo” de su hijo recién nacido no tiene forma redonda, sino de cerradura. Respecto a la patología que padece el niño, lo MÁS probable es que se trate de:",
+      "opciones": [
+        "Un coloboma iridiano.",
+        "Aniridia.",
+        "Haya sufrido una uveítis intraútero que le haya dejado como secuela sinequias.",
+        "Se trata de la forma habitual de la pupila en algunos neonatos. Con la maduración, la pupila regularizará su forma."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El ojo se origina a partir de una evaginación del prosencéfalo que luego se invagina para formar la copa óptica. Esta estructura “abraza” la arteria hialoidea hasta rodearla por completo. Si el cierre de la fisura no es completo, se producen unas malformaciones que reciben el nombre de colobomas. Puesto que el cierre se produce de arriba abajo, el coloboma se sitúa habitualmente en la zona inferior, y por ello cuando afecta al iris le da un aspecto muy característico en cerradura (respuesta 1 correcta). Los colobomas pueden estar limitados al iris o extenderse hacia atrás, afectando al cristalino, la retina y el nervio óptico."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "La ausencia de involución de la arteria hialoidea cursa con la aparición de una patología que cursa con leucocoria que se denomina:",
+      "opciones": [
+        "Catarata congénita",
+        "Vítreo hiperplásico primario",
+        "Retinoblastoma",
+        "Retinopatía de la prematuridad"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La persistencia de vasculatura fetal o vítreo hiperplásico primario es una alteración producida por la no involución de la arteria hialoidea. En ella persiste un eje de tejido fibrovascular que conecta la papila con el cristalino. Es una de las causas de leucocoria y su pronóstico es malo ya que asocia catarata y glaucoma.\n\nEl resto de las opciones entran en el diagnóstico diferencial de leucocoria, pero no están producidas por la ausencia de involución de la arteria hialoidea."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "La manifestacion ocular mas típica de la artritis reumatoide es la escleritis. Con respecto a este cuadro señale la CORRECTA:",
+      "opciones": [
+        "Suele aparecer al principio de la enfermedad.",
+        "Afecta predominantemente a varones.",
+        "Presenta una actividad independiente a la de la propia artritis",
+        "La forma de escleromalacia perforans es un tipo de escleritis muy severa en la que se produce una necrosis de los tejidos ."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Aparece normalmente en artritis evolucionadas de más de 10 años y es más frecuente en mujeres. Suele cursar con afectación paralela a la enfermedad.\n\nLa escleromalacia perforans es un cuadro muy grave de inflamación con necrosis que puede perforar le globo ocular y que precisa de tratamiento agresivo ."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "El proceso de formación del gameto masculino se denomina:",
+      "opciones": [
+        "Espermatogénesis y tiene lugar en las celulas de sertoli de los tubulos seminíferos en los testiculos por accion de la FSH.",
+        "Espermatogénesis y se realiza en las celulas de leyding de los túbulos seminíferos.",
+        "Espermatogénesis y se lleva a cabo en las celulas de sertoli de los tubulos seminíferos a nivel prostático.",
+        "Espermatogénesis y tiene lugar en las celulas de sertoli de los tubulos seminíferos en los testiculos por accion de la LH."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El proceso de formación de gametos masculinos se denomina espermatogénesis y tiene lugar en las células de Sertoli de los tubulos seminíferos en los testiculos por accion de la FSH."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Cual de las siguientes respuestas es cierta, con relación al número de folículos ováricos a lo largo de la vida?:",
+      "opciones": [
+        "A/ Aumenta con la edad de la mujer a partir de la menarquia",
+        "B/ En el periodo fetal no existen, aparecen en el primer mes de vida",
+        "C/ En la pubertad, el número de folículos oscila entre 1.000 y 2.000",
+        "D/ Unos 400 alcanzarán la madurez definitiva y ovularán durante la vida fértil de la mujer."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El número de folículos ováricos disminuye a lo largo de la vida de la mujer. En la pubertad, dicho número oscila entre 100.000-200.000, de los cuales sólo unos 400 alcanzarán la madurez definitiva y ovularán durante la vida fértil de la mujer."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Durante la gestación se producen muchos cambios en el organismo fundamentalmente provocados por la influencia hormonal. ¿Cómo se denominan las glándulas sebáceas de la areola mamaria que se hacen MÁS prominentes durante el embarazo?",
+      "opciones": [
+        "Acinos.",
+        "Tubérculos de Montgomery.",
+        "Mamilas.",
+        "Células de Boll."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las glándulas o tubérculos de Montgomery son glándulas sebáceas localizadas en las areolas rodeando al pezón que producen secreciones sebáceas que mantienen la areola y el pezón lubricado y protegido. Durante el embarazo y la lactancia, los tubérculos de Montgomery tienen un aspecto más marcado."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Una de las siguientes afirmaciones sobre la septación del tronocono es incorrecta. Señálela",
+      "opciones": [
+        "El tronco se fusiona de proximal a distal",
+        "Del tronco derivan la aorta y la pulmonar",
+        "Del cono derivan las porciones infundibulares de los ventrículos",
+        "Las válvulas semilunares aparecen justo antes de que se complete la septación troncoconal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las válvulas semilunares aparecen en forma de pequeños tubérculos una vez se ha dividido ya el tronco arterioso, por lo que la opción 4 es falsa (y por tanto correcta)."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Cuál de los siguientes huesos NO forma parte de la pared medial orbitaria?",
+      "opciones": [
+        "Hueso esfenoidal.",
+        "Hueso etmoidal.",
+        "Hueso lagrimal.",
+        "Hueso zigomático."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La pared medial orbitaria está formada por el hueso etmoides, esfenoides, lagrimal y maxilar.\n\nLa pared lateral está formada por el esfenoides y el hueso zigomático.\n\nEl techo o pared superior está formado por el hueso frontal y el esfenoides.\n\nEl suelo o pared inferior está formado por el hueso zigomático, maxilar y palatino."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "Un paciente desarrolla un edema corneal refractario a tratamiento secundario a una cirugía de cataratas. Con respecto a las funciones de las capas de la córnea, señale la respuesta correcta:",
+      "opciones": [
+        "El edema corneal es secundario a daño epitelial durante la cirugía, y en todo caso tiene buen pronóstico.",
+        "El edema corneal es un problema anatómico que no afecta a la calidad visual.",
+        "El estroma corneal desarrolla edema clínicamente significativo cuando las fibrillas de colágeno se separan entre sí más de 1 mm.",
+        "La lesión de las células endoteliales durante la cirugía provoca un fallo de bomba endotelial, acumulándose así un exceso de fluido en el estroma corneal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El edema corneal postcirugía es una complicación a tener en cuenta después de cualquier intervención intraocular en cámara anterior. En la mayoría de las ocasiones se trata de un edema con buen pronóstico y que se resuelve en pocos días. Sin embargo, se puede producir un edema corneal refractario con gran afectación de la agudeza visual. El edema corneal se produce por fallo de las células endoteliales de la córnea, cuya función es reabsorber el exceso de agua intraestromal corneal. Un exceso de agua intraestromal produce una desorganización de las fibrillas de colágeno (aumentando la distancia entre las misma). De este modo se altera la estructura cristalina de la córnea y esta pierde su transparencia."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "La hormona liberadora de gonadotropina (GnRH) es una hormona liberada por neuronas del hipotálamo en el sistema de vasos sanguíneos porta hipofisiario hacia la hipófisis. Es un decapéptido que estimula la liberación de gonadotropinas (hormona luteinizante, LH, y foliculoestimulante, FSH) por parte de la adenohipófisis. Los somas de las neuronas secretoras de GnRH se localizan principalmente en la parte medial del área preóptica del hipotálamo anterior y en el núcleo arcuato (infundibular) y sus terminaciones nerviosas se distribuyen en forma de red hacia la eminencia media adyacente al tallo hipofisario. Se libera de forma pulsátil. Los pulsos rápidos de la hormona GnRH estimulan la secreción de:",
+      "opciones": [
+        "Estrógenos.",
+        "LH.",
+        "Progestágenos.",
+        "FSH."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La GnRH hipotalámica (Hormona Reguladora de la secreción de las Gonadotropinas) estimula en la hipófisis la producción de las gonadotropinas (LH y FSH). La liberación se produce de manera pulsátil, de tal forma que los pulsos lentos sobreestimulan la secreción de FSH, y los rápidos la secreción de LH (RC:2)."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "¿Cuántos pares de arcos arteriales existen?",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Existen seis pares de arcos arteriales, cada uno de los cuales da lugar a una estructura salvo el quinto, que no deja derivados en humanos."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "La gonadotropina coriónica humana, gonadotrofina coriónica humana o HCG es una hormona glicoproteica producida durante el embarazo por el embrión en desarrollo después de la fecundación y posteriormente por el sincitiotrofoblasto. ¿Cuándo es DETECTABLE en suero materno la hormona GCH (gonadotropina coriónica), en caso de embarazo?",
+      "opciones": [
+        "9 días después de la implantación.",
+        "10 días después de la ovulación.",
+        "10 días después de la fecundación.",
+        "9 días después de que se detecte en orina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La HCG se utiliza para el diagnóstico del embarazo, pues se puede detectar en sangre materna a partir del día 24 del ciclo en que se ha producido la fecundación. Teniendo en cuenta que, en un ciclo regular, la ovulación se produce alrededor del día 14, se detectará en sangre 10 días después (RC:2). En orina se detecta más tarde, alrededor del noveno día de retraso del siguiente ciclo. La implantación o nidación se produce entre el sexto y el décimo día posfecundación."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "¿Cuántos tabiques son necesarios para una correcta tabicación del corazón?",
+      "opciones": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La correcta tabicación del corazón requiere de la formación de 6 tabiques: el septum secundum, septum primum, el canal AV izquierdo y derecho, y los septos interventriculares muscular e infundibular."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "La bicuspidización real de una válvula semilunar se produce por:",
+      "opciones": [
+        "Ausencia de desarrollo de uno de los cojines intercalados",
+        "Fusión parcial de dos cojinetes",
+        "Fusión de dos o tres valvas",
+        "Ausencia de cojines conales"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La bicuspidización valvular se produce cuando un cojín intercalar no se desarrolla adecuadamente, de manera que progresan el resto y ocupan su lujar. La fusión parcial de dos cojinetes provoca un rafe (funcionalmente bicúspide, pero no bicúspide real) de longitud variable. La fusión de dos o más valvas provoca la atresia valvular y la ausencia de cojines conales provoca un gran defecto septal que dextropone la válvula aórtica."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Señale el requisito MÍNIMO visual para obtener la licencia de conducir B:",
+      "opciones": [
+        "Se debe poseer, si es preciso con lentes correctoras, una agudeza visual binocular de al menos 0,5.",
+        "Se debe poseer, si es preciso con lentes correctoras, una agudeza visual binocular de al menos 0,8.",
+        "El peor ojo deberá tener agudeza visual ≤ 0,3 en un ojo, con o sin lentes correctoras, debida a pérdida anatómica o funcional de cualquier etiología.",
+        "La diplopía permite la renovación de la licencia mientras se elimine con la oclusión monocular."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta difícil sobre los requerimientos para conducir un coche. Los requisitos mínimos resumidos son: se debe poseer, si es preciso con lentes correctoras, una agudeza visual binocular de, al menos, 0,5 (respuesta 1 correcta). En líneas generales, una persona con visión de 0,5 en un ojo y 0,1 en otro puede obtener el carnet de conducir."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Los folículos ováricos son las unidades básicas de la biología reproductiva femenina. Consisten en una célula gamética, (el ovocito) rodeada de células diploides denominadas de la granulosa, y por fuera de estas se encuentran las células de la teca. Durante su desarrollo, esta unidad biológica llamada folículo, genera una estructura llamada antro, que se produce por la acumulación de líquido en su interior. ¿Cuál de las siguientes afirmaciones relativas al ciclo ovárico es INCORRECTA?",
+      "opciones": [
+        "En la fase lútea predomina la producción de progesterona.",
+        "La ovulación tiene lugar en la fase lútea.",
+        "En la fase folicular, que viene a durar 14 días, se produce la maduración del folículo.",
+        "Los folículos primordiales que proliferan al inicio del ciclo y que no evolucionan, acabarán dando lugar a los cuerpos fibrosos."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Los cambios que se producen en el ovario en las diferentes etapas del ciclo son:\n- Fase Folicular: la FSH ha estimulado en el ovario el crecimiento de un folículo predominante (folículo de De Graaf). Con una duración de unos 14 días.\n- Fase Ovulatoria: ocurre como consecuencia directa del pico LH, el día 14 del ciclo (opción 2 incorrecta, por lo que la marcamos).\n- Fase Lútea: el folículo de De Graaf se colapsa y pasa a dar el cuerpo lúteo, con predominancia de progesterona.\n- Luteólisis o menstruación: los folículos primordiales que proliferan al inicio del ciclo, dando lugar al folículo dominante (folículo de De Graaf); después se transforma en cuerpo lúteo (durante la fase lútea), que se rompe (luteólisis) si no existe fecundación, y da lugar al cuerpo Albicans, que se atresia (cuerpos fibrosos)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "El conducto arterioso depende de:",
+      "opciones": [
+        "Cuarto arco",
+        "Quinto arco",
+        "Sexto arco",
+        "Séptimo arco"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El conducto arterioso es una estructura que depende del sexto arco aórtico, concretamente izquierdo."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "A partir de la ovulación, la temperatura corporal sube unas décimas debido a que hormona:",
+      "opciones": [
+        "Estrógenos",
+        "Progesterona",
+        "Andrógenos",
+        "LH"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Entre otros, uno de los efectos de la progesterona es que la temperatura corporal sube unas décimas a partir de la ovulación, debido a la progesterona."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "La arteria central de la retina es rama de la:",
+      "opciones": [
+        "Arteria infraorbitaria.",
+        "Arteria lacrimal.",
+        "Arteria oftálmica.",
+        "Arteria etmoidal anterior."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Es una pregunta que aunque parece difícil por ser de anatomía solo necesitas tener claro que la vascularización del globo ocular deriva de la arteria oftálmica que es la primera rama de la carótida interna. La arteria oftálmica da como ramas la arteria central de la retina y las arterias ciliares posteriores y anteriores. Recuerda que la oclusión de la arteria central de la retina tiene como origen muchas veces trombos en el territorio de la oftálmica o de la arteria carotídea."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "El cristalino es una estructura que embriológicamente deriva:",
+      "opciones": [
+        "Del ectodermo superficial.",
+        "Del neuroectodermo.",
+        "De la cresta neural.",
+        "Del endodermo."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La embriología ocular no se ha preguntado nunca. Además del cristalino, del ectodermo superficial, también derivan el epitelio corneal, epidermis palpebral, glándula lagrimal y conjuntiva palpebral. Además en el ojo podemos encontrar estructuras que derivan tanto del neuroectodermo (retina, nervio óptico...), cresta neural, y del mesodermo (músculos extraoculares y endotelio vascular)"
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Una de las siguientes opciones no forma parte del tubo único del desarrollo cardiológico embrionario. Señálela:",
+      "opciones": [
+        "Monocapa de células endocárdicas",
+        "Gelatina acelular",
+        "Células musculares",
+        "Monocapa de células ectodérmicas tipo pericardio visceral"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El tubo único consta de una monocapa interna de células endocárdicas, una capa media de gelatina cardiaca acelular y una capa externa de máximo 2 células de grosos de miocardiocitos. Por tanto la opción correcta es la 4."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Indique de qué circulación se nutre el epitelio pigmentario de la retina:",
+      "opciones": [
+        "La arteria central de la retina.",
+        "Ciliares posteriores largas.",
+        "Ciliares posteriores cortas.",
+        "Ciliares anteriores largas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La arteria central de la retina entra en el ojo a través de la lámina cribosa y aparece por el centro de la papila. Se divide en ramas superior e inferior, cada una de las cuales se divide en nasal y temporal. No hay anastomosis entre las ramas. En la retina discurren por la capa de fibras nerviosas. Nutren prácticamente toda la retina, excepto la capa de los fotorreceptores y epitelio pigmentario, que son nutridas por la coroides. Las arterias ciliares posteriores (penetran en el ojo alrededor del nervio óptico) son de dos tipos: cortas, son varias, que forman plexos al entrar, dando lugar a la coriocapilar; y largas, son dos, que llegan hasta el cuerpo ciliar sin dar ramas. Las arterias ciliares anteriores son ramas terminales de las arterias de los músculos rectos. Penetran en el ojo delante de la inserción de los cuatro rectos, y junto con las arterias ciliares posteriores largas, forman los círculos arteriales mayor y menor del iris, con ramas para la coroides periférica, cuerpo ciliar e iris."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "¿Cómo se denominan las glándulas sebáceas de la areola mamaria que se hacen más prominentes durante el embarazo?:",
+      "opciones": [
+        "Acinos.",
+        "Tubérculos de Montgomery.",
+        "Mamilas.",
+        "Células de Bol!."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las glándulas o tubérculos de Montgomery son glándulas sebáceas localizadas en las areolas rodeando al pezón, que producen secreciones sebáceas que mantienen la areola y el pezón lubricado y protegido. Durante el embarazo y la lactancia los tubérculos de Montgomery tienen un aspecto más marcado."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Los derivados del seno venoso son todos los siguientes excepto uno. Señálelo:",
+      "opciones": [
+        "Porción intercava de la aurícula derecha",
+        "Válvulas de la vena cava inferior",
+        "Válvulas de Vieussens",
+        "Septum secundum"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las estructuras que dependen del seno venoso son las tres primeras respuestas junto al seno coronario, mientras que el septum secundum es completamente independiente de esta estructura (opción 4 correcta)"
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Durante la gestación existen diferentes cambios fisiológicos en la mujer, la mayoría de ellos influidos por el crecimiento del feto y por los cambios hormonales del embarazo. ¿Cuál de las siguientes hormonas puede encontrarse en plasma materno a partir de los 5-6 días después de la implantación y va aumentando a lo largo del embarazo hasta la semana 34-36?",
+      "opciones": [
+        "Hormona gonadotrópica coriónica.",
+        "Inhibina A.",
+        "Alfa-fetoproteína.",
+        "El lactógeno placentario (HPL)."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El lactógeno placentario (HPL) es una hormona exclusivamente placentaria que se sintetiza en el sincitiotrofoblasto; puede encontrarse en plasma materno a partir de los 5-6 días después de la implantación y va aumentando a lo largo del embarazo hasta la semana 34-36. Entre sus acciones destacan la de asegurar un suministro constante de glucosa al feto y movilizar grasas, convirtiéndolas en fuente de energía."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿Dónde se realiza la primera sinapsis de la vía simpática eferente del reflejo fotomotor?:",
+      "opciones": [
+        "En la médula espinal.",
+        "En el ganglio ciliar.",
+        "En el ganglio esfenopalatino.",
+        "En el ganglio cervical superior."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Tres neuronas constituyen la via simpática. La primera de ellas se sitúa en el hipotálamo, y hace sinapsis con la segunda neurona en el centro cilioespinal de Budge (entre C8 y D2), por ello la primera sinapsis se lleva a cabo en la medula espinal, tal y como afirma la opción número 1. Los axones de esta segunda neurona, conectan con la tercera neurona en el ganglio cervical superior. Desde el ganglio cervical superior los axones de esta tercera neurona avanzan formando un plexo alrededor de la arteria carótida. La via parasimpática por otro lado, está constituída por dos neuronas, la primera de ellas se sitú a en el núcleo de Edinger- Westphal, y su axón forma parte del nervio motor ocular común (III par craneal); en tanto que la segunda neurona asienta en el ganglio ciliar."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Entre las complicaciones de la uveítis, NO incluiría:",
+      "opciones": [
+        "Cataratas.",
+        "Dacriocistitis.",
+        "Glaucoma.",
+        "Edema macular."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta puede resolverse con extrema sencillez si tienes clara la anatomía del ojo. Conociéndola, es imposible fallarla, ya que en una inflamación intraocular las estructuras que pueden afectarse son precisamente las que se encuentran dentro del ojo. En cambio, la afectación de las vías lagrimales carece de sentido, porque son estructuras extraoculares. El resto de opciones de respuesta no es que sean frecuentes pero, desde luego, son posibles si se produce inflamación en su vecindad."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "¿Cuál de las siguientes estructuras forma parte de los límites de la cámara posterior?:",
+      "opciones": [
+        "Cara anterior del iris y cara anterior del cristalino.",
+        "Cara anterior del iris y cara posterior del cristalino.",
+        "Cara posterior del iris y cara anterior del cristalino.",
+        "Cara posterior de iris y cara posterior del cristalino."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La pregunta es de nivel básico. Has de dominar el circuito del humor acuoso: desde su producción en los procesos ciliares pasa a la cámara posterior, delimitada por la cara anterior del cristalino y la cara posterior del iris y de ahí, a través de la pupila accede a la cámara anterior, delimitada ésta por la cara posterior de la córnea y anterior del iris. La reabsorción del humor acuoso tiene lugar en el ángulo iridocorneal a través del trabeculum, el cual drena en el canal de Schlemm y este a su vez en las venas epiesclerales."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "De anterior a posterior, en el párpado nos encontramos los siguientes tejidos:",
+      "opciones": [
+        "Piel, orbicular, tarso, conjuntiva.",
+        "Piel, tarso, orbicular, conjuntiva.",
+        "Piel, tarso, conjuntiva, orbicular.",
+        "Piel, orbicular, conjuntiva, tarso."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El músculo orbicular se encuentra inmediatamente bajo la piel. El tarso se encuentra en el músculo orbicular y la conjuntiva, siendo ésta la última la estructura más posterior."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "En la esteroidogénesis, las células de la teca, bajo la acción de la LH, producen:",
+      "opciones": [
+        "Estrógenos.",
+        "Andrógenos.",
+        "Progesterona.",
+        "Las opciones a y b son ciertas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En la teca se producen fundamentalmente andrógenos que pasan a la granulosa donde son convertidos en estrógenos."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Respecto a las uveítis posteriores, marque la respuesta correcta:",
+      "opciones": [
+        "Se incluyen en uveítis posteriores las inflamaciones del cuerpo ciliar y de la coroides",
+        "La primera causa en nuestro medio es la idiopática",
+        "Con elevada frecuencia no es necesario examinar el fondo de ojo para llegar al diagnóstico",
+        "La clínica habitual consiste en disminución de la agudeza visual y miodesopsias"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las uveítis anteriores comprenden las inflamaciones del iris y del cuerpo ciliar (iritis si es solo el iris, o iridociclitis si se afectan ambos, en la práctica clínica hablamos de iridociclitis porque nose puede distinguir de la iritis), mientras que las coroiditis (o coriorretinitis) conformas las uveítis posteriores. Las uveítis intermedias consisten en la inflamación de la pars plana, parte más posterior del cuerpo ciliar (respuesta 1 falsa). La primera causa de uveítis posterior es el toxoplasma (30-50%, respuesta 2 falsa), siendo la idiopática la más frecuente de las causas de uveítis anterior. Para diagnosticar una uveítis posterior es necesario examinar el fondo de ojo para llegar al diagnóstico (respuesta 3 falsa), y la clínica habitual consiste en baja visión acompañada de miodesopsias (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Teniendo en cuenta que la uveítis intermedia es la forma de presentación más típica de uveítis en pacientes con esclerosis múltiple, señale la FALSA :",
+      "opciones": [
+        "Puede preceder o seguir al diagnóstico de EM.",
+        "Frecuentemente asocia vasculitis solo angiográfica, o con manguito inflamatorio blanquecino perivascular.",
+        "Su presencia puede ser un biomarcador para la severidad de la afectación por EM. Se ha relacionado la presencia de uveítis en pacientes con EM a un mayor índice de discapacidad.",
+        "Es mas frecuente en varones de edad media."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es mas frecuente en mujeres y su edad media de presentación es de 25-30años. El resto de enunciados son correctos."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "¿Cuál de las siguientes afirmaciones sobre la ovogénesis es CIERTA?",
+      "opciones": [
+        "Todas la ovogonias completan la maduración.",
+        "Las células germinales se originan en las gónadas.",
+        "La primera división meiótica se detiene en la fase de metafase.",
+        "La segunda división meiótica se realiza en la trompa y solo tiene lugar si ha habido fecundación."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "RESPUESTA D: Las células germinales tienen su origen extragonadal en la pared del saco vitelino. Solo unos cientos de ovogonias se transforman en ovocitos de primer orden. Los ovocitos sufren dos divisiones meióticas la primera división se detiene en la fase de profase, en el estadio de diploteno y no se completa hasta la pubertad. La segunda división meiótica se realiza en la trompa y solo tiene lugar si ha habido ovulación y el ovocito de segundo orden ha sido penetrado por un espermatozoide."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "Las atresias tricúspide o mitral están causadas por:",
+      "opciones": [
+        "Fusión parcial de los cojines endocárdicos dorsal y ventral",
+        "Ausencia completa de fusión",
+        "Fusión incorrecta con la porción muscular del septo IV",
+        "Fusión de los cojines al canal AV"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Las atresias de VT o VM se deben a la fusión de los cojines al canal AV en embriones jóvenes. La fusión parcial dorsoventral supone una persistencia del canal AV, mientras que la fusión incorrecta con el septo IV causa una CIV y la ausencia completa de fusión causa una gran CIA de localización baja."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "La arteria pulmonar izquierda ausente es el resultado de la desaparición de:",
+      "opciones": [
+        "Parte proximal del sexto arco izquierdo",
+        "Parte distal del sexto arco derecho",
+        "Parte proximal del quinto arco derecho",
+        "Parte distal del quinto arco izquierdo"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La ausencia de la arteria pulmonar izquierda se debe a una desaparición de la parte proximal del sexto arco aórtico izquierdo."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "¿Cuándo comienza la espermatogénesis?",
+      "opciones": [
+        "Hacia el final del tercer mes de desarrollo embrionario.",
+        "Aproximadamente en el momento del nacimiento.",
+        "En la pubertad.",
+        "Durante la infancia."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La maduración de los espermatozoides comienza en la pubertad. Comprende todos los fenómenos mediante los cuales los espermatogonios se transforman en espermatozoides."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Qué hormona induce los cambios secretores del epitelio y las glándulas endometriales durante el ciclo endometrial?",
+      "opciones": [
+        "La LH.",
+        "La progesterona.",
+        "La FSH.",
+        "La tiroxina."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La progesterona induce los cambios secretorios del epitelio y de las glándulas, la transformación progestacional del estroma y los cambios vasculares de la segunda fase del ciclo endometrial."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "El corazón comienza a latir a partir de la semana:",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El corazón es un órgano de origen mesodérmico, que comienza a latir a partir de los 21 días aproximadamente (3 semanas, opción correcta la 3)"
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "Señale la respuesta correcta con respecto a la anatomía palpebral.",
+      "opciones": [
+        "El músculo elevador del párpado superior se inserta a nivel del tarso a través de su aponeurosis y está inervado por el VII par craneal.",
+        "El músculo de Muller es un músculo accesorio para la elevación del párpado superior y tiene una inervación simpática.",
+        "El tarso es una estructura de consistencia acuosa que se relaciona íntimamente con el septum orbitario.",
+        "Los tres puntos lagrimales se encuentran en el margen más lateral de ambos párpados y drenan la lágrima hacia el saco lagrimal para terminar desembocando en el meato inferior"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El músculo elevador del párpado superior está inervado por el III par craneal.\nEl tarso es una estructura de consistencia cartilaginosa que se encuentra tanto a nivel del párpado superior como inferior y tiene una función estrcutural.\nLos puntos lagrimales son dos (uno en cada párpado) y se encuentran a nivel nasal del borde palpebral. Se continúan con los canalículos lagrimales, canalículo lagrimal común, saco lagrimal, conducto lacrimonasal para terminar drenando en el meato inferior.\nLa respuesta 2 es correcta."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "La membrana de Descemet, de importancia capital en la fisiología del ojo, se encuentra en:",
+      "opciones": [
+        "Entre el epitelio pigmentario y los fotorreceptores de la retina.",
+        "Entre el humor vítreo y la retina.",
+        "Entre el endotelio y el estroma corneal.",
+        "Entre el estroma y el epitelio corneal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta de anatomía ocular no tiene especial importancia. Simplemente debes recordar que la córnea esta compuesta de cinco capas que de fuera a dentro son: epitelio corneal, membrana de Bowman, estroma, membrana de Descemet y el endotelio. La membrana de Descemet es una lámina acelular compuesta de colágeno, de hialina y que se considera como una condensación del estroma que actúa como membrana basal del endotelio."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "Una de las siguientes condiciones NO presenta defecto pupilar aferente relativo. Señálela:",
+      "opciones": [
+        "Glaucoma crónico simple avanzado, muy asimétrico con defecto medio en campo visual de OD de 28 dB y en OI de 3 dB.",
+        "Oclusión de arteria central de la retina, con AV < 0,1.",
+        "DMAE húmeda, con AV < 0,1.",
+        "Neuropatía óptica isquémica arterítica con AV < 0,1."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El defecto pupilar aferente relativo (DPAR) aparece en aquellas enfermedades que comprometen de forma importante la sensibilidad a la luz de un ojo, con afectación extensa de su campo visual; por ello, es condición imprescindible que exista una asimetría importante en la función visual de ambos ojos. Por esta razón en el glaucoma crónico, que es una enfermedad bilateral, es infrecuente, a no ser que se trate de una forma muy asimétrica como la que nos describen. Aparece en enfermedades retinianas y neuropatías ópticas. En estos casos, al iluminar el ojo enfermo obtenemos una menor miosis en ambos ojos que al iluminar el ojo sano. De las enfermedades que nos presentan en las opciones de respuesta, la única que no afecta de forma extensa al campo visual es la DMAE, ya que afecta únicamente al campo visual central y por ello es improbable que una DMAE produzca un DPAR significativo (marcamos la opción de respuesta 3)."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "La blefaritis es una de las patologías que más frecuentemente se diagnostica en la oftalmología. Produce una serie de síntomas conocidos como ojo seco evaporativo, que consisten en ojo rojo leve, sensación de cuerpo extraño, lagrimeo y picor ocular, sobre todo de predominio matutino. Existen dos tipos: anterior y posterior. Con respeto a la blefaritis posterior, las glándulas más implicadas en la fisiopatología son:",
+      "opciones": [
+        "Glándulas de Krause",
+        "Glándulas de Holshenhorf",
+        "Glándulas de Castroviejo",
+        "Glándulas de Meibomio"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La blefaritis es efectivamente una de las patologías más frecuentes de la oftalmología. La blefaritis posterior se localiza a nivel de las glándulas de Meibomio, que secretan el componente graso de la película lagrimal y la estabilizan, evitando así que se produzca una evaporación precoz de la misma. La inflamación y/u obstrucción de las mismas produce un cuadro sintomático que se conoce como ojo seco evaporativo.\nLas glándulas de Krause son responsables de la secreción acuosa basal; las otras dos respuestas no existen."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "De las siguientes hormonas cual se produce en el hipófisis?",
+      "opciones": [
+        "A/ Estrógenos",
+        "B/ Progestágenos",
+        "C/ Folículo estimulante ( FSH)",
+        "D/ Andrógenos"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "En la hipófisis la producción de la hormona luteinizante [LH] y hormona estimulante del folículo [FSH], es decir, de las gonadotropinas"
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "La primera estructura cardiaca en tabicarse es:",
+      "opciones": [
+        "Las aurículas",
+        "El tronco-cono",
+        "Los ventrículos",
+        "Las cavidades derechas"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El segmento troncoconal del corazón es la primera estructura en tabicarse, completándose en embriones de aproximadamente 9 mm. Esta tabicación se produce a partir de dos crestas enfrentadas desde los extremos superior derecho e inferior izquierdo."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "¿De dónde deriva el cristalino?",
+      "opciones": [
+        "Neuroectodermo",
+        "Ectodermo superficial.",
+        "Cresta neural o mesénquima.",
+        "Mesodermo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Del ectodermo superficial derivan el epitelio corneal y el cristalino.\n\nEl endotelio y estroma corneal derivan de la cresta neural.\n\nLos músculos extraoculares derivan del mesodermo.\n\nLa retina, el nervio óptico, los músculos esfínter y dilatador del iris así como el epitelio posterior del iris y del cuerpo ciliar derivan del neuroectodermo."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "La córnea es un tejido que combina trasparencia y una alta resistencia. Respecto a la histología que hace posible estas propiedades, señale la correcta:",
+      "opciones": [
+        "1. Tiene cinco capas, de fuera a dentro las capas que la componen son: epitelio, membrana de Descemet, estroma, membrana de Bowman, endotelio.",
+        "2. La capa interna recibe el nombre de endotelio. Las células endoteliales tienen alta capacidad mitótica y se encargan de mantener la córnea deshidratada.",
+        "3. La capa más gruesa es el estroma.",
+        "4. El estroma está compuesto por haces de colágeno altamente ordenados, mucopolisacáridos y es acelular."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta repasa varios aspectos de la histología corneal. La primera opción enumera las capas de la córnea y es incorrecta, porque la membrana de Descemet es la membrana basal del endotelio corneal y la membrana de Bowman es la membrana basal del epitelio corneal.\n\nLa segunda opción se centra en la función del endotelio corneal. Es cierto que estas células tienen por función mantener la córnea deshidratada, pero es incorrecto que estas células tengan alta capacidad mitótica. Las células endoteliales en principio no tienen capacidad para replicarse.\n\nLa opción 4 es incorrecta porque el estroma no es acelular, sino que contiene queratocitos. Este es el nombre que reciben los fibroblastos que residen en la córnea. Producen el colágeno y los mucolpolisacáridos y se encargan de la cicatrización cuando el estroma sufre una agresión.\n\nLa respuesta correcta es la tercera, sin lugar a dudas el estroma constituye la capa más gruesa de la córnea."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "En relación a las células de la retina, señale la respuesta correcta:",
+      "opciones": [
+        "Los conos son los fotorreceptores encargados de la visión discriminativa, por ello abundan en la retina periférica.",
+        "La capa 8 de la retina corresponde a las células ganglionares, cuyos axones convergen para formar en nervio óptico.",
+        "El epitelio pigmentario es la capa metabólica de la retina, se sitúa cerca del vítreo y se encarga del metabolismo de los fotorreceptores.",
+        "La capa de fibras nerviosas de la retina constituye la capa más externa de la retina, próxima a la coriocapilar, y su función guarda una estrecha relación con el glaucoma."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "En cuanto a las capas de la retina, conviene saber que existen dos tipos de fotorreceptores; conos y bastones, que se sitúan en la parte externa de la retina. Los conos se encargan de la visión diurna y discriminativa y por tanto abundan en la mácula. Los bastones se encargan de la visión nocturna y periférica y su mayor concentración es extramacular. Otra capa a tener en cuenta es la capa de las célululas ganglionares de la retina (capa 8) y la de sus axones, las fibras nerviosas de la retina (capa 9). Las fibras nerviosas de la retina convergen para formar el nervio óptico a nivel de la papila óptica y se dirigen al cuerpo geniculado lateral. Por último, el epitelio pigmentario de la retina es la capa más externa de la retina y tiene por función el sostén metabólico de los fotorreceptores."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Paciente que presenta una degeneración macular asociada a la edad (DMAE) y se encuentra en tratamiento con inyecciones intravítreas de fármacos anti-VEGF, refiere una disminución brusca e indolora de la visión en el ojo tratado a los cinco días de la última inyección. En este caso debemos de pensar que:",
+      "opciones": [
+        "Ha tenido una hemorragia vítrea: control en una semana.",
+        "Ha desarrollado una catarata traumática por la inyección: programo cirugía.",
+        "Probablemente se deba a la hipertensión ocular tras la inyección: administro tratamiento hipotensor.",
+        "Probablemente se trate de una endoftalmitis: precisa tratamiento antibiótico y cirugía urgente."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Si bien todas las opciones de respuesta son causas de disminución de la visión tras las inyecciones intravítreas, la causa más probable de pérdida brusca de visión unos días después de la inyección es una endoftalmitis, que precisa tratamiento urgente por el riesgo de pérdida del ojo (respuesta 4 correcta)."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "La preovulación es la fase que se produce tras la menstruación y, como indica su nombre, antes de la ovulación. En ella, el ovario produce unas hormonas llamadas estrógenos, que se encargan de hacer que uno de los óvulos que se encuentran en su interior madure. Normalmente se da entre los días 6 y 13 del ciclo, aunque pueden variar incluso en la misma mujer, debido a una gran variedad de factores que van desde la pérdida de peso al estrés emocional, a enfermedades, al exceso de ejercicio o incluso la dieta. Es una fase dominada por los estrógenos. Con respecto a los estrógenos, señale cuál de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "Tienen una curva de liberación unimodal.",
+        "Bloquean la acción de la prolactina sobre la mama.",
+        "Se sintetizan en la granulosa.",
+        "Existe un pico de estrógenos 24-36 horas antes de la ovulación."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Debes recordar los efectos de las hormonas en el ciclo genital femenino. Los estrógenos tienen una curva de liberación bimodal: crecen hasta el pico preovulatorio (24-36 horas antes de la ovulación) y tiene otro pico menor en la fase lútea. Son tróficos para todo el aparato genital. A nivel local inducen receptores de FSH. Niveles bajos y moderados inhiben la secreción de FSH y niveles altos tiene un efecto gatillo sobre LH. Estimulan el crecimiento y la proliferación de los órganos sexuales femeninos. Bloquean a la PRL en la excreción de la leche. La disminución de los niveles circulantes de estrógenos tiene que ver en la causa de la osteoporosis postmenopáusica."
+    },
+    {
+      "paginaPdf": 39,
+      "enunciado": "En la toma de presión intraocular (PIO):",
+      "opciones": [
+        "Obtenida de forma digital no tiene valor.",
+        "Es necesario fluoresceína siempre.",
+        "La PIO es constante durante todo el día.",
+        "El tonómetro de Goldmann actúa por aplanamiento corneal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "La PIO digital aporta información sobre el tono ocular,además si comparamos un ojo con respecto al otro, sabremos si hay un aumento/disminución del tono o es simétrico. Es orientativa dada su inexactitud.\n\nSi se realiza la toma de tensión intraocular mediante el tonómetro de aireo neumotonómetro, no es necesaria la instilación de fluoresceína (sí que será necesario para la toma mediante tonómetro de Goldman).\n\nLa PIO sigue un ritmo circadiano que depende del ritmo sueño-vigilia. Su máximo se sitúa entre las 8-11 de la mañana. La variación durante el día puede ser de hasta 3-5 mmHg.\n\nEl tonómetro de Goldman es un tónometro de contacto que actúa por el principio de Imbert-Fick (P= F/A) calculando la presión intraocular mediante aplanamiento corneal."
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "materia": "ginecologia",
+  "paginaInicio": 20,
+  "paginaFin": 38,
+  "anomalias": [
+    "p22: en la pregunta de la microtoma de sangre fetal el comentario atribuye a la 'opción 4' el colocar a la gestante en decúbito lateral, pero la opción 4 listada es 'Ayudar instrumentalmente en el expulsivo para acortarlo'",
+    "p23: '¿Cuál es el síntoma o signo más frecuente del cáncer de mama?' tiene Resp. Correcta: 2 (Nódulo mamario) pero el comentario afirma 'Así, la opción 3 es la correcta' y descarta explícitamente la 2; se respeta la clave 2",
+    "p23: el comentario de esa misma pregunta afirma 'el cáncer de mama suele manifestarse por dolor', dato médicamente incorrecto (el nódulo del cáncer de mama es característicamente indoloro)",
+    "p27: la pregunta sobre anticoncepción en el puerperio numera sus opciones 1-4 pero la opción 4 dice 'b y c son correctas', refiriéndose a letras que no existen (equivaldría a 2 y 3)",
+    "p28: el comentario de la pregunta sobre preeclampsia es una lista con epígrafe numerado ('1. Vía del parto') y viñetas; se linealizó en párrafos",
+    "p29: el comentario de los factores de riesgo de cáncer de ovario es una lista de guiones; se linealizó en párrafos",
+    "p34: '¿Cuál de las siguientes afirmaciones respecto a la menopausia es FALSA?' tiene Resp. Correcta: 4 pero el comentario cierra el razonamiento con '(RC: 5)' y solo hay 4 opciones"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 20,
+      "enunciado": "Mujer de 16 años, que acude por presentar signos clínicos de hiperandrogenismo. ¿Qué patrón del ciclo menstrual esperaría encontrar?",
+      "opciones": [
+        "Oligomenorrea",
+        "Polimenorrea",
+        "Menorragia",
+        "Hipermenorrea"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En una paciente adolescente con androginismo, la causa más frecuente a descartar es el SOP, cuya sintomatología es muy variable, las manifestaciones clínicas típicas son: anovulación, oligomenorrea o amenorrea, hiperandrogenismo e infertilidad."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Mujer de 41 años portadora de un dispositivo intrauterino (DIU) desde hace 8 años que presenta fiebre de 38.8 Cº y dolor abdominal de 24 horas de evolución con leucocitosis. La radiología pone de manifiesto engrosamiento del ciego, apéndice y ovario derecho con edema de la grasa adyacente. ¿Cuál es la conducta a seguir en la paciente?",
+      "opciones": [
+        "Tomar TAC Simple y de contraste, posteriormente extracción de DIU.",
+        "Tomar cultivos, iniciar tratamiento antibiótico empírico y extraer el DIU.",
+        "Extracción de DIU, solicitar USG pélvico, antibioticoterapia.",
+        "Controlar hemorragia, tratamiento sintomático y TAC simple."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El objetivo del tratamiento es aliviar el dolor y conservar la función de las trompas: sólo el diagnóstico y el manejo precoz reducirán el número de mujeres que sufren las secuelas. Se toman muestras para cultivo y se comienza tratamiento antibiótico empírico."
+    },
+    {
+      "paginaPdf": 20,
+      "enunciado": "Primigesta de 32 años que acude a urgencias refiriendo sangrado genital y prueba de embarazo en farmacia positiva. Se realiza exploración ginecológica y los hallazgos ecográficos y analíticos sugieren el diagnóstico de mola vesicular. ¿Cuál sería el tratamiento de elección?:",
+      "opciones": [
+        "Quimioterapia con Metrotexate.",
+        "Legrado por aspiración.",
+        "Histerectomía simple (conservando ovarios).",
+        "Histerectomía radical."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta que hace referencia a la mola hidatiforme, que consiste en una proliferación excesiva del trofoblasto junto con edema de vellosidades.\n\nEl curso clínico supone un embarazo con tamaño uterino mayor que el que corresponde por amenorrea con metrorragia del primer trimestre.\n\nLa prueba diagnóstica de sospecha es la ecografía, en la que se aprecia una imagen característica en copos de nieve que corresponde a vesículas hidrópicas.\n\nEl diagnóstico de certeza nos lo da la anatomía patológica. El tratamiento consta de 2 partes: evacuación de la mola y seguimiento posterior de la enfermedad.\n\nEl tratamiento evacuador de elección es el legrado por aspiración.\n\nDebe evitarse la histerectomía, dado que se trata de una mujer joven nulípara."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Mujer de 28 años que acude a una consulta preconcepcional. Como hallazgo ecográfico se visualiza una imagen nodular a nivel miometrial de 3 cm compatible con mioma intramural. Qué recomendación se debería hacer a esta paciente:",
+      "opciones": [
+        "Miomectomía por histeroscopia, por la posibilidad de crecimiento del mioma durante el embarazo.",
+        "Debido a la probabilidad de torsión del mioma durante la gestación, es preciso indicar una miomectomía por vía laparoscópica.",
+        "Tratamiento con análogos de GnRH, para reducir los sangrados por el mioma.",
+        "Actitud expectante, con controles ecográficos hasta conseguir gestación y durante la misma."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Opción 1 incorrecta: por vía histeroscópica sólo podríamos abordar los miomas submucosos. Opción 2 incorrecta: los miomas que pueden torsionarse son los subserosos pediculados. Opción 3 incorrecta: la paciente no presenta sangrado abundante, en ese caso podría valorarse el tratamiento con acetato de ulipristal que presenta menos efectos secundarios."
+    },
+    {
+      "paginaPdf": 21,
+      "enunciado": "Respecto al mecanismo de acción de los anticonceptivos orales se puede afirmar que:",
+      "opciones": [
+        "Actúan directamente en la hipófisis",
+        "El pico de los estrógenos se produce de todas maneras",
+        "La inhibición de la ovulación se debe al componente estrogénico y progesteronico",
+        "Disminuyen la capacidad de la hipófisis de sintetizar GnRH"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los esteroides anticonceptivos inhiben la ovulación por su acción sobre el hipotálamo y sobre los centros nerviosos superiores, interrumpiendo así la producción de hormonas y la norma rítmica de la secreción de gonadotropina que usualmente hace que la ovulación no ocurra. Con las fórmulas combinadas y secuenciales, el ovario se torna inactivo por falta del estímulo de las gonadotropinas. El componente estrogénico inhibe la ovulación, los progestágenos puros disminuyen la frecuencia de ésta; ambos actúan sinérgicamente sobre el hipotálamo."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "Secundípara en la 38 semanas de gestación que comienza con dinámica de parto. Entre sus antecedentes obstétricos destaca la presencia de cesárea anterior por sufrimiento fetal agudo. Se hace un registro cardiotocográfico que demuestra una frecuencia cardíaca de 105 lpm, con baja variabilidad y deceleraciones tardías en el 10% de las contracciones. Se hace una microtoma de sangre fetal con resultado de 7,25. ¿Cuál de las siguientes actuaciones está contraindicada?:",
+      "opciones": [
+        "Toma de pH materno para descartar acidosis materna.",
+        "Aumentar el goteo de oxitocina para abreviar el expulsivo.",
+        "Repetir microtoma en 15-20 minutos.",
+        "Ayudar instrumentalmente en el expulsivo para acortarlo."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Caso clínico fácil sobre la microtoma fetal. Se nos presenta a una gestante a término que está de parto con cesárea anterior. Ante la presencia de un RCTG con sospecha de sufrimiento fetal (bradicardia fetal, deceleraciones tardías y baja variabilidad) se procede a la microtoma que nos da un valor prepatológico (entre 7,20 y 7,25). Para descartar que una de las causas de acidosis fetal no sea una acidosis materna, debemos estudiar el pH materno (opción 1). Como el resultado del pH es prepatológico, siempre debemos obtener una nueva toma para observar una recuperación o un empeoramiento fetal (opción 3). Colocar a la gestante en decúbito lateral, preferiblemente izquierdo siempre es aconsejable ya que así evitamos la compresión de la cava (opción 4). Otra actitud correcta es abreviar el periodo expulsivo cuando se alcance un tercer plano con un fórceps, para así evitar mayor sufrimiento fetal. La opción que debemos elegir es la 2, ya que si aumentamos la dosis de oxitocina, aumentarán las contracciones y por consiguiente el flujo uteroplacentario disminuirá y aumentará la acidosis fetal. Bibliografía: Manual CTO 4ª Ed. Ginecología y Obstetricia: Capítulo 22.4, pág. 37."
+    },
+    {
+      "paginaPdf": 22,
+      "enunciado": "De los siguientes factores, ¿cuál NO se considera de riesgo para el cáncer de mama?:",
+      "opciones": [
+        "Fallo ovárico precoz.",
+        "Síndrome de Li-Fraumeni.",
+        "Raza blanca.",
+        "Historia familiar de cáncer mamario."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "De las opciones que nos ofrecen, tal vez tuvieses dudas con las opciones 2 y 4.\n\nEl síndrome de Li- Fraumeni implica una mutación en el gen que codifica la proteína p53, lo que predispone en gran medida al padecimiento de tumores muy diversos. En cuanto a la opción 4, las lesiones proliferativas con atipias son las que más predisponen al cáncer de mama en la mastopatía fibroquística. Sin embargo, las proliferativas sin atipias también implican cierto riesgo, aunque no tan elevado. Las que no predisponen al cáncer de mama son las lesiones no proliferativas.\n\nLa solución correcta es la 1. El fallo ovárico precoz no se ha relacionado con el cáncer de mama, ya que supone un acortamiento de la edad fértil y, por ello, menor exposición a estrógenos por parte de la glándula."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "En relación al cáncer vulvar, señale lo incorrecto:",
+      "opciones": [
+        "Es un carcinoma invasivo de células escamosas",
+        "Se presenta más en la posmenopausia",
+        "Su vinculación es importante en nuliparas",
+        "Su velocidad de avance es lento"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El cáncer de la vulva es poco frecuente. Los factores de riesgo incluyen: Infección por el virus del papiloma humano (VPH o verrugas genitales) en mujeres menores de 50 años. Cambios cutáneos crónicos, como liquen escleroso o hiperplasia escamosa en mujeres de más de 50 años, no se relaciona con la paridad."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "Los estrógenos son hormonas capaces de producir y mantener las características femeninas en la mujer. Su administración produce:",
+      "opciones": [
+        "Aumento de HDL y LDL colesterol",
+        "Aumento de HDL y disminución del LDL colesterol",
+        "Disminución del HDL y aumento del LDL colesterol",
+        "Disminución de los triglicéridos y del HDL colesterol"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El estrógeno presente en todos los preparados comercializados es el etinilestradiol. La dosis es variable oscilando entre 50 y 15 µg diarios. La administración de estrógenos produce cambios en el metabolismo lipídico que mejoran el perfil, y disminuyen el riesgo cardiovascular: disminuye la concentración del colesterol total, la del LDL colesterol y aumenta la concentración del HDL colesterol."
+    },
+    {
+      "paginaPdf": 23,
+      "enunciado": "¿Cuál es el síntoma o signo más frecuente del cáncer de mama?",
+      "opciones": [
+        "Telorragia.",
+        "Nódulo mamario.",
+        "Adenopatía axilar.",
+        "Retracción del pezón."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La forma de inicio más frecuente es asintomática (diagnosticada por cribado mamográfico), pero en esta pregunta se nos pide el síntoma o signo más frecuente.\n\nAsí, la opción 3 es la correcta, ya que la presencia de un nódulo o tumoración es el signo más frecuente (80%).\n\nRecuerda también que el cáncer de mama suele manifestarse por dolor (opción 2 incorrecta).\n\nEl resto de opciones (1, 4 ) nos presentan tumores clínicamente más agresivos o en estadios más avanzados."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "¿Cuál es la indicación fundamental del tratamiento hormonal sustitutivo del climaterio?",
+      "opciones": [
+        "Aliviar los sofocos y síntomas climatéricos.",
+        "Retrasar las lesiones del tejido conjuntivo (prolapso, incontinencia).",
+        "Prevenir las lesiones vasculares.",
+        "Prevenir la osteoporosis."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El motivo fundamental del tratamiento hormonal sustitutivo (THS) no es la prevención cardiovascular ni la de la osteoporosis, sino aliviar los sofocos y el resto de los síntomas relacionados con el climaterio. En el pasado, se creía que la THS podría tener algún papel protector desde el punto de vista cardiovascular, pero algunos estudios demostraron que esto no era así, e incluso se veía un incremento del riesgo. Por otra parte, los estrógenos, aunque son eficaces antirresortivos y disminuyen el riesgo de fractura de cadera, no son el mejor tratamiento para prevención de la osteoporosis y deben considerarse otras alternativas a la THS si es una mujer que no presenta síntomas climatéricos.\n\nEl tratamiento hormonal sustitutivo sólo está indicado en las mujeres sintomáticas, en la mínima dosis eficaz y durante el menor tiempo posible, ya que un efecto secundario importante es el aumento de la incidencia del cáncer de mama, al tratarse de un estímulo estrogénico. Otro riesgo importante al que están expuestas las pacientes usuarias son la cardiopatía isquémica y el tromboembolismo venoso y pulmonar."
+    },
+    {
+      "paginaPdf": 24,
+      "enunciado": "En la circulación materna durante el embarazo ocurren los siguientes fenómenos, EXCEPTO:",
+      "opciones": [
+        "Aumento de la masa sanguínea.",
+        "Disminución de los valores y de la actividad de los factores plasmáticos de la coagulación.",
+        "Aumento de la frecuencia cardíaca.",
+        "Se produce leucocitosis sin infección."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Pregunta sobre los cambios hemodinámicos y hematológicos maternos durante el embarazo. En el embarazo se produce un aumento de la masa eritrocitaria en un 33%, un aumento del volumen plasmático, mayor en proporción que el de la masa eritrocitaria, es por eso que hay una anemia relativa; este aumento de volumen vascular en un 40%, unido a una elevación en un 15% de la frecuencia cardiaca, hace que el gasto cardiaco se vea incrementado. También se observa una leucocitosis leve sin desviación izquierda (sin infección). Entonces llegamos por descarte que la opción falsa es la 2, ya que en el embarazo hay un incremento de los factores de coagulación y de los reactantes de fase aguda como el fibrinógeno."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "Mujer de 25 años gestante de 9 semanas. Acude a Urgencias por presentar tumefacción de la pantorrilla izquierda de dos días de evolución. Eco-doppler venoso de miembros inferiores: ocupación de la vena poplítea femoral superficial y femoral profunda del miembro inferior izquierdo por material ecogénico con mala compresibilidad de dichos vasos. ¿Cuál sería el tratamiento más adecuado?",
+      "opciones": [
+        "Heparina de bajo peso molecular solapada con dicumarínicos al menos los 5 primeros días, hasta obtener INR entre 2 y 3. Después dicumarínicos solos.",
+        "Sólo heparina de bajo peso molecular mientras dure el embarazo, pasando a dicumarínicos tras el parto si es preciso prolongar el tratamiento.",
+        "Sólo dicumarínicos desde el principio.",
+        "Los anticoagulantes están contraindicados en el embarazo. Sólo medias de compresión fuerte."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Una pregunta , que se resume muy brevemente: gestante con trombosis venosa profunda.\n\nDurante el embarazo, no se pueden utilizar anticoagulantes orales, puesto que son teratógenos; de hecho los dicumarínicos y la warfarina pueden provocar en el feto anomalías esqueléticas y faciales y retraso mental.\n\nLa situación, por lo tanto, nos obliga a emplear otro tipo de anticoagulantes que no atraviesen placenta ni tengan ningún tipo de repercusión fetal, que será la heparina. Dentro de los distintos tipos de heparina, la más adecuada es la de bajo peso molecular, que se administraría por vía subcutánea y que no requiere controles, a diferencia de la no fraccionada. Tal como explica la respuesta 2, se mantendría hasta el parto y, sólo después, pasaríamos a dicumarínicos orales si fuera necesario."
+    },
+    {
+      "paginaPdf": 25,
+      "enunciado": "La causa principal de morbimortalidad neonatal asociada a la gestación gemelar es:",
+      "opciones": [
+        "RPM",
+        "Infecciones asociadas a membranas",
+        "Prematuridad",
+        "Hipertensión inducida por el embarazo"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La causa principal de morbimortalidad neonatal asociada a la gestación gemelar es la prematuridad. El trabajo de parto pretérmino se presenta con mucha frecuencia y se debe a: 1. Sobredistensión uterina que aumenta la irritabilidad de las fibras miometriales y desencadena las contracciones y 2. Polihidramnios, que aparece hasta en un 15% de los casos, siendo más frecuente en gemelos monocigotos, y que producirá también la irritación por distensión de las fibras miometriales antes comentada."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Respecto a la asociación entre el uso de anticonceptivos orales de estrógeno-gestágenos y cáncer, una de las siguientes afirmaciones es FALSA:",
+      "opciones": [
+        "Tienen un efecto protector contra el carcinoma de mama.",
+        "Tienen un efecto protector contra el carcinoma de ovario.",
+        "Incrementan el riesgo de carcinoma de cérvix en mujeres HPV positivas.",
+        "No se ha encontrado asociación con el carcinoma hepático."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La esencia de la pregunta, en realidad, está en el propio enunciado. Observa cómo insisten en el contenido de los anticonceptivos orales (ACO): estrógenos y gestágenos.\n\nLos estrógenos, por sí solos, aumentarían el riesgo de cáncer de endometrio. Sin embargo, dado que también estaríamos administrando progesterona, predomina el efecto protector de esta última hormona (respuesta 2 verdadera). Sin embargo, la progesterona carece de efecto protector sobre el tejido mamario, con lo que este aporte extra de estrógenos no produciría ningún tipo de protección frente al cáncer de mama (opción 1 falsa). La mayoría de los trabajos dicen que, para el cáncer de mama, los ACO no aumentan el riesgo o, en el peor de los casos, lo hacen muy levemente.\n\nEn cuanto al resto de las opciones, al inhibir la ovulación, se producirían menos cicatrices epiteliales en la superficie ovárica, lo que reduce el riesgo de cáncer de ovario. Respecto al cáncer de cérvix, se ha descrito un riesgo aumentado de carcinoma in situ e invasivo en mujeres positivas para VPH, probablemente al continuar expuestas a la infección por otros serotipos, ya que no protegen frente a este virus. Por último, no se ha encontrado relación con el carcinoma hepático, (lo que sí se relaciona con los ACO son los adenomas hepáticos)."
+    },
+    {
+      "paginaPdf": 26,
+      "enunciado": "Una paciente de 28 años acude por amenorrea secundaria. Refiere 2 interrupciones legales del embarazo. No usa método anticonceptivo y el test de embarazo hace una semana es negativo.Se realiza una ecografia transvaginal sin hallazgos patológicos.Tras el tratamiento con progesterona no se obtiene regla, y tampoco tras el tratamiento con anovulatorios. La etiología debe localizarse en:",
+      "opciones": [
+        "Hipotálamo.",
+        "Ovario.",
+        "Útero o cuello uterino.",
+        "Eje hipotálamo-hipófiso-gonadal."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Ante una amenorrea 2ª lo primero es un test de embarazo. Después determinamos TSH y PRL.\n\nSi éstas son normales, administramos progesterona durante 5 días; si tras ello existe regla, el diagnóstico es de anovulación.\n\nSi no existe, damos estrógenos y progestágenos combinados; en caso de no existir regla tras ello, la alteración será genital. En este caso dado el antecedente de dos abortos legrados , habría que sospechar un problema en el útero (síndrome de Asherman)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Mujer de 54 años que, en una mamografía de cribado, se detecta nódulo espiculado de 6 mm, en cuadrante superoexterno de la mama izquierda. Biopsia con agua gruesa: carcinoma infiltrante de tipo no especial ( NST o NOS). Los receptores hormonales resultan ser positivos. Her 2-neu negativo. Ki 67 15%.Exploración clínica: nódulo no palpable, axila libre. Ecografía axilar: no ganglios sospechosos. Señale la afirmación incorrecta respecto a este caso:",
+      "opciones": [
+        "Dado el tamaño tumoral, sería preferible una resección conservadora frente a una mastectomía.",
+        "Sería conveniente el estudio de los ganglios linfáticos, mediante la técnica del ganglio centinela.",
+        "Sería tributaria de recibir hormonoterapia.",
+        "Sería aconsejable el uso de trastuzumab como parte del tratamiento."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El trastuzumab sólo tiene uso en el cáncer de mama que sobreexpresa el gen Her2 neu (suelen ser tumores con una historia natural más agresiva, un riesgo más alto de recurrencia y una probabilidad inferior de presentar receptores hormonales) . En este caso el Her 2 neu es negativo, por tanto el Trastuzumab no sería útil en esta paciente (respuesta 4 incorrecta)."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "Paciente de 16 años, G2P2V2 en primer día de puerperio, con antecedente de epilepsia desde la infancia, en manejo con levetiracetam, tuvo parto vaginal eutócico, sin ningún otro antecedente positivo relevante, desea iniciar anticoncepción con Bellaface (etinil estradiol mas dienogest), ya que su hermana lo utiliza y “le ha sentado muy bien”. ¿Qué recomendación le daría?",
+      "opciones": [
+        "Lo puede utilizar si ningún inconveniente",
+        "Los estrógenos se contraindican en los primeros 21 días de puerperio",
+        "Sugeriría una método anticonceptivo solo de progestina o un DIU",
+        "b y c son correctas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el puerperio inmediato se recomiendan los métodos solo de progestina o métodos LARC como los dispositivos, endoceptivos e implantes subdérmicos. Durante los primeros 21 días de puerperio, los estrógenos están totalmente contraindicados por el mayor riesgo tromboembólico."
+    },
+    {
+      "paginaPdf": 27,
+      "enunciado": "¿Cuál de los siguientes enunciados sobre la preeclampsia es FALSO?:",
+      "opciones": [
+        "Se catalogará de preeclampsia grave cualquier hipertensión que se acompañe de algún signo o síntoma de afectación multiorgánica.",
+        "Supone un factor de riesgo para abruptio",
+        "Las prostaglandinas y la anestesia regional están contraindicadas para la maduración cervical y el parto",
+        "En general, se acepta que la vía vaginal es preferible a la cesárea."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "PREECLAMPSIA\n\nSe define como una hipertensión que aparece después de las 20 semanas de gestación y se acompaña de proteinuria. Excepcionalmente en casos de hidrops o enfermedad trofoblástica gestacional, la hipertensión puede aparecer antes de las 20 semanas.\n\nTambién se catalogará de preeclampsia grave cualquier hipertensión que se acompañe de algún signo o síntoma de afectación multiorgánica.\n\nFinalización de la gestación: El tratamiento definitivo de la preeclampsia es la finalización de la gestación. Por ello, se tendrá que contemplar en todos aquellos casos con grave afectación materno-fetal o a partir de las 37 semanas en los casos de preeclampsia leve.\n\n1. Vía del parto\n\n• En general se acepta que la vía vaginal es preferible a la cesárea. Para la elección de la vía de parto, habrá que tener en cuenta factores tales como la presentación, las condiciones cervicales, la edad gestacional, etc.\n\n• Se pueden utilizar las prostaglandinas locales para la maduración cervical.\n\n• La anestesia regional (epidural, espinal o combinadas) consigue un buen control de la hipertensión y mejora el flujo sanguíneo útero-placentario, por lo que es la técnica de elección en estas pacientes siempre que no existan contraindicaciones."
+    },
+    {
+      "paginaPdf": 28,
+      "enunciado": "Ante una paciente de 42 años que consulta por alopecia androide, hirsutismo de aparición brusca, hipertrofia de clítoris, amenorrea, sensación de pesadez en hipogastrio y urgencia miccional, debemos descartar de forma inmediata:",
+      "opciones": [
+        "Síndrome adrenogenital de aparición tardía.",
+        "Tumor ovárico funcionante.",
+        "Prolapso uterino en paciente perimenopáusica.",
+        "Pseudohermafroditismo masculino."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La presencia de alopecia androide, hipertrofia de clítoris, amenorrea e hirsutismo de aparición brusca son signos de virilización; y la sensación de pesadez en hipogastrio junto con urgencia miccional nos orienta hacia una masa abdominal.\n\nPor lo tanto, este caso clínico es muy sugestivo de tumor ovárico funcionante, y por eso es lo primero que debemos descartar.\n\nLo más probable es que estemos ante un androblastoma, un tumor ovárico que reproduce elementos testiculares. El 50% produce andrógenos (testosterona), responsables de la virilización. Suelen ser benignos. Constituyen la primera causa de virilización de origen ovárico."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Entre los factores de riesgo del cáncer de ovario, NO se encuentra:",
+      "opciones": [
+        "Nuligesta.",
+        "Mujeres que han seguido tratamiento con inductores de ovulación.",
+        "Síndrome de ovario poliquístico.",
+        "Postmenopáusica con antecedente de cáncer de colon"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Factores de riesgo de padecer un cáncer de ovario.\n\n-Postmenopáusicas,\n\n-Antecedentes familiares de cáncer de ovario.\n\n-Antecedentes de otras neoplasias como mama, endometrio, colon.\n\n-Nuligestas,\n\n-Las mujeres que han utilizado inductores de ovulación.\n\nDe manera que aquellas situaciones que cursen con anovulación como la toma de anticonceptivos orales, la multiparidad o el SOP no se incrementa el riego de cáncer de ovario."
+    },
+    {
+      "paginaPdf": 29,
+      "enunciado": "Tercigesta de 40 años con dos partos eutócicos previo gestante de 38.3 semanas. Acude a la consulta para control del HTA crónica en tratamiento con alfametildopa . Durante la monitorización cardiotocográfica la paciente comienza con dolor abdominal mantenido. El RCTG muestra un patrón fetal con variabilidad disminuida( <5 lpm) y el tono uterino se encuentra aumentado ¿Cuál sería su actitud?",
+      "opciones": [
+        "Sospecha de preeclampsia. Sulfato de Magnesio y finalizar la gestación",
+        "Sospecha de desprendimiento de placenta. Ingreso para inducción dado que se trata de una tercigesta.",
+        "Sospecha de desprendimiento de placenta . Cesárea",
+        "Pródromos de eclampsia, ingreso e inducción del parto."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La presentación clásica del desprendimiento prematuro de placenta normalmente inserta consiste en un sangrado vaginal asociado a dolor abdominal de instauración brusca e hipertonía, aunque el cuadro clínico puede ser muy variable, desde formas asintomáticas hasta casos con morbilidad materna severa y éxitus fetal. La frecuencia del cuadro clínico completo es escasa. Recuerda que La sensibilidad de la ecografía para el diagnóstico del DPPNI es baja, oscilando entre el 25-50%. Por tanto, la ausencia de hallazgos en la ecografía no excluye la posibilidad de un DPPNI."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Son causas de amenorrea primaria todas las siguientes, excepto:",
+      "opciones": [
+        "Disgenesia gonadal",
+        "Síndrome de Rokitansky",
+        "Insuficiencia ovárica prematura",
+        "Hiperplasia suprarrenal congénita"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La insuficiencia ovárica prematura es una causa de amenorrea secundaria; todos los demas enunciados corresponden a etiologías de la amenorrea primaria."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "Todos los siguientes cuadros, EXCEPTO uno, pueden ser causa de metrorragia del 1º trimestre de gestación:",
+      "opciones": [
+        "Amenaza de aborto.",
+        "Enfermedad trofoblástica.",
+        "Desprendimiento prematuro de placenta.",
+        "Hemorragia de implantación."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Dentro de las hemorragias del primer trimestre englobamos tres patologías: aborto, embarazo ectópico y enfermedad trofoblástica, mientras que el desprendimiento prematruo de placenta lo englobamos en las hemorragias del tercer trimestre junto a la placenta previa, la rotura uterina y la rotura de vasos previos. La hemorragia de implantación sería una forma de amenaza de aborto y por tanto, se incluye dentro de las hemorragias del primer trimestre."
+    },
+    {
+      "paginaPdf": 30,
+      "enunciado": "¿A qué nos referimos al hablar de la enfermedad de Paget de la mama?:",
+      "opciones": [
+        "A la causa más frecuente de telorragia uniorificial y unilateral.",
+        "A una forma especial de neoplasia de mama que se caracteriza por la presencia de las células de Paget en la epidermis del complejo areola- pezón.",
+        "A la forma más letal de presentación de un cáncer de mama.",
+        "A una lesión mamaria que se reuelve generalmente con corticoides tópicos de potencia media-alta."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "ENFERMEDAD DE PAGET de la mama constituye una forma especial de neoplasia de mama que se caracteriza por la presencia de las células de Paget en la epidermis del complejo areola- pezón.\n\nPuede ir asociado o no a tumor subyacente. En el 95% de los casos en los que existe tumor palpable suele tratarse de un cáncer invasivo. El carcinoma subyacente puede localizarse en cualquier parte de la mama.\n\nEdad media de diagnóstico es 62 años.\n\nEn un 25% de los casos la sintomatología es ulceración, prurito, eccema y dolor. Suele ser lesión unilateral. Ante una lesión dermatológica que no cura con tratamiento local debe considerarse una sospecha clínica de enfermedad de Paget y realizarse tanto una biop- sia superficial como profunda."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "Cuando se presenta alteración en la placentación y el trofoblasto compromete el endometrio, el miometrio, la serosa y órganos vecinos, hablamos de:",
+      "opciones": [
+        "Placenta previa",
+        "Placenta Acreta",
+        "Placenta increta",
+        "Placenta percreta"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En la placenta acreta hay compromiso miometrial, en la placenta increta no se compromete la serosa uterina, en la placenta percreta, el trofoblasto va mas allá de la serosa y puede comprometer órganos vecinos."
+    },
+    {
+      "paginaPdf": 31,
+      "enunciado": "¿Cuál de los siguientes agentes quimioterápicos debe emplearse como tratamiento de primera línea en los tumores epiteliales malignos del ovario?:",
+      "opciones": [
+        "Bleomicina.",
+        "Cis-platino.",
+        "Metotrexato.",
+        "Actinomicina D."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Esta pregunta del tratamiento quimioterapico de los tumores del ovario carece de relevancia. De los quimioterapicos no tienes que saber muchas cosas. Puede ser útil que recuerdes que los platinos se usan para los cánceres de las gonadas (testículos y ovario) y que sus principal efecto secundario es la nefrotoxicidad. Para evitarlo se hidrata abundantemente al paciente y se fuerza la diuresis con manitol. Son neuro y ototóxicos (recuerda que los aminoglucosidos también lo son). El cisplatino es el antineoplasico más emetógeno. En el disgerminoma se utiliza el protocolo BEP: bleomicina, etopósido y cisplatino."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "Secundigesta de 37.2 semanas con un parto pretérmino vía vaginal hace 3 años de 2300 grs, que acude a Urgencias por dinámica uterina. En el RCTG se objetiva 4 deceleraciones tardías en relación con las contracciones con buena variabilidad. Exudado vagino-rectal positivo para Streptococo grupo B. A la exploración, presenta un cérvix dilatado 3 cm, borrado 80%, cefálica sobre estrecho superior, bolsa íntegra. Se realiza una amnioscopia objetivando líquido amniótico teñido. ¿Cuál considera la actitud obstétrica más correcta?",
+      "opciones": [
+        "Se trata de un riesgo de pérdida del bienestar fetal. Cesárea.",
+        "Profilaxis antibiótica. Amniorrexis artificial. Si continua con RCTG poco tranquilizador, realizar microtoma de calota.",
+        "Iniciar profilaxis antibiótica si tras >18 horas de bolsa rota no se ha producido el parto.",
+        "Realizar microtoma de pH y si el resultado es menor de 7.25 cesárea urgente."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Opción 2 correcta, profilaxis antibiótica por exudado positivo para EGB, Amniorrexis para estimular el parto dado los hallazgos de LA meconial y deceleraciones y microtoma para confirmar una pérdida del bienestar fetal. No podemos diagnosticar una pérdida del bienestar fetal sin realizar una microtoma y para ello la bolsa debe estar rota ( opción incorrecta 1 y 4).Opción 3 incorrecta porque la profilaxis antibiótica se comienza tan pronto comienza el parto."
+    },
+    {
+      "paginaPdf": 32,
+      "enunciado": "En relación con la transmisión vertical del virus de la inmunodeficiencia humana (VIH) a partir de una madre afecta del síndrome de inmunodeficiencia adquirida (SIDA), ¿cuál es la respuesta FALSA?",
+      "opciones": [
+        "Si la situación serológica con respecto al VIH es desconocida en el momento del parto, o en el postparto inmediato, se debe indicar, con carácter urgente, la realización de pruebas serológicas rápidas.",
+        "El embarazo es, por sí solo, indicación de recibir tratamiento antirretroviral de alta eficacia (triple terapia).",
+        "La gestación empeora la progresión de la enfermedad.",
+        "Las mujeres infectadas por el VIH tienen un riesgo aumentado de aborto espontáneo. Algunos estudios muestran una mayor tasa de prematuridad, un mayor retraso del crecimiento y una mayor tasa de muertes fetales en gestantes infectadas por el VIH ."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La serología frente al VIH se debe indicar en la primera visita de la gestante lo antes posible y se recomienda repetir la prueba en el tercer trimestre de gestación con carácter general.\n\nEn mujeres con prácticas de riesgo para la infección por el VIH durante la gestación, especialmente si su pareja está infectada, se debe repetir la prueba al menos una vez cada trimestre\n\nSi la situación serológica con respecto al VIH es desconocida en el momento del parto, o en el postparto inmediato, se debe indicar, con carácter urgente, la realización de pruebas serológicas rápidas.\n\nLa mera infección materna por el VIH no es un motivo que justifique la interrupción de la gestación.\n\nLa gestación no empeora la progresión de la enfermedad.\n\nLas mujeres infectadas por el VIH tienen un riesgo aumentado de aborto espontáneo Algunos estudios muestran una mayor tasa de prematuridad, un mayor retraso del crecimiento y una mayor tasa de muertes fetales en gestantes infectadas por el VIH .\n\nPreeclampsia es la complicación del embarazo más frecuentemente observada en mujeres con TAR.\n\nEn caso de que se precise realizar algún procedimiento invasivo durante el embarazo (amniocentesis, cirugía fetal, etc...) se recomienda valorar cuidadosamente el riesgo-beneficio y realizarlo bajo tratamiento antirretroviral optimizado y con carga viral indetectable.\n\nLa mayoría de los casos de transmisión vertical del VIH se producen durante el parto y/o en las últimas semanas de gestación.No cabe duda que el periodo de mayor riesgo de transmisión vertical del VIH es el momento del parto.\n\nEl factor materno más importante asociado al riesgo de transmisión vertical es la carga viral.\n\nEs fundamental realizar tratamiento antirretroviral en todas las gestantes independientemente del número de linfocitos CD4 que tengan.\n\nLos beneficios obtenidos con el tratamiento en la madre y el hijo superan a los riesgos potenciales de su uso en el embarazo\n\nZDV debe incluirse en el TAR, siempre que sea posible\n\nEl tratamiento de elección es el compuesto por dos análogos de nucleósido más un inhibidor de la proteasa potenciado.\n\nNo se recomienda la utilización del efavirenz."
+    },
+    {
+      "paginaPdf": 33,
+      "enunciado": "¿Cuál de las siguientes opciones constituye un factor de riesgo para cáncer de cérvix?",
+      "opciones": [
+        "Tabaquismo",
+        "Alcohol",
+        "Consumo negado de anticonceptivos orales",
+        "IMC < 25"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Dentro de los factores de riesgo importantes para desarrollar cáncer cervicouterino se han demostrado: la inmunosupresión crónica: el cáncer de cérvix es más frecuente en situaciones de inmunidad deficiente, como en el caso del trasplante renal o del VIH (relacionado con la displasia recurrente). El tabaco:(aumenta entre cuatro y 13 veces su incidencia). Respecto a la anticoncepción hormonal: las pacientes que toman anticonceptivos orales tienen mayor riesgo de displasia cervical que las mujeres que nunca los consumieron."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Cuál de las siguientes afirmaciones respecto a la menopausia es FALSA?:",
+      "opciones": [
+        "La estrona pasa a ser el estrógeno más importante de la postmenopausia.",
+        "La producción de estradiol disminuye.",
+        "La producción de progesterona es baja.",
+        "La FSH y LH han descendido."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta bastante sencilla sobre la fisiología de la menopausia. En la postmenopausia se produce un agotamiento de los folículos primordiales, con lo que la producción de estradiol disminuye notoriamente, pasando la estrona a ser el estrógeno fundamental de la menopausia; esta disminución de estradiol dispara el feed- back negativo de la hipófisis produciéndose así un incremento de las gonadotropinas FSH y LH (RC: 5). Al no haber ciclos ovulatorios, la producción de progesterona será muy pequeña."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "¿Cuándo considera indicado iniciar el estudio de una pareja que ha presentado varios abortos?.",
+      "opciones": [
+        "Depende de la edad de los progenitores",
+        "Depende del número de hijos nacidos vivos previos.",
+        "Ante la pérdida espontánea de dos o más gestaciones.",
+        "Ante la pérdida espontánea de tres o más gestaciones."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El aborto de repetición (AR) se define como la pérdida espontánea de dos o más gestaciones.\n\nExisten una serie de razones que hacen aconsejable que el estudio diagnóstico se inicie ya a partir de 2 abortos."
+    },
+    {
+      "paginaPdf": 34,
+      "enunciado": "En el estudio inicial de la amenorrea secundaria, ¿cuál de los siguientes grupos de paraclínicos es mas adecuado solicitar de manera inicial?",
+      "opciones": [
+        "Ecografía Transvaginal, niveles de FSH y LH",
+        "Prueba de embarazo, FSH, LH Y Estradiol",
+        "Ecografía pélvica, TSH y niveles de andrógenos",
+        "Ecografía transvaginal, prueba de embarazo, TSH y Prolactina"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el estudio inicial de la amenorrea secundaria debe descartase la etiología obstétrica con una prueba de embarazo. También debe explorarse la posibilidad de una alteración estructural anatómica mediante una ecografía transvaginal y finalmente deben solicitarse la TSH y la Prolactina, ya que la alteración en estos niveles hormonales corresponde a las causas mas frecuentes de amenorrea secundaria. De acuerdo a los hallazgos clínicos y a los resultados de estos paraclínicos iniciales se decidirá si son necesarios exámenes adicionales."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "En pacientes con síndrome de ovario poliquístico, con anovulación, existe un alto riesgo de presentar:",
+      "opciones": [
+        "Resistencia a la insulina",
+        "Hipercoagulación",
+        "Hipercolesterolemia",
+        "Hipertrigliceridemia"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La insulinorresistencia no se considera un criterio diagnóstico para SOP, pero su identificación permite conocer aquellas pacientes que se beneficiarían con un enfoque hacia la reducción de la resistencia a la insulina. Se evalúa mediante la sobrecarga oral de glucosa con 75 gramos. Es recomendable realizar una prueba oral de tolerancia a la glucosa a todas las mujeres con SOP y, en aquellas que presentan un elevado riesgo de desarrollar diabetes mellitus tipo 2 (fuerte historia familiar de diabetes, IMC superior 30 kg/m2 , antecedentes diabetes gestacional), repetirla anualmente."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "¿Cuál de las siguientes sustancias es la más adecuada para el tratamiento del hirsutismo que se asocia a los ovarios poliquísticos?:",
+      "opciones": [
+        "Clomifeno.",
+        "Estrógenos.",
+        "Acetato de ciproterona.",
+        "Corticoides."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta pregunta es muy importante porque debes conocer perfectamente el síndrome de ovario poliquístico y sus alteraciones hormonales. Es una afección muy frecuente en que está aumentada la LH con niveles de FSH bajos o inferiores a lo normal, por lo que aumenta la relación LH/FSH (>2,5). La LH aumentada estimula la teca, produciendo más andrógenos (también hay una sobreproducción suprarrenal), que va a provocar obesidad, hirsutismo y anovulación. Para el tratamiento sintomático del hirsutismo damos anticonceptivos orales, que disminuyen la producción de esteroides suprarrenales y ováricos, reduciendo el hirsutismo en 2/3 de los pacientes. A veces se añaden antiandrógenos como la espironolactona, acetato de ciproterona, flutamida, cimetidina, finasteride...."
+    },
+    {
+      "paginaPdf": 35,
+      "enunciado": "En el manejo de la paciente embarazada con epilepsia se prefiere cual de los siguientes anticonvulsivantes:",
+      "opciones": [
+        "Lamotrigina",
+        "Carbamazepina",
+        "Levetiracetam",
+        "1 y 3 son correctas"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "En el manejo de la epilepsia no está justificado el cambio del farmaco antiepilpetico ya que ninguno es totalmente inocuo. Sin embargo se recomienda la monoterapia y la menor dosis posible. En años recientes se ha preferido, si es posible, utilizar lamotrigina y levetiracetam debido a que tienen un perfil de seguridad mejor con respecto al riesgo de malformaciones fetales."
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "El aumento de la resistencia a la insulina es un problema asociado frecuentemente a:",
+      "opciones": [
+        "Mioma uterino.",
+        "Endometriosis.",
+        "Hiperplasia suprarrenal congénita por déficit de 17-a-hidroxilasa.",
+        "Síndrome de ovarios poliquísticos, debido al exceso de síntesis de andrógenos."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se estima que un 50-60% de las mujeres con SOP serán obesas. La obesidad, por sí misma, constituye un factor de mal pronóstico en todos los aspectos relacionados con el SOP. Las alteraciones menstruales son hasta cuatro veces más frecuentes y también los signos y síntomas asociados al hiperandrogenismo serán más perceptibles. Todo ello estará agravado si el incremento de la grasa corporal tiene una distribución predominantemente centrípeta, troncular o androide (perímetro abdominal superior a 88 cm o el cociente los perímetros de la cintura y la cadera de más de 0,85). En estos casos la prevalencia de síndrome metabólico (dislipemia, hipertensión, intolerancia a la glucosa o diabetes tipo II) y enfermedad cardiovascular es de 3 a 5 veces superior a la de la población no afecta.\n\nLa presencia de lesiones verrugosas, aterciopeladas e hiperpigmentadas localizadas en la nuca, axila, pliegue submamario, y ocasionalmente en otros pliegues de la piel se denomina acantosis nigricans, y es consecuencia de la acción mitógena de la insulina en las células basales de la epidermis. Cuando está presente, en un 90% de los casos existe una insulino-resistencia (IR) marcada. A pesar de constituir un marcador específico de IR, su sensibilidad es baja, ya que sólo un 30% de las mujeres jóvenes con IR la presentan. Si se asocia a hiperandrogenismo se denomina HAIR–AN (hiperandrogenismo severo, RI y acantosis nigricans) y en estos casos es muy frecuente que el origen de los andrógenos sea una hipertecosis ovárica"
+    },
+    {
+      "paginaPdf": 36,
+      "enunciado": "Sospechamos la enfermedad trofoblástica gestacional por todos los siguientes, EXCEPTO uno. Señálelo:",
+      "opciones": [
+        "Metrorragia del primer trimestre.",
+        "Exageración de los síntomas gestacionales.",
+        "Útero menor de lo esperado por la amenorrea.",
+        "Ecografia en copos de nieve."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Los síntomas y signos de la enfermedad trofoblástica son todos los que tienes enunciados en las respuestas menos la opción 3. Recuerda que el útero está ocupado por un tejido trofoblástico que prolifera de forma anormal por lo que suele ser mayor que lo que correspondería para el tiempo de amenorrea, regular, simétrico y de consistencia blanda.\n\nRespecto a la clínica, recuerda que la metrorragia es el signo más habitual y el principal motivo de consulta. La expulsión de vesículas es un signo infrecuente pero, de aparecer, es patognomónico. También se puede dar una exageración de los síntomas gestacionales debido a un incremento de los niveles de HCG (náuseas, vómitos, hiperemesis gravídica ). Otro dato clínico que podría sugerirnos también la presencia de esta patología es la aparición de signos y síntomas de hipertiroidismo por la similitud de HCG con la TSH (nerviosismo, palpitaciones, sudoración, temblores) .\n\nEn la ecografía se ve la imagen típica en copos de nieve."
+    },
+    {
+      "paginaPdf": 37,
+      "enunciado": "Que afirmación es INCORRECTA respecto a las variables pronósticas del cáncer de mama:",
+      "opciones": [
+        "El tamaño del tumor y el estado de los ganglios linfáticos axilares son factores de valor pronóstico probado.",
+        "La recidiva del cáncer de mama es más probable en los tumores que poseen receptores hormonales de estrógenos y de progesterona.",
+        "Elevadas concentraciones de Ki67 indican peor pronóstico.",
+        "El subtipo luminal A presenta una alta tasa de respuesta a la hormonoterapia y escaso beneficio de la quimioterapia,"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Clasificación molecular del cáncer de mama:. Luminal A, Luminal B, Basal like, HER2 positivo\n\nTipo Luminal:\n\nConstituye alrededor de un 75-80% de los carcinomas de mama. Engloba el grupo de tumores que expresan receptores de estrógeno. Dentro de este grupo se han definido subtipos con pronóstico y evolución diferente.\n\n-Subtipo Luminal A:\n\nRE (+), RPg (+), HER2 (-), Ki67 bajo. Constituye un 50- 60% de los tumores luminales. Se caracteriza por su mejor pronóstico con menor incidencia de recaídas, siendo la ósea la más frecuente y presentando menor tasa de recaídas viscerales y en SNC. Asimismo presentan mayor supervivencia en caso de recaída.\n\nPresenta una alta tasa de respuesta a la hormonoterapia y escaso beneficio de la quimioterapia,\n\nSubtipo Luminal B:\n\nRE (+), RPg (+/-), HER2 (+/-), Ki67 alto. Representa un 10-20% de los tumores luminales.Representa el grupo de tumores luminales de mal pronóstico.\n\nAunque la recidiva ósea sea frecuente, presentan mayor tasa de recidivas viscerales y la supervivencia desde el diagnóstico de la recidiva es inferior. Se beneficia de la quimioterapia y la hormonoterapia."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "La complicación más frecuente que puede aparecer en una portadora de un DIU de cobre es:",
+      "opciones": [
+        "Perforación uterina",
+        "Hemorragia genital",
+        "Gestaciones ectópicas",
+        "Interfiere en las relaciones sexuales"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Globalmente, las complicaciones del uso del DIU oscilan entre un 20 y un 30% según los estudios, produciéndose fundamentalmente en el transcurso del primer año. Se distinguen tres tipos de complicaciones: complicaciones de la inserción, durante la evolución y, por último, en la extracción. Durante la evolución aparecen sobre todo hipermenorreas o menorragias y hemorragias profusas (spotting). Esta complicación no aparece cuando se emplean DIU portadores de progesterona y, sobre todo, levonorgestrel."
+    },
+    {
+      "paginaPdf": 38,
+      "enunciado": "Los niveles altos de FSH y LH para diagnosticar menopausia mediante examenes de laboratorio corresponde a a:",
+      "opciones": [
+        "FSH >40 mU/ml, y estradiol <20 pg/ml",
+        "FSH <40 mU/ml, y estradiol <20 pg/ml",
+        "FSH >20 mU/ml, y estradiol >20 pg/ml",
+        "No se alteran significativamente los niveles hormonales."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Después de la menopausia, la FSH se eleva 5 a 30 veces y la LH 3 veces sus valores promedios, algo más durante los bochornos, manteniéndose elevados durante hasta 5-10 años, para luego descender gradualmente. El cociente LH/FSH inferior a 0,7 indica que la mujer está en la menopausia. En la mayoría de los casos es posible el diagnóstico por la clínica: amenorrea de un año, acompañada de síndrome climatérico. En caso de duda, como en el fallo ovárico precoz, las determinaciones hormonales para confirmar la menopausia deben ser: FSH >40 mU/ml, y estradiol <20 pg/ml. Respuesta correcta 1."
+    }
+  ]
+}

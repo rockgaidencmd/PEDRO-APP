@@ -1,0 +1,444 @@
+{
+  "materia": "neurologia",
+  "paginaInicio": 54,
+  "paginaFin": 70,
+  "anomalias": [
+    "p63: 'Todas las afirmaciones respecto al pequeño mal son ciertas, EXCEPTO' marca Resp. Correcta: 3, pero el comentario escribe '(respuesta 4 falsa)' justo al explicar que la hiperventilación aumenta la frecuencia, que es el contenido de la opción 3. La clave 3 es la coherente con el texto",
+    "p66: el comentario de la pregunta de polineuropatía hereditaria abre con 'Respuesta d.', usando letras cuando las opciones están numeradas (d equivale a la opción 4, que coincide con Resp. Correcta: 4)",
+    "p67: el comentario de la pregunta de paraplejia tras cirugía de aorta abre con 'CORRECTA OPCIÓN C.', usando letras cuando las opciones están numeradas (C equivale a la opción 3, que coincide con Resp. Correcta: 3)"
+  ],
+  "preguntas": [
+    {
+      "paginaPdf": 54,
+      "enunciado": "En el período de edad comprendido entre los 18 y 35 años, la causa más frecuente de epilepsia es:",
+      "opciones": [
+        "Infección aguda.",
+        "Traumatismos.",
+        "Enfermedad vascular cerebral.",
+        "Tumores cerebrales."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La causa de crisis epilépticas más frecuentes entre los 18 y 35 años son los traumatismos. Os recuerdo que las crisis que aparecen inmediatamente después de un traumatismo craneoencefálico (en la primera hora) no suelen conllevar un aumento del riesgo de desarrollar epilepsia en un futuro. Las que se presentan en la primera semana (precoces) sí conllevan un aumento de las probabilidades de desarrollar epilepsia., por lo que sería adecuado comenzar tratamiento con fármacos antiepilépticos."
+    },
+    {
+      "paginaPdf": 54,
+      "enunciado": "En una mujer con una crisis epiléptica que presenta las siguientes características clínicas: aura epigástrica, olor desagradable, desconexión del medio, automatismos motores (chupeteo, deglución, apertura y cierre de una mano) y amnesia postcrítica, ¿cuál es su sospecha diagnóstica?",
+      "opciones": [
+        "Crisis generalizada no convulsiva o ausencia típica.",
+        "Epilepsia parcial continua.",
+        "Crisis amiotónica.",
+        "Crisis parcial compleja del lóbulo temporal."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El caso clínico presentado, consiste en una mujer con un episodio de desconexión del medio, precedido de una clínica muy definida (malestar epigástrico y alucinación olfatoria). Durante el cuadro clínico, presenta los reconocidos automatismos motores, que tras ceder, no son reconocidos por la paciente como voluntarios. Esta es la descripción de una crisis epiléptica focal localizada en el lóbulo temporal, previamente denominada crisis parcial compleja. Como ves el resto de opciones no tienen correspondencia con este cuadro clínico, aunque tal vez podríamos destacar la diferencia con la ausencia típica referida en la primera opción sobre todo porque esta última ni tiene aura ni post-crisis."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Un paciente de 42 años comienza con movimientos involuntarios que afectan a lengua y manos. Son de carácter incesante, irregular y arrítmico. No sigue ni ha seguido ningún tratamiento farmacológico habitual. La exploración es normal, pero durante la entrevista muestra cierta irritabilidad. La familia refiere que nota un cambio en su personalidad. Interrogado por su historia familiar, refiere que su madre murió de un infarto de miocardio y que su padre se suicidó a los 60 años. Señale la afirmación FALSA:",
+      "opciones": [
+        "La enfermedad que presenta constituye la forma más frecuente de corea hereditario.",
+        "Si sus hijos expresan más de 40 repeticiones del triplete CAG en el cromosoma 4, desarrollarán con alta probabilidad el trastorno si viven lo suficiente.",
+        "Está indicado realizar una prueba de neuroimagen para comprobar la imagen típica de realce mesencefálico.",
+        "El tratamiento es exclusivamente sintomático, pero no altera el curso evolutivo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "La enfermedad de Huntington es la forma de corea hereditario más frecuente. Se produce por la expansión del triplete CAG en el cromosoma 4. La herencia es AD, con penetrancia casi completa. El cuadro se desarrolla antes si el que lo transmite es el padre. Cursa con la triada de trastornos de movimiento (corea), deterioro cognitivo subcortical y trastornos del comportamiento y afectivos. Para el diagnóstico es suficiente el desarrollo de síntomas sugestivos con antecedentes familiares, o la comprobación de la presencia de más de 40 repeticiones del triplete. La neuroimagen puede mostrar atrofia de los caudados. El tratamiento es sintomático."
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "La hemorragia como presentación de las Malformaciones Arteriovenosa Cerebrales (MAV) es FALSO que",
+      "opciones": [
+        "Es el síntoma más común, aproximadamente el 50%",
+        "El pico más frecuente es entre 15 y 20 años",
+        "El déficit neurológico supone entre el 30-50%",
+        "La mortalidad es del 30%"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Es el síntoma más frecuente y es el segundo después de los aneurismas. Cuando sangran lo hacen con más frecuencia en esa edad. Su morbilidad mediante deficit neurológico (cualquiera que sea( llega al 30-50% y la mortalidad por sangrado es del 10%"
+    },
+    {
+      "paginaPdf": 55,
+      "enunciado": "Señale la respuesta FALSA respecto a las crisis de ausencia (petit mal):",
+      "opciones": [
+        "No hay periodo de confusión postictal.",
+        "Antes de cada crisis suele haber un aura que es siempre la misma en cada paciente (mal olor, sonidos complejos...).",
+        "El EEG típico muestra punta-onda a 3 Hz generalizada y simétrica que dura exactamente lo mismo que la crisis.",
+        "Las ausencias típicas no suelen estar asociadas a otros problemas neurológicos y responden bien al tratamiento."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Las crisis de ausencia no suelen presentar previamente un aura. Un aura previa (puede ser una sensación ascendente en el estómago por ejemplo) suele ser frecuente en las crisis parciales complejas y en las crisis tónico- clónicas. Las ausencias son frecuentes a lo largo del día, de duración corta y no asocian confusión posterior. El paciente presenta amnesia del episodio. Su respuesta al tratamiento suele ser muy buena. Uno de los fármacos de primera línea utilizados en las crisis de ausencia es el ácido valproico."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Varón de 80 años, con antecentes de cardiopatía isquémica, tabaquismo, diabetes mellitus y obesidad, que acude a urgencias por diplopía al bajar las escaleras de su casa, de aparición brusca. En la exploración neurológica se objetiva paresia del IV par craneal derecho y midriasis y ptosis palpebral izquierda. ¿Dónde localizaría la lesión?",
+      "opciones": [
+        "Mesencéfalo dorsal izquierdo.",
+        "En el seno cavernoso derecho.",
+        "En el suelo de la órbita izquierda.",
+        "A nivel de los ganglios basales derechos."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El IV par craneal tiene su origen en el mesencéfalo caudal, haciendo un cruce de la línea media antes de salir del tallo encefálico, por lo que una lesión a nivel mesencefálico dorsal izquierdo justificaría la lesión del IV par craneal derecho y del III par craneal izquierdo."
+    },
+    {
+      "paginaPdf": 56,
+      "enunciado": "Mujer de 37 años, diagnosticada de migraña desde los 19 años, que acude a su consulta. Presenta desde el comienzo cefaleas episódicas de tres a cinco días de duración con las siguientes características: comienza con cefalea biooccipital opresiva que se irradia hacia toda la cabeza, aumenta por las tardes y responde mal a los analgésicos habituales. En raras ocasiones es pulsátil. El dolor no aumenta con los movimientos de la cabeza ni con el ejercicio moderado. Se ha intentado profilaxis con propranolol, flunaricina y valproato, de forma aislada o combinada, sin éxito. No ha respondido nunca al tratamiento con triptanos. Desde hace dos años la cefalea es diaria y consume una media de seis comprimidos diarios de paracetamol y AINEs. ¿Cuál de los siguientes diagnósticos considera usted MÁS acertado?",
+      "opciones": [
+        "Cefalea de Horton.",
+        "Migraña con aura.",
+        "Cefalea tensional crónica.",
+        "Migraña basilar."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Con frecuencia el diagnóstico diferencial entre cefalea tensional y las llamadas cefaleas vasculares (migraña, cefalea de Horton), no es sencillo. Lo más probable es que esta paciente nunca haya sufrido migraña. El hecho de que el dolor raramente sea pulsátil, no existan náuseas ni vómitos, no exista sonofobia ni fotofobia, nos debe hacer dudar del diagnóstico de migraña, tanto con aura, como basilar, como migraña crónica. Este error diagnóstico, arrastrado durante 18 años, explicaría la total ineficacia de las terapias ensayadas, tanto sintomáticas como profilácticas. En la actualidad cumpliría criterios de \"cefalea crónica diaria con abuso de analgésicos y AINEs\", y, en concreto, de cefalea tensional crónica (respuesta 3 correcta). La administración de antidepresivos tricíclicos o inhibidores de la recaptación de serotonina sería el tratamiento de elección en esta paciente."
+    },
+    {
+      "paginaPdf": 57,
+      "enunciado": "Un paciente de 25 años, durante un partido de tenis, sufre un dolor intenso en el cuello y en el ojo izquierdo. A la mañana siguiente, se despierta con sensación de inestabilidad de la marcha y tiene ptosis palpebral del ojo izquierdo y anisocoria, siendo la pupila izquierda más pequeña que la derecha. El paciente mantiene buena agudeza visual. ¿Dónde localizaría con MÁS probabilidad la lesión?",
+      "opciones": [
+        "III par craneal.",
+        "Quiasma óptico.",
+        "Ganglio cervical superior.",
+        "Bulbo raquídeo."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta compleja de semiología que debe deducirse de los conocimientos del manual CTO, no es una respuesta directa. Nos describen a un paciente joven que hace deporte y refiere durante la práctica del mismo dolor en cuello y ojo, despertando a la mañana siguiente con un Horner (ptosis y miosis) en ojo izquierdo sumando a esto inestabilidad de la marcha. El enunciado nos puede hacer dudar, pero nos pide la localización más probable de la lesión, de manera que tenemos que enlazar dos cuestiones: Inestabilidad y Horner, que serían los síntomas guía. Repasemos las distintas opciones de respuesta:\n1.- III par podría dar una ptosis, pero siendo el parasimpático tendríamos una midriasis unilateral asociada a la oftalmoparesia, y no podemos explicar la inestabilidad.\n2.- El quiasma provoca déficits visuales con hemianopsias o cuadrantanopsias heterónimas, y no relata el enunciado ningún déficit campimétrico, y, no explica en absoluto la inestabilidad.\n3.- El ganglio cervical superior explica perfectamente el Horner, es el punto de sinapsis de la segunda con la tercera neurona simpática, luego nos explica el cuadro en un 50%, aunque no explica tampoco la inestabilidad.\n4.- Si pensamos en inestabilidad, debemos pensar en cerebelo, o bien en vestíbulo, y ese requisito lo tenemos más cerca en un cuadro que incluye el bulbo raquídeo, en concreto un síndrome bulbar lateral, por una disección vertebral, que puede afectar a la vertebral izquierda y a la rama de esta, la PICA (arteria cerebelosa posteroinferior izquierda). Luego en un Wallenberg tendremos variantes de expresividad clínica, pero cabe la inestabilidad que nos describen (ataxia) y el Horner, dado que en el bulbo lateral pasa la vía simpática que partió desde la primera neurona simpática en hipotálamo, así una lesión que afecte al bulbo sería típica por afectación de la PICA, que a su vez afectaría al cerebro y nos daría la clínica de Horner + Inestabilidad."
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "¿Cual de los siguientes hallazgos pondrían en duda el diagnóstico de un Síndrome de Guillain Barré?",
+      "opciones": [
+        "Arreflexia",
+        "Retención aguda de orina como forma de debut",
+        "Ausencia de afectación oculomotora",
+        "Disfonía asociada a disfagia"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La afectación clínica típica del Síndrome de Guillain Barré cursa con:\n\n1. Tetraparesia fláccida y arrefléctica\n\n2. Inicio ascendentes desde miembros inferiores\n\n3. Puede afectarse musculatura bulbar en dicho proceso ascendentes\n\n4. La afectación motora es mayor que la sensitiva. Puede existir parestesias distales asociados a lo previo\n\n5. Por contra la afectación esfinteriana es poco frecuente y más aún en estadió primarios de la enfermedad"
+    },
+    {
+      "paginaPdf": 58,
+      "enunciado": "Varón de 50 años, fumador, bebedor de fines de semana e hipertenso, que acude a urgencias a las 4:00 am por dolor intenso en la zona de la órbita, que describe como el más intenso que ha tenido nunca, de 30 minutos de duración y que le ha despertado. Al parecer es el quinto episodio que viene padeciendo en la última semana, con episodios que podían llegar a durar hasta una hora. Nota que el párpado se le cierra y el ojo se le enrojece cuando le pasan estos episodios, que generalmente acontecen por la noche. ¿Cuál de los siguientes enunciados es erróneo?",
+      "opciones": [
+        "Sería necesario realizar una prueba de neuroimagen para descartar que se trate de una cefalea secundaria.",
+        "El uso de indometacina es de elección en estos casos.",
+        "El uso de triptanes inhalados o subcutáneos asociados o no a oxigenoterapia de alto flujo está indicado en las crisis agudas.",
+        "El carbonato de litio está indicado en las formas crónicas."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "Se trata de una cefalea en racimos, que se caracteriza por episodios de dolor que acontecen generalmente a la misma hora, de predominio nocturno, de entre 15 y 180 minutos de duración, intensidad elevada, que se acompañan en ocasiones de presencia de edema palpebral ipsilateral, inyección conjuntival con o sin lagrimeo, pudiendo repetir entre 1 a 6 episodios/día. La indometacina no sería el fármaco de elección para tratar una cefalea en racimos."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Mujer de 43 años, con antecedentes de hipertensión arterial y dislipemia, que presenta importante cefalea post-coital, de inicio súbito y con afectación del estado general. A la exploración la paciente se encuentra somnolienta, obedeciendo a estímulos pero muy postrada, con signos de irritación meningea. Señala el binomio sospecha clínica – prueba diagnóstica inicial más probable en este caso:",
+      "opciones": [
+        "Hematoma intraparenquimatoso – arteriografía cerebral",
+        "Hematoma intraparenquimatoso – TC craneal",
+        "Hemorragia subaracnoidea – TC craneal",
+        "Hemorragia subaracnoidea – arteriografía cerebral"
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El caso clínico típico que se nos presenta reune todas las características clásicas de una hemorragia subaracnoidea (Cefalea en trueno, “las más intensa de su vida”, coincidiendo con un esfuerzo, acompañada de signos de irritación meningea). En este caso la primera prueba a realizar será una TC craneal, que será positiva hasta en el 95% de los casos."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Señale la afirmación correcta con respecto al vasoespasmo en la HSA",
+      "opciones": [
+        "Aparece entre el 4 y 12 día desde el sangrado",
+        "El 30% padece vasoespasmo sintomático y el 66% angiografico",
+        "Es causa de mortalidad en el 20% de los casos",
+        "Todas las anteriores"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Se trata de una situación grave que origina todos estos datos. El tratamiento precoz del aneurisma evita el resangrado y contribuye a que no aumente el vasoespasmo."
+    },
+    {
+      "paginaPdf": 59,
+      "enunciado": "Paciente de 64 años, en seguimiento por enfermedad de Parkinson diagnosticada hace siete años, estadío III de la escala de Hoehn y Yahr. Presenta fluctuaciones motoras del orden de 6-7 veces al día con fenómenos de deterioro de fin de dosis a las 2h - 2:30h de haber tomado levodopa, abundantes discinesias pico de dosis que interfieren con la realización de algunas actividades de la vida diaria, y probable distonía de MID al caminar, lo que ha motivado alguna caída. En la exploración física se aprecian discinesias coreicas de beneficio de predominio en hemicuerpo derecho, así como cuello en grado leve-moderado, leve temblor de reposo en mano izquierda con rigidez en rueda dentada muy evidente en miembros superiores (de predominio en miembro superior izquierdo), bradicinesia leve de predominio derecho, marcha con descomposición del giro, pero a buen paso. Todo ello a pesar de tomar amantadita, levodopa, carbidopa y entacapona. Señale la respuesta INCORRECTA sobre el tratamiento de la paciente:",
+      "opciones": [
+        "Se debe retirar la medicación actual de forma progresiva y pautar anticolinérgicos para evitar los fenómenos de deterioro de fin de dosis.",
+        "La paciente puede ser candidata a tratamiento quirúrgico para la colocación de electrodos de estimulación cerebral profunda.",
+        "En caso de optar por la cirugía, la diana escogida sería el núcleo subtalámico y se implantarían de forma bilateral.",
+        "Unos días antes de la cirugía se deben reducir y retirar los fármacos que toma la paciente."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "Pregunta aparentemente difícil pero cuya respuesta correcta no lo es tanto. Nos presentan el caso de una paciente joven con una enfermedad de Parkinson avanzada y múltiples efectos secundarios asociados a la medicación. En la paciente predomina la clínica de rigidez y bradicinesia, siendo mucho menos evidente el temblor. En este caso la paciente puede ser candidata a cirugía para la colocación de electrodos de estimulación profunda, siendo la diana de elección el núcleo subtalámico de forma bilateral la más habitual. En caso de que predominara el temblor sería el núcleo ventral intermedio del tálamo. Para este tipo de cirugías, donde el paciente está despierto y precisa de una valoración clínica continua se deben retirar los fármacos desde varios días antes y así permitir esa correcta valoración. Los fármacos anticolinérgicos se usan en caso de pacientes jóvenes con predominio del temblor, evitándose en ancianos debido a los efectos secundarios que pueden tener. No son útiles para el control de los fenómenos de deterioro de fin de dosis ni podrían controlar a un paciente con una enfermedad tan avanzada (respuesta 1 incorrecta)."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "De las siguientes opciones, ¿cuál sería el método diagnóstico más rentable para diagnosticar una demencia?",
+      "opciones": [
+        "TC craneal",
+        "RM craneal",
+        "PET cerebral",
+        "Test cognitivos"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El diagnóstico de demencia no se basa en ninguna prueba de imagen tipo TC o RM craneal ni en pruebas que midan el metabolismo cerebral, sin únicamente en la historia clínica y los diferentes test cognitivos."
+    },
+    {
+      "paginaPdf": 60,
+      "enunciado": "Una de las siguientes afirmaciones es falsa en relación al síndrome de CADASIL.",
+      "opciones": [
+        "Se produce por mutaciones en el gen NOTCH 3",
+        "Se produce un acúmulo de la proteína NOCTH 3 en la membrana plasmática de las células musculares lisas del endotelio de los vasos sanguíneos cerebrales",
+        "El gen NOTCH 3 está localizado en el cromosoma 19",
+        "Habitualmente se asocia a déficit de alfa-galactosidasa."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "El síndrome de CADASIL es una patología poco frecuente, qy es debida a mutaciones del gen NOTCH 3, localizado en el cromosoma 19. Se produce degeneración de las células musculares lisas de los vasos cerebrales. No se asocia a déficit de alfa-galactosidasa, el cual produce enfermedad de Fabry, también causa infrecuente de ictus isquémicos."
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "Qué entiendes por triángulo de Parkinson?",
+      "opciones": [
+        "Es uno de los abordajes clásicos al seno cavernoso",
+        "Es un área que señala la entrada al conducto auditivo interno desde el espacio subtemporal",
+        "Es la entrada del 6º par al seno cavernoso",
+        "Es el techo del seno cavernoso por donde se introduce el 3º par"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El triángulo de Parkinson es el área de la pared lateral del seno cavernoso delimitada por arriba por el trayecto del 6ºpar y por abajo por la 1ª rama del trigémino. Es una entrada segura desde el punto de vista quirúrgico al interior del seno cavernoso"
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "El tratamiento de primera elección para las crisis parciales es:",
+      "opciones": [
+        "Carbamacepina",
+        "Valproico",
+        "Fenitoína",
+        "Fenobarbital"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "De primera elección en las crisis parciales se recomienda la carbamacepina, aunque se pueden usar otros fármacos"
+    },
+    {
+      "paginaPdf": 61,
+      "enunciado": "¿Qué fármaco NO estaría indicado en el tratamiento preventivo de la migraña?:",
+      "opciones": [
+        "Sumatriptan.",
+        "Topiramato.",
+        "Propranolol.",
+        "Flunarizina."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "En el tratamiento de la migraña debemos diferenciar entre los fármacos que actúan en la fase aguda (como son los AINES, y los fármacos conocidos como triptanes, entre ellos el sumatriptán, y otros como zomitriptán, almotriptán, rizatriptán, etc). Para la prevención de la migraña se emplean diferentes fármacos como fármacos antiepilépticos (topiramato), fármacos calcioantagonistas (flunarizina), o fármacos betabloquantes como el propanolol. El empleo de fármacos preventivos para la crisis de migrañas se debe hacer en pacientes que tienen más de dos crisis de migraña al mes."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Respecto a la neuropatía diabética, señale la falsa:",
+      "opciones": [
+        "Suele asociar síntomas disautonómicos",
+        "Puede presentarse de forma asimétrica con afectación de un único nervio como la neuropatía del III nervio craneal o del nervio mediano",
+        "La polineuropatía simétrica distal es la más frecuente y tiene una distribución típica en “guante y calcetín”",
+        "La polineuropatía sensitiva distal es predominantemente desmielinizante"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Podemos clasificar la neuropatía diabética en cuadros simétricos y asimétricos. Respecto a los asimétricos principalmente son neuropatías de nervios craneales (por ejemplo, el III nervio craneal) o por atrapamiento (nervio mediano). En cuanto a las simétricas, la más frecuente es la polineuropatía sensitiva distal, con parestesias y dolor en “guante y calcetín” y una afectación preferentemente axonal en el electroneurograma."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "De entre los siguientes, ¿cuál no es específica en el diagnóstico de miastenia gravis?",
+      "opciones": [
+        "Aumento del jitter.",
+        "Ac anti receptor de acetil colina positivos.",
+        "Ac anti MUSK positivos.",
+        "Respuesta decremental en la estimulación repetitiva a 10Hz."
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El estudio de estimulación de fibra aislada o jitter tiene una gran sensibilidad en el estudio de los trastornos de la unión neuromuscular. Sin embargo, debes recordar que no es específico para el diagnóstico de miastenia gravis, sino que se encuentra alterado en otras enfermedades de la unión neuromuscular (ej Sd Eaton Lambert)."
+    },
+    {
+      "paginaPdf": 62,
+      "enunciado": "Indique la neoplasia cerebral que puede ser responsable con mayor probabilidad de una clínica en una mujer de 56 años consistente en apraxia de la marcha, incontinencia de esfínteres, alteraciones de la memoria y trastornos en la personalidad:",
+      "opciones": [
+        "Glioma de lóbulo temporal.",
+        "Meduloblastoma.",
+        "Meningioma de la hoz cerebral.",
+        "Astrocitoma de tronco cerebral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Esta es una pregunta difícil sobre tumores del SNC que requiere conocer ciertas características a cerca del Meningioma. Lo más importante que debes saber en relación a este tumor es que es un tumor extraparenquimatoso que afecta principalmente a mujeres de edad media. Su localización más frecuente es en la convexidad cerebral parasagital, tienden a la calcificación y como hallazgo anatomopatológico característico se encuentran los cuerpos de psammoma. En lo que respecta a la clínica, esta depende de donde se localice el tumor, habiendo algunas formas de presentación muy características como por ejemplo en la hoz del cerebro, donde simula clínica de hidrocefalia normotensiva (incontinencia urinaria, apraxia de la marcha y deterioro congnitivo)"
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "¿Cuál es el algoritmo terapeutico del status epiléptico?",
+      "opciones": [
+        "Intubación orotraqueal si se confirma que el paciente lleva más de 10 min con una crisis tónico-clónica.",
+        "Soporte vital. Posteriormente, diazepam, pudiendo repetir dosis si persiste crisis y añadir uno de estos: fenitoína/valproico/levetirazetam. Si persiste y lleva más de 30 min, inducir coma farmacológico (midazolam, propofol…).",
+        "Primero administrar fenitoína para yugular el status y posteriormente asegurar el soporte vital.",
+        "Soporte vital. Se iniciará fenobarbital y si con ello no cede se añadirá fenitoína. Pasados 30 min desde el inicio de la crisis se recomienda inducir el coma farmacológico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "El tratamiento indicado para el status epiléptico es el que figura en la opción: inicialmente medidas de soporto, añadiendo un fármaco anticonvulsivante (benzodiazepina) y un antiepiléptico iv en dosis de carga (fenitoína, valproico, levetiracetam, lacosamida...). Si esto no es suficiente se puede dar fenobarbital por tener un perfil más sedante y si esto no fuera suficiente, se debe inducir como farmacológico avisando a UCI por riesgo vital del paciente."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Todas las afirmaciones respecto al pequeño mal son ciertas, EXCEPTO:",
+      "opciones": [
+        "Se inicia en la infancia.",
+        "Puede presentarse tan a menudo como 50 veces al día.",
+        "La hiperventilación disminuye la frecuencia de estos accesos.",
+        "En el electroencefalograma se observan complejos punta-onda a una frecuencia de tres por segundo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El “pequeño mal”, o crisis de ausencia típicas, son crisis generalizadas que aparecen en la infancia y que se caracterizan por desconexiones bruscas del nivel de conciencia que ocurren de modo brusco, muchas veces al día y que son de corta duración. Su frecuencia aumenta con la hiperventilación (respuesta 4 falsa). En el electroencefalograma, se observan con frecuencia complejos punta- onda a 3 Hz.\n\nLa respuesta al tratamiento suele ser muy buena. Uno de los tratamientos de primera línea es el ácido valproico y el otro es la etosuximida (que sólo se puede administrar en las crisis de ausencia)."
+    },
+    {
+      "paginaPdf": 63,
+      "enunciado": "Paciente de 60 años que acudió por primera vez a consulta porque no hablaba, alarmándose la familia y yendo a Urgencias por posible ACV, siendo descartado, por lo que se remitió a consultas de Neurología. Usted comprueba que no nomina y decide descartar alguna LOE cerebral, infección o trastorno endocrinometabólico, resultando todo normal. Su hija, que no acudió en la primera consulta, le comenta que hace unos años se murió su mujer y que no sintió pena alguna y que lleva varios años perdiendo las escasas relaciones sociales que tiene, por culpa de su actitud. Comprueba que no tiene déficit de memoria ni de la percepción. Usted sospecha:",
+      "opciones": [
+        "Enfermedad de Pick",
+        "Enfermedad de Alzheimer",
+        "Demencia por cuerpos de Lewy",
+        "Demencia vascular"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "El primer paso ante una demencia es descartar infecciones, trastornos endocrinometabólicos o lesiones cerebrales, resultando negativo.\n\nNo presenta déficit de memoria, por lo que descartamos EA.\n\nNo presenta alteraciones del movimiento ni alucinaciones visuales, pudiendo descartar demencia por cuerpos de Lewy.\n\nNo presenta antecedentes de ictus ni alteraciones en las pruebas de imagen, descartando la demencia vascular.\n\nEste paciente presenta una enfermedad de Pick o demencia frontotemporal, donde el primer síntoma suele ser la afasia (no nomina). Comenta que lleva varios años de deterioro, apatía, dificultad en las relaciones sociales y pérdida de las emociones. Suele ser más común en pacientes jóvenes, 45-65 años, y cursa con ausencia de déficit de memoria y de la percepción."
+    },
+    {
+      "paginaPdf": 64,
+      "enunciado": "Una paciente de 45 años con antecedentes de un tumor de la mama izquierda tratado con tumorectomía y radioterapia consulta por un cuadro de pérdida de fuerza en extremidad superior izquierda. Refiere un leve dolor ocasional en la zona del hombro. A la exploración se objetiva debilidad para la rotación externa y abducción de hombro, así como la flexión de codo. El reflejo bicipital está abolido. En el EMG de aguja se observan descargas mioquímicas. Señale cuál es la opción diagnóstica MÁS probable con respecto al trastorno que presenta:",
+      "opciones": [
+        "Radiculopatía C5, solicitaría una RMN cervical.",
+        "Plexopatía infiltrativa por recidiva tumoral. Solicitaría una RMN de plexo.",
+        "Plexopatía por radiación. Solicitaría una RMN de plexo.",
+        "Neuralgia amiotrófica. Solicitaría una RMN de plexo."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta difícil sobre la afectación del plexo braquial. El déficit exhibido corresponde al tronco superior del plexo braquial. La distribución y la ausencia de dolor van a favor de la plexopatía por radiación. En el caso de la plexopatía infiltrativa, es frecuente la afectación dolorosa del tronco inferior y la aparición de un síndrome de Horner. La neuralgia amiotrófica se caracteriza por una primera fase de dolor en región escapular, hombro y brazo, seguida de debilidad con distribución de plexo braquial. La aparición de descargas mioquímicas se ha descrito de forma específica en la plexopatía por radiación (respuesta 3 correcta)."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Paciente de 56 años, obeso y fumador de 20 paquetes/año. No sigue controles de tensión ni se ha realizado una analítica reciente. Presenta desde hace meses dolor de tipo quemante en ambas plantas de los pies. Refiere que, en ocasiones, nota intenso dolor cuando camina, con sensación “como de andar sobre cristales”, pero que en muchas ocasiones el dolor le aparece también en reposo, en especial durante el reposo nocturno. No ha percibido pérdida de fuerza. En los últimos meses presenta estreñimiento que no mejora, a pesar de modificaciones dietéticas, y refiere también dificultades en el inicio y mantenimiento de la erección. En la exploración no se objetivan alteraciones en el balance muscular, los reflejos de los miembros inferiores están conservados y ambos cutáneos plantares son flexores. El examen sensitivo muestra una zona de hipersensibilidad, con provocación de sensación desagradable, en la región de ambas plantas y dorso de los pies. La sensibilidad vibratoria y artrocinética (propioceptiva) es normal. ¿Qué asociación diagnóstico-prueba complementaria cree MÁS correcta?",
+      "opciones": [
+        "Polineuropatía sensitivo-motora distal. Estudios de conducción y electromiografía.",
+        "Síndrome de cola de caballo. Resonancia magnética lumbar.",
+        "Polineuropatía de fibra fina. Prueba de sobrecarga oral de glucosa y biopsia de piel.",
+        "Síndrome de Garland. Estudios de conducción y electromiografía."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Pregunta sobre un paciente que muestra alteraciones de la sensibilidad algésica y síntomas disautonómicos, vehiculizados por las fibras C y A- delta, de pequeño calibre, con respeto de la sensibilidad vibratoria y propioceptiva (fibras gruesas) así como de los reflejos y de la función motora (también fibra gruesa mielinizada), lo que orienta a una afectación selectiva de las fibras más finas, lentas y amielínicas o pobremente mielinizadas. En el diagnóstico de esta entidad es de poca utilidad la electromiografía y electroneurografía convencional, dado que testan las fibras gruesas. Lo más sensible es la biopsia de piel para demostrar la pérdida de densidad de terminaciones libres intraepidérmicas. La causa conocida más frecuente es la diabetes, por lo que en todo paciente sin historia conocida de diabetes debe realizarse sobrecarga oral de glucosa (respuesta 3 correcta). Pensaríamos en una polineuropatía sensitivo-motora distal si hubiera más síntomas motores y afectación de la sensibilidad vibratoria-artrocinética. Un síndrome de cola de caballo comenzaría con dolor y tendría una distribución asimétrica con clínica de predominio proximal. El síndrome de Garland es la forma de amiotrofia diabética en la que hay una polineuropatía de predominio motor en la que la afectación se focaliza a nivel proximal."
+    },
+    {
+      "paginaPdf": 65,
+      "enunciado": "Valoramos en la consulta a un paciente de 35 años con debilidad cuadridistal de inicio en la infancia, arreflexia, pies cavos , dedos en martillo y retracción aquílea. A pesar de ello, el paciente deambula y es prácticamente independiente para sus actividades cotidianas. Como ya habrá sospechado el tipo de polineuropatía que el paciente padece, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Pertenece a una de las causas más frecuentes de polineuropatía, tras las metabólicas y atrapamientos.",
+        "Si la velocidad de conducción motora es inferior a 39 m/segundo, le solicitaría el estudio del gen PMP-22 por ser la mutación más frecuente.",
+        "Algunos signos exploratorios como los pies cavos y los dedos en martillo son altamente sugestivos del origen genético de la polineuropatía",
+        "La correlación genotipo fenotipo es muy exacta y un mismo gen solo puede dar un tipo de polineuropatía"
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Respuesta d.\n\nLa semiología es altamente sugestiva de una polineuropatía de origen genético en las que las alteraciones morfológicas, sobre todo en pies, son precoces. Dentro de las desmielinizantes, la más frecuente es la enfermedad de Charcot-Marie-Tooth tipo 1A debida a la duplicación del gen PMP22. La correlación fenotipo-genotipo no es muy exacta, pudiendo dar algunos genes tipos diferentes de polineuropatía o pudiendo deberse un tipo de polineuropatía a diferentes genes. No obstante, establecer el fenotipo clínico-eléctrico es fundamental para llegar al diagnóstico genético exacto."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "¿Cuál de los siguientes órganos si se afecta produce una ataxia con Romberg negativo?",
+      "opciones": [
+        "Cerebelo",
+        "Cordones posteriores",
+        "Oido interno",
+        "Corteza cerebral"
+      ],
+      "respuestaCorrecta": 1,
+      "explicacion": "La única ataxia que produce Romberg negativo es la ataxia cerebelosa. Tanto los cordones posteriores (ataxia sensitiva) como el oído interno (ataxia vestibular) provocarían ataxia con Rombarg positivo. La afectación de la corteza no produce ataxia."
+    },
+    {
+      "paginaPdf": 66,
+      "enunciado": "Paciente de 54 años que ingresa de forma programa para intervención de aneurisma de la aórta torácica. Al despertarse en la unidad de reanimación refiere imposibilidad para la movilización de ambas piernas que es corroborada a la exploración, encontrando una paraplejia flácida. Señale la respuesta incorrecta:",
+      "opciones": [
+        "Es esperable que la sensibilidad tactoalgésica esté afectada de forma bilateral y que la sensibilidad propioceptiva por debajo de la lesión esté conservada.",
+        "Habría que descartar una lesión de la arteria espinal anterior que haya causado un infarto medular.",
+        "No debe tener disfunción vesical ni intestinal.",
+        "En este momento encontraríamos hipoactivos o abolidos tanto el reflejo rotuliano como el aquíleo de forma bilateral."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "CORRECTA OPCIÓN C. La cirugía de aorta puede tener como complicación la lesión de la arteria espinal anterior y consecuentemente un infarto medular con lesión isquémica en la región anterior de la médula que en las primeras horas causaría un “shock medular” con paraparesia con hipotonía y abolición/disminución de reflejos. Es esperable que esté afectada la sensibilidad tactoalgésica inferior al nivel de la lesión puesto que esta vía discurre por la región anterior pero no de la propioceptiva ni de la vibratoria ya que dicha vía se localiza en la región posterior (irrigada por la arteria espinal posterior). Asocia déficit autonómico normalmente con parálisis atónica de la vejiga e intestinal. En lesiones dorsales altas (D4-D8) puede asociar pérdida del tono vasomotor con hipotensión importante."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Un hombre de 76 años acude a su médico quejándose de \"adormecimiento\" en sus manos. La anamnesis muestra que el déficit apareció poco a poco y que se fue instaurando paulatinamente a lo largo de semanas. La exploración confirma una pérdida de dolor y sensación térmica en hombros, extremidades superiores y manos; el paciente muestra heridas en ambas manos, y antebrazos en fase de cicatrización. La exploración con diapasón afinado en Do a 128 Hz, así como la exploración de la sensibilidad artrocinética es normal, en extremidades inferiores no existe pérdida sensitiva, pares craneales sensitivos, tampoco muestran alteraciones. De lo siguiente, ¿qué identifica MÁS específicamente este déficit?",
+      "opciones": [
+        "Síndrome Brown-Séquard.",
+        "Hemiplejia cruzada.",
+        "Pérdida de sensibilidad disociada.",
+        "Agnosia táctil."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "Una pérdida de sensibilidad dolorosa y de la sensación térmica, con preservación de las columnas posteriores constituye una pérdida sensorial disociada. Este déficit se asocia más frecuentemente con lesiones en médula espinal y puede ser inverso a lo descrito, es decir, pérdida de la sensibilidad cordonal posterior y conservación de la vía anterolateral (termoalgésica). El paciente tiene probablemente una siringomielia en niveles cervicales de la médula espinal. El síndrome Brown-Séquard supone una pérdida de sensibilidad cordonal posterior por debajo del nivel de la lesión medular, con afectación de primera motoneurona (corticoespinal) por debajo de la lesión ipsilateral mientras que en el lado opuesto presenta, por debajo del nivel de lesión medular una pérdida de la sensibilidad termoalgésica. La parestesia se refiere a la percepción de una sensación anormal en ausencia de estímulo táctil. La agnosia táctil es la pérdida de la capacidad de reconocer objetos por el tacto con integridad del sistema sensitivo periférico."
+    },
+    {
+      "paginaPdf": 67,
+      "enunciado": "Una mujer de 26 años, sin antecedentes personales de interés, acude a Urgencias consultando por debilidad en musculatura distal de ambas piernas. Ayer comenzó a sentir parestesias en ambos pies y hoy, al despertar, se dio cuenta de la debilidad en ambas piernas; esta debilidad ha progresado rápidamente desde la mañana. Como antecedente de interés la paciente ha presentado una infección gastrointestinal hace unas tres semanas. Según estos datos, usted considera una entidad como probable, y en relación a aquella, una de las siguientes es CORRECTA. Señálela:",
+      "opciones": [
+        "Usted sospecha una polineuropatía crónica desmielinizante, como primera opción, descartando una etiología aguda.",
+        "El evento patológico fundamental en la patología que de la paciente es la destrucción de la mielina por parte de macrófagos, que se produce de manera parcheada en el sistema nervioso periférico, y típicamente cursa con clínica de manera ascendente de distal a proximal.",
+        "Existe un vínculo directo entre infecciones por Shigella y la patología de la paciente. No sucede así con Campylobacter.",
+        "Es característico el patrón asimétrico."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La paciente padece un Síndrome de Guillain Barré o polirradiculoneuropatía desmielinizante inflamatoria aguda, que es la causa más frecuente de tetraparesia aguda no traumática en el mundo occidental. Si se tratase de una CIDP o polineuropatía inflamatoria desmielinizante crónica, la evolución de la paresia sucedería en semanas o meses, pero no es cuestión de días u horas como en este caso. La forma de presentación suele ser como la del caso, inicio de parestesias (sensación anormal sin estímulo sensitivo asociado) distales, que posteriormente asocian una debilidad que se inicia distal en piernas. Los estudios de conducción nerviosa muestran un proceso desmielinizante que afecta a las raíces espinales y a los nervios periféricos. La célula responsable de la destrucción de la mielina es el macrófago, y sucede de manera parcheada como se describe en la pregunta. Existe una asociación entre Campylobacter jejunicomo antecedente infeccioso las semanas previas y la producción de autoanticuerpos antigangliósidos que se producen en pacientes con Guillain Barré. Debes recordar su importancia, ya que es una patología aguda, que afecta a la mielina, que progresa de distal a proximal, y provoca una tetraparesia flácida y arrefléxica en casos severos, siendo la afectación sensitiva al inicio como se describe en el caso, pero luego no tiene relevancia clínica y no suele progresar de esa afectación distal."
+    },
+    {
+      "paginaPdf": 68,
+      "enunciado": "Mujer de 23 años sin antecedentes personales ni familiares de interés que presenta cuadro de deterioro neurológico subagudo consistente en amnesia anterógrada y afectación de la memoria de trabajo que desarrolla crisis epilépticas generalizadas tónico-clónicas y alteraciones comportamentales que comienzan con apatía y evolucionan a un trastorno delirante con ideación obsesiva y desarrollo de alucinaciones visuales. Ante un cuadro de demencia rápidamente progresiva se decide ingreso y ampliación de estudio. Se realiza amplia batería analítica, TAC y RM cerebral, punción lumbar incluyendo proteína 14-3-3, siendo todos los resultados normales o negativos. El electroencefalograma pone de manifiesto una encefalopatía lenta. Se amplía el estudio con un TAC tóraco-abdómino-pélvico que pone de manifiesto una masa anexial derecha sugerente de teratoma ovárico. ¿Cuál es la actitud terapeútica a seguir?",
+      "opciones": [
+        "Ante los hallazgos descritos no se puede descartar una prionopatía, que hasta la fecha no disponemos de tratamiento.",
+        "Ensayo terapeútico con metilprednisolona a altas dosis o inmunoglobulinas dada la correlación entre teratoma ovárico y encefalitis inmunomediadas.",
+        "Inicio de tratamiento intravenoso con aciclovir.",
+        "Dado el amplio despistaje realizado se puede considerar una demencia primaria y comenzaría tratamiento con inhibidores de la acetilcolinesterasa."
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La respuesta correcta es la 2, dada la clínica y el hallazgo de teratoma ovárico, lo más probable es que se trate de una encefalitis inmunomediada por anticuerpos contra antígenos de superficie tipo NMDA, siendo el tratamiento la inmunoterapia y el tratamiento específico del tumor benigno."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "La cirugía en el área motora suplementaria o en proximidades de la misma, puede producir un conjunto de signos y síntomas deficitarios caracterizados por:",
+      "opciones": [
+        "Hemiplejia contralateral transitoria con hemianospia contralateral.",
+        "Hiporreflexia global con afasia motora.",
+        "Aquinesia global de predominio contralateral con afasia transcortical motora.",
+        "Hemiplejia contralateral definitiva con repetición y nominación alteradas."
+      ],
+      "respuestaCorrecta": 3,
+      "explicacion": "El síndrome del área motora suplementaria se manifiesta como una hemiplejia contralateral en los primeros días postoperatorios, con recuperación progresiva en los siguientes días, enlentecimiento en la respuesta motora desde su inicio voluntario hasta su ejecución definitiva. Puede acompañarse de hemiataxia, hemiapraxia, heminegligencia, hiperreflexia e hipertonicidad."
+    },
+    {
+      "paginaPdf": 69,
+      "enunciado": "Un paciente presenta a la exploración ptosis y miosis derechas. ¿Cuál de las siguientes etiologías NO consideraría en el diagnóstico diferencial?:",
+      "opciones": [
+        "Síndrome de Wallenberg.",
+        "Disección carotídea.",
+        "Tumor de Pancoast.",
+        "Pupila de Argyll-Robertson."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta de dificultad media que se puede solucionar de dos formas: 1) sabiendo que la pupila de Argyll-Robertson es la afectación pupilar bilateral sin ptosis con pupilas pequeñas e irregulares que responden escasamente a la luz pero que conservan la acomodación para visión cercana y que está relacionada característicamente con la neurolúes. 2) sabiendo el trayecto de las fibras pupilares simpáticas: hipotálamo, ganglio cervical superior o ganglio estrellado, plexo pericarotídeo, rama oftálmica del trigémino (V1). El síndrome de Wallenberg o síndrome bulbar lateral es una entidad clínica que incluye un síndrome de Horner ipsilateral."
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Cuál de estas patologías se relaciona con la formación de aneurismas cerebrales?",
+      "opciones": [
+        "Enfermedad de Von Hippel Lindau",
+        "Poliquistosis",
+        "Enfermedad de Sturge Weber",
+        "Telangiectasia hemorrágica herditaria o Enfermedad de Rendu Osler Weber"
+      ],
+      "respuestaCorrecta": 2,
+      "explicacion": "La poliquistosis renal es una enfermedad autosómico dominante que se asocia a la presencia de aneurismas saculares en el cerebro"
+    },
+    {
+      "paginaPdf": 70,
+      "enunciado": "Mujer de 45 años que consulta porque se le caen los objetos de las manos desde hace unas semanas. No refiere antecedentes de interés y en la anamnesis afirma que últimamente se ha quemado en la palma de las manos y los dedos sin darse cuenta. La exploración física revela una discreta paresia de la musculatura intrínseca de ambas manos. Señale la opción INCORRECTA respecto a la patología que presenta la paciente:",
+      "opciones": [
+        "Lo más probable es que la sensibilidad epicrítica esté conservada.",
+        "En ocasiones puede asociar hidrocefalia y descenso de las amígdalas cerebelosas.",
+        "Una RM espinal mostrará una dilatación del canal ependimario.",
+        "La punción lumbar mostrará típicamente una pleocitosis con predominio de polimorfonucleares y proteinorraquia > 3 mg/dL."
+      ],
+      "respuestaCorrecta": 4,
+      "explicacion": "Pregunta difícil sobre un tema poco preguntado como es la siringomielia. La siringomielia consiste en la dilatación del canal ependimario intramedular o aparición de cavidades quísticas (sirinx) de LCR debido a problemas de circulación del LCR. Debido a estos problemas de dinámica de LCR, puede estar asociado a hidrocefalia o malformación de Chiari. Típicamente cursa con un síndrome centromedular, con un déficit disociado y suspendido de la sensibilidad, con abolición de la sensibilidad termoalgésica, que cruza por el centro de la médula (quemaduras sin darse cuenta) y preservación de la epicrítica, que viaja por los cordones posteriores. La punción lumbar no es característica y puede mostrar en ocasiones aumento de las proteínas sin aumento de los leucocitos."
+    }
+  ]
+}
