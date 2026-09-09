@@ -48,6 +48,12 @@
     "conImagen": 0
   },
   {
+    "slug": "digestivo",
+    "titulo": "Digestivo",
+    "totalPreguntas": 255,
+    "conImagen": 0
+  },
+  {
     "slug": "embriologia",
     "titulo": "Embriología",
     "totalPreguntas": 97,
@@ -62,7 +68,7 @@
   {
     "slug": "epidemio",
     "titulo": "Epidemiología",
-    "totalPreguntas": 161,
+    "totalPreguntas": 201,
     "conImagen": 0
   },
   {

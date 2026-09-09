@@ -103,6 +103,48 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p75: en el comentario del adenocarcinoma de antro gástrico hay un paréntesis sin abrir: 'los estadios precoces de la enfermedad T0-1 y algún T2 N0)'
 - p82: Resp. Correcta 1 (trombosis venosa profunda) pero el comentario no menciona la trombosis venosa profunda y enumera otras complicaciones (lesiones vasculares, intestinales, vesicales, uretrales, hernias, infecciones), sin justificar la clave
 
+## Digestivo
+
+- p105-p106: el comentario remite a '(ver imagen en sección inferior)' pero no hay ninguna imagen ni enlace; en p106 el espacio correspondiente está completamente en blanco
+- p106: el enunciado del caso de pancolitis ulcerosa intercala la frase suelta 'ADVP acude por malestar general, astenia y ligera ictericia.' que no encaja con el resto del caso
+- p106: la pregunta 'Una mujer de 35 años, con ingesta de alcohol importante...' está duplicada (ya aparece en p103) con la misma clave (4) pero con comentarios distintos y parcialmente contradictorios: en p103 se dice que ni transaminasas ni bilirrubina son indicadores pronósticos, y en p106 que 'el pronóstico es bueno'
+- p108: Resp. Correcta 4 ('Los niveles de coproporfirinas séricos estarán incrementados') pero el comentario afirma lo contrario: 'Los niveles de coproporfirinas séricos estarán normales pero a expensas de las de tipo I'
+- p108: sodio y potasio se expresan en mEq/ml ('sodio 142 mEq/ml, potasio 4.1 mEq/ml') en lugar de mEq/L
+- p110: el comentario dice 'ni presencia de fiatulas'; la palabra está corrompida y debe leerse 'fístulas', dato clave para diferenciar colitis ulcerosa de enfermedad de Crohn
+- p111: el enunciado y el comentario traen palabras fusionadas sin espacio: 'SAMUR pordesorientación', 'H. pylories un bacilo', 'sobrevivir alH. pylorien medio ácido'
+- p112: el comentario trae palabras fusionadas sin espacio: 'Ellíquido presenta unos valores'
+- p12: la alfa-fetoproteína se expresa como 'inferior a 50 nf/mL'; la unidad correcta es ng/mL
+- p13: el comentario justifica la respuesta citando la combinación elbasvir+grazoprevir, que no figura entre las opciones
+- p18: la opción 3 habla de contracciones prematuras en el 50% de las degluciones mientras el comentario sitúa el umbral en 'más del 20%'; además el paréntesis de esa explicación queda descompensado
+- p25: en la explicación de la anemia ferropénica el original perdió los espacios alrededor del texto en cursiva: 'al serH. pyloripositivo' (por 'al ser H. pylori positivo'); se transcribe tal cual.
+- p28: 'El test de la D-xilosa alterado indica' tiene Resp. Correcta: 1, pero el comentario (que continúa en p29) afirma '(respuesta 2 correcta)'; se respeta el 1 de la clave.
+- p28: en el enunciado del cirrótico el sodio figura como 'Na 121 mEq/1' (uno en lugar de ele) por errata del original.
+- p31: la explicación de las causas de pancreatitis aguda es un listado con guiones que se ha linealizado en líneas separadas dentro del mismo párrafo.
+- p36: en la pregunta de Natalia la cuarta opción aparece numerada dos veces en el original ('4. 4. Es frecuente la pérdida de peso...'); se transcribe el texto tal cual, con el '4.' sobrante.
+- p43: la explicación abre con una frase incompleta: 'El paciente dado que tiene actividad persistente en todo el colon.'
+- p44: Resp. Correcta 3 (betabloqueantes) pero el comentario cierra con 'el uso de betabloqueantes para disminuir la presión portal no se relaciona con este problema (respuesta 4)', citando un número de opción que no corresponde
+- p49: el enunciado describe a un 'Varón de 45 años' pero el comentario habla de 'una paciente con hipertransaminasemia leve'
+- p5: en el enunciado del varón de 56 años consta 'actividad de protrombina 10%', valor incompatible con el resto de la analítica y con la actitud propuesta (probablemente 100%)
+- p64: en el comentario, 'El test de grasa en heces fue patológico lo que apuntaría a descartar una posible malabsorción/maldigestión' invierte el sentido del razonamiento (una esteatorrea patológica apunta a malabsorción, no la descarta); acto seguido dice que el D-xilosa patológico 'descartaría una insuficiencia pancreática exocrina' pese a que el enunciado solo lo describe como 'ligeramente bajo'
+- p69: el comentario afirma que los antivirales acabados en '-asvir' inhiben 'la polimerasa A'; son inhibidores de NS5A, que no es una polimerasa
+- p70: el comentario cierra diciendo que la gastritis atrófica autoinmune aumenta el riesgo de cáncer gástrico 'en concreto de gastrinomas'; los tumores asociados son carcinoides gástricos, no gastrinomas
+- p74: el último criterio de Bethesda del comentario está corrupto: 'paciente con cáncer rectal y dos son más familiares de primero segundo grado' (debería leerse 'dos o más familiares de primer o segundo grado'), lo que altera el criterio
+- p76: la analítica del enunciado del caso de ictericia está mal rasterizada: 'GGT 150 UT/1, (1.511 50), fosfatasa alcalina 180 UIJL (lsn 105)'; se transcribe tal cual, pero las unidades y el límite superior de la GGT son ilegibles/erróneos
+- p77: valores de cobre con unidades imposibles/no rasterizadas: 'ceruloplasmina sérica 119 mg/dL (disminuida), cupremia 183 g/dL (aumentada), cupruria 125 g/dL (aumentada)'; faltan los prefijos micro (µg/dL) y la ceruloplasmina en mg/dL no puede ser 119 y estar disminuida
+- p79: en la explicación aparece 'La polemizaras es la base para la síntesis de los genomas de la progenie', texto corrupto que debería decir 'La polimerasa'
+- p7: el comentario describe el 'predominio de colestasis (aumento de bilirrubina, fosfatasa alcalina y bilirrubina)' repitiendo bilirrubina y omitiendo el tercer parámetro
+- p81: en la explicación de la acalasia las flechas del algoritmo diagnóstico se rasterizaron como la letra 'à': 'estudio baritado à endoscopia digestiva alta à manometría esofágica'
+- p82: 'calprotectina 35 mg/g' — falta el prefijo micro (µg/g); en mg/g el valor sería mil veces mayor
+- p85: el comentario de la ingesta de lejía afirma 'en este caso, el paciente está perforado', dato que no consta en el enunciado ni en el resto del comentario
+- p86: el marcador 'Ac-VHC ,' aparece sin signo (+/-); el comentario aclara que el marcador de virus C es positivo
+- p88: el comentario de la pancreatitis contiene una lista de criterios de Ranson que se ha linealizado con saltos de línea
+- p90: el comentario de la pregunta sobre técnicas endoscópicas empieza con 'Pregunta anulable' y menciona 'ecoendoscopia alta diagnóstica', mientras que la opción 1 dice 'Endoscopia digestiva alta diagnóstica'
+- p90: en el comentario del tacrolimus varias palabras aparecen unidas por falta de espacio ('Eltacrolimus', 'deltacrolimus', 'ytacrolimus', 'detacrolimus', 'contacrolimus'); además afirma que los inductores del citocromo P-450 3A4 'pueden aumentar los niveles en sangre deltacrolimus', cuando los inductores los disminuyen
+- p91: el comentario de la obstrucción biliar termina con 'se expone el algoritmo de manejo ante la sospecha de patología biliar:' pero el algoritmo no aparece en el documento
+- p94: la opción 1 afirma que la biopsia antral es útil 'especialmente si se toma de zonas metaplásicas' y el comentario dice lo contrario, 'especialmente útil si se toma de zonas no atróficas'
+- p96: sodio y potasio se expresan en mg/dl ('sodio 140 mg/dl, potasio 4 mg/dl') en lugar de mEq/L
+- p98: el enunciado dice 'diagnosticado de colitis ulcerosa desde hace 11' y falta la unidad (años)
+
 ## Embriología
 
 - p10: en 'Entre las proposiciones que figuran a continuación a propósito del aparato lagrimal excretor, una es FALSA' la clave es 'Resp. Correcta: 3' pero el comentario afirma 'La opción 4 es incorrecta porque el conducto lacrimonasal desemboca en el meato inferior' y además cita '(opción 3)' para los puntos lagrimales; el comentario parece copiado de la pregunta análoga de la p12
@@ -156,6 +198,14 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p69: Resp. Correcta 4 (Wilcoxon), pero el comentario cierra con 'habría que optar por la prueba de Wilcoxon (respuesta 1 correcta)'; la opción 1 es 't de Student para datos apareados'. Se respeta el 4 de 'Resp. Correcta:'
 - p69: en el comentario de la pregunta de maniacodepresivos/esquizofrénicos las flechas se rasterizaron como 'à' ('Momento de medición (antes/después) à Cualitativa dicotómica'); se transcriben tal cual
 - p73: Resp. Correcta 2 ('Cohortes retrospectivo'), pero el comentario (que continúa en p74) cierra con 'Por lo tanto, la respuesta correcta es la 3', que corresponde a 'Ensayo clínico'. Se respeta el 2 de 'Resp. Correcta:'
+- p78: en 'Usted dispone de una prueba diagnóstica de sífilis...' la tabla de contingencia del comentario (que continúa en p79) tuve que linealizarla: 'Enfermo Sano / Positivo 0,95 51 / Negativo 0,05 949 / 1 999'
+- p78: en 'Usted dispone de una prueba diagnóstica de sífilis...' los números de la tabla son incoherentes: la columna 'Sano' suma 51+949=1.000 pero su total figura como 999, y el texto calcula el VPP como 0,95/50,95 (usando 50 falsos positivos, no los 51 de la tabla)
+- p80: en 'Hemos realizado un estudio en una población de 100 sujetos...' la celda 'Enfermos / Test negativo' aparece como '0 (1 x 1)', operación que da 1 y no 0; el resultado 0 sí es el correcto para el razonamiento
+- p80: en 'Hemos realizado un estudio en una población de 100 sujetos...' la tabla de contingencia del comentario (que continúa en p81) tuve que linealizarla: filas 'Test positivo', 'Test negativo' y 'Total' con columnas 'Enfermos', 'Sanos' y 'Total'
+- p82: en 'Respecto al análisis de la varianza, señale la respuesta FALSA' la clave es 'Resp. Correcta: 3' pero el comentario afirma 'lo que dice la respuesta 4 es falsa' y añade 'no debes preocuparte si has dudado entre la 2 y la 4'; el contenido descrito como falso corresponde en realidad a la opción 3
+- p85: en 'Un estudio en el que se seleccionan sujetos libre de enfermedad...' el comentario dice 'Esto nos permite descartar estudios descriptivos (opciones 3 y 4)', pero la opción 4 es precisamente la respuesta correcta según la clave
+- p86: en 'En un ensayo clínico se pre-define que el fármaco experimental será no-inferior...' el enunciado da un 52% de eventos en el grupo experimental frente a un 68% en el control, lo que corresponde a un RR de 0,76 y no al RR = 0,90 que declara el propio enunciado
+- p90: en 'En un estudio realizado sobre un grupo de adultos varones...' el comentario dice 'Esto invalida las opciones 1 y 3, donde no existe tal intervalo' cuando la opción 3 sí enuncia un intervalo (175-185); después descarta 'la opción 4' por estar construida con un solo error estándar, descripción que corresponde a la opción 3. La numeración del comentario está desplazada
 
 ## Farmacología
 

@@ -7,11 +7,13 @@ La explicación cita una numeración que no cuadra con las opciones mostradas. L
 - Cardiología #50 (p25): la explicación cita la opción 5 y solo hay 4
 - Cirugía #58 (p27): respuestaCorrecta=2 pero la explicación señala la 3
 - Cirugía #124 (p56): la explicación cita la opción 5 y solo hay 4
+- Digestivo #57 (p28): respuestaCorrecta=1 pero la explicación señala la 2
 - Endocrinología #59 (p29): respuestaCorrecta=3 pero la explicación señala la 4
 - Epidemiología #87 (p42): respuestaCorrecta=2 pero la explicación señala la 3
 - Epidemiología #101 (p49): la explicación cita la opción 5 y solo hay 4
 - Epidemiología #146 (p69): respuestaCorrecta=4 pero la explicación señala la 1
 - Epidemiología #155 (p73): respuestaCorrecta=2 pero la explicación señala la 3
+- Epidemiología #188 (p90): respuestaCorrecta=4 pero la explicación señala la 2
 - Fisiología #76 (p36): la explicación cita la opción 5 y solo hay 4
 - Ginecología #6 (p5): respuestaCorrecta=3 pero la explicación señala la 4
 - Ginecología #45 (p23): respuestaCorrecta=2 pero la explicación señala la 3
