@@ -60,6 +60,12 @@
     "conImagen": 0
   },
   {
+    "slug": "epidemio",
+    "titulo": "Epidemiología",
+    "totalPreguntas": 161,
+    "conImagen": 0
+  },
+  {
     "slug": "farmacologia",
     "titulo": "Farmacología",
     "totalPreguntas": 185,
@@ -75,6 +81,12 @@
     "slug": "genetica",
     "titulo": "Genética",
     "totalPreguntas": 110,
+    "conImagen": 0
+  },
+  {
+    "slug": "ginecologia",
+    "titulo": "Ginecología",
+    "totalPreguntas": 196,
     "conImagen": 0
   },
   {

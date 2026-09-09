@@ -135,6 +135,28 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p9: la opción 2 está truncada en el original: "Determinación de calcio en sangre y orina, i."
 - p9: la opción 4 dice "dosis ablativa de 1-131"; el isótopo es I-131 y en el original la I aparece como el dígito 1
 
+## Epidemiología
+
+- p14: en el comentario, 'Variable 1: Momento de medición (antes/después) a Cualitativa dicotómica' y 'Variable 2: Descenso de la frecuencia cardíaca (numérica) a Cuantitativa' llevan una 'a' suelta donde el original tenía una flecha (→) que no se rasterizó
+- p16: la opción 4 aparece como '5/V-200 = 0,35.'; el símbolo de raíz cuadrada no se rasterizó (matemáticamente sería 5/√200 = 0,35)
+- p19: en el comentario de la pregunta del visitador médico el paréntesis '(la probabilidad de detectar diferencias cuando realmente no las hay será pequeña' queda sin cerrar y define mal la potencia, que es la probabilidad de detectar diferencias cuando SÍ existen
+- p22: en la pregunta del té y la coronariopatía, el comentario dice 'traducen la existencia de un factor de riesgo' cuando el contexto y la clave (opción 4) apuntan a un factor de confusión; además el comentario identifica como factor de confusión 'la dieta mediterránea' mientras la opción correcta habla de 'la dieta'
+- p24 y p30: la misma pregunta sobre el estudio de 1962 de la Universidad de Harvard aparece duplicada, con redacción ligeramente distinta y comentarios de distinta extensión; en ambos casos Resp. Correcta: 2
+- p32: en el comentario de la pregunta del ácido úrico aparece el carácter 'à' (V1: ... à Cualitativa; V2: ... à Cuantitativa) donde el original usaba una flecha que no se rasterizó correctamente
+- p34: en la pregunta de screening de diabetes el comentario usa 'TP' y 'TN' como total de positivos y total de negativos del test (76 y 24), no como verdaderos positivos/negativos; el VPN se calcula como VN/TN = 16/24 = 0,666
+- p36-p37: el comentario de la pregunta de alimentos transgénicos incluye una tabla 2x2 (Expuestos/No expuestos frente a Enfermos/Sanos/Total) que se linealizó en el texto de la explicación
+- p36: el comentario de la pregunta sobre estudio analítico observacional contiene una clasificación jerárquica con viñetas '·', 'o' y '#' que se linealizó como líneas de texto
+- p39: en la pregunta del RR estratificado por sexo, el comentario afirma que el IC 95% (1- 7) de los varones no incluye el 1 y termina diciendo que "lo que incluiría el 1 sería (1-7)", repitiendo el mismo intervalo; se perdió la notación (corchete) que daría sentido a la frase
+- p42: en la pregunta de las edades de una muestra de 300 pacientes, Resp. Correcta 2 pero el comentario dice "la respuesta correcta es la 3" (la descripción que da entre paréntesis corresponde en realidad a la opción 2) y luego dice que la interpretación inferencial "se ajusta a la dada por la respuesta 4", que corresponde a la opción 3
+- p43: en la pregunta del colangiocarcinoma, la clave es la opción 4 (los pacientes con cáncer están más motivados para recordar la exposición) pero el comentario dice que el sesgo de memoria "afecta fundamentalmente a controles, que no recuerdan el antecedente a la exposición"
+- p49: en la pregunta del ensayo clínico de interferón en hepatitis C, Resp. Correcta 4 pero el comentario cierra con "Por ello la respuesta correcta es la 5" y solo hay 4 opciones
+- p57: en la pregunta sobre la escala de medida que contiene más información, Resp. Correcta 4 (Razón) y el comentario dice que solo la razón es una escala de medida, pero a continuación afirma que "Las respuestas 1 y 4 son tipos de variables", incluyendo la propia opción correcta
+- p64: en '¿Cuál de los siguientes parámetros NO es una medida de dispersión?' el comentario enumera como 'el resto de opciones' cuatro parámetros (varianza, desviación estándar, coeficiente de variación y rango), pero la varianza no figura entre las opciones de la pregunta
+- p68: el comentario incluye una tabla de contingencia que tuvo que linealizarse: cabecera 'Enfermos Sanos Total' y filas 'Positivo 27 21 48', 'Negativo 3 49 52', 'Total 30 70 100'
+- p69: Resp. Correcta 4 (Wilcoxon), pero el comentario cierra con 'habría que optar por la prueba de Wilcoxon (respuesta 1 correcta)'; la opción 1 es 't de Student para datos apareados'. Se respeta el 4 de 'Resp. Correcta:'
+- p69: en el comentario de la pregunta de maniacodepresivos/esquizofrénicos las flechas se rasterizaron como 'à' ('Momento de medición (antes/después) à Cualitativa dicotómica'); se transcriben tal cual
+- p73: Resp. Correcta 2 ('Cohortes retrospectivo'), pero el comentario (que continúa en p74) cierra con 'Por lo tanto, la respuesta correcta es la 3', que corresponde a 'Ensayo clínico'. Se respeta el 2 de 'Resp. Correcta:'
+
 ## Farmacología
 
 - p12: en el comentario sobre tolerancia antibiótica aparece '(CMB/CMI ? 32)': el signo original (probablemente '≥') no se rasterizó y quedó como interrogante
@@ -200,6 +222,47 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p47: la pregunta sobre los orígenes de la variabilidad del genoma repite la etiqueta 'Comentario:' dos veces antes del texto de la explicación
 - p49: el comentario de la pregunta del sistema HLA dice 'Los genes del HLA se localizan en el brazo corto del cromosoma' sin indicar de qué cromosoma se trata (el 6)
 - p4: el comentario expande MELAS como "Myoencephalopathy, Lactic Acidosis and Stroke-Like Episodes" y lo describe cursando con "hiperprolactinemia"; lo aceptado es Mitochondrial Encephalomyopathy e hiperlactacidemia. Se transcribe tal cual.
+
+## Ginecología
+
+- p12: en la opción 4 y en el comentario los signos ≥ aparecen acompañados de puntos sueltos ('TA sistólica ≥. 160 mmHg y/o TA diastólica .≥ 110 mmHg'); se transcribe tal cual
+- p17: en la pregunta del registro cardiotocográfico la Resp. Correcta es 3 pero el comentario dice 'por lo que la opción correcta es la 4' y cita 'La amnioscopia (opción 5)' cuando solo hay 4 opciones
+- p22: en la pregunta de la microtoma de sangre fetal el comentario atribuye a la 'opción 4' el colocar a la gestante en decúbito lateral, pero la opción 4 listada es 'Ayudar instrumentalmente en el expulsivo para acortarlo'
+- p23: '¿Cuál es el síntoma o signo más frecuente del cáncer de mama?' tiene Resp. Correcta: 2 (Nódulo mamario) pero el comentario afirma 'Así, la opción 3 es la correcta' y descarta explícitamente la 2; se respeta la clave 2
+- p23: el comentario de esa misma pregunta afirma 'el cáncer de mama suele manifestarse por dolor', dato médicamente incorrecto (el nódulo del cáncer de mama es característicamente indoloro)
+- p27: la pregunta sobre anticoncepción en el puerperio numera sus opciones 1-4 pero la opción 4 dice 'b y c son correctas', refiriéndose a letras que no existen (equivaldría a 2 y 3)
+- p28: el comentario de la pregunta sobre preeclampsia es una lista con epígrafe numerado ('1. Vía del parto') y viñetas; se linealizó en párrafos
+- p29: el comentario de los factores de riesgo de cáncer de ovario es una lista de guiones; se linealizó en párrafos
+- p34: '¿Cuál de las siguientes afirmaciones respecto a la menopausia es FALSA?' tiene Resp. Correcta: 4 pero el comentario cierra el razonamiento con '(RC: 5)' y solo hay 4 opciones
+- p40: en '¿Cuál de estas circunstancias NO se ha relacionado con una mayor probabilidad de embarazo ectópico?' la Resp. Correcta es 3 (conización cervical) pero el comentario cierra con '(RC: 4)'
+- p41: en 'Mujer de 60 años. En la revisión rutinaria se detecta una masa móvil en pelvis...' la Resp. Correcta es 3 pero el comentario dice 'Las respuestas 1, 2 y 3 se descartan' y 'Entre las opciones 4 y 5, es preferible la 4'; además cita una opción 5 que no existe (solo hay 4 opciones)
+- p47: en 'Mujer de 68 años que comienza con clínica de aumento del diámetro abdominal...' el comentario cita 'como dice en la respuesta 5, tras recidiva' pero solo hay 4 opciones
+- p50: en 'Gestante de 37 semanas a la que se le practica monitorización fetal no estresante...' la Resp. Correcta es 4 pero el comentario dice 'prueba de Pose (opción correcta la 5)'; solo hay 4 opciones y la prueba de Pose es la 4
+- p51: en 'La aparición de un patrón de desaceleración variable o Dip III...' la Resp. Correcta es 1 pero el comentario cierra la descripción de las deceleraciones variables con '(respuesta 2 correcta)'
+- p51: en esa misma pregunta el comentario remite a '(ver imagen)' al describir los DIPS tipo II, pero en la página no hay ninguna imagen ni enlace de imagen
+- p52: en 'En una paciente con tumoración ovárica, ascitis y derrame pleural...' el comentario dice 'Los otros cuatro síndromes son causa de amenorrea' cuando solo quedan tres opciones restantes (menciona además el síndrome de Sheehan, que no figura entre las opciones)
+- p53: en 'Una de las siguientes NO es complicación frecuente del abruptio' la Resp. Correcta es 4 pero el comentario dice 'excepto la pielonefritis (opción 5)'; la pielonefritis es la opción 4 y solo hay 4 opciones
+- p59: la pregunta sobre enfermedad pélvica inflamatoria tiene 4 opciones, pero el comentario cita 'respuesta 5 correcta' para Neisseria/Chlamydia y 'respuesta 3 correcta' para la promiscuidad, que no figura entre las opciones; la numeración del comentario no corresponde a las opciones listadas
+- p5: Resp. Correcta 3 pero el comentario (en p6) afirma 'La menopausia tardía aumenta el riesgo en todas las mujeres (respuesta 4 correcta)'
+- p60: 'Se considera el patrón de reactividad...' tiene Resp. Correcta 4 pero el comentario afirma 'la opción 5 es la que debemos escoger' y solo hay 4 opciones
+- p64: '¿Qué valores de pH intraparto se consideran normales?' el comentario menciona 'Por encima de 7,45 (opciones 1 y 5)' cuando solo hay 4 opciones
+- p66: el comentario dice 'se puede tratar de una mola hidatidiforme completa parcial (MHP)', descripción contradictoria (completa y parcial a la vez)
+- p67: el comentario de 'Respecto a la fisiología del embarazo' arranca con 'Existe un del flujo plasmático renal', falta la palabra 'aumento' en el original
+- p6: '¿Cuál NO es factor de riesgo del cáncer de mama?' tiene 4 opciones y Resp. Correcta 4, pero el comentario dice 'accedemos directamente a la opción 5 como la correcta' y 'Las otras cuatro opciones son factores de riesgo'; la numeración del comentario está desfasada respecto a las opciones
+- p6: en la pregunta de la mujer de 59 años la Resp. Correcta es 3 (Histeroscopia con biopsia dirigida) pero el comentario escribe 'histeroscopia con biopsia dirigida (RC- 4)'
+- p70: '¿Cuál de los siguientes le hace pensar en existencia de sufrimiento fetal?' tiene Resp. Correcta 4 pero el comentario dice 'la opción a escoger es la 5, el LA meconial'; además comenta 'La variabilidad de 20 lpm es normal' sin que exista tal opción
+- p71: 'Dentro de las funciones de la placenta, NO se incluye' tiene Resp. Correcta 4 pero el comentario cierra con '(respuesta 5 falsa)' y solo hay 4 opciones
+- p72: 'Indique la respuesta INCORRECTA sobre la microtoma de sangre fetal' tiene Resp. Correcta 4 pero el comentario dice 'por tanto la respuesta 5 es la incorrecta' y numera las opciones desfasadas respecto a las 4 listadas
+- p76: el comentario incluye una tabla de 'Criterios de evaluacón preterapéutica' que se linealizó como lista de ítems separados por saltos de párrafo
+- p78: 'Respecto a los anticonceptivos orales...' tiene Resp. Correcta 3 pero el comentario cierra con '(respuesta 5 correcta)' y solo hay 4 opciones
+- p83: 'Al hacer un estudio mediante una microtoma de sangre fetal...' tiene Resp. Correcta 2 pero el comentario dice '(respuesta 3 correcta)'; el texto del comentario describe la conducta de la opcion 2
+- p85: 'En el cancer de mama, cuando se emplea la radioterapia?' tiene la explicacion con una lista de criterios (T3, T4, afectacion axilar, margenes) que se linealizo como parrafos separados
+- p86: 'Ante los cambios que se producen en el embarazo...' tiene Resp. Correcta 2 pero el comentario dice '(opcion 3 correcta)'; el contenido del comentario respalda la opcion 2
+- p86: 'En el manejo de la Eclampsia son correctas todas EXCEPTO' tiene Resp. Correcta 4 pero el comentario dice 'Las 4 primeras respuestas son todas ciertas' y 'La respuesta incorrecta es la 5', y solo hay 4 opciones
+- p88: 'Para medir la eficacia anticonceptiva utilizamos el indice de Pearl...' presenta cada opcion como una lista numerada interna del 1 al 5; se transcribio linealizada dentro del texto de cada opcion
+- p8: '¿Cuál de los siguientes NO es factor de riesgo de osteoporosis?' solo tiene 4 opciones, pero el comentario cita 'raza blanca (opción 5)', 'tabaco (opción 4)', 'esteroides orales (opción 2)' -que no figura entre las opciones- y 'multíparas (opción 3)': la numeración del comentario no corresponde con la de las opciones
+- p90: 'Cual de los siguientes NO es util en el diagnostico prenatal de las cromosomopatias' tiene Resp. Correcta 4 pero el comentario dice 'la opcion 5 es la que debemos escoger', y solo hay 4 opciones
+- p9: la pregunta de la primigesta de 29 años (Resp. Correcta 3) tiene por comentario un bloque general titulado 'TRATAMIENTO de la PREECLAMPSIA' que no justifica de forma explícita cuál de las cuatro premisas es la incorrecta
 
 ## Hematología
 

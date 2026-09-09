@@ -8,7 +8,18 @@ La explicación cita una numeración que no cuadra con las opciones mostradas. L
 - Cirugía #58 (p27): respuestaCorrecta=2 pero la explicación señala la 3
 - Cirugía #124 (p56): la explicación cita la opción 5 y solo hay 4
 - Endocrinología #59 (p29): respuestaCorrecta=3 pero la explicación señala la 4
+- Epidemiología #87 (p42): respuestaCorrecta=2 pero la explicación señala la 3
+- Epidemiología #101 (p49): la explicación cita la opción 5 y solo hay 4
+- Epidemiología #146 (p69): respuestaCorrecta=4 pero la explicación señala la 1
+- Epidemiología #155 (p73): respuestaCorrecta=2 pero la explicación señala la 3
 - Fisiología #76 (p36): la explicación cita la opción 5 y solo hay 4
+- Ginecología #6 (p5): respuestaCorrecta=3 pero la explicación señala la 4
+- Ginecología #45 (p23): respuestaCorrecta=2 pero la explicación señala la 3
+- Ginecología #104 (p51): respuestaCorrecta=1 pero la explicación señala la 2
+- Ginecología #121 (p59): la explicación cita la opción 5 y solo hay 4
+- Ginecología #160 (p78): la explicación cita la opción 5 y solo hay 4
+- Ginecología #171 (p83): respuestaCorrecta=2 pero la explicación señala la 3
+- Ginecología #178 (p86): respuestaCorrecta=2 pero la explicación señala la 3
 - Hematología #5 (p5): respuestaCorrecta=2 pero la explicación señala la 3
 - Hematología #19 (p12): respuestaCorrecta=4 pero la explicación señala la 1
 - Histología #59 (p23): respuestaCorrecta=3 pero la explicación señala la 2
