@@ -19,4 +19,8 @@ La explicación cita una numeración que no cuadra con las opciones mostradas. L
 - Pediatría #76 (p33): respuestaCorrecta=2 pero la explicación señala la 3
 - Pediatría #120 (p51): respuestaCorrecta=3 pero la explicación señala la 4
 - Psiquiatría #4 (p5): respuestaCorrecta=2 pero la explicación señala la 3
+- Reumatología #28 (p15): la explicación cita la opción 5 y solo hay 4
+- Reumatología #59 (p29): respuestaCorrecta=3 pero la explicación señala la 4
+- Reumatología #111 (p51): la explicación cita la opción 5 y solo hay 4
+- Reumatología #163 (p73): respuestaCorrecta=4 pero la explicación señala la 1
 - Urología #15 (p10): la explicación cita la opción 5 y solo hay 4

@@ -127,6 +127,12 @@
     "conImagen": 0
   },
   {
+    "slug": "oncologia",
+    "titulo": "Oncología",
+    "totalPreguntas": 198,
+    "conImagen": 0
+  },
+  {
     "slug": "otorrino",
     "titulo": "Otorrinolaringología",
     "totalPreguntas": 85,
@@ -143,6 +149,12 @@
     "titulo": "Psiquiatría",
     "totalPreguntas": 101,
     "conImagen": 0
+  },
+  {
+    "slug": "reumatologia",
+    "titulo": "Reumatología",
+    "totalPreguntas": 200,
+    "conImagen": 1
   },
   {
     "slug": "traumato",

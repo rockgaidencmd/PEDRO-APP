@@ -289,6 +289,40 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p27: parte del comentario de la pregunta sobre la miopía ('– 6D, es decir, en la miopía denominada magna o degenerativa') se rasterizó con una fuente monoespaciada distinta al resto del párrafo
 - p36: el comentario escribe 'bloqueantes alfa-l adrenérgicos' con letra ele en lugar del número 1 (aparece dos veces)
 
+## Oncología
+
+- p11: en 'Varón de 76 años, fumador, con diagnóstico de carcinoma escamoso de pulmón...' el calcio aparece rasterizado como 'Ca2+' con el 2 en subíndice (debería ser Ca2+ con el 2 como carga/superíndice); transcrito tal cual
+- p12: en 'Mujer de 65 años afecta de una neoplasia de la cabeza del páncreas...' (evaluación RECIST) el comentario no contiene explicación: solo dice 'Comentada en vídeo'
+- p12: en 'Señale cual de las siguientes no es una indicación de Radioterapia externa postoperatoria o adyuvante en las neoplasias de cabeza y cuello:' el comentario enumera las indicaciones como párrafos sueltos sin viñetas; se han linealizado uniéndolos con saltos de párrafo
+- p13: en 'Mujer de 45 años, sin antecedentes de interés, diagnosticada de un carcinoma ductal infiltrante de mama localizado (TNM cT2 N1)...' las unidades aparecen con el 3 en superíndice (mm3); transcritas en línea como 'mm3'
+- p18: en '¿Qué contraindicación es considerada absoluta en el tratamiento conservador del cáncer de mama...' el comentario está estructurado como listado (Absolutas / Relativas) y se ha linealizado uniendo los bloques con saltos de párrafo
+- p19-p20: en 'Cetuximab es un anticuerpo monoclonal anti-EGFR...' el comentario incluye un listado de efectos secundarios con guiones que se ha linealizado conservando los saltos de línea
+- p21: en 'A raíz de hematuria, un varón, exfumador, de 75 años...' el comentario no contiene explicación: solo dice 'Comentada en vídeo'
+- p21: la pregunta 'En relación a la pregunta anterior, ¿Cual sería el diagnóstico de sospecha en caso de objetivarse en la RM lesión bilateral?' remite a una pregunta previa inexistente: la pregunta inmediatamente anterior trata de marcadores tumorales (CA 125) en cáncer de ovario y no menciona ninguna RM ni lesión unilateral; el comentario habla de schwanoma bilateral y neurofibromatosis tipo 2
+- p27: el comentario remite a una tabla ('La OMS clasifica los grados según la siguiente tabla') que no se rasterizó; queda un hueco en blanco, por lo que no puede verificarse la equivalencia grado III = 500-999/mm3 que sostiene la clave
+- p27: el enunciado da 750 neutrófilos/mm3, valor que cae a la vez en el límite de la opción 1 (499-750) y en el de la opción 2 (750-999); la clave es la 3 (500-999)
+- p32: tras la última línea del comentario de la pregunta de carcinoma de cérvix ('La asociación de RTE incrementó la SLP y CL segun estudio de GOG092') hay un hueco en blanco donde no se rasterizó una imagen o tabla
+- p36 y p43: se repite literalmente el enunciado '¿Cuál de las siguientes relaciones entre marcador tumoral y tumor con el que se relaciona es falsa?' con opciones y clave distintas (p36 Resp. Correcta 2, CA 74.2 - Carcinoma pulmón; p43 Resp. Correcta 4, CA 15.3 - Carcinoma de pulmón)
+- p37: las opciones de 'Indique la asociación correcta entre factor y neoplasia' llevan el número repetido dentro del propio texto ('1- Consumo de dietilbestrol...'); se transcriben tal cual
+- p40: en el comentario del síndrome de lisis tumoral se etiqueta como '(respuesta 3 correcta)' el contenido de la opción 2 (prevención con suero salino y alcalinización de la orina); la clave de la pregunta es 4 y el propio comentario indica '(respuesta 4 incorrecta)'
+- p40: las opciones de la pregunta sobre efectos adversos de los opiáceos llevan el número repetido dentro del propio texto ('1. Estreñimiento'); se transcriben tal cual
+- p43: el enunciado de la pregunta de colitis por Pembrolizumab empieza con 'Varón de 55 años' y luego dice 'la paciente ingresa'; incoherencia de género en el original
+- p48: la explicación de 'Señale la localización más frecuente de las neoplasias de cavidad oral' es una tabla de distribución porcentual que en el PDF aparece como párrafos sueltos (labio 45%, lengua movil 16%, ...) y se ha linealizado uniendo cada línea con salto de párrafo; continúa en p49
+- p49: la pregunta del varón de 55 años fumador con adenocarcinoma de pulmón PDL-1 > 50% tratado con Pembrolizumab (colitis inmunomediada) está duplicada en el documento: aparece también antes, fuera de este rango (p43-44), con las mismas opciones y la misma clave
+- p56: 'Resp. Correcta: 3' en la pregunta sobre obstrucción intestinal por carcinomatosis peritoneal en fase terminal, pero el comentario dice literalmente 'nos podemos quedar con la respuesta 1, pero dan como correcta la 4'; la clave (3) no coincide con ninguna de las dos opciones que discute el comentario
+- p57: dos preguntas consecutivas con el enunciado IDÉNTICO (varón de 75 años con adenocarcinoma de próstata y metástasis óseas) pero con opciones distintas y claves distintas (la primera Resp. Correcta 3, la segunda Resp. Correcta 1); no es un error de transcripción, están así en el original
+- p62: el PSA se expresa en ng/dL ('PSA 30 ng/dL (previo de 5 ng/dL)') cuando la unidad habitual es ng/mL; además el comentario contiene un paréntesis de cierre huérfano en 'Testosterona < 50 ng/dL ) o < 1,7 nmol/L'
+- p67: en la bioquímica del enunciado el ácido úrico aparece como '951 mol/L'; falta el prefijo µ (µmol/L), que no se rasterizó
+- p70: las opciones de la pregunta de hipercalcemia llevan la numeración duplicada en el propio texto ('1. 1. Salino intravenoso...'); se transcribe tal cual
+- p73: la explicación de la pregunta sobre tumores curables arrastra los enlaces y los créditos editoriales de la American Cancer Society (Managing Director, Content / Eleni Berger / Amy Sherrod... / Elizabeth Mendes), que continúan en la p74; se incluyen dentro de 'explicacion'
+- p78: la pregunta 'Mujer de 60 años, postmenopáusica...' no tiene explicación escrita, solo 'Comentario: Comentada en vídeo'
+- p7: en 'Mujer de 70 años, afecta de un carcinoma seroso de alto grado de ovario...' el comentario no contiene explicación: solo dice 'Comentada en vídeo'
+- p84: la pregunta '¿Cuál de las siguientes relaciones entre biomarcador... es falso?' no tiene explicación escrita, solo 'Comentario: Comentada en vídeo'
+- p86: las opciones de la pregunta del síndrome de vena cava superior llevan la numeración duplicada en el propio texto ('1. 1. Quimioterapia + medidas de soporte vital'); se transcribe tal cual
+- p87: el comentario afirma que la pentazocina activa 'el receptor opioide γ'; el receptor de la pentazocina es el κ, el carácter parece mal rasterizado
+- p87: en el resumen del tratamiento del síndrome de vena cava superior las flechas están rasterizadas como 'à' (fuente Wingdings no convertida), p.ej. 'linfomas)à Quimioterapia'
+- p87: la pregunta 'Una mujer de 65 años, a raíz de una anemia ferropénica...' no tiene explicación escrita, solo 'Comentario: Comentada en vídeo'
+
 ## Otorrinolaringología
 
 - p18: en la pregunta sobre indicación de amigdalectomía el comentario numera las opciones 1.-, 2.- y 3.- y cierra con un párrafo sobre 'La mononucleosis infecciosa', enfermedad que no figura en ninguna de las 4 opciones (la opción 4 es 'Abscesos periamigdalinos de repetición'); el comentario parece arrastrado de otra pregunta
@@ -329,6 +363,42 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 - p50: en la pregunta del varón de 25 años el comentario descarta opciones desplazadas respecto al listado: '(la 5 descartada)' para los neurolépticos depot (que son la opción 4), '(4 descartada)' para el alprazolam (que es la opción 3) y '(2 descartada)' para la carbamacepina, que ni siquiera figura entre las opciones y coincide con el número de la clave (2, haloperidol)
 - p5: pregunta sobre el patrón de sueño en anoréxicas/bulímicas: 'Resp. Correcta: 2' pero el comentario dice '(opción 3 correcta)' y toda la numeración del comentario está desplazada una posición (llama 'opción 2' a la reducción de la latencia REM, que es la opción 1)
 - p8: pregunta sobre deshabituación del alcohólico: 'Resp. Correcta: 4' pero el comentario declara correctas las cuatro opciones ('La opción 4 también es correcta') describiendo en realidad el tiapride, que es la opción 3, y solo al final concluye que lo no admisible son los interdictores camuflados (opción 4); numeración del comentario desplazada
+
+## Reumatología
+
+- p15: en la pregunta sobre afectación cutánea del LES la clave es 'Resp. Correcta: 2', pero el comentario es incoherente: llama correctas a las respuestas 1, 2, 4 y a una inexistente 'respuesta 5', y cierra en p16 afirmando 'la respuesta incorrecta es la 3'
+- p25: en 'Señale la afirmación INCORRECTA sobre la amiloidosis' la clave es 'Resp. Correcta: 3' pero el comentario afirma 'La macroglosia aparece sobre todo en la amiloidosis primaria, por lo que la respuesta 4 es falsa'
+- p25: en ese mismo comentario aparece '(miocardiopatía restrictiva con arritmias, bloqueos,?)': hay un carácter que no se rasterizó tras 'bloqueos,'
+- p25: la pregunta de la mujer de 31 años con LES embarazada no tiene explicación escrita; el comentario solo dice 'El comentario de esta pregunta se realiza en vídeo.'
+- p27: el comentario de la mujer de 84 años habla de 'dolor a nivel lumbar (región de mayor carga)' cuando el enunciado describe dolor en la zona media de la columna vertebral torácica
+- p29: en 'En la EMTC, ¿cuál de las siguientes es la manifestación clínica MENOS frecuente?' la clave es 'Resp. Correcta: 3' pero el comentario cierra con 'La respuesta 4 es la correcta'
+- p33: la explicación de los criterios de clasificación 2010 de AR es una tabla de puntuaciones que se ha linealizado como lista de líneas separadas por saltos de línea
+- p34: la pregunta sobre artropatía psoriásica lleva la etiqueta 'Comentario:' sin ningún texto de explicación detrás
+- p38: la pregunta sobre panarteritis nodosa clásica lleva la etiqueta 'Comentario:' sin ningún texto de explicación detrás
+- p43: en el comentario del varón de 32 años con parótida aumentada aparece 'parálisis facial,? otros síntomas distintos': hay un carácter que no se rasterizó
+- p43: la pregunta sobre la actitud inicial ante monoartritis aguda de origen infeccioso lleva la etiqueta 'Comentario:' sin ningún texto de explicación detrás
+- p44: las cuatro opciones de 'Respecto a la artritis reumatoide, señale la opción falsa' están gravemente corrompidas en el original ('pudiéndose hacías', 'modelos subcutáneos', 'la modificación este articular', 'la tomé a patológica'), lo que las hace difícilmente interpretables
+- p49: en la pregunta de los cuatro fenotipos de enfermedad relacionada con IgG4, la clave es 'Resp. Correcta: 3' (opción 3 = 'Enfermedad limitada al tórax'), pero el comentario coloca el inciso '(opción 3 correcta)' justo detrás de 'enfermedad limitada a cabeza y cuello', que es uno de los fenotipos reales y NO es la opción 3 del enunciado
+- p51: 'Señale cuál de las siguientes asociaciones NO es correcta' tiene Resp. Correcta 4 y solo 4 opciones, pero el comentario (continúa en p52) cierra con '[respuesta 5 correcta]'
+- p53: en la pregunta del dolor lumbar del paciente de 80 años la clave es 2 (osteomielitis vertebral), pero el comentario numera las opciones desplazadas: descarta '- R2: Un nuevo episodio de sepsis...' (que sería la propia respuesta correcta) y habla de '- R4 y R5' cuando solo hay 4 opciones
+- p57: la pregunta 'Deberemos iniciar tratamiento con corticoides sistémicos a dosis altas en el caso de:' (opciones y clave en p58) tiene la etiqueta 'Comentario:' vacía, sin ninguna explicación
+- p59: 'Señale la FALSA:' tiene Resp. Correcta 2, pero el comentario afirma 'La respuesta 3 es evidentemente la correcta' al describir las erosiones óseas (que son la opción 2) y además comenta 'en la 5 que la dosis de alopurinol...' cuando solo hay 4 opciones; toda la numeración del comentario está desplazada una posición
+- p59: la pregunta '¿Qué test serológico es el más específico de la artritis reumatoide?' tiene la etiqueta 'Comentario:' vacía, sin ninguna explicación
+- p5: la pregunta del LES con dolor en rodilla remite a una imagen mediante '(IMAGEN)' en el enunciado, pero el bloque 'Comentario:' solo dice 'El comentario se realiza en vídeo.', sin explicación textual
+- p60: 'No es propia de la esclerosis sistémica cutánea difusa una de las siguientes características:' tiene la etiqueta 'Comentario:' vacía, sin ninguna explicación
+- p65: el enunciado 'El hueso, eso es respecto rígido, es un tejido dinámico, entonces la actividad para el remodelado óseo. Respecto remodelado óseo ¿cuál de las siguientes afirmaciones es falsa?' está gramaticalmente incompleto/incoherente en el original; se transcribe tal cual
+- p69: la pregunta 'Si tuviéramos que clasificar la arteritis de la temporal' tiene la etiqueta 'Comentario:' pero el comentario está vacío
+- p71: la pregunta 'Acude a Urgencias un varón de 56 años... dolor e inflamación de la rodilla derecha' tiene la etiqueta 'Comentario:' pero el comentario está vacío
+- p77: la pregunta 'Una mujer de 46 años consulta por presentar desde hace años dolor y tumefacción...' tiene la etiqueta 'Comentario:' pero el comentario está vacío
+- p80: en la explicación aparece 'limitaci##on de la movilidad'; los caracteres '##' son un artefacto de la digitalización (debería leerse 'limitación')
+- p81: la pregunta 'Señale la respuesta correcta en la polimiositis por cuerpos de inclusión' tiene la etiqueta 'Comentario:' pero el comentario está vacío
+- p83: Resp. Correcta 4 y solo hay 4 opciones, pero el comentario cita 'la ATROFIA DE LA MUSCULAR (respuesta 5 verdadera)', una quinta opción inexistente
+- p84: en la explicación de la amiloidosis aparece 'bloqueos de conducción,?' con un signo espurio donde el texto queda truncado
+- p85: la pregunta '¿Cuál de los siguientes anticuerpos no se relacionan con el síndrome antifosfolípido?' tiene la etiqueta 'Comentario:' pero el comentario está vacío
+- p86: la pregunta 'Un varón de 80 años, diabético...' no lleva enlace 'Imagen' ni menciona imagen en el enunciado, pero su comentario empieza con 'Es la foto típica de la hiperostosis anquilosante vertebral difusa'; además el comentario describe la Mastocitosis, que no figura entre las opciones
+- p86: la pregunta 'Varón de 30 años que consulta por artritis de rodilla derecha...' no tiene explicación escrita; el comentario solo dice 'Esta pregunta tiene comentario en vídeo'
+- p9: la pregunta de la paciente de 36 años con Raynaud y esclerodactilia tiene el bloque 'Comentario:' vacío, sin explicación alguna
+- p9: la pregunta sobre las características clínicas de la artritis reumatoide tiene 4 opciones, pero el comentario (p10) analiza además una 'R5' inexistente
 
 ## Traumatología
 
@@ -379,6 +449,18 @@ Detectadas al leer las páginas. No son erratas ortográficas (esas se transcrib
 El original trae la etiqueta "Comentario:" sin texto debajo. Se pueden responder, pero no dan retroalimentación.
 
 - Bioética #53 (p26)
+- Reumatología #13 (p9)
+- Reumatología #69 (p34)
+- Reumatología #79 (p38)
+- Reumatología #91 (p43)
+- Reumatología #125 (p57)
+- Reumatología #129 (p59)
+- Reumatología #132 (p60)
+- Reumatología #155 (p69)
+- Reumatología #159 (p71)
+- Reumatología #174 (p77)
+- Reumatología #182 (p81)
+- Reumatología #191 (p85)
 - Urología #4 (p5)
 - Urología #6 (p6)
 - Urología #9 (p7)
